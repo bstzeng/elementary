@@ -1,0 +1,204 @@
+{
+  "id": "g1s2-mathematics-04",
+  "course": "數學",
+  "title": "20以內基本加法",
+  "subtitle": "把10當作停靠站，找到自己的可靠加法。",
+  "duration": "建議2–3節，每節35–40分鐘；可分成較短的操作活動。",
+  "materials": [
+    "兩張十格板、20張安全大紙片",
+    "可區分的藍色與橘色大紙片",
+    "0–20數字帶和數字卡"
+  ],
+  "goals": [
+    "能以操作計算和不超過20的基本加法",
+    "能從較大的數接著數並正確記新增次數",
+    "能把另一群拆出需要的部分先湊10",
+    "能用另一種表示檢查加法與等號兩邊相等"
+  ],
+  "intro": "原來的數量加上新來的數量，全部可能超過10。用兩張十格板看清楚怎麼合起來，慢慢把方法練熟，不用一開始就搶快。",
+  "sections": [
+    {
+      "id": "g1s2-mathematics-04-s01",
+      "title": "先弄清兩群和全部",
+      "childText": "加在一起，要把兩群都算進來。",
+      "html": "<p>盒裡原有8張卡，朋友又放進5張。8是原來的卡數，5是新放進的卡數，問的是全部。先排8片與5片，合到一起點數得到13，記作8＋5＝13，讀「八加五等於十三」。</p><p>等號表示左邊8加5的數量，和右邊13一樣多。不是看見加號就隨便把答案寫大，也不是把8和5並排寫成85。每個數字都要能回到故事找到對應的一群。</p><div class=\"example\"><p>今天的基本加法以兩個0–10的數相加、結果不超過20為主。先有操作再熟練，不教多位數直式，也不出「不知道原有幾張」的題。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-04-s02",
+      "title": "接著數：起點不算新的一次",
+      "childText": "記住8，再數5次。",
+      "html": "<figure><svg viewBox=\"0 0 360 144\" role=\"img\" aria-labelledby=\"g1s2-mathematics-04-eightfive\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-04-eightfive\">每板10格，一格一點；各板依序有8、5個，全部13個。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">8個</text><rect x=\"15\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"135\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">5個</text><rect x=\"193\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"223\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"253\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"283\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"313\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"193\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"223\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"253\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"283\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>每板10格，一格一點；各板依序有8、5個，全部13個。</figcaption></figure><p>先知道藍片8個，指著它說「起點8」。每移一個橘片才報一個新數：9、10、11、12、13，一共移5次。最後停13，就是8＋5的結果。</p><p>不要把8也算成新移的一次；若說8、9、10、11、12，雖念了五個數，實際只前進四次。可以一片一片移動，讓手的次數和口說的新數對上。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-04-s03",
+      "title": "先湊10：把5拆成2和3",
+      "childText": "需要2片補滿，剩下3片沒有不見。",
+      "html": "<figure><svg viewBox=\"0 0 360 144\" role=\"img\" aria-labelledby=\"g1s2-mathematics-04-tenplus\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-04-tenplus\">原來8個藍點與新增5個橘點共13個。移2個橘點湊10後，第一板8藍2橘，第二板剩3橘；只移位置，顏色與總量不變。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"85\" r=\"10\" fill=\"#b85a16\"/><rect x=\"135\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"85\" r=\"10\" fill=\"#b85a16\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">3個</text><rect x=\"193\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"223\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"253\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"55\" r=\"10\" fill=\"#b85a16\"/><rect x=\"283\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"193\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"223\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"253\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"283\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>原來8個藍點與新增5個橘點共13個。移2個橘點湊10後，第一板8藍2橘，第二板剩3橘；只移位置，顏色與總量不變。</figcaption></figure><ol><li>看8片的板，還有2格空著。</li><li>從5片中移2片到第一板，8和2湊成10。</li><li>原本5片還剩3片，10再加3就是13。</li></ol><p>整個過程只移位置，不添加也不拿走，所以仍在計算原來的8＋5。可以說「5分成2和3；先10，再13」，不必把很多步驟擠成一條長算式。</p><div class=\"example\"><p>換成9＋6：9還缺1到10，6拆成1和5；先湊10，再和剩下5合成15。每次要補的片數，要看原來那張板，不是永遠補2。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-04-s04",
+      "title": "相同兩群，也可以先看大的",
+      "childText": "6和9合起，與9和6一樣多。",
+      "html": "<p>把6片與9片合起，不管先指哪一群，所有片都仍在。計算6＋9時，可以先記較大的9，再數6次到15；也可以把6裡的1片移給9，湊10後還有5。</p><p>所以6＋9＝15，9＋6也等於15。這是合併兩群的觀察，不需要背規則名稱。重要的是換順序只換了觀看或記錄的順序，沒有改任何一群的片數。</p><div class=\"example\"><p>7＋7：先知道兩群各7；可從7接數7次到14，也可移3片湊成10，另一群剩4，全部14。只挑自己能解釋的一種方法，熟練後再比較。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-04-s05",
+      "title": "10、0與20這幾個停靠站",
+      "childText": "加0沒有新增，兩個10剛好20。",
+      "html": "<p>10＋4不用重新從1數：一張滿板10片再4片，就是14。10＋10是兩張滿板，共20。若9＋0，新來的群沒有紙片，原來9片都在，所以結果9。</p><div class=\"example\"><p>先猜範圍再算：8＋7，兩群都不到10，結果不會超過20；先湊10，7拆成2和5，得到15。若有人寫85，就能看出與兩小群實物完全不合。</p></div><p>範圍判斷能抓出很大的錯誤，但不能代替算出確切答案。8＋7在20以內，不代表14、15、16都對；還要逐片或用湊10驗證。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-04-s06",
+      "title": "實作：合作裝卡袋",
+      "childText": "把分法說給伙伴聽。",
+      "html": "<p>遊戲卡袋只裝大紙片，不用真食品或細小物。第一位擺7片，第二位擺6片。孩子算全部13片，選13卡，再向伙伴解釋「從6片拿3片給7，湊10，還有3片」。</p><ol><li>伙伴先用原來兩群重新點數，確認答案。</li><li>換成8片與8片，選接著數或湊10；結果16片。</li><li>再用10片與3片，說明為何看到滿板就能從10開始。</li></ol><p>每次完成一題就重新整理，避免上一題的片混進下一題。記錄可以是一張圖或口頭說法，再由成人代寫算式。答案對但解釋不清楚時，請再示範一次，不急著增加題數。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-04-s07",
+      "title": "錯誤偵探：分出去的片要追蹤",
+      "childText": "原來那一群，移走後剩幾片？",
+      "html": "<p>小熊算8＋5，移2片湊10後，仍把原來的5片全加上，答15。那2片被重數了。請把移走的2片指在滿板裡，再指第二群剩3片，只有10與3，共13。</p><p>小鳥把6＋0算成0，也可請他把6片留在桌上，再放進零片看看。沒有新增，不是把原有的拿走，答案仍6。</p><div class=\"example\"><p>出口：算9＋7。可先湊10，剩6，所以16；再用從9接數7次的方法核對。說出至少一個數字代表哪一群，才算把故事、操作和算式連在一起。</p></div>"
+    }
+  ],
+  "teachingHtml": "<h3>起點與教學範圍</h3><p>以N-1-2、N-1-3、R-1-1與R-1-2為依據，承接10以內加法，擴展兩個0–10的數相加且和不超過20，重點是跨10的數量結構。課前用6＋3觀察能否合併、接著數並理解等號。基本加法的熟練建立在操作與多次短練，不要求一開始計時，也不把未知加數空格題或直式提前放入。</p><h3>第一節：接著數和湊十</h3><p>約5分鐘故事配量；10分鐘用8片與5片合併；10分鐘固定起點8、逐片移動5次；10分鐘比較8的兩個空格與5片可拆出的2片；5分鐘用原來兩群重新點數驗證。成人引導語可用「這片原先在哪裡？現在還有沒有算過？」讓每一片都有可追蹤的位置，避免只讓孩子背湊十口訣。</p><h3>第二節：方法比較與邊界</h3><p>用9＋6和7＋7讓孩子自選方法，分享時只要求一種方法說得完整。以合併兩群實物說明交換觀看順序不改總量，不必出現交換律名稱。加入10＋4、10＋10及加0，分辨滿十結構與沒有新增的情形。若孩子自然用熟悉的雙數結果檢查可以接受，但不以新口訣增加記憶負擔。</p><h3>活動與錯誤修復</h3><p>裝卡袋活動強調伙伴能重建原來兩群。接數把起點算一次時，先把起點卡固定，用新增片每次只移一個；湊十後重加完整的第二群時，實際把已移片留在第一板，指剩下片數；把加0答0時，演示桌上原有片沒有被移走。不要只擦掉答案換正確數，要找到錯誤發生在哪個動作或數量對應。</p><h3>差異化及評量</h3><p>支持組先練9加1–3，讓補1到10的結構清楚，再到8加數；熟練組用兩種方法算同一題並檢查，不擴大成兩位數直式或未知加數。可用大紙片、口答、指板或成人代寫；不使用能入口的小物。出口分別給8＋6與9＋7，記錄故事配量、補十所需數、剩餘量與答案驗證四項。若只會背結果，改換材料讓其操作；若操作正確但口說慢，保留其理解成績，不以速度否定。</p>",
+  "exercises": [
+    {
+      "id": "g1s2-mathematics-04-q01",
+      "question": "8＋5等於多少？",
+      "options": [
+        "12",
+        "13",
+        "15"
+      ],
+      "answer": 1,
+      "hint": "把5拆2和3，先湊10。",
+      "explanation": "8和2湊成10，5還剩3，所以全部13。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q02",
+      "question": "從9接著數3次，最後停在哪裡？",
+      "options": [
+        "13",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "hint": "9先站好，再說三個新數。",
+      "explanation": "接著數10、11、12，共三次，因此9＋3＝12。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q03",
+      "question": "算9＋6，先從6片中拿幾片給9，能湊10？",
+      "options": [
+        "1片",
+        "2片",
+        "6片"
+      ],
+      "answer": 0,
+      "hint": "9所在十格板只空幾格？",
+      "explanation": "9只缺1片成10，6拿出1片後剩5，全部15。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q04",
+      "question": "7＋7的結果是？",
+      "options": [
+        "13",
+        "17",
+        "14"
+      ],
+      "answer": 2,
+      "hint": "可把第二群拆3和4。",
+      "explanation": "7和3湊10，還有4，合起14。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q05",
+      "question": "10＋10等於？",
+      "options": [
+        "10",
+        "20",
+        "100"
+      ],
+      "answer": 1,
+      "hint": "兩張滿板，每張10片。",
+      "explanation": "第一板10片與第二板10片合起來20片。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q06",
+      "question": "6＋0等於？",
+      "options": [
+        "6",
+        "0",
+        "10"
+      ],
+      "answer": 0,
+      "hint": "沒有新增，原來6片還在。",
+      "explanation": "加0表示沒有增加紙片，數量仍然是6。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q07",
+      "question": "8＋7先湊10後，第二群還剩幾片？",
+      "options": [
+        "5片",
+        "7片",
+        "2片"
+      ],
+      "answer": 0,
+      "hint": "7片裡拿了2片去補8。",
+      "explanation": "8需2片湊10，原來7片剩5片，因此總數15。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q08",
+      "question": "6＋9和9＋6的結果如何？",
+      "options": [
+        "後者較大",
+        "都等於15",
+        "前者較大"
+      ],
+      "answer": 1,
+      "hint": "兩群紙片沒有改變。",
+      "explanation": "合併同樣的6片與9片，只改順序仍共有15片。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q09",
+      "question": "8＋8等於？",
+      "options": [
+        "15",
+        "18",
+        "16"
+      ],
+      "answer": 2,
+      "hint": "補2成10，另一群還剩6。",
+      "explanation": "8和2成10，原來另一群剩6，所以全部16。"
+    },
+    {
+      "id": "g1s2-mathematics-04-q10",
+      "question": "算8＋5，湊10後又加原來整群5，為何錯？",
+      "options": [
+        "第一群應全部丟掉",
+        "移去湊10的2片被重數",
+        "加法不能移紙片"
+      ],
+      "answer": 1,
+      "hint": "看每片是否只被數一次。",
+      "explanation": "那2片已在10裡，第二群只剩3，再加5會多數2片。"
+    }
+  ],
+  "selfCheck": [
+    "我能算出20以內的基本加法。",
+    "我接著數時不把起點當新增。",
+    "我湊10後會數清剩下的片。",
+    "我能用另一種方式檢查答案。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱列一年級全年範圍；本課的學期位置、節數、情境、活動及題目是原創編排，不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：一年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁19–20的N-1-2、N-1-3、R-1-1及R-1-2：基本加法、算式意義與合併兩群的順序。依本課先備能力逐步操作，不延伸至二年級的正式未知數題型、直式、標準長度單位或曆法結構教學。"
+    }
+  ]
+}

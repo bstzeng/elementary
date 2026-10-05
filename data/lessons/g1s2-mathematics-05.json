@@ -1,0 +1,204 @@
+{
+  "id": "g1s2-mathematics-05",
+  "course": "數學",
+  "title": "20以內基本減法",
+  "subtitle": "用十格板看見拿走、剩下，也比較兩群相差多少。",
+  "duration": "建議2–3節，每節35–40分鐘；可分成較短的操作活動。",
+  "materials": [
+    "20張安全大紙片與兩張十格板",
+    "標示留下、拿走的兩張大墊子",
+    "0–20數字帶及粗筆"
+  ],
+  "goals": [
+    "能操作並計算20以內的基本減法",
+    "能從原量往回數且不把起點當已減一次",
+    "能分段拿走並跨過10，追蹤還要拿走的量",
+    "能區分剩餘量與兩群相差量並用操作核對"
+  ],
+  "intro": "15片裡拿走7片，要從哪裡開始？先確定原來有多少，再讓每次拿走留下清楚的痕跡。減法可以有不同做法，最後都要對上故事。",
+  "sections": [
+    {
+      "id": "g1s2-mathematics-05-s01",
+      "title": "原來、拿走、剩下",
+      "childText": "15片在開始時都要算進來。",
+      "html": "<p>桌上15張卡，收走7張，問還剩幾張。先排15片，把7片移到「拿走」墊，其餘留在「留下」墊。點留下的8片，記15－7＝8。15說開始的全部，7說移走的量，8說最後剩下的量。</p><p>把拿走與留下分開，不是讓拿走的卡真的不見，而是避免一邊拿走一邊又把它數回來。問剩幾張時，只數留下區；若問收走幾張，答案才是7。</p><div class=\"example\"><p>等號兩邊表示一樣的結果：15片拿掉7片的數量，和8片一樣多。不能因為故事有三個數，就把所有數字全部相加。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-05-s02",
+      "title": "往回數：一次確實拿走1片",
+      "childText": "先站在15，再退一步。",
+      "html": "<figure><svg viewBox=\"0 0 360 144\" role=\"img\" aria-labelledby=\"g1s2-mathematics-05-fifteen\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-05-fifteen\">每板10格，一格一點；各板依序有10、5個，全部15個。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">5個</text><rect x=\"193\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"193\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"223\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"253\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"283\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>每板10格，一格一點；各板依序有10、5個，全部15個。</figcaption></figure><p>例如15－3。先排好15片，說「開始15」。拿走第1片，剩14；第2片，剩13；第3片，剩12。口說14、13、12，共退三次，答案12。</p><p>如果把起點15也當第一次，念15、14、13就停，實際只拿走兩次。數字帶可以幫忙：手指先停15，移動後才說14，不能還沒移動就算走一步。</p><p>拿走的片較多時，回數容易忘記次數。可把移走的片排成一列檢查，或改用下面分段拿走的方法；不要求所有人都在心裡默數。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-05-s03",
+      "title": "15減7：先拿5，再拿2",
+      "childText": "拿走的兩部分合起來要是7。",
+      "html": "<p>15片是滿板10片與板外5片。要拿7片，可以先從板外拿5片，現在剩10；原來要拿7，已拿5，還要拿2，便從滿板再拿2，最後剩8。</p><div class=\"example\"><p>分開記：先15－5＝10，再10－2＝8。這是在解釋同一題15－7的操作策略，不是兩個不同的故事，也不是要求學新的兩步驟題型。</p></div><p>重要檢查：拿走墊上5片與2片合起7片，留下墊上8片，兩區加起仍是原來15片。若只拿掉板外5片就答10，還沒完成拿走7片的要求。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-05-s04",
+      "title": "另一種拆法：從滿十裡拿",
+      "childText": "看得清楚，才是好方法。",
+      "html": "<figure><svg viewBox=\"0 0 360 144\" role=\"img\" aria-labelledby=\"g1s2-mathematics-05-thirteen\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-05-thirteen\">每板10格，一格一點；各板依序有10、3個，全部13個。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">3個</text><rect x=\"193\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"193\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"223\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"253\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"283\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>每板10格，一格一點；各板依序有10、3個，全部13個。</figcaption></figure><p>計算13－8，可以保留板外3片，從滿板10片中拿走8片，滿板裡剩2片。這2片和板外3片合起5片，所以13－8＝5。</p><p>也可以先拿板外3片，剩10，還要拿5片，最後5。兩種方法拿走的總量都是8，留下的總量都是5。不同方法要完整追蹤，不能把兩種方法的某一步混在一起多拿一次。</p><div class=\"example\"><p>初學時只選一種方法說清楚即可。伙伴用另一種方法得到相同結果，是檢查機會，不表示自己的做法一定錯了。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-05-s05",
+      "title": "比較：沒有拿走，也能用減法",
+      "childText": "先配對，剩下沒配到的就是差。",
+      "html": "<p>小晴有12張卡，小安有7張卡，問小晴比小安多幾張。把兩排卡左端對齊，一張配一張；小安的7張都配到後，小晴還有5張沒配到。這5張是多出的部分，記12－7＝5。</p><p>兩人都沒有真的丟掉卡，12和7仍各自保有。減法在這裡用來找相差量。不能答「小晴有12張」就說做完，因為題目問的是比小安多的部分，不是小晴所有卡。</p><div class=\"example\"><p>另看10－0＝10：沒有拿走任何片，仍有10片；10－10＝0：全部拿走，留下區空了。兩個0出現在不同位置，故事不一樣。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-05-s06",
+      "title": "實作：借卡站與核對",
+      "childText": "先說要拿幾張，再動手。",
+      "html": "<p>成人準備14片，孩子說要借走6片。孩子選擇先拿4片到10，再拿2片，或從滿板拿6片再合回板外4片。無論哪種，最後留下8片、借出6片。</p><ol><li>伙伴分別點拿走區和留下區，不只看算式。</li><li>把兩區放回一起，確認又有14片。</li><li>改成16片借走9片，算出剩7片，再做同樣檢查。</li></ol><p>遊戲只用大紙片，不是真的借物登記。讀寫困難時，成人讀情境與代寫，孩子用指點和操作說明；如果桌面擁擠，可每次只放本題需要的片。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-05-s07",
+      "title": "錯誤偵探與出口",
+      "childText": "多減、少減，都能從教具找到。",
+      "html": "<p>小鹿算14－6，先拿4到10，卻又拿6，答4。他一共拿了10片，比要求6片多。先指已拿4片，再說還要拿2片；留下8片才符合原來要求。</p><p>另一位朋友算12－7答7，因為他點的是拿走區。把題目「還剩」圈起來，指留下區5片，重新連結算式每個數。先找量的角色，比一口氣多做十題更有幫助。</p><div class=\"example\"><p>出口：17－9。可先拿7剩10，再拿2剩8；拿走總數9，留下8，合回17。接著口說12比8多4，說明4指的是沒有配到的部分。</p></div>"
+    }
+  ],
+  "teachingHtml": "<h3>先備與範圍</h3><p>依N-1-2、N-1-3與R-1-1安排20以內基本減法，承接10以內拿走與比較，新增跨10的數量追蹤。課前用9－4觀察能否擺出原量、移走指定量並指對剩餘。以已知原量、已知拿走量求結果，或兩個已知量求差，不出未知被減數、未知減數或空格方程式。分段拿走屬操作策略，不升格為正式兩步驟應用題。</p><h3>第一節：回數與跨十</h3><p>先用15－3把起點與移動次數分開，再用15－7示範先拿5到10、再拿2。每一步都保留拿走區，不讓片散到地上或混回剩餘。成人問「已經拿走幾片？原本要拿幾片？還要拿幾片？」問題配合眼前實物，不要求只憑心算回答。最後將兩區合回，核對原量，形成可重複使用的檢查習慣。</p><h3>第二節：不同策略和比較</h3><p>用13－8演示從滿十拿8後與零星3合起，讓孩子與先到10的方法比較。不同策略不需同時熟練，先能解釋一種，再用另一種驗證。比較型以兩排紙片一一配對開始，強調相差5和全部12不同；不實際搬走對方所有卡來混淆情境。安排減0與減去全部，讓0和原量的角色保持清楚。</p><h3>活動與常見錯誤</h3><p>借卡站請孩子先說再做，伙伴負責核對拿走區。若14－6先拿4後又拿6，分別圍住兩次拿走的片，讓孩子發現累積超過6；回數錯一次，則固定起點卡，等手移動才讀新數；點錯區域時，回讀「剩下」與「拿走」，不用只重算。錯誤修復後換一道結構相同、數字不同的題，確認理解可轉移。</p><h3>差異化與評量</h3><p>支持組先做11－2、12－3，拿走墊提供分格，大人可協助移片但不代答；熟練組選策略並說明為何有效，不擴展直式退位。材料用安全大紙片，允許口答、指認、畫記錄與成人代寫。出口用16－8和13比9多多少，分別記錄原量配對、拿走次數、跨十剩餘與比較差量。若算得對但不能指剩下區，仍需補情境；若操作穩定但背答慢，繼續短練而非催快。</p>",
+  "exercises": [
+    {
+      "id": "g1s2-mathematics-05-q01",
+      "question": "15－7等於？",
+      "options": [
+        "10",
+        "8",
+        "7"
+      ],
+      "answer": 1,
+      "hint": "先拿5到10，再拿2。",
+      "explanation": "15拿走5剩10，再拿2剩8，合計拿走7。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q02",
+      "question": "15往回數3次，最後停在哪裡？",
+      "options": [
+        "12",
+        "13",
+        "11"
+      ],
+      "answer": 0,
+      "hint": "起點15不算退了一步。",
+      "explanation": "依序退到14、13、12，三次後剩12。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q03",
+      "question": "14－6先拿走4片，接著還要拿幾片？",
+      "options": [
+        "6片",
+        "4片",
+        "2片"
+      ],
+      "answer": 2,
+      "hint": "總共要拿6，已經拿4。",
+      "explanation": "拿走4片後還差2片才滿6，不能再拿整群6片。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q04",
+      "question": "13－8從滿十拿走8，剩2片和板外3片，結果是？",
+      "options": [
+        "3",
+        "2",
+        "5"
+      ],
+      "answer": 2,
+      "hint": "兩處留下的片都要算。",
+      "explanation": "滿板剩2，板外還有3，留下總量是5。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q05",
+      "question": "12張卡比7張卡多幾張？",
+      "options": [
+        "5張",
+        "12張",
+        "7張"
+      ],
+      "answer": 0,
+      "hint": "先讓7張一一配對。",
+      "explanation": "12張中有7張配到，剩下5張是多出的部分。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q06",
+      "question": "10－0等於？",
+      "options": [
+        "0",
+        "10",
+        "1"
+      ],
+      "answer": 1,
+      "hint": "沒有拿走任何一片。",
+      "explanation": "減0表示原來10片全部留下，結果仍是10。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q07",
+      "question": "10－10等於？",
+      "options": [
+        "0",
+        "20",
+        "10"
+      ],
+      "answer": 0,
+      "hint": "把全部10片移到拿走區。",
+      "explanation": "原來10片都拿走，留下區沒有片，所以剩0。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q08",
+      "question": "16片借出9片，還剩多少？",
+      "options": [
+        "9片",
+        "6片",
+        "7片"
+      ],
+      "answer": 2,
+      "hint": "先拿6到10，再拿3。",
+      "explanation": "16先拿6剩10，再拿3剩7，共拿走9片。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q09",
+      "question": "17－9的結果是？",
+      "options": [
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "hint": "把9分成7和2來拿。",
+      "explanation": "17拿走7剩10，再拿2剩8，所以答案8。"
+    },
+    {
+      "id": "g1s2-mathematics-05-q10",
+      "question": "檢查14－6＝8，哪個方法能核對？",
+      "options": [
+        "把拿走6片和留下8片合回14片",
+        "把拿走的片藏起來",
+        "只重讀答案8"
+      ],
+      "answer": 0,
+      "hint": "回頭看原來的整批。",
+      "explanation": "拿走區6片加留下區8片回到原來14片，可核對兩區沒有漏片。"
+    }
+  ],
+  "selfCheck": [
+    "我能指出原來、拿走和剩下的量。",
+    "我跨過10時知道還要拿幾片。",
+    "我能用配對找兩群相差多少。",
+    "我能把兩部分合回檢查。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱列一年級全年範圍；本課的學期位置、節數、情境、活動及題目是原創編排，不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：一年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁19–20的N-1-2、N-1-3及R-1-1：拿走、比較、基本減法與算式理解。依本課先備能力逐步操作，不延伸至二年級的正式未知數題型、直式、標準長度單位或曆法結構教學。"
+    }
+  ]
+}
