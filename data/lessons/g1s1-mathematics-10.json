@@ -1,0 +1,206 @@
+{
+  "id": "g1s1-mathematics-10",
+  "course": "數學",
+  "title": "10以內的減法",
+  "subtitle": "用拿走、往回數和分合關係，檢查10以內的減法。",
+  "duration": "建議2節，每節35–40分鐘；家庭可分成每次10–15分鐘。",
+  "materials": [
+    "10個安全大積木",
+    "0–10數字帶",
+    "原有區與拿走區底紙",
+    "十格板",
+    "數字與符號卡"
+  ],
+  "goals": [
+    "能以操作求10以內的減法結果",
+    "能把減去的數量與往回的步數對應",
+    "能以部分與全部關係檢查減法",
+    "能辨認減0與全部拿走的結果"
+  ],
+  "intro": "今天練習把減法算得穩。桌上最多10個物品，可以實際拿走，也可以在數字帶往回走，每一步都有數量的意思。",
+  "sections": [
+    {
+      "id": "g1s1-mathematics-10-s01",
+      "title": "拿走後數剩下",
+      "childText": "8個拿走3個，只數留下的。",
+      "html": "<p>先排8個積木，移走3個到另一張底紙。剩下的逐一數1、2、3、4、5，得到8－3＝5。</p><ol><li>先數原有8個。</li><li>每次只移1個，共移3次。</li><li>數剩下5個，再把拿走與剩下合回確認原有8個。</li></ol><details><summary>給大人的觀察與引導</summary><p>不必一開始就背減法表。拿走與合回讓孩子看見三個量的關係。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-10-s02",
+      "title": "往回數：原來8不算一步",
+      "childText": "8站好，退三步讀7、6、5。",
+      "html": "<figure><svg viewBox=\"0 0 360 185\" role=\"img\" aria-labelledby=\"g1s1-mathematics-10-back-three\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-10-back-three\">數字帶由3到9。從8站好，向左一步一格，共3步，停在5。</title><path d=\"M30 83H330\" stroke=\"#526476\" stroke-width=\"3\"/><path d=\"M30.0 76V90\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"30.0\" y=\"119\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">3</text><path d=\"M80.0 76V90\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"80.0\" y=\"119\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">4</text><path d=\"M130.0 76V90\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"130.0\" y=\"119\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">5</text><path d=\"M180.0 76V90\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"119\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">6</text><path d=\"M230.0 76V90\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"230.0\" y=\"119\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">7</text><path d=\"M280.0 76V90\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280.0\" y=\"119\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">8</text><path d=\"M330.0 76V90\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"330.0\" y=\"119\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">9</text><path d=\"M280.0 71Q255.0 13 230.0 71\" fill=\"none\" stroke=\"#ad582e\" stroke-width=\"3\"/><path d=\"M226.0 58L230.0 73L241.0 64\" fill=\"none\" stroke=\"#ad582e\" stroke-width=\"3\"/><path d=\"M230.0 71Q205.0 13 180.0 71\" fill=\"none\" stroke=\"#ad582e\" stroke-width=\"3\"/><path d=\"M176.0 58L180.0 73L191.0 64\" fill=\"none\" stroke=\"#ad582e\" stroke-width=\"3\"/><path d=\"M180.0 71Q155.0 13 130.0 71\" fill=\"none\" stroke=\"#ad582e\" stroke-width=\"3\"/><path d=\"M126.0 58L130.0 73L141.0 64\" fill=\"none\" stroke=\"#ad582e\" stroke-width=\"3\"/><text x=\"180\" y=\"161\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">8 往回走 3 格，到 5</text></svg><figcaption>數字帶由3到9。從8站好，向左一步一格，共3步，停在5。</figcaption></figure><p>數字帶上從8開始，退第一格到7，第二格到6，第三格到5，所以8－3＝5。若把8也說成第一步，只退到6，少退了一格。</p><details><summary>給大人的觀察與引導</summary><p>可以用一張大指示卡移動，不用孩子在地上倒退走，避免撞到他人。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-10-s03",
+      "title": "已知分合也能幫忙",
+      "childText": "7是5和2，拿走2還有5。",
+      "html": "<p>先擺5個藍片和2個橘片，合起7個。從7個裡拿走2個橘片，留下5個藍片，所以7－2＝5。若拿走5個藍片，留下2個橘片，所以7－5＝2。</p><div class=\"example\"><p>兩題的原來都是7，拿走的部分不同，留下的部分也不同。不能以為兩個減法只因都有7就答案相同。</p></div><details><summary>給大人的觀察與引導</summary><p>所有部分可見，這裡用熟悉分合支援結果未知減法，不要求求缺失的運算元。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-10-s04",
+      "title": "十格板上的10減幾",
+      "childText": "拿走4個，剩6個。",
+      "html": "<p>十格板放滿10個圓片，逐個拿走4個，剩下6個，所以10－4＝6。可先拿下排4個，看到上排5和下排1，共6。</p><div class=\"example\"><p>再做10－1＝9和10－10＝0。每題都重設原有10個，不把上一題的剩量當成下一題原量。</p></div><details><summary>給大人的觀察與引導</summary><p>逐題重設是重要檢查，否則連做時容易變成未要求的多步驟運算。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-10-s05",
+      "title": "0的兩種位置",
+      "childText": "減0不變，減全部歸0。",
+      "html": "<p>6－0＝6，因為6個都沒有移走。6－6＝0，因為全部6個都移走了。兩個算式的0意義不同：前者是拿走量，後者是剩下量。</p><div class=\"example\"><p>空盤的0－0＝0也成立。只做拿走數不大於原有數的情況，今天不往0左邊走。</p></div>"
+    },
+    {
+      "id": "g1s1-mathematics-10-s06",
+      "title": "動手：用另一條路驗算",
+      "childText": "拿走與留下，合回原來。",
+      "html": "<ol><li>算9－4，先實際拿走4個，得到剩5個。</li><li>把拿走的4個和剩下的5個合回，數到9。</li><li>再在數字帶9往回4步：8、7、6、5。</li><li>三個操作相符，記9－4＝5。</li></ol><p>如果結果不同，先找原有是否數對、移走次數是否正確、起點有沒有被當成一步。</p>"
+    },
+    {
+      "id": "g1s1-mathematics-10-s07",
+      "title": "生活出口與合理性",
+      "childText": "剩下不會比原來更多。",
+      "html": "<p>桌上9張圖卡收走2張，9－2＝7，剩7張。若算成11，先想收走後怎麼會變多，再重演。若拿走0，剩下可以跟原來一樣多；所以不能說每次減法都一定變少。</p><figure><svg viewBox=\"0 0 360 215\" role=\"img\" aria-labelledby=\"g1s1-mathematics-10-compare-nine-seven\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-10-compare-nine-seven\">兩排一一配對，上排9個、下排7個，上排多出2個沒有配到。</title><circle cx=\"25\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"61\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"97\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"133\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"169\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"205\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"241\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"277\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"313\" cy=\"50\" r=\"12\" fill=\"#246b9e\"/><circle cx=\"25\" cy=\"140\" r=\"12\" fill=\"#ad582e\"/><circle cx=\"61\" cy=\"140\" r=\"12\" fill=\"#ad582e\"/><circle cx=\"97\" cy=\"140\" r=\"12\" fill=\"#ad582e\"/><circle cx=\"133\" cy=\"140\" r=\"12\" fill=\"#ad582e\"/><circle cx=\"169\" cy=\"140\" r=\"12\" fill=\"#ad582e\"/><circle cx=\"205\" cy=\"140\" r=\"12\" fill=\"#ad582e\"/><circle cx=\"241\" cy=\"140\" r=\"12\" fill=\"#ad582e\"/><path d=\"M25 64V126\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M61 64V126\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M97 64V126\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M133 64V126\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M169 64V126\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M205 64V126\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M241 64V126\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180\" y=\"190\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">上排9個，下排7個</text></svg><figcaption>兩排一一配對，上排9個、下排7個，上排多出2個沒有配到。</figcaption></figure><p>另一個故事：甲9張、乙7張，配對後甲多2張，9－7＝2。看清楚本題是問剩下還是問多出的量。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與前測</h3><p>本課取N-1-3減法的入門段，被減的原有量不超過10，拿走量不大於原有量；不加入負數、未知運算元或正式多步驟解題。先觀察5拿走2能否正確分出拿走與留下，再決定使用實物多久。能背算式但手上拿錯數量，仍需把數詞、動作與答案連結，而不是增加口算作業量。</p><h3>第1節：實物與數字帶</h3><p>5分鐘前測；10分鐘8減3的拿走與合回；10分鐘把同一題轉到數字帶，逐步對照拿走一次和退一格；10分鐘用7的兩部分作7減2及7減5；5分鐘新題離堂。教師要把起點與第一步用不同手勢表示：先放卡不讀步數，移第一格才說一次，避免把原有數也算成扣除一步。</p><h3>第2節：十格與檢查</h3><p>5分鐘回顧；10分鐘10減4、10減1、10減10；8分鐘比對減0和全減；12分鐘9減4的三種表示及生活題；5分鐘離堂。每題開始都讓孩子說原有多少，重新擺好，不把連續練習誤作接續拿走。比較型只用兩群皆可見、求多出幾個的例，能點出差即可，不強求單一策略。</p><h3>診斷與回饋</h3><p>8減3得6常是起點被算一步，用3個移動記號對應7、6、5。8減3得3是報拿走量，需重新圈剩下。10減4得4時，查看是否只注意手上移出的4個。減0得0時，讓孩子示範沒有拿走；減後比原來大時，先用故事合理性辨識，再精查操作。修正後重做一題不同數值，確認不是記住教師剛說的答案。</p><h3>差異化與策略尊重</h3><p>支持組先做5以內並保留兩區大教具，允許每題全部點數；有工作記憶需求者把要拿走的數字卡留在眼前，每移1個做一個記號。熟練組比較拿走法和分合法何時方便，為正確答案提出檢查證據，不以更大數或速度排名作唯一挑戰。口說、指選、畫點、請成人代移都可以，只要決策與數量判斷仍由孩子完成。</p><h3>評量、安全與銜接</h3><p>記錄原量設置、扣除步數、剩量判讀、合理性檢查四項。至少抽一題減0、一題全減與一題一般減法，另看是否能把拿走與剩下合回。只看選項答對不能證實策略可靠，請孩子示範一次。桌面教具避免小零件，數字帶不用站立倒退。之後混合加減時，先回情境決定加入或拿走，不讓連續做減法的習慣取代對問題的理解。</p>",
+  "exercises": [
+    {
+      "id": "g1s1-mathematics-10-q01",
+      "question": "8－3＝？",
+      "options": [
+        "6",
+        "5",
+        "3"
+      ],
+      "answer": 1,
+      "hint": "從8往回三步。",
+      "explanation": "往回依序到7、6、5，因此8減3等於5。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q02",
+      "question": "從8往回3步，第一步到哪裡？",
+      "options": [
+        "8",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "hint": "原地8還沒有移動。",
+      "explanation": "退第一格會到7；起點8不算已退一步。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q03",
+      "question": "7是5和2合成的，7－5＝？",
+      "options": [
+        "5",
+        "7",
+        "2"
+      ],
+      "answer": 2,
+      "hint": "從全部7拿走5那一部分。",
+      "explanation": "拿走5個後，留下另一部分2個，所以答案2。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q04",
+      "question": "10－4＝？",
+      "options": [
+        "6",
+        "4",
+        "5"
+      ],
+      "answer": 0,
+      "hint": "滿十格拿走4格的圓片。",
+      "explanation": "原有10個，拿走4個後還有6個，可用5和1確認。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q05",
+      "question": "6－0＝？",
+      "options": [
+        "0",
+        "6",
+        "10"
+      ],
+      "answer": 1,
+      "hint": "這次沒有任何物品被拿走。",
+      "explanation": "原來6個都留在原位，所以減0的結果仍是6。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q06",
+      "question": "6－6＝？",
+      "options": [
+        "0",
+        "6",
+        "1"
+      ],
+      "answer": 0,
+      "hint": "原有的6個全部移出。",
+      "explanation": "全部拿走後沒有任何一個留下，結果就是0。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q07",
+      "question": "9－4＝5，要怎麼檢查？",
+      "options": [
+        "只看5寫得漂亮",
+        "把拿走的4再拿一次",
+        "把4個與剩5個合回，看是否9個"
+      ],
+      "answer": 2,
+      "hint": "原有分成哪兩部分？",
+      "explanation": "拿走4個加留下5個合回9個，符合原來數量。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q08",
+      "question": "9張收走2張，剩幾張？",
+      "options": [
+        "11張",
+        "7張",
+        "2張"
+      ],
+      "answer": 1,
+      "hint": "收走後數量不會變多。",
+      "explanation": "9張拿走2張，往回到8、7，剩7張。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q09",
+      "question": "甲9張、乙7張，甲多幾張？",
+      "options": [
+        "2張",
+        "7張",
+        "9張"
+      ],
+      "answer": 0,
+      "hint": "先配好7對。",
+      "explanation": "9張中有7張配到，另外2張沒配到，所以多2張。"
+    },
+    {
+      "id": "g1s1-mathematics-10-q10",
+      "question": "減法結果一定比原來少嗎？",
+      "options": [
+        "一定",
+        "不一定，減0時一樣多",
+        "一定變多"
+      ],
+      "answer": 1,
+      "hint": "想想沒有拿走的故事。",
+      "explanation": "減0代表沒有移出物品，結果與原量相同。"
+    }
+  ],
+  "selfCheck": [
+    "我知道減去幾就是拿走幾次。",
+    "往回數時，我分得清起點和第一步。",
+    "我會把兩部分合回檢查。",
+    "我知道減0與全部拿走不一樣。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱的年級內容為範圍參考；本頁活動、情境、例題與圖為原創，單元先後及建議節數不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件（國民中小學暨普通型高中）",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "已核對正式附件的一年級學習內容（印刷頁19–20）；依本課主題取適當的入門範圍，不要求一次完成全年內容。"
+    }
+  ]
+}

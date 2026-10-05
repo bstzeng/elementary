@@ -1,0 +1,206 @@
+{
+  "id": "g1s1-mathematics-05",
+  "course": "數學",
+  "title": "20、30以內的數與數序",
+  "subtitle": "十個整理成一組，再接著數到20、30。",
+  "duration": "建議2–3節，每節35–40分鐘；先到20，熟練後再到30。",
+  "materials": [
+    "30個安全大積木或大紙片",
+    "3張每張10格的框板",
+    "0–30數字卡或成人手寫卡",
+    "0–30數字帶",
+    "紙與粗筆"
+  ],
+  "goals": [
+    "能由物品、口說和數字連結11–30的數",
+    "能看出十個一組與剩下幾個",
+    "能從指定數往後數並找相鄰數",
+    "能在19到20、29到30處保持正確數序"
+  ],
+  "intro": "散在桌上的積木越來越多了。把每10個整理到一張板上，再看還有幾個，數起來會更有條理。",
+  "sections": [
+    {
+      "id": "g1s1-mathematics-05-s01",
+      "title": "先把10個整理好",
+      "childText": "十個一組，沒有變成只有一個。",
+      "html": "<ol><li>在十格板一格放一個大紙片，放滿10格。</li><li>把整板圈起來，說「這一組有10個」。</li><li>逐一點數再確認，不添也不拿走。</li></ol><p>一張滿板代表一組10個紙片，不是1個紙片。今天用整張板看「十」，用板外的單片看「個」。</p><details><summary>給大人的觀察與引導</summary><p>不用小棒橡皮筋捆綁，避免入口、彈射與細部操作負荷；大紙片及十格板即可。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-05-s02",
+      "title": "11到19：一個十，還有幾個",
+      "childText": "一組10個，再接著數。",
+      "html": "<figure><svg viewBox=\"0 0 360 157\" role=\"img\" aria-labelledby=\"g1s1-mathematics-05-thirteen\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-05-thirteen\">十格板每板10格，每格一點；依序放滿前面的板，圖中全部有13個圓點。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">3個</text><rect x=\"193\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"208\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"238\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"268\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"313\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"193\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"223\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"253\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"283\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"313\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><text x=\"180\" y=\"145\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">全部 13 個</text></svg><figcaption>十格板每板10格，每格一點；依序放滿前面的板，圖中全部有13個圓點。</figcaption></figure><p>滿板有10個，板外再放3個。指滿板說10，接著逐個說11、12、13，所以全部13個。13讀「十三」，表示1個十和3個一。</p><div class=\"example\"><p>17：1個十和7個一，全部17個。10：1個十，板外0個。11：1個十和1個一。</p></div><details><summary>給大人的觀察與引導</summary><p>孩子若說13是1加3等於4，拆回10個逐一數。數字1在這裡表示1個十，不是1個一。這是直觀位值起步，不進行直式計算。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-05-s03",
+      "title": "19後面是20",
+      "childText": "再一個，第二張也滿了。",
+      "html": "<p>第一張滿10個，第二張已有9個，全部19個。第二張再放1個變成滿板，兩張每張10個，全部20個。20讀「二十」，有2個十、0個一。</p><ol><li>一個一個數到20，再看兩張滿板。</li><li>重新由17接著說18、19、20。</li><li>用卡20配兩張滿板，不讀成「二零」。</li></ol><details><summary>給大人的觀察與引導</summary><p>跨十時不把19接成「十九十」。讓第20個實物出現並完成第二板，聽覺與視覺一起支援數序。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-05-s04",
+      "title": "21到30：再開一張板",
+      "childText": "兩個十，還有幾個。",
+      "html": "<figure><svg viewBox=\"0 0 360 282\" role=\"img\" aria-labelledby=\"g1s1-mathematics-05-twentyfour\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-05-twentyfour\">十格板每板10格，每格一點；依序放滿前面的板，圖中全部有24個圓點。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">10個</text><rect x=\"193\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"208\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"238\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"268\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"298\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"328\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"193\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"208\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"238\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"268\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"298\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"328\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><text x=\"90\" y=\"153\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">4個</text><rect x=\"15\" y=\"167\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"182\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"167\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"182\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"167\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"182\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"167\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"182\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"167\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"15\" y=\"197\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"45\" y=\"197\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"75\" y=\"197\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"105\" y=\"197\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"135\" y=\"197\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><text x=\"180\" y=\"270\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">全部 24 個</text></svg><figcaption>十格板每板10格，每格一點；依序放滿前面的板，圖中全部有24個圓點。</figcaption></figure><p>兩張滿板有20個，再放4個是24，讀「二十四」：2個十和4個一。20後依序是21、22、23、24、25、26、27、28、29、30。</p><div class=\"example\"><p>29是2個十和9個一；再放1個，第三張滿板完成，成為30，也就是3個十、0個一。</p></div><details><summary>給大人的觀察與引導</summary><p>先熟練到20，再延到30，兩部分可以分次教。不要因為課綱全年到100，就在本課跳到三位數。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-05-s05",
+      "title": "數字帶：往後、往前一格",
+      "childText": "每走一格，才說下一個數。",
+      "html": "<p>看數字帶18、19、20、21、22。從19向右走一格是20；20後面一個是21，前面一個是19。起點19先站好，不把原地也算成走了一格。</p><ol><li>成人指定14，孩子接著說15、16、17。</li><li>指28，向右依次找29、30。</li><li>指23，找前面一個22、後面一個24。</li></ol><details><summary>給大人的觀察與引導</summary><p>倒數可從小範圍開始，只作數序尋找，不介紹負數，也不要求跨出0–30範圍。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-05-s06",
+      "title": "實作：整理22個物品",
+      "childText": "整理前後，數量一樣。",
+      "html": "<p>先把22個大紙片散放並逐一數。每滿10個放入一張框板，得到2張滿板和2個單片。選卡22，說明「兩組10個，還有2個」。</p><ol><li>把單片換個位置，再查總量。</li><li>請伙伴把同一組22個重新分散，自己用框板重整。</li><li>可用兩個寫10的大框加2個圓點畫記錄；框內要標明各代表10。</li></ol><details><summary>給大人的觀察與引導</summary><p>不能畫兩個普通點就說代表20而未說明記號含義。圖像中的一組與單個需明確區分。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-05-s07",
+      "title": "錯誤偵探與出口",
+      "childText": "不只背順序，也要拿得出來。",
+      "html": "<p>小熊說「24就是2個加4個，共6個」。用兩張十格板各放滿，再放4個，示範24個。接著抽18、20、27三張之一，自己排出數量並說十和個。</p><div class=\"example\"><p>檢查三件事：十格板真的每張有10個；剩下的單片沒有重數；選的數字卡符合總量。</p></div><details><summary>給大人的觀察與引導</summary><p>如果口說數序正確但排不出指定量，回到實物數量連結，不以多背幾遍替代操作。</p></details>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與起點</h3><p>本課取N-1-1中數詞、數字、數量與十個一組的直觀位值經驗，聚焦11–20，再擴展到30。先確認能穩定點數10個、知道十格板一格放一個且滿板是10。尚不穩者先在10內整理，不能把不會拿指定數量誤認為只是不會背到30。全年的100以內不是這一課必須一次達成的範圍。</p><h3>第1節：從十到二十</h3><p>5分鐘數滿10；10分鐘用滿板加1–9個建立11–19；10分鐘比較13和17的十與個；10分鐘實際把19的第二板補滿到20；5分鐘讓孩子抽11–20的卡排量。成人要同時指實物和數字位置，說「這個1代表1個十」，避免只背十位個位的名稱。</p><h3>第2節：從二十到三十</h3><p>5分鐘複習20；10分鐘兩張滿板和零星單片的21–29；10分鐘演示29再一個成30；10分鐘數字帶的跨十和相鄰數；5分鐘抽卡排量。課堂可多留一節練習，家庭每次只做一組範圍。已會數到30但跨十出錯者，集中練18–22、28–30的短段，不必每次從1背起。</p><h3>第3次短練：整理與表達</h3><p>用15–20分鐘做22個紙片整理任務，要求整理前後不添加也不拿走，並說清楚每個大框代表10個。再讓伙伴重排同一數量，孩子回頭檢查。過程重點是群組結構與數量保持，不要求孩子立即心算十位相加，更不加入乘除法或直式進位。能說出20加2是22可以接受，但不把算式當唯一記錄。</p><h3>迷思與補救</h3><p>把24看成2和4共6時，用兩個滿板各10個逐一數；把20讀成二零時，連結口說二十與兩組十；把19後面說成110時，直接讓第二板的第10格完成並換卡20。若孩子把整板算成1個，明確區分1張板和板上10個紙片。若數字順序正確但指向物品過快，固定一格一片並慢下手指速度。</p><h3>差異化及評量</h3><p>支持組先做11–15並提供滿板，不要求自行整理全部；熟練組從任意數開始接數、提出易混淆例並解釋，不額外擴到100。成人可代寫數字，孩子以指認、口答或放物完成。教具使用安全大紙片，不用可入口小棒。評量分別記錄點數、十個分組、跨十順序、數字配量、相鄰數五項，至少用兩個不同的數驗證；某一項卡住就針對該項補救。</p>",
+  "exercises": [
+    {
+      "id": "g1s1-mathematics-05-q01",
+      "question": "1張滿十格板加3個單片，共有幾個？",
+      "options": [
+        "4",
+        "13",
+        "31"
+      ],
+      "answer": 1,
+      "hint": "滿板代表10，不是1個。",
+      "explanation": "10個接著數11、12、13，共13。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q02",
+      "question": "17表示？",
+      "options": [
+        "1個十和7個一",
+        "1個一和7個十",
+        "7個一"
+      ],
+      "answer": 0,
+      "hint": "十七裡的十是一組10個。",
+      "explanation": "17的1表示1個十，7表示7個一，合起來十七個。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q03",
+      "question": "19後面一個數是？",
+      "options": [
+        "18",
+        "20",
+        "29"
+      ],
+      "answer": 1,
+      "hint": "第二張板再一個就滿。",
+      "explanation": "19個再添1個，第二張十格板也滿了，全部成為20個。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q04",
+      "question": "兩張滿十格板，沒有單片，配哪張卡？",
+      "options": [
+        "2",
+        "12",
+        "20"
+      ],
+      "answer": 2,
+      "hint": "每張都有10個。",
+      "explanation": "每張滿板代表10個，兩張共有20個，因此配卡20。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q05",
+      "question": "2個十和4個一是多少？",
+      "options": [
+        "6",
+        "24",
+        "42"
+      ],
+      "answer": 1,
+      "hint": "先有20個，再接4個。",
+      "explanation": "20、21、22、23、24，全部24。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q06",
+      "question": "29後面一個數是？",
+      "options": [
+        "30",
+        "28",
+        "20"
+      ],
+      "answer": 0,
+      "hint": "第三張十格板即將放滿。",
+      "explanation": "29個再添1個，第三張十格板放滿，全部是30個。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q07",
+      "question": "20前面一個數是？",
+      "options": [
+        "21",
+        "19",
+        "18"
+      ],
+      "answer": 1,
+      "hint": "看18、19、20、21。",
+      "explanation": "按18、19、20、21的順序看，20前面一個是19。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q08",
+      "question": "從14接著往後數，下一段是哪個？",
+      "options": [
+        "15、16、17",
+        "13、12、11",
+        "16、18、20"
+      ],
+      "answer": 0,
+      "hint": "一次只往後一個。",
+      "explanation": "14之後依序15、16、17。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q09",
+      "question": "22個紙片換了排列，沒增減，會變成多少？",
+      "options": [
+        "2",
+        "20",
+        "22"
+      ],
+      "answer": 2,
+      "hint": "只是換位置。",
+      "explanation": "數量仍是22，整理只幫助我們看清楚。"
+    },
+    {
+      "id": "g1s1-mathematics-05-q10",
+      "question": "30有幾個十，幾個一？",
+      "options": [
+        "3個十、0個一",
+        "0個十、3個一",
+        "2個十、9個一"
+      ],
+      "answer": 0,
+      "hint": "想像三張滿板。",
+      "explanation": "3張各10個的滿板代表30，沒有零星單片。"
+    }
+  ],
+  "selfCheck": [
+    "我能把十個整理成一組。",
+    "我能排出11–30的指定數量。",
+    "我會接過19到20、29到30。",
+    "我能找前面或後面一個數。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱的年級內容為範圍參考；本頁活動、情境、例題與圖為原創，單元先後及建議節數不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件（國民中小學暨普通型高中）",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "已核對正式附件的一年級學習內容（印刷頁19–20）；依本課主題取適當的入門範圍，不要求一次完成全年內容。"
+    }
+  ]
+}
