@@ -38,6 +38,10 @@ for(const id of manifest.lessonIds){
  assert.ok(data.sections.reduce((n,s)=>n+s.html.length,0)>=2500,`Substantive teaching rather than empty stub: ${id}`);
  for(const q of data.exercises){assert.ok(q.options.length>=2&&q.options.length<=5);assert.ok(Number.isInteger(q.answer)&&q.answer>=0&&q.answer<q.options.length);assert.equal(new Set(q.options).size,q.options.length);assert.ok(q.explanation.length>=15&&q.hint.length>=5);assert.ok(q.id.startsWith(id),`Globally scoped question ID: ${q.id}`);}
  assert.equal(new Set(data.exercises.map(q=>q.question)).size,data.exercises.length,`No duplicate question stems: ${id}`);
+ if(!approved.lessonIds.includes(id)){
+  const positions=data.exercises.map(q=>q.answer);
+  for(let period=1;period<=3;period++)assert.ok(!positions.every((v,i)=>v===positions[i%period]),`Avoid predictable answer-position cycle of length ${period}: ${id}`);
+ }
  questions+=data.exercises.length;
  for(const s of data.sources){assert.equal(new URL(s.url).protocol,'https:');assert.ok(s.title&&s.note);}
  const file=`lessons/${id}.html`,html=await read(file);
@@ -48,6 +52,17 @@ for(const id of manifest.lessonIds){
  assert.equal((html.match(/class="question"/g)||[]).length,data.exercises.length);
  assert.equal((html.match(/class="answer-key"/g)||[]).length,data.exercises.length,'No-JS answer key for each question');
  assert.ok(html.includes(`../index.html#g${semester.grade}s${semester.semester}?subject=${course.id}`),'Exact semester/subject return link');
+ if(id==='g1s2-mathematics-03'){
+  const chart=html.match(/<table class="hundred-chart">([\s\S]*?)<\/table>/)?.[1];
+  assert.ok(chart,'Complete native hundred-chart present');
+  assert.deepEqual([...chart.matchAll(/<td>(\d+)<\/td>/g)].map(m=>Number(m[1])),Array.from({length:100},(_,i)=>i+1),'Hundred-chart numbers exactly1–100 in row order');
+  const rows=[...chart.matchAll(/<tr>([\s\S]*?)<\/tr>/g)];
+  assert.equal(rows.length,10);for(const row of rows)assert.equal((row[1].match(/<td>/g)||[]).length,10);
+  assert.ok(/<caption>[^<]+<\/caption>/.test(chart),'Readable chart caption');
+  const region=html.match(/<div\b[^>]*class="lesson-table-scroll"[^>]*>/)?.[0]||'';
+  assert.ok(/tabindex="0"/.test(region)&&/role="region"/.test(region)&&/aria-label="[^"]+"/.test(region),'Chart has a labelled keyboard-scroll region');
+ }
+
  assert.ok(html.includes('課綱主題採跨版本參考編排'));
  assert.ok(html.includes('不會传送')||html.includes('不會傳送'));
  for(const [,link] of html.matchAll(/(?:href|src)="([^"]+)"/g)){

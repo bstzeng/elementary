@@ -135,3 +135,14 @@
   .lesson-section h3 { font-size: 15pt; }
   .lesson-page a { color: #111; }
 }
+
+/* Large numeric charts scroll inside their own labelled keyboard region. */
+.lesson-table-scroll { max-width: 100%; min-width: 0; overflow-x: auto; overscroll-behavior-x: contain; }
+.lesson-table-scroll:focus-visible { outline: 3px solid #bd7135; outline-offset: 3px; }
+.lesson-table-scroll table.hundred-chart { min-width: 540px; table-layout: fixed; }
+.lesson-table-scroll .hundred-chart th,
+.lesson-table-scroll .hundred-chart td { min-width: 44px; height: 44px; padding: 4px; font-size: 18px; text-align: center; white-space: nowrap; }
+@media print {
+  .lesson-table-scroll { overflow: visible; }
+  .lesson-table-scroll table.hundred-chart { min-width: 0; }
+}
