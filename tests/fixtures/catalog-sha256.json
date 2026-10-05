@@ -1,0 +1,10 @@
+{
+  "data/framework.json": "b647e04d4798c4c0de97e9c44b8e68d5d58b2fb2257aeb3a43c4da827f74c3d1",
+  "data/sources.json": "de7192686ba82bb0210f82fd7219f85d9ee8253bb6a1f6a109321facdd3cca37",
+  "data/semesters/grade-1.json": "e2d66a4c17cf4105e33ec82db4cb6808b2dc185cc8470991f260ec5891a62192",
+  "data/semesters/grade-2.json": "db809f7628a4861c09d14d8b3a2303eaf2322d6d4c72689397899edd927af27d",
+  "data/semesters/grade-3.json": "d218b7dea14872c6fdc712b86e0f0097569296c9b8cd086a72ecdab00b03034b",
+  "data/semesters/grade-4.json": "a1d7b9fbdb0ce6f2961c9c4b48236a9382e1583fe75affda3e66d4ecb5e4b083",
+  "data/semesters/grade-5.json": "e43079cdce877c7f90f096b6173f28a97fef7e4f9415382923d9698690bd2aaa",
+  "data/semesters/grade-6.json": "60541f4f66ab6f48776c56f59d20d732708595d046ec0c45c202e4efa37966f9"
+}

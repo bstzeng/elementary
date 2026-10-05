@@ -1,0 +1,225 @@
+{
+  "id": "g1s1-school-flexible-01",
+  "course": "彈性學習課程",
+  "title": "英語啟蒙與生活溝通",
+  "subtitle": "用 Hello 開始，用自己的方式加入對話",
+  "duration": "3 次，每次 30 分鐘；先聽與互動，不要求認字或拼寫",
+  "materials": [
+    "兩個紙偶或任意角色圖卡",
+    "紙、筆；可畫虛構角色名牌",
+    "一枝練習用鉛筆與三張情境卡：見面、借用、離開",
+    "熟悉本課簡短英語的大人示範；需要時事先查閱來源中的官方英語教學資源",
+    "本頁無內建錄音或播放功能，不需麥克風、錄影或輸入姓名"
+  ],
+  "goals": [
+    "在有情境與示範的互動中，分辨 Hello 與 Goodbye 的使用時機。",
+    "可為虛構角色用「I’m ...」作簡短自我介紹。",
+    "在拿到幫忙或用品後嘗試說 Thank you，並認識 You’re welcome 的回應。",
+    "能用指圖、手勢或 Again, please 表示需要再示範一次。",
+    "完成一段短問候或借用對話，尊重別人的語言、名字及參與意願。"
+  ],
+  "intro": "這是一份學校可選用的校訂英語示例，不是全國小一共同必修課。若你的學校有安排，可以和大人玩一段短對話。先聽、看情境，再試一句；用紙偶的名字就可以。",
+  "sections": [
+    {
+      "id": "g1s1-school-flexible-01-s01",
+      "title": "不用先會 ABC，也能開始",
+      "childText": "先看紙偶做什麼，再聽一句。",
+      "html": "<p>今天有兩個紙偶：<span lang=\"en\">Momo</span> 和 <span lang=\"en\">Lin</span>。牠們要在畫畫角見面。你可以當其中一個，也可以先幫忙指情境卡。</p><div class=\"task-card\"><ol><li>大人讓兩個紙偶見面，說「<span lang=\"en\">Hello.</span>」</li><li>讓紙偶離開，說「<span lang=\"en\">Goodbye.</span>」</li><li>再演一次，你指「見面」或「離開」圖卡。</li><li>想開口時跟一句；還不想時，就讓紙偶代替你。</li></ol></div><p>現在不用拼字、不用寫英文。沒有聽懂，可以請大人再做一次。</p><p>本頁的文字不會自己發出聲音。請大人示範；不用找播放按鈕。</p><details><summary>給陪學大人：示範與調整</summary><p>先聽懂情境和參與互動，再逐漸開口。英語文字給成人辨讀與需要文字提示的孩子使用，不要求六、七歲初學者先識字。單次目標最多兩個新語塊，避免把本課全部語句一次背完。</p><p>本頁未提供真人錄音或語音合成。成人如不熟悉發音，可先到來源中的 <span lang=\"en\">British Council</span> 資源核對，再帶活動；不要用中文諧音當標準發音，也不假稱頁面有母語錄音。不同英語口音可被接受，重點是情境適合且能理解。</p><p>不強迫眼神接觸、握手、拍照、錄音或回答真實身分；孩子也不必另取英文名字。</p></details>"
+    },
+    {
+      "id": "g1s1-school-flexible-01-s02",
+      "title": "見面 Hello，離開 Goodbye",
+      "childText": "看看正在發生什麼，再選一句。",
+      "html": "<div class=\"example\"><h3><span lang=\"en\">Hello.</span></h3><p>你好。見面時，可以這樣打招呼。</p><h3><span lang=\"en\">Goodbye.</span></h3><p>再見。要離開時，可以這樣道別。</p></div><ol><li>大人讓紙偶走進畫畫角，你說「<span lang=\"en\">Hello.</span>」或指出見面卡。</li><li>紙偶畫完要離開，你說「<span lang=\"en\">Goodbye.</span>」或指出離開卡。</li><li>大人改變先後順序，你再選。</li><li>換你移動紙偶，讓大人回答。</li></ol><p>揮手有時是打招呼，有時是說再見。不能只看手，要看紙偶是剛見面，還是要離開。</p><details><summary>給陪學大人：示範與調整</summary><p>每種情境先做兩次，再交錯三至四次。成人第一次帶情境動作並清楚說整個詞，第二次減少中文提示，第三次才讓孩子選，不需要反覆大聲齊喊。</p><p>若把 <span lang=\"en\">Hello</span> 和 <span lang=\"en\">Goodbye</span> 混淆，先只擺「來」與「離開」兩張情境圖，讓孩子選正確動作；語意確認後再加英語，不把視覺記憶或單字閱讀當聽懂。不要設計只看揮手就判定唯一答案的題目。</p><p>兒童可用 <span lang=\"en\">Hi</span>、<span lang=\"en\">Bye</span> 等熟悉說法自然回應；本課先固定 <span lang=\"en\">Hello</span>、<span lang=\"en\">Goodbye</span> 減少負荷，其他適切說法不判錯。</p></details>"
+    },
+    {
+      "id": "g1s1-school-flexible-01-s03",
+      "title": "介紹一個你選的角色",
+      "childText": "I’m Momo. 我是 Momo。",
+      "html": "<p>選 <span lang=\"en\">Momo</span>、<span lang=\"en\">Lin</span>，或自己想的角色名。也可以用你本來喜歡的稱呼，不必取英文名字。</p><div class=\"example\"><p>紙偶：「<span lang=\"en\">Hello. I’m Momo.</span>」</p><p>意思是：「你好，我是 <span lang=\"en\">Momo</span>。」</p></div><ol><li>指著紙偶，請大人示範「<span lang=\"en\">I’m Momo.</span>」。</li><li>換另一個角色，改成「<span lang=\"en\">I’m Lin.</span>」。</li><li>你選一個角色，說一次，或讓大人代讀。</li><li>加上 <span lang=\"en\">Hello</span>，試兩小句：「<span lang=\"en\">Hello. I’m Lin.</span>」</li></ol><p>可以先只說角色名，再慢慢加上 <span lang=\"en\">I’m</span>。不用輸入你的真名、學校或住址。</p><details><summary>給陪學大人：示範與調整</summary><p>本課核心框架是 <span lang=\"en\">I’m</span> 加稱呼。成人示範正常、稍慢且自然的語流，不逐字硬拆，也不要求講解 <span lang=\"en\">I am</span> 的縮寫文法。名字依本人希望的念法，中文名字與其他語言名字也可使用；不以英文名當作學習門檻。</p><p>若孩子說成「<span lang=\"en\">Momo I’m</span>」，先接住意思，再重述「<span lang=\"en\">I’m Momo</span>」，請紙偶試一次；不要求同時改所有發音。若孩子只說 <span lang=\"en\">Momo</span>，視為有效參與，成人擴展完整句。</p><p>進階可理解「<span lang=\"en\">What’s your name?</span>」並用「<span lang=\"en\">I’m ...</span>」回答，但屬可選加深，不列基本通過條件。問句只用角色，不反覆追問不願披露的真名。</p></details>"
+    },
+    {
+      "id": "g1s1-school-flexible-01-s04",
+      "title": "兩個人，輪流說一句",
+      "childText": "你一句，我一句，對話就開始了。",
+      "html": "<div class=\"example\"><p><span lang=\"en\">Momo</span>：「<span lang=\"en\">Hello. I’m Momo.</span>」</p><p><span lang=\"en\">Lin</span>：「<span lang=\"en\">Hello. I’m Lin.</span>」</p></div><ol><li>先聽大人演兩個角色。</li><li>你選一個角色。大人說完後，停一會兒，讓你接一句。</li><li>交換角色；也可以選擇繼續當同一個。</li><li>最後各說一次「<span lang=\"en\">Goodbye.</span>」。</li></ol><p>忘了角色名，看看名牌就好。還沒準備好，可以指圖、點頭，或請大人陪你一起說。</p><p>我們不笑別人的口音。不同的人，說話的聲音和方式可能不同。</p><details><summary>給陪學大人：示範與調整</summary><p>示範時用不同位置的紙偶，讓輪流對象清楚；不只帶孩子背同一句。對方用 <span lang=\"en\">Hello</span> 回 <span lang=\"en\">Hello</span>，就是完整的問候互動，無須每輪都介紹姓名。</p><p>孩子需要處理時間，成人說完後停約數秒，避免立即代答。可提供三種選擇：一起說、對紙偶說、先看一輪。不要用強迫單獨上臺或公開糾音評量勇氣。</p><p>熟練者可在第一次見面加「<span lang=\"en\">Nice to meet you.</span>」，但先確認前面核心語句穩定；本課不要求所有人增加句型。</p></details>"
+    },
+    {
+      "id": "g1s1-school-flexible-01-s05",
+      "title": "請幫忙，也說謝謝",
+      "childText": "拿到鉛筆後，說「Thank you.」",
+      "html": "<p>畫畫角的鉛筆由大人看管。<span lang=\"en\">Momo</span> 想用一枝，要先提出請求，不能直接拿。</p><div class=\"example\"><p><span lang=\"en\">Momo</span>：「<span lang=\"en\">A pencil, please.</span>」想要一枝鉛筆，請幫忙。</p><p>大人：「<span lang=\"en\">Here you are.</span>」給你。</p><p><span lang=\"en\">Momo</span>：「<span lang=\"en\">Thank you.</span>」謝謝你。</p><p>大人：「<span lang=\"en\">You’re welcome.</span>」不客氣。</p></div><ol><li>大人先演整段，你只負責拿到鉛筆後說「<span lang=\"en\">Thank you.</span>」。</li><li>下一次，先用手勢指鉛筆，再試「<span lang=\"en\">A pencil, please.</span>」。</li><li>你把道具交給大人。大人說謝謝，你可回「<span lang=\"en\">You’re welcome.</span>」。</li></ol><p>說 <span lang=\"en\">please</span>，是有禮貌地提出請求，不表示對方一定要答應。謝謝也可以用你已熟悉的語言或方式表達。</p><details><summary>給陪學大人：示範與調整</summary><p>核心產出先放在 <span lang=\"en\">Thank you</span>；<span lang=\"en\">You’re welcome</span> 可先能在情境中理解，再嘗試回應。<span lang=\"en\">A pencil, please</span> 是看著鉛筆提出請求的自然省略說法；成人熟練者可擴展 <span lang=\"en\">Can I have a pencil, please?</span>，不必把長句加成全班要求。<span lang=\"en\">Here you are</span> 由成人提供，先不考孩子產出。</p><p>此為借用道具的課堂情境，不讓孩子以英語換取必要飲水、食物、如廁或協助。即使英語說不出來，成人仍應回應實際需求。</p><p>若把 <span lang=\"en\">Thank you</span> 和 <span lang=\"en\">You’re welcome</span> 說反，先用兩個紙偶重新演「誰得到幫忙、誰提供幫忙」，確認角色後再配語句，不只叫他背正確答案。</p></details>"
+    },
+    {
+      "id": "g1s1-school-flexible-01-s06",
+      "title": "沒聽清楚，可以再一次",
+      "childText": "Again, please. 請再一次。",
+      "html": "<p>你可以用熟悉的語言說「請再說一次」，或指「再一次」圖卡。想試英語，可以說：</p><div class=\"example\"><p><span lang=\"en\">Again, please.</span></p><p>請再一次。</p></div><ol><li>大人先正常地說一句「<span lang=\"en\">Hello.</span>」。</li><li>你練習舉再一次圖卡，或說「<span lang=\"en\">Again, please.</span>」。</li><li>大人再說一遍，並讓紙偶做出見面的動作。</li><li>你用說話、指圖或紙偶回應。</li></ol><p>請人再說一次，不是搗蛋。學新語言，本來就可以多聽幾次。</p><details><summary>給陪學大人：示範與調整</summary><p>練習目的是建立修復溝通的方法，不要故意用極快、模糊或過大音量讓孩子失敗。成人接受各種明確的重說要求，並以自然語速搭配情境重示範。</p><p>若孩子仍不懂，先改為中文說情境、指圖或示範動作，再回到一個短英語語塊。聽覺需要支持者可以看大字、圖示與角色行動，依其既有溝通方式參與；這是英語互動練習，不把未聽見解讀為未理解。</p><p>已熟練者可以當示範者，練習接到重說要求就耐心重說，不催促同伴。</p></details>"
+    },
+    {
+      "id": "g1s1-school-flexible-01-s07",
+      "title": "畫畫角的小對話",
+      "childText": "把見面、借用和道別串起來。",
+      "html": "<div class=\"task-card\"><h3>第一站：見面</h3><p>紙偶走進來。你選「<span lang=\"en\">Hello.</span>」；想介紹角色，就加「<span lang=\"en\">I’m Momo.</span>」。</p><h3>第二站：借用</h3><p>需要鉛筆時，先詢問。拿到後選「<span lang=\"en\">Thank you.</span>」。給別人幫忙時，可以回「<span lang=\"en\">You’re welcome.</span>」。</p><h3>第三站：離開</h3><p>紙偶收好鉛筆、準備離開。你選「<span lang=\"en\">Goodbye.</span>」。</p></div><ol><li>先和大人只玩兩站。</li><li>再選要不要加第三站。</li><li>中間卡住，就用再一次圖卡。</li><li>換成另一個角色再玩。對話可以不完全一樣。</li></ol><p>不是比誰說得多。能讓對方知道你的意思，就有往前一步。</p><details><summary>給陪學大人：示範與調整</summary><p>採任務選擇，不以背下整段當學會。成人先用熟悉順序，第二次改成「先借用、再向剛到的新角色問候」，檢查孩子是否依情境選句，而非只依序背誦。</p><p>每輪 1–2 分鐘即可，讓孩子有觀察、重說與重新選擇的時間。若全班活動，先以兩人或成人搭配紙偶進行，不要求在陌生人面前披露姓名。</p><p>注意是否辨別見面與離開、是否輪流回應，以及能否表示需要協助。發音只要能理解、語句有情境，不以單一口音、聲量或說話速度評優劣。</p></details>"
+    },
+    {
+      "id": "g1s1-school-flexible-01-s08",
+      "title": "把一句話帶回生活",
+      "childText": "今天選一句，明天找對時機再用。",
+      "html": "<ol><li>選一句：<span lang=\"en\">Hello</span>、<span lang=\"en\">Goodbye</span> 或 <span lang=\"en\">Thank you</span>。</li><li>和照顧你的大人約好一個小時機，例如紙偶見面、結束遊戲、得到幫忙。</li><li>用一次，或指圖請大人示範一次。</li><li>再說說：我剛才為什麼選這一句？可以用中文回答。</li></ol><p>家裡可以繼續使用原本的語言。多學一句英語，不需要少說你熟悉的話。</p><p>不用交錄音、影片、真名或家人資料。學習留在你們的短對話裡。</p><details><summary>給陪學大人：示範與調整</summary><p>延伸每次約 3 分鐘，以真實合適的情境維持一個語塊即可，不要求家庭額外付費或具備英語程度。家人不熟悉時，可由孩子使用圖卡與紙偶演示課內已學的內容，不猜發音。</p><p>隔次回顧時問「在哪個情境用？」而非只問背了幾個字。沒有在家練習者仍有完整課堂重試機會。若孩子想介紹母語中的問候，可自願分享；不要讓單一孩子代表整個語言群體。</p></details>"
+    }
+  ],
+  "teachingHtml": "<h3>課程身分與教學重點</h3><p>這是彈性學習課程可採用的原創英語啟蒙示例。臺灣總綱的國小部定英語由第二學習階段開始；一年級是否有英語、使用什麼課名與進度，由地方及學校課程計畫安排。不要將本課寫成全國小一必修第一課，也不把第二階段英語指標直接變成一年級達標要求。</p><p>本課先處理「聽見／看見情境 → 理解意思 → 選擇回應」。核心語塊分次加入：第一次 <span lang=\"en\">Hello</span>、<span lang=\"en\">Goodbye</span>；第二次 <span lang=\"en\">I’m ...</span>；第三次 <span lang=\"en\">Thank you</span> 與禮貌回應。請求、重說等語句由成人持續示範，不要求每個孩子一次獨立產出全部。</p><h3>第 1 次：見面和道別，30 分鐘</h3><ol><li>0–5 分：介紹兩個虛構紙偶，成人讀第 1 段並示範來與離開。說明可先看、指圖或跟說。</li><li>5–13 分：第 2 段配情境。各示範兩次，再交錯四次。孩子指圖也算回答，教師確認理解後才邀請說話。</li><li>13–20 分：交換控制紙偶。孩子安排見面或離開，成人示範語句；再反過來讓孩子回應。</li><li>20–25 分：用原教室以外的虛構情境轉移，如紙偶在圖書角相遇、結束積木遊戲。仍只練兩個核心詞。</li><li>25–30 分：出口任務。成人演一個見面、一個離開情境，孩子選適切圖卡或說出用語。若混淆，回到動作配對，不追加拼字作業。</li></ol><h3>第 2 次：我的角色，我來介紹，30 分鐘</h3><ol><li>0–5 分：回顧 <span lang=\"en\">Hello</span>、<span lang=\"en\">Goodbye</span>；不用看字也能完成。</li><li>5–13 分：第 3 段選角色與示範 <span lang=\"en\">I’m ...</span>。教師用兩個不同名字，幫孩子發現可以更換的位置；不講抽象文法。</li><li>13–22 分：第 4 段輪流對話。先一起說，再各說一輪，孩子可選觀察或同聲完成。</li><li>22–27 分：插入第 6 段的「請再一次」方法，中文、圖卡或 <span lang=\"en\">Again, please</span> 皆可。成人示範耐心重說。</li><li>27–30 分：出口任務。用自己選的角色做一次短介紹，或指角色讓成人代讀再選正確情境。不同形式分別記錄，不假裝都已獨立口說。</li></ol><h3>第 3 次：謝謝與回應，30 分鐘</h3><ol><li>0–5 分：紙偶見面並介紹，複習既有語塊。</li><li>5–13 分：第 5 段借用鉛筆。成人先處理請求和給予，孩子只練拿到後的 <span lang=\"en\">Thank you</span>；熟悉後才換成提供幫忙的一方。</li><li>13–23 分：第 7 段畫畫角任務。先做見面與借用兩站，再選擇加道別。第二輪改變順序，觀察是否依情境選句。</li><li>23–27 分：成人讀 2–3 題情境練習，孩子用指選項、紙偶或語句回答。答錯以重演角色補救。</li><li>27–30 分：第 8 段挑一句生活延伸，說出合適使用時機。用 <span lang=\"en\">Goodbye</span> 結束活動。</li></ol><h3>成人示範小抄</h3><ul><li><span lang=\"en\">Hello.</span>：見面問候。<span lang=\"en\">Goodbye.</span>：離開道別。兩者皆可能伴隨揮手，需靠情境辨義。</li><li><span lang=\"en\">I’m Momo.</span>：以 <span lang=\"en\">Momo</span> 當角色稱呼。真實名字非必要；不要求改名或英文化。</li><li><span lang=\"en\">A pencil, please.</span>：在道具借用情境中提出請求。可由成人示範，必要生活需求不得以說英語交換。</li><li><span lang=\"en\">Thank you.</span>：感謝；<span lang=\"en\">You’re welcome.</span>：對感謝的常見回應。用誰幫誰的動作確認角色。</li><li><span lang=\"en\">Again, please.</span>：簡短請求再次示範。中文和圖卡也是有效的溝通修復方式。</li></ul><h3>誤解、回饋與差異化</h3><ul><li>只記單字外形：先把文字遮住，用情境圖與實際動作檢查意思，再依需要恢復文字提示。</li><li>固定依序背 <span lang=\"en\">Hello</span>、<span lang=\"en\">Goodbye</span>：變換情境順序，等待孩子觀察後再選；不要只提高跟讀次數。</li><li>把 <span lang=\"en\">Thank you</span> 與 <span lang=\"en\">You’re welcome</span> 顛倒：重演收到幫忙與提供幫忙的角色，讓孩子先指出誰在謝謝。</li><li>不敢開口：提供一起說、紙偶說、指圖或先觀察；記錄理解能力與口說嘗試，不把安靜當作沒學習。</li><li>已有英語經驗：可用 <span lang=\"en\">What’s your name?</span> 與 <span lang=\"en\">Nice to meet you.</span> 延伸，但不要求其他孩子跟上同一負荷。</li><li>聽覺、視覺或口語有不同需要：依既有可及方式加入大圖、可觸提示、書面語塊或輔助溝通，不強迫重複聽見或發聲才給參與機會。</li><li>發音與口音：先確認意思與可理解度。成人自然重述一個目標點即可，不當眾逐字挑錯，不使用中文諧音替代可靠示範。</li></ul><h3>表現評量，分清楚「理解」與「產出」</h3><p>理解證據：看到或聽到情境後，能選對問候、道別、感謝的功能。產出證據：能獨立或跟示範說出一個適當語塊。互動證據：輪流回應、尊重對方、提出重說需求。各項記「獨立完成／提示後完成／仍需共同做」，不拿讀寫、英語名字、音量或口音當基本門檻。</p><p>選擇題由成人讀題，其中英語亦需真人示範；本頁無內建音檔，所以線上點選本身不是聽力測驗。題目也不能證明實際口說能力，仍需短對話觀察。</p><h3>內容、隱私與家庭連結</h3><p>本頁情境與練習為原創，不轉載教材插圖、歌曲歌詞或錄音。引用 <span lang=\"en\">British Council</span> 官方資源只核對入門語句與教學方向，不表示其課程就是臺灣一年級標準。活動無需收集真名、學校、住址、家庭資訊、錄音或影片。家中原有語言與英語可以並存，不把原有語言視為學英語的障礙。</p>",
+  "exercises": [
+    {
+      "id": "g1s1-school-flexible-01-q01",
+      "question": "紙偶剛走進來和你見面，最適合選哪一句？",
+      "options": [
+        "Hello.",
+        "Goodbye.",
+        "Thank you."
+      ],
+      "answer": 0,
+      "explanation": "Hello 用在見面問候。現在紙偶剛來到，還不是道別，也沒有設定得到幫忙的情境。",
+      "hint": "是剛見面，還是準備離開？"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q02",
+      "question": "活動結束，Lin 要離開。最適合說？",
+      "options": [
+        "I’m Lin.",
+        "Goodbye.",
+        "A pencil, please."
+      ],
+      "answer": 1,
+      "explanation": "Goodbye 是道別。先看清楚角色要離開，就知道這次要選再見。",
+      "hint": "想想再見用在哪個時候。"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q03",
+      "question": "你替名字叫 Momo 的紙偶介紹自己，可以說？",
+      "options": [
+        "Goodbye Momo I.",
+        "Thank you Momo.",
+        "I’m Momo."
+      ],
+      "answer": 2,
+      "explanation": "I’m 加上角色稱呼，可以用來說自己是誰。這裡只介紹紙偶，不必提供真名。",
+      "hint": "本課的介紹句型前面是什麼？"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q04",
+      "question": "一定要有英文名字，才可以上這一課嗎？",
+      "options": [
+        "不用，可以用原本的稱呼或虛構角色名",
+        "一定要改名字",
+        "一定要把真名寫在網頁上"
+      ],
+      "answer": 0,
+      "explanation": "每個人的名字和語言都值得尊重。本課可以用任何選定的稱呼或角色，不需要蒐集真名。",
+      "hint": "看看 Momo 是誰的名字。"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q05",
+      "question": "大人把練習用鉛筆交給你，你想表達謝謝，選哪一句？",
+      "options": [
+        "Goodbye.",
+        "Thank you.",
+        "I’m Lin."
+      ],
+      "answer": 1,
+      "explanation": "拿到幫忙或用品後，Thank you 可以表達感謝。這裡的重點是謝謝對方。",
+      "hint": "你是想介紹自己，還是感謝對方？"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q06",
+      "question": "你幫紙偶找回鉛筆，紙偶說「Thank you.」。常見的回應是？",
+      "options": [
+        "Hello.",
+        "A pencil, please.",
+        "You’re welcome."
+      ],
+      "answer": 2,
+      "explanation": "You’re welcome 是回應感謝的常見說法，意思接近不客氣。先分清誰提供幫忙、誰在謝謝。",
+      "hint": "現在是別人在謝謝你。"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q07",
+      "question": "聽不清楚時，可以怎麼做？",
+      "options": [
+        "舉再一次圖卡，或說 Again, please.",
+        "一定要假裝聽懂",
+        "不能再問一次"
+      ],
+      "answer": 0,
+      "explanation": "再次詢問是學習語言的好方法。中文、圖卡或 Again, please 都能表達需要再示範一次。",
+      "hint": "哪個做法能讓對方知道你需要幫忙？"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q08",
+      "question": "看到紙偶揮手，就一定是 Goodbye 嗎？",
+      "options": [
+        "一定是再見",
+        "不一定，要看是見面還是離開",
+        "揮手只能代表謝謝"
+      ],
+      "answer": 1,
+      "explanation": "揮手可以在見面或道別時出現，所以還要看正在發生什麼，不能只憑動作猜唯一答案。",
+      "hint": "同一個動作會不會出現在不同時候？"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q09",
+      "question": "同學說英語的聲音和你不同，你可以怎麼做？",
+      "options": [
+        "笑他的口音",
+        "要他換真實名字",
+        "聽他的意思，耐心輪流回應"
+      ],
+      "answer": 2,
+      "explanation": "不同人可能有不同口音和表達方式。練習是為了互相理解，不是嘲笑或比誰最像某種聲音。",
+      "hint": "哪個做法會讓對話繼續？"
+    },
+    {
+      "id": "g1s1-school-flexible-01-q10",
+      "question": "我加上 please 提出借用請求，對方就一定要答應嗎？",
+      "options": [
+        "不一定，仍要等回答並尊重對方",
+        "一定要，不然可以直接拿",
+        "說了就不用再等"
+      ],
+      "answer": 0,
+      "explanation": "Please 是禮貌提出請求的用語，不會取消對方的選擇。先等回應；不方便借用時，可以問大人有什麼其他辦法。",
+      "hint": "禮貌地問，是否也要讓對方回答？"
+    }
+  ],
+  "selfCheck": [
+    "我能在見面與離開的情境中，選 Hello 或 Goodbye。",
+    "我可以用選定的角色試一句 I’m ...，或請大人陪說。",
+    "我知道拿到幫忙時可以說 Thank you。",
+    "我認得回應感謝的 You’re welcome。",
+    "不懂時，我能指圖或請對方再示範一次。",
+    "我會輪流，不嘲笑別人的名字、語言或口音。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜十二年國教課程綱要總綱（111 學年度實施）",
+      "url": "https://stv.naer.edu.tw/data/course_outline/(111學年度實施)十二年國教課程綱要總綱.pdf",
+      "note": "2026-10-05 核對國小課程規劃表（印刷頁 11）。課程身分依據：第一學習階段未列英語文部定節數，校訂彈性課程由學校規劃；本課是可選示例，不是全國小一共同必修。"
+    },
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18518_3555074_59836.pdf",
+      "note": "2026-10-05 核對。範圍校核：國小英語部定學習重點由第二學習階段起；本課未將該階段指標直接當一年級要求，亦不聲稱有官方規定的第一課。"
+    },
+    {
+      "title": "British Council｜SMILE Starter 1 教師用書",
+      "url": "https://sudan.britishcouncil.org/sites/default/files/smile_starter_1_-_grade_1_-_teachers_book.pdf",
+      "note": "2026-10-05 核對。英語教學佐證：初學者以 Hello、Goodbye、I’m 等短語進入情境互動。這是其他地區的官方教學資源，僅核對語句與入門方向，不作臺灣課程進度依據；未複製其活動或圖像。"
+    },
+    {
+      "title": "British Council LearnEnglish Kids｜How to organise your school bag",
+      "url": "https://learnenglishkids.britishcouncil.org/how-videos/how-organise-your-school-bag",
+      "note": "2026-10-05 核對。語言使用佐證：學用品情境中的 please 與 Thank you。原頁有其自身影片，本教材不提供或複製該音訊；本課畫畫角、角色及練習另行原創。"
+    }
+  ]
+}
