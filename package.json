@@ -1,8 +1,8 @@
 {
   "name": "elementary",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "private": true,
-  "description": "臺灣國小六年課綱地圖與小一上六科第一主題原創教材。",
+  "description": "臺灣國小六年課綱地圖與持續增補的原創詳細教材。",
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",

@@ -33,7 +33,7 @@ el.parts['.explanation'].textContent=q.explanation;
  });
  const parts=Object.fromEntries(['.quiz-progress','.reset-quiz','.self-progress','.lesson-print'].map(c=>[c,new Element()]));
  const checks=data.selfCheck.map(()=>new Element('input'));
- const board=id.includes('mathematics')?new Element():null;
+ const board=data.sections.some(s=>s.html.includes('data-count-board'))?new Element():null;
  const details=[...questions.flatMap(q=>q.details),new Element('details')];details.at(-1).open=true;
  const window=new Element();let prints=0;window.print=()=>prints++;
  const document={querySelector:s=>parts[s],querySelectorAll:s=>s==='.question'?questions:s==='.self-checks input'?checks:s==='[data-count-board]'?(board?[board]:[]):s==='details'?details:[],createElement:tag=>new Element(tag),documentElement:{classList:{add(name){assert.equal(name,'lesson-ready');}}}};
