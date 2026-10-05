@@ -1,0 +1,177 @@
+{
+  "id": "g3s1-mathematics-02",
+  "course": "數學",
+  "title": "四位數加減與估算",
+  "subtitle": "多次交換仍要守住每一欄的單位。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與練習可分段。",
+  "materials": [
+    "千百十個位值卡與記錄紙",
+    "粗筆、虛構庫存任務卡"
+  ],
+  "goals": [
+    "能完成含0及多次進退位的四位數加減",
+    "能說明每次交換的位值",
+    "能用估算和逆向計算檢查答案"
+  ],
+  "intro": "數量到了幾千，規則還是同單位相加減；現在練習一次算式中的多次交換。",
+  "sections": [
+    {
+      "title": "先估數量，再排直式",
+      "childText": "估算是警報器，精算才回答確切數。",
+      "html": "<p>虛構圖卡站有2687張，又收到1756張。把2687想成約2700、1756想成約1800，合起來大約4500張。這是方便的估法，不是精確相等；最後要以直式算確切張數。</p><p>千對千、百對百、十對十、個對個。較短的數從個位向左對齊，例如4305加68，68的6在十位，8在個位，不應靠左排到千百位。先說每個數字代表的量，才寫算式。</p>",
+      "id": "g3s1-mathematics-02-s01"
+    },
+    {
+      "title": "三次進位，各有來源",
+      "childText": "個位、十位、百位都可能滿十。",
+      "html": "<p>2687＋1756：7＋6＝13，個位寫3，1個十進十位；8＋5＋1＝14，十位寫4，1個百進百位；6＋7＋1＝14，百位寫4，1個千進千位；2＋1＋1＝4，得4443。</p><p>下圖三個小1分別代表1千、1百、1十。讀完一步就指該小1，避免只寫卻忘了加入。4443接近估計4500，至少數量級合理，但仍需逐欄核對，不能以接近估計保證每個數字正確。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 235\" role=\"img\" aria-labelledby=\"g3s1-mathematics-02-carry\"><title id=\"g3s1-mathematics-02-carry\">2687加1756直式：千、百、十位上方各有進來的1，結果4443。</title><text x=\"115\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">千</text><text x=\"170\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">百</text><text x=\"225\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">十</text><text x=\"280\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">個</text><text x=\"115\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"170\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"225\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">8</text><text x=\"280\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">7</text><text x=\"115\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">1</text><text x=\"170\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">7</text><text x=\"225\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">5</text><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"115\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"170\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"225\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"280\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">3</text><text x=\"115\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">1</text><text x=\"170\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">1</text><text x=\"225\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">1</text><text x=\"68\" y=\"150\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">＋</text><line x1=\"92\" y1=\"170\" x2=\"303\" y2=\"170\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>2687加1756直式：千、百、十位上方各有進來的1，結果4443。</figcaption></figure>",
+      "id": "g3s1-mathematics-02-s02"
+    },
+    {
+      "title": "連續退位，要記錄哪份量被交換",
+      "childText": "交換不會讓原來總量變多。",
+      "html": "<p>5234－1786：4個一不足減6，從3個十換1十，成14個一，十位剩2；2十不足減8十，從2百換1百，十位成12，百位剩1；1百不足減7百，從5千換1千，百位成11，千位剩4。</p><p>現在按欄算14－6＝8、12－8＝4、11－7＝4、4－1＝3，得到3448。退位後仍是原來5234，只是改成4千11百12十14個；不能只給右邊加10，卻忘記左邊少1。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 235\" role=\"img\" aria-labelledby=\"g3s1-mathematics-02-regroup\"><title id=\"g3s1-mathematics-02-regroup\">5234減1786直式：原數重組為4千11百12十14個，各欄減去1786得到3448。</title><text x=\"115\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">千</text><text x=\"170\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">百</text><text x=\"225\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">十</text><text x=\"280\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">個</text><text x=\"115\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">5</text><text x=\"170\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"225\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">3</text><text x=\"280\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"115\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">1</text><text x=\"170\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">7</text><text x=\"225\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">8</text><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"115\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">3</text><text x=\"170\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"225\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"280\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">8</text><text x=\"115\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">4</text><text x=\"170\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">11</text><text x=\"225\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">12</text><text x=\"280\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">14</text><line x1=\"103\" y1=\"84\" x2=\"127\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"158\" y1=\"84\" x2=\"182\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"213\" y1=\"84\" x2=\"237\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"268\" y1=\"84\" x2=\"292\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"68\" y=\"150\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">−</text><line x1=\"92\" y1=\"170\" x2=\"303\" y2=\"170\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>5234減1786直式：原數重組為4千11百12十14個，各欄減去1786得到3448。</figcaption></figure>",
+      "id": "g3s1-mathematics-02-s03"
+    },
+    {
+      "title": "中間是0，交換仍要有來源",
+      "childText": "先把一千換成十百，再繼續換。",
+      "html": "<p>4002－1756不能直接向0個十拿1個十。從4千換出1千成10百；其中1百換10十，百剩9；其中1十再換10個一，十剩9，個位原2變12。原量變成3千9百9十12個。</p><p>逐欄12－6＝6、9－5＝4、9－7＝2、3－1＝2，得2246。圖示保留0被重組的欄位。用2246＋1756＝4002恢復原量；若錯算3246，加回去成5002，就能發現多留了一千。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 235\" role=\"img\" aria-labelledby=\"g3s1-mathematics-02-zeros\"><title id=\"g3s1-mathematics-02-zeros\">4002減1756：4千0百0十2個改成3千9百9十12個，答案2246。</title><text x=\"115\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">千</text><text x=\"170\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">百</text><text x=\"225\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">十</text><text x=\"280\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">個</text><text x=\"115\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"170\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">0</text><text x=\"225\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">0</text><text x=\"280\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"115\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">1</text><text x=\"170\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">7</text><text x=\"225\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">5</text><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"115\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"170\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"225\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">4</text><text x=\"280\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"115\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">3</text><text x=\"170\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">9</text><text x=\"225\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">9</text><text x=\"280\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">12</text><line x1=\"103\" y1=\"84\" x2=\"127\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"158\" y1=\"84\" x2=\"182\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"213\" y1=\"84\" x2=\"237\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"268\" y1=\"84\" x2=\"292\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"68\" y=\"150\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">−</text><line x1=\"92\" y1=\"170\" x2=\"303\" y2=\"170\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>4002減1756：4千0百0十2個改成3千9百9十12個，答案2246。</figcaption></figure>",
+      "id": "g3s1-mathematics-02-s04"
+    },
+    {
+      "title": "估算與驗算各做一份工作",
+      "childText": "大約抓大錯，驗算找出不一致。",
+      "html": "<p>5234大約5200，1786大約1800，差約3400；精算3448合理。再做3448＋1786＝5234，把剩餘加回拿走的量。估計與驗算都支持答案，比只重看最後一行可靠。</p><p>加法也可用減法核對：4443－1756＝2687。驗算若不同，要回查原題、對齊及交換記號，不要把驗算硬改成期望的數。每次只檢查一欄，說出錯誤原因再修理。</p>",
+      "id": "g3s1-mathematics-02-s05"
+    },
+    {
+      "title": "一起修理錯誤記錄",
+      "childText": "進來的1和被換走的1都不能漏。",
+      "html": "<p>甲算2687＋1756為4333，請不猜答案，依個位到千位指出哪幾欄漏加進位。乙算4002－1756為3246，請檢查交換後千位是否減少。錯誤是用來找規則的線索，不拿來評斷誰聰明。</p><p>同伴選一題重做，另一人只問「這一欄的單位是什麼？」「這個10從哪裡來？」不直接報整個答案。成人可用大卡依序交換，孩子口述步驟，再比較圖上和紙上的記號。</p>",
+      "id": "g3s1-mathematics-02-s06"
+    },
+    {
+      "title": "獨立轉用：先估再算",
+      "childText": "不靠相同數字，也能說出方法。",
+      "html": "<p>獨立做3068＋2475＝5543；先估約3100＋2500，約5600，再精算。另一題6004－2387＝3617，請寫出重組為5千9百9十14個，最後用3617＋2387＝6004檢查。</p><p>出口說明：為何4002的兩個0不能刪？為何估約2300不能代替2246張的精確交接？先選估算或精算的用途，再說數量與單位；不要求把近似值寫成精確等號。</p>",
+      "id": "g3s1-mathematics-02-s07"
+    }
+  ],
+  "teachingHtml": "<h3>年級進展</h3><p>依N-3-2，從二年級減法一次退位推進到多次進退位，含中間有0的題型；N-3-8允許以生活數量估算檢查合理性。所有整數與結果保持一萬以內。先確認孩子懂十個一換一個十，且能讀出千百十個，才進入連續交換。此課難點是保存總量，不以背「借一當十」取代理解。</p><h3>逐步教學</h3><p>先做2687＋1756，操作或逐欄描記三次進位。讓孩子說千位上方1是1000，不是又加1個一。再做5234－1786，把原數改寫成4千11百12十14個後才逐欄減。一次交換只改相鄰兩欄，所有修改留痕，方便同伴檢查；已換出的單位卡必須拿走。</p><p>4002－1756為獨立重點，0沒有可直接換走的量，所以向千位取得來源，逐級轉換。先建立3千10百2個，再3千9百10十2個，最後3千9百9十12個；中間狀態可口述，不要求另背口訣。示範如何用加回去檢查總量。</p><h3>估算與修復</h3><p>估算採接近整百的容易數，不做機械四捨五入考試。估約4500與精算4443用途不同，請孩子在答案旁寫大約或確切。若估算接近但直式某欄錯誤，仍需核對，不能給出「接近就是對」的訊息。錯誤4333用於尋找漏進位，3246用於辨認原千位未扣除，應讓孩子解釋局部修復。</p><h3>差異化與評量</h3><p>支持組先做兩次進位及相鄰退位，保留位值標頭；理解後才處理跨0的重組。熟練組可比較兩種估法或說明驗算，而非追求五位數。出口3068＋2475與6004－2387分別看對齊、交換、計算、估算、驗算。可口述成人代寫；不要把字跡、速度和數量理解混成一個分數。情境全為虛構，不需真實交易或私人物品清單。</p>",
+  "exercises": [
+    {
+      "question": "2687＋1756的結果是？",
+      "options": [
+        "4333",
+        "4433",
+        "4443"
+      ],
+      "answer": 2,
+      "hint": "每欄都檢查有沒有進來的1。",
+      "explanation": "個位13、十位14、百位14、千位4，整理後得到4443。",
+      "id": "g3s1-mathematics-02-q01"
+    },
+    {
+      "question": "加法直式中，千位上方的進位1代表？",
+      "options": [
+        "1",
+        "1000",
+        "100"
+      ],
+      "answer": 1,
+      "hint": "進位記號要看所在欄位。",
+      "explanation": "小1位於千位，表示百位合滿10個百換來的1個千。",
+      "id": "g3s1-mathematics-02-q02"
+    },
+    {
+      "question": "5234－1786重組後可以寫成？",
+      "options": [
+        "4千11百12十14個",
+        "5千11百12十14個",
+        "4千1百2十14個"
+      ],
+      "answer": 0,
+      "hint": "每換一份，來源欄也要少一份。",
+      "explanation": "三次交換後千百十個為4、11、12、14，合起來仍是5234。",
+      "id": "g3s1-mathematics-02-q03"
+    },
+    {
+      "question": "5234－1786等於？",
+      "options": [
+        "4548",
+        "3448",
+        "3458"
+      ],
+      "answer": 1,
+      "hint": "從重組後的每一欄減。",
+      "explanation": "14減6得8、12減8得4、11減7得4、4減1得3，合成3448。",
+      "id": "g3s1-mathematics-02-q04"
+    },
+    {
+      "question": "4002－1756重組後千位為多少？",
+      "options": [
+        "3個千",
+        "4個千",
+        "5個千"
+      ],
+      "answer": 0,
+      "hint": "先從千位換出1千。",
+      "explanation": "原有4千取出1千換10百，因此留在千位的是3千。",
+      "id": "g3s1-mathematics-02-q05"
+    },
+    {
+      "question": "4002－1756的答案是？",
+      "options": [
+        "2256",
+        "2246",
+        "3246"
+      ],
+      "answer": 1,
+      "hint": "原數可重組為3千9百9十12個。",
+      "explanation": "各欄減去1千7百5十6個後，剩2千2百4十6個，即2246。",
+      "id": "g3s1-mathematics-02-q06"
+    },
+    {
+      "question": "哪個算式可驗算2246是4002減1756的差？",
+      "options": [
+        "4002＋1756＝2246",
+        "2246＋4002＝1756",
+        "2246＋1756＝4002"
+      ],
+      "answer": 2,
+      "hint": "剩下與拿走的量要恢復原量。",
+      "explanation": "把差2246與減數1756相加得到4002，才能恢復原有的數量。",
+      "id": "g3s1-mathematics-02-q07"
+    },
+    {
+      "question": "估算2687＋1756約4500後，應怎樣做精確交接？",
+      "options": [
+        "再精算，記錄4443張",
+        "把4443改成4500",
+        "直接記4500張"
+      ],
+      "answer": 0,
+      "hint": "先區分大約量和確切量。",
+      "explanation": "估算只能檢查大致範圍，精確交接仍需使用算出的4443張。",
+      "id": "g3s1-mathematics-02-q08"
+    }
+  ],
+  "selfCheck": [
+    "我會記錄每次進位和退位。",
+    "我知道跨0交換的量從哪裡來。",
+    "我會以估算與驗算分別檢查。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "官方列出年級學習內容；本課學期位置、節數、原創情境及練習屬編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：三年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁23–26。N-3-2含多次進退位與0；N-3-8用估算檢查合理性，數量不超過10000。"
+    }
+  ]
+}
