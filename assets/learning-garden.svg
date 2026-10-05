@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="390" viewBox="0 0 520 390" fill="none">
+<title>打開書本，讓好奇心長成一座花園</title>
+<defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8faaa0" opacity=".28"/></pattern></defs>
+<path d="M90 273C37 214 88 76 201 62c90-11 198 3 223 83 30 95-27 182-124 188-75 5-169-13-210-60Z" fill="#e3eadd"/>
+<path d="M328 64h120v128H328z" fill="url(#dots)"/>
+<circle cx="382" cy="109" r="40" fill="#f0bd62"/>
+<path d="m382 51 1-9m42 23 7-7m13 50h10M338 69l-7-7" stroke="#cf9550" stroke-width="3" stroke-linecap="round"/>
+<path d="M116 144c-9-20-31-18-35 0-23-5-35 27-15 37h65c22-10 6-39-15-37Z" fill="#fffdf5"/>
+<path d="M425 198c-6-13-20-11-23 1-15-3-23 17-10 24h44c14-7 3-27-11-25Z" fill="#fffdf5"/>
+<ellipse cx="257" cy="326" rx="172" ry="15" fill="#ccd8c9"/>
+<path d="M112 247c60-21 100-14 145 9 38-24 91-30 151-10l-10 74c-53-17-93-12-140 9-43-21-88-26-139-8l-7-74Z" fill="#27664f" stroke="#224f40" stroke-width="3" stroke-linejoin="round"/>
+<path d="M111 231c63-15 106-5 147 17v68c-44-26-88-31-139-16l-8-69Z" fill="#fffdf4" stroke="#224f40" stroke-width="3" stroke-linejoin="round"/>
+<path d="M258 248c39-25 87-35 151-18l-10 70c-52-15-98-9-141 16v-68Z" fill="#f8edd0" stroke="#224f40" stroke-width="3" stroke-linejoin="round"/>
+<path d="m136 254 57 5m-53 10 60 7m-56 9 35 3m163-35 42-4m-47 20 43-5m-55 23 44-9" stroke="#b4bda9" stroke-width="3" stroke-linecap="round"/>
+<path d="M258 247V139" stroke="#27664f" stroke-width="5" stroke-linecap="round"/>
+<path d="M258 224c-31 0-54-25-48-53 31-2 57 18 48 53Z" fill="#6d9770" stroke="#27664f" stroke-width="3"/>
+<path d="M259 196c37 2 63-22 59-52-33-7-62 17-59 52Z" fill="#a4bd7b" stroke="#27664f" stroke-width="3"/>
+<path d="m260 195 38-32m-42 62-29-36" stroke="#27664f" stroke-width="3" stroke-linecap="round"/>
+<path d="M257 149c-5-11-25-14-25-30 0-19 21-26 31-11 15-14 34 0 27 16-6 15-23 12-33 25Z" fill="#e99379" stroke="#a76250" stroke-width="3"/>
+<g transform="rotate(-12 141 206)"><rect x="115" y="179" width="52" height="52" rx="12" fill="#f1c66d" stroke="#b18c3e" stroke-width="2"/><path d="m130 216 10-27 10 27m-16-10h12" stroke="#735c32" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g transform="rotate(13 356 201)"><rect x="330" y="175" width="53" height="53" rx="12" fill="#afc5da" stroke="#6484a3" stroke-width="2"/><path d="M348 193c0-10 17-10 17 0 0 7-15 9-16 19h17" stroke="#456780" stroke-width="3" stroke-linecap="round"/></g>
+<path d="m189 99 4 11 11 4-11 4-4 11-4-11-11-4 11-4 4-11Z" fill="#d8a553"/>
+<path d="m425 269 3 8 8 3-8 3-3 8-3-8-8-3 8-3 3-8Z" fill="#dd8f75"/>
+<circle cx="96" cy="204" r="4" fill="#d8a553"/><circle cx="324" cy="95" r="4" fill="#86a181"/>
+</svg>
