@@ -1,0 +1,756 @@
+{
+  "meta": {
+    "title": "小一上學期課程主題地圖",
+    "subtitle": "先看主題，慢慢探索每一門課。",
+    "grade": 1,
+    "semester": 1,
+    "locale": "zh-TW",
+    "jurisdiction": "臺灣",
+    "curriculumBasis": "十二年國教（108課綱體系；含111學年度起實施之語文調整）",
+    "verifiedOn": "2026-10-05",
+    "scope": "首頁主題索引；不含教學內容、題目、解答或教材全文。",
+    "coverageExplanation": "以5類部定領域／科目及校訂彈性學習，涵蓋小一課程架構；語文選習為選一語別。部定主題參考正式課綱與公開學校上學期計畫，校訂主題僅列示例。",
+    "caveats": [
+      "這是跨版本的主題參考地圖，不是教育部訂定的全國統一小一上學期章節表。",
+      "課綱多以學習階段（一、二年級）訂定；數學亦列年級學習內容。上學期實際課名、單元、數量與順序以學校課程計畫及教材版本為準。",
+      "公開學校計畫只作安排實例，不代表全臺學校採用相同進度。",
+      "目前僅整理小一上學期；一年級下學期及二至六年級尚在規劃中。"
+    ]
+  },
+  "sources": [
+    {
+      "id": "general",
+      "title": "國家教育研究院｜十二年國教課程綱要總綱（111學年度實施）",
+      "url": "https://www.naer.edu.tw/PageSyllabus?fid=52",
+      "kind": "official-framework",
+      "note": "現行總綱課程規劃表及國民小學規劃說明；確認課程類別、語別選擇與節數。"
+    },
+    {
+      "id": "general-pdf",
+      "title": "總綱PDF｜國小課程規劃（印刷頁11–13）",
+      "url": "https://stv.naer.edu.tw/data/course_outline/(111學年度實施)十二年國教課程綱要總綱.pdf",
+      "kind": "official-framework",
+      "note": "國語文6、語別選習1、數學4、生活6、健體3；校訂彈性2–4節／週。"
+    },
+    {
+      "id": "mandarin-framework",
+      "title": "國家教育研究院｜國語文課程綱要",
+      "url": "https://www.naer.edu.tw/upload/1/9/doc/1267/十二年國民基本教育課程綱要國民中小學暨普通型高級中等學校語文領域-國語文.pdf",
+      "kind": "official-framework",
+      "note": "第一學習階段為一、二年級；六類學習表現並非全國統一的學期單元表。"
+    },
+    {
+      "id": "math-handbook",
+      "title": "國家教育研究院｜數學領域課程手冊（114年1月更新版）",
+      "url": "https://www.naer.edu.tw/upload/1/9/doc/2021/數學領域課程手冊（114年1月更新版）.pdf",
+      "kind": "official-handbook",
+      "note": "作為一年級數學學習內容框架；上學期範圍另參考學校公開計畫。"
+    },
+    {
+      "id": "life-framework",
+      "title": "國家教育研究院｜國民小學生活課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18517_3170275_59692.pdf",
+      "kind": "official-framework",
+      "note": "強調主題統整；明載兩年內學生接觸的主題素材可以不同。"
+    },
+    {
+      "id": "health-framework",
+      "title": "國家教育研究院｜健康與體育領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18522_1560772_59945.pdf",
+      "kind": "official-framework",
+      "note": "一、二年級共用第一學習階段指標，涵蓋健康與身體活動。"
+    },
+    {
+      "id": "languages-index",
+      "title": "國家教育研究院愛學網｜語文課綱總覽",
+      "url": "https://stv.naer.edu.tw/teaching/course_outline.jsp",
+      "kind": "official-framework",
+      "note": "含本土語文各語別、臺灣手語、新住民語文等正式課綱。"
+    },
+    {
+      "id": "sign-framework",
+      "title": "國家教育研究院｜臺灣手語課程綱要（111學年度實施）",
+      "url": "https://stv.naer.edu.tw/data/course_outline/(111學年度實施)十二年國民基本教育課程綱要語文領域-臺灣手語-發布版.pdf",
+      "kind": "official-framework",
+      "note": "一級包含生活訊息理解、自我介紹、社交用語、數量及聾人文化。"
+    },
+    {
+      "id": "new-immigrant-framework",
+      "title": "國家教育研究院｜新住民語文課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18516_1303652_59628.pdf",
+      "kind": "official-framework",
+      "note": "按語文程度分級，需依語別與程度調整；不是固定全國小一上學期單元表。"
+    },
+    {
+      "id": "new-immigrant-moe",
+      "title": "教育部｜新住民語文教材與生活情境說明",
+      "url": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=4A4D5216D2A98D68&sms=169B8E91BB75571F",
+      "kind": "official-explanation",
+      "note": "第一學習階段教材包含家庭與學校稱謂、問候、兒歌及文化。"
+    },
+    {
+      "id": "hushi-114",
+      "title": "臺北市胡適國小｜114學年度一年級課程計畫",
+      "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=4109248a-61ae-4b85-bc6d-6abb2c00e1b6&subject=Consolidate",
+      "kind": "public-school-example",
+      "note": "僅作上學期主題實例；含生活、語文、健體、數學，並非全國統一進度。"
+    },
+    {
+      "id": "yangmingshan-114",
+      "title": "臺北市陽明山國小｜114學年度一年級國語文課程計畫",
+      "url": "https://www.ymps.tp.edu.tw/uploads/1756270492601JLzNjt2i.pdf",
+      "kind": "public-school-example",
+      "note": "首冊注音與第一冊國語文的上學期安排例。"
+    },
+    {
+      "id": "sinsheng-health-114",
+      "title": "屏東縣新生國小｜114學年度一年級健康與體育計畫",
+      "url": "https://www.cp.ptc.edu.tw/storage/134608/134608_114_B-09_1A.pdf?1775033204=",
+      "kind": "public-school-example",
+      "note": "上學期包含交通與遊戲安全、衛生、成長情緒、飲食及走跑跳和球類活動。"
+    },
+    {
+      "id": "zhongxiao-life-114",
+      "title": "臺北市忠孝國小｜114學年度一年級上學期生活課程計畫",
+      "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=b0f77243-b339-446f-8471-9c8912d02466&subject=LifeCourse",
+      "kind": "public-school-example",
+      "note": "作為風與生活等不同版本主題安排的例子。"
+    },
+    {
+      "id": "school-flexible-example",
+      "title": "新竹縣課程計畫平台｜一年級上學期課程安排實例",
+      "url": "https://doe.hcc.edu.tw/doe_ipage/lesson?class=0&field=0&general_class=&grade=1&ownership=&school=7f8d992a-d9d6-4f5a-9a81-5ea6356631b7&school_id=188&target=general_record&term=1&town=12&year=2023",
+      "kind": "public-school-example",
+      "note": "112學年度案例，展示學校自訂閱讀、在地及英語啟蒙等彈性課程；不是目前全國共通課表。"
+    },
+    {
+      "id": "math-framework",
+      "title": "教育部｜數學領域課程綱要發布頁與附件",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788&kw=%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81&media=print",
+      "kind": "official-framework",
+      "note": "教育部正式發布之數學領域課綱，附國民中小學及普通型高中PDF。"
+    },
+    {
+      "id": "mingchuan-114",
+      "title": "臺北市銘傳國小｜114學年度一年級上學期課程計畫",
+      "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=5d5a2b08-7d9b-4c25-b103-0f58c0772c73&subject=AddConsolidate",
+      "kind": "public-school-example",
+      "note": "作為口腔衛生、身體界線，以及跨文化、國際教育、合作學習等校訂課程的實例。"
+    }
+  ],
+  "courses": [
+    {
+      "id": "mandarin",
+      "title": "國語文",
+      "category": "部定課程",
+      "classification": "required",
+      "badge": "部定・共同學習",
+      "description": "注音起步，串起聽、說、讀、寫的語文主題。",
+      "weeklyPeriods": "6節／週",
+      "topicBasis": "小一上學期跨版本主題整理",
+      "topics": [
+        {
+          "id": "mandarin-01",
+          "title": "注音符號的認讀與書寫",
+          "group": "注音入門"
+        },
+        {
+          "id": "mandarin-02",
+          "title": "聲符、韻符與介符",
+          "group": "注音入門"
+        },
+        {
+          "id": "mandarin-03",
+          "title": "聲調辨識與標注",
+          "group": "注音入門"
+        },
+        {
+          "id": "mandarin-04",
+          "title": "二拼音與三拼音",
+          "group": "注音入門"
+        },
+        {
+          "id": "mandarin-05",
+          "title": "結合韻與拼讀",
+          "group": "注音入門"
+        },
+        {
+          "id": "mandarin-06",
+          "title": "注音語詞與句子",
+          "group": "注音入門"
+        },
+        {
+          "id": "mandarin-07",
+          "title": "專心聆聽與輪流發言",
+          "group": "聆聽與口說"
+        },
+        {
+          "id": "mandarin-08",
+          "title": "聽懂故事與生活訊息",
+          "group": "聆聽與口說"
+        },
+        {
+          "id": "mandarin-09",
+          "title": "自我介紹與生活分享",
+          "group": "聆聽與口說"
+        },
+        {
+          "id": "mandarin-10",
+          "title": "提問、回答與看圖說話",
+          "group": "聆聽與口說"
+        },
+        {
+          "id": "mandarin-11",
+          "title": "常見國字與生活語詞",
+          "group": "識字與書寫"
+        },
+        {
+          "id": "mandarin-12",
+          "title": "基本筆畫與筆順",
+          "group": "識字與書寫"
+        },
+        {
+          "id": "mandarin-13",
+          "title": "字形、部件與字義",
+          "group": "識字與書寫"
+        },
+        {
+          "id": "mandarin-14",
+          "title": "握筆、坐姿與書寫習慣",
+          "group": "識字與書寫"
+        },
+        {
+          "id": "mandarin-15",
+          "title": "兒歌、短文與繪本閱讀",
+          "group": "閱讀與短句"
+        },
+        {
+          "id": "mandarin-16",
+          "title": "朗讀與語句停頓",
+          "group": "閱讀與短句"
+        },
+        {
+          "id": "mandarin-17",
+          "title": "圖文理解與故事順序",
+          "group": "閱讀與短句"
+        },
+        {
+          "id": "mandarin-18",
+          "title": "標點符號與簡單句子",
+          "group": "閱讀與短句"
+        }
+      ],
+      "sourceIds": [
+        "mandarin-framework",
+        "yangmingshan-114"
+      ],
+      "caveats": [
+        "國語文課綱第一學習階段涵蓋一、二年級；本頁僅整理小一上常見的入門主題。",
+        "注音編排、生字、課名與週次依教材版本及學校計畫而異。"
+      ]
+    },
+    {
+      "id": "mathematics",
+      "title": "數學",
+      "category": "部定課程",
+      "classification": "required",
+      "badge": "部定・共同學習",
+      "description": "從數量、形狀到時間，整理生活裡的數學主題。",
+      "weeklyPeriods": "4節／週",
+      "topicBasis": "小一上學期跨版本主題整理",
+      "topics": [
+        {
+          "id": "math-01",
+          "title": "10以內的數與數量",
+          "group": "數與順序"
+        },
+        {
+          "id": "math-02",
+          "title": "0的認識",
+          "group": "數與順序"
+        },
+        {
+          "id": "math-03",
+          "title": "順序、位置與序數",
+          "group": "數與順序"
+        },
+        {
+          "id": "math-04",
+          "title": "數量多少與大小比較",
+          "group": "數與順序"
+        },
+        {
+          "id": "math-05",
+          "title": "20、30以內的數與數序",
+          "group": "數與順序"
+        },
+        {
+          "id": "math-06",
+          "title": "10以內數的分解與合成",
+          "group": "分合與加減"
+        },
+        {
+          "id": "math-07",
+          "title": "加法的意義與算式",
+          "group": "分合與加減"
+        },
+        {
+          "id": "math-08",
+          "title": "10以內的加法",
+          "group": "分合與加減"
+        },
+        {
+          "id": "math-09",
+          "title": "減法的意義與算式",
+          "group": "分合與加減"
+        },
+        {
+          "id": "math-10",
+          "title": "10以內的減法",
+          "group": "分合與加減"
+        },
+        {
+          "id": "math-11",
+          "title": "生活情境中的加減",
+          "group": "分合與加減"
+        },
+        {
+          "id": "math-12",
+          "title": "長短、高矮與直接比較",
+          "group": "形狀與長度"
+        },
+        {
+          "id": "math-13",
+          "title": "常見平面形狀與物體分類",
+          "group": "形狀與長度"
+        },
+        {
+          "id": "math-14",
+          "title": "圖形拼組與操作",
+          "group": "形狀與長度"
+        },
+        {
+          "id": "math-15",
+          "title": "事件先後與時間長短",
+          "group": "時間"
+        },
+        {
+          "id": "math-16",
+          "title": "生活時間用語",
+          "group": "時間"
+        },
+        {
+          "id": "math-17",
+          "title": "鐘面、整點與半點",
+          "group": "時間"
+        }
+      ],
+      "sourceIds": [
+        "math-framework",
+        "math-handbook",
+        "hushi-114"
+      ],
+      "caveats": [
+        "數學課綱有一年級學年內容，並未規定全國一致的上、下學期單元順序。",
+        "數到30、10以內加減與讀鐘為公開小一上計畫中的典型安排；範圍與順序仍以所用版本為準。"
+      ]
+    },
+    {
+      "id": "life",
+      "title": "生活課程",
+      "category": "部定課程",
+      "classification": "required-integrated",
+      "badge": "部定・統整學習",
+      "description": "認識新校園，也探索自然、聲音、創作與人際生活。",
+      "weeklyPeriods": "6節／週",
+      "topicBasis": "小一上學期跨版本主題整理",
+      "topics": [
+        {
+          "id": "life-01",
+          "title": "上學準備與新生活",
+          "group": "成為小學生"
+        },
+        {
+          "id": "life-02",
+          "title": "書包、學用品與整理",
+          "group": "成為小學生"
+        },
+        {
+          "id": "life-03",
+          "title": "學校作息與班級約定",
+          "group": "成為小學生"
+        },
+        {
+          "id": "life-04",
+          "title": "校園空間與校園人物",
+          "group": "成為小學生"
+        },
+        {
+          "id": "life-05",
+          "title": "認識朋友與表達感受",
+          "group": "成為小學生"
+        },
+        {
+          "id": "life-06",
+          "title": "校園植物與自然觀察",
+          "group": "觀察與探索"
+        },
+        {
+          "id": "life-07",
+          "title": "感官觀察與發現",
+          "group": "觀察與探索"
+        },
+        {
+          "id": "life-08",
+          "title": "風、天氣與生活",
+          "group": "觀察與探索"
+        },
+        {
+          "id": "life-09",
+          "title": "生活聲音與聲音特徵",
+          "group": "觀察與探索"
+        },
+        {
+          "id": "life-10",
+          "title": "玩具、材料與物品分類",
+          "group": "觀察與探索"
+        },
+        {
+          "id": "life-11",
+          "title": "歌唱、節奏與簡單樂器",
+          "group": "藝術與表達"
+        },
+        {
+          "id": "life-12",
+          "title": "肢體律動與模仿表演",
+          "group": "藝術與表達"
+        },
+        {
+          "id": "life-13",
+          "title": "線條、色彩與圖像表達",
+          "group": "藝術與表達"
+        },
+        {
+          "id": "life-14",
+          "title": "紙材手作與創意製作",
+          "group": "藝術與表達"
+        },
+        {
+          "id": "life-15",
+          "title": "分享、合作與愛惜物品",
+          "group": "共同生活"
+        },
+        {
+          "id": "life-16",
+          "title": "環境整理與愛護自然",
+          "group": "共同生活"
+        },
+        {
+          "id": "life-17",
+          "title": "節慶、新年與家庭生活",
+          "group": "共同生活"
+        },
+        {
+          "id": "life-18",
+          "title": "回顧成長與分享成果",
+          "group": "共同生活"
+        }
+      ],
+      "sourceIds": [
+        "life-framework",
+        "hushi-114",
+        "zhongxiao-life-114"
+      ],
+      "caveats": [
+        "低年級的社會、自然科學、藝術及綜合活動以生活課程統整呈現，不另列為四門全國部定科目。",
+        "生活課程是主題統整；聲音、風、植物、玩具與節慶的取材及學期安排依學校與版本不同。"
+      ]
+    },
+    {
+      "id": "health-pe",
+      "title": "健康與體育",
+      "category": "部定課程",
+      "classification": "required",
+      "badge": "部定・共同學習",
+      "description": "涵蓋照顧自己、生活安全，以及身體活動與遊戲。",
+      "weeklyPeriods": "3節／週",
+      "topicBasis": "小一上學期跨版本主題整理",
+      "topics": [
+        {
+          "id": "health-01",
+          "title": "身體成長與自我認識",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-02",
+          "title": "身體清潔與洗手習慣",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-03",
+          "title": "如廁與個人衛生",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-04",
+          "title": "口腔清潔與生活保健",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-05",
+          "title": "身體界線與自我保護",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-06",
+          "title": "常見食物與飲食習慣",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-07",
+          "title": "珍惜食物與用餐禮儀",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-08",
+          "title": "情緒辨識與感受表達",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-09",
+          "title": "同學相處與互相尊重",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-10",
+          "title": "上下學交通安全",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-11",
+          "title": "校園與遊戲場所安全",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-12",
+          "title": "健康中心與尋求協助",
+          "group": "健康生活"
+        },
+        {
+          "id": "health-13",
+          "title": "運動服裝、場地與安全",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-14",
+          "title": "暖身與伸展",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-15",
+          "title": "身體部位與動作模仿",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-16",
+          "title": "走、跑、跳與方向變化",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-17",
+          "title": "身體造型、支撐與平衡",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-18",
+          "title": "唱跳與節奏律動",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-19",
+          "title": "圈、繩等器材遊戲",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-20",
+          "title": "滾球、傳球與接球",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-21",
+          "title": "簡單拋擲與控球",
+          "group": "體育活動"
+        },
+        {
+          "id": "health-22",
+          "title": "遊戲規則與團隊合作",
+          "group": "體育活動"
+        }
+      ],
+      "sourceIds": [
+        "health-framework",
+        "sinsheng-health-114",
+        "hushi-114",
+        "mingchuan-114"
+      ],
+      "caveats": [
+        "健康與體育是同一領域，此處分組方便瀏覽，不增加部定科目或節數。",
+        "球類、器材、律動及健康主題依教材與場地條件調整，並非每校每項都在上學期教授。"
+      ]
+    },
+    {
+      "id": "language-choice",
+      "title": "本土語文／臺灣手語／新住民語文",
+      "shortTitle": "語文選習",
+      "category": "語別選習",
+      "classification": "required-choice",
+      "badge": "部定・選一語別",
+      "description": "依學生意願選一語別，從日常互動與生活文化起步。",
+      "weeklyPeriods": "1節／週（選一語別）",
+      "topicBasis": "各語別入門方向；由學校安排上學期進度",
+      "languageOptions": [
+        "本土語文：閩南語文、客語文、原住民族語文、閩東語文等",
+        "臺灣手語",
+        "新住民語文：以東南亞地區語文為主"
+      ],
+      "topics": [
+        {
+          "id": "language-01",
+          "title": "問候、道別與禮貌用語",
+          "group": "生活互動"
+        },
+        {
+          "id": "language-02",
+          "title": "自我介紹與名字",
+          "group": "生活互動"
+        },
+        {
+          "id": "language-03",
+          "title": "家人、稱謂與朋友",
+          "group": "生活互動"
+        },
+        {
+          "id": "language-04",
+          "title": "學校生活與學用品",
+          "group": "生活互動"
+        },
+        {
+          "id": "language-05",
+          "title": "簡單數量與生活物品",
+          "group": "生活互動"
+        },
+        {
+          "id": "language-06",
+          "title": "語音、語詞與簡單語句（口語類）",
+          "group": "依語別展開"
+        },
+        {
+          "id": "language-07",
+          "title": "童謠、故事與生活文化（依語別）",
+          "group": "依語別展開"
+        },
+        {
+          "id": "language-08",
+          "title": "簡單手語訊息的理解與表達",
+          "group": "依語別展開"
+        },
+        {
+          "id": "language-09",
+          "title": "視覺溝通與聾人文化",
+          "group": "依語別展開"
+        },
+        {
+          "id": "language-10",
+          "title": "尊重不同語言與文化",
+          "group": "依語別展開"
+        }
+      ],
+      "sourceIds": [
+        "general-pdf",
+        "languages-index",
+        "sign-framework",
+        "new-immigrant-framework",
+        "new-immigrant-moe",
+        "hushi-114"
+      ],
+      "caveats": [
+        "這是每週一節的部定選一語別課程，並非所有語言都要修習。",
+        "學校調查實際需求與意願開課；各語別教材、語文程度與進度不同，這份清單只呈現入門方向。",
+        "臺灣手語以視覺語言的理解與表達為主，不套用口語課的發音或注音項目。"
+      ]
+    },
+    {
+      "id": "flexible",
+      "title": "彈性學習課程",
+      "category": "校訂課程",
+      "classification": "school-based",
+      "badge": "校訂・依學校安排",
+      "description": "各校依特色與學生需求規劃；以下是可見的主題類型。",
+      "weeklyPeriods": "2–4節／週",
+      "topicBasis": "校訂類型與主題示例，非全國共同科目清單",
+      "topics": [
+        {
+          "id": "flex-01",
+          "title": "英語啟蒙與生活溝通",
+          "group": "學校自訂主題例"
+        },
+        {
+          "id": "flex-02",
+          "title": "閱讀、繪本與圖書館利用",
+          "group": "學校自訂主題例"
+        },
+        {
+          "id": "flex-03",
+          "title": "校園與在地文化探索",
+          "group": "學校自訂主題例"
+        },
+        {
+          "id": "flex-04",
+          "title": "跨領域主題與議題探究",
+          "group": "學校自訂主題例"
+        },
+        {
+          "id": "flex-05",
+          "title": "安全、防災與生活議題",
+          "group": "學校自訂主題例"
+        },
+        {
+          "id": "flex-06",
+          "title": "品德、人際與多元文化",
+          "group": "學校自訂主題例"
+        },
+        {
+          "id": "flex-07",
+          "title": "戶外教育與校際交流",
+          "group": "其他校訂安排"
+        },
+        {
+          "id": "flex-08",
+          "title": "社團、技藝與特色活動",
+          "group": "其他校訂安排"
+        },
+        {
+          "id": "flex-09",
+          "title": "班級輔導與自主學習",
+          "group": "其他校訂安排"
+        },
+        {
+          "id": "flex-10",
+          "title": "特殊需求領域（依評估與需求）",
+          "group": "其他校訂安排"
+        }
+      ],
+      "sourceIds": [
+        "general-pdf",
+        "school-flexible-example",
+        "mingchuan-114"
+      ],
+      "caveats": [
+        "小一英語不是全國部定必修科目；是否開課、名稱與範圍依地方及學校課程計畫。",
+        "閱讀、資訊、程式與雙語等課程是否開設，以及如何編排，由各校規劃。",
+        "議題也會融入部定課程，並不表示各校另有同名獨立課。",
+        "特殊需求課程依學生需要與專業評估規劃，不是全體學生都修習。"
+      ]
+    }
+  ]
+}

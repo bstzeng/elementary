@@ -257,3 +257,89 @@ details[open] > summary .summary-arrow { transform: rotate(180deg); }
   .source-links { display: block; }
   .source-links a::after { content: " (" attr(href) ")"; font-size: 8pt; overflow-wrap: anywhere; }
 }
+/* Six-year curriculum extension: retain the original learning-garden card design. */
+select { font: inherit; max-width: 100%; }
+select:focus-visible { outline: 3px solid #bd7135; outline-offset: 3px; }
+.coverage-count { color: var(--muted); font-size: 11px; margin: 17px 0 0; letter-spacing: .4px; }
+.grade-button[aria-pressed="true"] { background: var(--green); color: white; font-weight: 700; }
+.grade-button[aria-pressed="false"]:hover { background: #eef3e8; }
+.semester-button { background: transparent; box-shadow: none; color: var(--muted); }
+.semester-button[aria-pressed="true"] { color: var(--green); background: white; box-shadow: 0 1px 3px #263d3212; font-weight: 700; }
+.reading-guide { font-size: 12px; color: #5b6d59; background: #f0f3e9; padding: 14px 18px; border-radius: 9px; margin: 0 0 21px; }
+.subject-toolbar { align-items: center; gap: 10px; margin: -6px 0 18px; font-size: 11px; color: var(--muted); flex-wrap: wrap; }
+.subject-toolbar select { background: #fff; color: var(--ink); border: 1px solid #d6dfd3; border-radius: 7px; min-height: 40px; padding: 6px 27px 6px 11px; font-size: 12px; }
+#filter-hint { margin-left: auto; }
+.print-button { min-height: 40px; border: 0; background: transparent; color: var(--green); font-size: 11px; text-decoration: underline; text-underline-offset: 4px; }
+.semester-panel { scroll-margin-top: 22px; }
+.semester-panel + .semester-panel { margin-top: 36px; }
+.js-ready .semester-panel + .semester-panel { margin-top: 0; }
+.semester-heading { margin: 0 0 6px; }
+.js-ready .semester-heading { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); }
+.semester-summary { margin: 0 0 21px; color: var(--muted); font-size: 12px; line-height: 1.9; }
+.graduation-note { font-size: 12px; color: #856238; background: #fbf3e8; padding: 10px 14px; border-radius: 8px; margin-bottom: 18px; }
+.course-periods { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; color: var(--muted); font-size: 10px; margin: -7px 0 14px; }
+.course-periods span { margin-left: auto; font-size: 9px; color: var(--accent); }
+.topic-basis { color: var(--muted); font-size: 10px; margin: 0 0 12px; }
+.course-card[data-course="school-flexible"] { --accent: #8a664e; --wash: #f4eee7; }
+.course-card[data-course="english"] { --accent: #59698c; --wash: #edf0f8; }
+.course-card[data-course="social"] { --accent: #886638; --wash: #f8f1e4; }
+.course-card[data-course="science"] { --accent: #48714e; --wash: #eef5e9; }
+.course-card[data-course="arts"] { --accent: #97696c; --wash: #f9edeb; }
+.course-card[data-course="integrated"] { --accent: #4d7675; --wash: #edf5f3; }
+.framework-section { padding: 12px 0 36px; scroll-margin-top: 24px; }
+.stage-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 17px; margin: 23px 0 13px; }
+.stage-card { background: #fff; border: 1px solid var(--line); border-radius: 13px; padding: 21px; }
+.stage-card h3 { font-size: 21px; }
+.stage-card p { color: var(--muted); font-size: 12px; margin: 8px 0 0; }
+.stage-card .section-kicker { font-size: 10px; font-weight: 700; margin: 0 0 7px; }
+.stage-card .stage-periods { font-size: 10px; border-top: 1px solid var(--line); padding-top: 10px; }
+.framework-source { font-size: 11px; color: var(--muted); margin: 10px 0 20px; }
+.framework-details { margin-top: 10px; background: #fff; border: 1px solid var(--line); border-radius: 11px; padding: 0 20px; }
+.framework-details > summary, .source-directory > summary { display: flex; align-items: center; justify-content: space-between; gap: 12px; list-style: none; cursor: pointer; padding: 14px 0; min-height: 48px; color: var(--green); font-size: 13px; font-weight: 650; }
+.framework-details > p { color: var(--muted); font-size: 12px; }
+.framework-subjects { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 17px; padding: 6px 0 20px; }
+.framework-subject { padding: 18px; background: #f7f8f2; border-radius: 9px; }
+.framework-subject h3 { font-size: 17px; }
+.framework-subject h4 { font-size: 11px; margin: 15px 0 5px; color: var(--green); }
+.framework-subject ul, .competency-grid ul { margin: 0; padding-left: 18px; color: var(--muted); font-size: 12px; }
+.framework-stage { color: var(--muted); font-size: 10px; margin: 5px 0; }
+.framework-subject .card-sources { margin: 13px 0 0; padding-bottom: 0; overflow-wrap: anywhere; }
+.competency-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 20px; padding: 4px 0 24px; }
+.competency-grid h3 { font-size: 15px; margin-bottom: 9px; }
+.issue-list { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; padding: 0; margin-bottom: 20px; }
+.issue-list li { padding: 5px 11px; color: #536b49; background: #eff3e8; border-radius: 6px; font-size: 12px; }
+.source-directory { margin-top: 10px; border-top: 1px solid var(--line); }
+.source-list { padding-left: 23px; color: var(--muted); font-size: 11px; }
+.source-list li { margin-bottom: 14px; padding-left: 4px; overflow-wrap: anywhere; }
+.source-list p { margin: 3px 0; }
+.source-kind { display: block; font-size: 9px; letter-spacing: .4px; color: #697c62; }
+.no-script nav { display: flex; flex-wrap: wrap; gap: 12px; }
+@media (max-width: 800px) { .stage-grid { grid-template-columns: 1fr; } .stage-card { padding: 18px; } .competency-grid { grid-template-columns: 1fr; gap: 18px; } }
+@media (max-width: 540px) {
+ .reading-guide { font-size: 11px; padding: 12px 14px; }
+ .subject-toolbar { gap: 8px; margin-top: 0; }
+ .subject-toolbar select { max-width: calc(100% - 50px); flex: 1; }
+ #filter-hint { margin-left: 0; flex-basis: calc(100% - 105px); }
+ .framework-subjects { grid-template-columns: 1fr; }
+ .framework-details { padding-inline: 14px; }
+ .framework-details > summary { font-size: 12px; }
+ .framework-subject { padding: 15px; }
+ .coverage-count { font-size: 10px; }
+ .semester-summary { font-size: 11px; }
+ .results { flex-wrap: wrap; }
+ #result-count { overflow-wrap: anywhere; }
+}
+@media print {
+ .subject-toolbar, .framework-section, .sources-section, .reading-guide, .coverage-count { display: none !important; }
+ .semester-panel[hidden], .course-card[hidden], .topic-list li[hidden] { display: none !important; }
+ .semester-summary { color: #333; }
+ .course-periods span { display: none; }
+ .card-sources a::after { content: " (" attr(href) ")"; font-size: 7pt; overflow-wrap: anywhere; }
+ .course-card { break-inside: auto; }
+ .card-intro, .topic-list li { break-inside: avoid; }
+}
+
+.language-framework { margin-top: 16px; border-top: 1px solid var(--line); }
+.language-framework summary { display: flex; align-items: center; justify-content: space-between; gap: 8px; cursor: pointer; min-height: 44px; font-size: 11px; color: var(--green); list-style: none; }
+.language-framework p { font-size: 11px; color: var(--muted); }
+.language-framework section + section { border-top: 1px dashed #d4dfcb; margin-top: 13px; padding-top: 2px; }

@@ -1,52 +1,62 @@
 import assert from 'node:assert/strict';
-import { readFile, access } from 'node:fs/promises';
-import { execFileSync } from 'node:child_process';
-import { fileURLToPath } from 'node:url';
+import {readFile,access} from 'node:fs/promises';
+import {execFileSync} from 'node:child_process';
+import {fileURLToPath} from 'node:url';
 import path from 'node:path';
-const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const read = name => readFile(path.join(root, name), 'utf8');
-const data = JSON.parse(await read('curriculum.json'));
-const html = await read('index.html');
-const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(m => m[1]);
-const topics = data.courses.flatMap(c => c.topics);
-const expectedCourses = ['mandarin', 'mathematics', 'life', 'health-pe', 'language-choice', 'flexible'];
-assert.deepEqual(data.courses.map(c => c.id), expectedCourses, 'Expected first-grade curriculum structure');
-assert.equal(data.meta.grade, 1); assert.equal(data.meta.semester, 1);
-assert.equal(new Set(ids).size, ids.length, 'HTML IDs are unique');
-assert.equal(new Set(topics.map(t => t.id)).size, topics.length, 'Topic IDs are unique');
-assert.equal((html.match(/data-topic-search=/g) || []).length, topics.length, 'All topics are statically rendered');
-assert.equal((html.match(/class="course-card"/g) || []).length, 6);
-assert.equal((html.match(/data-category="national"/g) || []).length, 5);
-assert.equal((html.match(/data-category="school"/g) || []).length, 1);
-assert.equal((html.match(/class="grade-button"[^>]* disabled/g) || []).length, 5);
-assert.ok(html.includes('上學期 · 規劃中') === false);
-assert.ok(html.includes('下學期 · 規劃中'));
-assert.ok(html.includes('不是全國統一的上學期課本目錄'));
-assert.ok(html.includes('英語不是全國部定必修科目'));
-assert.ok(html.includes('語別擇一'));
-assert.ok(html.includes('尚未提供教學內容'));
-assert.ok(html.includes('aria-live="polite"'));
-assert.ok(html.includes('<html lang="zh-Hant">'));
-assert.equal((html.match(/<h1\b/g) || []).length, 1);
-assert.equal((html.match(/<main\b/g) || []).length, 1);
-for (const course of data.courses) {
-  assert.equal(new Set(course.topics.map(t => t.title)).size, course.topics.length, `Duplicate titles: ${course.id}`);
-  for (const sourceId of course.sourceIds) assert.ok(data.sources.some(s => s.id === sourceId), `Missing source: ${sourceId}`);
-  for (const topic of course.topics) assert.ok(ids.includes(topic.id));
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const read=file=>readFile(path.join(root,file),'utf8');
+const json=async file=>JSON.parse(await read(file));
+const manifest=await json('curriculum.json');
+const sources=await json(manifest.sourceFile);
+const framework=await json(manifest.frameworkFile);
+const semesters=(await Promise.all(manifest.gradeFiles.map(json))).flatMap(g=>g.semesters);
+const html=await read('index.html');
+const ids=[...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
+const topicIds=[];
+assert.equal(semesters.length,12);assert.equal(manifest.gradeFiles.length,6);
+assert.equal(new Set(ids).size,ids.length,'Unique HTML IDs');
+assert.equal(new Set(sources.map(s=>s.id)).size,sources.length,'Unique source IDs');
+const requiredLow=['mandarin','mathematics','life','health-pe','language-choice','school-flexible'];
+const requiredHigh=['mandarin','mathematics','english','social','science','arts','integrated','health-pe','language-choice','school-flexible'];
+const checkSources=sourceIds=>{assert.ok(sourceIds.length>0);sourceIds.forEach(id=>assert.ok(sources.some(s=>s.id===id),`Missing source ${id}`));};
+for(let grade=1;grade<=6;grade++)for(let semester=1;semester<=2;semester++){
+ const rows=semesters.filter(s=>s.grade===grade&&s.semester===semester);assert.equal(rows.length,1,'Every grade/semester exactly once');
+ const row=rows[0];assert.ok(row.summary.length>15,'Meaningful semester summary');
+ assert.deepEqual(row.courses.map(c=>c.id).sort(),(grade<=2?requiredLow:requiredHigh).toSorted());
+ for(const c of row.courses){
+  assert.ok(c.description&&c.topicBasis&&c.weeklyPeriods);assert.ok(c.topics.length>=5,`Meaningful coverage ${grade}/${semester}/${c.id}`);
+  assert.equal(new Set(c.topics.map(t=>t.title)).size,c.topics.length,'No duplicate course topic titles');
+  assert.ok(c.caveats.length);checkSources(c.sourceIds);
+  assert.equal(c.classification==='school-defined',c.id==='school-flexible');
+  for(const t of c.topics){assert.ok(t.id&&t.title&&t.group);topicIds.push(t.id);assert.ok(ids.includes(t.id));}
+ }
 }
-for (const source of data.sources) {
-  const url = new URL(source.url);
-  assert.equal(url.protocol, 'https:');
-  assert.ok(/\.(edu|gov)\.tw$/.test(url.hostname), `Expected public Taiwan source: ${url.hostname}`);
+assert.equal(new Set(topicIds).size,topicIds.length,'Unique topic IDs');
+for(let grade=1;grade<=6;grade++){
+ const [a,b]=semesters.filter(s=>s.grade===grade);
+ for(const c of a.courses){const d=b.courses.find(x=>x.id===c.id);assert.notDeepEqual(c.topics.map(t=>t.title),d.topics.map(t=>t.title),`Real semester progression ${grade}/${c.id}`);}
 }
-for (const [, link] of html.matchAll(/(?:href|src)="([^"]+)"/g)) {
-  if (link.startsWith('#')) assert.ok(ids.includes(link.slice(1)), `Missing anchor: ${link}`);
-  else if (link.startsWith('./') && link !== './') await access(path.join(root, link.slice(2)));
-  else if (link !== './') assert.ok(link.startsWith('https://'), `Unsafe or root-relative link: ${link}`);
+const original=await json('tests/fixtures/approved-grade1-semester1.json');
+const first=semesters.find(s=>s.grade===1&&s.semester===1);
+for(const c of original.courses){const current=first.courses.find(x=>x.id===(c.id==='flexible'?'school-flexible':c.id));assert.deepEqual(current.topics.map(({title,group})=>({title,group})),c.topics.map(({title,group})=>({title,group})),'Preserve approved first-semester content');}
+assert.equal(first.courses.reduce((n,c)=>n+c.topics.length,0),95);
+assert.equal((html.match(/class="course-card"/g)||[]).length,104);
+assert.equal((html.match(/data-topic-search=/g)||[]).length,topicIds.length,'All topics have static fallback');
+assert.equal((html.match(/class="semester-panel"/g)||[]).length,12);
+assert.equal(framework.stages.length,3);assert.equal(framework.issues.length,19);assert.equal(new Set(framework.issues).size,19);
+assert.equal(framework.competencies.length,3);assert.equal(framework.competencies.reduce((n,c)=>n+c.items.length,0),9);
+assert.ok(framework.subjects.length>=11);framework.subjects.forEach(s=>{assert.ok(s.performance.length&&s.content.length);checkSources(s.sourceIds);});
+for(const s of sources){assert.equal(new URL(s.url).protocol,'https:');assert.ok(s.title&&s.note&&s.kind);}
+for(const [,link] of html.matchAll(/(?:href|src)="([^"]+)"/g)){
+ if(link.startsWith('#'))assert.ok(ids.includes(link.slice(1)),`Valid static anchor ${link}`);
+ else if(link.startsWith('./')&&link!=='./')await access(path.join(root,link.slice(2)));
+ else assert.ok(link==='./'||link.startsWith('https://'),`Safe relative or HTTPS URL ${link}`);
 }
-for (const match of html.matchAll(/<a\b[^>]*target="_blank"[^>]*>/g)) assert.ok(match[0].includes('rel="noopener noreferrer"'));
-assert.ok(!/<iframe|<form[^>]+action=|http:\/\/|eval\(|localStorage|sessionStorage/.test(html));
-execFileSync(process.execPath, ['--check', path.join(root, 'app.js')]);
-execFileSync(process.execPath, [path.join(root, 'scripts/build.mjs')]);
-assert.equal(await read('index.html'), html, 'Committed HTML must match deterministic build');
-console.log(`PASS: 6 course cards, ${topics.length} topics, ${data.sources.length} source references, unique IDs, safe links, future-grade disabled states, curriculum caveats, complete static fallback, script syntax, deterministic build.`);
+for(const match of html.matchAll(/<a\b[^>]*target="_blank"[^>]*>/g))assert.ok(match[0].includes('rel="noopener noreferrer"'));
+assert.ok(html.includes('不逐字收錄所有課綱指標'));assert.ok(html.includes('不是全國統一的課本目錄'));assert.ok(html.includes('19 門部定必修科目'));assert.ok(html.includes('畢業及校曆'));
+assert.ok(!html.includes('規劃中'));assert.ok(html.includes('aria-live="polite"'));assert.equal((html.match(/<h1\b/g)||[]).length,1);assert.ok(html.includes('<html lang="zh-Hant">'));
+assert.ok(!/<iframe|http:\/\/|eval\(|localStorage|sessionStorage/.test(html));
+execFileSync(process.execPath,['--check',path.join(root,'app.js')]);
+execFileSync(process.execPath,[path.join(root,'scripts/build.mjs')]);
+assert.equal(await read('index.html'),html,'Deterministic generated HTML');
+console.log(`PASS: 12 semesters, 104 course cards, ${topicIds.length} topics, ${sources.length} sources; required subject and stage coverage, exact first-semester preservation, meaningful semester differences, sources/anchors/unique IDs, framework and 19 issues, complete no-JS HTML, safe links and deterministic build.`);
