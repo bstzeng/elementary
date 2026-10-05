@@ -1,0 +1,204 @@
+{
+  "id": "g2s2-mathematics-10",
+  "course": "數學",
+  "title": "立體形體及分類記錄",
+  "subtitle": "從實物說出特徵，把同一組形體再分出小群。",
+  "duration": "建議2–3節，每節35–40分鐘；依操作與討論需要分段。",
+  "materials": [
+    "安全輕巧的大球體、圓柱及盒形模型",
+    "A至F的固定形體色名卡",
+    "粗筆、分群紙與平整托盤"
+  ],
+  "goals": [
+    "能辨認平面圖形與立體形體",
+    "能用平面、曲面等多個特徵描述形體",
+    "能固定資料做分類與群內再分類",
+    "能用卡號核對不重不漏並理解可改條件"
+  ],
+  "intro": "會滾的物體都是球嗎？看一看平面和彎曲表面，再用同一組六張卡練習清楚分類。",
+  "sections": [
+    {
+      "title": "平面圖形與立體物件不同",
+      "childText": "看一張面，還不是看完整形體。",
+      "html": "<p>紙上畫的圓是平面圖形；球體是可以轉動、從不同方向觀察的立體形體。盒子的某一面可能像正方形或長方形，但整個盒子不只那一張面。看照片或圖時，要知道有些面藏在後方。</p><p>今天用安全大模型辨認球體、圓柱、正方體與長方體。名字幫助溝通，更重要的是能說哪些地方平、哪些地方彎、有哪些邊與角。不要只因某一張投影看起來圓，就斷言物體一定是球。</p>",
+      "id": "g2s2-mathematics-10-s01"
+    },
+    {
+      "title": "觀察平面和彎曲表面",
+      "childText": "球體沒有平平的一面，圓柱卻有。",
+      "html": "<p>球體的表面處處彎曲，沒有平的面。圓柱有上下兩個圓形平面，中間繞一圈是彎曲表面。正方體有6個正方形平面，長方體盒形有6個長方形面；正方體也可看成特別的長方體。</p><p>下方只畫部分可見外形作示意，完整面數要配合真實模型轉著看，不把圖上的可見三面當全部只有三面。立體形體的面與紙上畫的圖形相關，卻不是同一種物件。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 192\" role=\"img\" aria-labelledby=\"g2s2-mathematics-10-solid-models\"><title id=\"g2s2-mathematics-10-solid-models\">球體以圓輪廓和虛線弧示意立體，虛線不是平面或邊；圓柱畫出頂面與彎曲側面，底面部分被遮住。需轉動實物觀察完整特徵。</title><circle cx=\"80\" cy=\"85\" r=\"46\" fill=\"#c9e1ed\" stroke=\"#526476\" stroke-width=\"2\"/><ellipse cx=\"80\" cy=\"85\" rx=\"46\" ry=\"13\" fill=\"none\" stroke=\"#526476\" stroke-dasharray=\"5 4\"/><text x=\"80\" y=\"165\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">球體示意</text><rect x=\"225\" y=\"56\" width=\"70\" height=\"78\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><ellipse cx=\"260\" cy=\"56\" rx=\"35\" ry=\"12\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M225 134 A35 12 0 0 0 295 134\" fill=\"none\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"260\" y=\"165\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">圓柱示意</text></svg><figcaption>球體以圓輪廓和虛線弧示意立體，虛線不是平面或邊；圓柱畫出頂面與彎曲側面，底面部分被遮住。需轉動實物觀察完整特徵。</figcaption></figure>",
+      "id": "g2s2-mathematics-10-s02"
+    },
+    {
+      "title": "會滾，不代表就是球體",
+      "childText": "要用不只一個特徵辨認。",
+      "html": "<p>球體能滾動，圓柱側放也可能沿桌面滾動；圓錐這類有彎曲表面的物體也可能滾。因此看到「會滾」不能直接判球體。還需看有沒有平面、圓形底面或尖端等特徵。</p><p>本課不做推滾追逐。成人在平整托盤內輕輕示範或只轉動模型觀察，孩子用語言說可能的接觸面。圓柱立在平底上和側放的表現不同，放法也是觀察條件的一部分。</p>",
+      "id": "g2s2-mathematics-10-s03"
+    },
+    {
+      "title": "同一組六卡，先按一個條件分",
+      "childText": "A到F每張都要有去處。",
+      "html": "<p>本課卡組固定為A紅色球體、B紅色正方體、C藍色圓柱、D藍色長方體、E紅色圓柱、F藍色球體。先按有沒有平面分：有平面的B、C、D、E共4張；沒有平面的A、F共2張。</p><p>說明分類理由時指形體特徵，不能把紅藍顏色偷偷混進條件。每張卡只放進符合的一邊且不漏卡，兩邊4＋2＝6，能核對仍是原來六張。下方記錄用卡號讓人追溯，不是只寫4和2。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 151\" role=\"img\" aria-labelledby=\"g2s2-mathematics-10-classification\"><title id=\"g2s2-mathematics-10-classification\">有平面、無平面；B、C、D、E、A、F；4張、2張。各框表示分類與張數記錄，並非按量縮放。</title><text x=\"105.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">有平面</text><text x=\"255.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">無平面</text><rect x=\"30.0\" y=\"40\" width=\"150.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"105.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">B、C、D、E</text><rect x=\"180.0\" y=\"40\" width=\"150.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"255.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">A、F</text><rect x=\"30.0\" y=\"88\" width=\"150.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"105.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">4張</text><rect x=\"180.0\" y=\"88\" width=\"150.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"255.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">2張</text></svg><figcaption>有平面、無平面；B、C、D、E、A、F；4張、2張。各框表示分類與張數記錄，並非按量縮放。</figcaption></figure>",
+      "id": "g2s2-mathematics-10-s04"
+    },
+    {
+      "title": "在一群裡，再做一次分類",
+      "childText": "先分的大群還可以分小群。",
+      "html": "<p>在「有平面」的B、C、D、E四張中，再看有沒有兩個圓形平面。圓柱C、E是一群；盒形B、D是一群，兩邊各2張。第二次只對剛才四張分，不把A、F突然加回來。</p><p>也可把全部六張回收，改按顏色分：紅A、B、E共3張，藍C、D、F共3張。這次條件不同，分組結果可以不同，但總卡數還是6。分類沒有永遠唯一的一種答案，條件要清楚且前後一致。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 151\" role=\"img\" aria-labelledby=\"g2s2-mathematics-10-subgroups\"><title id=\"g2s2-mathematics-10-subgroups\">兩圓形平面、盒形平面；C、E、B、D；2張、2張。各框表示分類與張數記錄，並非按量縮放。</title><text x=\"105.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">兩圓形平面</text><text x=\"255.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">盒形平面</text><rect x=\"30.0\" y=\"40\" width=\"150.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"105.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">C、E</text><rect x=\"180.0\" y=\"40\" width=\"150.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"255.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">B、D</text><rect x=\"30.0\" y=\"88\" width=\"150.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"105.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">2張</text><rect x=\"180.0\" y=\"88\" width=\"150.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"255.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">2張</text></svg><figcaption>兩圓形平面、盒形平面；C、E、B、D；2張、2張。各框表示分類與張數記錄，並非按量縮放。</figcaption></figure>",
+      "id": "g2s2-mathematics-10-s05"
+    },
+    {
+      "title": "操作：模型描述與卡號記錄",
+      "childText": "讓夥伴只聽特徵就找得到。",
+      "html": "<p>孩子描述「有兩個圓形平面和彎曲側面」，夥伴在六卡中找C與E，並說雖顏色不同但都是圓柱。再描述「沒有平面、整個表面彎曲」，找A與F。用卡號記，不需要同學個人資料。</p><p>成人可讓孩子觸摸安全的大模型、指圖或口頭選卡，不要求精細畫出透視形狀。整理時先說分類條件，再移卡、報數、核對六卡有沒有少或重。圖卡外形大小為示意，不用大小猜重量或容量。</p>",
+      "id": "g2s2-mathematics-10-s06"
+    },
+    {
+      "title": "出口：不只猜名稱，還要說證據",
+      "childText": "同一份資料能再分，仍要追得到原卡。",
+      "html": "<p>小兔把所有會滾的都放球體，漏了圓柱側放也可能滾。請他補看有無平面再分類。小熊把有平面的4張再分，結果寫3和2，共5，應回卡號查是否重數或混入原群外的卡。</p><p>出口先找六卡的兩張圓柱，再說有平面群的兩個小群各有哪些卡。最後按紅藍重分，核對3與3。獨立描述一件安全模型的兩個特徵，讓成人猜；猜中後也說明那些特徵為何有用。</p>",
+      "id": "g2s2-mathematics-10-s07"
+    }
+  ],
+  "teachingHtml": "<h3>先備與範圍</h3><p>依S-2-1、S-2-2、D-2-1，用實物辨認、描述、分類並在群內再分類，不發展嚴格幾何定義或正式統計表格教學。先辨平面圖形和立體物件，提醒圖中可見面數不等於全部面數。正方體可看作特殊長方體，活動分列是為突出面形相等，不把兩者誤教為絕對互斥。</p><h3>第一節：多特徵辨認</h3><p>提供大而輕、無尖刺的模型，觀察球體無平面、圓柱兩圓平面與曲側面、盒形六平面。成人協助緩慢轉動，不要求孩子從平面示意推斷所有遮蔽面。會滾作為非充分條件，圓柱側放及圓錐可滾是反例；位置與接觸面會影響表現，不能只憑動態猜名稱。</p><h3>第二節：固定卡組分類</h3><p>六張卡的代號、顏色與形體保持不變。先有無平面分為B、C、D、E與A、F，再只在前四張內分圓柱C、E和盒形B、D。每次用卡號核對總數，避免孩子只湊出4＋2或2＋2而實際重卡。文字分區記錄為操作輔助，不要求學正式交叉表或統計圖。</p><h3>改條件與記錄</h3><p>回收六卡再按色分紅A、B、E與藍C、D、F，說同一資料換條件可以產生不同結果。沒有標條件的分組不完整，讓其他人照記錄重排可檢查清楚程度。若多出一張，查是否從群外混入或同卡重算；若少一張，按A到F逐一點名，不只把數字改得相加為6。</p><h3>差異化、安全與評量</h3><p>支持組先只用球體和圓柱兩種，成人朗讀卡面和固定群界，再加入盒形；熟練組提出另一個清楚可操作條件並核對全卡，不提體積、表面積公式。出口觀察兩特徵描述、一次分類、群內再分、換條件後總數與卡號追溯。可觸摸大模型、指圖或口答，色名寫在卡面，不依賴辨色。示範只在平整托盤內由成人輕動，不推滾追逐、爬疊或承重，不用重物尖物、小球或真實個人資料。</p>",
+  "exercises": [
+    {
+      "question": "球體和紙上的圓，哪句正確？",
+      "options": [
+        "兩者都是只有一張平面",
+        "圓一定能放入東西",
+        "球體是立體，圓是平面圖形"
+      ],
+      "answer": 2,
+      "hint": "紙上輪廓不能代替完整物體。",
+      "explanation": "球體有立體彎曲表面；圓是平面圖形，不能混為同一物件。",
+      "id": "g2s2-mathematics-10-q01"
+    },
+    {
+      "question": "圓柱有什麼特徵？",
+      "options": [
+        "六個全相同正方形面",
+        "兩個圓形平面與彎曲側面",
+        "完全沒有平面"
+      ],
+      "answer": 1,
+      "hint": "觀察頂底與繞一圈的部分。",
+      "explanation": "典型圓柱上下是圓形平面，中間是彎曲側面。",
+      "id": "g2s2-mathematics-10-q02"
+    },
+    {
+      "question": "只知道某物會滾，能確定是球體嗎？",
+      "options": [
+        "不能，圓柱側放也可能滾",
+        "能，所有會滾都是球",
+        "能，因為盒子名稱較長"
+      ],
+      "answer": 0,
+      "hint": "一個特徵可能不只一類符合。",
+      "explanation": "還需看平面、底面等特徵，會滾不足以唯一識別球體。",
+      "id": "g2s2-mathematics-10-q03"
+    },
+    {
+      "question": "固定六卡中，有平面的哪些卡？",
+      "options": [
+        "A、B、F",
+        "A、F",
+        "B、C、D、E"
+      ],
+      "answer": 2,
+      "hint": "球體沒有平面。",
+      "explanation": "B正方體、C/E圓柱、D長方體有平面，共4張。",
+      "id": "g2s2-mathematics-10-q04"
+    },
+    {
+      "question": "固定六卡中，沒有平面的有幾張？",
+      "options": [
+        "4張",
+        "2張",
+        "6張"
+      ],
+      "answer": 1,
+      "hint": "找A與F兩張球體。",
+      "explanation": "A和F是球體，沒有平面，因此共2張。",
+      "id": "g2s2-mathematics-10-q05"
+    },
+    {
+      "question": "有平面群再分，兩張圓柱是？",
+      "options": [
+        "B、D",
+        "A、F",
+        "C、E"
+      ],
+      "answer": 2,
+      "hint": "找有兩圓形平面的卡。",
+      "explanation": "C與E均為圓柱，顏色不同但符合相同形體條件。",
+      "id": "g2s2-mathematics-10-q06"
+    },
+    {
+      "question": "在B、C、D、E中再分類，可以直接把A加進來嗎？",
+      "options": [
+        "不能，A不在這次母群",
+        "可以，只要A是紅色",
+        "可以，反正都是卡片"
+      ],
+      "answer": 0,
+      "hint": "第二次只分剛才選定的四張。",
+      "explanation": "群內再分類須保持原群對象，不能無說明混入A。",
+      "id": "g2s2-mathematics-10-q07"
+    },
+    {
+      "question": "全部六卡按紅藍分，紅卡是？",
+      "options": [
+        "A、B、E，共3張",
+        "A、C、E，共3張",
+        "C、D、F，共3張"
+      ],
+      "answer": 0,
+      "hint": "回固定卡面顏色核對。",
+      "explanation": "A紅球、B紅正方體、E紅圓柱屬紅群，共3張。",
+      "id": "g2s2-mathematics-10-q08"
+    },
+    {
+      "question": "同一六卡改分類條件，什麼應維持？",
+      "options": [
+        "每張不重不漏，總數仍6",
+        "分類名稱永遠不能改",
+        "每一群人數永遠相同"
+      ],
+      "answer": 0,
+      "hint": "資料不變，只是分組方式變。",
+      "explanation": "改條件可換群，但全體仍是原六卡，不能新增或漏卡。",
+      "id": "g2s2-mathematics-10-q09"
+    },
+    {
+      "question": "立體示意只看見三個盒面，能說盒子總共三面嗎？",
+      "options": [
+        "能，所有盒子只有三面",
+        "不能，其他面可能被遮住",
+        "能，圖上看見就是全部"
+      ],
+      "answer": 1,
+      "hint": "要配合轉動模型觀察。",
+      "explanation": "平面圖會遮蔽後方與底面，完整面數不能只數可見部分。",
+      "id": "g2s2-mathematics-10-q10"
+    }
+  ],
+  "selfCheck": [
+    "我不只靠會滾猜球體。",
+    "我會說模型的兩個特徵。",
+    "我能在大群內再分小群。",
+    "我會核對六卡不重不漏。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "二年級全年內容的官方依據；本課學期位置、建議節數、情境與題目是跨版本原創編排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：二年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁20–23：S-2-1、S-2-2實物幾何特徵、命名與分類；D-2-1分類、記錄與分類中再分類，非正式統計圖表教學。"
+    }
+  ]
+}
