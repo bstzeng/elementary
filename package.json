@@ -1,12 +1,12 @@
 {
   "name": "elementary",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "private": true,
   "description": "臺灣國小六年課綱地圖與持續增補的原創詳細教材。",
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node tests/check.mjs && node tests/interactions.mjs && node tests/lessons.mjs && node tests/lesson-interactions.mjs",
+    "test": "node tests/check.mjs && node tests/interactions.mjs && node tests/lessons.mjs && node tests/lesson-interactions.mjs && node tests/lesson-contrast.mjs",
     "test:browser": "node tests/browser.mjs",
     "serve": "python3 -m http.server 8080"
   },

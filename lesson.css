@@ -56,6 +56,7 @@
 .question-actions { display: flex; flex-wrap: wrap; align-items: start; gap: 10px; margin-top: 14px; }
 .question-actions .hint { margin: 0; flex: 1 1 180px; }
 .question-actions .check-answer { background: #215b46; color: white; border-color: #215b46; }
+.question-actions .check-answer:hover { background: #174b39; color: white; border-color: #174b39; }
 .answer-feedback { padding: 13px 16px; border-radius: 9px; background: #fff5dc; color: #654b17; }
 .answer-feedback:empty { padding: 0; margin: 0; border: 0; }
 .answer-feedback[data-result=correct] { background: #e7f2e0; color: #245036; }
