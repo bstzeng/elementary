@@ -1,0 +1,1636 @@
+{
+  "grade": 4,
+  "semesters": [
+    {
+      "grade": 4,
+      "semester": 1,
+      "stage": "第二學習階段（三、四年級）",
+      "summary": "深化閱讀與多位數計算，從家鄉、自然現象和團隊生活建立探究能力。",
+      "courses": [
+        {
+          "id": "mandarin",
+          "title": "國語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "從童年故事與人物傳記，練習有條理地閱讀和表達。",
+          "weeklyPeriods": "5節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s1-mandarin-01",
+              "title": "聽取重點並回應",
+              "group": "聆聽與表達"
+            },
+            {
+              "id": "g4s1-mandarin-02",
+              "title": "依事情次序口頭敘述",
+              "group": "聆聽與表達"
+            },
+            {
+              "id": "g4s1-mandarin-03",
+              "title": "部件線索與字義推測",
+              "group": "識字與語句"
+            },
+            {
+              "id": "g4s1-mandarin-04",
+              "title": "多音字和近義詞辨析",
+              "group": "識字與語句"
+            },
+            {
+              "id": "g4s1-mandarin-05",
+              "title": "關聯詞與完整句子",
+              "group": "識字與語句"
+            },
+            {
+              "id": "g4s1-mandarin-06",
+              "title": "段落重點與全文大意",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s1-mandarin-07",
+              "title": "人物傳記與行動動機",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s1-mandarin-08",
+              "title": "童詩意象與想像",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s1-mandarin-09",
+              "title": "圖文資訊的對照",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s1-mandarin-10",
+              "title": "生活事件分段記敘",
+              "group": "書面表達"
+            },
+            {
+              "id": "g4s1-mandarin-11",
+              "title": "人物動作與感受描寫",
+              "group": "書面表達"
+            },
+            {
+              "id": "g4s1-mandarin-12",
+              "title": "修改語句及標點",
+              "group": "書面表達"
+            },
+            {
+              "id": "g4s1-mandarin-13",
+              "title": "楷書筆畫與硬筆習寫",
+              "group": "書法與書寫"
+            },
+            {
+              "id": "g4s1-mandarin-14",
+              "title": "毛筆的基本筆畫",
+              "group": "書法與書寫"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "mandarin-framework",
+            "upper-puzih4-mandarin"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "書法與書寫依階段領綱補充整理，硬筆與毛筆的實際安排以學校計畫為準。"
+          ]
+        },
+        {
+          "id": "mathematics",
+          "title": "數學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "擴大整數與小數的範圍，連結角度、圖形和統計。",
+          "weeklyPeriods": "4節／週（總綱基準）",
+          "topicBasis": "依4年級年度數學內容與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s1-mathematics-01",
+              "title": "一億以內的數與位值",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s1-mathematics-02",
+              "title": "多位數乘法",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s1-mathematics-03",
+              "title": "除數為二位數的除法",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s1-mathematics-04",
+              "title": "兩步驟問題與併式",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s1-mathematics-05",
+              "title": "假分數與帶分數",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s1-mathematics-06",
+              "title": "二位小數的比較與加減",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s1-mathematics-07",
+              "title": "公里與公尺換算",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s1-mathematics-08",
+              "title": "量角器與角度",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s1-mathematics-09",
+              "title": "三角形的分類",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s1-mathematics-10",
+              "title": "全等圖形的對應",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s1-mathematics-11",
+              "title": "長條圖與折線圖的閱讀",
+              "group": "資料判讀"
+            },
+            {
+              "id": "g4s1-mathematics-12",
+              "title": "生活資料的整理與比較",
+              "group": "資料判讀"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "math-framework",
+            "upper-longan4-math",
+            "upper-math-handbook"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "english",
+          "title": "英語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "以天氣、感受與食物情境，累積簡單問答及拼讀經驗。",
+          "weeklyPeriods": "1節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s1-english-01",
+              "title": "天氣與冷暖描述",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s1-english-02",
+              "title": "情緒與身體感受",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s1-english-03",
+              "title": "水果名稱與複數",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s1-english-04",
+              "title": "食物飲料的需求",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s1-english-05",
+              "title": "喜好與禮貌回應",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s1-english-06",
+              "title": "短母音音組辨識",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g4s1-english-07",
+              "title": "字母拼讀與拼寫",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g4s1-english-08",
+              "title": "字詞重音與句子語調",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g4s1-english-09",
+              "title": "圖文對話的關鍵訊息",
+              "group": "理解與文化"
+            },
+            {
+              "id": "g4s1-english-10",
+              "title": "歌謠節奏與角色朗讀",
+              "group": "理解與文化"
+            },
+            {
+              "id": "g4s1-english-11",
+              "title": "節慶食物與文化差異",
+              "group": "理解與文化"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "english-framework",
+            "upper-yongjian-english",
+            "upper-fudong-english"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "生活主題及拼讀音組在版本間差異較大；不把字彙量或語法項目當成本學期統一檢定標準。"
+          ]
+        },
+        {
+          "id": "social",
+          "title": "社會",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "讀懂家鄉地圖，觀察自然環境、人口和多元文化。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s1-social-01",
+              "title": "地圖種類與使用目的",
+              "group": "家鄉地理"
+            },
+            {
+              "id": "g4s1-social-02",
+              "title": "方位圖例與位置判讀",
+              "group": "家鄉地理"
+            },
+            {
+              "id": "g4s1-social-03",
+              "title": "家鄉地形與生活",
+              "group": "家鄉地理"
+            },
+            {
+              "id": "g4s1-social-04",
+              "title": "氣候對居住的影響",
+              "group": "家鄉地理"
+            },
+            {
+              "id": "g4s1-social-05",
+              "title": "人口數量及年齡變化",
+              "group": "人口與文化"
+            },
+            {
+              "id": "g4s1-social-06",
+              "title": "不同族群的生活特色",
+              "group": "人口與文化"
+            },
+            {
+              "id": "g4s1-social-07",
+              "title": "生命禮俗與信仰活動",
+              "group": "人口與文化"
+            },
+            {
+              "id": "g4s1-social-08",
+              "title": "文化交流與尊重差異",
+              "group": "人口與文化"
+            },
+            {
+              "id": "g4s1-social-09",
+              "title": "老照片與家鄉變遷",
+              "group": "地方探究"
+            },
+            {
+              "id": "g4s1-social-10",
+              "title": "訪問長輩與整理故事",
+              "group": "地方探究"
+            },
+            {
+              "id": "g4s1-social-11",
+              "title": "地方史料的比較",
+              "group": "地方探究"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "social-framework",
+            "upper-puzih4-social"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "science",
+          "title": "自然科學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "從天空、水域、光和電路出發，建立觀察與實驗記錄。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編；另以「階段補充主題」補足領域廣度",
+          "topics": [
+            {
+              "id": "g4s1-science-01",
+              "title": "天體的位置與方位",
+              "group": "日月觀察"
+            },
+            {
+              "id": "g4s1-science-02",
+              "title": "月亮外觀的週期變化",
+              "group": "日月觀察"
+            },
+            {
+              "id": "g4s1-science-03",
+              "title": "水域環境的差異",
+              "group": "水域生物"
+            },
+            {
+              "id": "g4s1-science-04",
+              "title": "水生植物的構造",
+              "group": "水域生物"
+            },
+            {
+              "id": "g4s1-science-05",
+              "title": "水生動物的適應",
+              "group": "水域生物"
+            },
+            {
+              "id": "g4s1-science-06",
+              "title": "水域保護與觀察倫理",
+              "group": "水域生物"
+            },
+            {
+              "id": "g4s1-science-07",
+              "title": "光的直進與影子",
+              "group": "光與能源"
+            },
+            {
+              "id": "g4s1-science-08",
+              "title": "鏡面的反光現象",
+              "group": "光與能源"
+            },
+            {
+              "id": "g4s1-science-09",
+              "title": "太陽能與節能生活",
+              "group": "光與能源"
+            },
+            {
+              "id": "g4s1-science-10",
+              "title": "通路與斷路",
+              "group": "電路探索"
+            },
+            {
+              "id": "g4s1-science-11",
+              "title": "導電材料的比較",
+              "group": "電路探索"
+            },
+            {
+              "id": "g4s1-science-12",
+              "title": "電池燈泡的串並聯",
+              "group": "電路探索"
+            },
+            {
+              "id": "g4s1-science-13",
+              "title": "用電安全與電池回收",
+              "group": "電路探索"
+            },
+            {
+              "id": "g4s1-science-14",
+              "title": "聲音的振動與傳播",
+              "group": "階段補充主題"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "science-framework",
+            "upper-puzih4-science"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "「階段補充主題」依正式領綱補列；所在學期是本導覽的整理位置，不表示引用的學校計畫或全國教材均在此學期教授。"
+          ]
+        },
+        {
+          "id": "arts",
+          "title": "藝術",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "結合視覺元素、歌唱器樂與角色表演，探索藝術的多種表達。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s1-arts-01",
+              "title": "點線面的構成",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s1-arts-02",
+              "title": "拼貼與圖案節奏",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s1-arts-03",
+              "title": "版印材料與紋理",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s1-arts-04",
+              "title": "作品的空間安排",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s1-arts-05",
+              "title": "拍號與節奏組合",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s1-arts-06",
+              "title": "旋律起伏與樂句",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s1-arts-07",
+              "title": "直笛指法與氣息",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s1-arts-08",
+              "title": "歌曲情感與力度",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s1-arts-09",
+              "title": "聲音表情與角色",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g4s1-arts-10",
+              "title": "肢體動作與空間",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g4s1-arts-11",
+              "title": "小組即興故事",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g4s1-arts-12",
+              "title": "欣賞作品與合宜回饋",
+              "group": "表演藝術"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "arts-framework",
+            "upper-puzih4-arts"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "音樂、視覺藝術和表演藝術為領域內主題；實際媒材、樂器及展演安排由學校決定。"
+          ]
+        },
+        {
+          "id": "integrated",
+          "title": "綜合活動",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "練習團隊合作、情緒調整，認識自己的興趣與文化生活。",
+          "weeklyPeriods": "2節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s1-integrated-01",
+              "title": "合作任務的分工",
+              "group": "團隊與責任"
+            },
+            {
+              "id": "g4s1-integrated-02",
+              "title": "團體規範與責任",
+              "group": "團隊與責任"
+            },
+            {
+              "id": "g4s1-integrated-03",
+              "title": "意見整合與合作策略",
+              "group": "團隊與責任"
+            },
+            {
+              "id": "g4s1-integrated-04",
+              "title": "情緒線索與變化",
+              "group": "自我探索"
+            },
+            {
+              "id": "g4s1-integrated-05",
+              "title": "適合自己的調整方法",
+              "group": "自我探索"
+            },
+            {
+              "id": "g4s1-integrated-06",
+              "title": "興趣與專長的差別",
+              "group": "自我探索"
+            },
+            {
+              "id": "g4s1-integrated-07",
+              "title": "嘗試新活動與自我發現",
+              "group": "自我探索"
+            },
+            {
+              "id": "g4s1-integrated-08",
+              "title": "家庭文化活動的經驗",
+              "group": "文化生活"
+            },
+            {
+              "id": "g4s1-integrated-09",
+              "title": "節慶活動與生活關係",
+              "group": "文化生活"
+            },
+            {
+              "id": "g4s1-integrated-10",
+              "title": "文化資料的蒐集分享",
+              "group": "文化生活"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "integrated-framework",
+            "upper-puzih4-integrated"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "health-pe",
+          "title": "健康與體育",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "從飲食、情緒與拒絕菸酒，延伸到動作組合和合作運動。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s1-health-pe-01",
+              "title": "食物營養與均衡選擇",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s1-health-pe-02",
+              "title": "飲食習慣與身體成長",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s1-health-pe-03",
+              "title": "壓力與情緒調適",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s1-health-pe-04",
+              "title": "家庭溝通和支持",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s1-health-pe-05",
+              "title": "菸酒檳榔危害與拒絕",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s1-health-pe-06",
+              "title": "暖身及運動後整理",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s1-health-pe-07",
+              "title": "跑步節奏與接力合作",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s1-health-pe-08",
+              "title": "跳躍與安全落地",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s1-health-pe-09",
+              "title": "投擲接球的移動配合",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s1-health-pe-10",
+              "title": "球類遊戲的空間運用",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s1-health-pe-11",
+              "title": "韻律動作的組合",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s1-health-pe-12",
+              "title": "公平競賽與運動安全",
+              "group": "安全與態度"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "health-framework",
+            "upper-longan4-health"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "運動種類、游泳及戶外活動依場地、季節、師資與學生需求調整；內容為課程概覽。"
+          ]
+        },
+        {
+          "id": "language-choice",
+          "title": "本土語文／臺灣手語／新住民語文（選一）",
+          "category": "部定課程",
+          "classification": "required-choice",
+          "badge": "部定・語別選一",
+          "description": "依所選語別與程度，延伸日常敘述和生活文化的表達。",
+          "weeklyPeriods": "1節／週（總綱基準）",
+          "topicBasis": "依所選語別及程度重編的學期情境示例",
+          "topics": [
+            {
+              "id": "g4s1-language-choice-01",
+              "title": "一天的生活安排",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s1-language-choice-02",
+              "title": "食物口味與喜好",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s1-language-choice-03",
+              "title": "身體狀況與關心",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s1-language-choice-04",
+              "title": "家鄉常見的場所",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s1-language-choice-05",
+              "title": "生活短文的理解",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g4s1-language-choice-06",
+              "title": "語音語調與常用詞句",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g4s1-language-choice-07",
+              "title": "以手語介紹時間、作息與活動",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g4s1-language-choice-08",
+              "title": "表情和動作的訊息理解",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g4s1-language-choice-09",
+              "title": "日常問答與常用語詞",
+              "group": "新住民語文（依選習）"
+            },
+            {
+              "id": "g4s1-language-choice-10",
+              "title": "家庭飲食文化的介紹",
+              "group": "新住民語文（依選習）"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "languages-index",
+            "sign-framework",
+            "new-immigrant-framework"
+          ],
+          "caveats": [
+            "本土語文、臺灣手語或新住民語文選一種學習；本卡各語別分組是選習路徑，不是全部修習。",
+            "語別與程度決定詞彙、文本及冊別；臺灣手語採視覺理解與表達，不套用口語拼音及文字書寫要求。",
+            "列出的上下學期情境是整理示例，各語別可因學生起點採不同次序。"
+          ],
+          "languageOptions": [
+            "閩南語文",
+            "客語文",
+            "原住民族語文",
+            "閩東語文等本土語文",
+            "臺灣手語",
+            "新住民語文"
+          ]
+        },
+        {
+          "id": "school-flexible",
+          "title": "校訂彈性學習（示例）",
+          "category": "校訂課程",
+          "classification": "school-defined",
+          "badge": "校訂・示例",
+          "description": "學校可從在地探究、閱讀及資訊應用選設統整課程。",
+          "weeklyPeriods": "3–6節／週（校訂總量）",
+          "topicBasis": "學校可選設的統整性主題與活動示例",
+          "topics": [
+            {
+              "id": "g4s1-school-flexible-01",
+              "title": "家鄉問題小調查",
+              "group": "在地探究示例"
+            },
+            {
+              "id": "g4s1-school-flexible-02",
+              "title": "社區地圖與走讀",
+              "group": "在地探究示例"
+            },
+            {
+              "id": "g4s1-school-flexible-03",
+              "title": "地方故事訪談",
+              "group": "在地探究示例"
+            },
+            {
+              "id": "g4s1-school-flexible-04",
+              "title": "主題書籍選讀",
+              "group": "閱讀與表達示例"
+            },
+            {
+              "id": "g4s1-school-flexible-05",
+              "title": "圖文導覽卡製作",
+              "group": "閱讀與表達示例"
+            },
+            {
+              "id": "g4s1-school-flexible-06",
+              "title": "資料搜尋與來源標示",
+              "group": "數位與生活示例"
+            },
+            {
+              "id": "g4s1-school-flexible-07",
+              "title": "圖像程式的順序設計",
+              "group": "數位與生活示例"
+            },
+            {
+              "id": "g4s1-school-flexible-08",
+              "title": "網路禮貌與個資保護",
+              "group": "數位與生活示例"
+            },
+            {
+              "id": "g4s1-school-flexible-09",
+              "title": "城市生活觀察",
+              "group": "行動與交流示例"
+            },
+            {
+              "id": "g4s1-school-flexible-10",
+              "title": "班級分工與自治提案",
+              "group": "行動與交流示例"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "general",
+            "upper-puzih-index",
+            "upper-shuangxi-index"
+          ],
+          "caveats": [
+            "主題為不同學校可能採用的例子，並非每校全部開設；資訊、程式或國際教育不是另列的全國國小部定科目。",
+            "各主題節數由學校自訂，不能把全部示例視為同一學期的必修課表。"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 4,
+      "semester": 2,
+      "stage": "第二學習階段（三、四年級）",
+      "summary": "整合說明表達、量與圖形、家鄉資源和生活實作，銜接高年級學習。",
+      "courses": [
+        {
+          "id": "mandarin",
+          "title": "國語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "進一步整理閱讀證據，嘗試說明、讀書報告與故事改寫。",
+          "weeklyPeriods": "5節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-mandarin-01",
+              "title": "聽出觀點與主要理由",
+              "group": "聆聽與表達"
+            },
+            {
+              "id": "g4s2-mandarin-02",
+              "title": "提問澄清與小組報告",
+              "group": "聆聽與表達"
+            },
+            {
+              "id": "g4s2-mandarin-03",
+              "title": "由語境辨認多義詞",
+              "group": "識字與語句"
+            },
+            {
+              "id": "g4s2-mandarin-04",
+              "title": "成語與語句的適切運用",
+              "group": "識字與語句"
+            },
+            {
+              "id": "g4s2-mandarin-05",
+              "title": "事件因果與人物改變",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s2-mandarin-06",
+              "title": "說明文本的分類與舉例",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s2-mandarin-07",
+              "title": "圖表訊息與文章對照",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s2-mandarin-08",
+              "title": "經典故事的角色比較",
+              "group": "閱讀理解"
+            },
+            {
+              "id": "g4s2-mandarin-09",
+              "title": "讀書報告與寫作大綱",
+              "group": "書面表達"
+            },
+            {
+              "id": "g4s2-mandarin-10",
+              "title": "有條理的事物說明",
+              "group": "書面表達"
+            },
+            {
+              "id": "g4s2-mandarin-11",
+              "title": "故事改寫與不同結尾",
+              "group": "書面表達"
+            },
+            {
+              "id": "g4s2-mandarin-12",
+              "title": "同儕回饋後修訂文章",
+              "group": "書面表達"
+            },
+            {
+              "id": "g4s2-mandarin-13",
+              "title": "楷書結構與書寫練習",
+              "group": "書法與書寫"
+            },
+            {
+              "id": "g4s2-mandarin-14",
+              "title": "書法名家故事",
+              "group": "書法與書寫"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "mandarin-framework",
+            "upper-puzih4-mandarin"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "書法與書寫依階段領綱補充整理，硬筆與毛筆的實際安排以學校計畫為準。"
+          ]
+        },
+        {
+          "id": "mathematics",
+          "title": "數學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "把分數、小數與多位數計算，應用到面積、時間和體積。",
+          "weeklyPeriods": "4節／週（總綱基準）",
+          "topicBasis": "依4年級年度數學內容與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-mathematics-01",
+              "title": "多位數乘除的熟練運用",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s2-mathematics-02",
+              "title": "概數與四捨五入",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s2-mathematics-03",
+              "title": "同分母分數加減與整數倍",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s2-mathematics-04",
+              "title": "等值分數與簡單異分母加減",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s2-mathematics-05",
+              "title": "小數乘以整數",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s2-mathematics-06",
+              "title": "四則規律與簡化計算",
+              "group": "數與計算"
+            },
+            {
+              "id": "g4s2-mathematics-07",
+              "title": "平行垂直與四邊形",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s2-mathematics-08",
+              "title": "長方形正方形周長",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s2-mathematics-09",
+              "title": "長方形正方形面積",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s2-mathematics-10",
+              "title": "簡單複合圖形",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s2-mathematics-11",
+              "title": "時間加減與跨日計算",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s2-mathematics-12",
+              "title": "立方公分與體積比較",
+              "group": "量與圖形"
+            },
+            {
+              "id": "g4s2-mathematics-13",
+              "title": "數量關係及圖形規律",
+              "group": "規律與資料"
+            },
+            {
+              "id": "g4s2-mathematics-14",
+              "title": "長條圖的製作與說明",
+              "group": "規律與資料"
+            },
+            {
+              "id": "g4s2-mathematics-15",
+              "title": "分數小數數線的標示與比較",
+              "group": "數與計算"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "math-framework",
+            "upper-zhongxiao4-math",
+            "upper-longan4-math",
+            "upper-math-handbook"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "english",
+          "title": "英語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "在房間、活動和物品情境中，練習較完整的生活互動。",
+          "weeklyPeriods": "1節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-english-01",
+              "title": "時間的詢問與回答",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s2-english-02",
+              "title": "房間名稱與所在位置",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s2-english-03",
+              "title": "正在進行的活動",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s2-english-04",
+              "title": "衣物和物品的所有者",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s2-english-05",
+              "title": "食物與動物的描述",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g4s2-english-06",
+              "title": "長短母音的對照",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g4s2-english-07",
+              "title": "簡易句子的抄寫",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g4s2-english-08",
+              "title": "單複數詞形的辨認",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g4s2-english-09",
+              "title": "看圖理解對話順序",
+              "group": "理解與文化"
+            },
+            {
+              "id": "g4s2-english-10",
+              "title": "短句朗讀與情境演出",
+              "group": "理解與文化"
+            },
+            {
+              "id": "g4s2-english-11",
+              "title": "生活文化的異同分享",
+              "group": "理解與文化"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "english-framework",
+            "upper-liming4-english",
+            "upper-fudong-english"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "生活主題及拼讀音組在版本間差異較大；不把字彙量或語法項目當成本學期統一檢定標準。"
+          ]
+        },
+        {
+          "id": "social",
+          "title": "社會",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "探究家鄉的水、山林、海洋與產業，思考生活中的永續選擇。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-social-01",
+              "title": "水源與居民生活",
+              "group": "資源與生活"
+            },
+            {
+              "id": "g4s2-social-02",
+              "title": "缺水與水資源循環",
+              "group": "資源與生活"
+            },
+            {
+              "id": "g4s2-social-03",
+              "title": "山林利用和環境保育",
+              "group": "資源與生活"
+            },
+            {
+              "id": "g4s2-social-04",
+              "title": "海洋資源與漁業轉變",
+              "group": "資源與生活"
+            },
+            {
+              "id": "g4s2-social-05",
+              "title": "農業技術與食物來源",
+              "group": "產業與變遷"
+            },
+            {
+              "id": "g4s2-social-06",
+              "title": "畜牧與生活需求",
+              "group": "產業與變遷"
+            },
+            {
+              "id": "g4s2-social-07",
+              "title": "工業和服務業的發展",
+              "group": "產業與變遷"
+            },
+            {
+              "id": "g4s2-social-08",
+              "title": "交通建設與產業交流",
+              "group": "產業與變遷"
+            },
+            {
+              "id": "g4s2-social-09",
+              "title": "生產消費與環境影響",
+              "group": "地方行動"
+            },
+            {
+              "id": "g4s2-social-10",
+              "title": "家鄉發展問題的討論",
+              "group": "地方行動"
+            },
+            {
+              "id": "g4s2-social-11",
+              "title": "地方特色的介紹與維護",
+              "group": "地方行動"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "social-framework",
+            "upper-puzih4-social"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "science",
+          "title": "自然科學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "比較力、水、昆蟲與地表變化，練習提出可觀察的問題。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-science-01",
+              "title": "受力後的形狀變化",
+              "group": "力與運動"
+            },
+            {
+              "id": "g4s2-science-02",
+              "title": "力的方向與運動改變",
+              "group": "力與運動"
+            },
+            {
+              "id": "g4s2-science-03",
+              "title": "物體浮沉與浮力",
+              "group": "力與運動"
+            },
+            {
+              "id": "g4s2-science-04",
+              "title": "昆蟲的身體構造",
+              "group": "昆蟲探究"
+            },
+            {
+              "id": "g4s2-science-05",
+              "title": "棲地與適應行為",
+              "group": "昆蟲探究"
+            },
+            {
+              "id": "g4s2-science-06",
+              "title": "完全與不完全變態",
+              "group": "昆蟲探究"
+            },
+            {
+              "id": "g4s2-science-07",
+              "title": "昆蟲觀察與保育",
+              "group": "昆蟲探究"
+            },
+            {
+              "id": "g4s2-science-08",
+              "title": "毛細現象的比較",
+              "group": "水的現象"
+            },
+            {
+              "id": "g4s2-science-09",
+              "title": "連通管的水面",
+              "group": "水的現象"
+            },
+            {
+              "id": "g4s2-science-10",
+              "title": "虹吸現象與生活應用",
+              "group": "水的現象"
+            },
+            {
+              "id": "g4s2-science-11",
+              "title": "岩石砂土的區別",
+              "group": "地表與資源"
+            },
+            {
+              "id": "g4s2-science-12",
+              "title": "流水對地表的改變",
+              "group": "地表與資源"
+            },
+            {
+              "id": "g4s2-science-13",
+              "title": "自然資源與使用選擇",
+              "group": "地表與資源"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "science-framework",
+            "upper-puzih4-science"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "arts",
+          "title": "藝術",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "以人物、生活記憶和感謝為線索，深化創作與合作展演。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-arts-01",
+              "title": "自畫像與人物表情",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s2-arts-02",
+              "title": "四格漫畫與分鏡",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s2-arts-03",
+              "title": "立體人物與媒材運用",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s2-arts-04",
+              "title": "孔版卡片與圖文設計",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g4s2-arts-05",
+              "title": "歌唱呼吸與樂句",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s2-arts-06",
+              "title": "輪唱和聲部聆聽",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s2-arts-07",
+              "title": "直笛旋律的連貫",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s2-arts-08",
+              "title": "樂器音色的比較",
+              "group": "音樂"
+            },
+            {
+              "id": "g4s2-arts-09",
+              "title": "生活情境的角色轉換",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g4s2-arts-10",
+              "title": "簡短劇情的起承轉合",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g4s2-arts-11",
+              "title": "道具配合與團隊演出",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g4s2-arts-12",
+              "title": "創作構想的說明與回饋",
+              "group": "欣賞與分享"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "arts-framework",
+            "upper-puzih4-arts"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "音樂、視覺藝術和表演藝術為領域內主題；實際媒材、樂器及展演安排由學校決定。"
+          ]
+        },
+        {
+          "id": "integrated",
+          "title": "綜合活動",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "活用資源解決生活問題，並把同理心與創意用在日常互動。",
+          "weeklyPeriods": "2節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-integrated-01",
+              "title": "生活資源的分類",
+              "group": "資源與工作"
+            },
+            {
+              "id": "g4s2-integrated-02",
+              "title": "選擇合適的求助管道",
+              "group": "資源與工作"
+            },
+            {
+              "id": "g4s2-integrated-03",
+              "title": "工作內容的觀察訪談",
+              "group": "資源與工作"
+            },
+            {
+              "id": "g4s2-integrated-04",
+              "title": "不同工作的合作關係",
+              "group": "資源與工作"
+            },
+            {
+              "id": "g4s2-integrated-05",
+              "title": "從他人立場理解感受",
+              "group": "人際互動"
+            },
+            {
+              "id": "g4s2-integrated-06",
+              "title": "合宜表達需求與拒絕",
+              "group": "人際互動"
+            },
+            {
+              "id": "g4s2-integrated-07",
+              "title": "衝突處理與協商",
+              "group": "人際互動"
+            },
+            {
+              "id": "g4s2-integrated-08",
+              "title": "衣著與環境的搭配",
+              "group": "生活美感"
+            },
+            {
+              "id": "g4s2-integrated-09",
+              "title": "餐桌和物品的美感",
+              "group": "生活美感"
+            },
+            {
+              "id": "g4s2-integrated-10",
+              "title": "生活用品的創意改造",
+              "group": "生活美感"
+            },
+            {
+              "id": "g4s2-integrated-11",
+              "title": "成果分享與實用性檢視",
+              "group": "生活美感"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "integrated-framework",
+            "upper-puzih4-integrated"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "health-pe",
+          "title": "健康與體育",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "認識成長與健康消費，精進運動合作及水域安全知能。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第二學習階段（三、四年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g4s2-health-pe-01",
+              "title": "牙齒清潔與口腔保健",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s2-health-pe-02",
+              "title": "商品標示與飲食選購",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s2-health-pe-03",
+              "title": "青春期的身心變化",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s2-health-pe-04",
+              "title": "尊重身體差異與界線",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s2-health-pe-05",
+              "title": "地震颱風的安全應變",
+              "group": "健康生活"
+            },
+            {
+              "id": "g4s2-health-pe-06",
+              "title": "跳繩節奏與動作變化",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s2-health-pe-07",
+              "title": "跑跳投的組合練習",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s2-health-pe-08",
+              "title": "球類傳接與合作進攻",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s2-health-pe-09",
+              "title": "拍擊運動的方向控制",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s2-health-pe-10",
+              "title": "墊上平衡與翻滾組合",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s2-health-pe-11",
+              "title": "水中漂浮與基礎移動",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g4s2-health-pe-12",
+              "title": "水域風險辨識與求救",
+              "group": "安全與態度"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "health-framework",
+            "upper-longan4-health"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "運動種類、游泳及戶外活動依場地、季節、師資與學生需求調整；內容為課程概覽。"
+          ]
+        },
+        {
+          "id": "language-choice",
+          "title": "本土語文／臺灣手語／新住民語文（選一）",
+          "category": "部定課程",
+          "classification": "required-choice",
+          "badge": "部定・語別選一",
+          "description": "把所選語別用於校外互動、簡短故事及文化經驗分享。",
+          "weeklyPeriods": "1節／週（總綱基準）",
+          "topicBasis": "依所選語別及程度重編的學期情境示例",
+          "topics": [
+            {
+              "id": "g4s2-language-choice-01",
+              "title": "購物的數量與需求",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s2-language-choice-02",
+              "title": "方位與路線的簡述",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s2-language-choice-03",
+              "title": "動植物的外形描述",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s2-language-choice-04",
+              "title": "節慶活動的經驗分享",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g4s2-language-choice-05",
+              "title": "故事重點的口頭轉述",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g4s2-language-choice-06",
+              "title": "常用文字或拼音的運用",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g4s2-language-choice-07",
+              "title": "空間位置與動作描述",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g4s2-language-choice-08",
+              "title": "手語中的位置、動作與指令",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g4s2-language-choice-09",
+              "title": "簡短生活對話的接續",
+              "group": "新住民語文（依選習）"
+            },
+            {
+              "id": "g4s2-language-choice-10",
+              "title": "節慶禮俗的比較欣賞",
+              "group": "新住民語文（依選習）"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "languages-index",
+            "sign-framework",
+            "new-immigrant-framework"
+          ],
+          "caveats": [
+            "本土語文、臺灣手語或新住民語文選一種學習；本卡各語別分組是選習路徑，不是全部修習。",
+            "語別與程度決定詞彙、文本及冊別；臺灣手語採視覺理解與表達，不套用口語拼音及文字書寫要求。",
+            "列出的上下學期情境是整理示例，各語別可因學生起點採不同次序。"
+          ],
+          "languageOptions": [
+            "閩南語文",
+            "客語文",
+            "原住民族語文",
+            "閩東語文等本土語文",
+            "臺灣手語",
+            "新住民語文"
+          ]
+        },
+        {
+          "id": "school-flexible",
+          "title": "校訂彈性學習（示例）",
+          "category": "校訂課程",
+          "classification": "school-defined",
+          "badge": "校訂・示例",
+          "description": "從前期觀察走向作品與小型行動，實際安排依學校課程。",
+          "weeklyPeriods": "3–6節／週（校訂總量）",
+          "topicBasis": "學校可選設的統整性主題與活動示例",
+          "topics": [
+            {
+              "id": "g4s2-school-flexible-01",
+              "title": "家鄉導覽小路線",
+              "group": "在地行動示例"
+            },
+            {
+              "id": "g4s2-school-flexible-02",
+              "title": "地方故事圖文作品",
+              "group": "在地行動示例"
+            },
+            {
+              "id": "g4s2-school-flexible-03",
+              "title": "社區環境改善提案",
+              "group": "在地行動示例"
+            },
+            {
+              "id": "g4s2-school-flexible-04",
+              "title": "校園用電觀察",
+              "group": "能源與資訊示例"
+            },
+            {
+              "id": "g4s2-school-flexible-05",
+              "title": "永續能源生活調查",
+              "group": "能源與資訊示例"
+            },
+            {
+              "id": "g4s2-school-flexible-06",
+              "title": "圖像程式的條件判斷",
+              "group": "能源與資訊示例"
+            },
+            {
+              "id": "g4s2-school-flexible-07",
+              "title": "數位作品與著作權",
+              "group": "能源與資訊示例"
+            },
+            {
+              "id": "g4s2-school-flexible-08",
+              "title": "跨校生活經驗交流",
+              "group": "交流與自主示例"
+            },
+            {
+              "id": "g4s2-school-flexible-09",
+              "title": "自主閱讀成果分享",
+              "group": "交流與自主示例"
+            },
+            {
+              "id": "g4s2-school-flexible-10",
+              "title": "班級行動回顧與調整",
+              "group": "交流與自主示例"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "general",
+            "upper-puzih-index",
+            "upper-shuangxi-index"
+          ],
+          "caveats": [
+            "主題為不同學校可能採用的例子，並非每校全部開設；資訊、程式或國際教育不是另列的全國國小部定科目。",
+            "各主題節數由學校自訂，不能把全部示例視為同一學期的必修課表。"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "name": "elementary",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
-  "description": "台灣國小課程主題地圖，從小一上學期開始。",
+  "description": "臺灣國小一至六年級、十二學期課綱主題總覽。",
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",

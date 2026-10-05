@@ -1,0 +1,1688 @@
+{
+  "grade": 6,
+  "semesters": [
+    {
+      "grade": 6,
+      "semester": 1,
+      "stage": "第三學習階段（五、六年級）",
+      "summary": "深化證據推論與跨領域整合，連結當代社會、電磁、文化及健康選擇。",
+      "courses": [
+        {
+          "id": "mandarin",
+          "title": "國語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "分析文本中的觀點與表達技巧，進一步發展有證據的讀寫能力。",
+          "weeklyPeriods": "5節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s1-mandarin-01",
+              "title": "聆聽不同立場與追問",
+              "group": "聆聽與口說"
+            },
+            {
+              "id": "g6s1-mandarin-02",
+              "title": "抓住主題的報告組織",
+              "group": "聆聽與口說"
+            },
+            {
+              "id": "g6s1-mandarin-03",
+              "title": "多義詞和語氣的判讀",
+              "group": "詞句與修辭"
+            },
+            {
+              "id": "g6s1-mandarin-04",
+              "title": "設問引用與對比效果",
+              "group": "詞句與修辭"
+            },
+            {
+              "id": "g6s1-mandarin-05",
+              "title": "敘事人稱與人物立場",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s1-mandarin-06",
+              "title": "景物動靜與情感寄託",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s1-mandarin-07",
+              "title": "古典詩文的語境理解",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s1-mandarin-08",
+              "title": "說明文結構與因果",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s1-mandarin-09",
+              "title": "議論文的論點和例證",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s1-mandarin-10",
+              "title": "景物描寫與間接抒情",
+              "group": "寫作與修訂"
+            },
+            {
+              "id": "g6s1-mandarin-11",
+              "title": "以理由支持主張",
+              "group": "寫作與修訂"
+            },
+            {
+              "id": "g6s1-mandarin-12",
+              "title": "文章結構和首尾呼應",
+              "group": "寫作與修訂"
+            },
+            {
+              "id": "g6s1-mandarin-13",
+              "title": "數位資料的查核與引用",
+              "group": "寫作與修訂"
+            },
+            {
+              "id": "g6s1-mandarin-14",
+              "title": "楷書形體結構的欣賞",
+              "group": "書法與書寫"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "mandarin-framework",
+            "upper-puzih6-mandarin"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "書法與書寫依階段領綱補充整理，硬筆與毛筆的實際安排以學校計畫為準。"
+          ]
+        },
+        {
+          "id": "mathematics",
+          "title": "數學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "掌握質因數與比的概念，整合分數除法、圓和速率應用。",
+          "weeklyPeriods": "4節／週（總綱基準）",
+          "topicBasis": "依6年級年度數學內容與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s1-mathematics-01",
+              "title": "質數合數與質因數分解",
+              "group": "數與運算"
+            },
+            {
+              "id": "g6s1-mathematics-02",
+              "title": "最大公因數與最小公倍數",
+              "group": "數與運算"
+            },
+            {
+              "id": "g6s1-mathematics-03",
+              "title": "最簡分數與分數除法",
+              "group": "數與運算"
+            },
+            {
+              "id": "g6s1-mathematics-04",
+              "title": "小數除法與商的估計",
+              "group": "數與運算"
+            },
+            {
+              "id": "g6s1-mathematics-05",
+              "title": "比和比值",
+              "group": "比與應用"
+            },
+            {
+              "id": "g6s1-mathematics-06",
+              "title": "相等的比與最簡整數比",
+              "group": "比與應用"
+            },
+            {
+              "id": "g6s1-mathematics-07",
+              "title": "速率與時間距離",
+              "group": "比與應用"
+            },
+            {
+              "id": "g6s1-mathematics-08",
+              "title": "速率單位的換算",
+              "group": "比與應用"
+            },
+            {
+              "id": "g6s1-mathematics-09",
+              "title": "圓周率與圓周長",
+              "group": "圓與圖形"
+            },
+            {
+              "id": "g6s1-mathematics-10",
+              "title": "圓面積",
+              "group": "圓與圖形"
+            },
+            {
+              "id": "g6s1-mathematics-11",
+              "title": "扇形弧長與面積",
+              "group": "圓與圖形"
+            },
+            {
+              "id": "g6s1-mathematics-12",
+              "title": "圓與複合圖形的計算",
+              "group": "圓與圖形"
+            },
+            {
+              "id": "g6s1-mathematics-13",
+              "title": "數量變化與不變關係",
+              "group": "規律與解題"
+            },
+            {
+              "id": "g6s1-mathematics-14",
+              "title": "列表尋找規律",
+              "group": "規律與解題"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "math-framework",
+            "upper-puzih6-math1",
+            "upper-math-handbook"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "english",
+          "title": "英語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "用國家、交通和生活作息進行問答，連結閱讀資訊與文化比較。",
+          "weeklyPeriods": "2節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s1-english-01",
+              "title": "國家名稱與來自哪裡",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g6s1-english-02",
+              "title": "交通方式與上學路線",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g6s1-english-03",
+              "title": "週末休閒活動",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g6s1-english-04",
+              "title": "日常作息與時間",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g6s1-english-05",
+              "title": "生活數字的不同用途",
+              "group": "生活溝通"
+            },
+            {
+              "id": "g6s1-english-06",
+              "title": "r控制母音的拼讀",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g6s1-english-07",
+              "title": "雙母音音組辨識",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g6s1-english-08",
+              "title": "句子語調與流暢朗讀",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g6s1-english-09",
+              "title": "短文重點與資訊整合",
+              "group": "閱讀與文化"
+            },
+            {
+              "id": "g6s1-english-10",
+              "title": "活動順序的連貫表達",
+              "group": "閱讀與文化"
+            },
+            {
+              "id": "g6s1-english-11",
+              "title": "各地新年習俗與尊重差異",
+              "group": "閱讀與文化"
+            },
+            {
+              "id": "g6s1-english-12",
+              "title": "自己的生活簡介",
+              "group": "閱讀與文化"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "english-framework",
+            "upper-puzih6-english"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "生活主題及拼讀音組在版本間差異較大；不把字彙量或語法項目當成本學期統一檢定標準。"
+          ]
+        },
+        {
+          "id": "social",
+          "title": "社會",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "觀察當代臺灣的社會文化與制度，思考公共議題及世界連結。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s1-social-01",
+              "title": "戰後生活的變遷",
+              "group": "社會與公民"
+            },
+            {
+              "id": "g6s1-social-02",
+              "title": "民主參與與政府服務",
+              "group": "社會與公民"
+            },
+            {
+              "id": "g6s1-social-03",
+              "title": "權利責任和公共規範",
+              "group": "社會與公民"
+            },
+            {
+              "id": "g6s1-social-04",
+              "title": "公平正義與多元群體",
+              "group": "社會與公民"
+            },
+            {
+              "id": "g6s1-social-05",
+              "title": "產業轉型和工作變化",
+              "group": "經濟與生活"
+            },
+            {
+              "id": "g6s1-social-06",
+              "title": "科技媒體與社會互動",
+              "group": "經濟與生活"
+            },
+            {
+              "id": "g6s1-social-07",
+              "title": "城鄉人口與生活問題",
+              "group": "經濟與生活"
+            },
+            {
+              "id": "g6s1-social-08",
+              "title": "多元文化的形成與交流",
+              "group": "文化與交流"
+            },
+            {
+              "id": "g6s1-social-09",
+              "title": "文化保存與創新",
+              "group": "文化與交流"
+            },
+            {
+              "id": "g6s1-social-10",
+              "title": "臺灣和世界的相互影響",
+              "group": "文化與交流"
+            },
+            {
+              "id": "g6s1-social-11",
+              "title": "新聞資訊與事實觀點",
+              "group": "探究實作"
+            },
+            {
+              "id": "g6s1-social-12",
+              "title": "公共問題的證據與討論",
+              "group": "探究實作"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "social-framework",
+            "upper-puzih6-social",
+            "upper-qingjiang6-social"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "science",
+          "title": "自然科學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "將天氣、物質、動物和電磁現象，連結到證據推論與生活應用。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編；另以「階段補充主題」補足領域廣度",
+          "topics": [
+            {
+              "id": "g6s1-science-01",
+              "title": "天氣變化與觀測資料",
+              "group": "天氣與環境"
+            },
+            {
+              "id": "g6s1-science-02",
+              "title": "天氣圖和衛星雲圖",
+              "group": "天氣與環境"
+            },
+            {
+              "id": "g6s1-science-03",
+              "title": "極端天氣與氣候變遷",
+              "group": "天氣與環境"
+            },
+            {
+              "id": "g6s1-science-04",
+              "title": "混合前後的質量",
+              "group": "物質探究"
+            },
+            {
+              "id": "g6s1-science-05",
+              "title": "過濾蒸發與物質分離",
+              "group": "物質探究"
+            },
+            {
+              "id": "g6s1-science-06",
+              "title": "酸鹼指示與導電比較",
+              "group": "物質探究"
+            },
+            {
+              "id": "g6s1-science-07",
+              "title": "骨骼肌肉與運動",
+              "group": "動物構造"
+            },
+            {
+              "id": "g6s1-science-08",
+              "title": "呼吸器官與環境適應",
+              "group": "動物構造"
+            },
+            {
+              "id": "g6s1-science-09",
+              "title": "動物構造的仿生應用",
+              "group": "動物構造"
+            },
+            {
+              "id": "g6s1-science-10",
+              "title": "地磁與指北針",
+              "group": "電磁現象"
+            },
+            {
+              "id": "g6s1-science-11",
+              "title": "電流的磁作用",
+              "group": "電磁現象"
+            },
+            {
+              "id": "g6s1-science-12",
+              "title": "電磁鐵強弱的變因",
+              "group": "電磁現象"
+            },
+            {
+              "id": "g6s1-science-13",
+              "title": "電磁應用與生活科技",
+              "group": "電磁現象"
+            },
+            {
+              "id": "g6s1-science-14",
+              "title": "自然界的水循環",
+              "group": "階段補充主題"
+            },
+            {
+              "id": "g6s1-science-15",
+              "title": "細胞、器官與個體的構造層次",
+              "group": "階段補充主題"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "science-framework",
+            "upper-puzih6-science"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "「階段補充主題」依正式領綱補列；所在學期是本導覽的整理位置，不表示引用的學校計畫或全國教材均在此學期教授。",
+            "細胞主題限細胞、器官與個體的基本構造層次，不延伸到細胞內部構造。"
+          ]
+        },
+        {
+          "id": "arts",
+          "title": "藝術",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "從美術館、公共藝術及多元表演，練習詮釋作品與提出創作構想。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s1-arts-01",
+              "title": "美術館與作品保存",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s1-arts-02",
+              "title": "公共藝術的功能",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s1-arts-03",
+              "title": "空間環境與裝置構想",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s1-arts-04",
+              "title": "藝術作品的觀點比較",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s1-arts-05",
+              "title": "樂曲結構與風格辨識",
+              "group": "音樂"
+            },
+            {
+              "id": "g6s1-arts-06",
+              "title": "歌曲表情與聲部配合",
+              "group": "音樂"
+            },
+            {
+              "id": "g6s1-arts-07",
+              "title": "直笛合奏與音色控制",
+              "group": "音樂"
+            },
+            {
+              "id": "g6s1-arts-08",
+              "title": "不同文化的音樂表現",
+              "group": "音樂"
+            },
+            {
+              "id": "g6s1-arts-09",
+              "title": "劇場分工與舞台元素",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g6s1-arts-10",
+              "title": "傳統戲曲的身段與角色",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g6s1-arts-11",
+              "title": "情境改編與角色詮釋",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g6s1-arts-12",
+              "title": "創作提案與同儕討論",
+              "group": "表演藝術"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "arts-framework",
+            "upper-puzih6-arts"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "音樂、視覺藝術和表演藝術為領域內主題；實際媒材、樂器及展演安排由學校決定。"
+          ]
+        },
+        {
+          "id": "integrated",
+          "title": "綜合活動",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "以友善環境、人際及文化理解為主軸，實作並檢視自己的行動。",
+          "weeklyPeriods": "2節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s1-integrated-01",
+              "title": "社區環境問題分析",
+              "group": "環境實踐"
+            },
+            {
+              "id": "g6s1-integrated-02",
+              "title": "環境友善方案規劃",
+              "group": "環境實踐"
+            },
+            {
+              "id": "g6s1-integrated-03",
+              "title": "邀請他人參與的策略",
+              "group": "環境實踐"
+            },
+            {
+              "id": "g6s1-integrated-04",
+              "title": "行動成效與調整",
+              "group": "環境實踐"
+            },
+            {
+              "id": "g6s1-integrated-05",
+              "title": "生活美感的多元觀點",
+              "group": "美感與創意"
+            },
+            {
+              "id": "g6s1-integrated-06",
+              "title": "創意設計與建設性回饋",
+              "group": "美感與創意"
+            },
+            {
+              "id": "g6s1-integrated-07",
+              "title": "自我互動方式的覺察",
+              "group": "人際與文化"
+            },
+            {
+              "id": "g6s1-integrated-08",
+              "title": "尊重差異與正向關係",
+              "group": "人際與文化"
+            },
+            {
+              "id": "g6s1-integrated-09",
+              "title": "不同文化的經驗比較",
+              "group": "人際與文化"
+            },
+            {
+              "id": "g6s1-integrated-10",
+              "title": "減少誤解的溝通",
+              "group": "人際與文化"
+            },
+            {
+              "id": "g6s1-integrated-11",
+              "title": "友愛文化的具體行動",
+              "group": "人際與文化"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "integrated-framework",
+            "upper-puzih6-integrated"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。"
+          ]
+        },
+        {
+          "id": "health-pe",
+          "title": "健康與體育",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "辨識數位生活、消費與人際風險，精進球類和節奏運動。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s1-health-pe-01",
+              "title": "網路使用與自我管理",
+              "group": "健康生活"
+            },
+            {
+              "id": "g6s1-health-pe-02",
+              "title": "網路霸凌和友誼維繫",
+              "group": "健康生活"
+            },
+            {
+              "id": "g6s1-health-pe-03",
+              "title": "健康消費資訊的判讀",
+              "group": "健康生活"
+            },
+            {
+              "id": "g6s1-health-pe-04",
+              "title": "性別刻板印象與尊重",
+              "group": "健康生活"
+            },
+            {
+              "id": "g6s1-health-pe-05",
+              "title": "身體自主權與求助",
+              "group": "健康生活"
+            },
+            {
+              "id": "g6s1-health-pe-06",
+              "title": "球類攻防的團隊策略",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g6s1-health-pe-07",
+              "title": "桌球來回與落點控制",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g6s1-health-pe-08",
+              "title": "足球傳球與空間配合",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g6s1-health-pe-09",
+              "title": "攀爬平衡與安全挑戰",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g6s1-health-pe-10",
+              "title": "游泳動作的協調",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g6s1-health-pe-11",
+              "title": "扯鈴或民俗運動的組合",
+              "group": "體能與技能"
+            },
+            {
+              "id": "g6s1-health-pe-12",
+              "title": "舞蹈與技擊的節奏表現",
+              "group": "體能與技能"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "health-framework",
+            "upper-tianmu6-health",
+            "upper-shipai6-health"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "運動種類、游泳及戶外活動依場地、季節、師資與學生需求調整；內容為課程概覽。"
+          ]
+        },
+        {
+          "id": "language-choice",
+          "title": "本土語文／臺灣手語／新住民語文（選一）",
+          "category": "部定課程",
+          "classification": "required-choice",
+          "badge": "部定・語別選一",
+          "description": "運用所選語別介紹家鄉與觀點，深化文化認同和跨文化理解。",
+          "weeklyPeriods": "1節／週（總綱基準）",
+          "topicBasis": "依所選語別及程度重編的學期情境示例",
+          "topics": [
+            {
+              "id": "g6s1-language-choice-01",
+              "title": "家鄉特色的連貫介紹",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s1-language-choice-02",
+              "title": "公共場合的禮貌應對",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s1-language-choice-03",
+              "title": "生活問題與看法表達",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s1-language-choice-04",
+              "title": "文化故事的不同觀點",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s1-language-choice-05",
+              "title": "文學或口傳作品的欣賞",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g6s1-language-choice-06",
+              "title": "語句風格與文化意涵",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g6s1-language-choice-07",
+              "title": "以手語表達情緒、感受與需求",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g6s1-language-choice-08",
+              "title": "聾人經驗與無障礙溝通",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g6s1-language-choice-09",
+              "title": "文化主題的資訊分享",
+              "group": "新住民語文（依選習）"
+            },
+            {
+              "id": "g6s1-language-choice-10",
+              "title": "常用句型與互動表達",
+              "group": "新住民語文（依選習）"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "languages-index",
+            "sign-framework",
+            "new-immigrant-framework"
+          ],
+          "caveats": [
+            "本土語文、臺灣手語或新住民語文選一種學習；本卡各語別分組是選習路徑，不是全部修習。",
+            "語別與程度決定詞彙、文本及冊別；臺灣手語採視覺理解與表達，不套用口語拼音及文字書寫要求。",
+            "列出的上下學期情境是整理示例，各語別可因學生起點採不同次序。"
+          ],
+          "languageOptions": [
+            "閩南語文",
+            "客語文",
+            "原住民族語文",
+            "閩東語文等本土語文",
+            "臺灣手語",
+            "新住民語文"
+          ]
+        },
+        {
+          "id": "school-flexible",
+          "title": "校訂彈性學習（示例）",
+          "category": "校訂課程",
+          "classification": "school-defined",
+          "badge": "校訂・示例",
+          "description": "學校可安排世界議題、故事創作和合作專題，累積整合能力。",
+          "weeklyPeriods": "4–7節／週（校訂總量）",
+          "topicBasis": "學校可選設的統整性主題與活動示例",
+          "topics": [
+            {
+              "id": "g6s1-school-flexible-01",
+              "title": "國際議題的在地觀察",
+              "group": "世界與地方示例"
+            },
+            {
+              "id": "g6s1-school-flexible-02",
+              "title": "文化資料與觀點比較",
+              "group": "世界與地方示例"
+            },
+            {
+              "id": "g6s1-school-flexible-03",
+              "title": "跨校交流與友善提問",
+              "group": "世界與地方示例"
+            },
+            {
+              "id": "g6s1-school-flexible-04",
+              "title": "校園故事書規劃",
+              "group": "創作與資訊示例"
+            },
+            {
+              "id": "g6s1-school-flexible-05",
+              "title": "影音敘事與素材授權",
+              "group": "創作與資訊示例"
+            },
+            {
+              "id": "g6s1-school-flexible-06",
+              "title": "STEAM問題與原型設計",
+              "group": "創作與資訊示例"
+            },
+            {
+              "id": "g6s1-school-flexible-07",
+              "title": "數位資訊可信度檢核",
+              "group": "創作與資訊示例"
+            },
+            {
+              "id": "g6s1-school-flexible-08",
+              "title": "團隊專題的時程管理",
+              "group": "自主與協作示例"
+            },
+            {
+              "id": "g6s1-school-flexible-09",
+              "title": "學生自治與公共提案",
+              "group": "自主與協作示例"
+            },
+            {
+              "id": "g6s1-school-flexible-10",
+              "title": "階段成果發表與修正",
+              "group": "自主與協作示例"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "general",
+            "upper-puzih-index",
+            "upper-shuangxi-index"
+          ],
+          "caveats": [
+            "主題為不同學校可能採用的例子，並非每校全部開設；資訊、程式或國際教育不是另列的全國國小部定科目。",
+            "各主題節數由學校自訂，不能把全部示例視為同一學期的必修課表。"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": 6,
+      "semester": 2,
+      "stage": "第三學習階段（五、六年級）",
+      "summary": "統整國小學習並準備新階段；畢業、評量及成果活動依各校行事曆調整。",
+      "courses": [
+        {
+          "id": "mandarin",
+          "title": "國語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "統整六年讀寫經驗，以論述、創作與演講表達自己的成長和觀點。",
+          "weeklyPeriods": "5節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s2-mandarin-01",
+              "title": "辨別訊息與評價立場",
+              "group": "聆聽與口說"
+            },
+            {
+              "id": "g6s2-mandarin-02",
+              "title": "演講內容的層次安排",
+              "group": "聆聽與口說"
+            },
+            {
+              "id": "g6s2-mandarin-03",
+              "title": "事實推論與評論提問",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s2-mandarin-04",
+              "title": "作者觀點與證據評估",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s2-mandarin-05",
+              "title": "古典故事和現代經驗",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s2-mandarin-06",
+              "title": "詩的意象與含蓄情感",
+              "group": "閱讀探究"
+            },
+            {
+              "id": "g6s2-mandarin-07",
+              "title": "故事轉折與情節安排",
+              "group": "寫作整合"
+            },
+            {
+              "id": "g6s2-mandarin-08",
+              "title": "完整議論文章的組織",
+              "group": "寫作整合"
+            },
+            {
+              "id": "g6s2-mandarin-09",
+              "title": "人物對話與場景氣氛",
+              "group": "寫作整合"
+            },
+            {
+              "id": "g6s2-mandarin-10",
+              "title": "演講稿與口語轉化",
+              "group": "寫作整合"
+            },
+            {
+              "id": "g6s2-mandarin-11",
+              "title": "畢業回憶與祝福表達",
+              "group": "寫作整合"
+            },
+            {
+              "id": "g6s2-mandarin-12",
+              "title": "自主閱讀與作品修訂",
+              "group": "寫作整合"
+            },
+            {
+              "id": "g6s2-mandarin-13",
+              "title": "楷書作品的書寫與分享",
+              "group": "書法與書寫"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "mandarin-framework",
+            "upper-puzih6-mandarin"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。",
+            "書法與書寫依階段領綱補充整理，硬筆與毛筆的實際安排以學校計畫為準。"
+          ]
+        },
+        {
+          "id": "mathematics",
+          "title": "數學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "綜合運用數量關係和圖形測量，解讀統計並認識生活中的可能性。",
+          "weeklyPeriods": "4節／週（總綱基準）",
+          "topicBasis": "依6年級年度數學內容與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s2-mathematics-01",
+              "title": "分數小數四則混合計算",
+              "group": "運算與關係"
+            },
+            {
+              "id": "g6s2-mathematics-02",
+              "title": "多步驟情境與列式",
+              "group": "運算與關係"
+            },
+            {
+              "id": "g6s2-mathematics-03",
+              "title": "基準量比較量和線段圖",
+              "group": "運算與關係"
+            },
+            {
+              "id": "g6s2-mathematics-04",
+              "title": "數量關係與比例應用",
+              "group": "運算與關係"
+            },
+            {
+              "id": "g6s2-mathematics-05",
+              "title": "柱體體積",
+              "group": "圖形與測量"
+            },
+            {
+              "id": "g6s2-mathematics-06",
+              "title": "柱體表面積",
+              "group": "圖形與測量"
+            },
+            {
+              "id": "g6s2-mathematics-07",
+              "title": "縮圖放大圖與對應",
+              "group": "圖形與測量"
+            },
+            {
+              "id": "g6s2-mathematics-08",
+              "title": "比例尺與實際距離",
+              "group": "圖形與測量"
+            },
+            {
+              "id": "g6s2-mathematics-09",
+              "title": "縮放中的長度和面積",
+              "group": "圖形與測量"
+            },
+            {
+              "id": "g6s2-mathematics-10",
+              "title": "圓形圖的整理和製作",
+              "group": "資料與可能性"
+            },
+            {
+              "id": "g6s2-mathematics-11",
+              "title": "統計圖的選擇與比較",
+              "group": "資料與可能性"
+            },
+            {
+              "id": "g6s2-mathematics-12",
+              "title": "生活事件的可能性",
+              "group": "資料與可能性"
+            },
+            {
+              "id": "g6s2-mathematics-13",
+              "title": "有系統計數與列表找規律",
+              "group": "統整解題"
+            },
+            {
+              "id": "g6s2-mathematics-14",
+              "title": "檢查答案與解法說明",
+              "group": "統整解題"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "math-framework",
+            "upper-puzih6-math2",
+            "upper-math-handbook"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ]
+        },
+        {
+          "id": "english",
+          "title": "英語文",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "整合簡易敘事、短文和對話，分享過去經驗與學習成果。",
+          "weeklyPeriods": "2節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s2-english-01",
+              "title": "過去所在的地點",
+              "group": "經驗表達"
+            },
+            {
+              "id": "g6s2-english-02",
+              "title": "昨天及昨晚的活動",
+              "group": "經驗表達"
+            },
+            {
+              "id": "g6s2-english-03",
+              "title": "過去問答與肯否定回應",
+              "group": "經驗表達"
+            },
+            {
+              "id": "g6s2-english-04",
+              "title": "活動經驗的前後順序",
+              "group": "經驗表達"
+            },
+            {
+              "id": "g6s2-english-05",
+              "title": "混合子音的辨識拼讀",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g6s2-english-06",
+              "title": "常見過去式詞形辨認",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g6s2-english-07",
+              "title": "短句書寫與語意連貫",
+              "group": "語音與文字"
+            },
+            {
+              "id": "g6s2-english-08",
+              "title": "短文的因果與細節",
+              "group": "閱讀與文化"
+            },
+            {
+              "id": "g6s2-english-09",
+              "title": "多項訊息的比較整合",
+              "group": "閱讀與文化"
+            },
+            {
+              "id": "g6s2-english-10",
+              "title": "文化故事與生活經驗",
+              "group": "閱讀與文化"
+            },
+            {
+              "id": "g6s2-english-11",
+              "title": "簡易故事的角色演出",
+              "group": "綜合溝通"
+            },
+            {
+              "id": "g6s2-english-12",
+              "title": "個人成長與學習分享",
+              "group": "綜合溝通"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "english-framework",
+            "upper-puzih6-english"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "生活主題及拼讀音組在版本間差異較大；不把字彙量或語法項目當成本學期統一檢定標準。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ]
+        },
+        {
+          "id": "social",
+          "title": "社會",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "從全球經濟、衝突合作和永續問題，思考自己的公民行動。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s2-social-01",
+              "title": "世界貿易與生活商品",
+              "group": "全球經濟"
+            },
+            {
+              "id": "g6s2-social-02",
+              "title": "跨國分工與產業連結",
+              "group": "全球經濟"
+            },
+            {
+              "id": "g6s2-social-03",
+              "title": "經濟發展的機會與代價",
+              "group": "全球經濟"
+            },
+            {
+              "id": "g6s2-social-04",
+              "title": "公平交易與責任消費",
+              "group": "全球經濟"
+            },
+            {
+              "id": "g6s2-social-05",
+              "title": "國際競爭與衝突",
+              "group": "國際互動"
+            },
+            {
+              "id": "g6s2-social-06",
+              "title": "合作組織和人道援助",
+              "group": "國際互動"
+            },
+            {
+              "id": "g6s2-social-07",
+              "title": "文化理解與和平相處",
+              "group": "國際互動"
+            },
+            {
+              "id": "g6s2-social-08",
+              "title": "全球環境與資源問題",
+              "group": "永續與公民"
+            },
+            {
+              "id": "g6s2-social-09",
+              "title": "人口移動與人權關懷",
+              "group": "永續與公民"
+            },
+            {
+              "id": "g6s2-social-10",
+              "title": "永續發展的在地實踐",
+              "group": "永續與公民"
+            },
+            {
+              "id": "g6s2-social-11",
+              "title": "比較資料與權衡方案",
+              "group": "探究統整"
+            },
+            {
+              "id": "g6s2-social-12",
+              "title": "提出可行的公民行動",
+              "group": "探究統整"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "social-framework",
+            "upper-puzih6-social"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ]
+        },
+        {
+          "id": "science",
+          "title": "自然科學",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "以簡單機械、能量和生態系統統整探究，思考永續生活的選擇。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編；另以「階段補充主題」補足領域廣度",
+          "topics": [
+            {
+              "id": "g6s2-science-01",
+              "title": "槓桿與施力位置",
+              "group": "簡單機械"
+            },
+            {
+              "id": "g6s2-science-02",
+              "title": "滑輪和輪軸的應用",
+              "group": "簡單機械"
+            },
+            {
+              "id": "g6s2-science-03",
+              "title": "齒輪鏈條與動力傳遞",
+              "group": "簡單機械"
+            },
+            {
+              "id": "g6s2-science-04",
+              "title": "速度與動能的比較",
+              "group": "能量與運動"
+            },
+            {
+              "id": "g6s2-science-05",
+              "title": "能量的轉換與傳遞",
+              "group": "能量與運動"
+            },
+            {
+              "id": "g6s2-science-06",
+              "title": "能源種類和使用限制",
+              "group": "能量與運動"
+            },
+            {
+              "id": "g6s2-science-07",
+              "title": "生物與環境的相互作用",
+              "group": "生態系統"
+            },
+            {
+              "id": "g6s2-science-08",
+              "title": "食物鏈與能量流動",
+              "group": "生態系統"
+            },
+            {
+              "id": "g6s2-science-09",
+              "title": "生物多樣性與棲地",
+              "group": "生態系統"
+            },
+            {
+              "id": "g6s2-science-10",
+              "title": "氣候變遷和生態危機",
+              "group": "生態系統"
+            },
+            {
+              "id": "g6s2-science-11",
+              "title": "節能或保育方案的比較",
+              "group": "探究與行動"
+            },
+            {
+              "id": "g6s2-science-12",
+              "title": "整理證據並說明探究結果",
+              "group": "探究與行動"
+            },
+            {
+              "id": "g6s2-science-13",
+              "title": "侵蝕搬運與堆積",
+              "group": "階段補充主題"
+            },
+            {
+              "id": "g6s2-science-14",
+              "title": "太陽系與行星",
+              "group": "階段補充主題"
+            },
+            {
+              "id": "g6s2-science-15",
+              "title": "保溫與散熱",
+              "group": "階段補充主題"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "science-framework",
+            "upper-puzih6-science"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。",
+            "「階段補充主題」依正式領綱補列；所在學期是本導覽的整理位置，不表示引用的學校計畫或全國教材均在此學期教授。"
+          ]
+        },
+        {
+          "id": "arts",
+          "title": "藝術",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "用人物、音樂與校園劇場完成回憶創作，統整欣賞和合作展演。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s2-arts-01",
+              "title": "人物動態速寫",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s2-arts-02",
+              "title": "肖像比例與明暗",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s2-arts-03",
+              "title": "版畫與畢業紀念創作",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s2-arts-04",
+              "title": "留言簿的編排裝訂",
+              "group": "視覺藝術"
+            },
+            {
+              "id": "g6s2-arts-05",
+              "title": "民歌與不同演唱形式",
+              "group": "音樂"
+            },
+            {
+              "id": "g6s2-arts-06",
+              "title": "即興曲調與節奏創作",
+              "group": "音樂"
+            },
+            {
+              "id": "g6s2-arts-07",
+              "title": "合唱器樂與展演排練",
+              "group": "音樂"
+            },
+            {
+              "id": "g6s2-arts-08",
+              "title": "導演構想與舞台構圖",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g6s2-arts-09",
+              "title": "校園故事的劇本合作",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g6s2-arts-10",
+              "title": "環境劇場與身體表達",
+              "group": "表演藝術"
+            },
+            {
+              "id": "g6s2-arts-11",
+              "title": "畢業展演的分工統整",
+              "group": "展演與回顧"
+            },
+            {
+              "id": "g6s2-arts-12",
+              "title": "作品紀錄與欣賞反思",
+              "group": "展演與回顧"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "arts-framework",
+            "upper-puzih6-arts"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "音樂、視覺藝術和表演藝術為領域內主題；實際媒材、樂器及展演安排由學校決定。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ]
+        },
+        {
+          "id": "integrated",
+          "title": "綜合活動",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "探索職業與未來學習，檢視資源和服務經驗，準備進入新階段。",
+          "weeklyPeriods": "2節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s2-integrated-01",
+              "title": "職業資訊的蒐集",
+              "group": "生涯探索"
+            },
+            {
+              "id": "g6s2-integrated-02",
+              "title": "興趣特質與工作條件",
+              "group": "生涯探索"
+            },
+            {
+              "id": "g6s2-integrated-03",
+              "title": "未來需要的能力",
+              "group": "生涯探索"
+            },
+            {
+              "id": "g6s2-integrated-04",
+              "title": "升學與生活適應準備",
+              "group": "生涯探索"
+            },
+            {
+              "id": "g6s2-integrated-05",
+              "title": "資源來源的可靠性",
+              "group": "資源判讀"
+            },
+            {
+              "id": "g6s2-integrated-06",
+              "title": "解決問題的選擇比較",
+              "group": "資源判讀"
+            },
+            {
+              "id": "g6s2-integrated-07",
+              "title": "合理使用資訊與求助",
+              "group": "資源判讀"
+            },
+            {
+              "id": "g6s2-integrated-08",
+              "title": "服務經驗的優缺點",
+              "group": "服務與成長"
+            },
+            {
+              "id": "g6s2-integrated-09",
+              "title": "依需求調整服務內容",
+              "group": "服務與成長"
+            },
+            {
+              "id": "g6s2-integrated-10",
+              "title": "感恩與利他的實踐",
+              "group": "服務與成長"
+            },
+            {
+              "id": "g6s2-integrated-11",
+              "title": "學習歷程的回顧展望",
+              "group": "服務與成長"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "integrated-framework",
+            "upper-puzih6-integrated"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ]
+        },
+        {
+          "id": "health-pe",
+          "title": "健康與體育",
+          "category": "部定課程",
+          "classification": "required",
+          "badge": "部定・共同學習",
+          "description": "統整自我健康管理與運動習慣，面對畢業轉換及新的生活挑戰。",
+          "weeklyPeriods": "3節／週（總綱基準）",
+          "topicBasis": "依第三學習階段（五、六年級）與公開學期計畫重編",
+          "topics": [
+            {
+              "id": "g6s2-health-pe-01",
+              "title": "接納優點與個人限制",
+              "group": "身心健康"
+            },
+            {
+              "id": "g6s2-health-pe-02",
+              "title": "畢業分離與情緒調適",
+              "group": "身心健康"
+            },
+            {
+              "id": "g6s2-health-pe-03",
+              "title": "健康目標與生活管理",
+              "group": "身心健康"
+            },
+            {
+              "id": "g6s2-health-pe-04",
+              "title": "常見傳染病的預防",
+              "group": "身心健康"
+            },
+            {
+              "id": "g6s2-health-pe-05",
+              "title": "拒絕電子煙及成癮物質",
+              "group": "身心健康"
+            },
+            {
+              "id": "g6s2-health-pe-06",
+              "title": "健康資訊和求助資源",
+              "group": "身心健康"
+            },
+            {
+              "id": "g6s2-health-pe-07",
+              "title": "適合自己的持續運動",
+              "group": "運動統整"
+            },
+            {
+              "id": "g6s2-health-pe-08",
+              "title": "團隊球類策略的運用",
+              "group": "運動統整"
+            },
+            {
+              "id": "g6s2-health-pe-09",
+              "title": "跑跳投技能的整合",
+              "group": "運動統整"
+            },
+            {
+              "id": "g6s2-health-pe-10",
+              "title": "節奏或民俗運動展演",
+              "group": "運動統整"
+            },
+            {
+              "id": "g6s2-health-pe-11",
+              "title": "水域安全與自救知能",
+              "group": "運動統整"
+            },
+            {
+              "id": "g6s2-health-pe-12",
+              "title": "運動風險判斷和同伴照顧",
+              "group": "安全與責任"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "health-framework",
+            "upper-shipai6-health",
+            "upper-qingjiang6-social"
+          ],
+          "caveats": [
+            "此為課綱範圍內的主題參考整理；單元、順序與學期分配依教材版本和學校課程計畫調整。",
+            "運動種類、游泳及戶外活動依場地、季節、師資與學生需求調整；內容為課程概覽。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ]
+        },
+        {
+          "id": "language-choice",
+          "title": "本土語文／臺灣手語／新住民語文（選一）",
+          "category": "部定課程",
+          "classification": "required-choice",
+          "badge": "部定・語別選一",
+          "description": "以所選語別分享成長、故事與祝福，整理可持續運用的溝通能力。",
+          "weeklyPeriods": "1節／週（總綱基準）",
+          "topicBasis": "依所選語別及程度重編的學期情境示例",
+          "topics": [
+            {
+              "id": "g6s2-language-choice-01",
+              "title": "六年生活的回顧",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s2-language-choice-02",
+              "title": "感謝與祝福的表達",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s2-language-choice-03",
+              "title": "未來生活與學習想像",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s2-language-choice-04",
+              "title": "介紹作品並回答提問",
+              "group": "生活情境示例"
+            },
+            {
+              "id": "g6s2-language-choice-05",
+              "title": "口傳故事或短文創作",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g6s2-language-choice-06",
+              "title": "文化傳承與語言使用",
+              "group": "本土語文（依選習）"
+            },
+            {
+              "id": "g6s2-language-choice-07",
+              "title": "以簡短手語分享生活經驗",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g6s2-language-choice-08",
+              "title": "手語交流與多元身分尊重",
+              "group": "臺灣手語（依選習）"
+            },
+            {
+              "id": "g6s2-language-choice-09",
+              "title": "生活主題成果分享",
+              "group": "新住民語文（依選習）"
+            },
+            {
+              "id": "g6s2-language-choice-10",
+              "title": "跨文化理解與持續學習",
+              "group": "新住民語文（依選習）"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "languages-index",
+            "sign-framework",
+            "new-immigrant-framework"
+          ],
+          "caveats": [
+            "本土語文、臺灣手語或新住民語文選一種學習；本卡各語別分組是選習路徑，不是全部修習。",
+            "語別與程度決定詞彙、文本及冊別；臺灣手語採視覺理解與表達，不套用口語拼音及文字書寫要求。",
+            "列出的上下學期情境是整理示例，各語別可因學生起點採不同次序。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ],
+          "languageOptions": [
+            "閩南語文",
+            "客語文",
+            "原住民族語文",
+            "閩東語文等本土語文",
+            "臺灣手語",
+            "新住民語文"
+          ]
+        },
+        {
+          "id": "school-flexible",
+          "title": "校訂彈性學習（示例）",
+          "category": "校訂課程",
+          "classification": "school-defined",
+          "badge": "校訂・示例",
+          "description": "可將專題、服務與畢業成果結合，實施週次依校曆調整。",
+          "weeklyPeriods": "4–7節／週（校訂總量）",
+          "topicBasis": "學校可選設的統整性主題與活動示例",
+          "topics": [
+            {
+              "id": "g6s2-school-flexible-01",
+              "title": "STEAM原型測試改良",
+              "group": "專題實踐示例"
+            },
+            {
+              "id": "g6s2-school-flexible-02",
+              "title": "世界議題的行動提案",
+              "group": "專題實踐示例"
+            },
+            {
+              "id": "g6s2-school-flexible-03",
+              "title": "跨校成果交流",
+              "group": "專題實踐示例"
+            },
+            {
+              "id": "g6s2-school-flexible-04",
+              "title": "校園服務的交接",
+              "group": "服務與自治示例"
+            },
+            {
+              "id": "g6s2-school-flexible-05",
+              "title": "社區行動成效檢視",
+              "group": "服務與自治示例"
+            },
+            {
+              "id": "g6s2-school-flexible-06",
+              "title": "自主學習成果整理",
+              "group": "服務與自治示例"
+            },
+            {
+              "id": "g6s2-school-flexible-07",
+              "title": "畢業作品策展",
+              "group": "畢業統整示例"
+            },
+            {
+              "id": "g6s2-school-flexible-08",
+              "title": "校園回憶的影音敘事",
+              "group": "畢業統整示例"
+            },
+            {
+              "id": "g6s2-school-flexible-09",
+              "title": "活動規劃與團隊協作",
+              "group": "畢業統整示例"
+            },
+            {
+              "id": "g6s2-school-flexible-10",
+              "title": "新學習階段的準備",
+              "group": "畢業統整示例"
+            }
+          ],
+          "sourceIds": [
+            "upper-general-pdf",
+            "general",
+            "upper-puzih-index",
+            "upper-shuangxi-index"
+          ],
+          "caveats": [
+            "主題為不同學校可能採用的例子，並非每校全部開設；資訊、程式或國際教育不是另列的全國國小部定科目。",
+            "各主題節數由學校自訂，不能把全部示例視為同一學期的必修課表。",
+            "六下有效教學週次、畢業評量、成果展與畢業活動依學校校曆調整；不固定假設20週。"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,653 @@
+[
+  {
+    "id": "general",
+    "title": "國家教育研究院｜十二年國教課程綱要總綱索引",
+    "url": "https://www.naer.edu.tw/PageSyllabus?fid=52",
+    "kind": "official-framework",
+    "note": "2026-10-05核對；採111學年度實施的修正總綱。"
+  },
+  {
+    "id": "general-pdf",
+    "title": "總綱PDF｜國小課程規劃（印刷頁11–13）",
+    "url": "https://stv.naer.edu.tw/data/course_outline/(111學年度實施)十二年國教課程綱要總綱.pdf",
+    "kind": "official-framework",
+    "note": "總綱國民小學課程規劃表；確認一至六年級部定領域、語別選習及每週節數，非學期單元表。"
+  },
+  {
+    "id": "mandarin-framework",
+    "title": "國家教育研究院｜國語文課程綱要",
+    "url": "https://www.naer.edu.tw/upload/1/9/doc/1267/十二年國民基本教育課程綱要國民中小學暨普通型高級中等學校語文領域-國語文.pdf",
+    "kind": "official-framework",
+    "note": "依第一（一、二年級）、第二（三、四年級）等學習階段列學習表現與內容；非全國統一學期單元表。"
+  },
+  {
+    "id": "math-handbook",
+    "title": "國家教育研究院｜數學領域課程手冊（114年1月更新版）",
+    "url": "https://www.naer.edu.tw/upload/1/9/doc/2021/數學領域課程手冊（114年1月更新版）.pdf",
+    "kind": "official-handbook",
+    "note": "數學年級學習內容的官方說明；本地圖的學期切分另參考公開學校計畫。"
+  },
+  {
+    "id": "life-framework",
+    "title": "教育部｜國民小學生活課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18517_3170275_59692.pdf",
+    "kind": "official-framework",
+    "note": "第一學習階段；七個表現主題軸與六類內容，強調生活情境的主題統整。"
+  },
+  {
+    "id": "health-framework",
+    "title": "教育部｜健康與體育領域課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18522_1560772_59945.pdf",
+    "kind": "official-framework",
+    "note": "伍、學習重點：認知、情意、技能、行為四類表現與九個內容主題。"
+  },
+  {
+    "id": "languages-index",
+    "title": "國家教育研究院｜各領域與語文課綱總覽",
+    "url": "https://stv.naer.edu.tw/teaching/course_outline.jsp",
+    "kind": "official-framework",
+    "note": "可對照語文選項；本頁部分111版語文連結失效，以下改列核對有效的主站PDF。"
+  },
+  {
+    "id": "sign-framework",
+    "title": "教育部｜臺灣手語課程綱要（111學年度實施）",
+    "url": "https://stv.naer.edu.tw/data/course_outline/(111學年度實施)十二年國民基本教育課程綱要語文領域-臺灣手語-發布版.pdf",
+    "kind": "official-framework",
+    "note": "理解、表達、跨文化溝通三類表現；語言功能、生活與文化兩大內容主題。"
+  },
+  {
+    "id": "new-immigrant-framework",
+    "title": "教育部｜新住民語文課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18516_1303652_59628.pdf",
+    "kind": "official-framework",
+    "note": "學習重點按語文程度分四級，不能將年級直接當作語言程度；內容涵蓋語言與文化要素。"
+  },
+  {
+    "id": "new-immigrant-moe",
+    "title": "教育部｜新住民語文教材與生活情境說明",
+    "url": "https://www.moe.gov.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=4A4D5216D2A98D68&sms=169B8E91BB75571F",
+    "kind": "official-explanation",
+    "note": "第一學習階段教材包含家庭與學校稱謂、問候、兒歌及文化。"
+  },
+  {
+    "id": "hushi-114",
+    "title": "臺北市胡適國小｜114學年度一年級課程計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=4109248a-61ae-4b85-bc6d-6abb2c00e1b6&subject=Consolidate",
+    "kind": "public-school-example",
+    "note": "僅作上學期主題實例；含生活、語文、健體、數學，並非全國統一進度。"
+  },
+  {
+    "id": "yangmingshan-114",
+    "title": "臺北市陽明山國小｜114學年度一年級國語文課程計畫",
+    "url": "https://www.ymps.tp.edu.tw/uploads/1756270492601JLzNjt2i.pdf",
+    "kind": "public-school-example",
+    "note": "首冊注音與第一冊國語文的上學期安排例。"
+  },
+  {
+    "id": "sinsheng-health-114",
+    "title": "屏東縣新生國小｜114學年度一年級健康與體育計畫",
+    "url": "https://www.cp.ptc.edu.tw/storage/134608/134608_114_B-09_1A.pdf?1775033204=",
+    "kind": "public-school-example",
+    "note": "上學期包含交通與遊戲安全、衛生、成長情緒、飲食及走跑跳和球類活動。"
+  },
+  {
+    "id": "zhongxiao-life-114",
+    "title": "臺北市忠孝國小｜114學年度一年級上學期生活課程計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=b0f77243-b339-446f-8471-9c8912d02466&subject=LifeCourse",
+    "kind": "public-school-example",
+    "note": "作為風與生活等不同版本主題安排的例子。"
+  },
+  {
+    "id": "school-flexible-example",
+    "title": "新竹縣課程計畫平台｜一年級上學期課程安排實例",
+    "url": "https://doe.hcc.edu.tw/doe_ipage/lesson?class=0&field=0&general_class=&grade=1&ownership=&school=7f8d992a-d9d6-4f5a-9a81-5ea6356631b7&school_id=188&target=general_record&term=1&town=12&year=2023",
+    "kind": "public-school-example",
+    "note": "112學年度案例，展示學校自訂閱讀、在地及英語啟蒙等彈性課程；不是目前全國共通課表。"
+  },
+  {
+    "id": "math-framework",
+    "title": "教育部｜數學領域課程綱要發布頁與附件",
+    "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788&kw=%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81&media=print",
+    "kind": "official-framework",
+    "note": "教育部正式發布之數學領域課綱，附國民中小學及普通型高中PDF。"
+  },
+  {
+    "id": "mingchuan-114",
+    "title": "臺北市銘傳國小｜114學年度一年級上學期課程計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=5d5a2b08-7d9b-4c25-b103-0f58c0772c73&subject=AddConsolidate",
+    "kind": "public-school-example",
+    "note": "作為口腔衛生、身體界線，以及跨文化、國際教育、合作學習等校訂課程的實例。"
+  },
+  {
+    "id": "english-framework",
+    "title": "教育部｜英語文課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18518_3555074_59836.pdf",
+    "kind": "official-framework",
+    "note": "國小以第二、三學習階段為主；九類表現與四類內容；星號項目為較高階學習。"
+  },
+  {
+    "id": "social-framework",
+    "title": "教育部｜社會領域課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18535_6408773_60398.pdf",
+    "kind": "official-framework",
+    "note": "國小學習表現見印刷頁6–8，學習內容見頁14–17；採歷史、地理、公民與社會統整。"
+  },
+  {
+    "id": "science-framework",
+    "title": "教育部｜自然科學領域課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18538_240851_60502.pdf",
+    "kind": "official-framework",
+    "note": "國小學習重點見印刷頁11–20；內容用七個跨科概念組織，不以國高中分科目錄代替。"
+  },
+  {
+    "id": "arts-framework",
+    "title": "教育部｜藝術領域課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+    "kind": "official-framework",
+    "note": "國小音樂、視覺藝術、表演藝術統整於表現、鑑賞、實踐三構面。"
+  },
+  {
+    "id": "integrated-framework",
+    "title": "教育部｜綜合活動領域課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18531_5238547_60214.pdf",
+    "kind": "official-framework",
+    "note": "三主題軸、十二主題項目；國小採領域教學，不另分成國中的家政、童軍、輔導科。"
+  },
+  {
+    "id": "dunhua-114-g1-mandarin",
+    "title": "臺北市敦化國小｜114學年度1年級國語文全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Language",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g1-mathematics",
+    "title": "臺北市敦化國小｜114學年度1年級數學全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Mathematics",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g1-life",
+    "title": "臺北市敦化國小｜114學年度1年級生活課程全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=LifeCourse",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g1-health-pe",
+    "title": "臺北市敦化國小｜114學年度1年級健康與體育全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=1&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=HealthSports",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g2-mandarin",
+    "title": "臺北市敦化國小｜114學年度2年級國語文全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=2&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Language",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g2-mathematics",
+    "title": "臺北市敦化國小｜114學年度2年級數學全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=2&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Mathematics",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g2-life",
+    "title": "臺北市敦化國小｜114學年度2年級生活課程全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=2&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=LifeCourse",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g2-health-pe",
+    "title": "臺北市敦化國小｜114學年度2年級健康與體育全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=2&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=HealthSports",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g3-mandarin",
+    "title": "臺北市敦化國小｜114學年度3年級國語文全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Language",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g3-mathematics",
+    "title": "臺北市敦化國小｜114學年度3年級數學全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Mathematics",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g3-health-pe",
+    "title": "臺北市敦化國小｜114學年度3年級健康與體育全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=HealthSports",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g3-social",
+    "title": "臺北市敦化國小｜114學年度3年級社會全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Society",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g3-science",
+    "title": "臺北市敦化國小｜114學年度3年級自然科學全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Nature",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g3-arts",
+    "title": "臺北市敦化國小｜114學年度3年級藝術全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=Art",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g3-integrated",
+    "title": "臺北市敦化國小｜114學年度3年級綜合活動全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=ComprehensiveActivity",
+    "kind": "public-school-example",
+    "note": "已核閱上下學期教學主題；用於學期安排例與概念整理，不把校本選材或指標抄列視為全國標準。"
+  },
+  {
+    "id": "dunhua-114-g2-language-choice",
+    "title": "臺北市敦化國小｜114學年度2年級閩南語全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=2&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=NativeLanguage",
+    "kind": "public-school-example",
+    "note": "僅提供一種本土語文的生活情境安排例；不據此推定所有語別及臺灣手語的進度。"
+  },
+  {
+    "id": "dunhua-114-g3-language-choice",
+    "title": "臺北市敦化國小｜114學年度3年級閩南語全年計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=3&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&subject=NativeLanguage",
+    "kind": "public-school-example",
+    "note": "僅提供一種本土語文的生活情境安排例；不據此推定所有語別及臺灣手語的進度。"
+  },
+  {
+    "id": "minghu-114-g2s2",
+    "title": "臺北市明湖國小｜114學年度二年級下學期總體進度",
+    "url": "https://www.mhups.tp.edu.tw/uploads/1756196100919twRj0rqh.pdf",
+    "kind": "public-school-example",
+    "note": "多科進度交叉參考；生活含減塑、種子、磁鐵、家庭、色彩與升級準備，與敦化計畫的學期取材並不完全相同。"
+  },
+  {
+    "id": "sincheng-114-index",
+    "title": "南投縣新城國小｜114學年度課程計畫公開頁",
+    "url": "https://scps.ntct.edu.tw/p/405-1118-465816%2Cc16526.php",
+    "kind": "public-school-example",
+    "note": "官方學校公開連結頁，可追溯各年級領域及校訂課程PDF；不是全國進度。"
+  },
+  {
+    "id": "sincheng-114-g3-english",
+    "title": "南投縣新城國小｜114學年度三年級英語文全年計畫",
+    "url": "https://drive.google.com/file/d/1O0lkwkhO05w0Hipi_k2h4TsJOyn3Swbw/view?usp=drive_link",
+    "kind": "public-school-example",
+    "note": "學校公開頁列於三年級英文領域；PDF表頭有彈性學習字樣，只取其Wonder World 1–2題材作安排例，不用來判定全國課程類別。"
+  },
+  {
+    "id": "sincheng-114-g3-science",
+    "title": "南投縣新城國小｜114學年度三年級自然科學全年計畫",
+    "url": "https://drive.google.com/file/d/1HEAZMvtKtjRNeF-RnRRzDD3mQRdGTOc5/view?usp=drive_link",
+    "kind": "public-school-example",
+    "note": "南一版安排例：動物放三上、廚房物質放三下，與敦化康軒例的學期安排不同，證明版本差異。"
+  },
+  {
+    "id": "sincheng-114-g3-arts",
+    "title": "南投縣新城國小｜114學年度三年級藝術全年計畫",
+    "url": "https://drive.google.com/file/d/1loj5MHp5CmjraJSmRTxbrrf2bxRvxrmT/view?usp=drive_link",
+    "kind": "public-school-example",
+    "note": "康軒合科安排例，含音樂、視覺藝術及表演藝術；與敦化自編美勞及音樂安排交叉參考。"
+  },
+  {
+    "id": "sanhe-114-g3-english",
+    "title": "嘉義縣三和國小｜114學年度三年級英語全年計畫",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15950832488573350.pdf",
+    "kind": "public-school-example",
+    "note": "何嘉仁版一、二冊安排例，三上從字母與日常互動起步；與康軒入門主題交叉參考。"
+  },
+  {
+    "id": "dunhua-114-flexible",
+    "title": "臺北市敦化國小｜114學年度課程計畫與校訂課程目錄",
+    "url": "https://tten.tp.edu.tw/Login/SchoolDownloadFile?SCHName=%E8%87%BA%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E6%95%A6%E5%8C%96%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8&SPID=2910c966-cede-4506-bfae-dd74ab0eb8e4",
+    "kind": "public-school-example",
+    "note": "低年級有愛閱國際、跨文化溝通，中年級有智慧科技生活等校訂例；具體主題與上下學期分配由學校決定。"
+  },
+  {
+    "id": "dunhua-114-g3-digital",
+    "title": "臺北市敦化國小｜114學年度三年級智慧科技生活",
+    "url": "https://tten.tp.edu.tw/Login/DownCali?CID=63903&spid=2910c966-cede-4506-bfae-dd74ab0eb8e4&type=Additem",
+    "kind": "public-school-example",
+    "note": "三年級資訊操作、數位工具與資訊倫理的校訂例；資訊不是國小另立的全國部定科技領域。"
+  },
+  {
+    "id": "upper-general-pdf",
+    "title": "教育部｜總綱（111學年度實施）",
+    "url": "https://www.naer.edu.tw/upload/1/16/doc/288/(111學年度實施)十二年國教課程綱要總綱.pdf",
+    "kind": "official-framework",
+    "note": "印刷頁3–8核心素養及學習階段；頁10–13國小領域、節數、語別選習與彈性課程。"
+  },
+  {
+    "id": "upper-puzih4-mandarin",
+    "title": "朴子國小｜114四年級國語上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938053313074566.pdf",
+    "kind": "public-school-example",
+    "note": "康軒七、八冊；上學期敘事與人物，下學期讀書報告、說明文及名著改寫。"
+  },
+  {
+    "id": "upper-puzih4-social",
+    "title": "朴子國小｜114四年級社會上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938053313087477.pdf",
+    "kind": "public-school-example",
+    "note": "翰林；上學期家鄉地圖、環境與文化，下學期資源、產業及發展。"
+  },
+  {
+    "id": "upper-puzih4-science",
+    "title": "朴子國小｜114四年級自然上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938053313042076.pdf",
+    "kind": "public-school-example",
+    "note": "南一；上學期日月、水生生物、光與電路，下學期力、昆蟲、水及地表。"
+  },
+  {
+    "id": "upper-puzih4-arts",
+    "title": "朴子國小｜114四年級藝術上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938053313036113.pdf",
+    "kind": "public-school-example",
+    "note": "翰林；視覺、音樂、表演合科。學期安排僅為實例。"
+  },
+  {
+    "id": "upper-puzih4-integrated",
+    "title": "朴子國小｜114四年級綜合上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938053313023604.pdf",
+    "kind": "public-school-example",
+    "note": "翰林；上學期合作、情緒、興趣與文化，下學期資源、工作、溝通及美感。"
+  },
+  {
+    "id": "upper-puzih5-social",
+    "title": "朴子國小｜114五年級社會上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938053495027263.pdf",
+    "kind": "public-school-example",
+    "note": "康軒；上學期地理、史前、原住民族與大航海，下學期清領、日治及文化資產。"
+  },
+  {
+    "id": "upper-puzih5-arts",
+    "title": "朴子國小｜114五年級上學期藝術",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938053495046295.pdf",
+    "kind": "public-school-example",
+    "note": "僅採五上部分；後半的年級與版本標頭不一致，未採作五下依據。"
+  },
+  {
+    "id": "upper-puzih6-mandarin",
+    "title": "朴子國小｜114六年級國語上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939677444670429.pdf",
+    "kind": "public-school-example",
+    "note": "南一；觀點、詩文、說明議論、演講與畢業祝福；下學期列90節。"
+  },
+  {
+    "id": "upper-puzih6-math1",
+    "title": "朴子國小｜114六年級上學期數學",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939716292592453.pdf",
+    "kind": "public-school-example",
+    "note": "南一；質因數、分數除法、比、圓、速率及規律等。"
+  },
+  {
+    "id": "upper-puzih6-math2",
+    "title": "朴子國小｜114六年級下學期數學",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939716347179229.pdf",
+    "kind": "public-school-example",
+    "note": "南一；四則、柱體、基準量、縮放、統計與可能性。"
+  },
+  {
+    "id": "upper-puzih6-social",
+    "title": "朴子國小｜114六年級社會上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939678518467753.pdf",
+    "kind": "public-school-example",
+    "note": "翰林；上學期社會文化與變遷，下學期全球經濟、國際衝突合作及永續。"
+  },
+  {
+    "id": "upper-puzih6-science",
+    "title": "朴子國小｜114六年級自然上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939832299319065.pdf",
+    "kind": "public-school-example",
+    "note": "康軒；上學期天氣、物質、動物與電磁，下學期機械、能量與生態；六下54節。"
+  },
+  {
+    "id": "upper-puzih6-arts",
+    "title": "朴子國小｜114六年級藝術上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939678882453013.pdf",
+    "kind": "public-school-example",
+    "note": "翰林；公共藝術與展演、六下畢業紀念創作與表演。"
+  },
+  {
+    "id": "upper-puzih6-integrated",
+    "title": "朴子國小｜114六年級綜合上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939831835224579.pdf",
+    "kind": "public-school-example",
+    "note": "翰林；六上環保、美感、人際與文化；六下職業、資源判讀及服務反思。"
+  },
+  {
+    "id": "upper-puzih6-english",
+    "title": "朴子國小｜114六年級英語上下學期",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939678991668557.pdf",
+    "kind": "public-school-example",
+    "note": "Here We Go 7、8；國家、交通、休閒作息至過去經驗敘述；六下36節。"
+  },
+  {
+    "id": "upper-liujiao5-english",
+    "title": "六腳國小｜114五年級英語計畫",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15938882596019240.pdf",
+    "kind": "public-school-example",
+    "note": "採五下Here We Go 6部分，支持身體與健康、餐飲、物品所有權及子音組合主題。"
+  },
+  {
+    "id": "upper-liming4-english",
+    "title": "黎明國小｜114四年級下學期英語",
+    "url": "https://course.cyc.edu.tw/upfile/course114/sub1/15939664923070228.pdf",
+    "kind": "public-school-example",
+    "note": "Wonder World 4；房間、動作、食物、動物及聽說讀寫活動。"
+  },
+  {
+    "id": "upper-longan4-math",
+    "title": "龍安國小｜114四年級數學上下學期",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=4&spid=b05f3d63-8df6-41ee-ba1c-3e283b054e5d&subject=Mathematics",
+    "kind": "public-school-example",
+    "note": "四上億以內、乘除、角、分數、公里、三角形與統計圖；四下接續計算、四邊形、面積與體積。"
+  },
+  {
+    "id": "upper-zhongxiao4-math",
+    "title": "忠孝國小｜114四年級數學上下學期",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=4&spid=b0f77243-b339-446f-8471-9c8912d02466&subject=Mathematics",
+    "kind": "public-school-example",
+    "note": "四下多位數乘除、概數、規律、小數乘法、面積、等值分數、時間與立方公分。"
+  },
+  {
+    "id": "upper-zhongshan5-math",
+    "title": "中山國小｜114五年級數學課程計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=5&spid=5c372c83-c632-4389-bb31-aa8f756ad848&subject=AddMathematics",
+    "kind": "public-school-example",
+    "note": "五上多位小數、因倍數、通分、異分母加減、面積、柱錐與對稱。"
+  },
+  {
+    "id": "upper-zhiqing5-math",
+    "title": "志清國小｜114五年級數學課程計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=5&spid=58c13ac8-8ae3-4a9b-adc2-d42c4a866ae3&subject=Mathematics",
+    "kind": "public-school-example",
+    "note": "五下體積容積、分數乘法、小數乘除、大數、表面積、百分率、時間及大單位。"
+  },
+  {
+    "id": "upper-minghu5-science",
+    "title": "明湖國小｜114五年級自然上下學期",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=5&spid=a7a25e1a-795b-4118-b64f-58fafedcef60&subject=Nature",
+    "kind": "public-school-example",
+    "note": "五上太陽、植物、水溶液及力；五下星空、燃燒、生鏽、食物保存與動物。"
+  },
+  {
+    "id": "upper-dongmen5-integrated",
+    "title": "東門國小｜114五年級綜合上下學期",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=5&spid=63b9f2d7-2004-4292-b01b-186b4be4f46f&subject=ComprehensiveActivity",
+    "kind": "public-school-example",
+    "note": "五上危機、自我與人際；五下學習管理、資源媒體、環境與綠色消費。"
+  },
+  {
+    "id": "upper-longan4-health",
+    "title": "龍安國小｜114四年級健康上下學期",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=4&spid=b05f3d63-8df6-41ee-ba1c-3e283b054e5d&subject=HealthSports",
+    "kind": "public-school-example",
+    "note": "健康部分：飲食、情緒家庭、拒菸酒；四下口腔、消費、青春期與防災。體育另依領綱整理。"
+  },
+  {
+    "id": "upper-zhongshan5-health",
+    "title": "中山國小｜114五年級健康與體育",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=5&spid=5c372c83-c632-4389-bb31-aa8f756ad848&subject=AddHealthSports",
+    "kind": "public-school-example",
+    "note": "五下3C使用、家庭、拒成癮物質、跳繩、飛盤、武術、球類及水域活動。"
+  },
+  {
+    "id": "upper-tianmu6-health",
+    "title": "天母國小｜114六年級健康與體育",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=6&spid=00d51007-a5e6-44e3-9752-5f1f368bd14a&subject=AddHealthSports",
+    "kind": "public-school-example",
+    "note": "六上網路、健康消費、性別與身體自主，以及球類、游泳、扯鈴、舞蹈等。"
+  },
+  {
+    "id": "upper-shipai6-health",
+    "title": "石牌國小｜114六年級健康計畫",
+    "url": "https://web.spps.tp.edu.tw/uploads/17561995561985LrY18rJ.pdf",
+    "kind": "public-school-example",
+    "note": "六下自我接納、成癮物質預防、傳染病、健康管理與畢業情緒；非個別醫療建議。"
+  },
+  {
+    "id": "upper-tannan5-arts",
+    "title": "潭南國小｜114五年級藝術上下學期",
+    "url": "https://tnps.ntct.edu.tw/var/file/144/1144/img/5332/591226238.pdf",
+    "kind": "public-school-example",
+    "note": "五下童玩、雕塑、建築、慶典表演，以及歌唱、直笛、節奏與音樂欣賞。"
+  },
+  {
+    "id": "upper-yongjian-english",
+    "title": "永建國小｜114英語各年級上學期計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=99&spid=44d60d64-3979-4671-b1f4-0a17453ad0fe&subject=English",
+    "kind": "public-school-example",
+    "note": "四五年級生活情境、拼讀與溝通安排；版本進度僅為實例。"
+  },
+  {
+    "id": "upper-fudong-english",
+    "title": "福東國小｜114英語分冊主題索引",
+    "url": "https://www.ftps.kh.edu.tw/upload/19/101_11569/114學年度英語單字王題庫.pdf",
+    "kind": "public-school-example",
+    "note": "僅核對年級冊別與情境主題，不取用題目或單字表全文。"
+  },
+  {
+    "id": "upper-puzih-index",
+    "title": "朴子國小｜114各年級與校訂課程總覽",
+    "url": "https://course.cyc.edu.tw/course/pub/cou_dsp.php?q_year=114&sch_id=104601",
+    "kind": "public-school-example",
+    "note": "四年級家鄉、五年級臺灣走讀、六年級國際參與等校訂案例；非全國必修主題。"
+  },
+  {
+    "id": "upper-shuangxi-index",
+    "title": "雙溪國小｜114校訂課程總覽",
+    "url": "https://course.cyc.edu.tw/course/pub/cou_dsp.php?q_year=114&sch_id=104603",
+    "kind": "public-school-example",
+    "note": "城市、永續能源、水資源、海洋、程式、故事書及STEAM等校訂案例；依學校選設。"
+  },
+  {
+    "id": "upper-dunhe5-mandarin",
+    "title": "敦和國小｜114五年級國語上下學期",
+    "url": "https://dhps.ntct.edu.tw/var/file/61/1061/img/5487/2-5-5-1.pdf",
+    "kind": "public-school-example",
+    "note": "五上文本主旨、複句、詩歌小說與素材組織；五下說明、議論與應用文章。"
+  },
+  {
+    "id": "upper-pinghe5-mandarin",
+    "title": "平和國小｜114五年級國語上下學期",
+    "url": "https://phes.ntct.edu.tw/var/file/34/1034/img/5504/694724734.pdf",
+    "kind": "public-school-example",
+    "note": "五下包含順倒敘、說明結構、訪問稿、議論與修辭；不同版本安排可前後調整。"
+  },
+  {
+    "id": "upper-lanya5-health",
+    "title": "蘭雅國小｜114五年級上學期各領域計畫",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=5&spid=dd124823-9517-4b4a-82d2-18b046dbf256&subject=Consolidate",
+    "kind": "public-school-example",
+    "note": "健體部分：人際、飲食、安全、體能、手球籃球、樂樂棒球及桌球；僅取主題範圍。"
+  },
+  {
+    "id": "upper-sinsheng5-health",
+    "title": "新生國小｜114五年級健康與體育",
+    "url": "https://www.cp.ptc.edu.tw/storage/134615/134615_114_B-09_5A.pdf?1774510973=",
+    "kind": "public-school-example",
+    "note": "五上新班級友誼與煩惱等健康情境，與不同學校計畫交叉核對。"
+  },
+  {
+    "id": "upper-qingjiang6-social",
+    "title": "清江國小｜114六年級各領域計畫（社會與體育參照）",
+    "url": "https://tten.tp.edu.tw/Login/Downment?grade=6&spid=7b153656-c095-40c6-a68e-ae419b06ddde&subject=Consolidate",
+    "kind": "public-school-example",
+    "note": "康軒六上社會的民主、權利義務與戰後發展；六下體育的球類策略與水域安全。各校學期安排不一。"
+  },
+  {
+    "id": "upper-math-handbook",
+    "title": "國家教育研究院｜數學領域課程手冊（112年5月更新版）",
+    "url": "https://www.naer.edu.tw/upload/1/16/doc/2021/數學領域課程手冊（112年5月更新版）.pdf",
+    "kind": "official-handbook",
+    "note": "輔助核對四至六年級概念範圍、先備與後續；課綱及學校當年度計畫仍是主要依據。"
+  },
+  {
+    "id": "framework-mandarin-framework",
+    "title": "教育部｜國語文課程綱要",
+    "url": "https://stv.naer.edu.tw/data/course_outline/pta_18510_4703638_59125.pdf",
+    "kind": "official-framework",
+    "note": "伍、學習重點：六類學習表現，文字篇章、文本表述及文化內涵。"
+  },
+  {
+    "id": "framework-math-framework",
+    "title": "教育部｜數學領域課綱發布頁與正式附件",
+    "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+    "kind": "official-framework",
+    "note": "107年7月26日發布；已讀取首份國民中小學暨普通型高中PDF附件，核對國小學習表現及年級內容。"
+  },
+  {
+    "id": "minnan-framework",
+    "title": "教育部｜閩南語文課程綱要（111學年度實施）",
+    "url": "https://www.naer.edu.tw/upload/1/16/doc/1278/十二年國民基本教育課程綱要語文領域-本土語文(閩南語文)-發布版.pdf",
+    "kind": "official-framework",
+    "note": "110年11月發布版；四類表現，語言與文學、社會與生活兩大內容主題。"
+  },
+  {
+    "id": "hakka-framework",
+    "title": "教育部｜客語文課程綱要（111學年度實施）",
+    "url": "https://www.naer.edu.tw/upload/1/16/doc/1280/十二年國民基本教育課程綱要語文領域-本土語文(客語文)-發布版.pdf",
+    "kind": "official-framework",
+    "note": "110年11月發布版；四類表現，語言／文學、社會／生活、藝術／文化三大內容主題。"
+  },
+  {
+    "id": "indigenous-framework",
+    "title": "教育部｜原住民族語文課程綱要（111學年度實施）",
+    "url": "https://www.naer.edu.tw/upload/1/16/doc/1282/十二年國民基本教育課程綱要語文領域-本土語文(原住民族語文)-發布版.pdf",
+    "kind": "official-framework",
+    "note": "110年11月發布版；五類表現與語文、文化兩大內容主題，須按族別、語別及程度安排。"
+  },
+  {
+    "id": "mindong-framework",
+    "title": "教育部｜閩東語文課程綱要（111學年度實施）",
+    "url": "https://stv.naer.edu.tw/data/course_outline/(111學年度實施)十二年國民基本教育課程綱要語文領域-本土語文(閩東語文)-發布版.pdf",
+    "kind": "official-framework",
+    "note": "四類表現與語文、生活、文化三大內容主題。"
+  },
+  {
+    "id": "issues-handbook",
+    "title": "國家教育研究院｜議題融入說明手冊",
+    "url": "https://stv.naer.edu.tw/data/course_manual/A/議題融入說明手冊(定稿版).pdf",
+    "kind": "official-handbook",
+    "note": "說明十九項議題的課程融入方式與學習內涵；國小不因此增加十九門獨立部定科目。"
+  }
+]
