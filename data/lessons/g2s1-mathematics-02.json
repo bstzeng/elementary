@@ -1,0 +1,203 @@
+{
+  "id": "g2s1-mathematics-02",
+  "course": "數學",
+  "title": "二位數加法直式與進位",
+  "subtitle": "把位值操作寫成直式，看見進位的理由。",
+  "duration": "建議2–3節，每節35–40分鐘；依操作與討論需要分段。",
+  "materials": [
+    "十板、十格板與大紙片",
+    "十位個位記錄紙",
+    "虛構圖卡數量卡與粗筆"
+  ],
+  "goals": [
+    "能按位值對齊加法直式",
+    "能操作個位滿十的進位並說明小1",
+    "能計算兩位數加法並以另一方法檢查"
+  ],
+  "intro": "兩批圖卡合起來，若個位超過9該記在哪裡？用換十的動作讀懂直式。",
+  "sections": [
+    {
+      "title": "合併前，先把同單位放一起",
+      "childText": "個和個相加，十和十相加。",
+      "html": "<p>桌上有24張圖卡，又收到13張，一共多少？24是2個十4個一，13是1個十3個一。把單個合起來有7個一，十板合起來有3個十，得到37。寫成24＋13＝37。</p><p>直式是把相同位值排成同一欄的記錄。24寫在上方，13寫在下方，4與3對齊，2與1對齊。加號放在左邊，橫線下面寫合計。不是把左邊外緣對齊，而是讓個位對個位。</p>",
+      "id": "g2s1-mathematics-02-s01"
+    },
+    {
+      "title": "十位與個位的直式長這樣",
+      "childText": "每一列都有它的意思。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 199\" role=\"img\" aria-labelledby=\"g2s1-mathematics-02-vertical\"><title id=\"g2s1-mathematics-02-vertical\">記錄、十位、個位；第一批、2、4；＋第二批、1、3；＝合計、3、7。各框表示位值或數量記錄，並非按量縮放。</title><text x=\"80.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">記錄</text><text x=\"180.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">十位</text><text x=\"280.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">個位</text><rect x=\"30.0\" y=\"40\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"80.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">第一批</text><rect x=\"130.0\" y=\"40\" width=\"100.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">2</text><rect x=\"230.0\" y=\"40\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">4</text><rect x=\"30.0\" y=\"88\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"80.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">＋第二批</text><rect x=\"130.0\" y=\"88\" width=\"100.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">1</text><rect x=\"230.0\" y=\"88\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">3</text><rect x=\"30.0\" y=\"136\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"80.0\" y=\"167\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">＝合計</text><rect x=\"130.0\" y=\"136\" width=\"100.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"167\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">3</text><rect x=\"230.0\" y=\"136\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280.0\" y=\"167\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">7</text></svg><figcaption>記錄、十位、個位；第一批、2、4；＋第二批、1、3；＝合計、3、7。各框表示位值或數量記錄，並非按量縮放。</figcaption></figure><p>上方位值表把24＋13放在位值表裡，從個位的4＋3＝7，再到十位的2＋1＝3。答案寫37，不是把3和7另加成10。37中的3仍代表3個十。</p><p>把24＋5也排一次：5只有5個一，要放在個位4的下方，十位留空或記0作理解。4＋5＝9，2個十不變，得到29。若把5放在十位，算到的是24＋50，題目就被改了。</p>",
+      "id": "g2s1-mathematics-02-s02"
+    },
+    {
+      "title": "遇到14個一，怎麼記？",
+      "childText": "滿10個一交換1個十。",
+      "html": "<p>計算28＋16。先用教具排2十8一和1十6一。個位共有14個一，取其中10個一換成1個十，個位留下4。這新的一個十要送到十位一起算；原來2十、1十，再加換來的1十，共4十。</p><p>所以28＋16＝44。14裡的1是1個十，4是4個一。不能把14全擠在個位欄，變成314；也不能只寫個位4，卻忘記把換來的一個十加入，寫成34。交換沒有丟掉任何一片。</p>",
+      "id": "g2s1-mathematics-02-s03"
+    },
+    {
+      "title": "進位記號是提醒，不是新的紙片",
+      "childText": "小1代表從個位換來的1個十。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 151\" role=\"img\" aria-labelledby=\"g2s1-mathematics-02-carry\"><title id=\"g2s1-mathematics-02-carry\">28＋16、十位、個位；原來合併、3個十、14個一；整理之後、4個十、4個一。各框表示位值或數量記錄，並非按量縮放。</title><text x=\"80.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">28＋16</text><text x=\"180.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">十位</text><text x=\"280.0\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">個位</text><rect x=\"30.0\" y=\"40\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"80.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">原來合併</text><rect x=\"130.0\" y=\"40\" width=\"100.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">3個十</text><rect x=\"230.0\" y=\"40\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280.0\" y=\"71\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">14個一</text><rect x=\"30.0\" y=\"88\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"80.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">整理之後</text><rect x=\"130.0\" y=\"88\" width=\"100.0\" height=\"48\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">4個十</text><rect x=\"230.0\" y=\"88\" width=\"100.0\" height=\"48\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280.0\" y=\"119\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">4個一</text></svg><figcaption>28＋16、十位、個位；原來合併、3個十、14個一；整理之後、4個十、4個一。各框表示位值或數量記錄，並非按量縮放。</figcaption></figure><p>直式計算時，可以先在個位答案寫4，把小1記在十位上方，提醒十位還有1個十。接著算2＋1＋1＝4，在十位答案寫4。每個記號都要能對回教具。</p><p>再算37＋25：7＋5＝12，個位留2，十位多1；3＋2＋1＝6，所以62。若暫時忘記小1代表什麼，先回到12片換1十2一，不要只背「寫2進1」。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 230\" role=\"img\" aria-labelledby=\"g2s1-mathematics-02-worked-add\"><title id=\"g2s1-mathematics-02-worked-add\">28加16的直式：十位在左、個位在右。上列28，下列加16，橫線下44。十位上方的小1代表8加6滿十換來的1個十。</title><text x=\"185\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">十位</text><text x=\"265\" y=\"27\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">個位</text><text x=\"85\" y=\"60\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">進位</text><text x=\"185\" y=\"60\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">1</text><text x=\"185\" y=\"103\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">2</text><text x=\"265\" y=\"103\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">8</text><text x=\"110\" y=\"149\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">＋</text><text x=\"185\" y=\"149\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">1</text><text x=\"265\" y=\"149\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">6</text><line x1=\"140\" y1=\"164\" x2=\"305\" y2=\"164\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"185\" y=\"208\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">4</text><text x=\"265\" y=\"208\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">4</text></svg><figcaption>28加16的直式：十位在左、個位在右。上列28，下列加16，橫線下44。十位上方的小1代表8加6滿十換來的1個十。</figcaption></figure><p>讀這個直式：個位8＋6＝14，橫線下個位寫4，把換來的1個十記在十位上方；十位2＋1＋1＝4，橫線下十位寫4，合起來44。</p>",
+      "id": "g2s1-mathematics-02-s04"
+    },
+    {
+      "title": "先想結果大約在哪裡",
+      "childText": "答案應把兩批都算進去。",
+      "html": "<p>46＋23可以先想40＋20是60，剩6＋3是9，合起來69。58＋24的個位8＋4超過10，知道一定要整理，完成後是82。直式與拆位值的做法是在記同一個合併過程。</p><p>本課用不同方法重新合併來檢查加法：看教具、拆成十和一，或交換兩批合併順序。不要只把自己原來的每個數字再讀一次當作檢查。每個加數都是整批數量，不能漏掉第二批的十板。</p>",
+      "id": "g2s1-mathematics-02-s05"
+    },
+    {
+      "title": "實作：圖卡補給站",
+      "childText": "記錄、移動、口說一起做。",
+      "html": "<p>成人給兩張虛構庫存卡35與27，孩子排教具。先預想個位是否滿十，再合併12個一，換成1十2一；十位3＋2＋1共6十，記35＋27＝62。夥伴負責查看是否把換走的10片收回。</p><p>交換角色，改做42＋6和31＋18。每次先標十位與個位再列直式，算完完整說「一共幾張」。不使用真正收藏品或小硬幣；大紙片、口頭指示與成人代寫都能完成同樣任務。</p>",
+      "id": "g2s1-mathematics-02-s06"
+    },
+    {
+      "title": "改錯與獨立挑戰",
+      "childText": "說清多出的一個十來自哪裡。",
+      "html": "<p>小熊算47＋18，寫個位5、十位5，得到55。7＋8＝15，他只留下5卻漏了換來的1個十，十位應是4＋1＋1＝6，答案65。請用一張十板把漏掉的量補回。</p><p>出口做26＋32與49＋17。第一題個位8，不用換十，答案58；第二題9＋7＝16，須換十，答案66。選一題口說每一步，並用教具或位值拆開重算。知道哪裡不需進位，也和會進位一樣重要。</p>",
+      "id": "g2s1-mathematics-02-s07"
+    }
+  ],
+  "teachingHtml": "<h3>先備與範圍</h3><p>依N-2-2把兩位數加法連到位值，先無進位再一次進位，結果以兩位數為主。先檢查基本加法如8＋6、十與個的表示，以及十個一換十。若基本算事實不熟，允許點教具，避免同時要求快速心算和新記錄。直式從有位值標頭的表格開始，逐步撤掉標頭，而不是直接教授位置口訣。</p><h3>第一節：直式是操作記錄</h3><p>先用24＋13合併，成人在每次移動後寫對應數字，讓孩子指數字所代表的群。特別比較24＋5的正確對齊與把5誤放十位的錯例。每一欄使用同單位，左邊的加號與下方橫線另行介紹。孩子可先畫板、口說再由成人代寫，將理解與書寫速度分開。</p><h3>第二節：交換與記號</h3><p>以28＋16展示14個一交換後的4個一與1個十。先保留原教具，再做真正交換並收回10片，最後連到十位上方的小1。要求說小1是1個十，不是另外多加一片。練習37＋25後，以一題不進位和一題進位混合，避免見到直式就一律加1。</p><h3>錯誤診斷與檢查</h3><p>314型錯誤表示尚未把14個一整理到兩欄；34型是漏記換出的十；24＋5答74是位值對齊問題。每種都用不同教具情境修復，不只要求重做十題。加法檢查用重新合併、位值拆解或交換合併順序，本階段不安排用減法驗算加法，配合R-2-4的年級界線。</p><h3>差異化與評量</h3><p>支持組先做23＋14再28＋12，提供滿十空間與大字欄位，一次只追蹤個位交換；熟練組解釋錯答少了多少與比較不同算法，不升級到多次進位。以42＋6、26＋32、49＋17收集對齊、個位計算、交換、十位合計四類證據，另請口頭編一則加法故事。允許指板、口述、成人代記與分段休息，不以答題速度排序。安全大卡平放桌面，沒有真實交易或個人資料需求。</p>",
+  "exercises": [
+    {
+      "question": "24＋13的直式中，13的3應對齊哪個數字？",
+      "options": [
+        "24的4",
+        "加號",
+        "24的2"
+      ],
+      "answer": 0,
+      "hint": "同一欄要是同一位值。",
+      "explanation": "3與4都表示個位的單個數，直式必須上下對齊，才是在合併同一單位。",
+      "id": "g2s1-mathematics-02-q01"
+    },
+    {
+      "question": "24＋5等於多少？",
+      "options": [
+        "74",
+        "29",
+        "245"
+      ],
+      "answer": 1,
+      "hint": "5是5個一。",
+      "explanation": "個位4＋5＝9，十位2不變，所以29。",
+      "id": "g2s1-mathematics-02-q02"
+    },
+    {
+      "question": "28＋16的個位先合出多少個一？",
+      "options": [
+        "4個一",
+        "14個一",
+        "3個一"
+      ],
+      "answer": 1,
+      "hint": "先合併8和6。",
+      "explanation": "8＋6＝14，之後才把10個一換成1個十。",
+      "id": "g2s1-mathematics-02-q03"
+    },
+    {
+      "question": "14個一整理後是？",
+      "options": [
+        "14個十",
+        "1個十和14個一",
+        "1個十和4個一"
+      ],
+      "answer": 2,
+      "hint": "總量應維持14。",
+      "explanation": "10個一換1個十，剩4個一；不能保留全部14單片再加十。",
+      "id": "g2s1-mathematics-02-q04"
+    },
+    {
+      "question": "28＋16等於？",
+      "options": [
+        "34",
+        "314",
+        "44"
+      ],
+      "answer": 2,
+      "hint": "十位別忘換來的1個十。",
+      "explanation": "個位留4，十位2＋1＋1＝4，所以44。",
+      "id": "g2s1-mathematics-02-q05"
+    },
+    {
+      "question": "37＋25的十位應算？",
+      "options": [
+        "3＋2＋1",
+        "7＋5",
+        "3＋2"
+      ],
+      "answer": 0,
+      "hint": "個位7＋5需要進位。",
+      "explanation": "12個一換出1個十，要加入原來3個十與2個十。",
+      "id": "g2s1-mathematics-02-q06"
+    },
+    {
+      "question": "下列哪題不用進位？",
+      "options": [
+        "49＋17",
+        "26＋32",
+        "28＋16"
+      ],
+      "answer": 1,
+      "hint": "看看兩個個位相加是否滿10。",
+      "explanation": "6＋2＝8，不滿10，因此26＋32不用進位。",
+      "id": "g2s1-mathematics-02-q07"
+    },
+    {
+      "question": "35＋27等於？",
+      "options": [
+        "52",
+        "512",
+        "62"
+      ],
+      "answer": 2,
+      "hint": "5＋7得到12。",
+      "explanation": "12個一整理成1十2一，十位3＋2＋1＝6，得62。",
+      "id": "g2s1-mathematics-02-q08"
+    },
+    {
+      "question": "小熊把47＋18算成55，主要漏了？",
+      "options": [
+        "原來的47全部",
+        "個位的5個一",
+        "由個位換來的1個十"
+      ],
+      "answer": 2,
+      "hint": "7＋8＝15，不只有個位5。",
+      "explanation": "漏掉進到十位的1，答案少10，正確是65。",
+      "id": "g2s1-mathematics-02-q09"
+    },
+    {
+      "question": "哪種做法能檢查46＋23？",
+      "options": [
+        "分別合併十與一，再核對69",
+        "只看答案字寫得漂亮",
+        "把兩個加數後面的數字刪掉"
+      ],
+      "answer": 0,
+      "hint": "讓另一種表示對上原來的量。",
+      "explanation": "40＋20得到60，6＋3得到9，合起來69，與直式一致。",
+      "id": "g2s1-mathematics-02-q10"
+    }
+  ],
+  "selfCheck": [
+    "我會個位對個位。",
+    "我知道進位的1是1個十。",
+    "我能判斷是否需要進位。",
+    "我會用另一種合併方法檢查。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "二年級全年內容的官方依據；本課學期位置、建議節數、情境與題目是跨版本原創編排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：二年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁20–23：N-2-2：位值理解直式，先在位值表記錄；本課兩位數加法。加法檢查不使用減法驗算。"
+    }
+  ]
+}

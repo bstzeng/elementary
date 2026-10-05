@@ -142,6 +142,9 @@
 .lesson-table-scroll table.hundred-chart { min-width: 540px; table-layout: fixed; }
 .lesson-table-scroll .hundred-chart th,
 .lesson-table-scroll .hundred-chart td { min-width: 44px; height: 44px; padding: 4px; font-size: 18px; text-align: center; white-space: nowrap; }
+/* Product tables need a readable row-label column in addition to ten products. */
+.lesson-table-scroll table.multiplication-chart { min-width: 680px; }
+.lesson-table-scroll .multiplication-chart th:first-child { width: 110px; white-space: normal; }
 @media print {
   .lesson-table-scroll { overflow: visible; }
   .lesson-table-scroll table.hundred-chart { min-width: 0; }
