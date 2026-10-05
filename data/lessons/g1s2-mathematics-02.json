@@ -1,0 +1,204 @@
+{
+  "id": "g1s2-mathematics-02",
+  "course": "數學",
+  "title": "100以內的數與位值",
+  "subtitle": "十個一換成一個十，0也有自己的位置。",
+  "duration": "建議2–3節，每節35–40分鐘；可分成較短的操作活動。",
+  "materials": [
+    "10張十格板與100張安全大紙片",
+    "標有十位、個位的大字卡",
+    "0–100數字卡及粗筆"
+  ],
+  "goals": [
+    "能讀寫並排出100以內的數量",
+    "能說明十位、個位上的數字代表多少",
+    "能用10個一交換1個十並保持總量",
+    "能理解整十數個位0的意義與99再1成100"
+  ],
+  "intro": "數字卡上的47與74都用4和7，可是代表不同的數量。這一課要把數字放回實物，讀懂十位與個位，一路數到100。",
+  "sections": [
+    {
+      "id": "g1s2-mathematics-02-s01",
+      "title": "數字有位置，表示的量不一樣",
+      "childText": "左邊數十，右邊數單個。",
+      "html": "<p>把4張滿十格板放在「十位」卡下面，7片放在「個位」下面。十位寫4，個位寫7，組成47，讀「四十七」。4不是4片，而是4組十片；7是7片。</p><p>先指滿板說10、20、30、40，再指散片說41到47。你可以用逐一點數檢查，但熟悉十個一組後，不必每次拆開四張板從1重數。寫數字以前，先確定兩個位置分別表示什麼。</p><div class=\"example\"><p>63的6在十位，表示6個十；3在個位，表示3個一。把「六十三」和「6張滿板加3片」連在一起。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-02-s02",
+      "title": "47和74：同數字，不同位置",
+      "childText": "換了位置，數量也變了。",
+      "html": "<figure><svg viewBox=\"0 0 360 200\" role=\"img\" aria-labelledby=\"g1s2-mathematics-02-place\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-02-place\">位值示意：47是4個十與7個一；74是7個十與4個一。框內文字表示組數，並非單片圖。</title><rect x=\"20\" y=\"40\" width=\"155\" height=\"60\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"175\" y=\"40\" width=\"165\" height=\"60\" fill=\"#fff7df\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"98\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">十位</text><text x=\"257\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">個位</text><text x=\"98\" y=\"78\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">4個十</text><text x=\"257\" y=\"78\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">7個一</text><text x=\"180\" y=\"132\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">合起來是47</text><text x=\"180\" y=\"175\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">74：7個十和4個一</text></svg><figcaption>位值示意：47是4個十與7個一；74是7個十與4個一。框內文字表示組數，並非單片圖。</figcaption></figure><p>把47讀成七十四，就把十和個的位置交換了。先拿出4張滿板與7片，再與7張滿板與4片並排看。74有7個十，47只有4個十，兩堆明顯不是一樣多。</p><p>用手指從十位移到個位，說「幾個十、幾個一」，比照數字卡。成人可以代寫；孩子要能指出哪一個數字對應哪一群物品。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-02-s03",
+      "title": "0不是什麼都沒有",
+      "childText": "60沒有單片，仍然有六個十。",
+      "html": "<p>6張滿板剛好60片，板外沒有單片。十位寫6，個位寫0，表示「6個十、0個一」。0守住個位，不能隨手省掉；如果只寫6，就變成6個一。</p><div class=\"example\"><p>比較60與6：60是六十片，6是六片。比較70與07：一年級一般記7個一寫7，不用在前面補0來表示一個十。</p></div><p>先拿30片，再拿3片，請伙伴看你選的數字卡是否正確。此處的0說的是「沒有剩餘的單個」，不表示整批物品都不見了。整十數都要同時看十位和個位。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-02-s04",
+      "title": "滿10個一，就整理成1個十",
+      "childText": "換擺法，沒有換總量。",
+      "html": "<figure><svg viewBox=\"0 0 360 258\" role=\"img\" aria-labelledby=\"g1s2-mathematics-02-exchange\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-02-exchange\">每板10格，一格一點；各板依序有10、10、10個，全部30個。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"193\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"193\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><text x=\"90\" y=\"142\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/></svg><figcaption>每板10格，一格一點；各板依序有10、10、10個，全部30個。</figcaption></figure><p>原有2張滿板與10片散片。把散片全部放滿第3張板，變成3張滿板。整理前是2個十和10個一，整理後是3個十和0個一，都有30片。</p><ol><li>先點清散片真的有10片。</li><li>把10片一格一片放滿新板。</li><li>更換位值記錄為十位3、個位0，再重新數整批。</li></ol><p>同樣，5個十加10個一可整理為6個十，即60。這是整理數量，不是學直式進位；也不能把1個十誤換成1個一。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-02-s05",
+      "title": "從九十九走到一百",
+      "childText": "最後一片，讓十張板都滿了。",
+      "html": "<p>99有9張滿板和9片。再加1片，最後10片能裝滿第10張板。十張每張10片，依序數10、20、30、40、50、60、70、80、90、100。100讀「一百」。</p><p>100是這一課的終點。它有十個十；今天先認識數量和數字，不繼續研究101之後的數，也不要求學三位數的直式。數字100有三個字形，不能把99再一個寫成910。</p><div class=\"example\"><p>短段接數：68、69、70、71；88、89、90、91；97、98、99、100。停在跨十處，用滿板看見新的一組十。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-02-s06",
+      "title": "實作：數量寄物站",
+      "childText": "報數的人和拿物的人互相檢查。",
+      "html": "<p>準備兩區：「滿板」區和「單片」區。成人說「八十二」，孩子取8張滿板和2片，再選82卡。伙伴只看數量說出82，兩人確認是否一致。這是教具遊戲，不搬重物也不使用細小物件。</p><ol><li>先做51，說5個十和1個一。</li><li>再做80，確認沒有單片而不是沒有東西。</li><li>最後出示36與63兩張卡，請孩子挑出符合3滿板與6片的那一張。</li></ol><p>不必一次操作100片散物。成人可先準備已核對的滿板，但至少讓孩子親手完成一次十個一整理成一個十，才知道板不是任意標籤。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-02-s07",
+      "title": "出口：解釋比猜對更重要",
+      "childText": "我能說出數字站在哪一位。",
+      "html": "<p>小猴說「52就是5和2，共7」。請拿5張滿板與2片，先數50再數51、52；這就指出他漏看了十位。另一位朋友說「90把0刪掉還是9」，也用九張滿板與九片直接比一比。</p><div class=\"example\"><p>抽卡46：先讀四十六，指4說4個十，指6說6個一，再畫4個標10的大框與6點。換卡40，解釋0表示板外沒有單片。</p></div><p>最後請你出一個帶0的數，讓大人排。你負責檢查十位、個位及總數；如果大人故意排錯，可以用實物指出錯在哪裡。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>先備與界線</h3><p>依N-1-1把直觀十個一組延展到100以內，正式使用十位、個位的語言，並用0連結整十數。先確認孩子能拿出34片並辨認30與3；不穩時回到三張滿板與三片。100只作數到的終點和十個十的操作，不向上教三位數運算。位值交換用實物呈現，這一課不教直式進退位，不把讀寫數字和抽象位值名稱背誦畫等號。</p><h3>第一節：兩位數與零</h3><p>5分鐘數量診斷；15分鐘操作47與74，再換成36和63確認不是記住單一例子；10分鐘比較60與6；10分鐘數字、口說、實物三方互配。成人問「4表示幾片？」後應允許孩子先指四張滿板，而非催促口算。0的教學要同時保留十位的物品，避免用空桌子解釋所有帶0的數。</p><h3>第二節：交換與跨十</h3><p>讓孩子把2滿板與10單片整成3滿板，分別點數交換前後，討論物品一片也沒有增減。再用59到60、69到70延展；跨到100時成人可預備九張滿板，孩子完成最後一張。記錄語言由「幾張板、幾片」逐步轉為「幾個十、幾個一」。不必要求每次把100片全部拆散重數，確認滿板的代表意義後即可使用。</p><h3>第三次練習與補救</h3><p>寄物站交換數量卡與操作角色。52看成7時，追問5指哪個單位並拆一板檢查；位數倒置時，讓孩子把數字卡直接放在兩群物品上；省略0時，用60片與6片的差異說明記錄後果。避免只反覆抄寫，因為字形熟練不代表位值理解。練習可分成每次十餘分鐘，保留足夠手眼操作時間。</p><h3>差異化及可觀察證據</h3><p>支持組先用一種固定顏色的滿板與單片、固定左右位置，只練20–50；熟練組可把同一量拆成較多單片再還原，說明量不變，不加乘除內容。視覺辨識需要者可用大字卡，手部活動不便者以指認或口答指示成人代擺。評量使用不同數的三項任務：82配量、70說0的意義、29再1重整到30；分別記錄讀數、配量、換十與零的理解。</p>",
+  "exercises": [
+    {
+      "id": "g1s2-mathematics-02-q01",
+      "question": "68的6表示什麼？",
+      "options": [
+        "8個十",
+        "6個一",
+        "6個十"
+      ],
+      "answer": 2,
+      "hint": "看6所在的位置。",
+      "explanation": "68的6在十位，表示六組十，也就是60。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q02",
+      "question": "3個十和9個一，應寫哪個數？",
+      "options": [
+        "93",
+        "39",
+        "12"
+      ],
+      "answer": 1,
+      "hint": "十位寫3，個位寫9。",
+      "explanation": "三組十和九個一組成三十九，寫成39。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q03",
+      "question": "50的0表示？",
+      "options": [
+        "沒有剩餘的單個一",
+        "全部沒有物品",
+        "沒有十"
+      ],
+      "answer": 0,
+      "hint": "保留十位的5來想。",
+      "explanation": "50仍有5個十，個位0表示沒有單個一。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q04",
+      "question": "7張滿十格板與4片，是哪個數？",
+      "options": [
+        "11",
+        "74",
+        "47"
+      ],
+      "answer": 1,
+      "hint": "滿板放十位，單片放個位。",
+      "explanation": "7組十和4個一合成74，不能把十和個換位置。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q05",
+      "question": "2個十和10個一整理後是多少？",
+      "options": [
+        "210",
+        "12",
+        "30"
+      ],
+      "answer": 2,
+      "hint": "10個一可以放滿一張新板。",
+      "explanation": "兩個十再加一個十成三個十，即30，總量沒有改變。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q06",
+      "question": "79後面的一個數是？",
+      "options": [
+        "80",
+        "710",
+        "78"
+      ],
+      "answer": 0,
+      "hint": "第8張十格板將放滿。",
+      "explanation": "79再1使單片湊滿10，成8個十，即80。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q07",
+      "question": "99再添1片，是多少？",
+      "options": [
+        "90",
+        "910",
+        "100"
+      ],
+      "answer": 2,
+      "hint": "十張滿板各有10片。",
+      "explanation": "9個十和9個一再添1個一，成十個十，也就是100。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q08",
+      "question": "哪一句正確說明60與6？",
+      "options": [
+        "60有6個十，6有6個一",
+        "兩者都只有6片",
+        "60沒有任何物品"
+      ],
+      "answer": 0,
+      "hint": "同樣的6，要看它的位置。",
+      "explanation": "60的6在十位，6的6在個位，代表的數量不同。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q09",
+      "question": "把十片單片放進一張滿板，總量如何？",
+      "options": [
+        "變成1片",
+        "仍是10片",
+        "變成20片"
+      ],
+      "answer": 1,
+      "hint": "只整理，沒有添減。",
+      "explanation": "十片放成一組仍有十片，1說的是組數，不是片數。"
+    },
+    {
+      "id": "g1s2-mathematics-02-q10",
+      "question": "46的正確數量記錄是哪一種？",
+      "options": [
+        "6個寫10的大框和4點",
+        "4個寫10的大框和6點",
+        "4點和6點"
+      ],
+      "answer": 1,
+      "hint": "每個大框代表10。",
+      "explanation": "四個十加六個一是46；普通的4點和6點只會表示10。"
+    }
+  ],
+  "selfCheck": [
+    "我能說出十位、個位的量。",
+    "我知道0在整十數裡的意思。",
+    "我能把10個一整理成1個十。",
+    "我能數到100並用教具檢查。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱列一年級全年範圍；本課的學期位置、節數、情境、活動及題目是原創編排，不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：一年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁19–20的N-1-1：100以內的數、個與十、位值交換及0的位值意義。依本課先備能力逐步操作，不延伸至二年級的正式未知數題型、直式、標準長度單位或曆法結構教學。"
+    }
+  ]
+}

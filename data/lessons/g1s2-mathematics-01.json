@@ -1,0 +1,204 @@
+{
+  "id": "g1s2-mathematics-01",
+  "course": "數學",
+  "title": "50以內的數與跳數",
+  "subtitle": "兩個、五個、十個一數，知道每次多了多少。",
+  "duration": "建議2–3節，每節35–40分鐘；可分成較短的操作活動。",
+  "materials": [
+    "50張不易入口的大紙片，由成人先準備",
+    "每張10格的框板5張",
+    "0–50數字卡、粗筆與分組墊"
+  ],
+  "goals": [
+    "能連結31–50的數詞、數字與數量",
+    "能從指定數接數並跨過39、49",
+    "能以2、5、10個一組跳數並指出每次的一組",
+    "能發現漏數或重數並用另一種方法檢查"
+  ],
+  "intro": "活動室要整理更多的大紙片。你已經能數到30，這次把範圍延到50，還要選一種不漏數的方法。跳數不是把物品跳過不算，而是一次數一組。",
+  "sections": [
+    {
+      "id": "g1s2-mathematics-01-s01",
+      "title": "數到50，先抓住整十",
+      "childText": "三十九後面，新的十滿了。",
+      "html": "<p>拿出3張各放滿10片的框板，先說10、20、30。板外每添1片，接著說31、32，直到39。再添1片，把這10片放滿第4張板，就到40。四十不是4片，而是4組每組10片。</p><p>繼續放到49：4張滿板和9片。再添1片，第5張滿了，成為50。讀「五十」，不用把兩個數字拆成「五、零」來報數。請指著板說明40和50各有幾組十。</p><div class=\"example\"><p>短段練習：38、39、40、41；48、49、50。今天數到50就停，不必從1重背整串才能找到下一個數。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-01-s02",
+      "title": "兩個一數：每次確實有2個",
+      "childText": "一對一對移過來。",
+      "html": "<figure><svg viewBox=\"0 0 360 144\" role=\"img\" aria-labelledby=\"g1s2-mathematics-01-pairs\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-01-pairs\">每板10格，一格一點；各板依序有10、2個，全部12個。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">2個</text><rect x=\"193\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"283\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"193\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"223\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"253\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"283\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"313\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>每板10格，一格一點；各板依序有10、2個，全部12個。</figcaption></figure><p>圖上共有12點。先把每兩片排成一對，每移好一對才說一個數：2、4、6、8、10、12。說到8時，已移過4對，共8片，不是只移了4片。</p><ol><li>先用手指一起圈住一對，確認真的有2片。</li><li>按固定方向移動，已數的放左邊，未數的放右邊。</li><li>最後改成一片一片數，檢查是不是同樣12片。</li></ol><p>若有13片，先把12片兩個一數，再數剩下1片得到13。不可以為了湊一對，忽略那片或憑空補一片。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-01-s03",
+      "title": "五個一數：排好再報數",
+      "childText": "每組5個，數到的是全部。",
+      "html": "<p>把20片分放在4個墊子，每個墊子正好5片。依序指一個墊子說5、10、15、20。指第3個墊子時，15表示前面3組合起來共有15片，不是第3組裡有15片。</p><div class=\"example\"><p>改成35片：每組5片，指完各組依序說5、10、15、20、25、30、35。成人問「說25時，手指過哪些組？」請圈出那幾組，再逐一核對。</p></div><p>如果某組只有4片，就不能當5片跳數。先整理成相同數量的一組，再處理剩餘單片；快不快不是最重要，數量對得上才重要。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-01-s04",
+      "title": "十個一數到50",
+      "childText": "滿板像一個清楚的數量包。",
+      "html": "<figure><svg viewBox=\"0 0 360 372\" role=\"img\" aria-labelledby=\"g1s2-mathematics-01-fifty\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-01-fifty\">每板10格，一格一點；各板依序有10、10、10、10、10個，全部50個。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"28\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"193\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"40\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"55\" r=\"10\" fill=\"#246b9e\"/><rect x=\"193\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"70\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"85\" r=\"10\" fill=\"#246b9e\"/><text x=\"90\" y=\"142\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><text x=\"268\" y=\"142\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"193\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"154\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"169\" r=\"10\" fill=\"#246b9e\"/><rect x=\"193\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"223\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"238\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"253\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"268\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"283\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"298\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><rect x=\"313\" y=\"184\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"328\" cy=\"199\" r=\"10\" fill=\"#246b9e\"/><text x=\"90\" y=\"256\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"268\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"283\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"268\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"283\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"268\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"283\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"268\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"283\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"268\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"283\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"298\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"30\" cy=\"313\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"298\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"313\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"298\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"313\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"298\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"313\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"298\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"313\" r=\"10\" fill=\"#246b9e\"/></svg><figcaption>每板10格，一格一點；各板依序有10、10、10、10、10個，全部50個。</figcaption></figure><p>每張滿板10點，依序累積是10、20、30、40、50。圖中有5張板、50個點，兩種問題的單位不同。聽到「幾張板」答5張；聽到「幾個點」答50個。</p><p>若桌上有43片，可先整理4張滿板，說10、20、30、40，再接著說41、42、43。剩下3片不能再當成一整組10來數。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-01-s05",
+      "title": "選方法，也能換方法",
+      "childText": "數量不因為數法改變。",
+      "html": "<p>有30片時，可以一個一數、兩個一數、五個一數或十個一數。每片都恰好數到一次，最後都應得到30。把散片整理成滿板通常更容易檢查，但並不是每次都只能用同一方法。</p><ol><li>成人先給孩子18片，讓他選2個一數並說出最後的18。</li><li>再給40片，改選10個一數，說10、20、30、40。</li><li>把已數好的40片散開，猜總量是否變了，再重新整理驗證。</li></ol><p>若兩次結果不一樣，先查看有沒有一片數兩次、遺落單片或某一組未滿。不要只挑比較大的數當答案。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-01-s06",
+      "title": "任務：做一張45片點收卡",
+      "childText": "我不只報答案，也留下證據。",
+      "html": "<p>伙伴準備45片。先不看總數標籤，孩子每10片放滿一板；得到4滿板和5片。口說40後再接數到45，或把最後5片當一組，說明全部45片。</p><ol><li>畫4個大框，框內各寫「10片」，旁邊畫5個小點。</li><li>請伙伴照你的記錄拿出同樣數量，看看是否能成功。</li><li>交換角色，改做32片；記錄3個十和2個一。</li></ol><p>不方便寫畫時，可以指實物，請成人代記。框要註明代表10片，否則別人可能把一個框誤當一片。使用大紙片，避免把小教具含入口中。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-01-s07",
+      "title": "錯誤偵探：跳數也要一步一步查",
+      "childText": "我說的數，要和手指到的組一樣。",
+      "html": "<p>小鹿指著5組、每組5片，說5、10、20、25、30。第三次本來應是15，所以後面跟著錯了。讓他把前三組合起逐一數到15，再接20、25。錯的是報數順序，並不是物品突然變多。</p><div class=\"example\"><p>另一個錯誤：49後面說成410。用第50片補滿第5張板，確認五組十就是50。可以先停一下看滿板，再說下一個數。</p></div><p>出口任務：抽一張36或48，先用十個一組排量，再說前一個與後一個數。36的前後是35、37；48的前後是47、49。說出自己怎樣知道，而不是只背出答案。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>起點與範圍</h3><p>本課承接上學期數到30的數量連結，新增31–50與有意義的分組跳數。對照N-1-1，活動仍以實物點數、十個一組及數序為主；兩個、五個一數是操作策略，不引進乘法算式或背乘法表。課前檢查孩子能否拿出指定的24片，並在19、29之後接對下一個數。只會背數詞而不能配量者，先用一片一格慢慢對應。</p><h3>第一節：跨十與兩個一數</h3><p>約5分鐘短段接數；10分鐘用滿板處理39到40、49到50；15分鐘把12片兩兩配對，讓孩子每指一組才說下一個累積量；最後10分鐘處理13片的剩餘單片。問「剛才說8，你已數了哪一些？」比要求整串背熟更能看出理解。一次出現的物品可減少，不必擺滿50片才開始教。</p><h3>第二節：五個、十個一數</h3><p>先用每組5片的墊子實作，再轉到十格板。分別問有幾組、有幾片，讓孩子察覺單位差異。安排同一批30片用兩種方法數，操作前後不增加也不移除物品，討論為何總量相同。成人可把已數與未數區域用大紙墊分開，減輕追蹤負擔，但不要代替孩子把整組數好後只要求附和。</p><h3>應用與迷思補救</h3><p>45片點收卡可做成兩人互相驗證的任務。孩子把五張板答成五片時，拆開一板逐一點數再重新裝回；跳數漏掉15時，回到每組5片的實物累積；跨十寫410時，以四滿板加十片重整為五滿板。不要把單一錯誤一律歸因粗心，分開觀察分組、數詞序列、手眼對應及記錄。</p><h3>差異化與評量</h3><p>支持組先在20內做固定2片一組，之後只練38–42，不一次加多種規則；熟練組解釋有剩餘單片時如何收尾，或比較兩種點收方法，不延伸正式乘除。可口答、指認或由成人代寫；大紙片代替豆子等小物。出口另用32和47，記錄是否能整十分組、正確處理單片、跨十接數及用第二方法檢查。兩次都能指出對應數量，才算理解，而非以速度判定。</p>",
+  "exercises": [
+    {
+      "id": "g1s2-mathematics-01-q01",
+      "question": "38後面接著數兩個數，是哪一組？",
+      "options": [
+        "39、49",
+        "39、40",
+        "40、41"
+      ],
+      "answer": 1,
+      "hint": "一次只前進1。",
+      "explanation": "38後面是39，再一個是40；跨十時不會跳過39。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q02",
+      "question": "有4張滿十格板，每板10片。共有幾片？",
+      "options": [
+        "40片",
+        "14片",
+        "4片"
+      ],
+      "answer": 0,
+      "hint": "想10、20、30、40。",
+      "explanation": "4張板各10片，十個一數到40；4是板的張數。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q03",
+      "question": "2個一數：2、4、6，下一個是？",
+      "options": [
+        "7",
+        "10",
+        "8"
+      ],
+      "answer": 2,
+      "hint": "再把一對2片數進來。",
+      "explanation": "每次多2片，所以6之後是8，沒有跳到10。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q04",
+      "question": "每組5片，數完前三組應說？",
+      "options": [
+        "3片",
+        "10片",
+        "15片"
+      ],
+      "answer": 2,
+      "hint": "依序說5、10，再往下。",
+      "explanation": "5、10、15；第三次說的是前三組共有15片。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q05",
+      "question": "五個一數：30、35、40，接著是？",
+      "options": [
+        "45",
+        "50",
+        "41"
+      ],
+      "answer": 0,
+      "hint": "每次前進5。",
+      "explanation": "40再數5片是45；50要再多數一組5片。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q06",
+      "question": "49再添1片，全部是多少？",
+      "options": [
+        "410",
+        "50",
+        "40"
+      ],
+      "answer": 1,
+      "hint": "第5張十格板正好滿。",
+      "explanation": "49是4個十和9個一，再1個就湊成5個十，也就是50。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q07",
+      "question": "13片先兩個一數到12，還剩1片，怎麼辦？",
+      "options": [
+        "再數1片，全部13片",
+        "丟掉那1片，答12",
+        "把1片當2片，答14"
+      ],
+      "answer": 0,
+      "hint": "每一片都要剛好數一次。",
+      "explanation": "12片加剩餘1片是13片，不能漏掉或把單片當一對。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q08",
+      "question": "同樣30片散開後再整理，沒有增加或拿走，數量會？",
+      "options": [
+        "一定變少",
+        "一定變多",
+        "仍是30片"
+      ],
+      "answer": 2,
+      "hint": "位置改了，物品有變嗎？",
+      "explanation": "只改擺法沒有改片數，用另一種數法也應得到30。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q09",
+      "question": "哪種分組可以直接五個一數？",
+      "options": [
+        "有的4片、有的6片",
+        "每一組都是5片",
+        "每一組都是2片"
+      ],
+      "answer": 1,
+      "hint": "每次說下一個數要多同樣5片。",
+      "explanation": "只有每組正好5片，逐組累積才與五個一數相符。"
+    },
+    {
+      "id": "g1s2-mathematics-01-q10",
+      "question": "43片整理成滿十格板與單片，應是哪一種？",
+      "options": [
+        "4張滿板和3片",
+        "3張滿板和4片",
+        "4張滿板和30片"
+      ],
+      "answer": 0,
+      "hint": "先取出完整的四組十。",
+      "explanation": "4張各10片是40片，再3片共43片。"
+    }
+  ],
+  "selfCheck": [
+    "我能跨過39與49接數。",
+    "我能讓跳數和每組數量對得上。",
+    "我能分清幾組和幾個。",
+    "我能數進剩餘單片並檢查總量。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱列一年級全年範圍；本課的學期位置、節數、情境、活動及題目是原創編排，不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：一年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁19–20的N-1-1：100以內數詞、數字、數量及位值操作。依本課先備能力逐步操作，不延伸至二年級的正式未知數題型、直式、標準長度單位或曆法結構教學。"
+    }
+  ]
+}

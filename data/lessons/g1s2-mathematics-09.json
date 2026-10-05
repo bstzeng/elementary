@@ -1,0 +1,204 @@
+{
+  "id": "g1s2-mathematics-09",
+  "course": "數學",
+  "title": "月曆、日期與星期",
+  "subtitle": "先看月份，再找到日期，沿著同一直欄讀星期。",
+  "duration": "建議2–3節，每節35–40分鐘；可分成較短的操作活動。",
+  "materials": [
+    "本頁假想4月的大字月曆",
+    "寫有日期與活動的小張大字卡",
+    "可移動的大指示卡，成人代寫亦可"
+  ],
+  "goals": [
+    "能在給定月曆上報讀幾月幾日",
+    "能沿日期同一直欄找到星期標示",
+    "能在已知今天的前提下指出同月的昨天與明天",
+    "能將簡單活動卡放在指定日期並說清楚約定"
+  ],
+  "intro": "月曆能幫我們把約定說清楚。本課使用一張教學用假想4月：1日排在星期三，共列30個日期。它不是今年月曆，也不能拿來安排真實行程。",
+  "sections": [
+    {
+      "id": "g1s2-mathematics-09-s01",
+      "title": "先看這是哪一個月",
+      "childText": "只說15，伙伴還不知道是哪一天。",
+      "html": "<p>拿到月曆，先看上方的月份。本課寫4月，所以格子裡的15應讀「4月15日」。不要把星期欄的三讀成3月，也不要只報15而漏掉月份。上方「教學用假想」提醒我們這不是現在真實日期。</p><p>這張表用星期一到星期日作欄名，日期依順序放進格子。不同月曆可能把星期日放左邊，所以換一張表時要重新讀欄名，不能只靠記住第幾欄。</p><div class=\"example\"><p>請先指月份4月，再找8，說「4月8日」。如果只知道某活動在8日，還要確認是幾月，才不會拿到不同月的約定。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-09-s02",
+      "title": "在月曆找日期與星期",
+      "childText": "先找到數字，再直直往上找欄名。",
+      "html": "<figure><svg viewBox=\"0 0 360 415\" role=\"img\" aria-labelledby=\"g1s2-mathematics-09-calendar\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s2-mathematics-09-calendar\">教學用假想4月，非真實年份：星期欄由一到日；1日在星期三，8、15、22、29也在星期三；30日在星期四。空格不是日期。</title><text x=\"180\" y=\"26\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">教學用假想4月</text><text x=\"30\" y=\"66\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">一</text><text x=\"80\" y=\"66\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">二</text><text x=\"130\" y=\"66\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">三</text><text x=\"180\" y=\"66\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">四</text><text x=\"230\" y=\"66\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">五</text><text x=\"280\" y=\"66\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">六</text><text x=\"330\" y=\"66\" text-anchor=\"middle\" font-size=\"23\" fill=\"#193c34\">日</text><rect x=\"5\" y=\"80\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"55\" y=\"80\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"105\" y=\"80\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"155\" y=\"80\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"205\" y=\"80\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"255\" y=\"80\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"305\" y=\"80\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"5\" y=\"134\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"55\" y=\"134\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"105\" y=\"134\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"155\" y=\"134\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"205\" y=\"134\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"255\" y=\"134\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"305\" y=\"134\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"5\" y=\"188\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"55\" y=\"188\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"105\" y=\"188\" width=\"50\" height=\"54\" fill=\"#edf5ee\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"155\" y=\"188\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"205\" y=\"188\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"255\" y=\"188\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"305\" y=\"188\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"5\" y=\"242\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"55\" y=\"242\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"105\" y=\"242\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"155\" y=\"242\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"205\" y=\"242\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"255\" y=\"242\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"305\" y=\"242\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"5\" y=\"296\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"55\" y=\"296\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"105\" y=\"296\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"155\" y=\"296\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"205\" y=\"296\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"255\" y=\"296\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"305\" y=\"296\" width=\"50\" height=\"54\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"130\" y=\"116\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">1</text><text x=\"180\" y=\"116\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">2</text><text x=\"230\" y=\"116\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">3</text><text x=\"280\" y=\"116\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">4</text><text x=\"330\" y=\"116\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">5</text><text x=\"30\" y=\"170\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">6</text><text x=\"80\" y=\"170\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">7</text><text x=\"130\" y=\"170\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">8</text><text x=\"180\" y=\"170\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">9</text><text x=\"230\" y=\"170\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">10</text><text x=\"280\" y=\"170\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">11</text><text x=\"330\" y=\"170\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">12</text><text x=\"30\" y=\"224\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">13</text><text x=\"80\" y=\"224\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">14</text><text x=\"130\" y=\"224\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">15</text><text x=\"180\" y=\"224\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">16</text><text x=\"230\" y=\"224\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">17</text><text x=\"280\" y=\"224\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">18</text><text x=\"330\" y=\"224\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">19</text><text x=\"30\" y=\"278\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">20</text><text x=\"80\" y=\"278\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">21</text><text x=\"130\" y=\"278\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">22</text><text x=\"180\" y=\"278\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">23</text><text x=\"230\" y=\"278\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">24</text><text x=\"280\" y=\"278\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">25</text><text x=\"330\" y=\"278\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">26</text><text x=\"30\" y=\"332\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">27</text><text x=\"80\" y=\"332\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">28</text><text x=\"130\" y=\"332\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">29</text><text x=\"180\" y=\"332\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">30</text><text x=\"180\" y=\"389\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">不是今年或指定年份的月曆</text></svg><figcaption>教學用假想4月，非真實年份：星期欄由一到日；1日在星期三，8、15、22、29也在星期三；30日在星期四。空格不是日期。</figcaption></figure><p>找4月8日：先看第二排日期，找到8；由8沿同一直欄向上看，欄名是「三」，表示星期三。4月9日同樣沿欄往上讀到「四」，所以是星期四。</p><p>圖上每個日期只出現一次。1日前面的空格只是排版留下的位置，不表示0日，也不是本課有標明的上個月日期。若看不清，可用大字列印或放大閱讀，不靠顏色猜星期。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-09-s03",
+      "title": "今天是哪一天，要先約定",
+      "childText": "題目給了今天，我才有起點。",
+      "html": "<p>現在只在遊戲裡假設「今天是4月15日」。找到15並放指示卡，同排左邊14是前一天，右邊16是後一天。於是昨天4月14日，今天4月15日，明天4月16日。它不表示真實今天就是4月15日。</p><div class=\"example\"><p>換一張題卡：「假設今天是4月8日。」昨天就是4月7日，明天4月9日。再看欄名，7日星期二、8日星期三、9日星期四，和這張假想表一致。</p></div><p>本課只在同一月的中間練前後一天，不練月底跨月推算。只有「明天」卻沒有說今天是哪天，就不能直接猜某個日期。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-09-s04",
+      "title": "同一日期，搭配同一欄名",
+      "childText": "日期數字不是星期數字。",
+      "html": "<p>4月15日的15是這個月的日期，不是星期十五。在本張表找到15，欄名三，才知道是星期三。4月20日在星期一欄，不能因為20看起來比較大，就說星期也比15那天大。</p><p>再比較4月5日與4月12日：兩格都在「日」欄，本張表上都讀星期日。這裡是在看已給月曆的資訊，不要求用加減計算星期，也不背每個月有幾天或研究閏年。</p><div class=\"example\"><p>遇到不同版面的月曆，要先找到欄名再報讀。格子有沒有紅色不是可靠的唯一線索；黑白影印也應能讀出日期與星期。</p></div>"
+    },
+    {
+      "id": "g1s2-mathematics-09-s05",
+      "title": "把約定放到正確的格子",
+      "childText": "說月份、日期、活動，伙伴才找得到。",
+      "html": "<p>老師在這次模擬活動說：「4月15日做圖形拼排，4月20日整理圖卡，4月25日分享作品。」把三張活動卡放在15、20、25格旁，不能遮住原來的日期數字。</p><ol><li>指15格，說4月15日星期三做圖形拼排。</li><li>指20格，說4月20日星期一整理圖卡。</li><li>指25格，說4月25日星期六分享作品。</li></ol><p>這些是本課虛構活動，不代表學校真的在星期六上課。若你要記真實活動，必須換成正確年份與月份的真月曆，並與大人確認；不要直接照抄本課日期去赴約。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-09-s06",
+      "title": "實作：我說日期，你來定位",
+      "childText": "讓伙伴從你的話重建安排。",
+      "html": "<p>一人抽卡「4月22日」，不指格子，口說給伙伴聽；伙伴在假想表找22，沿直欄報星期三，再把大指示卡放旁邊。兩人一起核對原卡。</p><ol><li>第二輪換4月6日，找到星期一欄。</li><li>第三輪抽「假設今天4月18日」，指出昨天17日和明天19日。</li><li>伙伴故意把卡放錯一格，請你說清應移到哪個日期。</li></ol><p>動作不便可用口說或目視選擇，由成人代放；讀字困難可由成人念日期。每題先說假設起點，不把真實今天與遊戲今天混在一起。</p>"
+    },
+    {
+      "id": "g1s2-mathematics-09-s07",
+      "title": "錯誤偵探與出口",
+      "childText": "不知道的資訊，不用猜。",
+      "html": "<p>小熊說「15在第三排，所以星期三」。這次答案碰巧對，但理由不可靠：同一排還有星期一到星期日。星期要從日期所在的直欄往上看，不是從第幾排猜。</p><p>小兔看到1日前有兩個空格，想填0日。這些空格只是本表沒放日期，不要自行編造。又有人說所有月份都30天；本課只給這張假想4月的資料，不能靠它推論所有月份。</p><div class=\"example\"><p>出口：報讀4月29日星期三；再以假設今天4月15日，指出明天16日。最後說一件不能由這張表確定的事，例如真實今年4月15日的星期，要查看真實年份月曆。</p></div>"
+    }
+  ],
+  "teachingHtml": "<h3>課綱邊界與材料</h3><p>對照N-1-6，一年級核心是日常時間用語與簡單幾月幾日報讀，不含曆法結構。因原主題涵蓋月曆與星期，本課僅以閱讀給定表面的欄名作生活溝通，不教授年、月、星期、日的換算、各月天數規則、閏年或日期間隔計算。假想4月的設定為1日星期三、30日星期四；所有例子須固定使用此表，不能說成今年或真實今天。</p><h3>第一節：表面資訊的報讀</h3><p>先讀月名再讀日期，成人以手指追蹤「4月」「8日」，避免孩子只背格內數字。之後沿8所在直欄向上到三，報星期三，再換9日星期四。說明空格不是0日，星期欄與日期格角色不同。可先遮住部分不相關日期降低視覺負荷，但保留月份與欄名，不要求兒童背整張表。</p><h3>第二節：今天與簡單約定</h3><p>每次練昨天明天都明說是假設今天，例如15日，且只在同月內移動一格。換題先移除舊的今天卡，避免指代混淆。活動卡練習把月份、日期與事件連結，先指定位再完整報讀；本課星期六分享是虛構，不暗示真實學校作息。討論真實約定時必須更換正確年份月曆與成人核對。</p><h3>錯誤辨識與補救</h3><p>把日期15當星期十五時，分別指日期格與欄名；按第幾橫排猜星期時，橫向指出同排有不同星期，再改沿直欄追蹤。只看紅字判斷時，給黑白版並保留文字欄名。不知道今天卻硬答明天日期時，讓孩子練習問「先告訴我今天幾月幾日」。不因孩子問不完整而直接代猜，保留需要足夠資訊的概念。</p><h3>差異化與評量</h3><p>支持組先只找7、8、9相鄰日期，大字版配成人代讀；熟練組用完整句子描述兩個虛構活動並找對日期，不進入曆法推算。手部不便可口答、指認或由成人代放。出口分別檢核月名與日期、同直欄星期、已給今天的前後日、真假日曆界線。用22日或18日等未作主要示範的日期再確認，不能只憑能背15日星期三判定掌握。教師建議節數為原創安排，可拆短練。</p>",
+  "exercises": [
+    {
+      "id": "g1s2-mathematics-09-q01",
+      "question": "本課表上標示4月，格內15應讀？",
+      "options": [
+        "15月4日",
+        "星期十五",
+        "4月15日"
+      ],
+      "answer": 2,
+      "hint": "先說月份，再說日期。",
+      "explanation": "上方4月是月份，格內15是日期，所以讀4月15日。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q02",
+      "question": "本課假想4月的8日是星期幾？",
+      "options": [
+        "星期三",
+        "星期二",
+        "星期四"
+      ],
+      "answer": 0,
+      "hint": "找到8後沿直欄往上。",
+      "explanation": "8在三的直欄，與1、15、22、29同欄，表示星期三。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q03",
+      "question": "假設今天是本表4月15日，明天是？",
+      "options": [
+        "4月25日",
+        "4月16日",
+        "4月14日"
+      ],
+      "answer": 1,
+      "hint": "往後找下一個日期。",
+      "explanation": "15日後面一天是16日，本題起點是已給的假想今天。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q04",
+      "question": "假設今天是本表4月8日，昨天是？",
+      "options": [
+        "4月9日",
+        "4月7日",
+        "3月8日"
+      ],
+      "answer": 1,
+      "hint": "同月往前一個日期。",
+      "explanation": "8日前一天是7日，所以昨天是4月7日。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q05",
+      "question": "本表4月20日的欄名是一，應報讀？",
+      "options": [
+        "星期二十",
+        "1月20日",
+        "星期一"
+      ],
+      "answer": 2,
+      "hint": "欄名表示星期，表頭4月表示月份。",
+      "explanation": "20在星期一欄，所以是4月20日星期一。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q06",
+      "question": "1日前的空格表示什麼？",
+      "options": [
+        "本表沒有放日期的排版位置",
+        "一定是4月31日",
+        "4月0日"
+      ],
+      "answer": 0,
+      "hint": "空格並沒有印任何日期。",
+      "explanation": "月曆為配合星期留下空位，不能自行當成0日或其他日期。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q07",
+      "question": "要判斷15日的星期，哪個方法正確？",
+      "options": [
+        "看15在第幾橫排",
+        "沿15所在直欄往上讀欄名",
+        "只看字的顏色"
+      ],
+      "answer": 1,
+      "hint": "星期標示在上方的各欄。",
+      "explanation": "同一排有多種星期，要看日期所屬直欄，不能按橫排序號猜。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q08",
+      "question": "本課假想4月25日分享作品，是星期幾？",
+      "options": [
+        "星期五",
+        "星期日",
+        "星期六"
+      ],
+      "answer": 2,
+      "hint": "在表上找25並看欄名。",
+      "explanation": "25在六的直欄，這是虛構的星期六活動，不代表實際學校安排。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q09",
+      "question": "伙伴只說「明天去」，沒有提供今天日期，能直接判定明天幾日嗎？",
+      "options": [
+        "不能，要先確認今天幾月幾日",
+        "一定是1日",
+        "一定是16日"
+      ],
+      "answer": 0,
+      "hint": "明天需要相對的今天作起點。",
+      "explanation": "沒有今天的日期就缺乏起點，不能把上一題假設直接套用。"
+    },
+    {
+      "id": "g1s2-mathematics-09-q10",
+      "question": "想查真實今年4月15日的星期，應該？",
+      "options": [
+        "直接使用本課假想表",
+        "認為每年都星期三",
+        "查正確年份的真實月曆"
+      ],
+      "answer": 2,
+      "hint": "本課表已標示教學用假想。",
+      "explanation": "本表沒有對應真實年份，真實行程須查當年當月的日曆。"
+    }
+  ],
+  "selfCheck": [
+    "我能先讀月份再讀日期。",
+    "我能沿日期直欄找到星期。",
+    "我知道昨天明天要先有今天的起點。",
+    "我不把假想月曆當成真實行程表。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱列一年級全年範圍；本課的學期位置、節數、情境、活動及題目是原創編排，不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：一年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁19–20的N-1-6：簡單日期報讀、今天昨天明天；星期僅依給定欄名閱讀，不進行N-2-14曆法結構與時間單位關係教學。依本課先備能力逐步操作，不延伸至二年級的正式未知數題型、直式、標準長度單位或曆法結構教學。"
+    }
+  ]
+}
