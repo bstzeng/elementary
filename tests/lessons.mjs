@@ -63,6 +63,27 @@ for(const id of manifest.lessonIds){
   assert.ok(/tabindex="0"/.test(region)&&/role="region"/.test(region)&&/aria-label="[^"]+"/.test(region),'Chart has a labelled keyboard-scroll region');
  }
 
+
+ if(id==='g2s1-mathematics-08'){
+  const chart=html.match(/<table class="hundred-chart multiplication-chart">([\s\S]*?)<\/table>/)?.[1];
+  assert.ok(chart,'Native product table uses its scoped label-width class');
+  const header=chart.match(/<thead>([\s\S]*?)<\/thead>/)?.[1]||'';
+  assert.deepEqual([...header.matchAll(/<th scope="col">([^<]+)<\/th>/g)].map(m=>m[1]),['每組數／組數',...Array.from({length:10},(_,i)=>`${i+1}組`)],'Product table column headers identify group counts1–10');
+  const body=chart.match(/<tbody>([\s\S]*?)<\/tbody>/)?.[1]||'';
+  const rows=[...body.matchAll(/<tr>([\s\S]*?)<\/tr>/g)];
+  assert.equal(rows.length,10,'Exactly ten product rows');
+  for(const [i,row] of rows.entries()){
+   assert.ok(row[1].includes(`<th scope="row">每組${i+1}</th>`),'Each product row identifies its items-per-group factor');
+   assert.deepEqual([...row[1].matchAll(/<td>(\d+)<\/td>/g)].map(m=>Number(m[1])),Array.from({length:10},(_,j)=>(i+1)*(j+1)),`All ten products correct in row${i+1}`);
+  }
+  assert.ok(/<caption id="g2s1-mathematics-08-table-caption">[^<]+<\/caption>/.test(chart),'Readable product caption');
+  const region=html.match(/<div\b[^>]*class="lesson-table-scroll"[^>]*>/)?.[0]||'';
+  assert.ok(/tabindex="0"/.test(region)&&/role="region"/.test(region)&&/aria-labelledby="g2s1-mathematics-08-table-caption"/.test(region)&&/aria-describedby="g2s1-mathematics-08-table-help"/.test(region),'Product table has named keyboard-scroll region and instructions');
+  const css=await read('lesson.css');
+  assert.ok(/\.lesson-table-scroll table\.multiplication-chart\s*\{[^}]*min-width:\s*680px/.test(css),'Product table has room for ten product columns plus labels');
+  assert.ok(/\.lesson-table-scroll \.multiplication-chart th:first-child\s*\{[^}]*width:\s*110px;[^}]*white-space:\s*normal/.test(css),'Long corner and row labels have a wider wrapping column');
+ }
+
  assert.ok(html.includes('課綱主題採跨版本參考編排'));
  assert.ok(html.includes('不會传送')||html.includes('不會傳送'));
  for(const [,link] of html.matchAll(/(?:href|src)="([^"]+)"/g)){
