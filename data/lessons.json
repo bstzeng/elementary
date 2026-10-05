@@ -199,6 +199,12 @@
     "g2s1-life-10",
     "g2s1-life-11",
     "g2s1-life-12",
+    "g2s1-language-choice-08",
+    "g2s1-language-choice-09",
+    "g2s2-mandarin-01",
+    "g2s2-mandarin-02",
+    "g2s2-mandarin-03",
+    "g2s2-mandarin-04",
     "g2s2-mathematics-01",
     "g2s2-mathematics-02",
     "g2s2-mathematics-03",
@@ -211,6 +217,12 @@
     "g2s2-mathematics-10",
     "g2s2-mathematics-11",
     "g2s2-mathematics-12",
-    "g2s2-mathematics-currency"
+    "g2s2-mathematics-currency",
+    "g2s2-life-01",
+    "g2s2-life-02",
+    "g2s2-life-03",
+    "g2s2-life-04",
+    "g2s2-language-choice-08",
+    "g2s2-language-choice-09"
   ]
 }
