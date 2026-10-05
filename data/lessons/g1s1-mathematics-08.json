@@ -1,0 +1,206 @@
+{
+  "id": "g1s1-mathematics-08",
+  "course": "數學",
+  "title": "10以內的加法",
+  "subtitle": "看清全部在10以內，用操作、接著數和十格板算加法。",
+  "duration": "建議2節，每節35–40分鐘；家庭可分成每次10–15分鐘。",
+  "materials": [
+    "10個大紙片或大積木",
+    "空白十格板",
+    "0–10數字帶",
+    "兩色粗筆",
+    "加法卡，兩數合計不超過10"
+  ],
+  "goals": [
+    "能以點數或接著數求10以內的和",
+    "能運用十格板和已知分合協助加法",
+    "能用實物理解交換兩群順序總量不變",
+    "能檢查計數步數與算式是否一致"
+  ],
+  "intro": "今天的加法小工坊只處理合起來不超過10的數量。可以慢慢排、接著數，再找一種方法確認，熟練不等於搶快。",
+  "sections": [
+    {
+      "id": "g1s1-mathematics-08-s01",
+      "title": "第一種方法：全部重新數",
+      "childText": "兩群都放好，再數全部。",
+      "html": "<p>算3＋2，先放3個藍片、2個橘片。從第一片開始逐一數1、2、3、4、5，所以3＋2＝5。</p><ol><li>分別確認兩群是3和2。</li><li>把兩群排成整齊的一列，每片只指一次。</li><li>圈住全部5個，對照算式。</li></ol><details><summary>給大人的觀察與引導</summary><p>全部重數是有效策略，不應禁止。熟悉後再引出較省力的接著數，避免要求心算卻失去數量概念。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-08-s02",
+      "title": "第二種方法：記住4，接著數2次",
+      "childText": "原來4，加入的兩個讀5、6。",
+      "html": "<p>算4＋2，知道原有4個後，不必把它們重新點數。心裡記4，加入第一個時說5，加入第二個時說6，得到4＋2＝6。</p><div class=\"example\"><p>4是起點，不算新加入的一次。真正數的兩次是5、6；若說4、5就停，只增加了1個。</p></div><ol><li>在數字帶4站好。</li><li>向右移一格到5，再移一格到6。</li><li>用2個新圓片對應2次移動，檢查沒有多跳。</li></ol>"
+    },
+    {
+      "id": "g1s1-mathematics-08-s03",
+      "title": "十格板把5看得清楚",
+      "childText": "上排5個，下面再放3個。",
+      "html": "<figure><svg viewBox=\"0 0 360 157\" role=\"img\" aria-labelledby=\"g1s1-mathematics-08-five-three\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-08-five-three\">十格板每板10格，每格一點；依序放滿前面的板，圖中全部有8個圓點。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">8個</text><rect x=\"15\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"87\" r=\"10\" fill=\"#ad582e\"/><rect x=\"45\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"87\" r=\"10\" fill=\"#ad582e\"/><rect x=\"75\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"87\" r=\"10\" fill=\"#ad582e\"/><rect x=\"105\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><rect x=\"135\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><text x=\"180\" y=\"145\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">全部 8 個</text></svg><figcaption>十格板每板10格，每格一點；依序放滿前面的板，圖中全部有8個圓點。</figcaption></figure><p>算5＋3，先把上排5格放滿，再在下排放3個。每格一片，共8片，所以5＋3＝8。下排仍空2格，和整板10格相符。</p><div class=\"example\"><p>再做5＋4：上排5、下排4，共9。算5＋0：下排沒有新增，仍是5。</p></div><details><summary>給大人的觀察與引導</summary><p>空格只是用來檢查排放，不把本課轉成未知加數求解。孩子仍可逐一數，不必一眼看出。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-08-s04",
+      "title": "交換兩群，總量相同",
+      "childText": "2加5和5加2，都是7。",
+      "html": "<p>左邊2個、右邊5個，合起是7個。把兩群左右交換，沒有增加或拿走，仍有7個，所以2＋5＝7，5＋2＝7。</p><ol><li>用相同的7片實際換位。</li><li>說兩個算式各群在哪裡。</li><li>算2＋5時，也可以記住較多的5，接著數6、7。</li></ol><details><summary>給大人的觀察與引導</summary><p>用併加情境支持換序，不要求背正式定律名稱。成人仍要接受從2數五次等正確方法，重點是能說明。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-08-s05",
+      "title": "剛好滿10的好朋友",
+      "childText": "6和4合起，十格剛好滿。",
+      "html": "<figure><svg viewBox=\"0 0 360 157\" role=\"img\" aria-labelledby=\"g1s1-mathematics-08-full-ten\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-08-full-ten\">十格板每板10格，每格一點；依序放滿前面的板，圖中全部有10個圓點。</title><text x=\"90\" y=\"28\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">10個</text><rect x=\"15\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"75\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"105\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"135\" y=\"42\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"57\" r=\"10\" fill=\"#246b9e\"/><rect x=\"15\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"30\" cy=\"87\" r=\"10\" fill=\"#246b9e\"/><rect x=\"45\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"60\" cy=\"87\" r=\"10\" fill=\"#ad582e\"/><rect x=\"75\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"87\" r=\"10\" fill=\"#ad582e\"/><rect x=\"105\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"120\" cy=\"87\" r=\"10\" fill=\"#ad582e\"/><rect x=\"135\" y=\"72\" width=\"30\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"87\" r=\"10\" fill=\"#ad582e\"/><text x=\"180\" y=\"145\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">全部 10 個</text></svg><figcaption>十格板每板10格，每格一點；依序放滿前面的板，圖中全部有10個圓點。</figcaption></figure><p>拿6個藍片和4個橘片排十格板，全部10格滿，6＋4＝10。再用7和3、8和2各排一次，會發現分法不同，總量都可為10。</p><div class=\"example\"><p>已知道4＋4＝8，再放1個得到4＋5＝9，也是一種理解加法的方法。先用實物示範，不必背技巧名稱。</p></div><details><summary>給大人的觀察與引導</summary><p>所有例題的和皆不超過10，沒有需要進位或引入乘法的情況。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-08-s06",
+      "title": "實作：兩種方法驗同一題",
+      "childText": "算出答案，再換方法確認。",
+      "html": "<ol><li>抽6＋2，先用接著數：記6，說7、8。</li><li>另排6個與2個，全部數到8。</li><li>比較兩次答案是否相同，若不同先查起點是否也算了一次。</li><li>伙伴抽另一題，例如3＋4，自己選方法再解釋。</li></ol><p>不做限時搶答。可以記錄「我用接著數」「我用十格板」，讓自己知道什麼方法幫得上忙。</p>"
+    },
+    {
+      "id": "g1s1-mathematics-08-s07",
+      "title": "出口：短故事和錯誤分析",
+      "childText": "答案要放回故事裡。",
+      "html": "<p>架上有6本書，又放3本，6＋3＝9，現在9本。若有人從6開始說6、7、8就答8，請他用3張新書圖對應7、8、9，發現起點6不是新書。</p><div class=\"example\"><p>算式有0也仔細看：0＋7＝7；7＋0＝7。加0時沒有新物品，總量不會變成0。</p></div><details><summary>給大人的觀察與引導</summary><p>孩子自行指出一種常見錯誤並用動作修正，比一次答對更多題更能看出理解。</p></details>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與前提</h3><p>本課是N-1-3基本加法的起步練習，所有算式的和不超過10；較大的基本加法另在後續內容發展。開始前確定學生理解加法合群意義，能以實物解2加3。若只會背算式而不能演出數量，應回到上一課。練習目標是理解與逐步熟練，不以秒數排名，也不要求每位孩子同時改用相同心算策略。</p><h3>第1節：兩種計數策略</h3><p>5分鐘復習3加2的全部數；10分鐘建立4加2的接著數；10分鐘數字帶起點與兩次移動對應；10分鐘5加3、5加4的十格板；5分鐘口述自己的方法。教接著數時，起點卡和新增圓片分開擺，加入第一片才讀下一個數，教師要觀察實際增加次數而非只聽末尾答案。</p><h3>第2節：分合和換序</h3><p>5分鐘回顧一題；10分鐘兩群換位比較2加5與5加2；10分鐘6和4、7和3、8和2滿十格操作；10分鐘兩種方法驗算與生活故事；5分鐘個別離堂。可在不同天安排短練，每次混合已理解的數組，避免長時間同一式的抄寫。交換群組只是在說總量不變，不用要求背正式性質名稱。</p><h3>錯誤回饋</h3><p>4加2得5通常是把4也數成新的一次，請孩子將兩個新增圓片各移一次並配5、6。5加3得3是只報新群，需圈全部。加0得0時，問原本7個是否被拿走，實際重演沒有加入的情況。十格板多放一格或疊放時，先修正一格一片，再對照算式的兩部分，不用只說計算粗心。</p><h3>差異化與挑戰</h3><p>支持組使用和不超過5、可摸的大積木或預先擺好的第一群，保留全部重數；語文需求者選方法圖卡或用手勢示意。已熟練者比較兩種正確策略所需步數，或設計一道容易把起點算錯的題並教伙伴修正，不把挑戰變成超範圍大數或乘法。動作需求者可指示成人在數字帶移動，視覺需求者使用高對比大格和明確邊界。</p><h3>評量及後續</h3><p>個別觀察一題全部數、一題接著數或十格板、一題加0與一個生活故事，記錄數量對應、策略步數、結果及說明。選擇題若對但無法解釋，可用相同數量換材料重試，檢查是否猜測。記錄孩子最可靠的方法，下一次從那裡延伸；不因為需要教具就判定不會。安全上只用大圓片，不使用可吞小物或以糖果數量獎懲速度。</p>",
+  "exercises": [
+    {
+      "id": "g1s1-mathematics-08-q01",
+      "question": "3＋2＝？",
+      "options": [
+        "4",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "hint": "各排3片和2片，再數全部。",
+      "explanation": "3片與2片合起逐一點數共有5片，所以答案是5。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q02",
+      "question": "4＋2接著數，應說哪兩個數？",
+      "options": [
+        "4、5",
+        "5、6",
+        "6、7"
+      ],
+      "answer": 1,
+      "hint": "4已經是原有數量。",
+      "explanation": "加入第一個說5，第二個說6；起點4不算新增的一次。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q03",
+      "question": "5＋3＝？",
+      "options": [
+        "8",
+        "7",
+        "9"
+      ],
+      "answer": 0,
+      "hint": "十格板上排5，下排3。",
+      "explanation": "5個加上3個，逐一接著數6、7、8，共8個。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q04",
+      "question": "2＋5與5＋2，結果怎樣？",
+      "options": [
+        "都等於7",
+        "不同",
+        "前者比較大"
+      ],
+      "answer": 0,
+      "hint": "只是交換兩群位置。",
+      "explanation": "兩式都合起同樣的2個與5個，總量都是7。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q05",
+      "question": "6＋4＝？",
+      "options": [
+        "9",
+        "8",
+        "10"
+      ],
+      "answer": 2,
+      "hint": "兩群排進十格板。",
+      "explanation": "6個和4個剛好放滿10格，所以6＋4＝10。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q06",
+      "question": "7＋0＝？",
+      "options": [
+        "0",
+        "7",
+        "10"
+      ],
+      "answer": 1,
+      "hint": "原來7個，沒有加入新物品。",
+      "explanation": "加0不會拿走原物品，原來7個全部仍在。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q07",
+      "question": "算6＋2，從6站好後向右走幾格？",
+      "options": [
+        "6格",
+        "8格",
+        "2格"
+      ],
+      "answer": 2,
+      "hint": "要加入的數量是多少？",
+      "explanation": "加入2個對應向右走2格，從6經7到8。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q08",
+      "question": "6本書又放3本，現在有幾本？",
+      "options": [
+        "9本",
+        "8本",
+        "3本"
+      ],
+      "answer": 0,
+      "hint": "記6，再數3次。",
+      "explanation": "接著數7、8、9，現在共有9本書。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q09",
+      "question": "4＋5＝？",
+      "options": [
+        "7",
+        "9",
+        "8"
+      ],
+      "answer": 1,
+      "hint": "可記5，接著數4次。",
+      "explanation": "5之後數6、7、8、9，所以4＋5＝9。"
+    },
+    {
+      "id": "g1s1-mathematics-08-q10",
+      "question": "算出6＋2＝8，哪種方法適合檢查？",
+      "options": [
+        "另擺6個與2個，數全部",
+        "把答案改得更大",
+        "只看數字字體"
+      ],
+      "answer": 0,
+      "hint": "用數量重新驗證。",
+      "explanation": "實物兩群合起有8個，能確認原算式的答案。"
+    }
+  ],
+  "selfCheck": [
+    "我能用一種可靠方法算加法。",
+    "接著數時，我不把起點當新增一次。",
+    "我知道交換兩群不改變總數。",
+    "我會用另一種表示檢查。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱的年級內容為範圍參考；本頁活動、情境、例題與圖為原創，單元先後及建議節數不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件（國民中小學暨普通型高中）",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "已核對正式附件的一年級學習內容（印刷頁19–20）；依本課主題取適當的入門範圍，不要求一次完成全年內容。"
+    }
+  ]
+}

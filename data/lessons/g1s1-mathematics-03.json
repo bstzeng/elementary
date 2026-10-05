@@ -1,0 +1,206 @@
+{
+  "id": "g1s1-mathematics-03",
+  "course": "數學",
+  "title": "順序、位置與序數",
+  "subtitle": "先說從哪裡開始，再找第幾個。",
+  "duration": "建議2節，每節35–40分鐘；家庭可分成每次10–15分鐘。",
+  "materials": [
+    "5個不同動物的大圖卡",
+    "一張起點箭頭卡",
+    "1–5數字卡",
+    "有上下兩層的紙架圖",
+    "大紙與筆"
+  ],
+  "goals": [
+    "能區分幾個與第幾個",
+    "能依指定起點和方向找第1–5個",
+    "能用前後、上下描述相對位置",
+    "能解釋換起點時同一物品的序數可能不同"
+  ],
+  "intro": "五隻小動物排隊看畫展。誰是第2個？要先找到起點，否則每個人可能指向不同動物。",
+  "sections": [
+    {
+      "id": "g1s1-mathematics-03-s01",
+      "title": "一共有幾個，問的是全部",
+      "childText": "圈全部，說總數。",
+      "html": "<p>把動物由左到右排成：兔、貓、狗、熊、鳥。逐張點數，共有5張卡。「有幾個」是在問整排的數量，回答5個。</p><div class=\"example\"><p>問「共有幾隻？」圈住全部回答5隻。問「從左邊數第2隻是誰？」只指貓。兩種問題都出現數字，但意思不同。</p></div>"
+    },
+    {
+      "id": "g1s1-mathematics-03-s02",
+      "title": "第幾個，要有起點",
+      "childText": "箭頭開始，第1個也要數。",
+      "html": "<p>起點卡放在兔的左邊，箭頭向右。從左向右說：兔第1、貓第2、狗第3、熊第4、鳥第5。</p><ol><li>先指起點並說「從左邊開始」。</li><li>每張卡說一個序數，不跳過第一張。</li><li>找第4張，手停在熊上。</li></ol><details><summary>給大人的觀察與引導</summary><p>成人與孩子站在同一側看桌面，先避免面對面左右相反造成額外困難。把方向用箭頭畫出來，不能只說「找第二個」卻沒有起點。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-03-s03",
+      "title": "換一端開始，第幾個會變",
+      "childText": "同一排，從右邊重新數。",
+      "html": "<figure><svg viewBox=\"0 0 360 327\" role=\"img\" aria-labelledby=\"g1s1-mathematics-03-two-starts\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-03-two-starts\">動物始終由左到右為兔、貓、狗、熊、鳥。從左起貓第2；從右起貓第4。上下兩列表示同一排的兩種數法。</title><path d=\"M20 28 H332\" stroke=\"#337e68\" stroke-width=\"4\"/><path d=\"M322 18 L342 28 L322 38\" fill=\"#337e68\"/><text x=\"180\" y=\"15\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">從左開始 →</text><rect x=\"9\" y=\"55\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"36\" y=\"85\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">兔</text><text x=\"36\" y=\"137\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第1</text><rect x=\"81\" y=\"55\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"108\" y=\"85\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">貓</text><text x=\"108\" y=\"137\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第2</text><rect x=\"153\" y=\"55\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"180\" y=\"85\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">狗</text><text x=\"180\" y=\"137\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第3</text><rect x=\"225\" y=\"55\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"252\" y=\"85\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">熊</text><text x=\"252\" y=\"137\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第4</text><rect x=\"297\" y=\"55\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"324\" y=\"85\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">鳥</text><text x=\"324\" y=\"137\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第5</text><path d=\"M340 195 H28\" stroke=\"#337e68\" stroke-width=\"4\"/><path d=\"M38 185 L18 195 L38 205\" fill=\"#337e68\"/><text x=\"180\" y=\"182\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">← 從右開始</text><rect x=\"9\" y=\"222\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"36\" y=\"252\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">兔</text><text x=\"36\" y=\"304\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第5</text><rect x=\"81\" y=\"222\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"108\" y=\"252\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">貓</text><text x=\"108\" y=\"304\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第4</text><rect x=\"153\" y=\"222\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"180\" y=\"252\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">狗</text><text x=\"180\" y=\"304\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第3</text><rect x=\"225\" y=\"222\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"252\" y=\"252\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">熊</text><text x=\"252\" y=\"304\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第2</text><rect x=\"297\" y=\"222\" width=\"54\" height=\"48\" rx=\"8\" fill=\"#edf7f3\" stroke=\"#337e68\"/><text x=\"324\" y=\"252\" text-anchor=\"middle\" font-size=\"24\" fill=\"#193c34\">鳥</text><text x=\"324\" y=\"304\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">第1</text></svg><figcaption>動物始終由左到右為兔、貓、狗、熊、鳥。從左起貓第2；從右起貓第4。上下兩列表示同一排的兩種數法。</figcaption></figure><p>動物完全不移動，改從右向左數：鳥第1、熊第2、狗第3、貓第4、兔第5。貓從左數第2，從右數第4。卡片沒換位置，只是起點改了。</p><div class=\"example\"><p>核對例：熊從左數第4，從右數第2。整排仍有5隻。</p></div><details><summary>給大人的觀察與引導</summary><p>不教「總數減序數再加1」等公式。用手沿箭頭逐張數，讓孩子看到同一對象可以用不同起點定位。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-03-s04",
+      "title": "前後是相對的",
+      "childText": "先說誰在隊伍最前面。",
+      "html": "<p>現在明確約定兔是隊伍最前面，後面依序是貓、狗、熊、鳥。狗前面緊鄰貓，後面緊鄰熊。說「狗的前面」要以狗為參考，不能只看哪張離自己近。</p><ol><li>把一支大箭頭指向隊伍前進方向。</li><li>指狗，找緊鄰牠前面的貓。</li><li>再指熊，找緊鄰牠後面的鳥。</li></ol><details><summary>給大人的觀察與引導</summary><p>「前面有哪些」可能指多個對象；本段用「緊鄰」表示只找旁邊那一位，題目要把範圍說清楚。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-03-s05",
+      "title": "上面與下面，也要有參考",
+      "childText": "說「誰的上面」，讓人聽明白。",
+      "html": "<p>在紙上畫兩層架子。上層放兔卡，下層放熊卡。兔在熊上面，熊在兔下面。把兩張交換後再說一次，不能認定兔永遠是上面。</p><div class=\"example\"><p>只有「放在上面」可能不清楚；說「放在熊卡上方的格子」比較容易找到。</p></div><details><summary>給大人的觀察與引導</summary><p>不必要求孩子攀高找物，所有操作在桌面紙圖上。此段練描述相對位置，不是以紙張上下表示實物高度。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-03-s06",
+      "title": "動手：你說路標，我來放卡",
+      "childText": "說起點、方向和第幾個。",
+      "html": "<ol><li>擺5個空格，貼一張起點箭頭。</li><li>孩子口說「從左邊數第3格放狗」，成人照做。</li><li>成人再說另一個位置，孩子放卡。</li><li>抽掉箭頭，討論為什麼「第2格」不夠清楚，再補回。</li></ol><p>能完整說明比答得快更重要。說話不便時可以先指箭頭，再舉序數卡，由成人讀出指令。</p>"
+    },
+    {
+      "id": "g1s1-mathematics-03-s07",
+      "title": "檢查：整排與其中一個",
+      "childText": "圈5個，點第5個。",
+      "html": "<p>仍用兔、貓、狗、熊、鳥這一排，依次做兩件事：圈住5張卡；從左起只指第5張。再把鳥移到最左邊，重新找第2張。新的排列為鳥、兔、貓、狗、熊，第2張是兔。</p><details><summary>給大人的觀察與引導</summary><p>記錄孩子是否會重新依排列數，而非背「第2一定是貓」。總量仍是5，但換位後序數可以改變。</p></details>"
+    }
+  ],
+  "teachingHtml": "<h3>課程定位與前測</h3><p>本課是N-1-1中用數表達順序的操作入門，並以日常位置語詞協助溝通。學生需先能點數1–5，無須先寫出「序數」一詞。前測擺3張卡，分別問共有幾張、從指定端第2張在哪裡，觀察是否都圈全部，或兩題都只指一張。前後、左右的參考系須說清楚，不能把成人心中的起點當成孩子應該猜到的答案。</p><h3>第1節：數量與順序</h3><p>5分鐘點數動物卡；10分鐘比較圈全部與只指第幾張；10分鐘從左端依序配1–5卡；10分鐘換右端重數並比較同一動物；5分鐘離堂由成人指定新的三張卡和方向。每次先問起點，再問答案，允許孩子沿途說第1、第2，不以直接看出作為唯一成功表現。</p><h3>第2節：用位置發指令</h3><p>5分鐘回顧兩端起點；8分鐘設立隊伍前進箭頭，練緊鄰的前後；7分鐘在紙架練上下參考；15分鐘兩人交換放卡指令；5分鐘做新排列個別評量。成人可故意省略起點請孩子補問「從哪邊？」這是合理澄清，不能扣分。全班活動仍要讓每位孩子輪到發指令，不能只由最快的同學回答。</p><h3>錯誤分析與補救</h3><p>若孩子從第二張才說第1，請手指先停在起點旁，移入第一格時才說第1。若把5個和第5個混淆，用圈整排與框單格兩種手勢並排。若反轉方向卻沿用原答案，保持卡片不動並逐張貼新序數，再比較。前後混淆時，讓所有紙偶朝同一個隊伍前方，以箭頭取代從孩子站位猜方向。</p><h3>差異化</h3><p>起步只用3張大圖卡，箭頭保持可見，先做一種方向；穩定後增到5張並輪流改端。進階讓孩子找同一張卡的兩種說法，或檢查別人的指令是否缺參考點，不使用序數計算公式。視覺需要者用觸感不同的大卡且位置固定；動作需要者口說或眼神指選，成人代移卡；文字困難者用圖案而非人名，避免語文負荷掩蓋序數能力。</p><h3>安全、評量與遷移</h3><p>只用桌上紙偶或大卡，不讓孩子在人多走道倒退排隊。以新卡片觀察三項：先確認方向、逐項數至目標、分辨總量與單一位置，各記獨立、提示後、需示範。最後可用書架圖說從上數第2層，但不讓孩子爬架子；生活中的候位號碼未必就是眼前第幾個，成人不要以排隊號碼作未說明的等同例。</p>",
+  "exercises": [
+    {
+      "id": "g1s1-mathematics-03-q01",
+      "question": "由左到右是兔、貓、狗、熊、鳥。一共有幾隻？",
+      "options": [
+        "4隻",
+        "5隻",
+        "第5隻"
+      ],
+      "answer": 1,
+      "hint": "問的是整排有多少。",
+      "explanation": "5張卡表示5隻動物；第5隻是在說位置。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q02",
+      "question": "同一排從左數第2隻是？",
+      "options": [
+        "兔",
+        "狗",
+        "貓"
+      ],
+      "answer": 2,
+      "hint": "從兔開始說第1。",
+      "explanation": "從左邊的兔開始，第1是兔，第2就是貓。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q03",
+      "question": "兔、貓、狗、熊、鳥，從右數第1隻是？",
+      "options": [
+        "鳥",
+        "兔",
+        "熊"
+      ],
+      "answer": 0,
+      "hint": "右端在哪裡？",
+      "explanation": "從右端開始，第一張碰到的是鳥，所以鳥是第1隻。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q04",
+      "question": "同一排從右數第2隻是？",
+      "options": [
+        "貓",
+        "熊",
+        "狗"
+      ],
+      "answer": 1,
+      "hint": "先鳥第1，再往左。",
+      "explanation": "從右邊先數鳥第1，再向左數熊第2。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q05",
+      "question": "「5個」和「第5個」有什麼不同？",
+      "options": [
+        "完全一樣",
+        "前者說數量，後者說位置",
+        "都只說顏色"
+      ],
+      "answer": 1,
+      "hint": "一個要圈全部，一個只點其中一個。",
+      "explanation": "5個描述總量，第5個需依起點找指定位置。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q06",
+      "question": "兔是隊伍最前面，接著貓、狗、熊、鳥。狗後面緊鄰誰？",
+      "options": [
+        "兔",
+        "貓",
+        "熊"
+      ],
+      "answer": 2,
+      "hint": "從狗往隊伍後方找一位。",
+      "explanation": "已約定兔是最前面；從狗往隊伍後方緊鄰的是熊。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q07",
+      "question": "兔卡在上層，熊卡在下層。熊在兔的哪裡？",
+      "options": [
+        "下面",
+        "上面",
+        "無法知道"
+      ],
+      "answer": 0,
+      "hint": "兩層已經說清楚。",
+      "explanation": "兔在上層、熊在下層，以兔為參考，熊位於下面。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q08",
+      "question": "只說「找第2個」，卻沒有起點，最好先問？",
+      "options": [
+        "一共有幾種顏色？",
+        "從哪一邊開始？",
+        "誰跑得最快？"
+      ],
+      "answer": 1,
+      "hint": "同一排可以從兩端開始。",
+      "explanation": "先確定起點和方向，才有明確的第2個。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q09",
+      "question": "兔、貓、狗、熊、鳥，把鳥移到最左邊，新排從左第2隻是？",
+      "options": [
+        "貓",
+        "鳥",
+        "兔"
+      ],
+      "answer": 2,
+      "hint": "新排列是鳥、兔、貓、狗、熊。",
+      "explanation": "新排列從左開始是鳥、兔；鳥第1，兔第2。"
+    },
+    {
+      "id": "g1s1-mathematics-03-q10",
+      "question": "卡片沒增減，只換起點方向，整排數量會如何？",
+      "options": [
+        "仍相同",
+        "一定變多",
+        "一定變少"
+      ],
+      "answer": 0,
+      "hint": "有任何卡片拿走或加入嗎？",
+      "explanation": "沒有增減卡片，總量不變；各卡的序數可能改變。"
+    }
+  ],
+  "selfCheck": [
+    "我會分開「幾個」和「第幾個」。",
+    "我會先找起點和方向。",
+    "我能用參考物說前後上下。",
+    "換位置後，我會重新確認。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "課綱的年級內容為範圍參考；本頁活動、情境、例題與圖為原創，單元先後及建議節數不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件（國民中小學暨普通型高中）",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "已核對正式附件的一年級學習內容（印刷頁19–20）；依本課主題取適當的入門範圍，不要求一次完成全年內容。"
+    }
+  ]
+}
