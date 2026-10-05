@@ -343,3 +343,9 @@ select:focus-visible { outline: 3px solid #bd7135; outline-offset: 3px; }
 .language-framework summary { display: flex; align-items: center; justify-content: space-between; gap: 8px; cursor: pointer; min-height: 44px; font-size: 11px; color: var(--green); list-style: none; }
 .language-framework p { font-size: 11px; color: var(--muted); }
 .language-framework section + section { border-top: 1px dashed #d4dfcb; margin-top: 13px; padding-top: 2px; }
+
+/* Opened teaching content: only the first topic of each G1S1 course. */
+.start-lesson { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 46px; padding: 10px 13px; margin: 0 0 15px; border: 1px solid #b8ceb0; border-radius: 8px; background: #edf5e7; color: #275c40; font-size: 12px; font-weight: 700; text-decoration: none; }
+.start-lesson:hover { background: #dfeeda; }
+.topic-lesson-link { display: inline-block; min-height: 44px; font-weight: 650; }
+.lesson-open-label { display: block; width: fit-content; color: #275c40; background: #edf5e7; padding: 1px 6px; border-radius: 4px; font-size: 10px; margin-top: 3px; text-decoration: none; }

@@ -1,0 +1,239 @@
+{
+  "id": "g1s1-mathematics-01",
+  "course": "數學",
+  "title": "10以內的數與數量",
+  "subtitle": "一個一個數，知道有多少，再拿出一樣多。",
+  "duration": "建議3節，每節35–40分鐘；家庭可分成每次10分鐘的短活動。",
+  "materials": [
+    "10個相同且夠大的積木或紙圓片",
+    "兩張紙盤或兩塊桌墊，用來分開已數與未數的物品",
+    "1–10數字卡",
+    "紙製十格板：上下兩排，每排5格",
+    "鉛筆、大格紙、玩具杯或空筆筒"
+  ],
+  "goals": [
+    "能依序說出1到10，且一件物品只配一個數。",
+    "數完後能說出全部有幾個，不把最後一件當成全部的意思。",
+    "能把1–10的數字卡和相同數量的物品配對。",
+    "能依指定數字拿出相同數量，數到指定數就停。",
+    "知道物品只換位置或排開，沒有增減時數量不變。",
+    "能用十格板整理數量，並說明自己怎麼確認。"
+  ],
+  "intro": "桌上有幾個積木？今天一起當「數量小幫手」。我們會一個一個數、把數字和東西配在一起，還要幫玩具拿出剛剛好的用品。先從1到5開始，熟了再到10。",
+  "sections": [
+    {
+      "id": "g1s1-mathematics-01-s1",
+      "title": "暖身：讓手和聲音一起走",
+      "childText": "指一個，說一個。數過的，移到另一邊。",
+      "html": "<ol><li>先把3個積木放在左邊。</li><li>移一個到右邊，說「1」。</li><li>再移一個，說「2」。</li><li>再移一個，說「3」。</li><li>看看左邊都數過了。說：「一共有3個。」</li></ol><div class=\"example\"><p><strong>小口訣：一個配一個，不漏數、不重數。</strong></p><p>可以用手指，也可以把數過的移開。慢慢數，比快快背好。</p></div><details><summary>給大人的前測與安全</summary><p>教具用不易入口的大積木或大紙片，不使用小珠子；避免食物、尖銳物與易碎物。先請孩子自由數3個，再數5個。分別記錄：數詞順序是否正確、手指與數詞是否一一對應、數完是否知道總量。會背到10，不代表具備這三項能力。</p><p>有動作需求者可由成人移物、孩子說數，或由孩子指認、成人代拿。開始只用同類物品，減少顏色和大小分心；這不是要求數量一定只能計同類物品，而是先降低操作負荷。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-01-s2",
+      "title": "1到5：最後一個數告訴我多少",
+      "childText": "每顆只數一次。數完，雙手圈住全部。",
+      "html": "<figure><svg viewBox=\"0 0 620 230\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-count-title\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-count-title\">五顆圓點，每一顆下方各有一個數字，依序為1、2、3、4、5</title><rect x=\"10\" y=\"12\" width=\"600\" height=\"196\" rx=\"20\" fill=\"#edf7f3\"/><circle cx=\"70\" cy=\"78\" r=\"28\" fill=\"#337e68\"/><path d=\"M70 116V140\" stroke=\"#337e68\" stroke-width=\"3\"/><text x=\"70\" y=\"177\" text-anchor=\"middle\" font-size=\"35\" fill=\"#193c34\">1</text><circle cx=\"190\" cy=\"78\" r=\"28\" fill=\"#337e68\"/><path d=\"M190 116V140\" stroke=\"#337e68\" stroke-width=\"3\"/><text x=\"190\" y=\"177\" text-anchor=\"middle\" font-size=\"35\" fill=\"#193c34\">2</text><circle cx=\"310\" cy=\"78\" r=\"28\" fill=\"#337e68\"/><path d=\"M310 116V140\" stroke=\"#337e68\" stroke-width=\"3\"/><text x=\"310\" y=\"177\" text-anchor=\"middle\" font-size=\"35\" fill=\"#193c34\">3</text><circle cx=\"430\" cy=\"78\" r=\"28\" fill=\"#337e68\"/><path d=\"M430 116V140\" stroke=\"#337e68\" stroke-width=\"3\"/><text x=\"430\" y=\"177\" text-anchor=\"middle\" font-size=\"35\" fill=\"#193c34\">4</text><circle cx=\"550\" cy=\"78\" r=\"28\" fill=\"#337e68\"/><path d=\"M550 116V140\" stroke=\"#337e68\" stroke-width=\"3\"/><text x=\"550\" y=\"177\" text-anchor=\"middle\" font-size=\"35\" fill=\"#193c34\">5</text></svg><figcaption>一顆圓點配一個數。最後數到5，所以一共有5顆。</figcaption></figure><ol><li>照著圖，指圓點說「1、2、3、4、5」。</li><li>用手勢圈住全部，說「這裡一共有5顆」。</li><li>拿數字卡5，放在圓點旁。</li><li>把數量換成2顆或4顆，再做一次。</li></ol><div class=\"task-card\"><h3>換你做</h3><p>請大人放4個積木。你數完後，告訴玩具：「一共有＿＿個。」</p></div><details><summary>給大人的核心概念：總數</summary><p>「最後說出的數表示這一群物品的總數」是本段重點。孩子數到5後問「一共有多少」，若又從頭背，可讓他手掌圈住整群，成人示範「最後數到5，所以全部有5個」。重數可以當作檢查，不必禁止；只是逐步讓孩子理解最後的數詞可代表整群。</p><p>不要說「最後這顆就是5個」。最後這顆仍是一顆，數詞5表示連同前面一起的總量。每次更換2、3、4、5等小量，不能只會回答固定一組。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-01-s3",
+      "title": "排開、靠近，還是一樣多",
+      "childText": "只換位置，再數數看。",
+      "html": "<figure><svg viewBox=\"0 0 640 240\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-layout-title\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-layout-title\">上排五顆圓點靠近，下排同樣五顆圓點排開。兩排都是五顆。</title><rect x=\"5\" y=\"5\" width=\"630\" height=\"226\" rx=\"18\" fill=\"#f8f4e7\"/><text x=\"25\" y=\"48\" font-size=\"20\" fill=\"#333\">靠近放</text><text x=\"25\" y=\"151\" font-size=\"20\" fill=\"#333\">排開放</text><circle cx=\"220\" cy=\"55\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"264\" cy=\"55\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"308\" cy=\"55\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"352\" cy=\"55\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"396\" cy=\"55\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"180\" cy=\"155\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"275\" cy=\"155\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"370\" cy=\"155\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"465\" cy=\"155\" r=\"17\" fill=\"#a85a31\"/><circle cx=\"560\" cy=\"155\" r=\"17\" fill=\"#a85a31\"/></svg><figcaption>只移動位置，沒有放入或拿走。數量沒有變。</figcaption></figure><ol><li>把5個積木靠近排好，數一次。</li><li>請大人看著你把同一批積木排開。</li><li>問：「有放入新的嗎？有拿走嗎？」</li><li>再數一次，說：「還是5個。」</li></ol><div class=\"example\"><p>隊伍變長，不一定人變多。要看有幾個，不能只看排得多長。</p></div><details><summary>給大人的追問與補救</summary><p>若孩子認為排開後變多，先接受他所見的「這排比較長」，再追問「長度和有幾個是一樣的問題嗎？」將上下兩排一一配對，或由孩子親自移動同一組教具並重新點數。不要只反覆告訴他「就是一樣」。</p><p>再做6顆排圈、4顆排方形等變化。這裡不教大小比較符號、數序或數量差，只建立不受排列外觀誤導的點數與數量概念。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-01-s4",
+      "title": "認識1到10的數字卡",
+      "childText": "先看數字，再指圖中的圓點。",
+      "html": "<p>每張卡都有數字和圓點。今天先看1–5，下一次再看6–10。</p><div class=\"task-card\"><h3>1　一</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-1\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-1\">1個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有1個。</p></div><div class=\"task-card\"><h3>2　二</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-2\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-2\">2個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有2個。</p></div><div class=\"task-card\"><h3>3　三</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-3\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-3\">3個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有3個。</p></div><div class=\"task-card\"><h3>4　四</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-4\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-4\">4個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有4個。</p></div><div class=\"task-card\"><h3>5　五</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-5\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-5\">5個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有5個。</p></div><div class=\"task-card\"><h3>6　六</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-6\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-6\">6個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"35\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有6個。</p></div><div class=\"task-card\"><h3>7　七</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-7\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-7\">7個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"35\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有7個。</p></div><div class=\"task-card\"><h3>8　八</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-8\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-8\">8個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"35\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有8個。</p></div><div class=\"task-card\"><h3>9　九</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-9\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-9\">9個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"35\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有9個。</p></div><div class=\"task-card\"><h3>10　十</h3><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-card-10\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-card-10\">10個圓點的十格圖</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"35\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/></svg><p>指一個，說一個；最後說：有10個。</p></div><details><summary>給大人的卡片用法</summary><p>讓孩子將真實積木、點圖、口說數詞、數字卡四種表示互相配對。先數點圖再找數字，之後反過來看數字拿物品；兩種方向都要練。十格圖只是整理工具，不是一定要照圖樣才算對。</p><p>看見10時把整張卡讀成「十」，並拿出10個。0的獨立意義與位值另在後續主題處理，本課不以空集合或0的運算作練習。這裡也不要求把10拆寫成兩個數來數物品。</p><p>6、9等易混淆數字先轉正並與範卡並排，指辨後再寫；不要讓兒童靠旋轉卡片猜答案。數字書寫可先描一個、再臨寫一個，量與數字的連結比抄寫量更重要。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-01-s5",
+      "title": "十格板：讓每個圓片有位子",
+      "childText": "先排滿上面一排，再往下面排。",
+      "html": "<p>十格板有上下兩排，每排5格。一格放一個，數過就不用再找位置。</p><figure><svg viewBox=\"0 0 310 140\" role=\"img\" aria-labelledby=\"g1s1-mathematics-01-seven\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g1s1-mathematics-01-seven\">十格板上排五顆、下排兩顆，合起來共有七顆</title><rect x=\"5\" y=\"5\" width=\"300\" height=\"120\" rx=\"6\" fill=\"#fff\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M65 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M125 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M185 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M245 5V125\" stroke=\"#344c62\" stroke-width=\"2\"/><path d=\"M5 65H305\" stroke=\"#344c62\" stroke-width=\"2\"/><circle cx=\"35\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"155\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"215\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"275\" cy=\"35\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"35\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/><circle cx=\"95\" cy=\"95\" r=\"20\" fill=\"#246b9e\"/></svg><figcaption>上面一排滿了，下面還有2顆。一個一個數，最後數到7。</figcaption></figure><div data-count-board></div><ol><li>選一張數字卡，例如7。</li><li>一格放一個圓片，邊放邊數。</li><li>上排放滿，再往下排；數到7就停。</li><li>重新點數檢查，最後說「有7個」。</li><li>把任務換成6、8、9或10，再試一次。</li></ol><details><summary>給大人的操作與離線替代</summary><p>互動板若無法顯示，畫兩排各5格即可；使用紙片完成相同任務。重點是手、數詞、位置能對應。初次逐一數，熟練後可注意到「一排5個，下面還有幾個」，不必現在教加法算式或把快速辨量當硬性要求。</p><p>先用成人放片、孩子說數，再換成孩子自己控制。若兩片擠一格，請孩子一格對一片重新排；若跳格但數量正確，先肯定數量，再說明整齊排放方便檢查，不把排法當成數量真理。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-01-s6",
+      "title": "小小用品員：拿出剛剛好",
+      "childText": "看訂單，拿一個數一個。到指定數就停。",
+      "html": "<div class=\"task-card\"><h3>訂單A：4支鉛筆</h3><p>從一堆鉛筆裡，拿出4支給玩具。拿完說：「這裡有4支。」</p></div><div class=\"task-card\"><h3>訂單B：7個積木</h3><p>先看卡7，再拿積木。數到7，手停下來。</p></div><div class=\"task-card\"><h3>訂單C：10張紙片</h3><p>放進十格板，每格一張。再點一次，檢查訂單。</p></div><ol><li>一人當用品員，一人當檢查員。</li><li>檢查員一件一件數，不只看用品員的答案。</li><li>發現不合時，一起重新數，再調整。</li><li>交換角色，自己選1–10中的一張訂單。</li></ol><details><summary>給大人的觀察重點</summary><p>「給我7個」比「這裡有幾個」多了記住目標和停止點的要求。若孩子一直數下去，把數字卡7放在眼前，先讓他說出目標，再一件件取物。若認數字較弱，可先口頭給目標，不讓視認困難遮住數量能力。</p><p>一次只用一種物品和一個指令；穩定後才在鉛筆、積木、紙片中更換物品。單位詞由成人示範即可，不因孩子說「4個鉛筆」就否定正確點數。更正時先處理數量，再自然重述「對，有4支鉛筆」。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-01-s7",
+      "title": "數量、圖和數字，做成一張卡",
+      "childText": "選一個數，畫一樣多，再寫數字。",
+      "html": "<ol><li>選數字卡6。</li><li>拿6個積木，邊拿邊數。</li><li>畫6個清楚分開的圓點。</li><li>照卡寫一個6，或直接放上卡6。</li><li>請同伴數圖，看看和積木一樣多嗎？</li></ol><div class=\"example\"><p><strong>6個積木 ↔ 6個圓點 ↔ 數字6</strong></p><p>東西不同，表示的數量可以一樣。</p></div><details><summary>給大人的記錄與生活辨識</summary><p>畫圖時，每移一個實物就畫一點，建立物與圖的一一對應。孩子若畫到忘記畫幾個，可將已畫過的實物移到另一區。寫字吃力者可貼數字卡，不需要先能寫漂亮才算懂數量。</p><p>生活裡數字也可能是編號，例如座號或公車號碼，不能看見數字7就都解作7個東西。本課挑點心份數、鉛筆支數等明確數量情境；遇到號碼時只說明用途不同，不擴充成另一個編號教學單元。</p></details>"
+    },
+    {
+      "id": "g1s1-mathematics-01-s8",
+      "title": "離堂任務：幫大家準備用品",
+      "childText": "請大人出一張1–10的訂單，讓你完成。",
+      "html": "<ol><li>大人選一張你看得到的數字卡。</li><li>你拿出剛剛好的紙片或積木。</li><li>你說：「我拿了＿＿個。我一個配一個數。」</li><li>把東西換個位置，確認數量沒有變。</li><li>換你出訂單，讓大人做，再幫忙檢查。</li></ol><div class=\"task-card\"><h3>回家3分鐘</h3><p>和家人一起準備1–10件安全用品。先說要幾件，再拿，最後數一次。可以是7張紙或3個玩具杯。</p></div><details><summary>給大人的驗收與延伸</summary><p>驗收至少用一個1–5的小量及一個6–10的數量。記錄孩子能否獨立點數、報總數、讀數字、取指定數量、換排列後仍正確；每項可給一次提示並記下提示內容。離堂任務不用比速度。</p><p>熟練者可設計一張不規則點圖請同伴數，並說明如何避免重數；不必立即加大到20或教加減法。仍需支持者回到3–5個，縮小工作範圍並用移物策略。</p></details>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與課綱</h3><p>本課是數學一年級N-1-1「一百以內的數」的起步段，聚焦1–10的數詞、數字、物品數量與操作。課綱範圍不表示本課要一次教到100。0的獨立意義、位值、數的大小比較、順序與加減法由後續單元處理。以下節數為建議，不是全國統一進度。</p><h3>第1節：從背數到點數（40分鐘）</h3><ol><li><strong>5分鐘前測：</strong>讓孩子數3個與5個物品。成人不代指，只觀察哪一步困難。</li><li><strong>8分鐘示範：</strong>用左右兩個區域移動物品，一件配一個數詞。故意漏一件時讓孩子指出，再用正確模型重做。</li><li><strong>12分鐘同伴練習：</strong>一人放2–5個物品，另一人數、報總數，再交換。每次數量不同。</li><li><strong>10分鐘總數與排列：</strong>圈住全部說總量，再將同一批移開、靠近，重新驗證。</li><li><strong>5分鐘離堂：</strong>各取4個物品，說明怎麼知道是4個。</li></ol><h3>第2節：數量連到1–10與十格板（40分鐘）</h3><ol><li><strong>5分鐘回顧：</strong>用新物品數5個，檢查不只是記住原物品。</li><li><strong>8分鐘示範6–10：</strong>逐個放上十格板，從1數到目標，數到目標停。對應數字卡。</li><li><strong>15分鐘三向配對：</strong>實物找數字、數字拿實物、點圖找數字；每輪只做一種方向，再換角色。</li><li><strong>7分鐘辨形與記錄：</strong>先認6與9等容易混淆數字，仿寫或貼卡表示一群物品的數量。</li><li><strong>5分鐘離堂：</strong>抽一張6–10的卡，拿出同樣多圓片並說總數。</li></ol><h3>第3節：在生活任務中使用（35–40分鐘）</h3><p>5分鐘暖身；10分鐘用品訂單；10分鐘實物轉點圖再配數字；5分鐘換排列檢查；5–10分鐘個別評量。一次只發一個訂單，所有人輪到操作與檢查，不讓同組較快的孩子代替全組完成。</p><h3>五種常見誤解與具體補救</h3><ul><li><strong>嘴巴比手快：</strong>從3個開始，每碰到一件才說一個數；必要時讓成人用較慢節奏協同。</li><li><strong>同一件數兩次：</strong>設「還沒數／已數」兩區，或沿固定方向指，數過就移開。</li><li><strong>只會背、不知總數：</strong>最後手圈全部，重述「最後數到6，所以全部6個」，不是指最後一個說它等於6個。</li><li><strong>排得長就是多：</strong>親手移動同一群，檢查沒有放入或拿走，再一一對應或點數。</li><li><strong>看到目標還一直拿：</strong>把目標卡留在眼前，先說目標，數到相同數詞即把手放回桌上。</li></ul><h3>差異化</h3><p>需要起步支持者用1–3，再到1–5；易分心者只留當次教具、用有邊界的托盤；視覺需求者用高對比大卡和可觸摸物；動作需求者可用指選、口說指令或伙伴代放，保留孩子決定數量的權利。已熟練者解釋不同排列如何不重數、設計可檢查的點圖，不以超出10的計算取代本課目標。</p><h3>評量規準與下一步</h3><p>用紙記錄「數詞穩定／一一對應／報總數／數量配數字／取指定數／排列改變仍確認」六項，各記獨立、提示後、需示範。例：能數到10但取7個時拿8個，下一次應練停止點，不必重教全部數詞。選擇題答對只表示能理解題目，仍要現場看一次操作。至少在兩種實物與不同排列中表現穩定，才銜接後續0與數的比較主題。</p>",
+  "exercises": [
+    {
+      "id": "g1s1-mathematics-01-q1",
+      "question": "● ● ●　這裡有幾顆圓點？",
+      "options": [
+        "2顆",
+        "3顆",
+        "4顆"
+      ],
+      "answer": 1,
+      "explanation": "每顆配一個數：1、2、3。最後數到3，所以共有3顆。",
+      "hint": "從左邊開始，每顆只指一次。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q2",
+      "question": "數積木時，哪個方法比較不會漏掉？",
+      "options": [
+        "一個配一個數，數過就移開",
+        "只把1到10快快背完",
+        "只看哪一堆比較長"
+      ],
+      "answer": 0,
+      "explanation": "一件物品配一個數，並把數過的移開，可以避免漏數和重數。",
+      "hint": "手和聲音要一起走。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q3",
+      "question": "小禾把一堆積木全部數完，最後說「6」。這堆有幾個？",
+      "options": [
+        "5個",
+        "6個",
+        "只有最後一個"
+      ],
+      "answer": 1,
+      "explanation": "最後數到6，表示整堆共有6個，不只是最後那一個。",
+      "hint": "想想最後一個數告訴我們什麼。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q4",
+      "question": "同一批5個圓片，從靠近放改成排開，沒有放入或拿走。現在有幾個？",
+      "options": [
+        "5個",
+        "6個",
+        "10個"
+      ],
+      "answer": 0,
+      "explanation": "只是換位置，物品沒有增加或減少，仍然有5個。可以重新點數確認。",
+      "hint": "排得長，和有幾個，是不同問題。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q5",
+      "question": "訂單寫4個。你邊拿邊數到幾就先停？",
+      "options": [
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explanation": "目標是4個，所以拿第4個時停下來，再檢查是不是4個。",
+      "hint": "先看清楚目標卡。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q6",
+      "question": "● ● ● ● ●　● ●　應該配哪張數字卡？",
+      "options": [
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "explanation": "左邊5顆、右邊2顆，一個一個數到7，配數字卡7。",
+      "hint": "先指左邊，再接著指右邊。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q7",
+      "question": "十格板上排放滿5顆，下排放3顆。一共有幾顆？",
+      "options": [
+        "7顆",
+        "8顆",
+        "9顆"
+      ],
+      "answer": 1,
+      "explanation": "從第一顆開始指：1、2、3、4、5，再接6、7、8，共8顆。",
+      "hint": "可以用自己的十格板排一遍。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q8",
+      "question": "● ● ● ● ●　● ● ● ●　這是幾顆？",
+      "options": [
+        "9顆",
+        "10顆",
+        "8顆"
+      ],
+      "answer": 0,
+      "explanation": "逐顆數到9。每顆只數一次，這裡沒有第10顆。",
+      "hint": "兩小群接著數，不要把數詞重新從1開始當總數。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q9",
+      "question": "十格板上下兩排，每排5格，每格都放1顆。全部有幾顆？",
+      "options": [
+        "5顆",
+        "9顆",
+        "10顆"
+      ],
+      "answer": 2,
+      "explanation": "每格一顆，逐格數到10，所以共有10顆。",
+      "hint": "上排數完，再接著數下排。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q10",
+      "question": "小安數同一顆兩次。怎麼幫他？",
+      "options": [
+        "請他數更快",
+        "把已數的移到另一邊，再重數",
+        "直接猜一個數"
+      ],
+      "answer": 1,
+      "explanation": "分開已數與未數的物品，能看見進度，避免同一件重複點數。",
+      "hint": "讓數過的有自己的地方。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q11",
+      "question": "你要畫和6個積木一樣多的圓點，最好怎麼做？",
+      "options": [
+        "移一個積木，畫一點",
+        "想到哪裡就畫到哪裡",
+        "只畫最大的積木"
+      ],
+      "answer": 0,
+      "explanation": "一個積木對應一個圓點，能把實物的數量記錄成圖。最後再點數檢查。",
+      "hint": "實物和圖也可以一個配一個。"
+    },
+    {
+      "id": "g1s1-mathematics-01-q12",
+      "question": "數完8個積木，大人問一共有多少。哪個回答完整？",
+      "options": [
+        "最後這一個是8個",
+        "一共有8個，我每個都只數一次",
+        "排得很長，所以不知道"
+      ],
+      "answer": 1,
+      "explanation": "能說出總數，還能說明每個只數一次，就把數量和檢查方法都表達清楚了。",
+      "hint": "回答的是這一整群有多少。"
+    }
+  ],
+  "selfCheck": [
+    "我數一件，才說一個數。",
+    "我能說出一整群有幾個。",
+    "我能拿出數字卡指定的數量。",
+    "我會用十格板或移物法檢查。",
+    "我知道只換位置，數量不會自己變。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要發布頁與附件",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788&kw=%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%9C%8B%E6%B0%91%E5%9F%BA%E6%9C%AC%E6%95%99%E8%82%B2%E8%AA%B2%E7%A8%8B%E7%B6%B1%E8%A6%81&media=print",
+      "note": "課綱正式發布頁。本課僅取一年級N-1-1的1–10入門操作，未把全年範圍當成一節課或全國統一學期進度。"
+    },
+    {
+      "title": "國家教育研究院｜數學領域課程手冊：一年級學習內容解析",
+      "url": "https://www.naer.edu.tw/upload/1/16/doc/2021/數學領域課程手冊（112年5月更新版）.pdf",
+      "note": "具體教學依據：N-1-1以操作連結聲音、圖像、數字及數量。此次已核對該可讀版本的相關段落；活動、題目與十格圖為本頁原創。"
+    }
+  ]
+}

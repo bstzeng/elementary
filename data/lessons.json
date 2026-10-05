@@ -1,0 +1,14 @@
+{
+  "grade": 1,
+  "semester": 1,
+  "status": "六張課程卡各開放第一個主題的原創教材",
+  "scope": "課綱主題採跨版本參考編排。教材為本站原創示例，依學生起點分次學習，不代表全國統一進度或特定教科書。",
+  "lessonIds": [
+    "g1s1-mandarin-01",
+    "g1s1-mathematics-01",
+    "g1s1-life-01",
+    "g1s1-health-pe-01",
+    "g1s1-language-choice-01",
+    "g1s1-school-flexible-01"
+  ]
+}
