@@ -171,6 +171,10 @@
     "g2s1-mandarin-06",
     "g2s1-mandarin-07",
     "g2s1-mandarin-08",
+    "g2s1-mandarin-09",
+    "g2s1-mandarin-10",
+    "g2s1-mandarin-11",
+    "g2s1-mandarin-12",
     "g2s1-mathematics-01",
     "g2s1-mathematics-02",
     "g2s1-mathematics-03",
@@ -187,6 +191,14 @@
     "g2s1-life-02",
     "g2s1-life-03",
     "g2s1-life-04",
+    "g2s1-life-05",
+    "g2s1-life-06",
+    "g2s1-life-07",
+    "g2s1-life-08",
+    "g2s1-life-09",
+    "g2s1-life-10",
+    "g2s1-life-11",
+    "g2s1-life-12",
     "g2s2-mathematics-01",
     "g2s2-mathematics-02",
     "g2s2-mathematics-03",
@@ -194,6 +206,11 @@
     "g2s2-mathematics-05",
     "g2s2-mathematics-06",
     "g2s2-mathematics-07",
-    "g2s2-mathematics-08"
+    "g2s2-mathematics-08",
+    "g2s2-mathematics-09",
+    "g2s2-mathematics-10",
+    "g2s2-mathematics-11",
+    "g2s2-mathematics-12",
+    "g2s2-mathematics-currency"
   ]
 }
