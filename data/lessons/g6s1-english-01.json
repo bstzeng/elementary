@@ -1,0 +1,183 @@
+{
+  "id": "g6s1-english-01",
+  "course": "英語文",
+  "title": "國家名稱與來自哪裡",
+  "subtitle": "問清楚from與live，再依角色自己的說明介紹",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "國家名稱可以幫助介紹背景，但不能拿來猜一個人的語言、喜好或身分。本課用完整虛構角色卡練習問、答、轉述和更正。",
+  "goals": [
+    "我能辨認本課國家名稱並保留大寫。",
+    "我能用be from問答，分清來自哪裡和現在住哪裡。",
+    "我能根據角色明說的資料介紹，不從外表或姓名猜測。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>先讓孩子用兩種不同的鉛筆記號（例如直線與波浪底線）分出from與live欄，再做角色交換。be from只依本課角色自我介紹理解，不推成法律國籍、出生地或永久身分。評量時確認I／you／she／they與am／are／is能相配，以及否定後能補正確資訊；國名認讀與個人資料推論分項記錄。需要較多支持的孩子先處理Canada與Japan兩張卡；進階者比較兩人相同居住地但不同來處。完整問答由教師自然示範後再觀察口語，不以姓名、膚色或口音推測來源。</p>",
+  "selfCheck": [
+    "我能辨認本課國家名稱並保留大寫。",
+    "我能用be from問答，分清來自哪裡和現在住哪裡。",
+    "我能根據角色明說的資料介紹，不從外表或姓名猜測。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "地名告訴我們哪一欄",
+      "childText": "先找句子在說背景還是居住地。",
+      "html": "<p>詞庫：Taiwan臺灣、Japan日本、Canada加拿大、Australia澳洲、the United States美國。這些地名的主要字首大寫；在本課句型中，United States前保留the。Where are you from?是在請對方介紹來處；I’m from Canada.是I am from Canada.的縮寫。Where do you live now?問現在住在哪裡，不能自動用同一個答案。</p><p>from的背景意義要由說話者自己說明。本頁虛構人物都已選好一個自我介紹用的地方，我們只照卡片讀，不判斷護照國籍、移民狀態或出生地。有人可能有多個重要地方，也可以說I’d rather not say.（我不想說），不必繼續追問。</p>",
+      "id": "g6s1-english-01-s01"
+    },
+    {
+      "title": "完整人物卡：背景與現在",
+      "childText": "同一個居住地，不代表相同背景。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構人物介紹卡\" tabindex=\"0\"><table><caption>本課原創紙上角色；likes只表示各角色明說的喜好。</caption><thead><tr><th>角色</th><th>自我介紹的from</th><th>live now</th><th>likes</th></tr></thead><tbody><tr><td>Nora</td><td>Canada</td><td>Taiwan</td><td>drawing</td></tr><tr><td>Ken</td><td>Japan</td><td>Taiwan</td><td>chess</td></tr><tr><td>Ava and Ben</td><td>Australia</td><td>Canada</td><td>reading</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>完整讀法：Nora is from Canada. She lives in Taiwan now. She likes drawing. Ken is from Japan. He lives in Taiwan now. He likes chess. Ava and Ben are from Australia. They live in Canada now. They like reading. drawing畫圖、chess西洋棋、reading閱讀、now現在。這些人物資料不是對整個國家人民的描述。</p>",
+      "id": "g6s1-english-01-s02"
+    },
+    {
+      "title": "完整對話：禮貌問與更正",
+      "childText": "對方回答後才轉述。",
+      "html": "<div class=\"story\"><p>Sam: Hi, Nora. Where are you from?<br/>Nora: I’m from Canada.<br/>Sam: Do you live in Canada now?<br/>Nora: No, I don’t. I live in Taiwan now.<br/>Sam: Is Ken from Canada, too?<br/>Nora: No, he isn’t. He’s from Japan.<br/>Sam: What does he like?<br/>Nora: He likes chess. You can ask him about it.</p></div><p>too也、about關於。Sam先詢問，Nora才回答；Sam猜Ken是否也來自Canada，Nora用No, he isn’t.更正，再提供卡片上的Japan。最後一句建議親自詢問興趣，不把Nora的回答擴張成Ken一定願意一起下棋。教師先完整自然示範，再讓孩子指認哪句在問背景、哪句在問現在居住地。</p>",
+      "id": "g6s1-english-01-s03"
+    },
+    {
+      "title": "一起組句：換人就查be",
+      "childText": "肯定、否定和問句是一組。",
+      "html": "<p>示範一：角色自己說I am from Canada.，把I換成Nora，成為Nora is from Canada.。改成問句時，is移到主語前：Is Nora from Canada? 答Yes, she is.。若問Is Nora from Japan?，答No, she isn’t. She is from Canada.。否定isn’t就是is not。</p><p>示範二：Ava and Ben是兩人，用They are from Australia.；問Are they from Australia?，答Yes, they are.；否定They aren’t from Japan.。一起練習時成人說角色名，孩子先選am／is／are，再補from和地名。Where is Ken from?答He is from Japan.，不用He does from Japan.，因為這個句框使用be。</p>",
+      "id": "g6s1-english-01-s04"
+    },
+    {
+      "title": "修復容易混淆的介紹",
+      "childText": "不要把猜測寫成資料。",
+      "html": "<p>草稿一：Nora is from Taiwan because she lives there.（因為她住臺灣，所以來自臺灣。）卡片只支持現在住臺灣；背景欄寫Canada，應拆成She is from Canada. She lives in Taiwan now.。草稿二：They is from Australia.，主語they要配are。草稿三：Ken likes chess, so everyone from Japan likes chess.，這把單一虛構人物的喜好推成所有人的特徵，沒有證據。</p><p>如果不知道對方的來處，可以問，也可以保留未知；不看姓名、髮色或語言能力猜答案。孩子可選只談本頁角色，或用I’d rather not say.結束私人問題。課堂的目標是準確理解、禮貌溝通與正確組句，不是收集每個人的背景。</p>",
+      "id": "g6s1-english-01-s05"
+    },
+    {
+      "title": "獨立轉用：新卡與錯誤標籤",
+      "childText": "這次不沿用Nora的答案。",
+      "html": "<p>完整新卡：Lia／from: the United States／lives now: Japan／likes: music。Owen and Tess／from: Canada／live now: Australia／like: drawing。展覽標籤誤寫Lia is from Japan. Owen and Tess is from Canada.。請更正兩句，替Lia寫一句現在居住地，再寫一組詢問Owen與Tess來處的問答。可以抄地名，但先自己選be。</p><details><summary>完成後核對參考答案</summary><p>Lia is from the United States. She lives in Japan now. Owen and Tess are from Canada. Where are they from? They are from Canada. 或Are they from Canada? Yes, they are.。第一張卡的Japan是現在居住地；第二句兩人要用are。可接受有相同資訊的完整句，不要求照抄字序以外的修飾語。</p></details>",
+      "id": "g6s1-english-01-s06"
+    },
+    {
+      "title": "做一張尊重角色的介紹卡",
+      "childText": "三句各有一個資料來源。",
+      "html": "<p>選本頁任一原角色，寫「來處／現在住哪裡／一項喜好」三句，並在每句旁標出使用的卡片欄名。夥伴只依卡片查核，不加入「所以他一定會……」的猜測。接著把一個肯定句改成問句，再用肯定或否定短答回答，最後補上正確資訊。</p><p>成人可記錄四點：地名與大寫、主語和be、兩種地點的區別、轉述的資料邊界。需要較多支持的孩子可選現成句框並指卡；進階者遮住原句後換人重寫。若只完成指選，就記錄讀懂；若有教師完整示範並聽到孩子獨立問答，才另記口語表現。本頁不要求提供真實家庭故事或公開個人所在地。</p>",
+      "id": "g6s1-english-01-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對規律活動、第三人稱動詞與do／does肯否定問答說明。課內角色、句子與資料均為原創；本頁不是來源錄音的轉錄。"
+    },
+    {
+      "title": "British Council｜Present simple – verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-06直接核對am／is／are人稱、not否定、問句倒裝及縮寫的文字說明；未播放音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Nora現在住在哪裡？",
+      "options": [
+        "Taiwan",
+        "Australia",
+        "Canada"
+      ],
+      "answer": 0,
+      "hint": "分開讀from與live now欄。",
+      "explanation": "Nora的live now是Taiwan；Canada是她選用的背景介紹，兩欄意義不同。",
+      "id": "g6s1-english-01-q01"
+    },
+    {
+      "question": "依卡片詢問Ken來處，哪組正確？",
+      "options": [
+        "Where is Ken from? He is from Japan.",
+        "Where does Ken from? He from Japan.",
+        "Where are Ken from? He are from Japan."
+      ],
+      "answer": 0,
+      "hint": "Ken是一個人，句框使用be。",
+      "explanation": "單數Ken配is，回答He is from Japan保留完整的be from結構。",
+      "id": "g6s1-english-01-q02"
+    },
+    {
+      "question": "Ava and Ben的肯定介紹應用哪句？",
+      "options": [
+        "They is from Canada.",
+        "They are from Australia.",
+        "They am from Australia."
+      ],
+      "answer": 1,
+      "hint": "兩人以they轉述，再讀from欄。",
+      "explanation": "兩人用they are；from欄是Australia，Canada只是現在居住地。",
+      "id": "g6s1-english-01-q03"
+    },
+    {
+      "question": "Is Nora from Japan?應如何依卡回答？",
+      "options": [
+        "No, she isn’t. She is from Canada.",
+        "No, she doesn’t from Japan.",
+        "Yes, she is. She lives in Taiwan."
+      ],
+      "answer": 0,
+      "hint": "這是be問句，先用相配短答。",
+      "explanation": "Nora來自Canada，所以用No, she isn’t，不能把居住地當成肯定來處的理由。",
+      "id": "g6s1-english-01-q04"
+    },
+    {
+      "question": "新卡Lia的正確更正是？",
+      "options": [
+        "Lia are from the United States.",
+        "Lia is from Japan.",
+        "Lia is from the United States."
+      ],
+      "answer": 2,
+      "hint": "新卡的兩個地點用途不同。",
+      "explanation": "Lia的from欄是the United States，主語是一人用is，並保留the。",
+      "id": "g6s1-english-01-q05"
+    },
+    {
+      "question": "看到Ken喜歡chess，可以推出什麼？",
+      "options": [
+        "所有來自Japan的人都喜歡chess",
+        "Ken一定同意今天一起下棋",
+        "這張卡上的Ken喜歡chess"
+      ],
+      "answer": 2,
+      "hint": "只採用卡片明寫的喜好。",
+      "explanation": "一人的虛構喜好只能描述這個角色，不能推成全體特徵或共同活動的同意。",
+      "id": "g6s1-english-01-q06"
+    },
+    {
+      "question": "對方說I’d rather not say.時，合宜回應是？",
+      "options": [
+        "要求對方交住址證明",
+        "尊重不回答，改談對方願意談的內容",
+        "用姓名推測並公布來處"
+      ],
+      "answer": 1,
+      "hint": "本課不需要真實個資。",
+      "explanation": "對方可以選擇不透露背景；語言練習可用虛構卡，不必再追問私人資訊。",
+      "id": "g6s1-english-01-q07"
+    },
+    {
+      "question": "Owen and Tess is from Canada.哪裡需要修正？",
+      "options": [
+        "from改成likes",
+        "is改成are",
+        "Canada改成Australia"
+      ],
+      "answer": 1,
+      "hint": "先核對人數，再看背景欄。",
+      "explanation": "Owen和Tess是兩人，be應為are；Canada是正確的from資料，無須換成居住地。",
+      "id": "g6s1-english-01-q08"
+    }
+  ]
+}

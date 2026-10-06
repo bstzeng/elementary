@@ -1,0 +1,178 @@
+{
+  "id": "g6s2-english-01",
+  "course": "英語文",
+  "title": "過去所在的地點",
+  "subtitle": "用was與were讀出某個過去時點的所在地",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "說一個角色昨天在哪裡，先把人和時間找清楚。單一時點的地點不能替整天作證，本課把過去be問答與資料範圍一起練習。",
+  "goals": [
+    "我能依主語選擇was或were描述過去所在。",
+    "我能用Where was／were…?及肯否定問答查明地點。",
+    "我能保留時間範圍，不把一個時點推成整天或現在。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>先在每句圈主語和過去時間，再核對be與地點。I／he／she／it用was，you／we／they用were；問句倒裝不加did。讓孩子注意訪問者問Were you…?時，角色自己答Yes, I was.，人稱轉換並非全用were。所有時點與場所虛構，不詢問實際行蹤或家庭狀況。支持層可先處理同一天一個時點，進階者比較兩時點且指出中間未知。讀表、文法與實際口語獨立評量；沒有教師模型時只評文字。</p>",
+  "selfCheck": [
+    "我能依主語選擇was或were描述過去所在。",
+    "我能用Where was／were…?及肯否定問答查明地點。",
+    "我能保留時間範圍，不把一個時點推成整天或現在。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "過去在哪裡：先有過去時間",
+      "childText": "was和were是be的過去式。",
+      "html": "<p>yesterday昨天、last Sunday上個星期日、at ten在十點、at home在家、at the library在圖書館、at the museum在博物館。現在可說I am at school now.；回到昨天某時點可說I was at the library yesterday at ten.。這句不表示現在仍在那裡，也沒有說昨天整天都在圖書館。</p><p>人稱對照：I was；he／she／it was；you／we／they were。否定用was not＝wasn’t、were not＝weren’t。She wasn’t at school at ten.只排除該時點的學校，不會自動告訴你正確地點；若資料有提供，再補She was at the library.，不要憑否定亂猜另一個場所。</p>",
+      "id": "g6s2-english-01-s01"
+    },
+    {
+      "title": "完整時點表：Last Sunday",
+      "childText": "每格只記那一個時刻。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構上星期日時點地點\" tabindex=\"0\"><table><caption>只記兩個時點的位置；未提供移動路徑、停留長度或其餘時間。</caption><thead><tr><th>角色</th><th>10:00 a.m.</th><th>3:00 p.m.</th></tr></thead><tbody><tr><td>Lena</td><td>at the library</td><td>at home</td></tr><tr><td>Eli</td><td>at the museum</td><td>at the library</td></tr><tr><td>Mina and Jay</td><td>at home</td><td>at the museum</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>完整讀句：Lena was at the library at ten. She was at home at three. Eli was at the museum at ten. He was at the library at three. Mina and Jay were at home at ten. They were at the museum at three. 表題已限定last Sunday，時間上午十點與下午三點；獨立抄句時應補回日期範圍，不把last Sunday解成每個星期日。</p>",
+      "id": "g6s2-english-01-s02"
+    },
+    {
+      "title": "完整訪問：問you，答I",
+      "childText": "角色換了，be也可能跟著換。",
+      "html": "<div class=\"story\"><p>Interviewer: Where were you last Sunday at ten, Lena?<br/>Lena: I was at the library.<br/>Interviewer: Were you at the museum at three?<br/>Lena: No, I wasn’t. I was at home.<br/>Interviewer: Where were Mina and Jay at three?<br/>Lena: They were at the museum.<br/>Interviewer: Was Eli at the library at ten?<br/>Lena: No, he wasn’t. He was at the museum.</p></div><p>interviewer訪問者。第一句用you were問Lena，Lena答自己用I was；不是機械抄題目的were。詢問Mina與Jay兩個人時用were，Lena轉述為They were。八回合都依時點表，沒有問真實孩子過去行蹤。教師先讀完整對話，再讓孩子找每個答案相對應的格子。</p>",
+      "id": "g6s2-english-01-s03"
+    },
+    {
+      "title": "一起示範：肯定、問句、否定",
+      "childText": "這組問句不需要did。",
+      "html": "<p>從Lena was at the library at ten.開始，把was放到Lena前：Was Lena at the library at ten? 答Yes, she was.。換成錯誤地點museum，問Was Lena at the museum at ten?，答No, she wasn’t. She was at the library.。主要結構是be加地點，所以不用Did Lena was…?。</p><p>換成兩人：Mina and Jay were at home at ten.→Were Mina and Jay at home at ten?→Yes, they were.。一起練習時成人先指定人物和時點，孩子再選was／were，不先猜地點。若把否定句They weren’t at the library at ten.寫下，可另外加They were at home.，讓讀者知道從表中查到的正確位置。</p>",
+      "id": "g6s2-english-01-s04"
+    },
+    {
+      "title": "修復：兩個點不能填滿一整天",
+      "childText": "地點資料也有時間邊界。",
+      "html": "<p>錯誤摘要「Eli上星期日一直在博物館」忽略下午三點已記在圖書館。另一個說法「Eli中午一定在路上」也沒有資料，因只知道十點與三點，無法定位中午。可以說He was at the museum at ten and at the library at three.，保留兩個已知時點。</p><p>錯句They was at home.改成They were at home.。錯答Were you at home? Yes, I were.改成Yes, I was.。錯句Was Eli at the library now?把過去was與現在now在本課簡單情境混用；說現在用Is Eli at the library now?，說過去就搭last Sunday等明確時間。修句也要查你是在問哪一次，而不是只替換一個字。</p>",
+      "id": "g6s2-english-01-s05"
+    },
+    {
+      "title": "獨立轉用：另一個星期六",
+      "childText": "新的名字、日期和地點都要重查。",
+      "html": "<p>完整新資料：Last Saturday at 9:00 a.m., Ada was at school. Noah and Tess were at the park. At 4:00 p.m., Ada was at the museum. Noah and Tess were at home. 請代Ada回答Were you at school at nine?；詢問兩人下午四點的地點並回答；判斷能否知道Ada中午十二點的位置。park公園。全是角色資料，不需要出門查驗。</p><details><summary>完成後核對</summary><p>Yes, I was. Where were Noah and Tess at four p.m. last Saturday? They were at home. 或Where were they…?。Ada中午位置未知，因為只給上午九點與下午四點。不能把學校或博物館其中之一推成中午位置；也不能用原表的Lena資料回答新角色。</p></details>",
+      "id": "g6s2-english-01-s06"
+    },
+    {
+      "title": "完成一份有時間的地點報告",
+      "childText": "誰、何時、在哪裡三件都不能掉。",
+      "html": "<p>選原表兩個不同人數的主語，各寫一個完整過去地點句，再改為問句和否定更正。示例Eli was at the library at three p.m. last Sunday. Was he at home at three? No, he wasn’t.。否定短答若脫離前句會不清楚，所以成品把問答放在一起，不只留下孤立No。</p><p>成人觀察主語與was／were、人稱轉換、時間定位和未知保留。需要較多支持的孩子用不同鉛筆記號（例如圓圈與方框）連接表格與句框；進階者寫一個表格無法回答的問題並指出缺哪個時點。教師實際自然朗讀新問句後才評聽辨；看著表與全文答對是閱讀證據。孩子可代角色、指卡或打字，全程不交出自己的真實活動軌跡。</p>",
+      "id": "g6s2-english-01-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Past simple – verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-verb-be",
+      "note": "2026-10-06直接核對was／were的人稱、否定與疑問倒裝、肯否定短答。課內時點、人物與地點全部原創；沒有以文字答題代替口語評量。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Last Sunday at ten，Lena在哪裡？",
+      "options": [
+        "at home",
+        "at the museum",
+        "at the library"
+      ],
+      "answer": 2,
+      "hint": "先固定上午十點，再找Lena列。",
+      "explanation": "表格Lena上午十點是圖書館，下午三點才是在家，不能把時點交換。",
+      "id": "g6s2-english-01-q01"
+    },
+    {
+      "question": "Mina and Jay ___ at home at ten.應填？",
+      "options": [
+        "was",
+        "is",
+        "were"
+      ],
+      "answer": 2,
+      "hint": "兩個人可用they代替。",
+      "explanation": "複數主語Mina and Jay在過去式be句配were，不用單數was。",
+      "id": "g6s2-english-01-q02"
+    },
+    {
+      "question": "訪問者問Were you…?，Lena肯定自己可答？",
+      "options": [
+        "Yes, I were.",
+        "Yes, I was.",
+        "Yes, she does."
+      ],
+      "answer": 1,
+      "hint": "回答改用第一人稱I。",
+      "explanation": "問題用you were，當事人改用I自稱時配was，所以不能直接照抄were。",
+      "id": "g6s2-english-01-q03"
+    },
+    {
+      "question": "哪個過去地點問句正確？",
+      "options": [
+        "Did Eli was at the museum at ten?",
+        "Was Eli at the museum at ten?",
+        "Does Eli were at the museum at ten?"
+      ],
+      "answer": 1,
+      "hint": "be過去式問句直接倒裝。",
+      "explanation": "was移到主語前即可詢問，不必再加did或does，也不會同時使用were。",
+      "id": "g6s2-english-01-q04"
+    },
+    {
+      "question": "可以知道Eli上星期日中午位置嗎？",
+      "options": [
+        "不能，表中沒有中午時點",
+        "可以，一定在博物館",
+        "可以，一定在兩地之間"
+      ],
+      "answer": 0,
+      "hint": "兩個已知時點不能填滿中間。",
+      "explanation": "表只記上午十點與下午三點，中午可能有多種情況，沒有足夠資料決定。",
+      "id": "g6s2-english-01-q05"
+    },
+    {
+      "question": "新資料Noah and Tess下午四點在哪裡？",
+      "options": [
+        "at home",
+        "at the park",
+        "at school"
+      ],
+      "answer": 0,
+      "hint": "讀新資料的第二個時點。",
+      "explanation": "新資料下午四點兩人在家，公園是上午九點的位置，不能沿用。",
+      "id": "g6s2-english-01-q06"
+    },
+    {
+      "question": "新資料Ada中午十二點的地點應如何寫？",
+      "options": [
+        "at the museum，因她下午在博物館",
+        "unknown，資料未提供",
+        "at school，因她早上在學校"
+      ],
+      "answer": 1,
+      "hint": "先問是否有該時點的記錄。",
+      "explanation": "九點和四點兩個地點無法確定中午在哪，保留未知才符合資料。",
+      "id": "g6s2-english-01-q07"
+    },
+    {
+      "question": "She wasn’t at school at ten.單獨能確定什麼？",
+      "options": [
+        "十點時不在學校，其他地點仍須資料",
+        "整天都不在任何場所",
+        "十點一定在博物館"
+      ],
+      "answer": 0,
+      "hint": "否定排除一個位置，不創造另一個。",
+      "explanation": "這句只排除指定時點的學校，沒有額外地點資料就不能指定其他場所。",
+      "id": "g6s2-english-01-q08"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "g6s2-english-04",
+  "course": "英語文",
+  "title": "活動經驗的前後順序",
+  "subtitle": "從回顧短文重建時間線，再用過去式連成一段",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "作者先提結尾、再補早先事件時，文章順序不一定等於事情發生順序。用明確時間和before、after，重建一次完整的虛構活動經驗。",
+  "goals": [
+    "我能分開敘述出現順序與事件發生順序。",
+    "我能用時間線核對before、after與then所連接的事件。",
+    "我能以過去式重述新記錄，不加入沒有證據的結果或原因。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>本課用完整記錄的時刻和時間連接詞重建活動，不模擬搬重物、拍真實人像或校外行動。先讓孩子用母語確認先後，再選已教過去式write／wrote、draw／drew、go／went等。支持層提供事件關鍵詞和時刻，進階層從倒敘段落重排並說明起訖差只代表已給時段。前後順序不單獨證明原因或學習效果；作品完成與是否分享分開看。實際朗讀由教師提供完整自然模型，評時態不等於已評聲音。</p>",
+  "selfCheck": [
+    "我能分開敘述出現順序與事件發生順序。",
+    "我能用時間線核對before、after與then所連接的事件。",
+    "我能以過去式重述新記錄，不加入沒有證據的結果或原因。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "先讀何時發生，再看寫在哪裡",
+      "childText": "第一句可以先說最後結果。",
+      "html": "<p>first首先、then接著、after在……之後、before在……之前、finally最後，能幫我們說明活動的先後。過去活動句如Nora read the story.，本課read過去與原形拼字相同，但讀音不同，必須由教師核對示範；如果聲音尚未教，先以時間與意思讀懂文字。</p><p>寫回顧時可以先說At the end, we shared our work.（最後我們分享作品），再補較早的準備。文章第一句因此不一定是最早事件。找時間、before／after關係，再用箭頭重建。不要只靠句子編號排序；編號是閱讀定位，不是作者已替你排好時間。</p>",
+      "id": "g6s2-english-04-s01"
+    },
+    {
+      "title": "完整回顧短文：Our Story Cards",
+      "childText": "全文的時間資料可以互相核對。",
+      "html": "<div class=\"story\"><p>① At ten o’clock yesterday, Nora and I shared our story cards with the class. We put them on a low table. Here is how we made the cards.</p><p>② At nine, we chose a short story. At nine ten, we read it together. Before we drew the pictures, we wrote three sentences at nine twenty. We drew the pictures at nine thirty.</p><p>③ After we drew the pictures, we checked the words at nine forty. We changed one word. Then we waited for the sharing time. At ten, we showed the cards and read our three sentences.</p></div><p>補充chose選了（choose過去式）、shared分享了、low低的、together一起、changed改了、waited等待了、showed展示了。短文中的we是敘述者與Nora兩人，them指story cards。原故事全文供應如下：A lost hat is on a bench. A child asks an adult for help. The adult finds the owner.，不需另找故事或帽子。</p>",
+      "id": "g6s2-english-04-s02"
+    },
+    {
+      "title": "完整打亂事件卡與時刻",
+      "childText": "按證據排，不按A到F。",
+      "html": "<p>卡A：They checked the words. 查字。卡B：They shared the story cards. 分享。卡C：They drew the pictures. 畫圖。卡D：They chose a short story. 選故事。卡E：They wrote three sentences. 寫三句。卡F：They read the story together. 一起讀。提供的時刻卡：09:00、09:10、09:20、09:30、09:40、10:00，各配一張事件卡。若要排卡，成人把本段完整A–F事件與六個時刻抄在普通大紙上，不需剪卡；也可直接指本頁事件與時刻，或寫字母和時間配對。</p><p>成人先示範D與09:00相配，因為第②段先給chose的時刻；再讓孩子自己找F到B。卡C畫圖之前已寫三句，所以E在C前；卡A檢查在畫圖之後，所以C在A前。雖然B最先出現在第①段，時刻10:00仍在全部準備之後。</p>",
+      "id": "g6s2-english-04-s03"
+    },
+    {
+      "title": "一起改成順敘段落",
+      "childText": "先用表，再以句子連起來。",
+      "html": "<p>正確時間線：D 09:00→F 09:10→E 09:20→C 09:30→A 09:40→B 10:00。示範重述：First, we chose a short story. Then we read it together. We wrote three sentences before we drew the pictures. After that, we checked the words and changed one word. Finally, we shared our cards at ten.。</p><p>chose、read、wrote、drew、checked、changed、shared都是本段過去事件的動詞；不能一半改成現在習慣而未說明。First、Then、Finally幫讀者跟上主要順序，不必每一句都放then。Before we drew…這一段即使先出現drew，仍表示先寫三句、再畫圖，需讀懂before而非照字序。</p>",
+      "id": "g6s2-english-04-s04"
+    },
+    {
+      "title": "修復：時間線不是因果實驗",
+      "childText": "改了一個字，不代表證明所有效果。",
+      "html": "<p>錯誤排序「分享→選故事」是照段落出現順序排，忽略10:00比09:00晚。錯誤「09:00到10:00都在畫圖」把整個活動時間當單一步驟時長。資料只給畫圖的09:30事件與09:40查字，不明說畫圖連續做滿十分鐘；可以說畫圖在查字之前，但不能把每個間隔當成某動作全程不間斷。</p><p>短文寫We changed one word.，只證明他們改了一個字。沒有前後評分或讀者回饋，不能宣稱改字使大家理解提高一倍。也不能從waited推成無聊；那是心理狀態，文本未寫。好的重述忠於已知行動、時間和結果，不用漂亮形容詞填補未知。</p>",
+      "id": "g6s2-english-04-s05"
+    },
+    {
+      "title": "獨立轉用：新記錄用不同敘述次序",
+      "childText": "每句都留意過去時間。",
+      "html": "<p>新短文全文：At eleven, Kai showed a new story card. Earlier, at ten twenty, Kai chose a story. After choosing it, Kai wrote two sentences at ten thirty. Before showing the card, Kai checked the sentences at ten fifty. Kai drew a picture at ten forty, after writing the sentences. 詞庫earlier較早、showed展示了。請依事件發生順序列五步，寫含first與finally的摘要，再判斷能否知道Kai實際畫圖用了幾分鐘。</p><details><summary>完成後核對</summary><p>10:20選故事→10:30寫兩句→10:40畫圖→10:50檢查→11:00展示。First, Kai chose a story. Then Kai wrote two sentences and drew a picture. After that, Kai checked the sentences. Finally, Kai showed the card at eleven.。未提供畫圖明確起訖或連續工作條件，不能確定實際畫圖分鐘數；相鄰事件時刻不能自動等同持續長度。</p></details>",
+      "id": "g6s2-english-04-s06"
+    },
+    {
+      "title": "完成回顧與查核證據",
+      "childText": "一段清楚的回顧會留下時間關係。",
+      "html": "<p>交付原故事六卡順序、新故事五步順序及一段英文摘要。每個before或after下畫箭頭，指明誰先誰後；逐個圈出過去式動詞，看是否保留原事件。可以把We wrote three sentences before we drew the pictures.改成We drew the pictures after we wrote three sentences.，兩句先後相同。</p><p>成人把排序、時態、代名詞和未知判斷分開記。需要較多支持的孩子先用數位時間排列，再讀文字；進階者把順敘稿改成先說結尾，讓同伴仍能重建時間線。自動題只評文本推理與句型；實際朗讀需教師完整模型與觀察。所有紙上事件都是虛構資料，不要求真實活動照片或兒童行蹤。</p>",
+      "id": "g6s2-english-04-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Past simple – sentences",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-sentences",
+      "note": "2026-10-06直接核對過去事件、規則動詞ed、不規則went／ate／wrote／had與didn’t後接原形的說明；課內故事與句子原創。未驗聽音訊。"
+    },
+    {
+      "title": "British Council｜Past simple – questions",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-questions",
+      "note": "2026-10-06直接核對did加原形、疑問詞與did／didn’t短答的說明；只支持語法框架，不是課內虛構紀錄的來源。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "原文最先發生的事件是？",
+      "options": [
+        "09:00選故事",
+        "10:00分享卡片",
+        "09:30畫圖"
+      ],
+      "answer": 0,
+      "hint": "比較時刻，不只看段落位置。",
+      "explanation": "選故事時刻09:00最早；分享雖在第一句出現，實際在10:00才發生。",
+      "id": "g6s2-english-04-q01"
+    },
+    {
+      "question": "原六卡的正確順序是？",
+      "options": [
+        "D→F→C→E→B→A",
+        "B→D→F→E→C→A",
+        "D→F→E→C→A→B"
+      ],
+      "answer": 2,
+      "hint": "將每張卡先配對完整時刻。",
+      "explanation": "依09:00、09:10、09:20、09:30、09:40、10:00配成選、讀、寫、畫、查、分享。",
+      "id": "g6s2-english-04-q02"
+    },
+    {
+      "question": "We wrote…before we drew…表示？",
+      "options": [
+        "寫句子在畫圖之前",
+        "兩件事都未發生",
+        "畫圖在寫句子之前"
+      ],
+      "answer": 0,
+      "hint": "before連接的兩個事件要一起讀。",
+      "explanation": "主句寫句子，before子句畫圖，所以先寫後畫；都是文中已發生的過去事件。",
+      "id": "g6s2-english-04-q03"
+    },
+    {
+      "question": "第①段them指什麼？",
+      "options": [
+        "Nora和敘述者",
+        "story cards",
+        "三個時鐘"
+      ],
+      "answer": 1,
+      "hint": "回看前句可被放到桌上的物件。",
+      "explanation": "前一句說分享story cards，下一句把them放桌上，所以them承接故事卡片。",
+      "id": "g6s2-english-04-q04"
+    },
+    {
+      "question": "可以確定原文畫圖連續做了十分鐘嗎？",
+      "options": [
+        "可以，任兩事件間都只做一件事",
+        "可以，所有畫圖都需十分鐘",
+        "不能，沒有明示畫圖全程起訖"
+      ],
+      "answer": 2,
+      "hint": "事件時點與連續工作時段不同。",
+      "explanation": "09:30畫圖和09:40查字提供先後，卻沒明說整個間隔都在畫圖，不能算確切持續時間。",
+      "id": "g6s2-english-04-q05"
+    },
+    {
+      "question": "新故事Kai寫句子之後、檢查之前做什麼？",
+      "options": [
+        "先展示作品",
+        "畫一張圖",
+        "再次選故事"
+      ],
+      "answer": 1,
+      "hint": "核對10:30、10:40與10:50。",
+      "explanation": "新文寫10:30寫句、10:40畫圖、10:50檢查，所以中間的事件是畫圖。",
+      "id": "g6s2-english-04-q06"
+    },
+    {
+      "question": "新故事最後的事件是？",
+      "options": [
+        "10:40畫圖",
+        "11:00展示故事卡",
+        "10:20選故事"
+      ],
+      "answer": 1,
+      "hint": "earlier指出後文補的是較早事件。",
+      "explanation": "十一點的展示最晚，雖在新文開頭提到，仍是時間線最後一步。",
+      "id": "g6s2-english-04-q07"
+    },
+    {
+      "question": "哪個結論超過原文證據？",
+      "options": [
+        "改一個字使所有讀者理解提高一倍",
+        "他們先寫三句再畫圖",
+        "他們在查字後分享作品"
+      ],
+      "answer": 0,
+      "hint": "檢查文中是否有成效測量資料。",
+      "explanation": "原文只有改一個字的動作，沒有讀者測驗或成效數據，所以無法主張提高一倍。",
+      "id": "g6s2-english-04-q08"
+    }
+  ]
+}

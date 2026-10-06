@@ -1,0 +1,183 @@
+{
+  "id": "g6s1-english-07",
+  "course": "英語文",
+  "title": "雙母音音組辨識",
+  "subtitle": "分開雙母音的滑動與字母數，核對oi／oy、ou／ow的例詞",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "雙母音描述的是一個音節裡的母音滑動，不是看到兩個母音字母就算。本課以完整詞卡和短文建立兩組例詞，並保留例外。",
+  "goals": [
+    "我能找出指定例詞的oi、oy、ou或ow。",
+    "我能區分兩個字母與雙母音的聲音概念。",
+    "我能在新文字材料中選合語意的詞，並將聽說表現留給教師實際觀察。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>採UFLI美國版所列oi／oy與ou／ow例詞，由合格教師核對通用美式整詞及完整段落後自然示範。本文用toy類、out類當提示標籤，不是IPA，也沒有音訊。實際口型滑動需教師示範，不從嘴形文字自行臆測。已核對scope表列ow另見row、ou另見soup，應明確避免所有ow／ou都同音的錯誤概括。UFLI的long vowel是拼讀教學分類；本課只據此區分row（一排）與cow的讀法，不從分類名稱推論row的每種發音都沒有母音滑動。需要較多支持的孩子每次兩詞，先辨義再辨音；進階者以提供例外說明為什麼新詞需查證。自動題只評本頁文字與已解釋概念。</p>",
+  "selfCheck": [
+    "我能找出指定例詞的oi、oy、ou或ow。",
+    "我能區分兩個字母與雙母音的聲音概念。",
+    "我能在新文字材料中選合語意的詞，並將聽說表現留給教師實際觀察。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "雙母音不是兩個分開的音節",
+      "childText": "先讓教師讀整詞，再觀察滑動。",
+      "html": "<p>雙母音指發同一音節的母音時，由一個位置平順移向另一個位置。它不是把兩個字母名稱一前一後唸出，也不代表一定有兩個音節。UFLI把oi／oy與ou／ow列為本單元的兩組教學例子；這是本課範圍，不等於英語所有雙母音都只限這四種拼法。</p><p>合格教師須先提供全部目標詞與完整短文的自然通用美式模型，再做慢速觀察與合讀。沒有教師示範時，先用文字配對和閱讀。本頁把前一類叫toy類、後一類叫out類，方便對照已教整詞；這些名稱不是精確音標，不可拿中文諧音當作聲音。拼寫含兩個母音字母，不一定就是這裡的雙母音。</p>",
+      "id": "g6s1-english-07-s01"
+    },
+    {
+      "title": "完整詞卡：兩類與四種拼法",
+      "childText": "同一類聲音可以有不同字形。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"雙母音例詞與詞義\" tabindex=\"0\"><table><caption>僅用印字卡，不拿小硬幣做操作；例詞以UFLI95、96公開文字核對。</caption><thead><tr><th>本課模型類別</th><th>拼法</th><th>完整詞與詞義</th></tr></thead><tbody><tr><td>toy類</td><td>oi</td><td>coin硬幣；join加入</td></tr><tr><td>toy類</td><td>oy</td><td>toy玩具；joy喜悅</td></tr><tr><td>out類</td><td>ou</td><td>out外面；loud大聲的</td></tr><tr><td>out類</td><td>ow</td><td>now現在；cow乳牛</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>老師讀coin、toy時，請比較兩詞的母音滑動；讀out、cow時再比較另一組。先做兩組對照，再看拼法。oi通常出現在本課例詞中間，oy在toy、joy末尾；這是例詞觀察，不應改寫成「每個字都永遠如此」。coin是四個字母，不是四個音節；count或其他未教詞先不作聲音測驗。</p>",
+      "id": "g6s1-english-07-s02"
+    },
+    {
+      "title": "完整短文：Cards for a Word Game",
+      "childText": "找得到詞，還要知道故事意思。",
+      "html": "<div class=\"story\"><p>Joy has four large word cards: coin, toy, cow and out. She puts them on the table. A toy cow is in a picture on another page. It is not a real cow.<br/>“Can I join the game now?” asks Lee.<br/>“Yes,” says Joy. “First, find the word for a small piece of money. Then find the word for a farm animal. We will use the words, not real objects.”<br/>Lee points to coin and cow. He checks the labels before the next round.</p></div><p>補充詞：large大的、word card字卡、real真的、small piece of money一小片作錢幣的物件、farm animal農場動物、points to指向、round一回合。Joy在句首或人名首字大寫；字卡詞joy表示喜悅。短文中所有卡片內容已提供，不需要真的硬幣、玩具或照片。教師完整示範，孩子先理解指令，才進行目標詞拼讀。</p>",
+      "id": "g6s1-english-07-s03"
+    },
+    {
+      "title": "一起做：兩次分類各有標準",
+      "childText": "先按字形，再依核對模型分音類。",
+      "html": "<p>準備：若使用字卡，成人把coin、join、toy、joy、out、loud、now、cow各寫在普通大紙上，再另寫「toy類」「out類」兩張標題卡，不需剪卡；也可直接指本頁詞語與類別名稱，或在紙上畫欄。第一輪把這八詞依oi／oy／ou／ow分四欄。這可看字母直接完成。第二輪由教師讀已核對整詞，不顯示詞卡，孩子用「toy類／out類」兩張標題卡指選；這時才是在有標題支持下聽辨。成人須記錄是否提供重讀，不能把第一輪紀錄抄成第二輪結果。</p><p>示範用coin：先在紙上圈oi，再由教師讀完整詞，最後回句Lee points to the coin card.。不能把c、o、i、n各讀字母名稱後就當拼讀完成。兩種拼法oi和oy對應本課同一類目標音，但不能把coin改成coyn；單字慣用拼寫仍須核對。</p>",
+      "id": "g6s1-english-07-s04"
+    },
+    {
+      "title": "修復：同樣的ou或ow不保證同音",
+      "childText": "請保留已供應的例外卡。",
+      "html": "<p>例外卡一：row，一排。UFLI範圍表把這個row的ow列在長母音類，不能按cow那組直接讀；row還有其他詞義用法，本課只限定「一排」這個名詞。例外卡二：soup，湯，其ou在表中另列為另一種讀法，不照out組處理。兩張例外卡需要教師整詞模型，本頁不靠拼字臆造聲音。</p><p>「有兩個母音字母＝雙母音」也不成立；雙母音是在說聲音變化，而不是字母個數。做法是先用已學音組嘗試、檢查語意，再向教師或可靠詞典核對未知整詞。不能把陌生字錯讀後歸咎孩子，也不把某一種標準口音的自然差異當成不努力。</p>",
+      "id": "g6s1-english-07-s05"
+    },
+    {
+      "title": "獨立轉用：新詞與新句",
+      "childText": "先靠完整條件判斷詞義。",
+      "html": "<p>新詞卡：choice選擇（oi）、point指向（oi）、sound聲音（ou）、town城鎮（ow）。它們的字形和例詞類別已依UFLI本單元公開詞表核對。請分類後填完四句：① I have a ___: tea or water. ② Please ___ to the title. ③ The bell makes a ___. ④ The story is about a small ___. 詞庫tea茶、water水、title標題、bell鈴。這是閱讀紙卡，不喝未知飲料或接觸真鈴。</p><details><summary>完成後核對</summary><p>①choice、②point、③sound、④town。choice、point分在oi；sound在ou；town在ow。前兩詞屬本課toy類，後兩詞屬out類。實際聽辨與朗讀仍要先有教師自然模型；答對文意與字形只能記文字轉用成果。</p></details>",
+      "id": "g6s1-english-07-s06"
+    },
+    {
+      "title": "用證據說明自己學到哪一部分",
+      "childText": "不把有字卡與無字卡混記。",
+      "html": "<p>成品包括四欄拼法表、兩組模型類別、兩張例外卡以及四句新題。請用中文或英文說一項發現，例如「coin和toy拼法不同，模型的目標音可歸同類；soup不能直接套out」。成人核對這句是概念理解，真正的滑動與流暢度另記在教師觀察欄。</p><p>需要較多支持的孩子可一次只看coin／toy，再加入cow／out；進階者解釋為何「看到ow就選out類」會把row分錯。示範可以放慢，但最後須回到完整自然詞句。允許指選和休息，不要求孩子仿造口音、誇張嘴形或不斷提高聲量；課堂以可理解的整詞、辨義及願意核對為重點。</p>",
+      "id": "g6s1-english-07-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜Diphthongs",
+      "url": "https://ufli.education.ufl.edu/foundations/toolbox/95-98/",
+      "note": "2026-10-06直接核對雙母音滑動概念與oi／oy、ou／ow分組，並讀95、96 Home Practice一頁PDF文字核對例詞；沒有播放音訊。頁面練習為原創。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜Grapheme–phoneme scope and sequence",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/01/UFLI-Scope-and-Sequence-5-21-2.pdf",
+      "note": "2026-10-06直接讀一頁PDF文字；核對r控制音組、雙母音音組，以及ow在row與ou在soup所列的其他讀法。這是美國機構的拼讀參考，不是臺灣六年級官方課程進度。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "本課所說的雙母音主要描述什麼？",
+      "options": [
+        "每個字都要分成兩音節",
+        "同一音節中的母音滑動",
+        "所有相鄰兩字母"
+      ],
+      "answer": 1,
+      "hint": "讀定義中的聲音與音節關係。",
+      "explanation": "雙母音指一個音節內的母音滑動，不能只按字母數或拆成兩音節判斷。",
+      "id": "g6s1-english-07-q01"
+    },
+    {
+      "question": "coin和toy在本課模型如何分類？",
+      "options": [
+        "同屬toy類，拼法分別oi與oy",
+        "意思都等於硬幣",
+        "都是ow拼法"
+      ],
+      "answer": 0,
+      "hint": "比較聲音類別和字母欄。",
+      "explanation": "coin用oi、toy用oy，目標音在本課同類，但字形與意思各自不同。",
+      "id": "g6s1-english-07-q02"
+    },
+    {
+      "question": "哪一組字形都是ow？",
+      "options": [
+        "coin、join",
+        "out、loud",
+        "now、cow"
+      ],
+      "answer": 2,
+      "hint": "逐字看中間到結尾的字母。",
+      "explanation": "now與cow都含ow；out、loud是ou，coin、join是oi。",
+      "id": "g6s1-english-07-q03"
+    },
+    {
+      "question": "Lee依原短文最後指哪兩張卡？",
+      "options": [
+        "joy和soup",
+        "toy和out",
+        "coin和cow"
+      ],
+      "answer": 2,
+      "hint": "指令先找錢幣詞，再找農場動物。",
+      "explanation": "coin符合錢幣的詞義，cow符合農場動物；短文明寫Lee指這兩張。",
+      "id": "g6s1-english-07-q04"
+    },
+    {
+      "question": "為何row（一排）不能直接歸cow組？",
+      "options": [
+        "已供來源把該row的ow列另一讀法",
+        "因所有三字母詞都不能拼讀",
+        "因row沒有母音字母"
+      ],
+      "answer": 0,
+      "hint": "看例外卡限定的詞義與類別。",
+      "explanation": "同樣ow可有不同讀法；本課row指一排，須核對整詞，不能只照cow套用。",
+      "id": "g6s1-english-07-q05"
+    },
+    {
+      "question": "新句The bell makes a ___.應填？",
+      "options": [
+        "town",
+        "sound",
+        "choice"
+      ],
+      "answer": 1,
+      "hint": "鈴在句中發出的是什麼？",
+      "explanation": "sound是聲音，符合鈴發出聲音的句意；choice是選擇，town是城鎮。",
+      "id": "g6s1-english-07-q06"
+    },
+    {
+      "question": "choice和point的目標拼法是？",
+      "options": [
+        "oy",
+        "oi",
+        "ou"
+      ],
+      "answer": 1,
+      "hint": "看新詞卡中連在一起的字母。",
+      "explanation": "choice與point都含oi；本課新詞分類須按實際字形，而非自行改拼法。",
+      "id": "g6s1-english-07-q07"
+    },
+    {
+      "question": "圈出ou和ow都正確，就能證明聽辨完成嗎？",
+      "options": [
+        "不能，圈字是文字任務，聽辨要有實際模型",
+        "能，看到字等於聽到聲音",
+        "能，所有ou與ow本來都相同"
+      ],
+      "answer": 0,
+      "hint": "分開兩輪活動的證據。",
+      "explanation": "字形分類不含聽覺輸入，且ou／ow有不同讀法，不能據此宣稱完成聽辨。",
+      "id": "g6s1-english-07-q08"
+    }
+  ]
+}

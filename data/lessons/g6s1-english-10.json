@@ -1,0 +1,178 @@
+{
+  "id": "g6s1-english-10",
+  "course": "英語文",
+  "title": "活動順序的連貫表達",
+  "subtitle": "用first、then、before和after寫能照著做的順序",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "活動說明不只是每句前面加then。先看哪些步驟一定在前，哪些可以交換，再用完整句把你的做法說清楚。",
+  "goals": [
+    "我能用順序詞連接完整活動句。",
+    "我能分辨必須先做的條件與可交換的步驟。",
+    "我能依新條件改寫流程，讓讀者不需要補猜。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>本課以桌面文字卡規劃書評，不需工具、實際搬動或外部帳號。允許兩種符合明示條件的原流程，不為了唯一答案硬訂未給的先後；新題補新條件後再判新的順序。支持層先找choose與share兩端，再找read後的兩項；進階層說明交換draw與write為何仍合法。評量包括連接詞、主語動詞一致、條件與文本順序，不將活動建議當已完成結果。完成文字流程後，實際口頭指令須先有教師完整自然模型。</p>",
+  "selfCheck": [
+    "我能用順序詞連接完整活動句。",
+    "我能分辨必須先做的條件與可交換的步驟。",
+    "我能依新條件改寫流程，讓讀者不需要補猜。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "先讀規則，再排步驟",
+      "childText": "then不能把違反條件的流程變合理。",
+      "html": "<p>first首先、next下一步、then接著、after在……之後、before在……之前、finally最後。First, choose a book.是指令，用動詞原形開頭；若介紹一個角色的做法，則用First, Mei chooses a book.，主語Mei配chooses。本課先學指令型，再比較敘述型，不在同一段無意間跳換主語。</p><p>Before you share the review, check it.表示先check再share；句子最早出現的share不是最先做的動作。After you read, write one sentence.則是read在前、write在後。先把兩個事件抽出畫箭頭，才用文字排列；不是依英語字出現的順序猜真正先後。</p>",
+      "id": "g6s1-english-10-s01"
+    },
+    {
+      "title": "完整任務與六張打亂卡",
+      "childText": "卡號只是名稱，不是步驟次序。",
+      "html": "<p>原創任務：為一本已提供的虛構小書做紙上書評。小書內容：A child finds a lost pencil. The child asks the class about it. Its owner thanks the child. 詞庫lost遺失的、owner主人、thanks道謝。書名The Lost Pencil；不需要另外找書。六張卡：A Share the review. 分享書評。B Read the story. 讀故事。C Check the words and the picture. 查文字與圖。D Choose the story card. 選本故事卡。E Draw one picture. 畫一張圖。F Write one sentence. 寫一句。</p><p>完整條件：Choose before you read. Read before you draw or write. Draw and write before you check. Check before you share. 繪圖與寫句都在讀後、檢查前，但兩者之間沒有另定先後。紙上可以只寫「圖：孩子詢問鉛筆主人」代替畫畫，不評畫技。</p>",
+      "id": "g6s1-english-10-s02"
+    },
+    {
+      "title": "完整模型：兩種都能成立",
+      "childText": "相同條件不一定只剩一種流程。",
+      "html": "<div class=\"story\"><p>Plan One: First, choose the story card. Next, read the story. Then draw one picture. After that, write one sentence. Check the words and the picture before you share. Finally, share the review.</p><p>Plan Two: First, choose the story card. Read it next. Then write one sentence. After that, draw one picture. Check both parts. Finally, share the review.</p></div><p>Plan One是D→B→E→F→C→A；Plan Two是D→B→F→E→C→A。both parts指文字與圖。兩種都先讀，且在查核前完成圖與句。模型的書評句可用The child helps find the owner.，圖可畫孩子拿著紙上標示Pencil的卡片，不需要拿別人的真實用品。</p>",
+      "id": "g6s1-english-10-s03"
+    },
+    {
+      "title": "一起示範：用條件逐一查核",
+      "childText": "不是選你比較喜歡的順序。",
+      "html": "<p>成人示範檢查Plan Two：D選卡在B讀前，通過；B讀在F寫和E畫前，通過；F和E都在C查核前，通過；C在A分享前，也通過。因為四項條件都滿足，這個流程可行。若把A放到C前，即使加Finally或Please也不符合條件。</p><p>接著將指令型轉成角色敘述：Mei chooses the story card. She reads it. Then she writes a sentence and draws a picture. She checks both parts before she shares the review.。it指story card；both parts指句子與圖。寫成段落時可用she避免不停重複名字，但第一次應先交代Mei是誰。</p>",
+      "id": "g6s1-english-10-s04"
+    },
+    {
+      "title": "修復：連接詞有意思，不能只當裝飾",
+      "childText": "after句先出現的詞不一定先做。",
+      "html": "<p>草稿「Before you read, choose the story card.」其實正確，意思仍是先選卡再讀。錯讀成先read後choose，是把子句出現順序當活動順序。可先改寫Choose the card first. Read it next.確認，再回到原句。草稿「Finally, check the words. Then share.」若finally用來標整個流程最後一步，就與後面share相衝突；應把finally移到share。</p><p>另一種錯誤是宣稱「一定先畫再寫」；原條件沒有規定這一點，因此Plan Two也合理。指令不是已發生的紀錄，寫First, choose…不表示有人真的選好卡。要說完成，需要活動紀錄或作品；本課只要求能讀寫清楚的紙上流程。</p>",
+      "id": "g6s1-english-10-s05"
+    },
+    {
+      "title": "獨立轉用：加入一條新的要求",
+      "childText": "新條件可以減少可行順序。",
+      "html": "<p>新任務仍用同一故事、六張卡和四項原條件，另外新增：Write your sentence before you draw, because the picture must show that sentence.（先寫句子再畫，圖要對應句子。）請排出新流程，寫至少四個完整指令句，並說明原Plan One還能不能原樣使用。句子可用The child asks the class about the pencil.。</p><details><summary>完成後核對</summary><p>新順序D→B→F→E→C→A。參考First, choose the story card. Next, read it. Then write one sentence. After that, draw a picture for the sentence. Check both parts. Finally, share the review.。Plan One先畫後寫，違反新增條件，所以要修改；Plan Two符合新條件。不要只因Plan One曾是正確示範就保留不變。</p></details>",
+      "id": "g6s1-english-10-s06"
+    },
+    {
+      "title": "讓讀者試著只靠文字排序",
+      "childText": "測的是說明清楚，不是讀者會猜。",
+      "html": "<p>把自己的段落交給夥伴，僅提供A–F卡和原條件，讓對方照段落排列。若對方不知道it或both parts指什麼，回看是否先寫清楚名詞；若缺少check，回到條件補上。用「在分享前檢查圖和字」比單寫Then do it.更能讓讀者明白。可以不用剪卡，直接寫字母順序。</p><p>成人分別觀察能否理解before／after、接受原題多種可行方案、依新增條件修正、寫出完整指令。支持時可用中文事件箭頭，進階者將兩種方案各改成角色敘述並檢查動詞s。口語說明須先有教師完整示範；紙上排列成功只能證明讀懂這份流程，不是證明所有真實活動都已操作完成。</p>",
+      "id": "g6s1-english-10-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對規律活動、第三人稱動詞與do／does肯否定問答說明。課內角色、句子與資料均為原創；本頁不是來源錄音的轉錄。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "原任務必須最先做哪一張卡？",
+      "options": [
+        "E Draw one picture.",
+        "D Choose the story card.",
+        "A Share the review."
+      ],
+      "answer": 1,
+      "hint": "選卡要在閱讀前，其他步驟又依賴閱讀。",
+      "explanation": "D先選卡，B才能讀，畫寫再依賴讀，因此分享或畫圖不能成為第一步。",
+      "id": "g6s1-english-10-q01"
+    },
+    {
+      "question": "原條件對draw與write的先後要求是？",
+      "options": [
+        "兩者都在讀後、查核前，彼此可交換",
+        "一定write在draw前",
+        "一定draw在write前"
+      ],
+      "answer": 0,
+      "hint": "不要加入新題才出現的條件。",
+      "explanation": "原題只規定兩者的前後界線，未限定彼此次序，因此兩種模型都可行。",
+      "id": "g6s1-english-10-q02"
+    },
+    {
+      "question": "Before you share, check it.表示？",
+      "options": [
+        "先check再share",
+        "check和share都不用做",
+        "先share再check"
+      ],
+      "answer": 0,
+      "hint": "before子句點出另一個事件的界線。",
+      "explanation": "句子表示分享之前要檢查，不能把最先出現的share直接判為最早動作。",
+      "id": "g6s1-english-10-q03"
+    },
+    {
+      "question": "哪個原流程符合全部條件？",
+      "options": [
+        "D→B→E→A→F→C",
+        "D→C→B→E→F→A",
+        "D→B→F→E→C→A"
+      ],
+      "answer": 2,
+      "hint": "檢查前應完成圖和句，分享要在最後。",
+      "explanation": "正確流程先選讀，再寫畫，兩部分都完成才查核，最後分享，四條都符合。",
+      "id": "g6s1-english-10-q04"
+    },
+    {
+      "question": "模型中的both parts指什麼？",
+      "options": [
+        "兩本不同的書",
+        "文字和圖",
+        "兩個未說明的人"
+      ],
+      "answer": 1,
+      "hint": "回看check的兩個完整受詞。",
+      "explanation": "任務要求查words與picture，因此both parts指書評的文字和圖兩部分。",
+      "id": "g6s1-english-10-q05"
+    },
+    {
+      "question": "新任務為何不能原樣用Plan One？",
+      "options": [
+        "原故事突然沒有鉛筆",
+        "新條件要求先寫句再畫圖",
+        "新條件取消分享"
+      ],
+      "answer": 1,
+      "hint": "比較新增句與Plan One的中間兩步。",
+      "explanation": "Plan One先畫後寫，而新條件明說Write before you draw，所以要調整中間順序。",
+      "id": "g6s1-english-10-q06"
+    },
+    {
+      "question": "角色Mei的敘述句哪個正確？",
+      "options": [
+        "She read the story.（描述本課一般流程）",
+        "She reading the story.",
+        "She reads the story."
+      ],
+      "answer": 2,
+      "hint": "本課用現在簡單式介紹一人流程。",
+      "explanation": "一般流程以第三人稱she作主語，read須加s成reads，句子才完整。",
+      "id": "g6s1-english-10-q07"
+    },
+    {
+      "question": "寫出一份指令可以證明什麼？",
+      "options": [
+        "作者寫了流程，仍不能證明實際已做完",
+        "分享一定已經發生",
+        "所有孩子都已完成實物操作"
+      ],
+      "answer": 0,
+      "hint": "區分說明和已發生的紀錄。",
+      "explanation": "指令描述要如何做，沒有完成記錄就不能把它當成已發生活動的證據。",
+      "id": "g6s1-english-10-q08"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "g6s2-english-03",
+  "course": "英語文",
+  "title": "過去問答與肯否定回應",
+  "subtitle": "用did與was／were問不同的過去問題",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "問昨天做過什麼和昨天在哪裡，句型不一樣。用有肯定、否定與未知的記錄，練習問清楚、答準確，再補一個有根據的細節。",
+  "goals": [
+    "我能選擇did加動詞原形詢問過去活動。",
+    "我能區別一般動作問句與was／were狀態地點問句。",
+    "我能依明示紀錄回答yes、no或不知道，而不從沉默猜答案。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>先分辨問句述語是動作還是be加地點，再選助動詞。did在本課各人稱相同，主要動詞回原形；過去be問句用was／were倒裝而不再加did。肯否定短答須匹配主語，不省略到只剩模糊yes。記錄明示yes／no與not recorded，分三類教，不因未知項沒有勾就判no。支持層先配問答卡，進階層根據新報告寫兩種問句且補證據。訪問只用虛構角色，成人不追問兒童私人行程。</p>",
+  "selfCheck": [
+    "我能選擇did加動詞原形詢問過去活動。",
+    "我能區別一般動作問句與was／were狀態地點問句。",
+    "我能依明示紀錄回答yes、no或不知道，而不從沉默猜答案。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "先看問題要問哪一種資訊",
+      "childText": "did問動作，was／were可問過去地點或狀態。",
+      "html": "<p>過去動作句：Nell visited the display.，問Did Nell visit the display?。visited在did後改visit原形。過去地點句：Nell was at the display.，問Was Nell at the display?。這裡已使用be，不加did，也不寫Did Nell was…?。兩句可能談同一情境，但組句方式不同。</p><p>短答一組：Did she visit it? Yes, she did.／No, she didn’t.。另一組：Was she there? Yes, she was.／No, she wasn’t.。there指前面提過的地方。若資料根本沒有回答，可說I don’t know.或It isn’t in the record.（紀錄沒有寫），不要為了練肯否定就勉強猜一個。</p>",
+      "id": "g6s2-english-03-s01"
+    },
+    {
+      "title": "完整查核表：School Display Day",
+      "childText": "yes、no和未記錄有不同意思。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構展示日事件查核\" tabindex=\"0\"><table><caption>yes＝明示有；no＝明示沒有；not recorded＝未提供，不能當否定。</caption><thead><tr><th>項目</th><th>Nell</th><th>Tao</th></tr></thead><tbody><tr><td>at the display at 10:00</td><td>yes</td><td>no — at the class library</td></tr><tr><td>visited the display yesterday</td><td>yes</td><td>yes — in the afternoon</td></tr><tr><td>wrote a review yesterday</td><td>yes</td><td>no</td></tr><tr><td>drew a picture yesterday</td><td>not recorded</td><td>yes</td></tr><tr><td>shared the review yesterday</td><td>no</td><td>not recorded</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>display展示、review書評、record紀錄、shared分享、drew畫（draw的過去式）。表格在第一行只限10:00，其他行限定昨天活動；Tao十點不在展示處，但下午參觀過，因此visited是yes，兩者不矛盾。表中的no有明確文字依據，不是空白自動推得。</p>",
+      "id": "g6s2-english-03-s02"
+    },
+    {
+      "title": "完整問答：短答後補查到的細節",
+      "childText": "每一個yes都要對應上一個問題。",
+      "html": "<div class=\"story\"><p>Reporter: Was Tao at the display at ten?<br/>Nell: No, he wasn’t. He was at the class library.<br/>Reporter: Did he visit the display yesterday?<br/>Nell: Yes, he did. He visited it in the afternoon.<br/>Reporter: Did he write a review?<br/>Nell: No, he didn’t.<br/>Reporter: Did you draw a picture yesterday?<br/>Nell: It isn’t in this record. Please don’t guess.<br/>Reporter: Did you share your review?<br/>Nell: No, I didn’t.</p></div><p>reporter報導者、guess猜測。第2回合的No只回答十點所在地；第4回合的Yes回答整個昨天是否參觀。Nell最後代自己回答you，用I didn’t；未知的畫圖項則不虛構Yes或No。角色對話是讀寫練習，不假裝真實採訪。</p>",
+      "id": "g6s2-english-03-s03"
+    },
+    {
+      "title": "一起示範：從肯定句造問句",
+      "childText": "變的是結構，不是把事實偷偷改掉。",
+      "html": "<p>原句Nell wrote a review yesterday.。先辨wrote是write的過去式，再組Did Nell write a review yesterday?，資料是yes，所以答Yes, she did.。若要問做了什麼，組What did Nell write yesterday?，答She wrote a review.。did後是write，回答沒有did時才用wrote。</p><p>同樣做法：Tao drew a picture.→Did Tao draw a picture?→Yes, he did.。地點另做Nell was at the display at ten.→Was Nell at the display at ten?→Yes, she was.。成人讓孩子先把動作或be圈出，再組句；不能見到past就一律加did，也不能用Yes, she was回答Did she write…?。</p>",
+      "id": "g6s2-english-03-s04"
+    },
+    {
+      "title": "修復：否定的時間範圍要完整",
+      "childText": "十點沒在，不代表昨天沒去。",
+      "html": "<p>錯誤結論「Tao十點不在，所以昨天沒有參觀」跨越了時間範圍。表格明寫下午參觀，應保留No, he wasn’t there at ten. But he visited it in the afternoon.。but在此連接看似不同、其實各有時間條件的資訊，不必刪掉任何一項。</p><p>錯句Did Nell wrote a review?改write；錯短答Was she there? Yes, she did.改Yes, she was.。錯誤記錄「Nell沒畫圖」把not recorded當成no，應寫Unknown／not recorded。問題可以要求確定答案，但資料不足時，好的回答仍然是指出不足，而不是選一個聽起來合理的故事。</p>",
+      "id": "g6s2-english-03-s05"
+    },
+    {
+      "title": "獨立轉用：新的訪問記錄",
+      "childText": "問句形式和事實都要換。",
+      "html": "<p>完整新卡：Arlo was at the class library at 9:00 yesterday. He went to the paper art display at 11:00. He drew a picture there. He did not write a review. His afternoon activities are not recorded. 請寫一組was地點問答、一組did動作肯定問答、一組did動作否定問答；再說能否知道他下午是否分享圖片。</p><details><summary>完成後核對</summary><p>Was Arlo at the class library at nine? Yes, he was. Did he draw a picture? Yes, he did. Did he write a review? No, he didn’t.。也可問Did he go to the display? Yes, he did.，注意go不是went。下午分享未知，因紀錄明示下午活動未記；不能從已有圖片推成已分享。</p></details>",
+      "id": "g6s2-english-03-s06"
+    },
+    {
+      "title": "製作問答證據卡",
+      "childText": "把不知道也當成準確的答案。",
+      "html": "<p>成品畫一張四欄、四列的表。四欄標題依序是「問題／短答／補充細節／原資料位置」；四個資料列依序是「肯定／否定／未知／兩種問題比較」。從原表各挑一個肯定、否定與未知案例，填前三列；第四列並列Was Tao there at ten?和Did Tao visit yesterday?，寫各自短答、時間差異與資料依據。未知格可寫The record does not say.，不必造假把所有格填成yes或no。</p><p>成人評助動詞、原形恢復、人稱短答、時間範圍及未知判斷。需要較多支持的孩子在普通紙上寫出並清楚標記兩套句框：was／were句框用鉛筆圓圈標主語，did句框用鉛筆方框標主語；也可直接指本頁已供句框，進階者自行把同一事件寫成兩種問題並解釋差別。真正訪問式口語要先由教師自然示範完整回合，並記錄看卡或重讀協助。使用虛構資料已完成本課，不額外採集真實同學的行動紀錄。</p>",
+      "id": "g6s2-english-03-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Past simple – verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-verb-be",
+      "note": "2026-10-06直接核對was／were的人稱、否定與疑問倒裝、肯否定短答。課內時點、人物與地點全部原創；沒有以文字答題代替口語評量。"
+    },
+    {
+      "title": "British Council｜Past simple – questions",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-questions",
+      "note": "2026-10-06直接核對did加原形、疑問詞與did／didn’t短答的說明；只支持語法框架，不是課內虛構紀錄的來源。"
+    },
+    {
+      "title": "British Council｜Past simple – sentences",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-sentences",
+      "note": "2026-10-06直接核對過去事件、規則動詞ed、不規則went／ate／wrote／had與didn’t後接原形的說明；課內故事與句子原創。未驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Did Nell ___ a review yesterday?應填？",
+      "options": [
+        "write",
+        "wrote",
+        "writes"
+      ],
+      "answer": 0,
+      "hint": "did後要恢復原形。",
+      "explanation": "wrote的原形是write，過去問句由did承擔時態，不再使用wrote或writes。",
+      "id": "g6s2-english-03-q01"
+    },
+    {
+      "question": "Was Tao at the display at ten?依表應答？",
+      "options": [
+        "Yes, he did.",
+        "Yes, he was.",
+        "No, he wasn’t."
+      ],
+      "answer": 2,
+      "hint": "查第一行的特定時點。",
+      "explanation": "Tao十點在班級圖書角而非展示處，所以用be短答No, he wasn’t。",
+      "id": "g6s2-english-03-q02"
+    },
+    {
+      "question": "Did Tao visit the display yesterday?依表應答？",
+      "options": [
+        "No, he wasn’t.",
+        "Yes, he did.",
+        "No, he didn’t."
+      ],
+      "answer": 1,
+      "hint": "下午的參觀也屬於昨天。",
+      "explanation": "表明寫Tao下午參觀過，雖十點不在，對昨天是否參觀仍應肯定回答。",
+      "id": "g6s2-english-03-q03"
+    },
+    {
+      "question": "Nell昨天有沒有畫圖？",
+      "options": [
+        "not recorded，不能確定",
+        "確定沒有",
+        "確定有兩張"
+      ],
+      "answer": 0,
+      "hint": "分清no與not recorded。",
+      "explanation": "表格畫圖一行為未記錄，並非明示沒有，也沒有提供張數。",
+      "id": "g6s2-english-03-q04"
+    },
+    {
+      "question": "哪組助動詞問答配合？",
+      "options": [
+        "Was Nell there? Yes, she did.",
+        "Did Nell write? Yes, she was.",
+        "Was Nell there? Yes, she was."
+      ],
+      "answer": 2,
+      "hint": "短答和問題的be或did相配。",
+      "explanation": "was問句用was短答；did動作問句則用did，兩套不可任意交換。",
+      "id": "g6s2-english-03-q05"
+    },
+    {
+      "question": "新卡Arlo有沒有寫書評？",
+      "options": [
+        "資料未記錄，不能答",
+        "No, he didn’t.",
+        "Yes, he did."
+      ],
+      "answer": 1,
+      "hint": "新卡明寫did not write。",
+      "explanation": "新卡對寫書評明確否定，所以可以用No, he didn’t，不屬未知項。",
+      "id": "g6s2-english-03-q06"
+    },
+    {
+      "question": "新卡Arlo下午是否分享圖片？",
+      "options": [
+        "確定分享，因他已畫圖",
+        "未知，下午活動未記錄",
+        "確定沒分享，因沒寫書評"
+      ],
+      "answer": 1,
+      "hint": "作品存在不等於後來已分享。",
+      "explanation": "紀錄只說畫圖且下午未知，沒有分享行動證據，不能從其他活動推成有或沒有。",
+      "id": "g6s2-english-03-q07"
+    },
+    {
+      "question": "哪句問Arlo是否去展示處正確？",
+      "options": [
+        "Did he go to the display?",
+        "Was he go to the display?",
+        "Did he went to the display?"
+      ],
+      "answer": 0,
+      "hint": "go是動作，did後用原形。",
+      "explanation": "過去活動問句用did加go，不能重複使用went，也不能用was取代動作助動詞。",
+      "id": "g6s2-english-03-q08"
+    }
+  ]
+}

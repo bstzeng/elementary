@@ -1,0 +1,178 @@
+{
+  "id": "g6s1-english-05",
+  "course": "英語文",
+  "title": "生活數字的不同用途",
+  "subtitle": "先辨認數字的任務，再選數量、順序、編號或時間說法",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "同樣看到12，可能是十二本書、第十二項、房間代號或十二點。用完整活動單和紙上商店資料，先找數字的用途再回答。",
+  "goals": [
+    "我能從標籤區分數量、序數、編號、時刻和價錢。",
+    "我能用How many、Which、What time與How much選取所需資訊。",
+    "我能依完整價目與數量核對小計，不把編號當成可加的數量。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>本課所有編號、價格、活動及角色都是紙上虛構資料，不使用真實電話、學號或帳號。先問數字在做什麼，再教其讀法。序數只引入first、second、third、fourth、fifth、twelfth，編號採本課約定逐位讀，不能宣稱所有房號都只有一種說法。數字字形理解與實際聽辨分開；fifteen／fifty須由教師示範全句，不以拼字題證明聽得出差異。價錢以NT$元為單位、無折扣或額外費用的紙上模型計算，不進行購物。</p>",
+  "selfCheck": [
+    "我能從標籤區分數量、序數、編號、時刻和價錢。",
+    "我能用How many、Which、What time與How much選取所需資訊。",
+    "我能依完整價目與數量核對小計，不把編號當成可加的數量。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "同一個數字，先問它用在哪裡",
+      "childText": "標籤比單獨數字更有用。",
+      "html": "<p>How many books?問多少本，用基數表示數量，例如twelve books十二本。Which activity is first?問順序，first第一、second第二、third第三、fourth第四、fifth第五；twelfth第十二，拼字不直接在twelve後加th。Room 204中的204是辨識房間的代號，不能說房間裡有204人。</p><p>What time?問時刻，at two thirty表示兩點三十分。How much is it?問價錢，本課NT$35讀thirty-five Taiwan dollars。基數詞庫：twelve 12、fifteen 15、twenty 20、thirty 30、thirty-five 35、fifty 50。先把詞義與數字核對；十五與五十真正的發音差異，需要教師在完整句中示範與聽辨。</p>",
+      "id": "g6s1-english-05-s01"
+    },
+    {
+      "title": "完整活動單：Reading Day",
+      "childText": "每個數字旁都有用途。",
+      "html": "<div class=\"story\"><p>READING DAY — a fictional classroom event<br/>Date: 12 May<br/>Room: 204<br/>Start: 2:30 p.m.<br/>Books on the display table: 12<br/>Activity 1: Read a short story.<br/>Activity 2: Find three clues.<br/>Activity 3: Share one idea.<br/>Reference: page 15 of the class booklet.</p></div><p>詞庫date日期、room房間、start開始、display table展示桌、clue線索、reference參考資料、page頁。日期12 May可說the twelfth of May，也常見May twelfth；本課不把兩種日期順序當作內容不同。Room 204在本模型約定讀room two zero four，以方便逐位核對，別的自然讀法由教師說明。page fifteen是頁碼；不是要求讀十五本書。活動單沒有年份，不猜哪年或星期幾。</p>",
+      "id": "g6s1-english-05-s02"
+    },
+    {
+      "title": "完整紙上價目：金額還要帶單位",
+      "childText": "價格、件數和總價各占一欄。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構紙上文具價目\" tabindex=\"0\"><table><caption>無折扣、無額外費用的紙上算式；不進行買賣或付款。</caption><thead><tr><th>Item物品</th><th>每件價格</th><th>選取件數</th></tr></thead><tbody><tr><td>notebook筆記本</td><td>NT$35</td><td>2</td></tr><tr><td>bookmark書籤</td><td>NT$12</td><td>3</td></tr><tr><td>pencil鉛筆</td><td>NT$15</td><td>0</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><div class=\"story\"><p>Reader: How much is one notebook?<br/>Helper: It is thirty-five Taiwan dollars.<br/>Reader: How many notebooks are on this list?<br/>Helper: Two.<br/>Reader: What is the total for two notebooks?<br/>Helper: Seventy Taiwan dollars.</p></div><p>one notebook單一本子；two notebooks要加複數s。total總計。問單價不能答Two，問件數不能只答Thirty-five dollars，因為數字所對應的欄位不同。</p>",
+      "id": "g6s1-english-05-s03"
+    },
+    {
+      "title": "一起示範：圈標籤、選問題、再計算",
+      "childText": "數字先分類，再考慮能不能加。",
+      "html": "<p>活動單的12在Date: 12 May指月份中的日子，Books: 12指數量，二者雖然字形一樣，不能相加成24本。先把Date、Books標籤圈起，再選問題：When is Reading Day?回答On 12 May.；How many books are on the display table?回答Twelve books.。</p><p>價目示範：2 notebooks × NT$35＝NT$70；3 bookmarks × NT$12＝NT$36；合計NT$106。完整答The total is one hundred and six Taiwan dollars.，美式one hundred six也可。沒有購買鉛筆，所以NT$15不是本次應加金額。Room 204、page 15都不能混入總價，因為它們不是買入物品的金額。</p>",
+      "id": "g6s1-english-05-s04"
+    },
+    {
+      "title": "修復：看見數字不一定要算",
+      "childText": "先說清楚每一數代表什麼。",
+      "html": "<p>錯誤回答「活動在第204次舉辦」把房號當序數，原單只有Room 204。錯誤回答「共有15本書」把page 15看成書本數，應看Books欄的12。錯句The three activity is sharing.要用The third activity is sharing.，third表示第三項；three activities才表示三項活動。</p><p>英語讀數不只有聲音：書寫thirty-five時可保留連字號，twelfth需看完整字形。若聽不清楚十五或五十，可以問Do you mean fifteen or fifty?，再請對方指字或重述，不能只憑猜測填資料。活動單寫2:30 p.m.就不能只當30分鐘長的活動；沒有結束時刻，仍不知道活動總長。</p>",
+      "id": "g6s1-english-05-s05"
+    },
+    {
+      "title": "獨立轉用：新的小單",
+      "childText": "同樣的35，可能有不同角色。",
+      "html": "<p>完整新單：Room 305；Start 3:15 p.m.；Books 15；Read page 35；Activity 1: choose a book；Activity 2: read；Activity 3: share。另有獨立紙上採買清單：1 notebook at NT$35，2 pencils at NT$15 each，不買書籤。請回答房號、書本數、第二項活動、開始時刻和總價；至少將其中兩個答案寫成英文完整句。</p><details><summary>完成後核對</summary><p>Room 305，依本課約定room three zero five；15本；第二項read；下午3:15；總價35＋2×15＝NT$65。例There are fifteen books. The second activity is reading. The event starts at three fifteen p.m. The total is sixty-five Taiwan dollars.。page 35是參考頁碼，不能再加NT$35。</p></details>",
+      "id": "g6s1-english-05-s06"
+    },
+    {
+      "title": "做一張數字功能便條",
+      "childText": "讓讀者不用猜你的單位。",
+      "html": "<p>從原活動單與價目各選兩個數字，寫成四格便條「原標籤／數字／用途／一個英文回答」。例如Room／204／編號／The room number is two zero four.；Books／12／數量／There are twelve books.。價錢格須有Taiwan dollars，時刻格須保留下午語境。可以用中文解釋用途，再用英文回答資料。</p><p>成人先用不同鉛筆記號（例如圓圈與方框）標示編號與可計算的數量；進階者提出一個原單無法回答的問題，例如活動何時結束，並指出缺什麼。評量不只看算對106或65，還看是否把單價、件數、序數與頁碼分清。真實電話、住址、學號和帳號一概不納入練習；用本頁假資料即可完成。</p>",
+      "id": "g6s1-english-05-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Prepositions of time",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-time",
+      "note": "2026-10-06直接核對on加星期、at加時刻、in加一天的時段等文字說明。只作語法依據，未播放或驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "原活動單Books欄的12代表？",
+      "options": [
+        "活動的結束時刻",
+        "展示桌上的書本數",
+        "房間代號"
+      ],
+      "answer": 1,
+      "hint": "將數字連回緊鄰的標籤。",
+      "explanation": "Books on the display table限定為書本數量，不是其他欄位的代號或時間。",
+      "id": "g6s1-english-05-q01"
+    },
+    {
+      "question": "Which activity is second?原單應答？",
+      "options": [
+        "Find three clues.",
+        "Read a short story.",
+        "Share one idea."
+      ],
+      "answer": 0,
+      "hint": "second表示第二項，不是兩個活動。",
+      "explanation": "活動單第2項是找三個線索；第一項讀故事、第三項分享想法。",
+      "id": "g6s1-english-05-q02"
+    },
+    {
+      "question": "Room 204能推出什麼？",
+      "options": [
+        "必須付款NT$204",
+        "房間一定有204人",
+        "活動房間的代號是204"
+      ],
+      "answer": 2,
+      "hint": "房號是識別用途，不是數量。",
+      "explanation": "204附在Room之後作編號，沒有給人數或任何付款資訊。",
+      "id": "g6s1-english-05-q03"
+    },
+    {
+      "question": "原價目兩本notebook小計多少？",
+      "options": [
+        "NT$37",
+        "NT$35",
+        "NT$70"
+      ],
+      "answer": 2,
+      "hint": "每本35元，這次選兩本。",
+      "explanation": "小計是2乘35等於70元；35只是單價，不應把2直接加上去。",
+      "id": "g6s1-english-05-q04"
+    },
+    {
+      "question": "原採買清單全部總價是多少？",
+      "options": [
+        "NT$106",
+        "NT$121",
+        "NT$51"
+      ],
+      "answer": 0,
+      "hint": "計兩本及三張書籤，鉛筆是0支。",
+      "explanation": "2×35＋3×12＝70＋36＝106，零支鉛筆不加入15元。",
+      "id": "g6s1-english-05-q05"
+    },
+    {
+      "question": "新活動單的page 35代表？",
+      "options": [
+        "要參考的頁碼",
+        "要再加35元",
+        "共有35本書"
+      ],
+      "answer": 0,
+      "hint": "page與price不是同一種標籤。",
+      "explanation": "page 35只是第三十五頁的標示，不能當作物品數量或另一筆費用。",
+      "id": "g6s1-english-05-q06"
+    },
+    {
+      "question": "新紙上採買清單的總價是？",
+      "options": [
+        "NT$100",
+        "NT$65",
+        "NT$50"
+      ],
+      "answer": 1,
+      "hint": "一本35元、兩支各15元。",
+      "explanation": "35＋2×15＝65元；頁碼35不能混入價格計算。",
+      "id": "g6s1-english-05-q07"
+    },
+    {
+      "question": "只給Start 2:30 p.m.可知道什麼？",
+      "options": [
+        "活動一定持續30分鐘",
+        "活動在下午兩點三十分開始",
+        "活動在清晨兩點三十分結束"
+      ],
+      "answer": 1,
+      "hint": "Start是開始標籤，p.m.指下午。",
+      "explanation": "資料提供開始的時刻，沒有結束或時長，所以不能推成持續30分鐘。",
+      "id": "g6s1-english-05-q08"
+    }
+  ]
+}

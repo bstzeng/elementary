@@ -1,0 +1,188 @@
+{
+  "id": "g6s2-english-12",
+  "course": "英語文",
+  "title": "個人成長與學習分享",
+  "subtitle": "用作品證據回顧成長，說清楚現在能做什麼與下一步",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "學習分享不必只說「我變好了」。比較完整作品、當時的協助與新的表現，再選一個可做的小目標，讓成長描述具體而誠實。",
+  "goals": [
+    "我能從提供的前後作品指出一項具體改變。",
+    "我能在分享中說清楚使用的支持，避免把練過的題目當成全面熟練。",
+    "我能用過去與現在句型寫一段回顧，並訂一個可觀察的下一步。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>只用本課虛構學習檔案即可完成，不要求兒童公開分數、診斷、家庭或真實作品。比較時先看題目、協助與是否重做同題，不能只比數字就宣稱全面進步或某方法證明有效。支持層用Before／Now／Next三欄和完整詞框；進階層分清目前證據支持的範圍，提出新的轉用任務。成長分享可文字、指圖或AAC，口語另需教師完整自然模型。評量重點為證據、反思與下一步可執行，而非和其他孩子排名。</p>",
+  "selfCheck": [
+    "我能從提供的前後作品指出一項具體改變。",
+    "我能在分享中說清楚使用的支持，避免把練過的題目當成全面熟練。",
+    "我能用過去與現在句型寫一段回顧，並訂一個可觀察的下一步。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "用作品說話，先寫清楚協助",
+      "childText": "進步是具體改變，不必假裝全部都會。",
+      "html": "<p>學習回顧可以回答三件事：Before以前怎樣、Now現在有什麼證據、Next下一步想做什麼。例In Week 1, I needed a word list. Now I can check this sentence with the list. Next, I will try a new sentence.。with the list保留使用詞表的條件，不能把它刪去就說已能完全獨立完成。</p><p>作品證據包括實際句子、回答、修改痕跡和協助紀錄，不只有分數。重做同一道題可能因熟悉而更好，還要換新題才能檢查轉用。詞庫evidence證據、word list詞表、change改變、practice練習、goal目標、support協助、on my own獨立完成。沒有做過的評量應寫尚未觀察。</p>",
+      "id": "g6s2-english-12-s01"
+    },
+    {
+      "title": "完整虛構檔案：Mira的兩次作品",
+      "childText": "把題目、答案和支持一起讀。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"Mira的虛構寫作檔案\" tabindex=\"0\"><table><caption>這是原創學習資料，不是真實孩子成績；兩次都可看詞表，且第二次重做同題。</caption><thead><tr><th>項目</th><th>Week 1</th><th>Week 4</th></tr></thead><tbody><tr><td>相同題目一</td><td>寫「他昨天去圖書角」</td><td>重做同一題</td></tr><tr><td>作品一</td><td>He go to the class library yesterday.</td><td>He went to the class library yesterday.</td></tr><tr><td>相同題目二</td><td>問「他昨天有去圖書角嗎」</td><td>重做同一題</td></tr><tr><td>作品二</td><td>Did he went to the class library yesterday?</td><td>Did he go to the class library yesterday?</td></tr><tr><td>使用協助</td><td>可看go→went詞表；無成人代改</td><td>同一詞表；無成人代改</td></tr><tr><td>尚未評量</td><td>沒有新題與口語紀錄</td><td>仍沒有新題與口語紀錄</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>兩次比較能說Mira在這兩個練過的句子中，修正了肯定句went和did後go的位置。不能說她已會所有過去式、已無需詞表，或口語已自然。兩次協助相同有助比較，但同題重做仍限制了我們對新情境的推論。</p>",
+      "id": "g6s2-english-12-s02"
+    },
+    {
+      "title": "完整分享模型：承認支持也可以有成長",
+      "childText": "具體描述改了哪裡。",
+      "html": "<div class=\"story\"><p>In Week 1, I used “go” in an affirmative past sentence and “went” after “did”. In Week 4, I checked the same two sentences with a word list. I changed them to “He went…” and “Did he go…?” Now these two written sentences are correct. I still use the list. My next step is to try two new sentences and explain my choices. I have not checked my speaking yet.</p></div><p>affirmative肯定的、past過去的、correct正確的、still仍然、choices選擇。最後一句說口說尚未評，不是說一定不會；模型用具體限制讓聽眾知道成果範圍。本頁完整提供必要詞義，成人可逐句協助理解，不要求背誦所有陌生詞。這段是虛構Mira的分享，不代孩子宣稱真實表現。</p>",
+      "id": "g6s2-english-12-s03"
+    },
+    {
+      "title": "一起示範：把大目標改成可觀察下一步",
+      "childText": "讓目標有材料、行動和核對方式。",
+      "html": "<p>模糊目標I want to be better at English.（我想英文更好。）可拆成「下一次讀兩個新句→指出有沒有did→依詞表選原形或過去式→說出理由」。本課提供新題：① Yesterday, Jo ___ a short note.（write／wrote）② Did Jo ___ a short note?（write／wrote）原形對照write→wrote。先自己選，再說為何。</p><details><summary>一起核對新題</summary><p>①wrote；②write。第一句是過去肯定，第二句已有did。正確轉用到這一組新詞，能增加「理解這個句型關係」的證據；只有兩題，仍不能推成所有過去式全會。成人記是否看詞表、是否提醒did位置，別把有提示的答案說成全程獨立。</p></details><p>下一步不要求排固定成績或每天長時間練習；完成一小組、得到具體回饋再調整即可。</p>",
+      "id": "g6s2-english-12-s04"
+    },
+    {
+      "title": "修復：不要只比數字或和別人競賽",
+      "childText": "條件改了，結論也要改得保守。",
+      "html": "<p>錯誤分享「我兩句都對，所以不用再學英語」把小範圍成功擴成所有能力。可改I corrected these two sentences with a word list.。錯誤「這個方法一定讓所有人都進步」沒有比較研究或其他人的資料；本課只能描述Mira這次使用方法和作品變化。自我回顧是理解學習，不是替方法做保證。</p><p>若第一次只看文字，第二次由成人逐字提供答案，兩次分數不能當成同程度的自主表現。應分別記協助，找在相似條件下的新題觀察。需要幫忙不是失敗，能說I need help with…也屬有用的學習溝通。不要求同學分享私人困難，更不把速度、口音或診斷當成排名依據。</p>",
+      "id": "g6s2-english-12-s05"
+    },
+    {
+      "title": "獨立轉用：Ilan的閱讀檔案",
+      "childText": "新主題用新的證據，不套Mira句子。",
+      "html": "<p>Ilan完整資料：Week 1閱讀活動卡“Start 2:00 p.m. End 2:30 p.m. Room A.”，回答開始2:00、結束2:30、地點A，全部正確，但成人逐項指出欄位。Week 4讀新卡“Start 3:10 p.m. End 3:40 p.m. Room C.”，三項也正確，只看本頁詞庫start開始、end結束、room教室，成人沒有指欄。沒有口語或第三張卡紀錄。請寫三句Before／Now／Next分享，保留協助差異，不說所有閱讀都熟練。</p><details><summary>完成後核對一種答案</summary><p>Before, an adult showed me each field. Now I can find the time and room on this new card with a word list. Next, I will try another card and check my answers.。可指出這次在新卡找三項資訊時，不再需要成人逐項定位，但仍用詞庫。不能宣稱已會所有閱讀、完全不需支持或聽力也通過。</p></details>",
+      "id": "g6s2-english-12-s06"
+    },
+    {
+      "title": "完成可回看的學習分享",
+      "childText": "保留作品、限制和下一步。",
+      "html": "<p>成品包含三部分：一對可比較的虛構作品或答案、三至五句回顧、下一次的小任務。可以選Mira或Ilan，全程不提供自己的真實成績。每一句Now能指出證據，每一句Next有可實際完成的材料與核對方式；若希望減少詞表支持，先選一個已熟悉步驟嘗試，再如實記錄結果。</p><p>成人評量能否指出具體變化、承認協助、避免擴大結論及提出可觀察下一步。需要較多支持的孩子指三欄並選句框；進階者比較「同題改正」與「新題轉用」能證明的範圍差異。課程結束不等於能力永遠固定，還能帶著問題繼續學。朗讀若進行，合格教師先示範完整句；文字成果和真正聽說觀察分開，兩者都可以成為誠實的成長紀錄。</p>",
+      "id": "g6s2-english-12-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Past simple – sentences",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-sentences",
+      "note": "2026-10-06直接核對規則與不規則過去式、didn’t加原形的文字說明；課內角色與記錄原創，未驗聽音訊。"
+    },
+    {
+      "title": "British Council｜Past simple – questions",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-questions",
+      "note": "2026-10-06直接核對did加動詞原形的過去問句與肯否定短答；不作本課學習表現數據的來源。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對規律活動、第三人稱動詞與do／does肯否定問答說明。課內角色、句子與資料均為原創；本頁不是來源錄音的轉錄。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Mira兩次寫作的協助條件是？",
+      "options": [
+        "兩次都可用同一詞表，沒有成人代改",
+        "兩次都沒有任何資料",
+        "第一回完全獨立，第二回成人代寫"
+      ],
+      "answer": 0,
+      "hint": "讀檔案的使用協助列。",
+      "explanation": "表格明列兩次都能看go→went詞表且無代改，不能把它說成完全無支持。",
+      "id": "g6s2-english-12-q01"
+    },
+    {
+      "question": "Week 4的兩句具體改正了什麼？",
+      "options": [
+        "每一句都改成went就對",
+        "所有英文動詞都已學完",
+        "過去肯定用went，did後用go"
+      ],
+      "answer": 2,
+      "hint": "比較兩份實際句子。",
+      "explanation": "Week 1把兩個位置用反，Week 4分清肯定過去與did後原形，證據限這兩句。",
+      "id": "g6s2-english-12-q02"
+    },
+    {
+      "question": "為何Week 4答對還不能證明所有新題都會？",
+      "options": [
+        "因任何改正都沒有價值",
+        "這是同題重做，尚未提供新題表現",
+        "因用詞表一定沒有理解"
+      ],
+      "answer": 1,
+      "hint": "保留成功的價值，也保留範圍。",
+      "explanation": "同題更正是進步線索，但對新詞和新情境的轉用仍需新的作品觀察。",
+      "id": "g6s2-english-12-q03"
+    },
+    {
+      "question": "新題Yesterday, Jo ___ a short note.填？",
+      "options": [
+        "wrote",
+        "write",
+        "writing"
+      ],
+      "answer": 0,
+      "hint": "沒有did，是過去肯定句。",
+      "explanation": "yesterday配過去肯定事件，write應選wrote；writing單獨不能完成本句述語。",
+      "id": "g6s2-english-12-q04"
+    },
+    {
+      "question": "新題Did Jo ___ a short note?填？",
+      "options": [
+        "writes",
+        "write",
+        "wrote"
+      ],
+      "answer": 1,
+      "hint": "問題已用did。",
+      "explanation": "did之後主要動詞用原形write，不再使用過去式wrote或第三人稱writes。",
+      "id": "g6s2-english-12-q05"
+    },
+    {
+      "question": "Ilan Week 4相較Week 1，哪個變化有資料支持？",
+      "options": [
+        "已通過全部英語聽力",
+        "新卡仍答對三項，且不需成人逐欄指示",
+        "不再用任何詞庫"
+      ],
+      "answer": 1,
+      "hint": "同時讀答案與使用協助。",
+      "explanation": "Week 4有新卡三項正確且成人未指欄，但仍有詞庫，並無聽力紀錄。",
+      "id": "g6s2-english-12-q06"
+    },
+    {
+      "question": "哪個下一步最具體且可核對？",
+      "options": [
+        "從此永遠不出錯",
+        "立刻比所有同學都厲害",
+        "讀另一張卡，找開始、結束、地點並核對"
+      ],
+      "answer": 2,
+      "hint": "要有材料、行動與檢查方式。",
+      "explanation": "另一張卡和三項定位形成可觀察任務；永久不錯或比較他人沒有明確可行的檢核。",
+      "id": "g6s2-english-12-q07"
+    },
+    {
+      "question": "沒有口說紀錄時，成長分享應怎麼寫？",
+      "options": [
+        "口說尚未觀察，文字成果另列",
+        "沒有紀錄所以一定完全不會",
+        "紙上答對所以口說一定流暢"
+      ],
+      "answer": 0,
+      "hint": "沒有觀察不是成功證明，也不是失敗證明。",
+      "explanation": "資料不足應保留尚未觀察，不能把讀寫表現推成口語通過或以缺紀錄判定不會。",
+      "id": "g6s2-english-12-q08"
+    }
+  ]
+}

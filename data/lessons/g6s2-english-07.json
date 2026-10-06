@@ -1,0 +1,183 @@
+{
+  "id": "g6s2-english-07",
+  "course": "英語文",
+  "title": "短句書寫與語意連貫",
+  "subtitle": "把完整短句連成同一個主題，再按意思選連接詞",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "每句都寫對，段落仍可能跳來跳去。這課從完整原始資料改一段短文，讓讀者知道誰做了什麼，以及句子之間是補充、轉折還是原因。",
+  "goals": [
+    "我能寫出有主語與動詞的完整短句。",
+    "我能依意思使用and、but、because或so連接本課資訊。",
+    "我能檢查時態、人稱和代名詞，修成有連貫主題的短段落。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>先確認原始事實，再處理文法，不能為連接詞而發明原因。because引出原因，so引出結果；本課基本因果句選一套，不用Because…so…重複連接。允許Because放句首但須接完整主句，不能說because永遠不能開頭。支持層每次合兩句並用中文說關係；進階層刪除無關句、修正不清楚的it／they。全部是虛構小記，可指選或成人代寫但分記自主程度；朗讀也須先有教師完整模型。</p>",
+  "selfCheck": [
+    "我能寫出有主語與動詞的完整短句。",
+    "我能依意思使用and、but、because或so連接本課資訊。",
+    "我能檢查時態、人稱和代名詞，修成有連貫主題的短段落。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "完整句先把人物和動作說清楚",
+      "childText": "句子短也可以有完整意思。",
+      "html": "<p>完整句例：Ari made a reading card.（Ari做了一張閱讀卡。）有主語Ari和動詞made，受詞a reading card說明做了什麼。片段Because the title was too small.（因為標題太小。）只留下原因，還沒說結果；在本課書面段落須補Ari wrote it again.，或合成Ari wrote the title again because it was too small.。</p><p>不是所有英文情境都不能用短片語，例如對話回答可以省略，但本課要寫給沒看過前文的人一段完整介紹，所以要補足必要主語、動詞與關聯。詞庫title標題、large大的、small小的、again再一次、clear清楚的、made製作了（make過去式）。</p>",
+      "id": "g6s2-english-07-s01"
+    },
+    {
+      "title": "完整原始資料與待修稿",
+      "childText": "修稿有依據，不能靠猜補故事。",
+      "html": "<p>原創事實卡：昨天Ari做一張閱讀卡。標題寫得太小，所以Ari把標題再寫大一點。Ari喜歡畫圖，但這次只寫文字。Bo幫忙核對三個字。完成後，Ari和Bo把卡片留在桌上。沒有提供天氣、下次活動或其他人物資料。</p><div class=\"story\"><p>待修草稿：<br/>Yesterday Ari make a reading card. Because the title was too small. It was bigger. Ari likes drawing. But Ari wrote only words this time. Bo checked three words. They left it on the table. My favorite fruit is a banana.</p></div><p>only只、this time這一次、checked核對了、left留下了。草稿最後的水果喜好和閱讀卡主題無關，而且不在事實卡，應刪除或移到另一篇。It was bigger未交代怎麼變大，要回到已提供的重寫動作補清楚。</p>",
+      "id": "g6s2-english-07-s02"
+    },
+    {
+      "title": "完整修訂模型：每句有用",
+      "childText": "讓句與句之間的關係看得見。",
+      "html": "<div class=\"story\"><p>Yesterday, Ari made a reading card. The title was too small, so Ari wrote it again in larger letters. Ari likes drawing, but wrote only words this time. Bo checked three words on the card. After that, Ari and Bo left the card on the table.</p></div><p>這一版本保留一項一般喜好Ari likes drawing，並用this time清楚轉回昨天那次選擇；不是所有動詞都得一律過去式，關鍵是每句時間意義清楚。so前是原因「標題太小」，後是結果「重新寫大」。but對照喜歡畫圖與這次只寫字。最後用the card取代可能不清楚的it，讓讀者知道留在桌上的是卡片。</p>",
+      "id": "g6s2-english-07-s03"
+    },
+    {
+      "title": "一起示範：按意思選連接詞",
+      "childText": "and補充，but對照，because與so說因果。",
+      "html": "<p>補充：Ari wrote the title, and Bo checked three words.兩項資訊都成立。對照：Ari likes drawing, but wrote only words this time.保留期待不同之處。原因：Ari wrote the title again because it was too small.。結果：The title was too small, so Ari wrote it again.。後兩句方向不同，事實關係相同。</p><p>也可把原因放前面：Because the title was too small, Ari wrote it again.。這是完整句；只寫Because the title was too small.則沒有本課需要的主句。一起練時先用中文指出原因與結果，再選一種句型，不在同一基本句用Because…so…重複。所有示範只能使用事實卡給定的原因，不能把Bo出現擅自說成標題變小的原因。</p>",
+      "id": "g6s2-english-07-s04"
+    },
+    {
+      "title": "修復：代名詞與時態需要讀者找得到",
+      "childText": "省名詞之前，先交代它指誰。",
+      "html": "<p>草稿They left it on the table.若緊接清楚的Ari and Bo與reading card，可以理解；若前面又加入多個人或物，應重寫Ari and Bo left the card on the table.，避免讀者不知道they和it指什麼。簡潔不是省到只剩線索。選用代名詞時要有清楚、相合的對象，不能讓it同時指title與card而無從判斷。</p><p>Yesterday Ari make…在講昨天做卡，改made。Ari likes drawing則是一般喜好，若有明確語境不必硬改liked；但The title is too small…突然跳到現在，若是在回顧當時狀況就應was。修改要根據要表達的時間，不只把所有字尾統一。拼字、語意和資料支持三者要一起核對。</p>",
+      "id": "g6s2-english-07-s05"
+    },
+    {
+      "title": "獨立轉用：新的小段落",
+      "childText": "資料一換，原因也要重新找。",
+      "html": "<p>新完整事實：昨天Lumi寫兩個問題。第一個問題不清楚，所以她重新寫它。Kai看了兩個問題並提出一個建議。Lumi修改後把兩個問題放進資料夾；沒有分享給全班的紀錄。詞庫question問題、first第一、unclear不清楚、suggestion建議、folder資料夾；give→gave給予（此處為提出建議），put→put放入（原形與過去式拼字相同）。請寫四到五句，用because或so表示原因，另用and連兩項資料，最後明說放進資料夾的是什麼。</p><details><summary>完成後核對一種答案</summary><p>Yesterday, Lumi wrote two questions. The first question was unclear, so she wrote it again. Kai read the questions and gave one suggestion. After making a change, Lumi put the two questions in a folder.。也可用Lumi wrote the first question again because it was unclear.。gave是give過去式，put此處過去形拼字仍put，可直接使用所供模型。不加入全班已看見或活動成功的結論。</p></details>",
+      "id": "g6s2-english-07-s06"
+    },
+    {
+      "title": "用四次短檢查完成修改",
+      "childText": "先查意思，再查形式。",
+      "html": "<p>第一遍只問是否忠於事實卡，刪去無關或虛構結果；第二遍問每句是否有必要的主語和動詞；第三遍看and／but／because／so是否真符合關係；第四遍查代名詞、時間、句首大寫與句尾標點。可以保留修改前後兩版，圈出一處變清楚的地方並說理由。</p><p>成人以內容準確、句子完整、句間關係和修訂理由評量，避免只算字數。需要較多支持的孩子先寫兩句並合成一句；進階者把同一因果改寫兩種方向，確保原因和結果不倒置。朗讀由教師自然示範後才觀察流暢度；只看字稿不能認定孩子已用對語調。學習成果不必公開，也不需要任何真實生活私人材料。</p>",
+      "id": "g6s2-english-07-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Conjunctions grammar reference PDF",
+      "url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/gs_conjunctions_0.pdf",
+      "note": "2026-10-06直接讀兩頁官方PDF，核對and補充、but對照、because理由、so結果的文字說明。課內段落與修改任務均為原創，不使用來源人物故事或影片。"
+    },
+    {
+      "title": "British Council｜Past simple – sentences",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-sentences",
+      "note": "2026-10-06直接核對規則ed、不規則went／ate／wrote／had，以及didn’t後接原形；例句與情境均為原創，未驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "草稿Because the title was too small.在本課書面段落缺什麼？",
+      "options": [
+        "更多不相關的形容詞",
+        "說明結果或主要動作的主句",
+        "一個真實家庭地址"
+      ],
+      "answer": 1,
+      "hint": "原因子句還沒有把整件事說完。",
+      "explanation": "because只引出原因，需接如Ari wrote it again的主句，才完成本課所需的完整意思。",
+      "id": "g6s2-english-07-q01"
+    },
+    {
+      "question": "Yesterday Ari make…應怎麼修？",
+      "options": [
+        "把yesterday改成always以逃避修句",
+        "把Ari改成they且其他不動",
+        "把make改成made"
+      ],
+      "answer": 2,
+      "hint": "事實卡明說昨天做卡。",
+      "explanation": "過去肯定事件用make的過去式made，不能為避免變化而改動原事件時間。",
+      "id": "g6s2-english-07-q02"
+    },
+    {
+      "question": "The title was too small, ___ Ari wrote it again.最適合填？",
+      "options": [
+        "so",
+        "or",
+        "but"
+      ],
+      "answer": 0,
+      "hint": "前面是原因，後面是已給結果。",
+      "explanation": "so引出標題太小造成的重寫結果；but表示對照，or表示選擇，均不合這裡給定關係。",
+      "id": "g6s2-english-07-q03"
+    },
+    {
+      "question": "哪句因果方向與資料相符？",
+      "options": [
+        "Bo appeared, so all words became correct.",
+        "Ari wrote the title again because it was too small.",
+        "The title was small because Bo checked words."
+      ],
+      "answer": 1,
+      "hint": "只使用事實卡明說的原因。",
+      "explanation": "事實是標題太小所以重寫，不是Bo出現或核對造成尺寸或保證全對。",
+      "id": "g6s2-english-07-q04"
+    },
+    {
+      "question": "為何應刪去香蕉喜好句？",
+      "options": [
+        "英文段落永遠不能談水果",
+        "不在事實卡且與本段閱讀卡主題無關",
+        "所有喜好句都不完整"
+      ],
+      "answer": 1,
+      "hint": "同時檢查來源與段落目的。",
+      "explanation": "這一段重點是製作修改閱讀卡，水果喜好沒有資料依據也不服務主題，並非水果不能寫。",
+      "id": "g6s2-english-07-q05"
+    },
+    {
+      "question": "新資料Lumi重寫第一個問題的原因是？",
+      "options": [
+        "第一個問題不清楚",
+        "她忘了真實地址",
+        "Kai拒絕所有問題"
+      ],
+      "answer": 0,
+      "hint": "查看新事實卡明說的原因。",
+      "explanation": "新卡給定first question unclear，所以她重寫；另外兩個理由沒有提供。",
+      "id": "g6s2-english-07-q06"
+    },
+    {
+      "question": "新段最後放進folder的是？",
+      "options": [
+        "兩個問題",
+        "一張未提供的照片",
+        "整個班級"
+      ],
+      "answer": 0,
+      "hint": "最後一句需明確指出物件。",
+      "explanation": "新資料說Lumi把兩個問題放進資料夾，寫出two questions避免it指向不清。",
+      "id": "g6s2-english-07-q07"
+    },
+    {
+      "question": "新資料可否寫「全班已看過修改稿」？",
+      "options": [
+        "可以，放進資料夾就等於分享",
+        "可以，有人給建議就代表全班同意",
+        "不能，沒有分享給全班的記錄"
+      ],
+      "answer": 2,
+      "hint": "區分存放、建議與正式分享。",
+      "explanation": "資料只提供修改和放入資料夾，Kai給建議不等於全班已看過，更不構成共同同意。",
+      "id": "g6s2-english-07-q08"
+    }
+  ]
+}
