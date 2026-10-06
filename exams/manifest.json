@@ -1,0 +1,28 @@
+{
+  "draft": false,
+  "qaAccepted": 0,
+  "forms": 18,
+  "questions": 183,
+  "inventory": 624,
+  "documents": 36,
+  "ids": [
+    "g1s1-life-final-a",
+    "g1s1-life-final-b",
+    "g1s1-life-final-c",
+    "g1s1-life-midterm-a",
+    "g1s1-life-midterm-b",
+    "g1s1-life-midterm-c",
+    "g1s1-mandarin-final-a",
+    "g1s1-mandarin-final-b",
+    "g1s1-mandarin-final-c",
+    "g1s1-mandarin-midterm-a",
+    "g1s1-mandarin-midterm-b",
+    "g1s1-mandarin-midterm-c",
+    "g1s1-mathematics-final-a",
+    "g1s1-mathematics-final-b",
+    "g1s1-mathematics-final-c",
+    "g1s1-mathematics-midterm-a",
+    "g1s1-mathematics-midterm-b",
+    "g1s1-mathematics-midterm-c"
+  ]
+}
