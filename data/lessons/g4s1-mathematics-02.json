@@ -1,0 +1,177 @@
+{
+  "id": "g4s1-mathematics-02",
+  "course": "數學",
+  "title": "多位數乘法",
+  "subtitle": "把多位乘數拆成有單位的份數，讓直式每一列說得通。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "解釋二、三位乘數的部分積",
+    "處理進位及中間、末尾的0",
+    "用估算與另一種拆法核對"
+  ],
+  "materials": [
+    "大張位值方格紙",
+    "包裝任務卡、粗筆"
+  ],
+  "intro": "把多位乘數拆成有單位的份數，讓直式每一列說得通。",
+  "sections": [
+    {
+      "title": "24份，拆成20份和4份",
+      "childText": "每一列部分積都有自己的單位。",
+      "html": "<p>圖卡每包236張，買24包。24包分成20包和4包：4包有236×4＝944張，20包有236×20＝4720張，合起來5664張。這是虛構包裝題，不必拿大量實物。</p><p>把24看成2和4會算錯，因為2在十位，代表20包。下面表格先看清包數與張數，再看直式中為什麼第二列向左移一位。</p><table><caption>分開算，再合起來</caption><thead><tr><th scope=\"col\">包數</th><th scope=\"col\">乘法</th><th scope=\"col\">張數</th></tr></thead><tbody><tr><th scope=\"row\">4包</th><td>236×4</td><td>944張</td></tr><tr><th scope=\"row\">20包</th><td>236×20</td><td>4720張</td></tr><tr><th scope=\"row\">24包</th><td>944＋4720</td><td>5664張</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-02-s01"
+    },
+    {
+      "title": "真的寫出乘法直式",
+      "childText": "第二列是乘20，個位必須是0。",
+      "html": "<p>先算236×4：6×4＝24，個位寫4、進2個十；3個十×4＝12個十，加進來2個十為14個十，十位寫4、進1個百；2個百×4再加1個百，得9個百，所以944。</p><p>再算236×20：先算236×2＝472，再乘10，得到4720。十位的2乘6得12個十，十位寫2、進1個百；乘3個十是6個百，加1得7個百；乘2個百為4個千。最後944＋4720＝5664。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 208\" role=\"img\" aria-labelledby=\"g4s1-mathematics-02-multiply\"><title id=\"g4s1-mathematics-02-multiply\">236乘24的直式：部分積944、4720，相加5664。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"212\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">×</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">9</text><text x=\"280\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"212\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">7</text><text x=\"178\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"280\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"212\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"178\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"105\" y1=\"162\" x2=\"302\" y2=\"162\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>236乘24的直式：部分積944、4720，相加5664。</figcaption></figure>",
+      "id": "g4s1-mathematics-02-s02"
+    },
+    {
+      "title": "中間遇到0，也要保留單位",
+      "childText": "乘104的三列是乘4、乘0個十、乘1個百。",
+      "html": "<p>308×104，先算308×4＝1232：8×4＝32，寫2進3個十；0個十×4加3個十，十位是3；3個百×4＝12個百，百位2、千位1。</p><p>乘0個十的部分積是0；乘1個百得30800。1232＋0＋30800＝32032。0那一列可以在熟悉後省寫，但百位部分積一定代表30800，不能緊接1232寫成308。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 246\" role=\"img\" aria-labelledby=\"g4s1-mathematics-02-zero\"><title id=\"g4s1-mathematics-02-zero\">308乘104：部分積1232、0、30800，積32032。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"178\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">×</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"280\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"280\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"178\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"144\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"280\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"246\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"212\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"178\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"144\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"105\" y1=\"200\" x2=\"302\" y2=\"200\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>308乘104：部分積1232、0、30800，積32032。</figcaption></figure>",
+      "id": "g4s1-mathematics-02-s03"
+    },
+    {
+      "title": "末尾0能幫忙，不能只數看見的0",
+      "childText": "先認單位，再決定0的位置。",
+      "html": "<p>1600×200可以想16個百乘2個百：16×2＝32，而100×100＝10000，所以是32個萬，即320000。也可先1600×2＝3200，再乘100。</p><p>另一題250×40：25×4＝100，再補上兩個十帶來的100倍，得10000。基本乘積100本身已有兩個0，不能只說答案一定有原來的兩個0。用250×4＝1000再乘10核對。</p>",
+      "id": "g4s1-mathematics-02-s04"
+    },
+    {
+      "title": "估計是檢查，不是精確答案",
+      "childText": "結果的大小應該接近合理範圍。",
+      "html": "<p>236×24介於200×20＝4000與300×30＝9000之間；5664合理，56640太大。也可把236約看240，24約看20，得到約4800，知道精算應在幾千。</p><p>估算只幫忙察覺位值錯誤，不保證每個數字正確。5664和5564都可能落在範圍內，還要逐列核對部分積與加法。先問錯在哪一步，比把整題重寫一遍更有用。</p>",
+      "id": "g4s1-mathematics-02-s05"
+    },
+    {
+      "title": "一起做：一列一個意思",
+      "childText": "每寫一列，就說正在算幾份。",
+      "html": "<p>成人和孩子算125×32。先算2份250，再算30份3750，相加4000。3×5＝15進位後，十位3×2＋1＝7，百位3×1＝3，所以125×3＝375，再成3750。</p><p>請孩子在每列旁寫「2份」「30份」，成人遮去總積，讓孩子從部分積找回答案。若把3750寫成375，先問這是3份還是30份，重新用包數修理。</p>",
+      "id": "g4s1-mathematics-02-s06"
+    },
+    {
+      "title": "自己轉用：解釋一個零",
+      "childText": "能說明的算法才比較不會忘。",
+      "html": "<p>獨立算204×23與120×105，每題寫出部分積並說明其中一列在算幾份。出口：判斷「兩個因數各有一個0，所以積一定恰有兩個0」是否可靠，請用計算理由說明。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>獨立算204×23：3份612，20份4080，相加4692；再算120×105：5份600，0個十份0，100份12000，合12600。每題選一列用完整句說明。</p><p>出口題：有人說「兩個因數各有一個0，所以積一定恰有兩個0。」請用32032反駁；積的零來自各位運算，不是照抄乘數的外形。所有乘數最多三位，不靠堆高位數當挑戰。</p></details>",
+      "id": "g4s1-mathematics-02-s07"
+    }
+  ],
+  "teachingHtml": "<p>本課依N-4-2，以二位及三位乘數直式建立部分積的位值理由。先從236×24的包數拆解開始，成人不直接給「第二列退一格」口訣，而要求孩子說20包是多少。直式每列和情境表同時保留，減少操作記號與意義脫節。進位小字可由成人在紙上另註，網頁正文已逐項列出進位量，不能略過零位。</p><p>乘104例同時含被乘數中間零與乘數十位零，檢查孩子是否把0×4加進位3錯看成0。部分積0不移除其他位置，30800百位起算的理由要說清楚。1600×200以百為單位解釋；250×40用來打破只機械數零的想法。允許孩子保留全部0列而不要求最快寫法。</p><p>支持組用方格位值欄及部分積表，先做125×32，將計算與說明分開；熟練組分析錯列或比較兩種拆法，不增加四位乘數。觀察點包含進位加回、零位守住、部分積對齊及總積量級。獨立題204×23與120×105提供不同零位置，能指出一列的實際份數才算掌握位值，不能只憑答案判定熟練。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-mathematics-02-q01",
+      "question": "236×24第二列4720表示？",
+      "options": [
+        "236張的20包",
+        "236張的2包",
+        "236張的4包"
+      ],
+      "answer": 0,
+      "hint": "看乘數2所在的十位。",
+      "explanation": "十位2代表20包，所以部分積是236×20的4720張。"
+    },
+    {
+      "id": "g4s1-mathematics-02-q02",
+      "question": "236×24的結果是？",
+      "options": [
+        "1416",
+        "5664",
+        "56640"
+      ],
+      "answer": 1,
+      "hint": "把944與4720相加。",
+      "explanation": "4份944和20份4720合計5664，單位仍是張。"
+    },
+    {
+      "id": "g4s1-mathematics-02-q03",
+      "question": "308×4算十位時，應算？",
+      "options": [
+        "0×4後直接寫0",
+        "8×4後把3丟掉",
+        "0×4加進來的3個十"
+      ],
+      "answer": 2,
+      "hint": "個位8×4有32個一。",
+      "explanation": "32個一換成3個十和2個一，因此十位還要加上3個十。"
+    },
+    {
+      "id": "g4s1-mathematics-02-q04",
+      "question": "308×104中乘1個百的部分積是？",
+      "options": [
+        "3080",
+        "30800",
+        "308"
+      ],
+      "answer": 1,
+      "hint": "1在百位，不是個位。",
+      "explanation": "百位1代表100，308的100倍是30800，保留兩個末尾0。"
+    },
+    {
+      "id": "g4s1-mathematics-02-q05",
+      "question": "1600×200是多少？",
+      "options": [
+        "3200",
+        "320000",
+        "32000"
+      ],
+      "answer": 1,
+      "hint": "先乘2，再乘100。",
+      "explanation": "1600乘2是3200，再乘100得320000，與32個萬相同。"
+    },
+    {
+      "id": "g4s1-mathematics-02-q06",
+      "question": "125×32的兩個部分積是？",
+      "options": [
+        "250和375",
+        "125和3750",
+        "250和3750"
+      ],
+      "answer": 2,
+      "hint": "32要拆成30與2。",
+      "explanation": "125乘2是250，乘30是3750，兩列相加才是32份。"
+    },
+    {
+      "id": "g4s1-mathematics-02-q07",
+      "question": "204×23的答案是？",
+      "options": [
+        "4692",
+        "1020",
+        "46920"
+      ],
+      "answer": 0,
+      "hint": "先算3份，再算20份。",
+      "explanation": "204乘3為612，乘20為4080，相加得到4692。"
+    },
+    {
+      "id": "g4s1-mathematics-02-q08",
+      "question": "怎樣最能檢查56640是否為236×24？",
+      "options": [
+        "用200×20與300×30夾住結果",
+        "只看答案尾數是不是4",
+        "看乘式是否排得漂亮"
+      ],
+      "answer": 0,
+      "hint": "精確積應比9000小。",
+      "explanation": "236小於300且24小於30，積必小於9000，因此56640不合理。"
+    }
+  ],
+  "selfCheck": [
+    "我知道每列在算幾份。",
+    "我會把進位加回正確位。",
+    "我能用量級檢查多寫的零。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-2：乘數最多三位；以位值說明直式，注意0與較簡便的整十整百計算。"
+    }
+  ]
+}

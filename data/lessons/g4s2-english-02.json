@@ -1,0 +1,189 @@
+{
+  "id": "g4s2-english-02",
+  "course": "英語文",
+  "title": "房間名稱與所在位置",
+  "subtitle": "在虛構房屋中找人和物品，先說房間，再說更精確位置",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "在虛構房屋中找人和物品，先說房間，再說更精確位置。依完整圖文先理解，再做有提示練習，最後換資料獨立轉用。",
+  "goals": [
+    "我能辨認kitchen、bedroom、living room、bathroom四個名稱。",
+    "我會用in說房間，並在本課場景以on/under說物品與家具關係。",
+    "我能跟著移動資料更新位置，不從房間推定人物正在做什麼。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>四房間圖只代表虛構故事，不假定家庭配置。紅書on bed與Pip living room實際可見，藍書/移動後位置由明標文字卡供應。支持者單層in，進階者雙層位置與不變項，where對象和it回指明確。on/under保留實際參照物，禁止從位置推動作或所有權。無真實住所、家居照片或危險找物示範；卡位語意與現場口語分評。</p>",
+  "selfCheck": [
+    "我能辨認kitchen、bedroom、living room、bathroom四個名稱。",
+    "我會用in說房間，並在本課場景以on/under說物品與家具關係。",
+    "我能跟著移動資料更新位置，不從房間推定人物正在做什麼。",
+    "我能指出資料與使用的支持，不把文字答對當成已完成聽說。"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-english-02-s01",
+      "title": "先找大範圍，再找小位置",
+      "childText": "房間與家具不是同一層資料。",
+      "html": "<p>房間詞：<span lang=\"en\">kitchen</span>廚房、<span lang=\"en\">bedroom</span>臥室、<span lang=\"en\">living room</span>客廳、<span lang=\"en\">bathroom</span>浴室。家具詞：<span lang=\"en\">bed</span>床、<span lang=\"en\">table</span>桌子、<span lang=\"en\">sofa</span>沙發。說在一個房間裡，本課用<span lang=\"en\">in the bedroom</span>；說在床面上用<span lang=\"en\">on the bed</span>；在床下用<span lang=\"en\">under the bed</span>。</p><p>這裡的房屋是故事圖，不是標準家庭清單。有些家空間共用、名稱與配置不同，都不影響孩子學習。本課不畫自己家、不交地址或房間照片，只用虛構人物與本頁完整資料。</p>"
+    },
+    {
+      "id": "g4s2-english-02-s02",
+      "title": "完整虛構房屋圖",
+      "childText": "圖說提供同等可近用資訊。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 315\" role=\"img\" aria-labelledby=\"g4s2-english-02-fig\"><title id=\"g4s2-english-02-fig\">原創虛構屋內示意四區：左上kitchen有桌，右上bedroom有床和床上紅書，左下living room有沙發和Pip，右下bathroom有浴缸。不是比例平面圖或真實住家。</title><g stroke=\"#345\" stroke-width=\"3\"><rect x=\"10\" y=\"10\" width=\"170\" height=\"145\" fill=\"#f8efd8\"/><rect x=\"180\" y=\"10\" width=\"170\" height=\"145\" fill=\"#e6eef9\"/><rect x=\"10\" y=\"155\" width=\"170\" height=\"150\" fill=\"#e5f4e7\"/><rect x=\"180\" y=\"155\" width=\"170\" height=\"150\" fill=\"#f4e6ed\"/></g><g font-size=\"19\" lang=\"en\" text-anchor=\"middle\"><text x=\"95\" y=\"39\">kitchen</text><text x=\"265\" y=\"39\">bedroom</text><text x=\"95\" y=\"183\">living room</text><text x=\"265\" y=\"183\">bathroom</text></g><path d=\"M44 82H141V96H44ZM55 96V126M129 96V126\" fill=\"#cba875\" stroke=\"#654c30\" stroke-width=\"3\"/><path d=\"M214 113V65H329V113ZM214 113V134M329 113V134\" fill=\"#a8bddd\" stroke=\"#345\" stroke-width=\"3\"/><rect x=\"222\" y=\"74\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#345\"/><rect x=\"270\" y=\"74\" width=\"40\" height=\"23\" fill=\"#c45653\" stroke=\"#672e2c\"/><path d=\"M33 254V216H105V254ZM27 241H112V269H27Z\" fill=\"#d6b06d\" stroke=\"#654c30\" stroke-width=\"3\"/><circle cx=\"140\" cy=\"226\" r=\"13\" fill=\"#ceb28f\" stroke=\"#345\"/><path d=\"M130 242H150V270H130Z\" fill=\"#6486b5\" stroke=\"#345\"/><text x=\"124\" y=\"292\" lang=\"en\" font-size=\"16\">Pip</text><path d=\"M213 226H331L319 269H224Z\" fill=\"#fff\" stroke=\"#345\" stroke-width=\"3\"/><path d=\"M224 225V211H239\" fill=\"none\" stroke=\"#345\" stroke-width=\"4\"/></svg><figcaption>虛構示意：Pip在living room；紅書在bedroom的床上。圖中文字與造型共同提示房間，不是每家都要有的配置。</figcaption></figure><p>先指四個英文房間，再找Pip和紅書。Pip在客廳，不在臥室；紅書在臥室，且接觸床面。浴缸只幫辨識故事房間，不是讓孩子進入浴室或開水示範。各區並非按比例或真實動線繪製，不做導航和安全出口推論。</p>"
+    },
+    {
+      "id": "g4s2-english-02-s03",
+      "title": "完整對話：找紅書",
+      "childText": "先確定問的是人還是物。",
+      "html": "<div class=\"story\"><p>Jo：<span lang=\"en\">Where is Pip?</span> Pip在哪裡？Nia：<span lang=\"en\">Pip is in the living room.</span> Jo：<span lang=\"en\">Where is the red book?</span> 紅書在哪裡？Nia：<span lang=\"en\">It’s in the bedroom, on the bed.</span> Jo：<span lang=\"en\">Under the bed?</span> 在床下？Nia：<span lang=\"en\">No, on the bed.</span> 不，在床上。</p></div><p>教師完整讀六回合；孩子先追蹤兩個where問題的對象，再指房間與床上位置。It在第四句接前一句the red book，不是突然指Pip；紅書的兩個位置描述可以同時成立，不互相矛盾。</p>"
+    },
+    {
+      "id": "g4s2-english-02-s04",
+      "title": "一起練：兩層位置卡",
+      "childText": "不要只說房間卻忽略更正。",
+      "html": "<p>成人給兩張卡：「bedroom」「on the bed」，孩子合成<span lang=\"en\">The red book is in the bedroom. It’s on the bed.</span>。改成只問房間時，第一句已足夠；問更精確位置時再補第二句，不要求每次都背最長答案。</p><p>另一組文字新卡：「藍書在kitchen，under the table」。成人問<span lang=\"en\">Where is the blue book?</span>，可答<span lang=\"en\">It’s in the kitchen, under the table.</span>。這張是另外供應的文字卡，原圖沒有畫藍書，不能聲稱在圖上看見；孩子要指出自己的證據是文字。</p>"
+    },
+    {
+      "id": "g4s2-english-02-s05",
+      "title": "修復：位置不是動作，也不是擁有",
+      "childText": "在廚房不代表正在煮飯。",
+      "html": "<p>Pip在living room，只知道所在位置；不能因此說一定看電視或那是Pip的家。紅書在bedroom，也不能斷言床或書屬於誰。把「在哪」「在做什麼」「誰的」三種問題分開，本課只教第一種。</p><p>若把on寫成under，先比較物品與床面：本圖書接觸床面，應on。不能只因book在圖上比bathroom高就說on the bathroom。位置詞要有明確參照物；大小或上下版面不是房間屬性的證據。</p>"
+    },
+    {
+      "id": "g4s2-english-02-s06",
+      "title": "自己試：只移一本書",
+      "childText": "有更新才改，不把所有位置重寫。",
+      "html": "<p>新動作卡：Nia把紅書移到living room的沙發上；Pip仍在living room，房間名稱不變。請回答<span lang=\"en\">Where is the red book now?</span>，再說舊答案哪兩項需要修改。這是新文字情境，原起始圖保留作比較。</p><details><summary>完整回應</summary><p><span lang=\"en\">It’s in the living room, on the sofa.</span> 房間bedroom改living room，家具bed改sofa；on仍是on。Pip沒有移動，回答仍<span lang=\"en\">Pip is in the living room.</span>。只問房間時可用較短答案。</p></details><p>再把書移到沙發下，房間不變，只改<span lang=\"en\">under the sofa</span>。孩子解釋哪項不變，不以一次換詞亂改其他角色。</p>"
+    },
+    {
+      "id": "g4s2-english-02-s07",
+      "title": "做一份找物紀錄",
+      "childText": "每個位置都標出依據和時間。",
+      "html": "<p>原狀：「red book／bedroom／on the bed／起始圖」。更新後：「red book／living room／on the sofa／新動作卡」。這能看出不是原圖畫錯，而是故事時間變了。無圖使用完整圖說者，也可以做同樣比較。</p><p>成人支持者先認四房間與單層in；進階者組合房間和家具並處理移動。評詞義、問句對象、參照物與更新，口語另由教師聽。用大紙字卡在桌面移動即可，不鑽床、爬家具、走動進浴室或碰別人的物品。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Home flashcards",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-home.pdf",
+      "note": "2026-10-05直接核對PDF bedroom/bathroom/living room/kitchen詞項；圖、角色和對話原創，未驗聽。"
+    },
+    {
+      "title": "British Council｜Prepositions of place",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-place",
+      "note": "2026-10-05直接核對正文in the kitchen/living room與on/under位置框架；圖、角色和對話原創，未驗聽。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s2-english-02-q01",
+      "question": "Pip起始在哪個房間？",
+      "options": [
+        "living room",
+        "bedroom",
+        "bathroom"
+      ],
+      "answer": 0,
+      "hint": "看人物標籤所在區。",
+      "explanation": "原圖Pip在左下客廳，不能因紅書在臥室就把人物位置也移過去。"
+    },
+    {
+      "id": "g4s2-english-02-q02",
+      "question": "紅書的兩層位置是哪項？",
+      "options": [
+        "in the kitchen, under the table",
+        "in the bathroom, on the sofa",
+        "in the bedroom, on the bed"
+      ],
+      "answer": 2,
+      "hint": "房間和家具兩項都要核對。",
+      "explanation": "原圖紅書在臥室床面，房間與床上兩項同時成立。"
+    },
+    {
+      "id": "g4s2-english-02-q03",
+      "question": "第四句It’s…中的it指？",
+      "options": [
+        "紅書",
+        "所有房間",
+        "Pip"
+      ],
+      "answer": 0,
+      "hint": "回到前一個問題的物品。",
+      "explanation": "前句問the red book，所以it在回答中接續指紅書，不是換成Pip。"
+    },
+    {
+      "id": "g4s2-english-02-q04",
+      "question": "Pip在客廳能確定正在看電視嗎？",
+      "options": [
+        "能，位置就是動作",
+        "不能，沒有活動資料",
+        "能，所有客廳都一樣"
+      ],
+      "answer": 1,
+      "hint": "在哪和做什麼不同。",
+      "explanation": "所在房間不提供確切活動，不能從客廳直接推定看電視或其他動作。"
+    },
+    {
+      "id": "g4s2-english-02-q05",
+      "question": "藍書在廚房桌下的依據是？",
+      "options": [
+        "原圖已畫出藍書",
+        "另外提供的文字卡",
+        "角色衣服顏色"
+      ],
+      "answer": 1,
+      "hint": "分清圖與追加文字資料。",
+      "explanation": "藍書資訊由正文新文字卡供應，起始圖沒有它，因此不可聲稱直接看見。"
+    },
+    {
+      "id": "g4s2-english-02-q06",
+      "question": "紅書移到客廳沙發上，應答？",
+      "options": [
+        "It’s in the living room, on the sofa.",
+        "It’s in the kitchen.",
+        "It’s in the bedroom, on the bed."
+      ],
+      "answer": 0,
+      "hint": "按新動作更新兩層資料。",
+      "explanation": "新的房間為living room、家具為sofa，on保留；不能沿用移動前臥室床上。"
+    },
+    {
+      "id": "g4s2-english-02-q07",
+      "question": "只有書移動，Pip位置應怎樣？",
+      "options": [
+        "變成未知姓名",
+        "必須也移到bedroom",
+        "仍在living room"
+      ],
+      "answer": 2,
+      "hint": "新卡明確說Pip不動。",
+      "explanation": "新動作只改紅書位置且說Pip仍在客廳，因此無理由改動人物所在房間。"
+    },
+    {
+      "id": "g4s2-english-02-q08",
+      "question": "書從沙發上改到沙發下，哪項改變？",
+      "options": [
+        "書一定改成帽子",
+        "on改under",
+        "living room一定改kitchen"
+      ],
+      "answer": 1,
+      "hint": "只核對物品與家具關係。",
+      "explanation": "房間與物品未變，改的是沙發上到沙發下的關係，所以只換位置詞。"
+    }
+  ]
+}

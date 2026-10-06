@@ -1,0 +1,177 @@
+{
+  "id": "g4s2-mathematics-13",
+  "course": "數學",
+  "title": "數量關係及圖形規律",
+  "subtitle": "在表格裡看兩個方向，用配對和操作說出數量為什麼這樣變。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "觀察二維數表的行列與斜向關係",
+    "以配對解釋奇偶加減乘的模式",
+    "提出有證據的圖形延續規則而不寫通式"
+  ],
+  "materials": [
+    "大型百數表局部圖與包裝表",
+    "完整配對方格紙、定位紙框與粗筆"
+  ],
+  "intro": "在表格裡看兩個方向，用配對和操作說出數量為什麼這樣變。",
+  "sections": [
+    {
+      "title": "二維表格要看兩個方向",
+      "childText": "往右和往下可能遵守不同規則。",
+      "html": "<p>下圖從通常每排10數的百數表截取五欄、四排。第一排11到15，下一排21到25；不是完整百數表，也不是把15後面直接接21來數。</p><p>在這塊表裡往右一格加1、往下一格加10。從23向右是24，向下是33；先說移動方向與格數，再說變多少，不把所有鄰格都當差1。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 305\" role=\"img\" aria-labelledby=\"g4s2-mathematics-13-chart\"><title id=\"g4s2-mathematics-13-chart\">百數表截取的四排五欄，依次11至15、21至25、31至35、41至45。每格52乘52；偶數格淡色，奇數白色。向右加1，向下加10。</title><rect x=\"50\" y=\"35\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"76\" y=\"69\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">11</text><rect x=\"102\" y=\"35\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"128\" y=\"69\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">12</text><rect x=\"154\" y=\"35\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"180\" y=\"69\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">13</text><rect x=\"206\" y=\"35\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"232\" y=\"69\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">14</text><rect x=\"258\" y=\"35\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"284\" y=\"69\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">15</text><rect x=\"50\" y=\"87\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"76\" y=\"121\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">21</text><rect x=\"102\" y=\"87\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"128\" y=\"121\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">22</text><rect x=\"154\" y=\"87\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"180\" y=\"121\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">23</text><rect x=\"206\" y=\"87\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"232\" y=\"121\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">24</text><rect x=\"258\" y=\"87\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"284\" y=\"121\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">25</text><rect x=\"50\" y=\"139\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"76\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">31</text><rect x=\"102\" y=\"139\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"128\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">32</text><rect x=\"154\" y=\"139\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"180\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">33</text><rect x=\"206\" y=\"139\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"232\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">34</text><rect x=\"258\" y=\"139\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"284\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">35</text><rect x=\"50\" y=\"191\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"76\" y=\"225\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">41</text><rect x=\"102\" y=\"191\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"128\" y=\"225\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">42</text><rect x=\"154\" y=\"191\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"180\" y=\"225\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">43</text><rect x=\"206\" y=\"191\" width=\"52\" height=\"52\" fill=\"#e3f0e8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"232\" y=\"225\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">44</text><rect x=\"258\" y=\"191\" width=\"52\" height=\"52\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"284\" y=\"225\" text-anchor=\"middle\" font-size=\"22\" fill=\"#183f38\" font-family=\"sans-serif\">45</text><text x=\"180\" y=\"277\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">只截取11–45中的五欄</text></svg><figcaption>百數表截取的四排五欄，依次11至15、21至25、31至35、41至45。每格52乘52；偶數格淡色，奇數白色。向右加1，向下加10。</figcaption></figure>",
+      "id": "g4s2-mathematics-13-s01"
+    },
+    {
+      "title": "用兩步移動推出斜向變化",
+      "childText": "先走直的兩步，再說斜向差多少。",
+      "html": "<p>從23往下一格到33，再往右一格到34，總共增加11；所以在這個表裡右下鄰格比原格多11。從23往下再往左到32，總共增加9。</p><p>把紙指示框移到24重做：右下是35、左下是33。說明來自下加10、右加1或左減1，不只記「斜的加11」，因另一個斜向可能加9。</p>",
+      "id": "g4s2-mathematics-13-s02"
+    },
+    {
+      "title": "表格也能表示兩種量的組合",
+      "childText": "看清每一欄的份數和每一列的每份量。",
+      "html": "<p>虛構紙卡包裝表：每袋2張時，1袋2張、2袋4張、3袋6張；每袋3張時依次3、6、9；每袋4張時依次4、8、12。每一格同時由列與欄決定。</p><p>同一列向右多一袋，增加量是該列每袋的張數；同一欄向下每袋多1張，增加量是該欄袋數。不要把表內所有相鄰差都說成同一個數。</p><table><caption>原創包裝數量表</caption><thead><tr><th scope=\"col\">每袋張數</th><th scope=\"col\">1袋</th><th scope=\"col\">2袋</th><th scope=\"col\">3袋</th></tr></thead><tbody><tr><th scope=\"row\">2張</th><td>2</td><td>4</td><td>6</td></tr><tr><th scope=\"row\">3張</th><td>3</td><td>6</td><td>9</td></tr><tr><th scope=\"row\">4張</th><td>4</td><td>8</td><td>12</td></tr></tbody></table>",
+      "id": "g4s2-mathematics-13-s03"
+    },
+    {
+      "title": "奇偶加法，用成對與落單解釋",
+      "childText": "兩個落單可以合成一對。",
+      "html": "<p>偶數可以全部兩兩成對，奇數配完會剩1個。奇數5加奇數3：各有一個落單，合起來變一對，其餘本來成對，所以8是偶數。</p><p>偶數4加奇數3，4全成對，3留下的一個仍落單，總7為奇數。偶加偶全成對，和是偶數。這是用配對說理由，不是看幾題答案就宣布永遠成立。</p><table><caption>配對支持的加法觀察</caption><thead><tr><th scope=\"col\">例子</th><th scope=\"col\">落單怎麼辦</th><th scope=\"col\">結果</th></tr></thead><tbody><tr><th scope=\"row\">5＋3＝8</th><td>兩個落單成一對</td><td>偶數</td></tr><tr><th scope=\"row\">4＋3＝7</th><td>還留一個落單</td><td>奇數</td></tr><tr><th scope=\"row\">4＋6＝10</th><td>沒有落單</td><td>偶數</td></tr></tbody></table>",
+      "id": "g4s2-mathematics-13-s04"
+    },
+    {
+      "title": "奇偶減法與乘法，也能回到配對",
+      "childText": "操作中保持完整的兩兩配對。",
+      "html": "<p>9－3＝6：先從9拿走3，等於拿走一對和一個落單，剩下全成對。8－3＝5：拿走一對及一個單位，原一對被拆開，會剩一個落單。</p><p>4張一組取3組，共12張；每組都能成對，總數也全成對。5張一組取3組，每組留1個，三個落單再配成一對還餘1，因此15是奇數。先實畫這些例子，再用同樣理由說明別例，不寫一般公式。</p>",
+      "id": "g4s2-mathematics-13-s05"
+    },
+    {
+      "title": "圖形規律需要清楚說出延續方式",
+      "childText": "有限幾張圖可能有不只一種延續。",
+      "html": "<p>成人在完整紙上畫第一張1格、第二張3格、第三張5格，並明定「每次在原圖右方再添2個同大方格」。照此規則，下一張7格，再下一張9格。</p><p>若只給1、3、5而沒有規則，可以提出不同延續想法；說出自己的規則並檢查它是否符合已給各項。不能只說下一個一定7而不交代理由。本課著重操作和語句推理，不找第幾項通式。</p>",
+      "id": "g4s2-mathematics-13-s06"
+    },
+    {
+      "title": "獨立轉用：指出支持你推論的那兩格",
+      "childText": "先保留推論過程，再看核對。",
+      "html": "<p>在供給的百數表中，找32的右下鄰格與左下鄰格，各說兩步路。用包裝表求每袋4張、3袋總張數，說同列往右每次增多少。另用配對解釋7＋5與3組6張的奇偶，不只報計算結果。</p><details><summary>完成後核對</summary><p>32右下是43：下加10再右加1；左下是41：下加10再左減1。每袋4張、3袋共12張，同列每多一袋增4張。</p><p>7＋5＝12，兩個奇數的落單合成一對，結果偶數；3組6張共18張，每組全部成對，總數仍偶數。若回答正確但沒有方向或配對理由，回圖補上證據。</p></details>",
+      "id": "g4s2-mathematics-13-s07"
+    }
+  ],
+  "teachingHtml": "<p>依R-4-4，二維數表、奇偶加減乘及圖形模式以操作觀察和簡單推理為主，不寫通式。主圖是十欄百數表的五欄截取，四排11–15、21–25、31–35、41–45；明說未顯示的16–20等仍屬完整表，以免孩子把下一排視為接續五個數而誤認下加5。標色僅輔助偶數，不能以顏色作唯一判斷。</p><p>斜向差由下加10再左右一步建立，對不同方向分清加11或加9。包裝表提供第二種雙變量例子，向右的增量隨每袋張數而不同，向下增量隨袋數而不同。成人需讓孩子指出行列標題，避免只找表面數列。奇偶配對只用完整大圖，先具體畫出對和落單，再說明加減乘觀察，不用抽象字母公式。</p><p>支持組先做水平垂直一步並用定位框，能讀兩軸後再走斜向；熟練組解釋同一規則在另一格是否有效，或為有限數列提出另一個符合已給資料的規則，不能把唯一猜測當證明。成人出口記錄方向、行列角色、配對理由及規則是否符合全部已給項。題目不使用個人月曆行程；大紙圖能替代細小方塊，口述可代書寫。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-mathematics-13-q01",
+      "question": "在供給的百數表，23往下一格是？",
+      "options": [
+        "24",
+        "28",
+        "33"
+      ],
+      "answer": 2,
+      "hint": "同一欄相鄰排差10。",
+      "explanation": "原表每排10個數，往下一格加10，所以23下面是33。"
+    },
+    {
+      "id": "g4s2-mathematics-13-q02",
+      "question": "23的右下鄰格是？",
+      "options": [
+        "34",
+        "32",
+        "24"
+      ],
+      "answer": 0,
+      "hint": "先下到33，再向右一步。",
+      "explanation": "向下加10、向右加1，合增加11，得到34。"
+    },
+    {
+      "id": "g4s2-mathematics-13-q03",
+      "question": "23的左下鄰格是？",
+      "options": [
+        "34",
+        "32",
+        "22"
+      ],
+      "answer": 1,
+      "hint": "先下加10，再左減1。",
+      "explanation": "23到33再到32，淨增加9，不能把兩個斜向都叫加11。"
+    },
+    {
+      "id": "g4s2-mathematics-13-q04",
+      "question": "包裝表每袋4張、3袋總數？",
+      "options": [
+        "7張",
+        "12張",
+        "9張"
+      ],
+      "answer": 1,
+      "hint": "找到4張那列和3袋那欄。",
+      "explanation": "每袋4張取3袋，4乘3得12張，符合行列交會格。"
+    },
+    {
+      "id": "g4s2-mathematics-13-q05",
+      "question": "每袋3張那一列，向右多1袋會多？",
+      "options": [
+        "3張",
+        "1張",
+        "袋數不影響"
+      ],
+      "answer": 0,
+      "hint": "每次多的是一整袋。",
+      "explanation": "該列每袋固定3張，多一袋便增加3張，不是所有列都加1。"
+    },
+    {
+      "id": "g4s2-mathematics-13-q06",
+      "question": "5＋3為何是偶數？",
+      "options": [
+        "所有奇數相加都仍奇數",
+        "兩個落單可再配成一對",
+        "因5大於3"
+      ],
+      "answer": 1,
+      "hint": "各奇數配對後會留一個。",
+      "explanation": "5與3各留一個落單，兩個合成一對，其餘也成對，所以和為偶數。"
+    },
+    {
+      "id": "g4s2-mathematics-13-q07",
+      "question": "4張一組取3組，總數奇偶是？",
+      "options": [
+        "偶數，每組都能全配對",
+        "奇數，因有3組",
+        "無法知道"
+      ],
+      "answer": 0,
+      "hint": "每組內的對可以原樣保留。",
+      "explanation": "每組4張全成對，三組合併仍全成對，共12張為偶數。"
+    },
+    {
+      "id": "g4s2-mathematics-13-q08",
+      "question": "已明定每次多2格，1、3、5格後下一張？",
+      "options": [
+        "6格",
+        "任何數都同樣符合這條規則",
+        "7格"
+      ],
+      "answer": 2,
+      "hint": "使用題目明確給的增加方式。",
+      "explanation": "依每次增加2格，5再加2為7；答案依賴已說明的規則。"
+    }
+  ],
+  "selfCheck": [
+    "我先說在表格移動的方向。",
+    "我能用成對與落單解釋奇偶。",
+    "我知道延續答案需要明確規則。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。R-4-4：二維數字模式、奇偶加減乘與具體規律推理，不寫一般公式或第n項通式。"
+    }
+  ]
+}

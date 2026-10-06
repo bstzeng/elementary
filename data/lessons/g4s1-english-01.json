@@ -1,0 +1,189 @@
+{
+  "id": "g4s1-english-01",
+  "course": "英語文",
+  "title": "天氣與冷暖描述",
+  "subtitle": "把天空狀況、冷暖和人的感受分清楚，做兩項資訊的天氣報告",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "把天空狀況、冷暖和人的感受分清楚，做兩項資訊的天氣報告。先理解完整情境，再一起練習，最後換資料自己試。",
+  "goals": [
+    "我能用sunny、rainy、cloudy、windy辨認本課天氣詞。",
+    "我會依資料把天氣與hot、warm、cold冷暖描述組合。",
+    "我能分辨It’s cold.與I’m cold.所談的對象，並保留未知資訊。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-english-01-s01",
+      "title": "一張天氣卡可以有兩項訊息",
+      "childText": "有太陽，不代表一定很熱。",
+      "html": "<p>先把詞語分成兩袋。天空袋：<span lang=\"en\">sunny</span>晴朗、有陽光；<span lang=\"en\">rainy</span>下雨的；<span lang=\"en\">cloudy</span>多雲的；<span lang=\"en\">windy</span>多風的。冷暖袋：<span lang=\"en\">hot</span>熱、<span lang=\"en\">warm</span>暖、<span lang=\"en\">cold</span>冷。這些是描述詞，不是所有地方通用的精確溫度界線。</p><p>看見太陽圖只能幫我們辨認sunny，不能單憑圖案知道冷暖。天氣可能同時晴朗而冷，也可能下雨而暖。本課先讀提供的文字資料，再合成描述；不必到戶外淋雨、摸熱物或忍冷來猜單字。</p>"
+    },
+    {
+      "id": "g4s1-english-01-s02",
+      "title": "完整圖卡：甲與乙",
+      "childText": "先看圖例，再讀冷暖資料。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 230\" role=\"img\" aria-labelledby=\"g4s1-english-01-fig\"><title id=\"g4s1-english-01-fig\">虛構天氣圖：左卡甲有太陽，文字是sunny及cold；右卡乙有雲與雨線，文字是rainy及warm。冷暖由卡片資料提供，不是由太陽或雨線推測。</title><rect x=\"8\" y=\"8\" width=\"165\" height=\"212\" rx=\"8\" fill=\"#eef6fc\" stroke=\"#345\"/><rect x=\"187\" y=\"8\" width=\"165\" height=\"212\" rx=\"8\" fill=\"#f9f2e3\" stroke=\"#345\"/><text x=\"22\" y=\"34\" font-size=\"18\">甲</text><text x=\"201\" y=\"34\" font-size=\"18\">乙</text><circle cx=\"90\" cy=\"78\" r=\"26\" fill=\"#f2c440\" stroke=\"#885d08\" stroke-width=\"2\"/><path d=\"M90 42V34M90 114V122M54 78H46M126 78H134M64 52L57 45M116 104L123 111M116 52L123 45M64 104L57 111\" stroke=\"#885d08\" stroke-width=\"3\"/><path d=\"M228 78Q218 52 242 52Q254 30 276 49Q301 44 306 67Q324 88 296 91H242Q226 90 228 78Z\" fill=\"#a5bfd3\" stroke=\"#345\"/><path d=\"M244 102L235 118M270 102L261 118M296 102L287 118\" stroke=\"#2867ad\" stroke-width=\"4\"/><g lang=\"en\" font-size=\"24\" fill=\"#162d43\"><text x=\"49\" y=\"160\">sunny</text><text x=\"62\" y=\"198\">cold</text><text x=\"237\" y=\"160\">rainy</text><text x=\"234\" y=\"198\">warm</text></g></svg><figcaption>甲：晴朗、冷；乙：下雨、暖。這是練習資料，不是即時預報。</figcaption></figure><p>圖甲的兩項資料是<span lang=\"en\">sunny / cold</span>；圖乙是<span lang=\"en\">rainy / warm</span>。請各找一個天空詞和一個冷暖詞。改用黑白列印時，太陽、雲與雨線仍可區分；下方文字也完整保留。</p><p>補充文字卡丙：<span lang=\"en\">cloudy / hot</span>，多雲而熱。卡丁只有<span lang=\"en\">windy</span>，沒有給冷暖。丁卡不是答案cold；沒有提供的資訊就留空或說不知道。</p>"
+    },
+    {
+      "id": "g4s1-english-01-s03",
+      "title": "成人完整示範：先問再確認",
+      "childText": "回答的是對方現在問的那張卡。",
+      "html": "<div class=\"story\"><p>角色Nia看甲卡，Bo詢問。Bo：<span lang=\"en\">What’s the weather like?</span> 天氣如何？Nia：<span lang=\"en\">It’s sunny and cold.</span> 晴朗而冷。Bo：<span lang=\"en\">Is it hot?</span> 熱嗎？Nia：<span lang=\"en\">No, it isn’t. It’s cold.</span> 不，是冷的。</p></div><p>教師先交代甲卡，再完整讀四句；第二輪孩子指sunny、cold，聽見hot時不跟著更改資料。<span lang=\"en\">It’s</span>是<span lang=\"en\">It is</span>的縮寫；此處it談天氣，不是在給某個人命名。無教師模型時可先完成文字配對，不能聲稱已做聽力測驗。</p>"
+    },
+    {
+      "id": "g4s1-english-01-s04",
+      "title": "一起做：雙條件找卡",
+      "childText": "每個條件都要符合。",
+      "html": "<p>成人讀<span lang=\"en\">It’s rainy and warm.</span>，孩子先找rainy，再檢查warm，最後選乙。成人換成<span lang=\"en\">It’s cloudy and hot.</span>，應選文字卡丙。若只聽到hot就選太陽圖，回頭讀每卡冷暖欄，把想像和資料分開。</p><p>改成角色交換：孩子持甲卡，成人問<span lang=\"en\">Is it rainy?</span>，可依卡答<span lang=\"en\">No, it isn’t. It’s sunny.</span>。只會單字時可先指sunny，再看整句卡重述。成人記「用句卡完成」而不是要求孩子立刻背起整段。</p>"
+    },
+    {
+      "id": "g4s1-english-01-s05",
+      "title": "修復：天氣與身體感受",
+      "childText": "同一個cold，主詞不同，訊息不同。",
+      "html": "<p><span lang=\"en\">It’s cold.</span>在本課說天氣冷；<span lang=\"en\">I’m cold.</span>是說話者表示自己覺得冷。情境：虛構Bo在室內說<span lang=\"en\">I’m cold. Can you help me, please?</span>。我們知道Bo的自述，不能因此斷定外面正在下雨，也不能判定任何疾病。</p><p>英語練習只用角色資料。若孩子真的不舒服，先用任何有效語言向成人求助，不必完整念完句子。成人也不以天氣圖否定個人感受；兩個人對冷暖感受不同，不是誰的英語一定錯。</p>"
+    },
+    {
+      "id": "g4s1-english-01-s06",
+      "title": "自己試：新卡不照舊背",
+      "childText": "新資料換了，描述也跟著改。",
+      "html": "<p>新卡戊：<span lang=\"en\">sunny / warm</span>；新卡己：<span lang=\"en\">rainy</span>，冷暖未記。請為戊完成一問一答，再說己能確定什麼、不能確定什麼。可以寫、說或把兩條句卡並排。</p><details><summary>可核對的回應</summary><p><span lang=\"en\">What’s the weather like? It’s sunny and warm.</span>符合戊。己可說<span lang=\"en\">It’s rainy.</span>，不能加cold或hot。若問<span lang=\"en\">Is it cold?</span>，資料不足，可用中文說不知道，或在教師示範後用<span lang=\"en\">I don’t know.</span>。</p></details><p>最後把戊的warm改成cold，保留sunny；孩子只改需要變動的詞，解釋為什麼天空那項不用改。</p>"
+    },
+    {
+      "id": "g4s1-english-01-s07",
+      "title": "做一張有證據的小報告",
+      "childText": "把知道的說完整，把不知道的留下。",
+      "html": "<p>成品格式：卡名／天空詞／冷暖詞或未提供／完整一句。例：甲／sunny／cold／<span lang=\"en\">It’s sunny and cold.</span>。另加一句中文說明「冷暖是卡片資料，不是由太陽猜的」。</p><p>成人分別核對詞義、雙條件選卡、主詞指涉與新卡轉用。口語時觀察聽者是否能選對卡；卡選錯先找是詞義、否定或注意卡名的問題，再重新示範。不要只說再大聲一點。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項觀察</h3><p>本課提升點是同時處理天空與冷暖兩欄、否定確認及資料不足，不是背四個天氣字。支持者先做甲乙兩卡，進階者加入丙丁與戊己，能解釋不能推論的部分。重點檢查sunny是否被誤作hot、It與I是否混用；不設定冷暖溫度門檻，不作真實預報或健康判斷。成人朗讀甲卡對話及兩個找卡句，記是否看字、看口型或重聽，書面答案只證明文字理解。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-english-01-q01",
+      "question": "甲卡的完整描述是哪句？",
+      "options": [
+        "It’s sunny and cold.",
+        "It’s sunny and hot.",
+        "It’s rainy and warm."
+      ],
+      "answer": 0,
+      "hint": "把兩欄資料都讀到。",
+      "explanation": "甲卡同時標sunny和cold，看到太陽不能自行把cold換成hot。"
+    },
+    {
+      "id": "g4s1-english-01-q02",
+      "question": "圖乙的雨線配哪個詞？",
+      "options": [
+        "sunny",
+        "rainy",
+        "windy"
+      ],
+      "answer": 1,
+      "hint": "查天空詞袋的意思。",
+      "explanation": "乙畫雲和雨線，對應rainy；冷暖warm來自另列文字資料。"
+    },
+    {
+      "id": "g4s1-english-01-q03",
+      "question": "卡丁只寫windy，冷暖能確定嗎？",
+      "options": [
+        "不能，還缺冷暖資料",
+        "一定cold",
+        "一定hot"
+      ],
+      "answer": 0,
+      "hint": "只使用卡上真的有的資訊。",
+      "explanation": "windy只提供多風資訊，沒有提供本卡冷暖，不能補猜成冷或熱。"
+    },
+    {
+      "id": "g4s1-english-01-q04",
+      "question": "I’m cold.在本課表示？",
+      "options": [
+        "外面一定下雨",
+        "所有人都覺得冷",
+        "說話者覺得冷"
+      ],
+      "answer": 2,
+      "hint": "看看I指的是誰。",
+      "explanation": "I指說話者本人，因此是個人感受，不能代替天氣或其他人的資料。"
+    },
+    {
+      "id": "g4s1-english-01-q05",
+      "question": "對甲卡問Is it hot?，哪句符合？",
+      "options": [
+        "It’s rainy and warm.",
+        "No, it isn’t. It’s cold.",
+        "Yes, it is."
+      ],
+      "answer": 1,
+      "hint": "甲的冷暖欄沒有變。",
+      "explanation": "甲資料是cold，應否定hot並改述cold，不因問題用hot就跟著同意。"
+    },
+    {
+      "id": "g4s1-english-01-q06",
+      "question": "新卡戊sunny / warm應保留哪兩詞？",
+      "options": [
+        "rainy與cold",
+        "sunny與warm",
+        "cloudy與hot"
+      ],
+      "answer": 1,
+      "hint": "讀新卡，不背舊卡。",
+      "explanation": "戊仍是sunny但冷暖改成warm，必須依最新兩欄重新組句。"
+    },
+    {
+      "id": "g4s1-english-01-q07",
+      "question": "把warm改cold但保留sunny，應改哪一項？",
+      "options": [
+        "冷暖描述",
+        "天空描述一定也要改",
+        "角色名字"
+      ],
+      "answer": 0,
+      "hint": "分清天空和冷暖兩欄。",
+      "explanation": "這次只變更冷暖欄，所以保留sunny而將warm換成cold即可。"
+    },
+    {
+      "id": "g4s1-english-01-q08",
+      "question": "孩子真的需要協助時，哪種做法合宜？",
+      "options": [
+        "一定到外面驗證冷暖",
+        "先完成英文測驗才協助",
+        "可用任何有效語言先求助"
+      ],
+      "answer": 2,
+      "hint": "需求優先於語言練習。",
+      "explanation": "求助不以英文正確為條件，紙上天氣活動也不需要冒險接觸天候。"
+    }
+  ],
+  "selfCheck": [
+    "我能用sunny、rainy、cloudy、windy辨認本課天氣詞。",
+    "我會依資料把天氣與hot、warm、cold冷暖描述組合。",
+    "我能分辨It’s cold.與I’m cold.所談的對象，並保留未知資訊。",
+    "我能說明這次用了哪些提示，哪些部分還需要成人示範。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Weather flashcards",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-weather.pdf",
+      "note": "2026-10-05 直接讀PDF頁1–2的hot、cold、warm、sunny、rainy、cloudy、windy字詞；本課圖像及冷暖組合原創，未複製圖卡。"
+    },
+    {
+      "title": "British Council｜What’s the weather like?",
+      "url": "https://www.teachingenglish.org.uk/teaching-resources/teaching-primary/lesson-plans/level-2/whats-weather",
+      "note": "2026-10-05 直接核對正文問天氣與It’s sunny./It’s cold.框架；不採歌曲全文、天氣輪尖扣或國家季節概括。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    }
+  ]
+}

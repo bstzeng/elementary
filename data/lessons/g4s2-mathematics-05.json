@@ -1,0 +1,177 @@
+{
+  "id": "g4s2-mathematics-05",
+  "course": "數學",
+  "title": "小數乘以整數",
+  "subtitle": "把小數看成固定大小的小單位，再取指定的整數份。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "以重複取量理解小數乘整數",
+    "完成含零與進位的二位小數乘法",
+    "以位值和估量核對小數點"
+  ],
+  "materials": [
+    "大型小數位值表與虛構紙帶圖",
+    "直尺、粗筆與完整公分尺帶紙"
+  ],
+  "intro": "把小數看成固定大小的小單位，再取指定的整數份。",
+  "sections": [
+    {
+      "title": "小數乘整數，仍是同量重複取",
+      "childText": "每段2.36公尺，4段共有幾公尺？",
+      "html": "<p>4段同長紙帶，各2.36公尺，首尾接起來且不重疊。可加2.36＋2.36＋2.36＋2.36，也可寫2.36×4；整數4是取的次數，2.36是每段長度。</p><p>先估每段比2公尺多、比3公尺少，4段總長應在8到12公尺之間。小數乘法不是讓數字一定變小；乘正整數4表示拿4份，會比一份長。</p>",
+      "id": "g4s2-mathematics-05-s01"
+    },
+    {
+      "title": "以百分之一計數，連到整數乘法",
+      "childText": "2.36是236個0.01。",
+      "html": "<p>236個百分之一取4份，236×4＝944個百分之一，合9.44。直式先依位值計：6×4＝24個百分之一，寫4並進2個十分之一；3×4＋2＝14個十分之一，寫4進1個一；2×4＋1＝9。</p><p>乘積的百分位仍是百分之一，所以結果9.44公尺。用236公分×4＝944公分也能核對；不是等算完後憑感覺找小數點。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 132\" role=\"img\" aria-labelledby=\"g4s2-mathematics-05-main\"><title id=\"g4s2-mathematics-05-main\">2.36乘4等於9.44，百分位與十分位各有進位。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">×</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">9</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>2.36乘4等於9.44，百分位與十分位各有進位。</figcaption></figure>",
+      "id": "g4s2-mathematics-05-s02"
+    },
+    {
+      "title": "不足一個十分之一時，零有工作",
+      "childText": "0.08取6次，是48個百分之一。",
+      "html": "<p>0.08×6：8×6＝48個百分之一，百分位8，進4個十分之一；十分位0×6＋4＝4；個位0×6＝0，寫0.48。48個百分之一還不到1，所以0.48合理。</p><p>若寫4.8，就把48個百分之一誤當48個十分之一，放大了10倍。百分位必須對齊，個位為0也要保留，才能讓讀者正確讀出不到1的量。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 132\" role=\"img\" aria-labelledby=\"g4s2-mathematics-05-zero\"><title id=\"g4s2-mathematics-05-zero\">0.08乘6等於0.48；8個百分之一取6次是48個百分之一。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">×</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>0.08乘6等於0.48；8個百分之一取6次是48個百分之一。</figcaption></figure>",
+      "id": "g4s2-mathematics-05-s03"
+    },
+    {
+      "title": "乘兩位整數，部分積仍分單位",
+      "childText": "1.25取12份，可以先取2份、再取10份。",
+      "html": "<p>1.25×2＝2.50：5×2＝10個百分之一進1個十分之一，2×2＋1＝5個十分之一，1×2＝2。1.25×10＝12.50，因125個百分之一取10份成1250個百分之一。</p><p>兩列相加2.50＋12.50＝15.00，也就是15。寫15.00保留計算位置，寫15表示同一量；末尾0可以省，但中間的0不能任意刪掉。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 208\" role=\"img\" aria-labelledby=\"g4s2-mathematics-05-twodigit\"><title id=\"g4s2-mathematics-05-twodigit\">1.25乘12，部分積2.50與12.50，合15.00。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"212\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">×</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"280\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"212\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"144\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"280\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"144\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"105\" y1=\"162\" x2=\"302\" y2=\"162\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>1.25乘12，部分積2.50與12.50，合15.00。</figcaption></figure>",
+      "id": "g4s2-mathematics-05-s04"
+    },
+    {
+      "title": "一起做：先估，再乘，再說單位",
+      "childText": "不要用小數點規則掩蓋乘法意義。",
+      "html": "<p>每段0.65公尺，3段總長：0.65×3＝1.95公尺。5×3＝15個百分之一，進1；6×3＋1＝19個十分之一，進1個一；個位0＋1＝1。</p><p>成人先問結果應小於3公尺且大於1.5公尺，再算直式。若孩子算成19.5，回到每段不到1公尺，3段不會超過3公尺，用量感找出錯位。</p>",
+      "id": "g4s2-mathematics-05-s05"
+    },
+    {
+      "title": "分清單價故事和本課連續量",
+      "childText": "以長度操作，更容易看出百分之一。",
+      "html": "<p>本課都用紙帶公尺數，0.08公尺就是8公分，6段48公分。可在成人預畫的公分尺帶上各標8公分，圈出六段，再把總長改讀0.48公尺。</p><p>紙上每格若未經實尺核對，只能稱示意單位，不宣稱真長8公分。可指圖或口述，不需剪細紙條、拉長繩子或圍在人身上。</p>",
+      "id": "g4s2-mathematics-05-s06"
+    },
+    {
+      "title": "獨立轉用：小數點用理由放好",
+      "childText": "算完要說共有幾個百分之一。",
+      "html": "<p>獨立算3.07×5與0.24×4，說乘積共有幾個百分之一。出口修理「1.25×12＝1.50」，用估量與兩列部分積說明，指出哪列代表10份。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>獨立算3.07×5：7×5＝35個百分之一，進3個十分之一；0×5＋3＝3個十分之一；3×5＝15個一，合15.35。再算0.24×4＝0.96，因24個百分之一取4次為96個。</p><p>出口修理「1.25×12＝1.50」：每份1.25公尺大於1且小於2，12份應大於12且小於24公尺，1.5太小；正確是15公尺。請保留兩個部分積，說明哪一列代表10份。</p></details>",
+      "id": "g4s2-mathematics-05-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-4-7，小數乘整數必須與整數位值計算緊密相連。本課採公尺等連續量，避免將離散物件寫成0.08件。2.36乘4以236個百分之一做橋，正文每次進位都附單位，成人可把進位數寫在位值表上，再與直式對照。讓孩子說944個百分之一是9.44，而非機械數小數點後位數。</p><p>0.08乘6用來檢查前導零、十分位原零及進位；1.25乘12則給2份與10份的兩列部分積，兩列均以相同小數位對齊。15.00與15同量只針對小數末尾零，不能概括成任何0都能刪。0.65乘3應依每段不到1的實際情境估計三段不到3，確保量級檢查有依據，而不是任意猜一個整數。</p><p>支持組先用0.24取4份的百格或公分數記錄，再進到有跨一的0.65；熟練組比較重複加法、以公分計和小數直式三種方法，不增加小數乘小數或除法。出口觀察份數角色、每位單位、進位、零位及估量範圍。真實尺帶若無校準，不據圖宣稱公分長度，孩子可用指圖或成人代記來表現理解。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-mathematics-05-q01",
+      "question": "2.36×4中的4表示？",
+      "options": [
+        "每段4公尺",
+        "把2.36分4份",
+        "取4段相同長度"
+      ],
+      "answer": 2,
+      "hint": "先看每段和段數的角色。",
+      "explanation": "2.36是每段長度，乘4表示同樣長度取4段，求總長。"
+    },
+    {
+      "id": "g4s2-mathematics-05-q02",
+      "question": "2.36×4等於？",
+      "options": [
+        "94.4",
+        "9.44",
+        "8.24"
+      ],
+      "answer": 1,
+      "hint": "236個百分之一取4份。",
+      "explanation": "236乘4得944個百分之一，換成小數是9.44。"
+    },
+    {
+      "id": "g4s2-mathematics-05-q03",
+      "question": "0.08×6共有多少個百分之一？",
+      "options": [
+        "48個",
+        "4.8個",
+        "480個"
+      ],
+      "answer": 0,
+      "hint": "8個百分之一取6次。",
+      "explanation": "每份8個百分之一，六份共有48個，相當於0.48。"
+    },
+    {
+      "id": "g4s2-mathematics-05-q04",
+      "question": "0.08×6為何不是4.8？",
+      "options": [
+        "小數乘整數必定變小",
+        "48個百分之一應寫0.48",
+        "答案不能含4"
+      ],
+      "answer": 1,
+      "hint": "比較百分之一與十分之一。",
+      "explanation": "4.8是48個十分之一，比題目48個百分之一大10倍，單位錯了。"
+    },
+    {
+      "id": "g4s2-mathematics-05-q05",
+      "question": "1.25×12的兩個部分積是？",
+      "options": [
+        "2.50和12.50",
+        "2.50和1.25",
+        "1.25和12"
+      ],
+      "answer": 0,
+      "hint": "12是10份加2份。",
+      "explanation": "1.25取2份為2.50，取10份為12.50，合15.00。"
+    },
+    {
+      "id": "g4s2-mathematics-05-q06",
+      "question": "0.65×3等於？",
+      "options": [
+        "19.5",
+        "1.95",
+        "1.59"
+      ],
+      "answer": 1,
+      "hint": "65個百分之一乘3為195個。",
+      "explanation": "195個百分之一等於1個一與95個百分之一，所以1.95。"
+    },
+    {
+      "id": "g4s2-mathematics-05-q07",
+      "question": "3.07×5的結果是？",
+      "options": [
+        "15.35",
+        "15.03",
+        "1.53"
+      ],
+      "answer": 0,
+      "hint": "百分位進3個十分之一。",
+      "explanation": "7乘5為35個百分之一，十分位原0加進位3，3個一取5份為15個一，合15.35。"
+    },
+    {
+      "id": "g4s2-mathematics-05-q08",
+      "question": "15.00和15如何比較？",
+      "options": [
+        "15.00大100倍",
+        "15大100倍",
+        "相等"
+      ],
+      "answer": 2,
+      "hint": "只多了小數末尾的零。",
+      "explanation": "15.00含15個一且沒有額外小份，和15表示相同數量。"
+    }
+  ],
+  "selfCheck": [
+    "我知道乘整數是在取幾份。",
+    "我能說進位換了什麼單位。",
+    "我用估量檢查小數點的位置。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-7：二位小數整數倍及直式，與整數位值連結，使用連續量情境。"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "g4s1-mathematics-03",
+  "course": "數學",
+  "title": "除數為二位數的除法",
+  "subtitle": "估商後乘回檢查，把零和餘數放在正確的位置。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "以估商完成二位除數直式",
+    "說明換位與商中間或末尾的0",
+    "以單位與餘數判斷情境答案"
+  ],
+  "materials": [
+    "大型位值直式紙",
+    "虛構包裝題卡、倍數參考表"
+  ],
+  "intro": "估商後乘回檢查，把零和餘數放在正確的位置。",
+  "sections": [
+    {
+      "title": "除數24：找最大的不超過",
+      "childText": "每次估商都要乘回去試。",
+      "html": "<p>864張圖卡，每包24張，可以裝幾包？24×30＝720，還有144張；24×6＝144，所以36包。商的單位是包，最後沒有剩下。</p><p>估商先把24想成接近20，但86÷20約4只是試探：24×4＝96，超過86，所以首位改3。把估商當作可以調整的猜測，不能試4後不檢查就往下算。</p>",
+      "id": "g4s1-mathematics-03-s01"
+    },
+    {
+      "title": "864÷24的直式每一步",
+      "childText": "先分86個十，再把剩下的量換成個。",
+      "html": "<p>若裝100包，需要24個百張；現有前面的8個百張不足。因此先估十位的包數，把前兩位看成86個十張。24×3＝72，所以商的十位寫3，表示30包；86個十減72個十剩14個十。</p><p>14個十換140個一，加原有4個一成144個一。24×6＝144，商個位6，餘0。每一列相減的是相同位值；最上方36中的3必須放在6的十位上方。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 286\" role=\"img\" aria-labelledby=\"g4s1-mathematics-03-divide\"><title id=\"g4s1-mathematics-03-divide\">864除以24，商36；先86減72，餘14個十，帶下4成144，再減144餘0。</title><text x=\"120\" y=\"93\" text-anchor=\"middle\" font-size=\"24\" fill=\"#183f38\" font-family=\"sans-serif\">24</text><line x1=\"146\" y1=\"65\" x2=\"146\" y2=\"105\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"146\" y1=\"65\" x2=\"246\" y2=\"65\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"170\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"199\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"228\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"199\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"199\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"170\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">7</text><text x=\"141\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"140\" x2=\"243\" y2=\"140\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"228\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"199\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"170\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"228\" y=\"215\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"199\" y=\"215\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"170\" y=\"215\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"141\" y=\"215\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"225\" x2=\"243\" y2=\"225\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"228\" y=\"258\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text></svg><figcaption>864除以24，商36；先86減72，餘14個十，帶下4成144，再減144餘0。</figcaption></figure>",
+      "id": "g4s1-mathematics-03-s02"
+    },
+    {
+      "title": "商中間的0不能消失",
+      "childText": "沒有整個十份，十位就記0。",
+      "html": "<p>2508÷12：先看25個百，25÷12商2個百、餘1個百。1個百換10個十，加原有0個十，只有10個十；不足12個十，所以商十位0，減0仍10個十。</p><p>再換100個一，加8個一成108。108÷12＝9，商個位9，得到209。若寫29，12×29只有348，不會回到2508。0代表這一位沒有完整份，卻不能把座位刪掉。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 368\" role=\"img\" aria-labelledby=\"g4s1-mathematics-03-zero\"><title id=\"g4s1-mathematics-03-zero\">2508除以12等於209。25減24剩1個百，帶下0成10個十；商十位0，再帶下8成108，減108餘0。</title><text x=\"120\" y=\"93\" text-anchor=\"middle\" font-size=\"24\" fill=\"#183f38\" font-family=\"sans-serif\">12</text><line x1=\"146\" y1=\"65\" x2=\"146\" y2=\"105\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"146\" y1=\"65\" x2=\"275\" y2=\"65\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"170\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"199\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"228\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"257\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"257\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">9</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"199\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"170\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"141\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"140\" x2=\"272\" y2=\"140\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"228\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"228\" y=\"213\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"213\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"223\" x2=\"272\" y2=\"223\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"257\" y=\"256\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"228\" y=\"256\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"256\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"257\" y=\"298\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"228\" y=\"298\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"298\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"170\" y=\"298\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"308\" x2=\"272\" y2=\"308\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"257\" y=\"340\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text></svg><figcaption>2508除以12等於209。25減24剩1個百，帶下0成10個十；商十位0，再帶下8成108，減108餘0。</figcaption></figure>",
+      "id": "g4s1-mathematics-03-s03"
+    },
+    {
+      "title": "餘數要回到故事",
+      "childText": "商是整包數，餘數仍是張數。",
+      "html": "<p>725張每包24張。24×30＝720，剩5，因此725÷24＝30…5，是30整包餘5張。檢查24×30＋5＝725，並確認5＜24。</p><p>若725張要全部放入最多裝24張的盒子，30盒放不完，需31盒；最後1盒只有5張。如果只問裝滿幾盒，答案才是30。先算商與餘數，再看問題是否允許最後一盒不滿。</p>",
+      "id": "g4s1-mathematics-03-s04"
+    },
+    {
+      "title": "一起估商：太大就退，太小就增",
+      "childText": "餘量還夠一份，商就還能增加。",
+      "html": "<p>638÷31，先看63個十。31×2＝62，所以商十位2，餘1個十；帶下8成18個一，不夠31，商個位0，餘18，得20…18。</p><p>有人寫19…49，總量31×19＋49雖等於638，但49還可取1份31，尚未分完。也有人試21，31×21＝651超過638，須退回20。完成條件同時有乘回總量與餘數小於除數。</p><table><caption>638張每31張一包的試商</caption><thead><tr><th scope=\"col\">試包數</th><th scope=\"col\">已用張數</th><th scope=\"col\">判斷</th></tr></thead><tbody><tr><th scope=\"row\">19</th><td>589，還剩49</td><td>剩的還夠1包</td></tr><tr><th scope=\"row\">20</th><td>620，還剩18</td><td>18不足31，完成</td></tr><tr><th scope=\"row\">21</th><td>651</td><td>超過638，太多</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-03-s05"
+    },
+    {
+      "title": "換故事，算式相同，商的單位不同",
+      "childText": "先說已知的是每包張數還是包數。",
+      "html": "<p>672張每包32張：672÷32＝21包。672張平均放32包：同樣算672÷32＝21，但答每包21張。成人把「每包32張」和「32包」圈出，請孩子各畫一個簡圖。</p><p>一起核對32×21＝672：21是份數時，32張取21包；21是每份量時，21張取32包。兩種乘法的總量相同，回答的事情卻不同。</p>",
+      "id": "g4s1-mathematics-03-s06"
+    },
+    {
+      "title": "獨立轉用與錯誤修理",
+      "childText": "我能說商、餘數與最後一盒的意思。",
+      "html": "<p>獨立用直式算952÷28與907÷30，說出每次帶下前剩下的單位。再回答907張圖卡：若每盒最多30張且全部裝好，要幾盒？若只做完整30張禮包，可做幾包、剩幾張？解釋兩種答案的差異。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>解952÷28：95個十除28先試3，減84剩11個十，帶下2成112；112÷28＝4，所以34，餘0。再算907÷30＝30…7，因30×30＝900。</p><p>出口：907張每盒最多30張，要全部裝好，需31盒；只做完整30張禮包可做30包、剩7張。請解釋為什麼不能因為有餘數就任何題都加1，問題決定最後要回報的量。</p></details>",
+      "id": "g4s1-mathematics-03-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-4-2，本課由兩位除數建立估商、試乘、相減及換位，不教只背順序的黑盒算法。以864÷24先估4再修成3，讓試商修正成為正常步驟。成人注意首位商寫在十位，不能放在百位；正文用86個十說明前兩位為何可以合看。先問剩下14是14個什麼，再帶下4，避免只拉箭頭不懂單位。</p><p>2508÷12特別保留商十位0與減0列，1個百換10個十而非10個一，帶下8前須再次換成100個一。紙上可讓孩子畫位值欄，成人指各列的最後一位，檢查209不是29。638÷31提供商個位0、餘18，並以19餘49區分總量守恆和真正分完。</p><p>支持組可提供24的1到9倍表，減輕乘法記憶負擔而保留估商決策；熟練組解釋何時容器數加1及改寫等分故事，不增加四位除數或小數商。出口分別記錄估商理由、商位、零位、餘數界線及單位。題目用虛構紙卡，無須真實分派小物；若能口述換位而書寫混亂，可由成人代畫直式後讓孩子核查。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-mathematics-03-q01",
+      "question": "864÷24首位為何不能試4後直接寫下？",
+      "options": [
+        "24×4＝96超過86",
+        "商不可以有4",
+        "24比較接近30所以只可用3"
+      ],
+      "answer": 0,
+      "hint": "試商必須乘回檢查。",
+      "explanation": "前面要分的是86個十，96個十超過它，所以4太大需改3。"
+    },
+    {
+      "id": "g4s1-mathematics-03-q02",
+      "question": "864÷24的商是多少？",
+      "options": [
+        "306",
+        "36",
+        "34"
+      ],
+      "answer": 1,
+      "hint": "24乘30後還有144。",
+      "explanation": "30包用720張，再6包用144張，合36包恰好864張。"
+    },
+    {
+      "id": "g4s1-mathematics-03-q03",
+      "question": "2508÷12的商十位應寫？",
+      "options": [
+        "0",
+        "1",
+        "省略不留位"
+      ],
+      "answer": 0,
+      "hint": "前一步餘1個百，帶下0。",
+      "explanation": "1個百換10個十，不足12個十，該位商0但必須保留位置。"
+    },
+    {
+      "id": "g4s1-mathematics-03-q04",
+      "question": "2508÷12的結果是？",
+      "options": [
+        "29",
+        "208餘12",
+        "209"
+      ],
+      "answer": 2,
+      "hint": "最後108除12等於9。",
+      "explanation": "商為2個百、0個十和9個一，合209；208餘12仍可再分1份。"
+    },
+    {
+      "id": "g4s1-mathematics-03-q05",
+      "question": "725張每24張一完整包，結果？",
+      "options": [
+        "30包餘5張",
+        "31個完整包",
+        "30包餘25張"
+      ],
+      "answer": 0,
+      "hint": "先算24乘30用了多少。",
+      "explanation": "30包用720張，餘5張不足24張，不能再成一個完整包。"
+    },
+    {
+      "id": "g4s1-mathematics-03-q06",
+      "question": "638÷31寫19…49需要怎樣修理？",
+      "options": [
+        "保持不變，乘回去正確就好",
+        "再分1份，改20…18",
+        "把49改成4.9"
+      ],
+      "answer": 1,
+      "hint": "49還夠不夠一份31？",
+      "explanation": "49大於31，還能分1份31，商增1而餘數變18才分完。"
+    },
+    {
+      "id": "g4s1-mathematics-03-q07",
+      "question": "672張平均分32包，商21的單位是？",
+      "options": [
+        "21包",
+        "每包21張",
+        "21盒多出來"
+      ],
+      "answer": 1,
+      "hint": "已經知道包數32。",
+      "explanation": "未知的是每包張數，所以21表示每包的張數，而不是包數。"
+    },
+    {
+      "id": "g4s1-mathematics-03-q08",
+      "question": "907張全放進每盒最多30張的盒子，需要？",
+      "options": [
+        "30盒",
+        "37盒",
+        "31盒"
+      ],
+      "answer": 2,
+      "hint": "30盒最多放900張。",
+      "explanation": "30盒仍有7張無處放，要另用1盒，所以全部裝好需31盒。"
+    }
+  ],
+  "selfCheck": [
+    "我會試乘檢查估商。",
+    "我說得出帶下前剩下的單位。",
+    "我同時檢查乘回總量和餘數界線。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-2：除數最多三位，本課集中二位除數、估商、0與情境中的商餘單位。"
+    }
+  ]
+}

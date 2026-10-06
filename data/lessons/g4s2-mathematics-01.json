@@ -1,0 +1,177 @@
+{
+  "id": "g4s2-mathematics-01",
+  "course": "數學",
+  "title": "多位數乘除的熟練運用",
+  "subtitle": "用估計、位值和反向核對，把多位數乘除做得穩。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "熟練含零的二三位乘數直式",
+    "完成三位除數估商與換位",
+    "選用整百簡化並解釋商餘單位"
+  ],
+  "materials": [
+    "大張位值直式紙、倍數參考表",
+    "虛構包裝任務卡、粗筆"
+  ],
+  "intro": "用估計、位值和反向核對，把多位數乘除做得穩。",
+  "sections": [
+    {
+      "title": "先選方法，再把位值寫清楚",
+      "childText": "熟練不是趕快，而是能挑可靠方法。",
+      "html": "<p>408張一盒，203盒一共幾張？先估408接近400、203接近200，約80000張。精算可拆成200盒與3盒，但每一部分都要保留它的位值。</p><p>較大位數仍用已學的十進單位，乘數和除數本課最多三位。不因想更難就一直加位數；本課要練的是零、估商及用相反運算驗證。</p>",
+      "id": "g4s2-mathematics-01-s01"
+    },
+    {
+      "title": "408×203：零不讓百位靠過來",
+      "childText": "三列分別是乘3、乘0個十、乘2個百。",
+      "html": "<p>408×3：8×3＝24，個位4、進2個十；0×3加2是2個十；4×3是12個百，所以1224。乘0個十得0。</p><p>408×200：先408×2＝816，8×2＝16，進1個十，0×2＋1＝1個十，4×2＝8個百；再乘100得81600。1224＋0＋81600＝82824，和約80000相符。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 246\" role=\"img\" aria-labelledby=\"g4s2-mathematics-01-product\"><title id=\"g4s2-mathematics-01-product\">408乘203的直式，部分積1224、0、81600，積82824。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"178\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">×</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"280\" y=\"152\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"280\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"178\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"144\" y=\"190\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"280\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"212\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"178\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"144\" y=\"228\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"105\" y1=\"200\" x2=\"302\" y2=\"200\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>408乘203的直式，部分積1224、0、81600，積82824。</figcaption></figure>",
+      "id": "g4s2-mathematics-01-s02"
+    },
+    {
+      "title": "61320÷120：三位除數也先估商",
+      "childText": "商寫在哪一位，要看正在分的單位。",
+      "html": "<p>61個千不足120個千，改看613個百。120×5＝600，商百位5，剩13個百。把13個百換130個十，加原有2個十成132個十；商十位1，減120個十後剩12個十。</p><p>12個十換120個一，加原有0，商個位1，減120餘0，所以511。驗算120×511＝61320；若商寫51或5110，乘回去就不等於原數。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 372\" role=\"img\" aria-labelledby=\"g4s2-mathematics-01-division\"><title id=\"g4s2-mathematics-01-division\">61320除以120等於511；613減600、帶下2成132，減120、帶下0成120，最後減120餘0。</title><text x=\"120\" y=\"93\" text-anchor=\"middle\" font-size=\"24\" fill=\"#183f38\" font-family=\"sans-serif\">120</text><line x1=\"146\" y1=\"65\" x2=\"146\" y2=\"105\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"146\" y1=\"65\" x2=\"304\" y2=\"65\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"170\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"199\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"228\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"257\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"286\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"286\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"257\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"228\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"170\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"141\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"140\" x2=\"301\" y2=\"140\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"257\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"228\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"199\" y=\"175\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"257\" y=\"216\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"228\" y=\"216\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"199\" y=\"216\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"170\" y=\"216\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"226\" x2=\"301\" y2=\"226\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"286\" y=\"260\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"257\" y=\"260\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"228\" y=\"260\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"286\" y=\"301\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"257\" y=\"301\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"228\" y=\"301\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"199\" y=\"301\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"311\" x2=\"301\" y2=\"311\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"286\" y=\"344\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text></svg><figcaption>61320除以120等於511；613減600、帶下2成132，減120、帶下0成120，最後減120餘0。</figcaption></figure>",
+      "id": "g4s2-mathematics-01-s03"
+    },
+    {
+      "title": "商末尾兩個0也各有理由",
+      "childText": "4209÷21的商是200，餘9。",
+      "html": "<p>先看42個百，21×2＝42，商百位2，餘0個百；帶下0個十仍0，商十位0；再帶下9個一，9不足21，商個位0，餘9。</p><p>所以4209÷21＝200…9。驗算21×200＋9＝4209，而且9＜21。不能省掉末尾0寫成2餘9，也不能把答案寫成200.9，因9是剩下的完整個數。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 364\" role=\"img\" aria-labelledby=\"g4s2-mathematics-01-zeros\"><title id=\"g4s2-mathematics-01-zeros\">4209除以21得200餘9；商十位與個位都必須保留0。</title><text x=\"120\" y=\"93\" text-anchor=\"middle\" font-size=\"24\" fill=\"#183f38\" font-family=\"sans-serif\">21</text><line x1=\"146\" y1=\"65\" x2=\"146\" y2=\"105\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"146\" y1=\"65\" x2=\"275\" y2=\"65\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"170\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"199\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"228\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"257\" y=\"93\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">9</text><text x=\"257\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"228\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"48\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"199\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"170\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"141\" y=\"130\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"140\" x2=\"272\" y2=\"140\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"228\" y=\"172\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"228\" y=\"211\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"199\" y=\"211\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"221\" x2=\"272\" y2=\"221\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"257\" y=\"254\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">9</text><text x=\"257\" y=\"293\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"228\" y=\"293\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><line x1=\"155\" y1=\"303\" x2=\"272\" y2=\"303\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"257\" y=\"336\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">9</text></svg><figcaption>4209除以21得200餘9；商十位與個位都必須保留0。</figcaption></figure>",
+      "id": "g4s2-mathematics-01-s04"
+    },
+    {
+      "title": "整百可用同樣大的包重新數",
+      "childText": "縮小數字時，要同時看總量和每份。",
+      "html": "<p>60000張每400張一包，可把100張當1大份：600大份每4大份一包，600÷4＝150包，所以60000÷400＝150。份數沒變，不能只把除數400改4而總量仍60000。</p><p>與乘法1600×200＝320000對照：乘法是份數增多，除法這裡是總量與每包同換單位。不要把「有零就刪掉」當作不管乘除都通用的規則。</p>",
+      "id": "g4s2-mathematics-01-s05"
+    },
+    {
+      "title": "一起選：精算前先想答案量級",
+      "childText": "餘數和單位也一起驗。",
+      "html": "<p>7824張每24張一包。先想24×300＝7200，剩624；24×26＝624，所以326包，餘0。再由24×326＝7824核對。孩子可用直式或分段找商，但需說每段是多少包。</p><p>換成7831張，商仍326包而餘7張。若問全部裝盒最多24張一盒，需327盒；若問完整包則326包。成人讓孩子先說題意，再選最後要回報哪個數。</p>",
+      "id": "g4s2-mathematics-01-s06"
+    },
+    {
+      "title": "獨立轉用：把錯誤定位到一列",
+      "childText": "不要只圈答案錯，要找改變了什麼單位。",
+      "html": "<p>獨立算305×120與48000÷300，選一題解釋你的位值方法。修理「408×203＝408×2＋408×3」；再講4209÷21中兩個商0各如何得到。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>獨立算305×120：305×20＝6100，305×100＝30500，合36600。再算48000÷300＝160，把100張當一份可看成480÷3。</p><p>出口修理「408×203＝408×2＋408×3」：百位2代表200，第一部分應為81600。再講4209÷21中兩個0各如何來，不只回答「因為原數有0」。</p></details>",
+      "id": "g4s2-mathematics-01-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-4-2，本課把三位乘數、三位除數與整百簡化放在同一套位值解釋中。主要乘法408×203同時有被乘數中間零與乘數十位零，正文寫出零乘後加進位的步驟，成人不可略過成只看部分積答案。除法61320÷120由613個百開始，商首位是百位；要孩子每一次把餘量換成下一單位後，才加帶下的原數字。</p><p>4209除21的兩個商零分別因0個十和9個一不足除數，理由並非照抄被除數的零。供完整直式含減0列，使商零有位置證據。60000除400以100張為一份，是總量和每份同時改用大單位計數，商仍包數；不能把任意刪零當規則，尤其有餘數的題不使用未說明的簡化。</p><p>支持組可使用倍數表與位值欄、將計算和口述分段；熟練組挑選直式或分段法並說明選擇，處理餘數情境，不擴展四位乘除數。成人以估計、對位、試商、換位、乘回總量和商餘單位六點觀察，錯誤修理只改已找到的原因，不要求反覆抄寫整題。所有大數物品是虛構卡片情境，無須實際堆疊或交易。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-mathematics-01-q01",
+      "question": "408×203中百位2的部分積是？",
+      "options": [
+        "816",
+        "8160",
+        "81600"
+      ],
+      "answer": 2,
+      "hint": "2代表200份。",
+      "explanation": "408乘200是408乘2再乘100，得81600，不能省去百位意義。"
+    },
+    {
+      "id": "g4s2-mathematics-01-q02",
+      "question": "408×203等於？",
+      "options": [
+        "2040",
+        "82824",
+        "82404"
+      ],
+      "answer": 1,
+      "hint": "相加1224與81600。",
+      "explanation": "三份1224加二百份81600等於82824，與約80000的估計接近。"
+    },
+    {
+      "id": "g4s2-mathematics-01-q03",
+      "question": "61320÷120第一次看613時，單位是？",
+      "options": [
+        "百",
+        "一",
+        "十"
+      ],
+      "answer": 0,
+      "hint": "還有十位2和個位0待處理。",
+      "explanation": "613代表前面的613個百，所以首位商5須放在百位。"
+    },
+    {
+      "id": "g4s2-mathematics-01-q04",
+      "question": "61320÷120的商是？",
+      "options": [
+        "511",
+        "51",
+        "5110"
+      ],
+      "answer": 0,
+      "hint": "乘回120核查位數。",
+      "explanation": "120乘511得61320，三次商依序是5個百、1個十、1個一。"
+    },
+    {
+      "id": "g4s2-mathematics-01-q05",
+      "question": "4209÷21的結果是？",
+      "options": [
+        "200餘9",
+        "2餘9",
+        "209餘0"
+      ],
+      "answer": 0,
+      "hint": "首位商2後，十位和個位都不足再分。",
+      "explanation": "21乘200為4200，剩9且9小於21，商的兩個零不可省略。"
+    },
+    {
+      "id": "g4s2-mathematics-01-q06",
+      "question": "60000÷400可以看成600÷4，因為？",
+      "options": [
+        "任意刪掉看到的零都不影響",
+        "總量和每包都改以100張為一份",
+        "只把除數變小"
+      ],
+      "answer": 1,
+      "hint": "兩邊都用相同大單位計數。",
+      "explanation": "60000是600個百，400是4個百，計算含幾包的份數仍相同。"
+    },
+    {
+      "id": "g4s2-mathematics-01-q07",
+      "question": "7831張全裝每盒最多24張，已算326餘7，需要？",
+      "options": [
+        "326盒",
+        "327盒",
+        "333盒"
+      ],
+      "answer": 1,
+      "hint": "326盒滿後還有7張。",
+      "explanation": "326盒可裝7824張，餘7張需另1盒，所以全部裝下要327盒。"
+    },
+    {
+      "id": "g4s2-mathematics-01-q08",
+      "question": "305×120是多少？",
+      "options": [
+        "6710",
+        "3660",
+        "36600"
+      ],
+      "answer": 2,
+      "hint": "120拆成100與20。",
+      "explanation": "305乘100為30500，乘20為6100，相加36600。"
+    }
+  ],
+  "selfCheck": [
+    "我能說清每個部分積的單位。",
+    "我會處理商中間與末尾的零。",
+    "我用乘回和餘數界線核對除法。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-2：乘除數最多三位、0與估商、整十整百計算的位值理由。"
+    }
+  ]
+}

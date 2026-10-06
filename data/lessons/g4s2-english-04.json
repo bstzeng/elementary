@@ -1,0 +1,195 @@
+{
+  "id": "g4s2-english-04",
+  "course": "英語文",
+  "title": "衣物和物品的所有者",
+  "subtitle": "依明確資料問誰的衣物，分清物主、拿著的人及單複數問答",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "依明確資料問誰的衣物，分清物主、拿著的人及單複數問答。本頁完整資料以虛構卡為主，先配對，再問答與獨立轉用。",
+  "goals": [
+    "我能用Whose…?詢問本課衣物和物品的所有者。",
+    "我會依說話者分清my/mine、your/yours，並辨認Mia’s等所有格。",
+    "我能依名冊而非顏色或持有人判斷，資料不足時不任意歸還。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>所有權由明確名冊而非圖位置與Bo持有推定。Mia D書回答保留未知，不假定未知就是不屬於她。完整具名所有格和my/mine/your/yours視角轉換，兩隻socks配are/they；It’s縮寫與Mia’s所有格分開。支持者名字’s，進階者換說話者及兩帽消歧。無真實失物處理、個資蒐集或穿戴碰觸。</p>",
+  "selfCheck": [
+    "我能用Whose…?詢問本課衣物和物品的所有者。",
+    "我會依說話者分清my/mine、your/yours，並辨認Mia’s等所有格。",
+    "我能依名冊而非顏色或持有人判斷，資料不足時不任意歸還。",
+    "我能說明答案依據和這次需要的支持。"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-english-04-s01",
+      "title": "誰的，和誰拿著不一樣",
+      "childText": "物品靠近某人也不證明屬於他。",
+      "html": "<p><span lang=\"en\">Whose cap is this?</span>問這頂帽子是誰的；<span lang=\"en\">Where is the cap?</span>問帽子在哪裡，是兩種問題。本課所有權由虛構失物名冊明確提供，不由衣色、性別或誰拿著來猜。</p><p>名稱庫：<span lang=\"en\">cap</span>帽子、<span lang=\"en\">coat</span>外套、<span lang=\"en\">sock</span>一隻襪子、<span lang=\"en\">socks</span>多隻襪子、<span lang=\"en\">book</span>書。兩隻襪子可說two socks，本課問整組時用複數these/are/they，不因是一組道具就把socks當單數it。</p>"
+    },
+    {
+      "id": "g4s2-english-04-s02",
+      "title": "完整物品圖和名冊",
+      "childText": "圖認物，名冊認所有者。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 265\" role=\"img\" aria-labelledby=\"g4s2-english-04-fig\"><title id=\"g4s2-english-04-fig\">原創失物卡：左上A藍帽，右上B紅外套，左下C兩隻綠襪，右下D紫書。圖只呈現物品，不提供所有者，所有權另見正文名冊。</title><g fill=\"#f1f5fa\" stroke=\"#345\"><rect x=\"8\" y=\"8\" width=\"167\" height=\"117\"/><rect x=\"185\" y=\"8\" width=\"167\" height=\"117\"/><rect x=\"8\" y=\"139\" width=\"167\" height=\"118\"/><rect x=\"185\" y=\"139\" width=\"167\" height=\"118\"/></g><path d=\"M38 79Q43 30 91 39Q119 41 122 79L151 89H35Z\" fill=\"#4b8ab7\" stroke=\"#345\" stroke-width=\"2\"/><path d=\"M237 31L211 70L201 104L220 115L238 77V117H299V77L315 115L338 104L327 70L303 31L284 42H257Z\" fill=\"#c86b67\" stroke=\"#663d3a\" stroke-width=\"2\"/><path d=\"M270 43V116M257 42L270 55L284 42\" fill=\"none\" stroke=\"#663d3a\" stroke-width=\"2\"/><circle cx=\"279\" cy=\"67\" r=\"2\" fill=\"#663d3a\"/><circle cx=\"279\" cy=\"87\" r=\"2\" fill=\"#663d3a\"/><circle cx=\"279\" cy=\"107\" r=\"2\" fill=\"#663d3a\"/><path d=\"M56 166H77V210L105 222Q113 242 87 241L57 224ZM108 164H129V203L153 216Q157 233 139 233L110 218Z\" fill=\"#83ad83\" stroke=\"#345\" stroke-width=\"2\"/><rect x=\"223\" y=\"167\" width=\"94\" height=\"65\" rx=\"4\" fill=\"#9472b2\" stroke=\"#345\" stroke-width=\"3\"/><path d=\"M236 169V230\" stroke=\"#dbcfe6\" stroke-width=\"3\"/><g font-size=\"17\" lang=\"en\"><text x=\"15\" y=\"29\">A</text><text x=\"191\" y=\"29\">B</text><text x=\"15\" y=\"160\">C</text><text x=\"191\" y=\"160\">D</text></g></svg><figcaption>A cap帽子；B coat外套；C socks襪子（兩隻）；D book書。位置和顏色不是所有權證據。</figcaption></figure><p>名冊：A帽子的主人Mia；B外套的主人Jo；C兩隻襪子的主人Ren；D紫書主人未記。補充動作：Bo幫忙拿著Mia的帽子，不代表帽子變成Bo的。所有姓名皆虛構，活動不用真正失物、衣物標籤或同學私人姓名。</p>"
+    },
+    {
+      "id": "g4s2-english-04-s03",
+      "title": "完整對話：確認帽子",
+      "childText": "your指當時正在被問的人。",
+      "html": "<div class=\"story\"><p>Bo問Mia：<span lang=\"en\">Is this your cap?</span> 這是你的帽子嗎？Mia：<span lang=\"en\">Yes, it is. It’s my cap.</span> 是，是我的帽子。Bo：<span lang=\"en\">Is this book yours, too?</span> 這本書也是你的嗎？Mia依資料：<span lang=\"en\">I don’t know whose book it is.</span> 我不知道這本書是誰的。Jo指帽子問Bo：<span lang=\"en\">Whose cap is this?</span> Bo：<span lang=\"en\">It’s Mia’s.</span></p></div><p>成人完整讀六回合，先說清這本書指D紫書。Mia不知道書主人的回答不證明她擁有或不擁有，只保留未確認。your第一次指Mia，不能把Bo自己的視角套到每一個回合。</p>"
+    },
+    {
+      "id": "g4s2-english-04-s04",
+      "title": "一起練：my加名詞，mine可代替整組",
+      "childText": "同一所有者可以有兩種自然說法。",
+      "html": "<p>Mia說<span lang=\"en\">It’s my cap.</span>也可說<span lang=\"en\">It’s mine.</span>。my後接cap；mine在本課代替my cap，不再接cap。Bo對Mia可說<span lang=\"en\">It’s your cap.</span>或<span lang=\"en\">It’s yours.</span>。先指說話者與聽者，再配詞，不把mine當固定對應某個名字。</p><p>供應換角卡：現在Jo描述自己的外套。可說<span lang=\"en\">It’s my coat. / It’s mine.</span>。若Mia告訴Jo同一件外套，則<span lang=\"en\">It’s your coat. / It’s yours.</span>。物主沒變，但說話關係改了；兩種自然完整/代詞形式不互相判錯。</p>"
+    },
+    {
+      "id": "g4s2-english-04-s05",
+      "title": "所有格與複數要分開",
+      "childText": "小撇號的位置有工作。",
+      "html": "<p><span lang=\"en\">Mia’s cap</span>是Mia的帽子，Mia後的’s表示本課所有關係；<span lang=\"en\">two caps</span>的s表示兩頂帽子的複數，沒有同一意思。<span lang=\"en\">It’s Mia’s.</span>前面的It’s是It is縮寫，後面的Mia’s是所有格，要看整句，不能說每個’s都只代表擁有。</p><p>C襪子完整問答：<span lang=\"en\">Whose socks are these? / They’re Ren’s.</span>。They’re是They are。兩隻襪子用are、they；Ren’s不因物品是複數就改成Rens。這課只教一位已命名物主，不擴充所有複數人名規則。</p>"
+    },
+    {
+      "id": "g4s2-english-04-s06",
+      "title": "修復：不能靠持有人或顏色決定",
+      "childText": "先核對紀錄，再處理未知。",
+      "html": "<p>錯誤「Bo拿著帽子，所以It’s Bo’s.」被名冊推翻，應改It’s Mia’s.。錯句<span lang=\"en\">It’s mine cap.</span>混用兩種形式，可改<span lang=\"en\">It’s my cap.</span>或<span lang=\"en\">It’s mine.</span>；錯拼<span lang=\"en\">your’s</span>在本課應改<span lang=\"en\">yours</span>，這個代詞沒有撇號。</p><p>D書主人未記，不能說是最喜歡紫色的人，也不要求公開同學姓名來猜。紙上活動的做法是放在待確認欄，請故事中的成人管理者查核；不用真實訊息聯絡、拍照或把物品擅自交出去。</p>"
+    },
+    {
+      "id": "g4s2-english-04-s07",
+      "title": "自己試：新物品、新說話視角",
+      "childText": "只改新增的資料，不推翻舊名冊。",
+      "html": "<p>新卡E：黃色帽子屬於Kai，由Ren暫時拿著。Ren問Kai：<span lang=\"en\">Is this your cap?</span>，Kai應如何回答？接著Mia問Ren：<span lang=\"en\">Whose cap is this?</span>，如何回覆？A藍帽仍屬Mia，不因同是cap就改主人。</p><details><summary>完整可用回應</summary><p>Kai：<span lang=\"en\">Yes, it is. It’s mine.</span>或<span lang=\"en\">It’s my cap.</span>；Ren：<span lang=\"en\">It’s Kai’s.</span>。持有人Ren不等於主人Kai。A仍Mia’s，D仍未知。要辨認同類兩帽，可用blue cap/yellow cap加顏色，但顏色本身不決定主人。</p></details>"
+    },
+    {
+      "id": "g4s2-english-04-s08",
+      "title": "完成有證據的失物卡",
+      "childText": "物品、主人、依據分三格。",
+      "html": "<p>成品例：「A blue cap／Mia／名冊；Bo暫拿不改物主」。再記「D purple book／未知／名冊未提供」。孩子可指圖，成人代寫；不必穿戴角色衣物、觸碰別人或真的翻找書包。</p><p>成人支持者只做Whose cap與具名所有格，進階者做my/mine視角和socks複數。評問句種類、所有權證據、代詞指涉與自然詞形，不評衣物價格或外表。現場朗讀另由教師示範與觀察，文字題不證明口語所有格尾音。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Possessives: pronouns",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/possessives-pronouns",
+      "note": "2026-10-05直接核對my/mine、your/yours、Whose coat?及所有代詞不加撇號，完整名詞組也是可接受自然回答。"
+    },
+    {
+      "title": "British Council｜Possessive ’s",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/possessive-s",
+      "note": "2026-10-05直接核對正文具名物主後’s與所有關係；本課只教指定一位物主，不擴張所有複數姓名變化。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s2-english-04-q01",
+      "question": "Whose cap is this?主要問什麼？",
+      "options": [
+        "帽子屬於誰",
+        "現在幾點",
+        "帽子在哪個房間"
+      ],
+      "answer": 0,
+      "hint": "Whose與Where不同。",
+      "explanation": "Whose詢問所有關係，不是位置或時間，應依名冊找主人。"
+    },
+    {
+      "id": "g4s2-english-04-q02",
+      "question": "Bo拿著A帽，名冊主人仍是？",
+      "options": [
+        "未出場的任何人",
+        "Mia",
+        "Bo"
+      ],
+      "answer": 1,
+      "hint": "持有和所有權要分開。",
+      "explanation": "名冊明寫Mia，Bo只是幫忙拿著，不能據此把物主改成Bo。"
+    },
+    {
+      "id": "g4s2-english-04-q03",
+      "question": "Mia說自己的帽子，哪句符合？",
+      "options": [
+        "It’s mine cap.",
+        "It’s I cap.",
+        "It’s my cap."
+      ],
+      "answer": 2,
+      "hint": "my需要後接名詞。",
+      "explanation": "my cap為完整所有名詞組；mine不能在本課再接cap，I也不是所有形式。"
+    },
+    {
+      "id": "g4s2-english-04-q04",
+      "question": "不重複cap的自然回答是？",
+      "options": [
+        "It’s mine.",
+        "It’s mine cap.",
+        "It’s my."
+      ],
+      "answer": 0,
+      "hint": "mine可代替my cap整組。",
+      "explanation": "已知談帽子時mine可獨立代替my cap，my則不能單獨放在這個句尾。"
+    },
+    {
+      "id": "g4s2-english-04-q05",
+      "question": "C兩隻襪子的完整問答是？",
+      "options": [
+        "Whose socks are these? They’re Ren’s.",
+        "Whose socks is this? It’s Ren.",
+        "Whose sock are these? They Ren."
+      ],
+      "answer": 0,
+      "hint": "socks配複數指示和be。",
+      "explanation": "兩隻襪子需these、are和they，Ren’s表達所有者，不是把Ren當物品。"
+    },
+    {
+      "id": "g4s2-english-04-q06",
+      "question": "D書主人未記，應怎麼做？",
+      "options": [
+        "交給穿紫色的人",
+        "放待確認欄",
+        "交給拿著的人"
+      ],
+      "answer": 1,
+      "hint": "未提供就不能猜定。",
+      "explanation": "紫色或持有都不能補足名冊缺漏，應保留未知並由故事成人查核。"
+    },
+    {
+      "id": "g4s2-english-04-q07",
+      "question": "新E帽屬Kai由Ren拿，Ren應回？",
+      "options": [
+        "It’s Mia’s.",
+        "It’s Kai’s.",
+        "It’s Ren’s."
+      ],
+      "answer": 1,
+      "hint": "用新卡明說的物主。",
+      "explanation": "新卡所有者是Kai，Ren暫拿不改所有關係，也不能沿用A帽的Mia。"
+    },
+    {
+      "id": "g4s2-english-04-q08",
+      "question": "本課yours要不要加撇號？",
+      "options": [
+        "一定寫yours’s",
+        "要，寫your’s",
+        "不用，寫yours"
+      ],
+      "answer": 2,
+      "hint": "核對已供應的代詞形式。",
+      "explanation": "yours是本課所有代詞，本身沒有撇號，不能照具名Mia’s形式亂加。"
+    }
+  ]
+}

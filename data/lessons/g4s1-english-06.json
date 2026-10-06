@@ -1,0 +1,199 @@
+{
+  "id": "g4s1-english-06",
+  "course": "英語文",
+  "title": "短母音音組辨識",
+  "subtitle": "比較短母音與結尾音組，能換中間一音，也能保留同一音組",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "比較短母音與結尾音組，能換中間一音，也能保留同一音組。完整材料在下方，先理解，再有提示練習，最後用新資料自己試。",
+  "goals": [
+    "我能在本課美式模型下比較五組短母音例詞，文字與實際聽辨分開記。",
+    "我能指出cap/cup中間字母改變，及cat/cap末尾字母改變。",
+    "我會以完整詞的聲音和意思核對，不只看到同一字母就認為所有讀法相同。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項觀察</h3><p>精確採UFLI美式35a/36a/37a/39a/40a詞項。五個短母音透過已提供詞義和自然模型，比較中間母音與起首/韻尾，避免套用一字母一聲的通則；三格只適用cap/cup這兩個三音位詞。支持者cap/cup兩詞，進階者區別同母音與同結尾音組。無音訊已明示；選擇題不要求聽未播放聲音。教師記英文可見、口型、重聽等條件，不以書面答對替代口語。</p>",
+  "selfCheck": [
+    "我能在本課美式模型下比較五組短母音例詞，文字與實際聽辨分開記。",
+    "我能指出cap/cup中間字母改變，及cat/cap末尾字母改變。",
+    "我會以完整詞的聲音和意思核對，不只看到同一字母就認為所有讀法相同。",
+    "我能區分看字理解、跟讀和獨立表現，知道還需要哪些支持。"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-english-06-s01",
+      "title": "短母音是本課的語音類別",
+      "childText": "不是把字念越快就變成短母音。",
+      "html": "<p>英語拼讀教學稱這些例字的母音為「短母音」。本課用美式UFLI模型；它不是只測聲音持續幾秒，也不是念字母名稱。成人先用可靠來源確認字音，孩子再聽整個詞，知道它代表什麼，最後才比較中間聲音。</p><p>五個起點：a在<span lang=\"en\">cap</span>帽子；e在<span lang=\"en\">pen</span>筆；i在<span lang=\"en\">sit</span>坐；o在<span lang=\"en\">hop</span>單腳跳的動作詞；u在<span lang=\"en\">cup</span>杯子。動作只用紙上詞義辨認，不需真的跳、坐到地上或摸熱物。不同英語變體可能有正常差異，不能靠中文諧音規定唯一口形。</p>"
+    },
+    {
+      "id": "g4s1-english-06-s02",
+      "title": "完整詞庫：先懂意思再比較",
+      "childText": "相同音組可以出現在不同詞裡。",
+      "html": "<p>a組：<span lang=\"en\">cat</span>貓、<span lang=\"en\">cap</span>帽子、<span lang=\"en\">map</span>地圖；e組：<span lang=\"en\">pen</span>筆、<span lang=\"en\">pet</span>寵物、<span lang=\"en\">ten</span>十；i組：<span lang=\"en\">sit</span>坐、<span lang=\"en\">sip</span>小口喝、<span lang=\"en\">lip</span>嘴唇；o組：<span lang=\"en\">hop</span>單腳跳、<span lang=\"en\">hot</span>熱、<span lang=\"en\">top</span>頂端；u組：<span lang=\"en\">cup</span>杯子、<span lang=\"en\">cut</span>切、<span lang=\"en\">sun</span>太陽。cut只學詞義，不拿剪刀示範。</p><p>這五組按本課模型中的母音分類，不是按意思分類。cap與map都保留末段ap；sip與lip都保留末段ip；hop與top都保留末段op。pet與pen雖同e母音，末尾不同，所以不是整個結尾音組相同。</p>"
+    },
+    {
+      "id": "g4s1-english-06-s03",
+      "title": "看清cap到cup變哪裡",
+      "childText": "保留頭尾，只換中間。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 190\" role=\"img\" aria-labelledby=\"g4s1-english-06-fig\"><title id=\"g4s1-english-06-fig\">原創拼字比較：上排cap，下排cup；c和p不變，中間a改u。三格顯示本次三個音位對應的字母，不代表所有字一字母等於一個音。</title><g fill=\"#edf3fa\" stroke=\"#456\"><rect x=\"20\" y=\"24\" width=\"90\" height=\"60\"/><rect x=\"135\" y=\"24\" width=\"90\" height=\"60\" fill=\"#ffe6b8\"/><rect x=\"250\" y=\"24\" width=\"90\" height=\"60\"/><rect x=\"20\" y=\"109\" width=\"90\" height=\"60\"/><rect x=\"135\" y=\"109\" width=\"90\" height=\"60\" fill=\"#ffe6b8\"/><rect x=\"250\" y=\"109\" width=\"90\" height=\"60\"/></g><g lang=\"en\" font-size=\"40\" text-anchor=\"middle\"><text x=\"65\" y=\"68\">c</text><text x=\"180\" y=\"68\">a</text><text x=\"295\" y=\"68\">p</text><text x=\"65\" y=\"153\">c</text><text x=\"180\" y=\"153\">u</text><text x=\"295\" y=\"153\">p</text></g></svg><figcaption>cap帽子與cup杯子：先觀察中間字母，再在教師模型下聽兩個字。</figcaption></figure><p>教師完整讀cap，說明帽子，再讀cup，說明杯子。兩詞在本課模型中起頭和結尾音相同，中間母音不同。孩子先指圖上改變的a/u，再聽教師實際比較；會指出字母差異不等於已能聽出母音。</p><p>反過來比較cat和cap，這次中間a不變，末尾t換p。只要任何位置的聲音改變，都可能變成另一個詞；不要把每次差異都怪在母音。</p>"
+    },
+    {
+      "id": "g4s1-english-06-s04",
+      "title": "成人朗讀材料與一起分類",
+      "childText": "讀詞次序已供應，不靠臨時猜題。",
+      "html": "<p>成人第一輪逐一讀：<span lang=\"en\">cap, pen, sit, hop, cup</span>，每詞自然讀兩次，孩子依已懂詞義指卡。第二輪完整次序：<span lang=\"en\">cup, cap, cup, cap</span>，孩子選帽子或杯子文字卡；卡片左右位置在第二次練習交換，避免記位置代替認詞。</p><p>這是有詞義卡支持的聽辨。成人記錄是否看到英文、是否看見口型、是否重聽，不謊稱是無提示純聽力。第三輪只看拼字，把map、ten、lip、top、sun放到五個母音欄；此輪是文字分類。</p>"
+    },
+    {
+      "id": "g4s1-english-06-s05",
+      "title": "修復：母音一樣不等於整個詞一樣",
+      "childText": "頭、中、尾都可能提供線索。",
+      "html": "<p>把pet誤放到pen同一「整個末段」欄時，先圈共同e，再指不同t/n：母音相同，但末段et/en不同。把cat和cup說成只差末尾時，逐格比較c-a-t與c-u-p，可見中、尾都變了。</p><p>本課的短音組不代表每個含a/e/i/o/u的英文詞都照這樣讀。遇到未教詞，不把猜讀當已證實發音；可先提出猜想，再問教師或查字典。圖片意思有時能協助理解，但不能只看帽子就跳過cap的字母。</p>"
+    },
+    {
+      "id": "g4s1-english-06-s06",
+      "title": "自己試：兩種不同的轉換",
+      "childText": "一次只改指定的位置。",
+      "html": "<p>新任務甲：從map地圖改成cap帽子，說哪個字母位置改了、哪段保留。新任務乙：從sip小口喝改成sit坐，指出哪裡保留、哪裡改。最後把sun太陽放到正確短母音欄，並說你這次是看字還是聽教師完成。</p><details><summary>書面部分核對</summary><p>map→cap只改起頭m/c，保留ap；sip→sit只改末尾p/t，保留si；sun的中間字母u屬本課u短母音組。口語相似與否要在教師自然示範下另作觀察，不能由這段文字代答。</p></details>"
+    },
+    {
+      "id": "g4s1-english-06-s07",
+      "title": "把觀察記成可再練的下一步",
+      "childText": "知道錯在哪個位置，才容易修正。",
+      "html": "<p>紀錄例：「cap/cup能看字分辨；交換卡位後聽辨仍把cup指成cap；重聽後改對。」下一次先只練這一對，不急著加入更多未知詞。另一例「map/cap能說明起頭變、ap保留」表示已能比較音組結構。</p><p>成人支持者每次只給兩詞與意思，進階者把五組混排再解釋分類依據。孩子可指卡或用AAC完成理解；發音由教師真正聽過後才記錄。不以快讀、拍得響或背完十五詞作為唯一成功標準。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜35a Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/35a_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05 直接核對美式原版短母音分類及cat、cap、map、lap、nap例詞；只使用基本詞項及拼讀概念，不複製原作全文或整組練習，未驗聽。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜36a Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/36a_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05 直接核對美式原版短母音分類及sit、sip、lip、pig例詞；只使用基本詞項及拼讀概念，不複製原作全文或整組練習，未驗聽。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜37a Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/37a_HomePractice_UFLI-Foundations-1.pdf",
+      "note": "2026-10-05 直接核對美式原版短母音分類及hop、hot、top例詞；只使用基本詞項及拼讀概念，不複製原作全文或整組練習，未驗聽。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜39a Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/39a_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05 直接核對美式原版短母音分類及cup、cut、sun例詞；只使用基本詞項及拼讀概念，不複製原作全文或整組練習，未驗聽。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜40a Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/40a_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05 直接核對美式原版短母音分類及pen、pet、ten、bed例詞；只使用基本詞項及拼讀概念，不複製原作全文或整組練習，未驗聽。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s1-english-06-q01",
+      "question": "cap和cup拼字的不同位置是？",
+      "options": [
+        "末尾p",
+        "中間a/u",
+        "起頭c"
+      ],
+      "answer": 1,
+      "hint": "逐格比較三個位置。",
+      "explanation": "cap與cup起頭c及末尾p相同，差別是中間字母a與u，意思也不同。"
+    },
+    {
+      "id": "g4s1-english-06-q02",
+      "question": "cap在本課詞庫的意思是？",
+      "options": [
+        "地圖",
+        "帽子",
+        "杯子"
+      ],
+      "answer": 1,
+      "hint": "先核對完整詞義。",
+      "explanation": "cap是帽子，cup才是杯子，不能只因頭尾相同便把兩個詞義混在一起。"
+    },
+    {
+      "id": "g4s1-english-06-q03",
+      "question": "哪組保留本課相同的末段ap？",
+      "options": [
+        "cap與map",
+        "cap與cup",
+        "pen與pet"
+      ],
+      "answer": 0,
+      "hint": "看中間母音和末尾一起。",
+      "explanation": "cap和map只在起頭不同，末段ap一致；其他選項沒有相同的完整末段。"
+    },
+    {
+      "id": "g4s1-english-06-q04",
+      "question": "cat改cap，變動的是？",
+      "options": [
+        "第一c變m",
+        "中間a變u",
+        "最後t變p"
+      ],
+      "answer": 2,
+      "hint": "這次不是換母音。",
+      "explanation": "cat和cap中間都為a，起頭同為c，只有最後的t與p不一樣。"
+    },
+    {
+      "id": "g4s1-english-06-q05",
+      "question": "pet與pen能說哪一項相同？",
+      "options": [
+        "本課短e母音",
+        "所有字母都相同",
+        "整個末段et/en完全相同"
+      ],
+      "answer": 0,
+      "hint": "把共同與差異分開。",
+      "explanation": "兩詞都有本課短e母音，但末尾t/n不同，因此不能說整個末段都一樣。"
+    },
+    {
+      "id": "g4s1-english-06-q06",
+      "question": "map改cap，保留哪段？",
+      "options": [
+        "cup",
+        "ap",
+        "ma"
+      ],
+      "answer": 1,
+      "hint": "只換指定的起頭字母。",
+      "explanation": "map到cap變的是起頭m/c，後面的a與p不動，所以保留ap。"
+    },
+    {
+      "id": "g4s1-english-06-q07",
+      "question": "sun的中間字母屬哪欄？",
+      "options": [
+        "i組",
+        "e組",
+        "u組"
+      ],
+      "answer": 2,
+      "hint": "找sun正中間的字母。",
+      "explanation": "sun中間是u，按本課已提供的美式短母音分類放入u組。"
+    },
+    {
+      "id": "g4s1-english-06-q08",
+      "question": "只看字把cap/cup分對，可以證明已聽辨嗎？",
+      "options": [
+        "不能，實際聽辨要另觀察",
+        "可以，已聽過所有音檔",
+        "可以，所有口音都相同"
+      ],
+      "answer": 0,
+      "hint": "看字與聽聲音是不同證據。",
+      "explanation": "書面差異可由視覺完成，必須有真正口語模型與現場反應才能記錄聽辨表現。"
+    }
+  ]
+}

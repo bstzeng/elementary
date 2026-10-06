@@ -1,0 +1,187 @@
+{
+  "id": "g4s1-arts-07",
+  "course": "藝術",
+  "title": "直笛指法與氣息",
+  "subtitle": "把熟悉三音放進較長樂句，讓手指、起音與氣息協調",
+  "duration": "2–3次，每次約25–35分鐘；操作與排練分短段，可隨時休息",
+  "intro": "把熟悉三音放進較長樂句，讓手指、起音與氣息協調。從完整原創模型出發，試一個有理由的改變，再把方法用到新情境。",
+  "goals": [
+    "我能核對高音巴洛克式B、A、G指法。",
+    "我能按四小節時值安排換指、休止與短段呼吸。",
+    "我能辨別漏孔或過強氣流的可能問題並安全重試。"
+  ],
+  "materials": [
+    "個人專用C調高音巴洛克式直笛，成人核實型號與清潔狀態",
+    "完整指法與曲譜；可選無聲換指、指譜或成人代奏，不共用吹口"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-arts-07-s01",
+      "title": "先認對樂器，再練協調",
+      "childText": "先認對樂器，再練協調",
+      "html": "<p>本課限定C調高音直笛、巴洛克式基本指法，只用B、A、G，不把這張卡套到中音直笛或其他全音域。此處三音實際發聲為B5、A5、G5；成人用鍵盤核音要用同八度。已會三音後，新的挑戰是換指時不要打亂半拍與長音。</p><p>左手拇指封背孔0，左食指、中指、無名指分別照顧正面1、2、3；右手以輕鬆方式支撐，不能用力捏到緊繃。孔由指腹舒適蓋住，不硬壓孩子的手，也不以吹得很大聲當成會吹。</p>"
+    },
+    {
+      "id": "g4s1-arts-07-s02",
+      "title": "完整孔位與換指規則",
+      "childText": "完整孔位與換指規則",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 348\" role=\"img\" aria-labelledby=\"g4s1-arts-07-fig-fingers-t g4s1-arts-07-fig-fingers-d\"><title id=\"g4s1-arts-07-fig-fingers-t\">原創教學圖</title><desc id=\"g4s1-arts-07-fig-fingers-d\">三幅原創指法圖。B封背孔0與正面1；A再封2；G再封3。未列的孔全開。6、7雙孔各簡化為一圈。</desc><rect width=\"360\" height=\"348\" fill=\"#fffdf6\"/><text x=\"10\" y=\"23\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">高音巴洛克式：●封住，○開放</text><text x=\"66\" y=\"50\" font-size=\"22\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">B</text><rect x=\"49\" y=\"62\" width=\"34\" height=\"188\" rx=\"12\" fill=\"#e9d8ab\" stroke=\"#5c645f\"/><circle cx=\"31\" cy=\"78\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"18\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0</text><circle cx=\"66\" cy=\"81\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"53\" y=\"86\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"66\" cy=\"104\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"53\" y=\"109\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"66\" cy=\"127\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"53\" y=\"132\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><circle cx=\"66\" cy=\"150\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"53\" y=\"155\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><circle cx=\"66\" cy=\"173\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"53\" y=\"178\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">5</text><circle cx=\"66\" cy=\"196\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"53\" y=\"201\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">6</text><circle cx=\"66\" cy=\"219\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"53\" y=\"224\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">7</text><text x=\"66\" y=\"277\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">封01</text><text x=\"186\" y=\"50\" font-size=\"22\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">A</text><rect x=\"169\" y=\"62\" width=\"34\" height=\"188\" rx=\"12\" fill=\"#e9d8ab\" stroke=\"#5c645f\"/><circle cx=\"151\" cy=\"78\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"138\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0</text><circle cx=\"186\" cy=\"81\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"173\" y=\"86\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"186\" cy=\"104\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"173\" y=\"109\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"186\" cy=\"127\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"173\" y=\"132\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><circle cx=\"186\" cy=\"150\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"173\" y=\"155\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><circle cx=\"186\" cy=\"173\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"173\" y=\"178\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">5</text><circle cx=\"186\" cy=\"196\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"173\" y=\"201\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">6</text><circle cx=\"186\" cy=\"219\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"173\" y=\"224\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">7</text><text x=\"186\" y=\"277\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">封012</text><text x=\"306\" y=\"50\" font-size=\"22\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G</text><rect x=\"289\" y=\"62\" width=\"34\" height=\"188\" rx=\"12\" fill=\"#e9d8ab\" stroke=\"#5c645f\"/><circle cx=\"271\" cy=\"78\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"258\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0</text><circle cx=\"306\" cy=\"81\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"293\" y=\"86\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"306\" cy=\"104\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"293\" y=\"109\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"306\" cy=\"127\" r=\"6\" fill=\"#183a48\" stroke=\"#183a48\"/><text x=\"293\" y=\"132\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><circle cx=\"306\" cy=\"150\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"293\" y=\"155\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><circle cx=\"306\" cy=\"173\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"293\" y=\"178\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">5</text><circle cx=\"306\" cy=\"196\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"293\" y=\"201\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">6</text><circle cx=\"306\" cy=\"219\" r=\"6\" fill=\"white\" stroke=\"#183a48\"/><text x=\"293\" y=\"224\" font-size=\"13\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">7</text><text x=\"306\" y=\"277\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">封0123</text><text x=\"10\" y=\"307\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0是背孔；正面1–7從吹口向下。</text><text x=\"10\" y=\"330\" font-size=\"14\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">6、7雙孔合畫一圈，本課都全開。</text></svg><figcaption>三幅原創指法圖。B封背孔0與正面1；A再封2；G再封3。未列的孔全開。6、7雙孔各簡化為一圈。</figcaption></figure><p>B到G要加封2、3兩孔；G回B要抬2、3而保留0、1。先做無聲慢動作，看兩指是否一同到位；A到B只抬2，3本來就開。看懂規則比背「左邊幾個黑點」更能轉用到新順序。</p>"
+    },
+    {
+      "id": "g4s1-arts-07-s03",
+      "title": "完整四小節原曲",
+      "childText": "完整四小節原曲",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 398\" role=\"img\" aria-labelledby=\"g4s1-arts-07-fig-score-t g4s1-arts-07-fig-score-d\"><title id=\"g4s1-arts-07-fig-score-t\">原創教學圖</title><desc id=\"g4s1-arts-07-fig-score-d\">第1小節：B(1拍)、A(1拍)、G(1拍)、休(1拍)；第2小節：G(1拍)、A(0.5拍)、B(0.5拍)、A(1拍)、休(1拍)；第3小節：B(2拍)、G(1拍)、休(1拍)；第4小節：A(1拍)、G(2拍)、休(1拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</desc><rect width=\"360\" height=\"398\" fill=\"#fffdf6\"/><text x=\"12\" y=\"23\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">《窗邊風》4/4；B/A/G為高音直笛</text><text x=\"12\" y=\"64\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><rect x=\"36\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">B</text><text x=\"74.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"112\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">A</text><text x=\"150.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"188\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G</text><text x=\"226.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"264\" y=\"44\" width=\"76\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"302.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"302.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"12\" y=\"151\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><rect x=\"36\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G</text><text x=\"74.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"112\" y=\"131\" width=\"38.0\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"131.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">A</text><text x=\"131.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0.5拍</text><rect x=\"150.0\" y=\"131\" width=\"38.0\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"169.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">B</text><text x=\"169.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0.5拍</text><rect x=\"188.0\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">A</text><text x=\"226.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"264.0\" y=\"131\" width=\"76\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"302.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"302.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"12\" y=\"238\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><rect x=\"36\" y=\"218\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"112.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">B</text><text x=\"112.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><rect x=\"188\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G</text><text x=\"226.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"264\" y=\"218\" width=\"76\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"302.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"302.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"12\" y=\"325\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><rect x=\"36\" y=\"305\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"324\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">A</text><text x=\"74.0\" y=\"343\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"112\" y=\"305\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"188.0\" y=\"324\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G</text><text x=\"188.0\" y=\"343\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><rect x=\"264\" y=\"305\" width=\"76\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"302.0\" y=\"324\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"302.0\" y=\"343\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text></svg><figcaption>第1小節：B(1拍)、A(1拍)、G(1拍)、休(1拍)；第2小節：G(1拍)、A(0.5拍)、B(0.5拍)、A(1拍)、休(1拍)；第3小節：B(2拍)、G(1拍)、休(1拍)；第4小節：A(1拍)、G(2拍)、休(1拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</figcaption></figure><p>準備四拍另計，正式16拍。每小節第4拍都是一拍休止，可以舒適自然換氣。第2小節第2拍有A、B各半拍，該小節仍4拍；第3小節B延2拍，只有一次起音。沒有歌詞，不在吹奏時同時唸字母。</p>"
+    },
+    {
+      "id": "g4s1-arts-07-s04",
+      "title": "示範到合練：先慢，再接",
+      "childText": "示範到合練：先慢，再接",
+      "html": "<p>成人先核對全曲指法與音高，完整吹一次。孩子先只跟指譜，再無聲換指；第二小節的G、A、B、A先獨立慢練，成人在「2和」平均指兩次，不把兩個半拍變兩整拍。每次短練後休息，無須連吹多遍。</p><p>再兩人合作，一人指四拍，另一人吹或無聲換指；掌心朝前表示任何人要求暫停，起奏用指向第一個B作不同提示。準備4拍後進入，不在正式休止中插入額外起音。指拍者看譜，不能靠催促加快。</p>"
+    },
+    {
+      "id": "g4s1-arts-07-s05",
+      "title": "找可能原因，一次只修一項",
+      "childText": "找可能原因，一次只修一項",
+      "html": "<p>若B轉G出現多餘滑動聲，先無聲檢查2、3是否同時舒適覆住，再短吹B到G。若氣聲或尖聲，先停下檢查封孔、樂器組裝與氣流是否太強；同一現象可能有不同原因，不能只靠描述診斷。</p><p>呼氣自然穩定，不憋氣、不強吸、不比誰吹最久。每小節都有休止，仍不舒服可以更早停，改分段或非吹奏路線。不要用吹口互換來比較音色，各自使用並依廠商說明清潔。</p>"
+    },
+    {
+      "id": "g4s1-arts-07-s06",
+      "title": "自己轉用：改順序仍要準時",
+      "childText": "自己轉用：改順序仍要準時",
+      "html": "<p>新兩小節4/4：第1小節G1拍、B1拍、A1拍、休1拍；第2小節A半拍、G半拍、B2拍、休1拍。先寫每個發聲音的封孔，再算拍數，選最需要預練的換指。成人核全譜後才試吹。</p><details><summary>做完再展開參考與理由</summary><p>封孔依序0123、01、012｜012、0123、01。第一小節1＋1＋1＋1＝4；第二小節0.5＋0.5＋2＋1＝4。第二小節B從第2拍起持續到第3拍末，第4拍休；不是從第3拍才開始。</p></details>"
+    },
+    {
+      "id": "g4s1-arts-07-s07",
+      "title": "以真實證據收尾",
+      "childText": "以真實證據收尾",
+      "html": "<p>一張紀錄分三行：孔位是否正確、起音與休止是否準時、實際聲音是否穩定。若只做無聲換指，第三行填尚未觀察。觀者可說「第二小節A到B保留了0、1」，不要說答完題就學會音準。</p><p>完成後放下樂器再討論，勿含著吹口走動或追逐。成人按製造商方法協助收存，保持每人專用。下一步只選一處換指或時值練習，不把整首連吹十遍當唯一修正方式。</p>"
+    }
+  ],
+  "teachingHtml": "<p>本課接續三年級的辨認與模仿，四年級重點是先提出目的、控制一項變化、比較證據，再說明修訂。第二學習階段包含三、四年級，本頁的學期排列是參考整理。先讓孩子讀或聽本頁完整模型，再一起試做，最後保留獨立轉用的時間。不要以課外才藝、材料價格、外貌像不像或表演膽量作能力標準。</p><p>四年級延續正確B/A/G，不為了新指法而引入未核實孔位。主要進階是直接B/G雙指協調、半拍切換與二拍長音的區別。已重新目視官方完整高音Baroque圖，0背孔獨立。教師須先核第2小節1+0.5+0.5+1+1=4及新曲B入口第2拍。必要時只做前兩小節，仍註明完整作品尚未實奏。</p><p>支持策略：把模型放大，一次遮住未處理的段落，成人代讀但不代選；允許指認、口述、寫字或既有輔助溝通。操作有困難時由孩子決定位置、順序或修法，成人代操作，記為共同完成。進階者比較兩個合理方案，說明代價與保留理由，不靠增加危險工具、極端音量或速度提升難度。</p><p>評量分成理解、創作決定、實作與回顧四欄。圖文題可支持理解；實作須看見孩子實際安排或演出才記錄，不能用選擇題分數代替。每欄記一項具體證據，區分獨立、提示後、共同完成與尚未觀察，並給一個可做到的下一步。開放作品沒有唯一外觀，但必須能指出與題目條件相符的證據。</p><p>先確認同意與安全：不強迫上臺、眼神接觸、觸碰、個人故事或真實人物肖像。可改想像角色、坐姿、桌上紙卡或觀察者；隨時可以暫停。不收集、拍攝或上傳真實兒童照片及私人資料。桌面或地面保持清楚平坦，材料由成人檢查且適齡完整；不用刀、尖銳固定物、熱源與溶劑。回饋說明實際線索與可能效果，尊重作者保留原案的選擇。</p><p>真實聲音條件：本頁只供文字與圖形樂譜，沒有音檔，也沒有驗聽紀錄。具讀譜能力的成人先用已校準樂器核對所有指定音高、時值、起拍與結尾，完整示範後才做聆聽、歌唱或器樂評量；缺此條件仍可學讀譜、排練規劃與無聲指認，聲音實作列為待觀察。以舒適自然呼吸與音量為原則，不強吸、不憋氣、不比長音，感到不適立即停止；直笛每人專用，不共用吹口。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-arts-07-q01",
+      "question": "本課G需封哪些孔？",
+      "options": [
+        "0、1",
+        "0、2、4",
+        "0、1、2、3"
+      ],
+      "answer": 2,
+      "hint": "找G圖的封閉圈。",
+      "explanation": "G基本指法封背孔0與正面1、2、3，其他孔保持全開。"
+    },
+    {
+      "id": "g4s1-arts-07-q02",
+      "question": "B轉G有哪些孔要新封住？",
+      "options": [
+        "2與3",
+        "0與1",
+        "6與7"
+      ],
+      "answer": 0,
+      "hint": "比較兩音共同與不同處。",
+      "explanation": "B已有0、1，轉G要再加入2、3，不動已封的共同孔。"
+    },
+    {
+      "id": "g4s1-arts-07-q03",
+      "question": "第二小節A、B各半拍放在哪一拍？",
+      "options": [
+        "第4拍",
+        "第2拍",
+        "各佔整個第2與3拍"
+      ],
+      "answer": 1,
+      "hint": "先扣掉前面G的一拍。",
+      "explanation": "G佔第1拍，A與B共同平均分第2拍，後面A再佔第3拍。"
+    },
+    {
+      "id": "g4s1-arts-07-q04",
+      "question": "第三小節B如何起音？",
+      "options": [
+        "一次起音延兩拍",
+        "起音兩次各兩拍",
+        "每半拍起一次"
+      ],
+      "answer": 0,
+      "hint": "看B格標示長度。",
+      "explanation": "一個兩拍B需維持同一個音，不應改成多次獨立起音。"
+    },
+    {
+      "id": "g4s1-arts-07-q05",
+      "question": "本課實際B音供鍵盤核對是哪個八度？",
+      "options": [
+        "B3",
+        "B5",
+        "B1"
+      ],
+      "answer": 1,
+      "hint": "高音直笛實際發聲已標明。",
+      "explanation": "高音直笛此基本B實際發聲為B5，不能與低八度模型混用。"
+    },
+    {
+      "id": "g4s1-arts-07-q06",
+      "question": "聲音尖或不穩，先怎麼處理？",
+      "options": [
+        "立刻加倍用力吹",
+        "停下查封孔與氣流，再短試",
+        "交換同伴吹口"
+      ],
+      "answer": 1,
+      "hint": "安全查一項再試。",
+      "explanation": "封孔或氣流過強都可能影響聲音，停止查驗比猛吹更合適。"
+    },
+    {
+      "id": "g4s1-arts-07-q07",
+      "question": "新第二小節半拍A、半拍G後，B從何時開始？",
+      "options": [
+        "第2拍",
+        "第3拍",
+        "準備拍"
+      ],
+      "answer": 0,
+      "hint": "兩個半拍合一拍。",
+      "explanation": "前兩音合佔第1拍，兩拍B從第2拍起延到第3拍末。"
+    },
+    {
+      "id": "g4s1-arts-07-q08",
+      "question": "完成無聲指法後哪項仍待觀察？",
+      "options": [
+        "孔位文字理解",
+        "是否指出背孔",
+        "實際氣息與聲音穩定"
+      ],
+      "answer": 2,
+      "hint": "無聲練習沒有發聲。",
+      "explanation": "無聲指法提供動作與讀圖證據，但無法證明氣流控制或音色穩定。"
+    }
+  ],
+  "selfCheck": [
+    "我能核對高音巴洛克式B、A、G指法。",
+    "我能按四小節時值安排換指、休止與短段呼吸。",
+    "我能辨別漏孔或過強氣流的可能問題並安全重試。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "第二學習階段為三、四年級；PDF第9–11頁與第27頁（印頁24）提供音樂、視覺與表演範圍。本課學期次序、圖畫、短曲、角色與活動均由編者原創，並非指定教材。"
+    },
+    {
+      "title": "Yamaha｜高音巴洛克式直笛指法表",
+      "url": "https://www.yamaha.com/en/musical_instrument_guide/common/images/recorder/fingering_baroque.pdf",
+      "note": "核對C調高音Baroque基本B、A、G：封01、012、0123；背孔為0，未使用中音或德式圖。字母為此音域，實際音高B5、A5、G5；本課不擴充未核實指法。"
+    },
+    {
+      "title": "Yamaha｜Recorder: How to Play",
+      "url": "https://www.yamaha.com/en/musical_instrument_guide/recorder/play/",
+      "note": "核對完整封孔、適量穩定呼氣與過強氣流可能改變發聲。本頁未驗聽音訊；成人需先核對完整曲調並現場示範。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符與休止的相對時值；字母節奏譜為完整原創模型，沒有引用完整既有歌曲或宣稱播放音樂。"
+    }
+  ]
+}

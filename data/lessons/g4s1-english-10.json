@@ -1,0 +1,195 @@
+{
+  "id": "g4s1-english-10",
+  "course": "英語文",
+  "title": "歌謠節奏與角色朗讀",
+  "subtitle": "先用原創韻文練自然句組，再朗讀完整角色劇解決道具誤會",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "先用原創韻文練自然句組，再朗讀完整角色劇解決道具誤會。材料和完整對話都在本頁，先理解，再練習並用新資料轉用。",
+  "goals": [
+    "我能理解四行原創韻文，在教師模型下舒適地跟讀。",
+    "我會依角色目的輪替，不把每字都當同樣一拍。",
+    "我能改需求並同步改臺詞、道具與結尾結果。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>原創四行chant無指定旋律與固定拍數；中文行意、核心詞及完整三場腳本供應。支持者指稿/旁白/圖卡，進階者同步改六項依賴資料。an apple card/a banana card、第三人稱wants/has及單複數核對。圖兩蘋果卡一香蕉卡與需求一張區分，沒有實物或公開演出要求。書面位置、指卡理解不能當已發音，現場完整教師模型仍必須。</p>",
+  "selfCheck": [
+    "我能理解四行原創韻文，在教師模型下舒適地跟讀。",
+    "我會依角色目的輪替，不把每字都當同樣一拍。",
+    "我能改需求並同步改臺詞、道具與結尾結果。",
+    "我會指出答案根據哪項資料，說明本次用了哪些支持。"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-english-10-s01",
+      "title": "先懂意思再找節奏",
+      "childText": "不是越快越大聲越好。",
+      "html": "<p>本課是原創口語韻文，不借用受保護歌曲的全文或曲調。一行是一個練習句組，不代表固定四拍或一字一拍。先聽教師自然示範，選輕點紙面、安靜指行或聆聽，舒適就好。</p><p>角色朗讀要讓聽者明白請求和更正，可以一直看稿，不要求背稿、演情緒或上台。需要呼吸可以分短段，不必為了整齊而憋氣，也不以演出意願判斷是否理解英語。</p>"
+    },
+    {
+      "id": "g4s1-english-10-s02",
+      "title": "完整四行原創韻文",
+      "childText": "卡片好了，先問再聽。",
+      "html": "<div class=\"story\"><p><span lang=\"en\">Blue tray, red tray,</span><br/><span lang=\"en\">Cards are ready.</span><br/><span lang=\"en\">Ask, then listen.</span><br/><span lang=\"en\">Slow and steady.</span></p></div><p>逐行意思：藍盤、紅盤；卡片準備好了；先問、接著聽；慢慢來、穩穩地。tray托盤，cards卡片，ready準備好，ask問，listen聽，steady在此表示穩定不急躁。這些字理解和跟讀即可，不全列為獨立拼寫目標。</p><p>成人先讀完整四行，再每行示範、孩子回聲跟讀；最後連回全文。Blue tray保持物品詞組，不需每字喊一拍。行尾留舒服的停頓，紙上換行不能代替實際音高或節奏的聆聽。</p>"
+    },
+    {
+      "id": "g4s1-english-10-s03",
+      "title": "供應所有道具與角色卡",
+      "childText": "先知道自己的說話目的。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 170\" role=\"img\" aria-labelledby=\"g4s1-english-10-fig\"><title id=\"g4s1-english-10-fig\">原創紙道具：藍盤兩張蘋果圖卡、紅盤一張香蕉圖卡，不是真食物。</title><rect x=\"10\" y=\"15\" width=\"165\" height=\"140\" rx=\"10\" fill=\"#d9edf9\" stroke=\"#296285\" stroke-width=\"3\"/><rect x=\"185\" y=\"15\" width=\"165\" height=\"140\" rx=\"10\" fill=\"#f8dfdf\" stroke=\"#a94040\" stroke-width=\"3\"/><g fill=\"#fff\" stroke=\"#345\"><rect x=\"26\" y=\"38\" width=\"58\" height=\"67\"/><rect x=\"100\" y=\"38\" width=\"58\" height=\"67\"/><rect x=\"224\" y=\"38\" width=\"82\" height=\"67\"/></g><g fill=\"#ce5f54\" stroke=\"#742e2b\"><path d=\"M40 82Q28 53 47 55Q55 48 62 55Q81 53 69 82Q55 96 40 82Z\"/><path d=\"M114 82Q102 53 121 55Q129 48 136 55Q155 53 143 82Q129 96 114 82Z\"/></g><path d=\"M239 52Q261 78 288 51Q286 92 263 90Q244 84 239 52Z\" fill=\"#ebc945\" stroke=\"#6b5916\"/><g lang=\"en\" font-size=\"20\" text-anchor=\"middle\"><text x=\"93\" y=\"137\">blue tray</text><text x=\"268\" y=\"137\">red tray</text></g></svg><figcaption>藍盤兩張蘋果卡，紅盤一張香蕉卡；可直接指圖，不必另外製作。</figcaption></figure><p>Kai要一張蘋果卡；Jo管理紙卡，先誤認要香蕉；旁白介紹場景。可由成人兼三角、孩子指圖，不強制找同伴。詞組apple card蘋果卡、banana card香蕉卡；藍盤有兩張不表示Kai要整盤。</p>"
+    },
+    {
+      "id": "g4s1-english-10-s04",
+      "title": "三場完整原創劇本",
+      "childText": "每句都知道誰說。",
+      "html": "<div class=\"story\"><p>第一場，旁白：<span lang=\"en\">The cards are ready. Kai wants one apple card.</span> 卡片好了，Kai要一張蘋果卡。Kai：<span lang=\"en\">Can I have one apple card, please?</span><br/>第二場，Jo：<span lang=\"en\">One banana card?</span> Kai：<span lang=\"en\">No, one apple card, please.</span> Jo：<span lang=\"en\">An apple card. OK.</span><br/>第三場，Jo：<span lang=\"en\">Here you are.</span>〔指藍盤，給一張蘋果卡；也可只指圖。〕Kai：<span lang=\"en\">Thank you.</span> 旁白：<span lang=\"en\">Kai has one apple card.</span></p></div><p>成人先完整讀全部回合，第二次才請孩子指更正詞。中文括號是舞臺指示，不當英文臺詞；指圖呈現理解不等於實際遞交或獨立朗讀，紀錄時分清楚。</p>"
+    },
+    {
+      "id": "g4s1-english-10-s05",
+      "title": "一起排練：分角色、練更正、合全劇",
+      "childText": "一次只改善一件事。",
+      "html": "<p>成人課前在普通大紙上寫「旁白」「Kai」「Jo」三張角色標籤，供指認輪替；也可直接指本頁劇本的同名角色文字，不必另做卡片。</p><p>第一輪用旁白、Kai、Jo三張標籤指回合，不按性別或外貌分角色。第二輪只讀第二場，Kai清楚說one apple card，Jo等說完再回。第三輪接首尾。聽者回饋「我知道你要蘋果卡」比要求讀得更有感情更具體。</p><p>若Jo仍指香蕉，回看No後面的apple card再重讀；若只聽見one，先練完整物品詞組再合句。教師按可靠模型示範字音與自然分組，不用紙上大寫、數字或拍手位置宣稱聲音已經被驗證。</p>"
+    },
+    {
+      "id": "g4s1-english-10-s06",
+      "title": "修復：節奏不能蓋過需求",
+      "childText": "No和one不能為了齊聲而漏掉。",
+      "html": "<p>錯誤改讀two apple cards會把數量變成兩張；漏掉No會抹去更正意思。先圈one、apple、No三項訊息，再自然合讀。不要求每行一樣長，也不把兒童聲音大小當語言進步。</p><p>旁白說Kai wants…是在介紹第三人；Kai用Can I have…?提出自己的請求。不要讓Kai把旁白的視角當作必須的自稱。若孩子只願意指卡、讀旁白或用AAC，也可完成相應理解任務，口語另作觀察。</p>"
+    },
+    {
+      "id": "g4s1-english-10-s07",
+      "title": "自己試：改成一張香蕉卡",
+      "childText": "改六項，故事才保持一致。",
+      "html": "<p>新版本Kai要一張香蕉卡；Jo先猜蘋果。請更新開頭旁白、請求、更正、Jo確認、取卡盤、結尾旁白。不能只改劇名或只改第一句。</p><details><summary>完整可用的新核心</summary><p><span lang=\"en\">Kai wants one banana card. / Can I have one banana card, please? / One apple card? / No, one banana card, please. / A banana card. OK. / Here you are. / Thank you. / Kai has one banana card.</span> 取卡改指紅盤；Cards are ready.可保留。</p></details><p>a banana card與an apple card是不同完整組合。孩子圈出改動處，再用中文說明為什麼最後持有物也要更新；支持者用詞卡替換，進階者重新朗讀全劇。</p>"
+    },
+    {
+      "id": "g4s1-english-10-s08",
+      "title": "讀者紀錄要說明真實證據",
+      "childText": "理解和發出聲音分開記。",
+      "html": "<p>紀錄例：「知道更正種類；換需求後能改紅盤；口語仍需教師先示範。」成人分開評詞義、角色輪替、指涉、變更一致和實際可理解性。不以誰最像某種口音或誰敢上台排名。</p><p>本課沒有音檔，編寫未驗聽；全部句子和道具已供應，可在無網路、無JavaScript下閱讀與核對。無合格示範時先做圖文與分角，口語另教。不要加入真食物、強迫分享或錄影上傳。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05 直接核對短段情境活動與Can I have…?、please、thank you等生活框架；不採任何要求孩子只用英語才能求助的限制。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    },
+    {
+      "title": "British Council｜Word stress",
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/word-stress",
+      "note": "2026-10-05直接核對重音與可理解性教學；韻文和全劇原創，不採來源歌曲或未驗聽曲調。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s1-english-10-q01",
+      "question": "Ask, then listen.表達什麼順序？",
+      "options": [
+        "先問，再聽",
+        "同時搶念",
+        "不需回覆"
+      ],
+      "answer": 0,
+      "hint": "then在這裡連接先後。",
+      "explanation": "本行鼓勵先問再留時間聽對方回應，不是所有角色同時搶著說。"
+    },
+    {
+      "id": "g4s1-english-10-q02",
+      "question": "原稿Kai要什麼？",
+      "options": [
+        "兩張蘋果卡",
+        "一張蘋果卡",
+        "一張香蕉卡"
+      ],
+      "answer": 1,
+      "hint": "別把盤上總量當需求。",
+      "explanation": "Kai明說one apple card，藍盤兩張是庫存，不代表請求整盤全部。"
+    },
+    {
+      "id": "g4s1-english-10-q03",
+      "question": "Jo在第二場誤會哪項？",
+      "options": [
+        "卡片種類",
+        "旁白的名字",
+        "數量one"
+      ],
+      "answer": 0,
+      "hint": "比較apple與banana。",
+      "explanation": "Jo仍說one，但把apple猜成banana，因此需更正種類而不是數量。"
+    },
+    {
+      "id": "g4s1-english-10-q04",
+      "question": "括號中指藍盤的文字是？",
+      "options": [
+        "未提供的歌曲",
+        "英文臺詞",
+        "舞臺動作提示"
+      ],
+      "answer": 2,
+      "hint": "分清說話和動作。",
+      "explanation": "括號說明怎麼呈現交付，可指圖完成，不是要逐字朗讀的英文臺詞。"
+    },
+    {
+      "id": "g4s1-english-10-q05",
+      "question": "原稿結尾Kai持有什麼？",
+      "options": [
+        "one apple card",
+        "two banana cards",
+        "one red tray"
+      ],
+      "answer": 0,
+      "hint": "看旁白最後一句。",
+      "explanation": "結尾明說Kai has one apple card，與請求及交付一張蘋果卡一致。"
+    },
+    {
+      "id": "g4s1-english-10-q06",
+      "question": "新需求香蕉卡應指哪盤？",
+      "options": [
+        "藍盤",
+        "紅盤",
+        "任意盤"
+      ],
+      "answer": 1,
+      "hint": "核對實際道具圖。",
+      "explanation": "香蕉卡只在紅盤，新需求與道具必須一起更新，不能仍指放蘋果的藍盤。"
+    },
+    {
+      "id": "g4s1-english-10-q07",
+      "question": "新稿Jo確認可用哪句？",
+      "options": [
+        "An banana card. OK.",
+        "Two apples. OK.",
+        "A banana card. OK."
+      ],
+      "answer": 2,
+      "hint": "核對a/an與新需求。",
+      "explanation": "本課香蕉卡用a banana card，不能用an或將種類數量更改成兩個蘋果。"
+    },
+    {
+      "id": "g4s1-english-10-q08",
+      "question": "哪個記錄符合評量界線？",
+      "options": [
+        "不願上台就不會英語",
+        "懂更正，口語仍需示範",
+        "指對卡即證明發音正確"
+      ],
+      "answer": 1,
+      "hint": "看實際做過哪些任務。",
+      "explanation": "分開記理解與示範需求能規劃下一步，不把意願或指圖當成實際口語證據。"
+    }
+  ]
+}

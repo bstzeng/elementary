@@ -1,0 +1,187 @@
+{
+  "id": "g4s2-arts-05",
+  "course": "藝術",
+  "title": "歌唱呼吸與樂句",
+  "subtitle": "把呼吸安排在語意與樂句之間，以舒適連貫代替比氣長",
+  "duration": "2–3次，每次約25–35分鐘；操作與排練分短段，可隨時休息",
+  "intro": "把呼吸安排在語意與樂句之間，以舒適連貫代替比氣長。從完整原創模型出發，試一個有理由的改變，再把方法用到新情境。",
+  "goals": [
+    "我能把歌詞、音符與樂句範圍對齊。",
+    "我能指出本曲休止中的自然換氣位置。",
+    "我能依自己的舒適需要選擇短段練習並記錄調整。"
+  ],
+  "materials": [
+    "完整原創歌譜、紙筆；具能力成人先核音並示範",
+    "舒適坐姿或站姿空間；可朗讀、指譜，無呼吸道具或長音計時賽"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-arts-05-s01",
+      "title": "呼吸服務句子，不是忍住不呼吸",
+      "childText": "呼吸服務句子，不是忍住不呼吸",
+      "html": "<p>歌唱需要呼氣發聲，也需要適時自然吸氣。今天先找一句想表達的意思，再找音樂留給我們休息的位置，不用把胸腹推到極限或一口氣硬唱整首。舒服、字清楚和樂句連接，比能撐多少秒重要。</p><p>坐著或站著都可，選能放鬆肩頸、容易呼吸的位置。先用平常音量說一句「風從窗邊來」，說完自然停一下；不要把吸氣做成用力抽氣，也不閉氣等待成人數秒。若不想發聲，指譜仍可完成呼吸規劃。</p>"
+    },
+    {
+      "id": "g4s2-arts-05-s02",
+      "title": "完整歌曲、詞與停處",
+      "childText": "完整歌曲、詞與停處",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 398\" role=\"img\" aria-labelledby=\"g4s2-arts-05-fig-a-t g4s2-arts-05-fig-a-d\"><title id=\"g4s2-arts-05-fig-a-t\">原創教學圖</title><desc id=\"g4s2-arts-05-fig-a-d\">第1小節：D4(1拍)唱「風」、E4(1拍)唱「從」、F4(1拍)唱「窗」、E4(1拍)唱「邊」；第2小節：D4(2拍)唱「來」、休(2拍)；第3小節：F4(1拍)唱「我」、E4(1拍)唱「們」、D4(1拍)唱「輕」、C4(1拍)唱「聲」；第4小節：D4(2拍)唱「唱」、休(2拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</desc><rect width=\"360\" height=\"398\" fill=\"#fffdf6\"/><text x=\"12\" y=\"23\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">《風從窗邊來》；每兩小節一句</text><text x=\"12\" y=\"64\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><rect x=\"36\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">D4</text><text x=\"74.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"74.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">風</text><rect x=\"112\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"150.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"150.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">從</text><rect x=\"188\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">F4</text><text x=\"226.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"226.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">窗</text><rect x=\"264\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"302.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"302.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"302.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">邊</text><text x=\"12\" y=\"151\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><rect x=\"36\" y=\"131\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"112.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">D4</text><text x=\"112.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><text x=\"112.0\" y=\"197\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">來</text><rect x=\"188\" y=\"131\" width=\"152\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"264.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"264.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><text x=\"12\" y=\"238\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><rect x=\"36\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">F4</text><text x=\"74.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"74.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">我</text><rect x=\"112\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"150.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"150.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">們</text><rect x=\"188\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">D4</text><text x=\"226.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"226.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">輕</text><rect x=\"264\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"302.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">C4</text><text x=\"302.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"302.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">聲</text><text x=\"12\" y=\"325\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><rect x=\"36\" y=\"305\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"112.0\" y=\"324\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">D4</text><text x=\"112.0\" y=\"343\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><text x=\"112.0\" y=\"371\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">唱</text><rect x=\"188\" y=\"305\" width=\"152\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"264.0\" y=\"324\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"264.0\" y=\"343\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text></svg><figcaption>第1小節：D4(1拍)唱「風」、E4(1拍)唱「從」、F4(1拍)唱「窗」、E4(1拍)唱「邊」；第2小節：D4(2拍)唱「來」、休(2拍)；第3小節：F4(1拍)唱「我」、E4(1拍)唱「們」、D4(1拍)唱「輕」、C4(1拍)唱「聲」；第4小節：D4(2拍)唱「唱」、休(2拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</figcaption></figure><p>原曲4/4，準備4拍另計，正式4小節共16拍。第1、2小節「風從窗邊來」一句，第3、4小節「我們輕聲唱」一句。來與唱各延2拍，之後各休2拍；每句發聲時值合計6拍，休止2拍，不是要吸氣吸滿整整2拍。</p>"
+    },
+    {
+      "id": "g4s2-arts-05-s03",
+      "title": "示範：先語句再旋律",
+      "childText": "示範：先語句再旋律",
+      "html": "<p>成人先讀完整歌詞，在兩句之間自然停，孩子指出語意完整處。成人再用已校準鍵盤給D4起音，核對全部D4、E4、F4、E4、D4｜F4、E4、D4、C4、D4後完整唱奏；歌詞十字分別對十個起音，長字不重複。</p><p>教師示範唱到來字2拍再放鬆，接著安靜留足休止，在自己需要時自然吸氣，下一句準時進。不示範誇大抬肩、硬吸或憋氣；若用聲疲累就只彈旋律讓孩子指句末，歌唱實作延後。</p>"
+    },
+    {
+      "id": "g4s2-arts-05-s04",
+      "title": "一起把譜上三條線對齊",
+      "childText": "一起把譜上三條線對齊",
+      "html": "<p>在紙上寫三列：歌詞、發聲音、休止。第一列風從窗邊來，第二列對上D4 E4 F4 E4 D4，第三列在來之後圈第2小節第3、4拍；第二句也照做。請伙伴核對圈到的是休止，不是把延長字的第二拍提前拿來呼吸。</p><p>能唱的孩子先練一個兩小節句；需要更短可分第一小節與第二小節，中間加入明示的練習停頓，先不評完整原譜連唱。成人記孩子自己的選擇，不要求所有人相同吸氣量或同樣長的連唱時間。</p>"
+    },
+    {
+      "id": "g4s2-arts-05-s05",
+      "title": "兩種修法：別把每字切碎，也別硬撐",
+      "childText": "兩種修法：別把每字切碎，也別硬撐",
+      "html": "<p>若每個字後都停很久，語句可能聽起來破碎。先把前兩字連起，再接兩字，逐步串成舒適小段；不以責罵讓孩子一口氣唱完。相反地，若到句末已不舒服，立刻停止，縮短段落或由教師改編譜，不能為了不破句硬撐。</p><p>兩拍休止有音樂時間，即使已完成吸氣仍保持安靜到下一句入口。休止不是把前後小節擠在一起的空白，也不是固定醫療式呼吸節奏。本課不訓練屏息、快速連續深呼吸或測肺量。</p>"
+    },
+    {
+      "id": "g4s2-arts-05-s06",
+      "title": "自己轉用：找另一首短句的換氣位",
+      "childText": "自己轉用：找另一首短句的換氣位",
+      "html": "<p>新兩小節4/4譜：C4唱小1拍、D4唱路1拍、E4唱彎2拍；第2小節D4唱彎1拍、C4唱長1拍、休2拍。共五個字「小路彎彎長」，先配字與拍，再圈適合自然換氣的休止。若需更短，另寫練習停頓位置，不偷偷改原譜。</p><details><summary>做完再展開參考與理由</summary><p>新譜1＋1＋2｜1＋1＋2休，共8拍；兩個彎是不同字，第一個延2拍，第二個1拍。第2小節第3、4拍是原譜留的換氣區。可在第1小節後加練習停頓，但須標為分段版，完整連唱仍待觀察。</p></details>"
+    },
+    {
+      "id": "g4s2-arts-05-s07",
+      "title": "用聲紀錄要尊重身體",
+      "childText": "用聲紀錄要尊重身體",
+      "html": "<p>紀錄「我在＿＿後自然換氣；這次用完整句／分段版／指譜；我想再練＿＿」。觀者可指出實際何處停與何處接，不評誰最能憋。若沒有實際唱過，能完成配字和規劃，但歌唱連貫仍留空待觀察。</p><p>分享可以只讀一句方法，不需要說身體病史或私人原因。成人觀察到不舒服應讓孩子休息並按學校照護流程協助，不在課堂下診斷。音樂創作應有選擇與安全感。</p>"
+    }
+  ],
+  "teachingHtml": "<p>本課接續三年級的辨認與模仿，四年級重點是先提出目的、控制一項變化、比較證據，再說明修訂。第二學習階段包含三、四年級，本頁的學期排列是參考整理。先讓孩子讀或聽本頁完整模型，再一起試做，最後保留獨立轉用的時間。不要以課外才藝、材料價格、外貌像不像或表演膽量作能力標準。</p><p>以兩小節句與可見休止教規劃，不教生理控制口訣。原曲16拍十字十起音；新曲8拍五字五起音。成人核全部音高並依舒適音域決定示範，移調須另列全譜。支持者選半句練習或指譜；進階者比較原譜與明示分段版的語意連續。注意休止不等同規定吸氣秒數，禁長音與肺量競賽。</p><p>支持策略：把模型放大，一次遮住未處理的段落，成人代讀但不代選；允許指認、口述、寫字或既有輔助溝通。操作有困難時由孩子決定位置、順序或修法，成人代操作，記為共同完成。進階者比較兩個合理方案，說明代價與保留理由，不靠增加危險工具、極端音量或速度提升難度。</p><p>評量分成理解、創作決定、實作與回顧四欄。圖文題可支持理解；實作須看見孩子實際安排或演出才記錄，不能用選擇題分數代替。每欄記一項具體證據，區分獨立、提示後、共同完成與尚未觀察，並給一個可做到的下一步。開放作品沒有唯一外觀，但必須能指出與題目條件相符的證據。</p><p>先確認同意與安全：不強迫上臺、眼神接觸、觸碰、個人故事或真實人物肖像。可改想像角色、坐姿、桌上紙卡或觀察者；隨時可以暫停。不收集、拍攝或上傳真實兒童照片及私人資料。桌面或地面保持清楚平坦，材料由成人檢查且適齡完整；不用刀、尖銳固定物、熱源與溶劑。回饋說明實際線索與可能效果，尊重作者保留原案的選擇。</p><p>真實聲音條件：本頁只供文字與圖形樂譜，沒有音檔，也沒有驗聽紀錄。具讀譜能力的成人先用已校準樂器核對所有指定音高、時值、起拍與結尾，完整示範後才做聆聽、歌唱或器樂評量；缺此條件仍可學讀譜、排練規劃與無聲指認，聲音實作列為待觀察。以舒適自然呼吸與音量為原則，不強吸、不憋氣、不比長音，感到不適立即停止；直笛每人專用，不共用吹口。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-arts-05-q01",
+      "question": "原曲每一句跨幾個小節？",
+      "options": [
+        "一個",
+        "兩個",
+        "四個"
+      ],
+      "answer": 1,
+      "hint": "看一句歌詞的範圍。",
+      "explanation": "每句由四個一拍字接一個二拍字及兩拍休止，共跨兩小節。"
+    },
+    {
+      "id": "g4s2-arts-05-q02",
+      "question": "原曲來字佔幾拍？",
+      "options": [
+        "兩拍",
+        "一拍",
+        "四拍"
+      ],
+      "answer": 0,
+      "hint": "長字和休止分開。",
+      "explanation": "來字對應第二小節的D4二拍音，後面的二拍才是休止。"
+    },
+    {
+      "id": "g4s2-arts-05-q03",
+      "question": "第二小節哪些拍原本是休止？",
+      "options": [
+        "第1、2拍",
+        "只有第1拍",
+        "第3、4拍"
+      ],
+      "answer": 2,
+      "hint": "來先佔兩拍。",
+      "explanation": "來在第1至2拍發聲，剩下第3和4拍為兩拍休止。"
+    },
+    {
+      "id": "g4s2-arts-05-q04",
+      "question": "休2拍表示一定要吸氣吸滿2拍嗎？",
+      "options": [
+        "表示要強吸不能停",
+        "不表示，按需要自然吸氣",
+        "表示必須閉氣2拍"
+      ],
+      "answer": 1,
+      "hint": "休止與呼吸量不同。",
+      "explanation": "音樂休止規定安靜時間，不規定強制吸氣長度或呼吸量。"
+    },
+    {
+      "id": "g4s2-arts-05-q05",
+      "question": "需要把一小節後停一下才舒服，應怎樣記？",
+      "options": [
+        "標為分段練習版",
+        "假裝完全照原譜",
+        "禁止停止"
+      ],
+      "answer": 0,
+      "hint": "調整要清楚標示。",
+      "explanation": "分段是合宜支持，但新增停頓需註記，不能等同完整原譜連唱。"
+    },
+    {
+      "id": "g4s2-arts-05-q06",
+      "question": "新曲兩個彎字時值相同嗎？",
+      "options": [
+        "不同，先2拍後1拍",
+        "都各4拍",
+        "都沒聲音"
+      ],
+      "answer": 0,
+      "hint": "逐個對照新譜。",
+      "explanation": "第一個彎在第1小節延兩拍，第二個在第2小節唱一拍。"
+    },
+    {
+      "id": "g4s2-arts-05-q07",
+      "question": "已吸好氣但休止還沒結束，怎麼做？",
+      "options": [
+        "提前唱下一句",
+        "自然等待下一入口",
+        "憋氣用力鎖住"
+      ],
+      "answer": 1,
+      "hint": "仍需保留音樂時間。",
+      "explanation": "不用強行屏息或搶唱，舒適等到約定入口才能維持句間時間。"
+    },
+    {
+      "id": "g4s2-arts-05-q08",
+      "question": "哪個評量方式符合本課？",
+      "options": [
+        "比誰閉氣最久",
+        "要求分享呼吸病史",
+        "記換氣與連接的實際位置"
+      ],
+      "answer": 2,
+      "hint": "看音樂技能與舒適參與。",
+      "explanation": "具體位置可支持教學，屏息比賽與私人病史均不是本課目標。"
+    }
+  ],
+  "selfCheck": [
+    "我能把歌詞、音符與樂句範圍對齊。",
+    "我能指出本曲休止中的自然換氣位置。",
+    "我能依自己的舒適需要選擇短段練習並記錄調整。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "第二學習階段為三、四年級；PDF第9–11頁與第27頁（印頁24）提供音樂、視覺與表演範圍。本課學期次序、圖畫、短曲、角色與活動均由編者原創，並非指定教材。"
+    },
+    {
+      "title": "NIDCD｜Taking Care of Your Voice",
+      "url": "https://www.nidcd.nih.gov/health/taking-care-your-voice",
+      "note": "只採避免喊叫、聲音疲累時休息及舒適用聲的安全原則；不提供診斷、療程或強制呼吸練習。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符與休止的相對時值；字母節奏譜為完整原創模型，沒有引用完整既有歌曲或宣稱播放音樂。"
+    },
+    {
+      "title": "Open University｜Reflecting on small-scale musical structure",
+      "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=102597&section=1.4.1",
+      "note": "核對反覆、變化與對比的小尺度音樂組織概念；本課樂句及換氣安排由編者明確標示，未聽來源音訊，不宣稱已由聲音辨出樂句。"
+    }
+  ]
+}

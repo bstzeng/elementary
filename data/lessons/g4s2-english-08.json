@@ -1,0 +1,195 @@
+{
+  "id": "g4s2-english-08",
+  "course": "英語文",
+  "title": "單複數詞形的辨認",
+  "subtitle": "用五組詞形辨認單複數，再讓數字、this/these和is/are保持一致",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "用五組詞形辨認單複數，再讓數字、this/these和is/are保持一致。所有詞義、完整模型和練習已供應，先理解再操作，最後換資料轉用。",
+  "goals": [
+    "我能辨認book/books、box/boxes、baby/babies、toy/toys、child/children。",
+    "我知道本課-y要看前一字母，且有children這種不規則詞形。",
+    "我能把數量改動連到完整句，避免把所有名詞、形容詞或所有格都當複數s。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>BC Count nouns直接核對books/boxes、consonant+y→ies、vowel+y→s與childchildren；baby/toy由該已核對模式適用，僅教指定例詞。this/these和is/are完整六回合與句轉換，自動複數不延伸不可數物質。Jo’s所有格與books複數區分，形容詞red無s。支持者兩組，進階者五組反向轉換；人數皆虛構，不蒐集兒童資訊，不以書寫詞尾假作口語尾音通過。</p>",
+  "selfCheck": [
+    "我能辨認book/books、box/boxes、baby/babies、toy/toys、child/children。",
+    "我知道本課-y要看前一字母，且有children這種不規則詞形。",
+    "我能把數量改動連到完整句，避免把所有名詞、形容詞或所有格都當複數s。",
+    "我能說明自己完成了哪種任務，哪些部分還需要示範。"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-english-08-s01",
+      "title": "數量改了，句子好幾處可能要改",
+      "childText": "不要只在最後隨便加一個s。",
+      "html": "<p>可數名詞在本課一個用單數，多於一個用複數。詞庫：book書、box盒子、baby嬰兒、toy玩具、child孩子；都是虛構故事分類詞，不蒐集真實孩子資料或拿嬰兒做練習。</p><p>先找one或two，再選對詞形，最後看完整句this/these和is/are。<span lang=\"en\">This is a book.</span>是一個，<span lang=\"en\">These are two books.</span>是兩個。不是把每個詞都加s；下一欄供應所有需要核對的詞形。</p>"
+    },
+    {
+      "id": "g4s2-english-08-s02",
+      "title": "完整五組詞形",
+      "childText": "同樣多於一個，寫法不全相同。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 305\" role=\"img\" aria-labelledby=\"g4s2-english-08-fig\"><title id=\"g4s2-english-08-fig\">原創五組單複數詞形卡：book/books、box/boxes、baby/babies、toy/toys、child/children；左右欄分別一個與兩個，詞形皆在正文重列。</title><rect x=\"8\" y=\"8\" width=\"344\" height=\"288\" fill=\"#f2f6fa\" stroke=\"#345\"/><g lang=\"en\" font-size=\"23\"><text x=\"24\" y=\"37\">one</text><text x=\"205\" y=\"37\">two</text><text x=\"24\" y=\"84\">book</text><text x=\"205\" y=\"84\">books</text><text x=\"24\" y=\"132\">box</text><text x=\"205\" y=\"132\">boxes</text><text x=\"24\" y=\"180\">baby</text><text x=\"205\" y=\"180\">babies</text><text x=\"24\" y=\"228\">toy</text><text x=\"205\" y=\"228\">toys</text><text x=\"24\" y=\"276\">child</text><text x=\"205\" y=\"276\">children</text></g><path d=\"M178 15V287M17 48H343M17 95H343M17 143H343M17 191H343M17 239H343\" stroke=\"#a9b7c7\"/></svg><figcaption>五組是本課指定模式，不代表遇到所有字都能用同一個詞尾規則。</figcaption></figure><p>文字版：<span lang=\"en\">one book / two books; one box / two boxes; one baby / two babies; one toy / two toys; one child / two children.</span> 完整表供查，不需猜未教字。先讀中文意思，再配單複數，字母形狀不同不代表人或物品種類改成別類。</p>"
+    },
+    {
+      "id": "g4s2-english-08-s03",
+      "title": "分四類看，規律才有邊界",
+      "childText": "-y前面是什麼，也有關係。",
+      "html": "<p>book→books直接加s；box→boxes加es。baby最後y前為子音字母b，本課這組改y為ies，成babies；toy最後y前是母音字母o，保留y加s，成toys。不要見y就全部改ies。</p><p>child→children是不規則詞形，這課整組記；children已是複數，不再加s成childrens。這些是指定例子的分類，不把來源其他-o詞概括成無例外規則。實際複數尾音依詞和模型而異，本課先查書面形式，不說所有s都發同一音。</p>"
+    },
+    {
+      "id": "g4s2-english-08-s04",
+      "title": "完整原創清點對話",
+      "childText": "從圖文清單回答單數或複數。",
+      "html": "<div class=\"story\"><p>紙上清單：桌上兩本書、架上一個盒子。Mia：<span lang=\"en\">What are these?</span> Jo：<span lang=\"en\">They’re two books.</span> Mia指盒子：<span lang=\"en\">What is this?</span> Jo：<span lang=\"en\">It’s a box.</span> Mia：<span lang=\"en\">One box?</span> Jo：<span lang=\"en\">Yes, one box.</span></p></div><p>教師完整讀六回合。孩子先指清單對象，再連they/books與it/box；指示詞these不永遠對應桌子，而是本回合所指的複數物品。所有材料可寫在大紙上，不用小玩具、真盒或兒童照片。</p>"
+    },
+    {
+      "id": "g4s2-english-08-s05",
+      "title": "一起練：從一個改成兩個",
+      "childText": "數字、名詞、be共同核對。",
+      "html": "<p>把<span lang=\"en\">This is a box.</span>改成兩個，得到<span lang=\"en\">These are two boxes.</span>。先改this為these，is為are，a為two，box為boxes；句首大寫、句點仍保留。若只改boxes而留下This is，整句尚未配合。</p><p>反向把<span lang=\"en\">These are two toys.</span>改成一個，得到<span lang=\"en\">This is a toy.</span>。這裡toy末尾y保留。成人先示範盒子，再讓孩子自己做玩具；句卡可移動組合，不便利操作時用指認說明每處改動。</p>"
+    },
+    {
+      "id": "g4s2-english-08-s06",
+      "title": "修復：三種不同的s",
+      "childText": "複數、所有格、形容詞不能混在一起。",
+      "html": "<p><span lang=\"en\">Jo’s books</span>中Jo’s說誰的，books說不只一本；所有格撇號不是複數符號。<span lang=\"en\">two red books</span>中red是形容詞，不加s。錯例two childs改two children；two babys改two babies；two toies改two toys。</p><p>本課rice、水等物質用法不直接套這五組可數名詞變化。看見末尾s也不保證所有單字都一定是複數，因此應連數量與本課詞庫核對，別只靠最後一個字母判全部英文。</p>"
+    },
+    {
+      "id": "g4s2-english-08-s07",
+      "title": "自己試：新清單與新數量",
+      "childText": "用同一規律但不照抄舊順序。",
+      "html": "<p>虛構故事新清單：三個盒子、一個玩具、兩個孩子、兩名嬰兒。請先排短語，再用其中一個物品組完整句。字詞庫提供three三、one一、two二，不需新增真實角色。</p><details><summary>完整可用答案</summary><p><span lang=\"en\">three boxes; one toy; two children; two babies.</span> 句子例<span lang=\"en\">These are three boxes.</span>或<span lang=\"en\">This is a toy.</span>。children與babies用於虛構文字角色數量，無需任何孩子照片或個資。</p></details><p>再把三個盒子改一個，只有該項更新成one box；其他清單保持。孩子指出修改的依據是新數量，不是任意換答案。</p>"
+    },
+    {
+      "id": "g4s2-english-08-s08",
+      "title": "完成詞形偵探卡",
+      "childText": "理由比只背尾字母更有用。",
+      "html": "<p>成品例：「baby前b是子音字母，這組babies；toy前o是母音字母，所以toys；child整組children」。成人允許指表後說明，另記是否能不看表轉用，避免把查表和記憶混算。</p><p>支持者先book/box兩組，進階者-y比較和children。評詞形、句子一致、特殊例子與更新，現場複數尾音由教師另示範聽察。只寫對s不代表已發出正確音；不以數字題當算術能力測驗或規定快速作答。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Count nouns",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/count-nouns",
+      "note": "2026-10-05直接核對books/boxes、子音+y與母音+y分類、child/children；本課只採指定五組，不擴張-o為無例外。"
+    },
+    {
+      "title": "British Council｜This, that, these, those",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/this-that-these-those",
+      "note": "2026-10-05直接開啟官方單複數指示框架，原創清單、六回合對話與句子轉換另行核對。"
+    },
+    {
+      "title": "British Council｜Adjectives",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/adjectives",
+      "note": "2026-10-05直接核對形容詞不加複數s、大小在顏色前的初階模型；本課只採指定詞組，不以全部描述詞排序為考核。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s2-english-08-q01",
+      "question": "two加book應使用哪個詞形？",
+      "options": [
+        "book",
+        "book’s",
+        "books"
+      ],
+      "answer": 2,
+      "hint": "數量與所有格不同。",
+      "explanation": "two表示兩本，本課用複數books；book’s則是另一種所有格形式，不能代替複數。"
+    },
+    {
+      "id": "g4s2-english-08-q02",
+      "question": "box的本課複數是？",
+      "options": [
+        "boxs",
+        "boxes",
+        "boxies"
+      ],
+      "answer": 1,
+      "hint": "核對表中加es的這一組。",
+      "explanation": "box在本課加es成boxes，不用直接boxs或套y變ies規則。"
+    },
+    {
+      "id": "g4s2-english-08-q03",
+      "question": "baby與toy的複數為何不同？",
+      "options": [
+        "y前的字母類別不同",
+        "字越短就不用複數",
+        "所有y都應改ies"
+      ],
+      "answer": 0,
+      "hint": "查看y前的b與o。",
+      "explanation": "baby的y前b是子音字母，toy前o是母音字母，本課對應babies與toys兩模式。"
+    },
+    {
+      "id": "g4s2-english-08-q04",
+      "question": "child的本課複數應選？",
+      "options": [
+        "childs",
+        "children",
+        "childrens"
+      ],
+      "answer": 1,
+      "hint": "整組不規則詞形已提供。",
+      "explanation": "children本身已是child的複數，不能另加s或用一般直接加s取代。"
+    },
+    {
+      "id": "g4s2-english-08-q05",
+      "question": "This is a box.改成兩個完整句是？",
+      "options": [
+        "These are two boxes.",
+        "These is a box.",
+        "This is two boxes."
+      ],
+      "answer": 0,
+      "hint": "要同步改指示詞、be和名詞。",
+      "explanation": "兩個盒子需these、are、two、boxes一起配合，只改其中一處仍不一致。"
+    },
+    {
+      "id": "g4s2-english-08-q06",
+      "question": "two red books中的red要加s嗎？",
+      "options": [
+        "只要有two就變reds",
+        "要，所有詞都複數",
+        "不用，red仍是形容詞"
+      ],
+      "answer": 2,
+      "hint": "數量影響名詞而非每個詞。",
+      "explanation": "本課red形容詞不因多本書而加s，複數標示在books，不是reds。"
+    },
+    {
+      "id": "g4s2-english-08-q07",
+      "question": "新清單三個盒子正確短語？",
+      "options": [
+        "three box",
+        "three boxes",
+        "one boxes"
+      ],
+      "answer": 1,
+      "hint": "使用three與已知複數詞形。",
+      "explanation": "新卡明寫三個，因此three配boxes；不可漏掉複數或改成一個。"
+    },
+    {
+      "id": "g4s2-english-08-q08",
+      "question": "Jo’s books中兩種標記的工作是？",
+      "options": [
+        "Jo’s表所有者，books表複數",
+        "兩個都只是複數",
+        "兩個都表示現在活動"
+      ],
+      "answer": 0,
+      "hint": "按整個詞組的意思區分。",
+      "explanation": "具名Jo’s指擁有者而books指多本書，不能把撇號所有格與名詞複數混成一件事。"
+    }
+  ]
+}

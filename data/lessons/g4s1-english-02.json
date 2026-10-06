@@ -1,0 +1,194 @@
+{
+  "id": "g4s1-english-02",
+  "course": "英語文",
+  "title": "情緒與身體感受",
+  "subtitle": "讀懂角色自述與變化，分清情緒、身體感受和需要的協助",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "讀懂角色自述與變化，分清情緒、身體感受和需要的協助。先理解完整情境，再一起練習，最後換資料自己試。",
+  "goals": [
+    "我能辨認happy、sad、worried、hungry、thirsty的本課意思。",
+    "我會用I’m…或I feel…表達虛構角色卡，並保留not的意思。",
+    "我能依新自述更新判斷，不從表情、動作或一次感受診斷人。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-english-02-s01",
+      "title": "感受要先聽本人怎麼說",
+      "childText": "一個表情不等於完整答案。",
+      "html": "<p>情緒詞：<span lang=\"en\">happy</span>開心、<span lang=\"en\">sad</span>難過、<span lang=\"en\">worried</span>擔心。身體感受詞：<span lang=\"en\">hungry</span>餓、<span lang=\"en\">thirsty</span>口渴。這是本課方便比較的兩欄，並非說情緒與身體完全無關。</p><p>本頁只讀虛構角色的明確自述，不要求你公開真正感受、病史或家庭故事。安靜、笑或皺眉都可能有不同原因；只有外觀時先說「還不知道」，不能替本人決定情緒，更不能猜診斷。</p>"
+    },
+    {
+      "id": "g4s1-english-02-s02",
+      "title": "完整角色卡：同時與不同時間",
+      "childText": "把人名和時間一起看。",
+      "html": "<p>卡A，故事開始的Lio：<span lang=\"en\">I’m happy. I’m thirsty.</span>我開心，也口渴。卡B，同一時刻的Ren：<span lang=\"en\">I’m worried. I’m not hungry.</span>我擔心；我不餓。卡C，稍後的Ren：<span lang=\"en\">I feel happy now.</span>我現在覺得開心。<span lang=\"en\">now</span>在此提示新的時刻。</p><p>卡D，Paz只說<span lang=\"en\">Can you help me, please?</span>你可以幫我嗎？沒有說感受。請先用兩欄記錄A、B，再替C加上「稍後」。Lio可同時開心和口渴；Ren的not hungry不能抄成hungry，Paz需要幫忙也不等於一定難過。</p>"
+    },
+    {
+      "id": "g4s1-english-02-s03",
+      "title": "完整原創對話：問候到求助",
+      "childText": "回應需求，不追問私事。",
+      "html": "<div class=\"story\"><p>成人角色Jo：<span lang=\"en\">How do you feel?</span>你感覺如何？Ren：<span lang=\"en\">I feel worried.</span>我覺得擔心。Jo：<span lang=\"en\">Can I help?</span>我能幫忙嗎？Ren：<span lang=\"en\">Yes, please. I need help with this word.</span>好，謝謝。我需要這個字的協助。Jo：<span lang=\"en\">Let’s read it together.</span>我們一起讀。</p></div><p>故事中的難題是紙卡上的<span lang=\"en\">happy</span>，不是急症。教師先自然示範五回合，再讓孩子指出Ren明說的需要。最後一起指認happy的詞義即可，不必扮演不舒服、碰觸他人或逼問擔心原因。</p>"
+    },
+    {
+      "id": "g4s1-english-02-s04",
+      "title": "一起練：感受與需要分兩格",
+      "childText": "說口渴，不等於要求特定飲料。",
+      "html": "<p>成人先讀Lio兩句，孩子把happy放情緒格，把thirsty放身體感受格。接著問「卡上有沒有說要牛奶？」答案是沒有。需要什麼要另說，不能由口渴推定飲料種類或飲用量。</p><p>再讀Ren的<span lang=\"en\">I’m not hungry.</span>。先指not再指hungry，整組表示不餓；不是完全忽略hungry，也不是表示口渴。孩子可以從「餓／不餓／未知」三張中文卡選一張，再用完整英文句卡配對。成人重述正確意思，不以故意讓孩子餓渴來示範。</p><p>做一回資料接龍：成人先出示A並說「Lio happy」，孩子補上第二句I’m thirsty.的意思；再出示B說「Ren hungry」，孩子要指出漏了not，改為「Ren不餓」。第三輪先放B再放C，孩子用「開始／稍後」兩張標籤重新排序。這三步分別練完整、否定和更新，不是比誰記得最多單字。若需要支持，成人把兩張英文句卡並排，讓孩子指讀關鍵詞後再說中文。</p>"
+    },
+    {
+      "id": "g4s1-english-02-s05",
+      "title": "修復：一句話不能代表永遠",
+      "childText": "新自述可以更新舊記錄。",
+      "html": "<p>錯誤記錄：「Ren說過worried，所以Ren永遠都擔心。」修正：故事開始時Ren說擔心，稍後卡C說現在開心，兩次記錄有不同時間。這不是誰說謊，而是資料的時間不同。</p><p>另一錯誤是<span lang=\"en\">I feel am happy.</span>。本課兩個完整模型是<span lang=\"en\">I’m happy.</span>與<span lang=\"en\">I feel happy.</span>，在這裡都可描述開心，但不要把am多塞在feel後面。孩子選自己能用的句型，不把合理的另一句判錯。</p>"
+    },
+    {
+      "id": "g4s1-english-02-s06",
+      "title": "自己試：新角色與缺資料",
+      "childText": "可以承認不知道，也可以只說明需求。",
+      "html": "<p>新卡E，Mika：<span lang=\"en\">I’m sad. I’m not thirsty.</span>；新卡F，Ari：只寫「站在桌旁，沒有說話」。請說E確定的兩項感受，說F哪些仍未知，再替E選一個尊重的回應：<span lang=\"en\">Can I help?</span>或「你一定是假裝」。</p><details><summary>可核對的回應</summary><p>Mika明說難過、不口渴；不代表餓或有病。Ari沒有自述，情緒與身體感受都未知。<span lang=\"en\">Can I help?</span>是可用的關心，對方可以拒絕或不說原因。</p></details><p>若演練者不想讀感受句，可以改讀中性需求：<span lang=\"en\">I need help with this word.</span>，任務仍能練清楚表達。</p>"
+    },
+    {
+      "id": "g4s1-english-02-s07",
+      "title": "做一張不越界的角色記錄",
+      "childText": "記資料，不替人下結論。",
+      "html": "<p>成品例：「Ren／開始時worried、not hungry／稍後happy／需要讀字協助」。每一欄都能找到原句，不添加家庭問題或健康推測。再選一句用中文說明not或now如何改變訊息。</p><p>成人評詞義、否定、時間更新和尊重未知四項。支持者可用兩張卡，進階者比較A、B、C並指出哪些資料不能推出。真正求助永遠可以用任何有效語言，不要求孩子先過英語關。</p><p>最後請成人故意寫一個沒有根據的記錄：「Paz因為難過所以求助。」孩子畫掉「因為難過」，保留「Paz求助」，並指出原資料只寫Can you help me, please?。能刪去多餘推論也是理解進步。成人可回饋「你保留了確定的需要，沒有替角色決定原因」，下次再用新卡檢查是否能自己做到。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項觀察</h3><p>本課由兩種同時感受與時間更新增加四年級推理負荷。支持者先用happy/thirsty及not hungry，進階者解釋now和未知卡。核對I’m happy與I feel happy皆自然，不將兩者互作錯項；feel後不加am。觀察孩子能否引用角色原句，而非以沉默或外貌猜情緒。這是語言理解，不是心理篩檢、醫療建議或真實感受評分。需要協助時立即讓孩子用任何有效表達，不要求說明私事。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-english-02-q01",
+      "question": "Lio的卡明說哪些感受？",
+      "options": [
+        "難過且餓",
+        "開心且口渴",
+        "只有擔心"
+      ],
+      "answer": 1,
+      "hint": "同一張卡有兩句自述。",
+      "explanation": "Lio說I’m happy.及I’m thirsty.，兩項可以同時存在而不互相排斥。"
+    },
+    {
+      "id": "g4s1-english-02-q02",
+      "question": "Ren說I’m not hungry.，確定的是？",
+      "options": [
+        "Ren一定有病",
+        "Ren說自己不餓",
+        "Ren一定口渴"
+      ],
+      "answer": 1,
+      "hint": "not會改變整句意思。",
+      "explanation": "not hungry是否定餓的感受，不能改成肯定餓或推論疾病與口渴。"
+    },
+    {
+      "id": "g4s1-english-02-q03",
+      "question": "稍後卡C如何更新Ren資料？",
+      "options": [
+        "證明其他人都開心",
+        "證明Ren永遠擔心",
+        "現在說開心"
+      ],
+      "answer": 2,
+      "hint": "看now及故事時間。",
+      "explanation": "卡C明說happy now，與開始時不同時間，應保留兩次資料而非認定永遠不變。"
+    },
+    {
+      "id": "g4s1-english-02-q04",
+      "question": "哪句符合本課feel模型？",
+      "options": [
+        "I feel happy.",
+        "I happy feel am.",
+        "I feel am happy."
+      ],
+      "answer": 0,
+      "hint": "把feel後面直接接描述詞。",
+      "explanation": "本課完整結構為I feel happy.，不把am額外放在feel和happy中間。"
+    },
+    {
+      "id": "g4s1-english-02-q05",
+      "question": "Paz只要求help，能確定其情緒嗎？",
+      "options": [
+        "一定sad",
+        "一定happy",
+        "不能，感受未明說"
+      ],
+      "answer": 2,
+      "hint": "需求與感受是不同資料。",
+      "explanation": "請求協助只告訴我們需要幫忙，不能單憑這句決定對方的情緒。"
+    },
+    {
+      "id": "g4s1-english-02-q06",
+      "question": "Ren對話具體需要哪種幫忙？",
+      "options": [
+        "讀一個字",
+        "判定疾病",
+        "公開家庭故事"
+      ],
+      "answer": 0,
+      "hint": "找I need help後面的資訊。",
+      "explanation": "Ren明說with this word，因此成人一起讀字，不需要加入私事或診斷。"
+    },
+    {
+      "id": "g4s1-english-02-q07",
+      "question": "新卡Mika說I’m sad. I’m not thirsty.，合宜回應是？",
+      "options": [
+        "Can I help?",
+        "You must be hungry.",
+        "不准拒絕說原因"
+      ],
+      "answer": 0,
+      "hint": "關心也保留對方的選擇。",
+      "explanation": "Can I help?提出協助而不擅自推定餓，也不逼迫說出私人原因。"
+    },
+    {
+      "id": "g4s1-english-02-q08",
+      "question": "Ari站著沒說話，較準確記錄是？",
+      "options": [
+        "一定thirsty",
+        "感受未知",
+        "一定worried"
+      ],
+      "answer": 1,
+      "hint": "行為外觀不等於本人自述。",
+      "explanation": "卡F沒有提供情緒或身體感受，安靜站立不能當作任何一個感受的充分證據。"
+    }
+  ],
+  "selfCheck": [
+    "我能辨認happy、sad、worried、hungry、thirsty的本課意思。",
+    "我會用I’m…或I feel…表達虛構角色卡，並保留not的意思。",
+    "我能依新自述更新判斷，不從表情、動作或一次感受診斷人。",
+    "我能說明這次用了哪些提示，哪些部分還需要成人示範。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Feelings flashcards",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-feelings.pdf",
+      "note": "2026-10-05 直接讀PDF的happy、sad、worried、hungry、thirsty詞項；本課不採由固定臉部圖直接判定真實人物情緒的做法。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05 直接核對短段情境活動與Can I have…?、please、thank you等生活框架；不採任何要求孩子只用英語才能求助的限制。"
+    },
+    {
+      "title": "Cambridge University Press｜Interchange Intro, Grammar Focus",
+      "url": "https://www.cambridge.org/elt/interchange/course/pdf/Intro.pdf",
+      "note": "2026-10-05官方搜尋索引核對樣頁第73頁feel + adjective及How do you feel?框架；只採語法，不複製對話或採猜病、模仿症狀活動。直接PDF取用逾時；完整本課劇本原創，未驗聽。"
+    }
+  ]
+}

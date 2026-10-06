@@ -1,0 +1,192 @@
+{
+  "id": "g4s2-arts-08",
+  "course": "藝術",
+  "title": "樂器音色的比較",
+  "subtitle": "比較聲音的樣子時，先讓旋律、音高與速度公平相同",
+  "duration": "2–3次，每次約25–35分鐘；操作與排練分短段，可隨時休息",
+  "intro": "比較聲音的樣子時，先讓旋律、音高與速度公平相同。從完整原創模型出發，試一個有理由的改變，再把方法用到新情境。",
+  "goals": [
+    "我能分清音色與音高、力度、速度的差別。",
+    "我能使用同一完整短曲比較兩個已標明的聲源。",
+    "我能記錄實際聽到的起音、延續與收尾，承認不確定。"
+  ],
+  "materials": [
+    "成人專用高音巴洛克直笛及已校準鍵盤的鋼琴音色；無器材可先做比較設計",
+    "本頁完整譜與記錄卡；孩子不共用吹奏物，不提高音量作辨識測試"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-arts-08-s01",
+      "title": "同一音高，也可能有不同聲音質感",
+      "childText": "同一音高，也可能有不同聲音質感",
+      "html": "<p>音色是聲音品質的差別，例如起音、延續中的樣子與消散方式。兩種聲源可以奏同樣G5，仍聽起來不同；一個比較高、一個比較響也可能影響感受，不能全部混叫音色。用「我在這次聽到」比「這種樂器永遠如此」精確。</p><p>本課比較成人直笛與鍵盤的鋼琴音色。若是電子鍵盤，清楚標「電子鋼琴音色」，不要說正在聽真實鋼琴弦振動；如用真正鋼琴則另標聲源。圖片和音名都不是聲音，本頁沒有音檔。</p>"
+    },
+    {
+      "id": "g4s2-arts-08-s02",
+      "title": "完整共同短曲與比較條件",
+      "childText": "完整共同短曲與比較條件",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 224\" role=\"img\" aria-labelledby=\"g4s2-arts-08-fig-a-t g4s2-arts-08-fig-a-d\"><title id=\"g4s2-arts-08-fig-a-t\">原創教學圖</title><desc id=\"g4s2-arts-08-fig-a-d\">第1小節：G5(2拍)、A5(1拍)、B5(1拍)；第2小節：A5(1拍)、G5(1拍)、B5(2拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</desc><rect width=\"360\" height=\"224\" fill=\"#fffdf6\"/><text x=\"12\" y=\"23\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">同一《三音問候》：兩種聲源各奏一次</text><text x=\"12\" y=\"64\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><rect x=\"36\" y=\"44\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"112.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G5</text><text x=\"112.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><rect x=\"188\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">A5</text><text x=\"226.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"264\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"302.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">B5</text><text x=\"302.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"12\" y=\"151\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><rect x=\"36\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">A5</text><text x=\"74.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"112\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G5</text><text x=\"150.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"188\" y=\"131\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"264.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">B5</text><text x=\"264.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text></svg><figcaption>第1小節：G5(2拍)、A5(1拍)、B5(1拍)；第2小節：A5(1拍)、G5(1拍)、B5(2拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</figcaption></figure><p>兩聲源都用實際G5、A5、B5，4/4，準備4拍後各演2小節共8拍。第一小節G5二拍、A5一拍、B5一拍；第二小節A5一拍、G5一拍、B5二拍。沒有歌詞。成人直笛對應G、A、B基本孔位；鍵盤不可改奏低八度G4等，否則音高也變了。</p>"
+    },
+    {
+      "id": "g4s2-arts-08-s03",
+      "title": "完整比較程序：先標名再聽",
+      "childText": "完整比較程序：先標名再聽",
+      "html": "<p>成人先各自核準整曲音高、拍數和舒適速度。第一輪明說「直笛」，演八拍，停止；稍作自然間隔讓聲音消散，再明說「電子鍵盤鋼琴音色」，以同速度同音高演八拍。間隔不是曲中休止，本課不評連續合奏。</p><p>第二輪交換次序，防止總把先聽的叫甲。盡量在相同座位距離、相近舒適聽感音量下比較，但不追求分貝精密相等，也不要求直笛用強吹模仿鍵盤。教師以正常觸鍵，不開延音踏板或音效；若用了效果必須標記。</p>"
+    },
+    {
+      "id": "g4s2-arts-08-s04",
+      "title": "一起填真實聆聽卡",
+      "childText": "一起填真實聆聽卡",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 254\" role=\"img\" aria-labelledby=\"g4s2-arts-08-fig-listen-t g4s2-arts-08-fig-listen-d\"><title id=\"g4s2-arts-08-fig-listen-t\">原創教學圖</title><desc id=\"g4s2-arts-08-fig-listen-d\">原創聆聽記錄卡只提供觀察面向，不預填結果：起音、延續、收尾。需要實際聽過相同旋律的兩聲源後填寫，可記未聽清楚。</desc><rect width=\"360\" height=\"254\" fill=\"#fffdf6\"/><text x=\"12\" y=\"25\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">比較卡：每回只聽一個面向</text><rect x=\"12\" y=\"43\" width=\"336\" height=\"57\" fill=\"#e6ece7\" stroke=\"#6d8177\"/><text x=\"24\" y=\"66\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">起音</text><text x=\"24\" y=\"89\" font-size=\"13\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">一開始的聲音較柔、較清脆或其他？</text><rect x=\"12\" y=\"110\" width=\"336\" height=\"57\" fill=\"#e6ece7\" stroke=\"#6d8177\"/><text x=\"24\" y=\"133\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">延續</text><text x=\"24\" y=\"156\" font-size=\"13\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">兩拍長音持續時，聲音如何改變？</text><rect x=\"12\" y=\"177\" width=\"336\" height=\"57\" fill=\"#e6ece7\" stroke=\"#6d8177\"/><text x=\"24\" y=\"200\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">收尾</text><text x=\"24\" y=\"223\" font-size=\"13\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">停止後是否仍有可聽到的餘音？</text></svg><figcaption>原創聆聽記錄卡只提供觀察面向，不預填結果：起音、延續、收尾。需要實際聽過相同旋律的兩聲源後填寫，可記未聽清楚。</figcaption></figure><p>第一回只記起音，第二回再記二拍長音與收尾。可用「較清脆」「較平順」「有餘音」「我未聽清楚」等詞，但應指出是哪個聲源、哪個音。例如寫「第二小節最後B5，鍵盤放鍵後仍聽到一點餘音」只有真的觀察到才寫。</p><p>範例紀錄不是標準答案：某次可能聽到直笛維持較連續，鍵盤起音較明顯；材料、演奏方式、音效與空間會影響結果。沒有聽到上述特徵，不需迎合老師，可以重聽或保持不確定。</p>"
+    },
+    {
+      "id": "g4s2-arts-08-s05",
+      "title": "修正不公平的比較",
+      "childText": "修正不公平的比較",
+      "html": "<p>錯例：直笛奏G5、A5、B5，鍵盤改低八度又加快，然後說差異全是音色。這同時換音高與速度，應改回完整同譜再比。另一錯例用很響的音效壓過另聲源，應先降到舒適清楚，而非比誰能響。</p><p>盲猜樂器不是唯一評量，也不能看外形就填聆聽表。可以先明示聲源練描述，熟悉後成人用相同兩聲源短奏，孩子不確定可請重聽；仍不靠最大音量、遮耳或突發聲測試。</p>"
+    },
+    {
+      "id": "g4s2-arts-08-s06",
+      "title": "自己轉用：設計第二個公平片段",
+      "childText": "自己轉用：設計第二個公平片段",
+      "html": "<p>新片段一小節4/4：A5一拍、B5一拍、G5二拍。請寫兩聲源各要如何奏，至少列音高、速度、音量安全和音效設定四條，再選一項要聽的特徵。成人核對後演示，記實際結果；無器材則只交設計，不編造聽感。</p><details><summary>做完再展開參考與理由</summary><p>兩者同奏A5、B5、G5，時值1＋1＋2，用相同舒適速度和相近安全聽感音量；鍵盤不加延音踏板與額外效果，或清楚記已有不可關閉效果。可專聽末G5停止後的延續。不同聲源仍會有操作差異，結果限於這一次條件。</p></details>"
+    },
+    {
+      "id": "g4s2-arts-08-s07",
+      "title": "音色選擇也要回到作品目的",
+      "childText": "音色選擇也要回到作品目的",
+      "html": "<p>成人先準備本課原創想像窗邊圖：畫一個長方形窗框，旁邊畫一本打開的書；也可直接讀或指本頁完整文字卡「一扇窗旁有一本打開的書」，不必另找圖片。先說自己希望配樂達成什麼，再根據剛才真實聆聽紀錄選一聲源，說「我希望開頭清楚，所以選這次起音較明顯的＿＿」。不要因名字有木或金屬就保證聲音一定溫暖或冰冷，這些感受需要具體聽覺支持。</p><p>收尾分別記比較計畫、實際聽辨和創作選擇。未聽者仍能做公平設計、說明想達成的目的，但聲源選擇須待實際聆聽後核對，不能記完成音色辨認或配樂實作。這份記錄不是樂器優劣排名；每種聲源都可以服務不同作品。</p>"
+    }
+  ],
+  "teachingHtml": "<p>本課接續三年級的辨認與模仿，四年級重點是先提出目的、控制一項變化、比較證據，再說明修訂。第二學習階段包含三、四年級，本頁的學期排列是參考整理。先讓孩子讀或聽本頁完整模型，再一起試做，最後保留獨立轉用的時間。不要以課外才藝、材料價格、外貌像不像或表演膽量作能力標準。</p><p>比Grade3音色辨認更進一步控制音高、速度、座位與電子音效，先有具名示範再談盲辨。共用曲8拍與新曲4拍都完整供應；鍵盤必同實際G5A5B5。老師須有兩個可實際演示聲源，缺其一時只評計畫與譜面。文字範例聽感明示非實測；任何通則都以來源概念而非未聽音訊支持。</p><p>支持策略：把模型放大，一次遮住未處理的段落，成人代讀但不代選；允許指認、口述、寫字或既有輔助溝通。操作有困難時由孩子決定位置、順序或修法，成人代操作，記為共同完成。進階者比較兩個合理方案，說明代價與保留理由，不靠增加危險工具、極端音量或速度提升難度。</p><p>評量分成理解、創作決定、實作與回顧四欄。圖文題可支持理解；實作須看見孩子實際安排或演出才記錄，不能用選擇題分數代替。每欄記一項具體證據，區分獨立、提示後、共同完成與尚未觀察，並給一個可做到的下一步。開放作品沒有唯一外觀，但必須能指出與題目條件相符的證據。</p><p>先確認同意與安全：不強迫上臺、眼神接觸、觸碰、個人故事或真實人物肖像。可改想像角色、坐姿、桌上紙卡或觀察者；隨時可以暫停。不收集、拍攝或上傳真實兒童照片及私人資料。桌面或地面保持清楚平坦，材料由成人檢查且適齡完整；不用刀、尖銳固定物、熱源與溶劑。回饋說明實際線索與可能效果，尊重作者保留原案的選擇。</p><p>真實聲音條件：本頁只供文字與圖形樂譜，沒有音檔，也沒有驗聽紀錄。具讀譜能力的成人先用已校準樂器核對所有指定音高、時值、起拍與結尾，完整示範後才做聆聽、歌唱或器樂評量；缺此條件仍可學讀譜、排練規劃與無聲指認，聲音實作列為待觀察。以舒適自然呼吸與音量為原則，不強吸、不憋氣、不比長音，感到不適立即停止；直笛每人專用，不共用吹口。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-arts-08-q01",
+      "question": "兩聲源奏同樣G5，仍可能有什麼差別？",
+      "options": [
+        "G5必然變C4",
+        "拍號一定不同",
+        "音色與聲音延續特徵"
+      ],
+      "answer": 2,
+      "hint": "同音高不等於同聲音品質。",
+      "explanation": "音色使同音高的聲源仍可有不同起音、延續與收尾特徵。"
+    },
+    {
+      "id": "g4s2-arts-08-q02",
+      "question": "本課鍵盤應用哪組實際音高？",
+      "options": [
+        "G4、A4、B4",
+        "任意不同八度",
+        "G5、A5、B5"
+      ],
+      "answer": 2,
+      "hint": "與高音直笛實際聲音一致。",
+      "explanation": "同用G5A5B5可減少八度差造成的干擾，方便集中比較音色。"
+    },
+    {
+      "id": "g4s2-arts-08-q03",
+      "question": "《三音問候》每個聲源正式奏幾拍？",
+      "options": [
+        "八拍",
+        "四拍",
+        "十二拍含準備"
+      ],
+      "answer": 0,
+      "hint": "只算兩個正式小節。",
+      "explanation": "兩小節各四拍共八拍，演奏前準備四拍不列入作品。"
+    },
+    {
+      "id": "g4s2-arts-08-q04",
+      "question": "用電子鋼琴音色時，怎樣標示較準確？",
+      "options": [
+        "電子鍵盤的鋼琴音色",
+        "一定是真鋼琴弦現場發聲",
+        "就是直笛"
+      ],
+      "answer": 0,
+      "hint": "聲源名稱要如實。",
+      "explanation": "電子音色可模擬鋼琴，但不可因此宣稱現場聲源就是原聲鋼琴弦。"
+    },
+    {
+      "id": "g4s2-arts-08-q05",
+      "question": "比較時把鍵盤改低八度又加快，問題是？",
+      "options": [
+        "只改了音色",
+        "同時改了音高和速度",
+        "一定更公平"
+      ],
+      "answer": 1,
+      "hint": "找控制條件被改了什麼。",
+      "explanation": "音高與速度也改變會干擾判斷，差異不能全部歸給音色。"
+    },
+    {
+      "id": "g4s2-arts-08-q06",
+      "question": "未聽清最後B5的餘音，應記什麼？",
+      "options": [
+        "未聽清，可再聽",
+        "照範例寫一定有",
+        "猜得像標準答案就好"
+      ],
+      "answer": 0,
+      "hint": "真實記錄可以不確定。",
+      "explanation": "承認未聽清能避免編造結果，再聽才可能補足所需證據。"
+    },
+    {
+      "id": "g4s2-arts-08-q07",
+      "question": "新片段A5、B5、G5的時值是？",
+      "options": [
+        "2、2、2拍",
+        "1、1、2拍",
+        "每個半拍"
+      ],
+      "answer": 1,
+      "hint": "同一小節四拍。",
+      "explanation": "前兩音各一拍，最後G5兩拍，合計四拍符合新模型。"
+    },
+    {
+      "id": "g4s2-arts-08-q08",
+      "question": "哪個結論沒有超出觀察範圍？",
+      "options": [
+        "甲永遠比所有樂器好",
+        "這次條件下，甲起音較明顯",
+        "看照片就知道音色"
+      ],
+      "answer": 1,
+      "hint": "把結果限在本次。",
+      "explanation": "限定這次聲源與條件能如實呈現聽覺證據，不能推成所有情況的排名。"
+    }
+  ],
+  "selfCheck": [
+    "我能分清音色與音高、力度、速度的差別。",
+    "我能使用同一完整短曲比較兩個已標明的聲源。",
+    "我能記錄實際聽到的起音、延續與收尾，承認不確定。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "第二學習階段為三、四年級；PDF第9–11頁與第27頁（印頁24）提供音樂、視覺與表演範圍。本課學期次序、圖畫、短曲、角色與活動均由編者原創，並非指定教材。"
+    },
+    {
+      "title": "Open University｜Melodic colour in the orchestra",
+      "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=102598&section=2.2",
+      "note": "核對不同樂器聲音品質及其組合影響旋律音色的概念；未聽來源音訊，沒有將來源示例聽感改寫成本課實測。兩種聲源的本地比較須另由成人實際演奏。"
+    },
+    {
+      "title": "Yamaha｜高音巴洛克式直笛指法表",
+      "url": "https://www.yamaha.com/en/musical_instrument_guide/common/images/recorder/fingering_baroque.pdf",
+      "note": "核對C調高音Baroque基本B、A、G：封01、012、0123；背孔為0，未使用中音或德式圖。字母為此音域，實際音高B5、A5、G5；本課不擴充未核實指法。"
+    },
+    {
+      "title": "Yamaha｜Recorder: How to Play",
+      "url": "https://www.yamaha.com/en/musical_instrument_guide/recorder/play/",
+      "note": "核對完整封孔、適量穩定呼氣與過強氣流可能改變發聲。本頁未驗聽音訊；成人需先核對完整曲調並現場示範。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符與休止的相對時值；字母節奏譜為完整原創模型，沒有引用完整既有歌曲或宣稱播放音樂。"
+    }
+  ]
+}

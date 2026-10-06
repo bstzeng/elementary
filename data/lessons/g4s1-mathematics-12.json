@@ -1,0 +1,177 @@
+{
+  "id": "g4s1-mathematics-12",
+  "course": "數學",
+  "title": "生活資料的整理與比較",
+  "subtitle": "讓每一格數字能回到原始紀錄，比較才站得住腳。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "按明確規則將原始紀錄整理成表",
+    "核對行列合計並作有依據的比較",
+    "區分零、缺資料及超出資料的推論"
+  ],
+  "materials": [
+    "供給的完整紙面原始紀錄卡",
+    "大張空白二維表格、粗筆"
+  ],
+  "intro": "讓每一格數字能回到原始紀錄，比較才站得住腳。",
+  "sections": [
+    {
+      "title": "整理前，先訂同一套計數規則",
+      "childText": "一筆資料算什麼，要先說好。",
+      "html": "<p>虛構美術角有兩盒紙卡，要依「圓形、三角形、四邊形」分類，這三類以邊界形狀區分。每張只放一類、只數一次；顏色不同仍可同為圓形。</p><p>若把「紅色」與「圓形」並列當互斥類別，一張紅圓卡可能算兩次，所以先選定分類問題。本課表格的數據是教學設定，不是孩子實際作品紀錄。</p>",
+      "id": "g4s1-mathematics-12-s01"
+    },
+    {
+      "title": "供給的原始紀錄，逐張整理",
+      "childText": "先留記號，再數記號，減少重複。",
+      "html": "<p>第一盒原紀錄：圓、三角、圓、四邊、三角、圓、四邊、圓。第二盒：三角、四邊、三角、圓、四邊、三角、四邊、圓。請每讀一個，就在該盒該類欄補一筆。</p><p>第一盒8張，第二盒8張。整理後圓形分別4與2，三角形2與3，四邊形2與3。讀完後回看原序列，每個標記都能找到來源，不能用想像填齊表。</p><table><caption>從兩盒原始紀錄得到的張數</caption><thead><tr><th scope=\"col\">盒別</th><th scope=\"col\">圓形</th><th scope=\"col\">三角形</th><th scope=\"col\">四邊形</th><th scope=\"col\">合計</th></tr></thead><tbody><tr><th scope=\"row\">第一盒</th><td>4</td><td>2</td><td>2</td><td>8</td></tr><tr><th scope=\"row\">第二盒</th><td>2</td><td>3</td><td>3</td><td>8</td></tr><tr><th scope=\"row\">合計</th><td>6</td><td>5</td><td>5</td><td>16</td></tr></tbody></table><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 205\" role=\"img\" aria-labelledby=\"g4s1-mathematics-12-records\"><title id=\"g4s1-mathematics-12-records\">原始記錄圖卡：第一盒依序圓、三角、圓、四邊、三角、圓、四邊、圓；第二盒三角、四邊、三角、圓、四邊、三角、四邊、圓。</title><text x=\"180\" y=\"28\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">第一盒</text><rect x=\"16\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"34\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">○</text><rect x=\"57\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"75\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">△</text><rect x=\"98\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"116\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">○</text><rect x=\"139\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"157\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">□</text><rect x=\"180\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"198\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">△</text><rect x=\"221\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"239\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">○</text><rect x=\"262\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"280\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">□</text><rect x=\"303\" y=\"40\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"321\" y=\"68\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">○</text><text x=\"180\" y=\"113\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">第二盒</text><rect x=\"16\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"34\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">△</text><rect x=\"57\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"75\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">□</text><rect x=\"98\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"116\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">△</text><rect x=\"139\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"157\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">○</text><rect x=\"180\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"198\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">□</text><rect x=\"221\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"239\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">△</text><rect x=\"262\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"280\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">□</text><rect x=\"303\" y=\"125\" width=\"37\" height=\"38\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"321\" y=\"153\" text-anchor=\"middle\" font-size=\"23\" fill=\"#183f38\" font-family=\"sans-serif\">○</text></svg><figcaption>原始記錄圖卡：第一盒依序圓、三角、圓、四邊、三角、圓、四邊、圓；第二盒三角、四邊、三角、圓、四邊、三角、四邊、圓。</figcaption></figure>",
+      "id": "g4s1-mathematics-12-s02"
+    },
+    {
+      "title": "橫著、直著，都能核對同一批資料",
+      "childText": "合計只算一次，不再加進明細。",
+      "html": "<p>沿第一盒橫列加4＋2＋2＝8；沿圓形直欄加4＋2＝6。兩盒合計8＋8＝16，也等於三類合計6＋5＋5＝16。兩條核對路徑應相同。</p><p>最後一列和最後一欄是已加好的摘要，不是新增紙卡。若把6、5、5再加合計16會得到32，等於重複計數。閱讀表格先看行列標題，知道問的是哪個交會處。</p>",
+      "id": "g4s1-mathematics-12-s03"
+    },
+    {
+      "title": "比較要說比較誰、哪一項、差多少",
+      "childText": "同總量下，各類組合也可能不同。",
+      "html": "<p>兩盒都8張，不能說每類都一樣多。第一盒比第二盒多2張圓形，卻少1張三角形、少1張四邊形；這些差在總量上互相補足。</p><p>合計圓形6張最多，三角形與四邊形各5張並列。可以說本批圓形最多，不能延伸成「所有盒子永遠圓形最多」或「孩子最喜歡圓形」，因資料只記此批卡片數量。</p><table><caption>有條件的比較句</caption><thead><tr><th scope=\"col\">比較範圍</th><th scope=\"col\">已知資料</th><th scope=\"col\">可以說</th></tr></thead><tbody><tr><th scope=\"row\">兩盒圓形</th><td>4和2</td><td>第一盒多2張</td></tr><tr><th scope=\"row\">兩盒總數</th><td>8和8</td><td>總張數相同</td></tr><tr><th scope=\"row\">本批三類合計</th><td>6、5、5</td><td>圓形最多，另兩類相同</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-12-s04"
+    },
+    {
+      "title": "遇到0或未點算，分開標示",
+      "childText": "0是確定沒有，空白還需要問。",
+      "html": "<p>另一張示例表記「甲盒圓形0張，乙盒圓形未點算」。甲盒已點過沒有圓形，所以0有意義；乙盒尚不知道，不能寫0，也不能計算兩盒圓形總數。</p><p>若必須先報告，就說「已知甲盒0張，乙盒尚缺紀錄，總數待確認」。缺資料不是失敗，清楚指出缺口比補一個看起來整齊的數更可靠。</p><table><caption>另一批資料，不能和前表混加</caption><thead><tr><th scope=\"col\">盒別</th><th scope=\"col\">圓形張數</th><th scope=\"col\">狀態</th></tr></thead><tbody><tr><th scope=\"row\">甲盒</th><td>0</td><td>已完整點算</td></tr><tr><th scope=\"row\">乙盒</th><td>未點算</td><td>沒有數值</td></tr><tr><th scope=\"row\">合計</th><td>待確認</td><td>需要乙盒資料</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-12-s05"
+    },
+    {
+      "title": "一起做：用原始紀錄查一個錯格",
+      "childText": "合計不合，回到資料，不隨意改數。",
+      "html": "<p>成人故意把第一盒圓形填3。該列會成7而不是原紀錄8，圓形欄合計也變5；請孩子重讀第一盒序列，圈四個圓，修回4，而不是把任一格加1湊總數。</p><p>換孩子設計一個錯誤，成人說明如何查。錯誤可以是重複算一張或把三角放四邊欄，但最後一定回到原始資料驗證，不能只憑哪個結果比較漂亮。</p>",
+      "id": "g4s1-mathematics-12-s06"
+    },
+    {
+      "title": "獨立轉用：重新分類一批新的紀錄",
+      "childText": "規則、明細、總數、結論一起交代。",
+      "html": "<p>第三盒新紀錄：圓、三角、三角、四邊、圓、四邊。獨立整理成表、核對總數並比較各類。再用本課第一張表寫一個有數字證據的比較句，提出一個資料還無法回答的問題。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>新的第三盒紀錄是圓、三角、三角、四邊、圓、四邊。自行整理得各2張、共6張；這盒三類同多，不要沿用前一批圓形最多的結論。</p><p>出口用本課第一張表寫一個有數字證據的比較句，再寫一個還不能知道的問題，例如誰做了哪些卡。若真的在班內操作，只用無個人資料的大型圖卡，不記孩子姓名、成績或家庭物品。</p></details>",
+      "id": "g4s1-mathematics-12-s07"
+    }
+  ],
+  "teachingHtml": "<p>依D-4-1結合已有二維表格經驗，重點在從明確原始紀錄整理、比較與說明，而不是只讀整理好的答案。圖與文字均供兩盒各八筆，成人可以讓孩子逐項劃消再入表，觀察是否一筆一格。圓、三角、四邊採同一分類維度，和紅色交叉分類不同；若孩子提出有彎邊的卡，應回到分類規則討論，而非強塞已定類。</p><p>第一盒4、2、2，第二盒2、3、3；橫列各8，直欄6、5、5，總16。兩種總合相同是核對方法，但不能證明每格一定正確，仍須抽查原紀錄。錯格練習從少記一個圓開始，成人避免提示只要加1，要孩子指明是哪一筆漏掉。另表0與未點算是完全不同一批，明說不可混加。</p><p>支持組可先分類第一盒，再增加第二盒與欄合計；熟練組找總量相同而組成不同的證據，或設計能被原資料查出的錯誤，不轉成百分比或統計推論。出口要求完整比較句有範圍、對象、項目及數值，同時說明資料無法回答誰製作或誰喜歡。全部是無個人資訊的虛構物件資料，實際活動不用真實孩子表現作比較。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-mathematics-12-q01",
+      "question": "第一盒原紀錄有幾張圓形？",
+      "options": [
+        "3張",
+        "2張",
+        "4張"
+      ],
+      "answer": 2,
+      "hint": "在八筆中逐個圈圓。",
+      "explanation": "第一盒第1、3、6、8筆是圓形，共4張，可逐筆查到。"
+    },
+    {
+      "id": "g4s1-mathematics-12-q02",
+      "question": "兩盒三角形合計？",
+      "options": [
+        "6張",
+        "5張",
+        "3張"
+      ],
+      "answer": 1,
+      "hint": "沿三角形直欄加2與3。",
+      "explanation": "第一盒2張、第二盒3張，合計5張三角形。"
+    },
+    {
+      "id": "g4s1-mathematics-12-q03",
+      "question": "兩盒總數相同，是否每一類都相同？",
+      "options": [
+        "一定相同",
+        "一定只差圓形",
+        "不一定，本例各類不同"
+      ],
+      "answer": 2,
+      "hint": "比較4、2、2與2、3、3。",
+      "explanation": "兩盒各8張，但各類組成不同，總量相等不代表每類都相等。"
+    },
+    {
+      "id": "g4s1-mathematics-12-q04",
+      "question": "為何不能把6、5、5再加表中的合計16？",
+      "options": [
+        "合計已包含前面三類，會重複算",
+        "因為不能加四個數",
+        "因為16不是數量"
+      ],
+      "answer": 0,
+      "hint": "先想合計16從哪裡來。",
+      "explanation": "6加5加5已是16，再加同一批的合計會把每張卡算兩遍。"
+    },
+    {
+      "id": "g4s1-mathematics-12-q05",
+      "question": "甲盒圓形0張、乙盒未點算，合計？",
+      "options": [
+        "0張",
+        "還不能確定",
+        "一定多於0張"
+      ],
+      "answer": 1,
+      "hint": "未點算沒有提供數值。",
+      "explanation": "甲盒確定沒有，乙盒仍未知，無法判定兩盒加起來多少。"
+    },
+    {
+      "id": "g4s1-mathematics-12-q06",
+      "question": "哪個結論符合第一張表？",
+      "options": [
+        "所有盒子圓形一定最多",
+        "本批圓形6張最多",
+        "孩子最喜歡圓形"
+      ],
+      "answer": 1,
+      "hint": "結論只限表中這批數據。",
+      "explanation": "三類合計6、5、5，因此本批圓形最多，不能推到所有盒子或喜好。"
+    },
+    {
+      "id": "g4s1-mathematics-12-q07",
+      "question": "第一盒圓形誤填3，最好怎麼查？",
+      "options": [
+        "回原始八筆逐個圈圓",
+        "任意在另一格加1",
+        "把總數8改成7就好"
+      ],
+      "answer": 0,
+      "hint": "要找漏記的資料來源。",
+      "explanation": "回到原紀錄才能證明應是4，任意改別格或總數無法修復真實錯因。"
+    },
+    {
+      "id": "g4s1-mathematics-12-q08",
+      "question": "第三盒圓、三角、三角、四邊、圓、四邊，結果？",
+      "options": [
+        "三類各2張，共6張",
+        "圓形4張最多",
+        "三類各3張，共9張"
+      ],
+      "answer": 0,
+      "hint": "逐筆分類後再核對總數。",
+      "explanation": "圓、三角、四邊各出現兩次，合計6張，不能套用上一批的結論。"
+    }
+  ],
+  "selfCheck": [
+    "我每筆只算一次。",
+    "我會用原始紀錄核對表格。",
+    "我用有範圍的句子說比較結果。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。D-4-1結合D-3-1既有表格經驗：整理分類資料、比較、說明及核對；所有紀錄明示虛構。"
+    }
+  ]
+}

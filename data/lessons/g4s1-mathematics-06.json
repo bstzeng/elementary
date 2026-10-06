@@ -1,0 +1,177 @@
+{
+  "id": "g4s1-mathematics-06",
+  "course": "數學",
+  "title": "二位小數的比較與加減",
+  "subtitle": "每一格百分之一都有位置，加減時讓相同單位相遇。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "認識百分位與小數末尾0的意義",
+    "比較一、二位小數",
+    "完成含進退位的二位小數加減"
+  ],
+  "materials": [
+    "完整百格紙、粗筆",
+    "大張小數位值表與虛構紙帶長度卡"
+  ],
+  "intro": "每一格百分之一都有位置，加減時讓相同單位相遇。",
+  "sections": [
+    {
+      "title": "一個整體分成一百份",
+      "childText": "百分位的一份是0.01。",
+      "html": "<p>把一個正方形作為1，平均分10列，每列再分10小格，共100等份。每格是1/100，寫0.01；塗37格是37個0.01，寫0.37，讀作零點三七。</p><p>下圖前三列全塗，共30格，再塗7格。30格是3個0.1，所以0.37也就是3個十分之一與7個百分之一。螢幕格子表示份量，不代表實物一公分。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 310\" role=\"img\" aria-labelledby=\"g4s1-mathematics-06-hundred\"><title id=\"g4s1-mathematics-06-hundred\">正方形分10列10行，共100等格；前三列30格及第四列7格塗色，共37格，表示0.37。</title><rect x=\"70\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"35\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"57\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"79\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"101\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"101\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"101\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"101\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"101\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"101\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"101\" width=\"22\" height=\"22\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"101\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"101\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"101\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"123\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"145\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"167\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"189\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"211\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"70\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"92\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"114\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"136\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"158\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"180\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"202\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"224\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"246\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><rect x=\"268\" y=\"233\" width=\"22\" height=\"22\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"180\" y=\"285\" text-anchor=\"middle\" font-size=\"21\" fill=\"#183f38\" font-family=\"sans-serif\">37個0.01＝0.37</text></svg><figcaption>正方形分10列10行，共100等格；前三列30格及第四列7格塗色，共37格，表示0.37。</figcaption></figure>",
+      "id": "g4s1-mathematics-06-s01"
+    },
+    {
+      "title": "末尾多一個0，量可以不變",
+      "childText": "0.5和0.50是同一長度。",
+      "html": "<p>1個0.1可換10個0.01，因此0.5＝0.50；2.30＝2.3。這裡添的是小數末尾的0，不是任意位置都能添0：2.03和2.3不同。</p><p>比較3.08和3.8，把後者看成3.80；整數3相同，十分位0小於8，所以3.08＜3.8。不能因為08有兩個字就覺得比較大。</p><table><caption>對齊小數的位值</caption><thead><tr><th scope=\"col\">數</th><th scope=\"col\">個位</th><th scope=\"col\">十分位</th><th scope=\"col\">百分位</th></tr></thead><tbody><tr><th scope=\"row\">3.08</th><td>3</td><td>0</td><td>8</td></tr><tr><th scope=\"row\">3.80</th><td>3</td><td>8</td><td>0</td></tr><tr><th scope=\"row\">0.50</th><td>0</td><td>5</td><td>0</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-06-s02"
+    },
+    {
+      "title": "加法：滿十個百分之一換一個十分之一",
+      "childText": "小數點對齊，讓同單位站同一欄。",
+      "html": "<p>2.75公尺加1.68公尺。百分位5＋8＝13，寫3個百分之一，進1個十分之一；十分位7＋6＋1＝14，寫4個十分之一、進1個一；個位2＋1＋1＝4。</p><p>所以2.75＋1.68＝4.43公尺。若改以公分看，275＋168＝443公分，也支持答案；小數點跟著位值對齊，不是最後看小數有幾個字隨意插入。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 132\" role=\"img\" aria-labelledby=\"g4s1-mathematics-06-add\"><title id=\"g4s1-mathematics-06-add\">2.75加1.68等於4.43，小數點與各位對齊。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">7</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"212\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"144\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">+</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>2.75加1.68等於4.43，小數點與各位對齊。</figcaption></figure>",
+      "id": "g4s1-mathematics-06-s03"
+    },
+    {
+      "title": "減法：跨過0也要逐次換單位",
+      "childText": "5.02能改成4個一、9個十分之一、12個百分之一。",
+      "html": "<p>5.02－1.78，百分位2不夠減8，但十分位0無法直接借。先從5個一取1個一換10個十分之一，再取其中1個十分之一換10個百分之一，原有2個加成12個。</p><p>現在4個一、9個十分之一、12個百分之一，總量仍5.02。12－8＝4，9－7＝2，4－1＝3，所以3.24。用3.24＋1.78＝5.02檢查，不能把借位當作憑空多出1。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 132\" role=\"img\" aria-labelledby=\"g4s1-mathematics-06-subtract\"><title id=\"g4s1-mathematics-06-subtract\">5.02減1.78等於3.24；借位後是4個一、9個十分之一、12個百分之一。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">7</text><text x=\"212\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"144\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">−</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">.</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>5.02減1.78等於3.24；借位後是4個一、9個十分之一、12個百分之一。</figcaption></figure>",
+      "id": "g4s1-mathematics-06-s04"
+    },
+    {
+      "title": "一起排：位數不一樣也能相加",
+      "childText": "4.6可以寫4.60，再和0.85對齊。",
+      "html": "<p>算4.6＋0.85，先寫4.60＋0.85。百分位0＋5＝5；十分位6＋8＝14，寫4、進1；個位4＋0＋1＝5，得5.45。</p><p>成人把錯式「4.6＋0.85＝1.31」給孩子看，問4.6加正的長度怎會變小。再找錯位：若把46和85當成相同小數位，已經換掉原數。先估量級再修排版。</p>",
+      "id": "g4s1-mathematics-06-s05"
+    },
+    {
+      "title": "用比較和相反運算檢查",
+      "childText": "合理大小和逐位正確，兩項都要看。",
+      "html": "<p>6.00－2.47＝3.53：6個一換為5個一、9個十分之一、10個百分之一；10－7＝3，9－4＝5，5－2＝3。原數不變，只是換成方便相減的單位。</p><p>加回2.47應等於6.00。再比較3.53大於3而小於4，也符合6減掉2點多會剩3點多。只做估算不能保證百分位正確，因此兩種檢查一起用。</p>",
+      "id": "g4s1-mathematics-06-s06"
+    },
+    {
+      "title": "獨立轉用：先判，再算",
+      "childText": "用尺帶情境，不把離散件數說成小數件。",
+      "html": "<p>紙帶原長7.20公尺，用去3.86公尺，還剩多長？先估範圍，再列直式。將0.45、0.5、0.09由小到大排列並說理由。最後自己設計一個和剛好為2的二位小數加法。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>紙帶長7.20公尺，用去3.86公尺，剩3.34公尺。先預計答案約3到4公尺，再逐位換算；7.20先換成6個一、11個十分之一、10個百分之一後相減。</p><p>出口把0.45、0.5、0.09由小到大排成0.09、0.45、0.5，選一對說明。最後設計一個二位小數加法，讓結果剛好2，例如1.25＋0.75，說出進位如何跨到個位。</p></details>",
+      "id": "g4s1-mathematics-06-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-4-7，以連續量和一百等格引入百分位，與整數十進換單位連結。成人先確認孩子看出10列各10格，而非只認37塗色格；一整張固定為1。0.37可從30格與7格拆解成0.3和0.07，幫助分辨0.37與3.7而不引入千分位計算。</p><p>直式均以小數點為欄位分界，讓孩子先口述每一欄的單位。2.75加1.68包含兩次進位，5.02減1.78包含跨零借位，成人必須要求說出借位後4、9、12各是什麼量。借位記錄可寫在紙上位值欄，不把12誤讀成小數點後新添兩位。4.6改4.60是等值改寫，並非把原長度放大。</p><p>支持組先用0.37百格及0.5換0.50，再做不進位加法；能辨認單位後才回主例。熟練組判斷錯式或創造和為2的例子，不進入三位小數與小數乘除。出口觀察等值補零、比較順序、直式對位、進退位及用加回驗算的能力，保留孩子說出的單位以區分概念錯和抄寫錯。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-mathematics-06-q01",
+      "question": "100等格中塗37格，整張是1，表示？",
+      "options": [
+        "3.7",
+        "0.37",
+        "0.73"
+      ],
+      "answer": 1,
+      "hint": "每格是百分之一。",
+      "explanation": "37個百分之一寫成0.37，前三十格為0.3，另七格為0.07。"
+    },
+    {
+      "id": "g4s1-mathematics-06-q02",
+      "question": "哪兩個數表示相同長度？",
+      "options": [
+        "0.05和0.5",
+        "0.5和0.50",
+        "2.03和2.3"
+      ],
+      "answer": 1,
+      "hint": "一個十分之一等於十個百分之一。",
+      "explanation": "5個十分之一等於50個百分之一，因此0.5與0.50相等。"
+    },
+    {
+      "id": "g4s1-mathematics-06-q03",
+      "question": "3.08和3.8如何比較？",
+      "options": [
+        "3.08＞3.8",
+        "3.08＜3.8",
+        "兩者相等"
+      ],
+      "answer": 1,
+      "hint": "把3.8寫成3.80。",
+      "explanation": "個位都是3，十分位0小於8，所以3.08較小。"
+    },
+    {
+      "id": "g4s1-mathematics-06-q04",
+      "question": "2.75＋1.68等於？",
+      "options": [
+        "4.43",
+        "3.43",
+        "4.33"
+      ],
+      "answer": 0,
+      "hint": "百分位進1到十分位。",
+      "explanation": "5加8進1，再7加6加1進1，最後個位得4，所以4.43。"
+    },
+    {
+      "id": "g4s1-mathematics-06-q05",
+      "question": "5.02借位後哪個分組等量？",
+      "options": [
+        "4個一、10個0.1、12個0.01",
+        "5個一、9個0.1、12個0.01",
+        "4個一、9個0.1、12個0.01"
+      ],
+      "answer": 2,
+      "hint": "取走1個十分之一換10個百分之一。",
+      "explanation": "4＋0.9＋0.12仍是5.02，換單位時必須同時扣去借出的量。"
+    },
+    {
+      "id": "g4s1-mathematics-06-q06",
+      "question": "5.02－1.78等於？",
+      "options": [
+        "3.24",
+        "4.76",
+        "3.34"
+      ],
+      "answer": 0,
+      "hint": "用借位後的4、9、12各欄減。",
+      "explanation": "12減8得4個百分之一，9減7得2個十分之一，4減1得3。"
+    },
+    {
+      "id": "g4s1-mathematics-06-q07",
+      "question": "4.6＋0.85的結果是？",
+      "options": [
+        "1.31",
+        "4.45",
+        "5.45"
+      ],
+      "answer": 2,
+      "hint": "先寫成4.60再對齊。",
+      "explanation": "4.60加0.85得到5.45，且加上正的長度後應比4.6大。"
+    },
+    {
+      "id": "g4s1-mathematics-06-q08",
+      "question": "0.45、0.5、0.09由小到大是？",
+      "options": [
+        "0.09、0.45、0.5",
+        "0.5、0.09、0.45",
+        "0.09、0.5、0.45"
+      ],
+      "answer": 0,
+      "hint": "比較十分位0、4、5。",
+      "explanation": "三數個位相同，十分位依序0、4、5，因此可直接定出大小。"
+    }
+  ],
+  "selfCheck": [
+    "我能把十分之一換成百分之一。",
+    "我加減時對齊小數點。",
+    "我會說清借位後每欄的單位。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-7：二位小數的百分位、比較與直式加減，情境以連續量為主。"
+    }
+  ]
+}

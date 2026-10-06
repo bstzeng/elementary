@@ -74,6 +74,34 @@ for(const id of manifest.lessonIds){
   assert.ok(outsideSvgHtml.includes(`<span lang="en">${pairs.join(' ')}</span>`),'Full plain-text alphabet fallback remains available outside the image');
  }
 
+ if(id==='g4s1-mathematics-08'){
+  const attr=(tag,name)=>tag.match(new RegExp('\\b'+name+'="([^"]+)"'))?.[1]||'';
+  const regions=[...html.matchAll(/<div\b[^>]*class="lesson-table-scroll"[^>]*>[\s\S]*?<\/div>/g)].map(m=>m[0]).filter(r=>r.includes('g4s1-mathematics-08-'));
+  assert.equal(regions.length,2,'Both protractor models have their own scroll region');
+  const names=regions.map(r=>attr(r.slice(0,r.indexOf('>')+1),'aria-label'));
+  assert.equal(new Set(names).size,2,'Right-start and left-start regions have distinct accessible names');
+  const examples=[{side:'right',start:0,end:40,label:'從右側0讀外圈'},{side:'left',start:180,end:60,label:'從左側0讀內圈'}];
+  for(const ex of examples){
+   const region=regions.find(r=>r.includes(`aria-labelledby="g4s1-mathematics-08-${ex.side}"`));assert.ok(region,'Exact protractor model is present');
+   const open=region.slice(0,region.indexOf('>')+1);
+   assert.equal(attr(open,'role'),'region','Protractor scroll wrapper has its semantic region role');assert.equal(attr(open,'tabindex'),'0','Protractor region remains keyboard focusable');assert.ok(attr(open,'aria-label').includes(ex.label),'Accessible region name identifies the correct starting side and scale');
+   const svg=region.match(/<svg\b[\s\S]*?<\/svg>/)?.[0]||'';const svgOpen=svg.slice(0,svg.indexOf('>')+1);const style=attr(svgOpen,'style');
+   assert.equal(attr(svgOpen,'viewBox'),'0 0 360 315');
+   assert.ok(/min-width:\s*360px/.test(style)&&/max-width:\s*none/.test(style)&&/height:\s*auto/.test(style),'Protractor keeps readable width and undistorted geometry');
+   const lines=[...svg.matchAll(/<line\b[^>]*>/g)].map(m=>m[0]);
+   const angle=(x,y)=>Math.atan2(205-y,x-180)*180/Math.PI;
+   const ticks=lines.filter(t=>attr(t,'stroke')==='#465e6c'&&Math.abs(Math.hypot(Number(attr(t,'x1'))-180,Number(attr(t,'y1'))-205)-145)<1e-6);
+   assert.equal(ticks.length,19,'Eighteen equal ten-degree intervals have nineteen endpoints');
+   ticks.forEach((t,i)=>assert.ok(Math.abs(angle(Number(attr(t,'x1')),Number(attr(t,'y1')))-i*10)<1e-6,'Every protractor tick is at its actual ten-degree position'));
+   const numbered=[...svg.matchAll(/(<text\b[^>]*>)(\d+)<\/text>/g)];
+   assert.deepEqual(numbered.map(m=>Number(m[2])),[0,180,30,150,60,120,90,90,120,60,150,30,180,0],'Opposite scales have correct thirty-degree labels');
+   numbered.forEach(m=>assert.ok(Number(attr(m[1],'font-size'))>=16,'Scale labels are not reduced below the reviewed size'));
+   const rays=lines.filter(t=>attr(t,'stroke')==='#ae3535');assert.equal(rays.length,2,'Both actual angle rays are supplied');
+   rays.forEach((t,i)=>{assert.equal(Number(attr(t,'x1')),180);assert.equal(Number(attr(t,'y1')),205);assert.ok(Math.abs(angle(Number(attr(t,'x2')),Number(attr(t,'y2')))-[ex.start,ex.end][i])<1e-6,'Ray geometry matches the stated40-degree/right or120-degree/left opening');});
+  }
+  assert.ok(html.includes('左右方向鍵')&&html.includes('左右滑動'),'Keyboard and touch-scroll instructions are present');
+ }
+
  if(id==='g2s1-mathematics-08'){
   const chart=html.match(/<table class="hundred-chart multiplication-chart">([\s\S]*?)<\/table>/)?.[1];
   assert.ok(chart,'Native product table uses its scoped label-width class');

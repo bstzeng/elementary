@@ -1,0 +1,177 @@
+{
+  "id": "g4s2-mathematics-14",
+  "course": "數學",
+  "title": "長條圖的製作與說明",
+  "subtitle": "把每筆資料放到正確高度，再讓別人讀回同一組數。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "由分類表製作等刻度長條圖",
+    "核對標題單位0基線與等寬條高",
+    "以圖作總量比較且不超出資料推論"
+  ],
+  "materials": [
+    "大型方格紙、直尺與粗筆",
+    "供給的虛構原始點算表"
+  ],
+  "intro": "把每筆資料放到正確高度，再讓別人讀回同一組數。",
+  "sections": [
+    {
+      "title": "要畫圖，先有清楚且完整的資料",
+      "childText": "這次畫的是分類本數，不是時間趨勢。",
+      "html": "<p>虛構展示架原始點算為故事6本、科普10本、詩歌4本、戲劇0本；四類依固定書目分類，每本只算一類。這是教學設定，沒有真實孩子或借閱者資料。</p><p>戲劇0本表示已完整查過而沒有；若其實未點算，必須記未點算，不能用0代替。資料未補齊時先標缺，不假裝畫成完整四類比較。</p><table><caption>原始點算表，畫圖的依據</caption><thead><tr><th scope=\"col\">類別</th><th scope=\"col\">本數</th><th scope=\"col\">資料狀態</th></tr></thead><tbody><tr><th scope=\"row\">故事</th><td>6</td><td>已點算</td></tr><tr><th scope=\"row\">科普</th><td>10</td><td>已點算</td></tr><tr><th scope=\"row\">詩歌</th><td>4</td><td>已點算</td></tr><tr><th scope=\"row\">戲劇</th><td>0</td><td>已點算且沒有</td></tr></tbody></table>",
+      "id": "g4s2-mathematics-14-s01"
+    },
+    {
+      "title": "選刻度：每格代表相同數量",
+      "childText": "底線0，往上每格2本。",
+      "html": "<p>最大10本，畫從0到10的縱軸，每2本一格，需要5個等距間隔。橫軸寫四種類別，縱軸標「本」。數值間隔與圖上間距都要一致。</p><p>可選每格1本，共10格，也能畫對；本課每格2本讓圖更簡潔。不能0、2、4後突然標8卻還用同一格高，否則等長的格子代表不同量，條高會誤導。</p>",
+      "id": "g4s2-mathematics-14-s02"
+    },
+    {
+      "title": "依資料畫等寬、同底線的長條",
+      "childText": "條高跟數量成正比，0也保留類別。",
+      "html": "<p>故事6本畫3格高，科普10本畫5格高，詩歌4本畫2格高；戲劇0本沒有高度，但「戲劇」類別及0的標記留在底線旁。四條使用相同寬度、相等間距。</p><p>看下方完成圖，故事條高是科普的6/10，與本數比例一致。上端的數字是額外核對標籤，不可拿標籤掩蓋畫錯的高度。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 305\" role=\"img\" aria-labelledby=\"g4s2-mathematics-14-make\"><title id=\"g4s2-mathematics-14-make\">虛構展示架各類本數；本為單位，縱軸從0起每格2；故事6本、科普10本、詩歌4本、戲劇0本。</title><text x=\"180\" y=\"24\" text-anchor=\"middle\" font-size=\"19\" fill=\"#183f38\" font-family=\"sans-serif\">虛構展示架各類本數</text><text x=\"35\" y=\"48\" text-anchor=\"middle\" font-size=\"17\" fill=\"#183f38\" font-family=\"sans-serif\">本</text><line x1=\"55\" y1=\"245\" x2=\"335\" y2=\"245\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"55\" y1=\"245\" x2=\"55\" y2=\"55\" stroke=\"#465e6c\" stroke-width=\"2\"/><line x1=\"50\" y1=\"245.0\" x2=\"335\" y2=\"245.0\" stroke=\"#b7c3bf\" stroke-width=\"1\"/><text x=\"40\" y=\"250.0\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><line x1=\"50\" y1=\"209.0\" x2=\"335\" y2=\"209.0\" stroke=\"#b7c3bf\" stroke-width=\"1\"/><text x=\"40\" y=\"214.0\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><line x1=\"50\" y1=\"173.0\" x2=\"335\" y2=\"173.0\" stroke=\"#b7c3bf\" stroke-width=\"1\"/><text x=\"40\" y=\"178.0\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><line x1=\"50\" y1=\"137.0\" x2=\"335\" y2=\"137.0\" stroke=\"#b7c3bf\" stroke-width=\"1\"/><text x=\"40\" y=\"142.0\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><line x1=\"50\" y1=\"101.0\" x2=\"335\" y2=\"101.0\" stroke=\"#b7c3bf\" stroke-width=\"1\"/><text x=\"40\" y=\"106.0\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">8</text><line x1=\"50\" y1=\"65.0\" x2=\"335\" y2=\"65.0\" stroke=\"#b7c3bf\" stroke-width=\"1\"/><text x=\"40\" y=\"70.0\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">10</text><rect x=\"75.0\" y=\"137.0\" width=\"37.5\" height=\"108.0\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"93.75\" y=\"129.0\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">6</text><text x=\"93.75\" y=\"275\" text-anchor=\"middle\" font-size=\"17\" fill=\"#183f38\" font-family=\"sans-serif\">故事</text><rect x=\"135.0\" y=\"65.0\" width=\"37.5\" height=\"180.0\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"153.75\" y=\"57.0\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">10</text><text x=\"153.75\" y=\"275\" text-anchor=\"middle\" font-size=\"17\" fill=\"#183f38\" font-family=\"sans-serif\">科普</text><rect x=\"195.0\" y=\"173.0\" width=\"37.5\" height=\"72.0\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"213.75\" y=\"165.0\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">4</text><text x=\"213.75\" y=\"275\" text-anchor=\"middle\" font-size=\"17\" fill=\"#183f38\" font-family=\"sans-serif\">詩歌</text><rect x=\"255.0\" y=\"245.0\" width=\"37.5\" height=\"0.0\" fill=\"#8ec9b2\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"273.75\" y=\"237.0\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"273.75\" y=\"275\" text-anchor=\"middle\" font-size=\"17\" fill=\"#183f38\" font-family=\"sans-serif\">戲劇</text></svg><figcaption>虛構展示架各類本數；本為單位，縱軸從0起每格2；故事6本、科普10本、詩歌4本、戲劇0本。</figcaption></figure>",
+      "id": "g4s2-mathematics-14-s03"
+    },
+    {
+      "title": "畫完反讀，逐條對回表格",
+      "childText": "題名、單位、0點、刻度、條高一項項查。",
+      "html": "<p>成人先遮原表，孩子從圖讀回6、10、4、0，再揭表比較。如果科普條頂在8卻標10，圖和數字互相衝突，必須把條修到10，不只改口說答案。</p><p>標題寫「虛構展示架各類本數」，不能寫「大家最愛的書」，因沒有喜好資料。類別排列可以改，但每一條的名稱與本數須一起移，不能只搬條而留標籤。</p><table><caption>交付前的核對</caption><thead><tr><th scope=\"col\">檢查項目</th><th scope=\"col\">本圖應有</th></tr></thead><tbody><tr><th scope=\"row\">標題與單位</th><td>虛構各類本數；本</td></tr><tr><th scope=\"row\">起點與刻度</th><td>0起，每格2本且等距</td></tr><tr><th scope=\"row\">條形</th><td>等寬、同底線、類別可區分</td></tr><tr><th scope=\"row\">數值</th><td>6、10、4、0逐條吻合</td></tr><tr><th scope=\"row\">文字結論</th><td>只談本批書的數量</td></tr></tbody></table>",
+      "id": "g4s2-mathematics-14-s04"
+    },
+    {
+      "title": "避免用截斷或裝飾放大差異",
+      "childText": "從0起畫，讀者才能直接比條高。",
+      "html": "<p>若把底線改成4卻不清楚說明，6本的條只有2單位高、10本有6單位高，看起來變成三倍；實際10不是6的三倍。本課製作的長條圖固定由0起。</p><p>不把某一條畫特別寬或加立體透視來讓它看似更大；用等寬平面條與完整刻度即可。顏色只協助辨別，不能只靠紅綠色區分，文字標籤要一直保留。</p>",
+      "id": "g4s2-mathematics-14-s05"
+    },
+    {
+      "title": "一起說明：一個總量、一個比較、一個限制",
+      "childText": "講得清楚，比漂亮更重要。",
+      "html": "<p>本圖合計6＋10＋4＋0＝20本；科普比故事多4本，科普最多。戲劇是已確認的0，不是遺漏類別。說明時用手指條頂與刻度，讓別人能查證。</p><p>限制是這只是本批展示架的數量，不代表讀者喜愛程度或其他展示架。也不把書類條頂用線連起來說某東西變多，因類別沒有時間先後。</p>",
+      "id": "g4s2-mathematics-14-s06"
+    },
+    {
+      "title": "獨立轉用：從新表製作自己的圖",
+      "childText": "先畫與寫結論，再看核對清單。",
+      "html": "<p>新批虛構記錄為圓卡8張、三角卡4張、四邊卡6張。選每格2張，畫有標題、類別、單位與0刻度的長條圖，說總張數及最多比最少多幾張。不要直接沿用上圖的書類名稱。</p><details><summary>完成後核對</summary><p>縱軸0、2、4、6、8等距；圓卡高4格、三角卡2格、四邊卡3格，三條等寬同底線。8＋4＋6＝18張，最多8比最少4多4張。</p><p>成人檢查孩子實畫，不只聽18與4兩答案：名稱是否換成卡片、單位張、條高比例是否4比2比3、圖上有無誤連趨勢線。可由孩子口述指示成人畫，保留孩子對刻度與高度的決策。</p></details>",
+      "id": "g4s2-mathematics-14-s07"
+    }
+  ],
+  "teachingHtml": "<p>依D-4-1，本課重點為從表到製作長條圖，再反讀驗證與說明。給定6、10、4、0為分類且已完整點算的虛構資料，0類仍保留標籤及底線數字；未點算則應另記缺資料。成人在讓孩子畫前先確認「一格2本」，實際五個等距間隔到10，不把標數多少誤作條形格數。</p><p>圖形尺寸按縱軸每本18圖面單位生成，長條6、10、4、0對應108、180、72、0高度，寬相同且間距相同。0條只留底線及標記，沒有假畫一個正高度。文字說明數量最大不等於最喜歡，顏色只是輔助。截斷底線錯例用4至6、4至10造成2比6的視覺差，成人引導回原值6與10，不教孩子以裝飾誇大差距。</p><p>支持組提供空白有軸格紙與完整標題欄，孩子決定每條高度；熟練組用每格1與每格2畫同資料並比較比例一致，不加雙縱軸或統計推論。出口評量要看一張真正由孩子決定內容的圖，記下資料轉換、刻度、等寬、0基線、單位及兩句有依據的說明；口述指導成人代畫可替代精細操作，不能只靠選擇題宣稱會製圖。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-mathematics-14-q01",
+      "question": "每格2本，故事6本應畫多高？",
+      "options": [
+        "3格",
+        "6格",
+        "12格"
+      ],
+      "answer": 0,
+      "hint": "6本中有幾份2本？",
+      "explanation": "6除2為3，因此故事條高3格，不能把本數直接當格數。"
+    },
+    {
+      "id": "g4s2-mathematics-14-q02",
+      "question": "縱軸從0到10，每格2本，需要？",
+      "options": [
+        "10個間隔",
+        "4個間隔",
+        "5個間隔"
+      ],
+      "answer": 2,
+      "hint": "依序標0、2、4、6、8、10。",
+      "explanation": "相鄰刻度間共有五段，每段2本，合10本。"
+    },
+    {
+      "id": "g4s2-mathematics-14-q03",
+      "question": "戲劇已點算0本，圖上應？",
+      "options": [
+        "刪掉類別假裝沒這一類",
+        "畫1格讓人看見",
+        "保留類別與0，條高為0"
+      ],
+      "answer": 2,
+      "hint": "0本是有效的點算結果。",
+      "explanation": "0代表已確認沒有，應保留類別並標0，不畫有高度的長條。"
+    },
+    {
+      "id": "g4s2-mathematics-14-q04",
+      "question": "若條頂在8卻標10，怎樣修理？",
+      "options": [
+        "對回原表，將10本的條畫到10",
+        "只讀標籤就好",
+        "把其他條都拉長"
+      ],
+      "answer": 0,
+      "hint": "標數和圖高必須一致。",
+      "explanation": "原表科普10本，條頂應到10刻度，不能讓文字與圖形互相矛盾。"
+    },
+    {
+      "id": "g4s2-mathematics-14-q05",
+      "question": "為什麼四條要同寬且從0起？",
+      "options": [
+        "才能每條都一樣高",
+        "讓條高能公平表示數量",
+        "只是為了好看"
+      ],
+      "answer": 1,
+      "hint": "避免寬度和截斷底線誤導。",
+      "explanation": "等寬同0基線使高度差直接對應數量差，不靠裝飾放大某類。"
+    },
+    {
+      "id": "g4s2-mathematics-14-q06",
+      "question": "圖中四類合計？",
+      "options": [
+        "16本",
+        "20本",
+        "24本"
+      ],
+      "answer": 1,
+      "hint": "把6、10、4、0相加。",
+      "explanation": "6加10加4加0為20本，0類不增加總數但仍是已知紀錄。"
+    },
+    {
+      "id": "g4s2-mathematics-14-q07",
+      "question": "哪個圖名符合資料？",
+      "options": [
+        "大家最愛的書",
+        "虛構展示架各類本數",
+        "每週閱讀高度變化"
+      ],
+      "answer": 1,
+      "hint": "資料只記分類數量。",
+      "explanation": "本數表可以描述展示架各類數量，沒有喜好或按週變化資料。"
+    },
+    {
+      "id": "g4s2-mathematics-14-q08",
+      "question": "新表圓8、三角4、四邊6，每格2張，條高順序？",
+      "options": [
+        "4格、2格、3格",
+        "8格、4格、6格",
+        "2格、1格、4格"
+      ],
+      "answer": 0,
+      "hint": "每個張數都除以每格2張。",
+      "explanation": "8除2為4、4除2為2、6除2為3，比例與原表一致。"
+    }
+  ],
+  "selfCheck": [
+    "我先確認每格代表的量。",
+    "我畫等寬同0基線的長條。",
+    "我能從自己畫的圖讀回原表。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。D-4-1：製作長條圖與報讀說明；分類資料不連成有序變化折線，0與缺資料分開。"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "g4s1-mathematics-01",
+  "course": "數學",
+  "title": "一億以內的數與位值",
+  "subtitle": "讓零守住位置，用位值把大數看清楚。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "認識萬到億的位值與十進關係",
+    "讀寫及比較一億以內的數",
+    "用分組和位值核對大數加減"
+  ],
+  "materials": [
+    "大張位值表、粗筆",
+    "完整紙面數字任務卡"
+  ],
+  "intro": "讓零守住位置，用位值把大數看清楚。",
+  "sections": [
+    {
+      "title": "數到萬以後，仍然十個換一個",
+      "childText": "每向左一位，單位就大十倍。",
+      "html": "<p>10個千是1萬，10個萬是1十萬，再往左依次是百萬、千萬；10個千萬是1億。本課最大到100000000，先看懂這個終點，不往更大的數延伸。</p><p>「位」像座位，「值」是這個座位代表的量。同是數字3，放在萬位表示30000，放在百萬位表示3000000。數字長得一樣，不代表數量一樣。</p>",
+      "id": "g4s1-mathematics-01-s01"
+    },
+    {
+      "title": "把數放進位值表",
+      "childText": "空的單位要用0守住位置。",
+      "html": "<p>看30040506。從右邊數起：6個一、0個十、5個百、0個千、4個萬、0個十萬、0個百萬、3個千萬。因此它是30000000＋40000＋500＋6。</p><p>先把每四位看成一組：3004｜0506，讀作「三千零四萬零五百零六」。分組只是幫忙讀數，不能把組內的0省去，否則各數字會換到不同的座位。</p><table><caption>30040506的每一位</caption><thead><tr><th scope=\"col\">位名</th><th scope=\"col\">數字</th><th scope=\"col\">這一位的量</th></tr></thead><tbody><tr><th scope=\"row\">千萬</th><td>3</td><td>30000000</td></tr><tr><th scope=\"row\">百萬</th><td>0</td><td>0</td></tr><tr><th scope=\"row\">十萬</th><td>0</td><td>0</td></tr><tr><th scope=\"row\">萬</th><td>4</td><td>40000</td></tr><tr><th scope=\"row\">千</th><td>0</td><td>0</td></tr><tr><th scope=\"row\">百</th><td>5</td><td>500</td></tr><tr><th scope=\"row\">十</th><td>0</td><td>0</td></tr><tr><th scope=\"row\">個</th><td>6</td><td>6</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-01-s02"
+    },
+    {
+      "title": "同一個數可以有不同分組",
+      "childText": "3萬和30個千是同樣的量。",
+      "html": "<p>420000可以說42個萬，也可以說4個十萬和2個萬。420000÷10000＝42；重點是每一包的單位已經說清楚，不能只說「有42」而省略是42個什麼。</p><p>在紙上畫4個大框，各寫10萬，再畫2框各寫1萬；把一個10萬框換成10個1萬記號，總量仍42萬。畫框代表量，框的實際大小不是數量比例。</p><table><caption>換一種分組，總量不變</caption><thead><tr><th scope=\"col\">數</th><th scope=\"col\">第一種說法</th><th scope=\"col\">另一種說法</th></tr></thead><tbody><tr><th scope=\"row\">70000</th><td>7個萬</td><td>70個千</td></tr><tr><th scope=\"row\">420000</th><td>42個萬</td><td>4個十萬和2個萬</td></tr><tr><th scope=\"row\">100000000</th><td>1個億</td><td>10個千萬</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-01-s03"
+    },
+    {
+      "title": "比較大數，從最高位找第一個不同",
+      "childText": "後面的數字不能推翻前面已分出的大小。",
+      "html": "<p>比較39876000和40123000：前者有3個千萬，後者有4個千萬，所以39876000＜40123000。前者後面有9，不能因此判它較大。</p><p>比較30040506與30045006，千萬、百萬、十萬、萬都相同；到千位，0小於5，所以前者較小。逐位指讀，比靠數字看起來熱鬧可靠。</p>",
+      "id": "g4s1-mathematics-01-s04"
+    },
+    {
+      "title": "大數加減仍讓同單位相加",
+      "childText": "30萬1200加21萬300，要對齊位值。",
+      "html": "<p>30萬1200＝301200；21萬300＝210300。將兩數對齊，個位對個位，加得511500，也就是51萬1500。不能把1200和300直接接成1200300。</p><p>再算301200－210300：百位2不夠減3，向千位的1借1千成10百，百位變12百，算12－3＝9百；千位剩0，萬位0不夠減1，向十萬位3借1，成10萬，得到9萬和2十萬減2十萬後剩0十萬，結果90900。用210300＋90900＝301200核對。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 132\" role=\"img\" aria-labelledby=\"g4s1-mathematics-01-add\"><title id=\"g4s1-mathematics-01-add\">301200加210300等於511500，各位對齊。</title><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"178\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"144\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"110\" y=\"38\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"280\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">3</text><text x=\"178\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"144\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"110\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">2</text><text x=\"76\" y=\"76\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">+</text><text x=\"280\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"246\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">0</text><text x=\"212\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><text x=\"178\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"144\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"110\" y=\"114\" text-anchor=\"middle\" font-size=\"25\" fill=\"#183f38\" font-family=\"sans-serif\">5</text><line x1=\"105\" y1=\"86\" x2=\"302\" y2=\"86\" stroke=\"#465e6c\" stroke-width=\"2\"/></svg><figcaption>301200加210300等於511500，各位對齊。</figcaption></figure>",
+      "id": "g4s1-mathematics-01-s05"
+    },
+    {
+      "title": "一起做：數字卡搬家",
+      "childText": "移動數字後，先說它的單位變了什麼。",
+      "html": "<p>成人畫八欄位值表，放入50703020。孩子讀出「五千零七十萬三千零二十」，指出7在十萬位，值700000。再把7移到萬位，其他數字不動，十萬位改0，得到50073020。</p><p>兩數差630000，因為700000換成70000，少了630000。先用單位說清楚，再用減法核對。若搬動後忘記原欄補0，回到表格重新放，不急著背讀法。</p>",
+      "id": "g4s1-mathematics-01-s06"
+    },
+    {
+      "title": "自己轉用：把資訊寫清楚",
+      "childText": "數字、讀法、分組，都要指向同一個量。",
+      "html": "<p>虛構資料庫有20506000筆圖形紀錄。請以萬為單位分組寫數，指出5的位值，再和20560000比較。出口：寫出3個千萬、2個萬、8個百合成的數，放回位值表驗證；說明100000000如何由千萬換成億。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>一個虛構資料庫有20506000筆圖形紀錄。請寫成「2050萬6000」，指出5在十萬位；再和20560000比較。前者較小，因兩數到十萬位都相同，萬位0小於6。這是教學設定，不是真實網站統計。</p><p>出口題：寫一個有3個千萬、2個萬、8個百的數，答案30020800；讀數後倒回位值表驗證。最後回答100000000為何正好是1億，說出十個千萬合成一億，而不是靠數0猜。</p></details>",
+      "id": "g4s1-mathematics-01-s07"
+    }
+  ],
+  "teachingHtml": "<p>教學先由已知的千和萬作十進換單位，接到十萬、百萬、千萬及一億終點。依N-4-1不擴展到超過一億。成人將讀數與寫數分開觀察：孩子讀錯零的停頓時，先請其指出每一位的量，不把口語不順直接判為位值不懂。主要數30040506含連續零與中間零，可檢查是否把所有零一律刪去。</p><p>位值表要完整保留八欄；一億另添最左欄只用於終點。紙框的大小是包裝記號，非數量面積模型。換成42個萬時問每包裝多少，使非標準分組有單位意義。比較時讓孩子遮住已相同部分，再指出第一個不同的位，避免逐個找最大數字。</p><p>支持組先在六位數內做7萬與70千交換，能說明後再增位數；熟練組可構造兩個含零大數，互相給讀法、展開式並檢查，但仍不超過一億。大數減法若位值負擔高，可拆成30萬1200減21萬再減300，與直式對照。出口分別檢查讀寫、拆合、比較與借位，每一項保留孩子實際說出的單位。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-mathematics-01-q01",
+      "question": "30040506中的4表示？",
+      "options": [
+        "4000",
+        "40000",
+        "400000"
+      ],
+      "answer": 1,
+      "hint": "先找4右邊有幾個位置。",
+      "explanation": "4在萬位，表示4個一萬，也就是40000。"
+    },
+    {
+      "id": "g4s1-mathematics-01-q02",
+      "question": "42萬可以怎麼說？",
+      "options": [
+        "4個十萬和2個萬",
+        "4個萬和2個千",
+        "42個千"
+      ],
+      "answer": 0,
+      "hint": "每個十萬含10個萬。",
+      "explanation": "4個十萬是40萬，再加2萬，總數就是42萬。"
+    },
+    {
+      "id": "g4s1-mathematics-01-q03",
+      "question": "39876000和40123000，哪個較大？",
+      "options": [
+        "39876000",
+        "兩數相等",
+        "40123000"
+      ],
+      "answer": 2,
+      "hint": "由最左邊的千萬位比起。",
+      "explanation": "4個千萬多於3個千萬，後面的位數不會改變比較結果。"
+    },
+    {
+      "id": "g4s1-mathematics-01-q04",
+      "question": "3004｜0506按萬分組，哪個數正確？",
+      "options": [
+        "3004506",
+        "30040506",
+        "3004056"
+      ],
+      "answer": 1,
+      "hint": "右側的組需要保留四個位置。",
+      "explanation": "0506中的0保留千位，省略後會讓前面的數字換位。"
+    },
+    {
+      "id": "g4s1-mathematics-01-q05",
+      "question": "301200＋210300是多少？",
+      "options": [
+        "511050",
+        "511500",
+        "5110500"
+      ],
+      "answer": 1,
+      "hint": "把百、千、萬各自對齊。",
+      "explanation": "30萬加21萬是51萬，1200加300是1500，合為511500。"
+    },
+    {
+      "id": "g4s1-mathematics-01-q06",
+      "question": "301200－210300是多少？",
+      "options": [
+        "900900",
+        "91900",
+        "90900"
+      ],
+      "answer": 2,
+      "hint": "先想相差約9萬，再精算。",
+      "explanation": "210300加90900等於301200，且差約9萬，與估計相符。"
+    },
+    {
+      "id": "g4s1-mathematics-01-q07",
+      "question": "10個千萬合起來是？",
+      "options": [
+        "100000000",
+        "10000000",
+        "1000000"
+      ],
+      "answer": 0,
+      "hint": "滿10就向左換一個新單位。",
+      "explanation": "10個千萬交換成1個億，寫作100000000，正是本課終點。"
+    },
+    {
+      "id": "g4s1-mathematics-01-q08",
+      "question": "3個千萬、2個萬、8個百合成？",
+      "options": [
+        "30020800",
+        "30200800",
+        "30020080"
+      ],
+      "answer": 0,
+      "hint": "在未提到的位填0。",
+      "explanation": "把30000000、20000和800合起來是30020800，零保留空位。"
+    }
+  ],
+  "selfCheck": [
+    "我能說數字在哪一位、值多少。",
+    "我會保留中間的零。",
+    "我從最高位比較大數。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-1：數的範圍到一億，含大數加減與位值應用。"
+    }
+  ]
+}
