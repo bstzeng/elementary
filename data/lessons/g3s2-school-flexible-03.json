@@ -1,0 +1,182 @@
+{
+  "id": "g3s2-school-flexible-03",
+  "course": "彈性學習課程",
+  "title": "英語故事與情境演出",
+  "subtitle": "讀懂原創英語小故事，用角色卡與台詞演出尋找過程",
+  "duration": "3次，每次25–30分鐘；依閱讀及操作需要分段",
+  "goals": [
+    "能以中文或指卡重述英語故事的重要事件。",
+    "能在實際成人示範下使用短句問位置與回應。",
+    "能依新道具位置改演，不只背同一段台詞。"
+  ],
+  "materials": [
+    "本頁完整原創文本、情境卡或資料表",
+    "紙、粗筆與大字卡；可由成人代讀代筆，不需登入帳號"
+  ],
+  "intro": "用完整原創故事《The Red Star》練習人物、問題、線索與找到的結果；先理解，再由合適成人提供語音模型。",
+  "sections": [
+    {
+      "title": "演故事先知道發生什麼",
+      "childText": "動作和語句要說同一件事。",
+      "html": "<p>情境演出不是把英語念得越快越好。先知道誰找什麼、看了哪裡、最後在哪裡找到，再把短句接到動作。聽的人即使不懂每一字，也能用紙卡與順序理解；演的人不能說在盒裡，卻把卡放書下而不解釋。</p><p>本課star是紙星星卡，不是真實天體；book和box也用大紙卡表示，不翻找真實私人物品。May、Sam都是虛構角色，孩子不需提供名字或拍照。可坐姿指卡、旁白代讀或安靜觀看，不要求背稿上臺。</p><p>本頁沒有音訊，也未驗聽任何錄音。成人課前核對完整英文腳本及詞義，能提供清楚自然模型後才做聽說；沒有合適示範時先做文字故事理解，不宣稱已評量英語聽力與發音。</p>",
+      "id": "g3s2-school-flexible-03-s01"
+    },
+    {
+      "title": "完整故事：The Red Star",
+      "childText": "每個線索都在這裡。",
+      "html": "<div class=\"story\"><h3 lang=\"en\">The Red Star</h3><p lang=\"en\">May has a red paper star.<br>She puts it on the book.<br>Sam puts a card on the table.<br>The card pushes the star under the book.<br>May: Where is the star?<br>Sam: Is it in the box?<br>May: No. The box is empty.<br>Sam looks under the book.<br>Sam: Look! It is under the book.<br>May: Here it is! Thank you.<br>Sam: You’re welcome.<br>They put the star in the box.</p></div><p>全文意思：May有紅紙星，先放在書上；Sam放紙卡時把星卡推到書下。May找星卡，Sam猜在盒裡，但盒子是空的。Sam看書下找到星卡，May道謝，最後兩人把星卡收進盒子。</p><p>敘事長句由成人讀或用中文交代，不要求孩子獨立解碼全部單字。角色可只讀五個核心短句：Where is the star?／Is it in the box?／No.／Look!／Thank you. 其他句由旁白補完整，避免用省略台詞把情節弄斷。</p>",
+      "id": "g3s2-school-flexible-03-s02"
+    },
+    {
+      "title": "完整場景與位置卡",
+      "childText": "找到的位置和最後收好的位置不同。",
+      "html": "<table><caption>原創紙上場景狀態，所有位置已供應</caption><thead><tr><th scope=\"col\">時點</th><th scope=\"col\">星卡位置</th><th scope=\"col\">盒子狀態</th></tr></thead><tbody><tr><th scope=\"row\">開始</th><td>星卡疊在書卡表面，表示on the book</td><td>空</td></tr><tr><th scope=\"row\">紙卡推過後</th><td>星卡放在書卡底下並被部分遮住，表示under the book</td><td>空</td></tr><tr><th scope=\"row\">找到當下</th><td>仍在書卡底下，被Sam指出</td><td>空</td></tr><tr><th scope=\"row\">結尾收好</th><td>盒子框裡，表示in the box</td><td>有紅星卡</td></tr></tbody></table><table><caption>本課詞句意思卡</caption><thead><tr><th scope=\"col\">英語</th><th scope=\"col\">本故事意思</th></tr></thead><tbody><tr><th scope=\"row\">Where is the star?</th><td>星卡在哪裡？</td></tr><tr><th scope=\"row\">Is it in the box?</th><td>它在盒子裡嗎？</td></tr><tr><th scope=\"row\">It is under the book.</th><td>它在書下面。</td></tr><tr><th scope=\"row\">Here it is!</th><td>原來在這裡！</td></tr><tr><th scope=\"row\">The box is empty.</th><td>盒子是空的。</td></tr></tbody></table><p>成人備4張大道具卡：紅星卡、標有book的書卡、畫盒子輪廓並標box的盒框卡，以及Sam放下的空白紙卡。on用星卡疊在書卡表面表示；under用星卡放在書卡底下、讓書卡部分蓋住表示；in用星卡放進盒子輪廓內表示。不是把星卡只排在頁面的較上方或較下方。移卡只表示故事情節，不必真用空白卡推動星卡穿到另一張卡底下。也可用「在書上面／在書下面／在盒裡」大字卡並由成人完整描述，記錄文字或描述支持；不需要把手伸進真箱子。</p>",
+      "id": "g3s2-school-flexible-03-s03"
+    },
+    {
+      "title": "成人示範與一起排演",
+      "childText": "先聽完整，再拆成短回合。",
+      "html": "<p>成人先完整讀故事，孩子排列開始、找、找到、收好四張事件卡。第二遍由成人自然讀核心短句，配相應動作；孩子先指詞句意思再選是否跟讀。不用中文諧音替英語標音，不把所有句子要求同一種口音。</p><ol><li>May指問題卡，說Where is the star?</li><li>Sam指盒子框問Is it in the box?，May依空盒回答No.</li><li>Sam看書卡下方，說Look!，旁白補It is under the book.</li><li>May表示找到並道謝，最後卡片員把星卡收進盒框。</li></ol><p>交換角色時保留相同故事，讓每人能試另一用途。讀一句就立刻拿走全部字卡可能增加記憶負擔，應讓孩子選擇看稿、指卡或短暫無稿。錄音和上傳不是本課要求。</p><p>若做實際聽辨，成人遮住英語句卡，讀under the book、in the box、on the book，孩子指中文位置卡；重讀與視覺提示要記錄。</p>",
+      "id": "g3s2-school-flexible-03-s04"
+    },
+    {
+      "title": "修理三種演出錯位",
+      "childText": "用故事證據修，不只再念大聲。",
+      "html": "<p>錯誤一：聽到box便回答星卡一直在盒裡。回四狀態表，故事中問盒子時它是空的；星卡最後才收進去。問題句不等於事實句，要聽或讀到回答。</p><p>錯誤二：說under，卡卻放在書上。先用中文確認下面，再讓成人示範短語，孩子調整卡片。位置與英語要同步，不只糾正口型而忽略意思。錯誤三：說找到是因為Sam用了魔法。全文是他看書下，沒有魔法情節。</p><p>同伴忘詞可等、指句或請成人提示，不能替他搶完所有台詞。結束後說「你問盒子後有等回答」比只說聲音大更能指出交流能力。文字測驗只看故事理解，不代替實際輪流問答。</p>",
+      "id": "g3s2-school-flexible-03-s05"
+    },
+    {
+      "title": "獨立轉用：The Blue Card",
+      "childText": "這次答案真的在盒子裡。",
+      "html": "<div class=\"story\"><h3 lang=\"en\">The Blue Card</h3><p lang=\"en\">Lee has a blue card.<br>Lee puts it in the box.<br>Kim: Where is the card?<br>Lee: It is in the box.<br>Kim: Is it under the book?<br>Lee: No. Look!<br>Lee points to the box.<br>Kim: Thank you.</p></div><p>完整意思：Lee把藍卡放盒中，Kim問在哪裡，又猜是不是書下；Lee否定並指盒子。成人先核對並示範新詞card，孩子根據全文排卡，不照上一故事把卡藏到書下。</p><p>自己選角色，把問題、回答、指認和道謝排成小演出，指出它和紅星故事的一個差異。可中文重述加英語短句，不要求一次全英語。</p><details><summary>完成後核對</summary><p>藍卡一直在盒裡；書下只是Kim的猜測。紅星則先在書上、被推到書下，最後才收進盒。兩篇問題都不能直接當答案。</p></details>",
+      "id": "g3s2-school-flexible-03-s06"
+    },
+    {
+      "title": "留下三種不同的證據",
+      "childText": "懂故事、聽到位置、自己回應分開看。",
+      "html": "<p>理解證據：排出紅星四狀態並用中文說差別。聽辨證據：成人真正讀位置短語、孩子指卡，記有沒有重讀。口說證據：孩子依新卡位置回答，不看完整答案或在模型後跟讀，兩種情況分別記，不用選擇題分數替代。</p><p>離堂請孩子說一個「問題句」與一個「已確認的位置」。若不想說英語，可以指兩張句卡，這仍能證明區分用途；成人不能因此填寫獨立英語發音熟練。</p><p>演出結束後，紙卡回指定桌面盒，作品留課內回看。下次練習可改問答順序而不一下增加很多新字，讓注意力放在依情境理解與回應。</p>",
+      "id": "g3s2-school-flexible-03-s07"
+    }
+  ],
+  "teachingHtml": "<h3>英語故事實施前提</h3><p>成人先核對完整兩篇英語，敘事長句由成人讀或中文補述，兒童核心產出限短問答。這是讀者劇場示例，不是字母拼讀課，也沒有音訊驗聽證據。首節理解四狀態，次節成人示範及輪演，末節用Blue Card轉用。</p><p>評量人物事件、問題和事實區分、實際聽辨、實際口語回應各別紀錄。語音模型未能保證時，只做視讀理解並另安排合格成人口語教學。支持者保留全文與中文意思，進階者改一個位置再回答，不能把背熟舊句算轉用。紙道具、安全坐姿、指卡與AAC都可，不錄音、上傳或要求真實私人資料。</p><p>教學前先讀完整刺激材料及答案理由。若答案與孩子的證據不同，請他定位原文再討論；能提出符合條件的新答案時，不因用詞不同而扣分。每回合保留暫停與重試，學習進展以所需支持和理由的改變記錄。</p><h3>課程定位與可近用</h3><p>本頁是三年級校訂彈性課程示例，三、四年級同屬第二學習階段，學期安排由編者提出。所有教學人物、紀錄與情境均為原創，來源另有明確註記。可代讀、口述、指卡、排紙卡或使用既有輔助溝通方式；代筆與內容提示分開記錄，不以字跡、速度、音量、眼神或公開上臺意願評分。</p><h3>形成性評量與保護</h3><p>保留一次初答、根據線索的修改及獨立轉用作品。每項記「獨立／提示後／共同完成」，選擇題只提供概念辨識證據，不能代替實作或口語觀察。讓孩子指出實際用到的句子或資料格，而非背成人結論。不要求真實姓名、地址、照片、家庭私事或帳號密碼，不錄音上傳，不聯絡陌生人；發表只在課內自願進行，成人協助前先詢問意願。真實活動需由教師另行確認場地、材料及安全安排，紙上替代可以完成本課。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-school-flexible-03-q01",
+      "question": "紅星故事開始時星卡在哪？",
+      "options": [
+        "盒裡",
+        "真實操場",
+        "書上"
+      ],
+      "answer": 2,
+      "hint": "看全文最初兩句。",
+      "explanation": "May先把星卡放書上，後來才被推到書下，不能把結尾當開頭。"
+    },
+    {
+      "id": "g3s2-school-flexible-03-q02",
+      "question": "Sam問盒子時，盒子是？",
+      "options": [
+        "空的",
+        "有兩張紅星",
+        "裝滿未供應玩具"
+      ],
+      "answer": 0,
+      "hint": "找May回答後的句子。",
+      "explanation": "May說盒子是空的，所以Sam的猜測不能當成已找到位置。"
+    },
+    {
+      "id": "g3s2-school-flexible-03-q03",
+      "question": "Sam在哪裡找到紅星？",
+      "options": [
+        "書上面",
+        "書下面",
+        "另一所學校"
+      ],
+      "answer": 1,
+      "hint": "找Look之後的位置句。",
+      "explanation": "故事明說Sam看書下面找到星卡，沒有去其他地點尋找。"
+    },
+    {
+      "id": "g3s2-school-flexible-03-q04",
+      "question": "結尾他們把紅星放哪裡？",
+      "options": [
+        "盒子裡",
+        "一直留書下",
+        "丟到窗外"
+      ],
+      "answer": 0,
+      "hint": "最後一句與找到當下不同。",
+      "explanation": "結尾才把星卡收盒中，找到位置和保存位置必須分開。"
+    },
+    {
+      "id": "g3s2-school-flexible-03-q05",
+      "question": "Where is the star?用來？",
+      "options": [
+        "確認已經在盒裡",
+        "詢問星卡的位置",
+        "要求提供私人住址"
+      ],
+      "answer": 1,
+      "hint": "問題句尚未給出答案。",
+      "explanation": "這句詢問位置，本身沒有證明星卡究竟在何處。"
+    },
+    {
+      "id": "g3s2-school-flexible-03-q06",
+      "question": "新故事藍卡在哪裡？",
+      "options": [
+        "書下面",
+        "盒子裡",
+        "沒有資料可知"
+      ],
+      "answer": 1,
+      "hint": "Lee開頭已放入一個地方。",
+      "explanation": "Lee將藍卡放盒中並指認，Kim猜書下被否定，不能沿用紅星答案。"
+    },
+    {
+      "id": "g3s2-school-flexible-03-q07",
+      "question": "只看文字答對，可以證明已聽懂成人英語嗎？",
+      "options": [
+        "一定能",
+        "只要字看得快就能",
+        "不能，要有真正聽辨任務"
+      ],
+      "answer": 2,
+      "hint": "讀和聽取得的證據不同。",
+      "explanation": "文字辨識並非聲音辨識，實際聽力須成人讀出並分開觀察。"
+    },
+    {
+      "id": "g3s2-school-flexible-03-q08",
+      "question": "演出忘詞時，哪個支持合適？",
+      "options": [
+        "保留句卡並允許成人提示",
+        "強迫大聲背完",
+        "用真名照片換提示"
+      ],
+      "answer": 0,
+      "hint": "讓情境理解和參與繼續。",
+      "explanation": "句卡與成人提示能支持交流，需如實記錄支持程度而不強迫表演。"
+    }
+  ],
+  "selfCheck": [
+    "我能分清開頭、找到與結尾的位置。",
+    "我不把問題句當成已確認答案。",
+    "我知道聽說要由實際任務觀察。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜十二年國民基本教育課程綱要總綱",
+      "url": "https://stv.naer.edu.tw/data/course_outline/(111學年度實施)十二年國教課程綱要總綱.pdf",
+      "note": "2026-10-05直接核對官方PDF印刷頁9–12的校訂彈性課程及第二學習階段架構。這是三年級可選示例，主題、上下學期次序與本頁原創材料不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜英語文領域課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接開啟官方73頁PDF，核對第二學習階段生活溝通與尊重文化差異方向。完整英語腳本為本課原創；未驗聽音訊，須由具能力成人課前核對並實際示範，文字題不證明聽說能力。"
+    },
+    {
+      "title": "UNICEF｜兒童權利公約全文",
+      "url": "https://www.unicef.org/child-rights-convention/convention-text",
+      "note": "2026-10-05直接核對不歧視、表達意見及隱私原則。用於課堂參與及界限設計，不作法律個案判定；人物與對話均為原創。"
+    }
+  ]
+}

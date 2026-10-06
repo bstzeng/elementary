@@ -1,0 +1,189 @@
+{
+  "id": "g3s2-english-03",
+  "course": "英語文",
+  "title": "熟悉字詞的認讀與抄寫",
+  "subtitle": "從看懂到抄清楚，讓字母、空格和句號一起傳訊息",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "從看懂到抄清楚，讓字母、空格和句號一起傳訊息。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能把熟悉詞組和物品意思連起來。",
+    "我會對照模型抄寫並檢查字母順序、空格與句號。",
+    "我知道抄寫與默寫不同，可以誠實記錄使用的支持。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "抄寫不是只畫相似線條",
+      "childText": "先知道寫什麼，再保留原本訊息。",
+      "html": "<p>今天的<span lang=\"en\">red pen</span>是紅筆，<span lang=\"en\">a red pen</span>是一枝紅筆，<span lang=\"en\">It is a red pen.</span>是「它是一枝紅筆」。先認讀並用中文說意思，再把文字抄清楚；看不懂意思時只描字形，還需要補上理解。</p><p>本課供應的是印刷文字抄寫參照，不是每個字母的手寫筆順動畫。教師先依學校合法書體示範需要的字形，接納a、g、I、l等正常造型差異。手累可停下，改成指字母或請成人依指示代寫。</p>",
+      "id": "g3s2-english-03-s01"
+    },
+    {
+      "title": "三層完整模型",
+      "childText": "單字、詞組、句子各有工作。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 245\" role=\"img\" aria-labelledby=\"g3s2-english-03-fig\"><title id=\"g3s2-english-03-fig\">原創抄寫對照：單字red、pen；詞組a red pen；句子It is a red pen.。框線只分層次，不是筆順範本。</title><g fill=\"#f0f5fb\" stroke=\"#52738e\"><rect x=\"10\" y=\"15\" width=\"340\" height=\"60\" rx=\"7\"/><rect x=\"10\" y=\"88\" width=\"340\" height=\"60\" rx=\"7\"/><rect x=\"10\" y=\"161\" width=\"340\" height=\"65\" rx=\"7\"/></g><g lang=\"en\" font-size=\"28\" fill=\"#183047\"><text x=\"30\" y=\"55\">red</text><text x=\"183\" y=\"55\">pen</text><text x=\"30\" y=\"128\">a red pen</text><text x=\"30\" y=\"205\">It is a red pen.</text></g></svg><figcaption>原創抄寫對照：單字red、pen；詞組a red pen；句子It is a red pen.。框線只分層次，不是筆順範本。</figcaption></figure><p>第一列兩個單字<span lang=\"en\">red</span>和<span lang=\"en\">pen</span>分別說顏色和用品；第二列把它們放成詞組；第三列是完整句。句首<span lang=\"en\">It</span>的<span lang=\"en\">I</span>大寫，詞之間留空格，最後有句號。這課的大小寫與標點是供閱讀用的具體模型，不是要背抽象文法名稱。</p><p>成人可再畫一枝紅色筆並標「紅pen」幫意思配對，或使用這張完整文字情境，不需要實物尖筆傳接。印刷字體只作辨認，手寫仍依已確認模型。</p>",
+      "id": "g3s2-english-03-s02"
+    },
+    {
+      "title": "示範：看一小段，寫一小段，再核對",
+      "childText": "一次一詞，最後讀全句。",
+      "html": "<p>成人示範抄<span lang=\"en\">It is a red pen.</span>：先看It，說這是開頭，抄完核對I/t；留空再寫is；依序加a、red、pen；最後句號。完成後從左到右對原模型，檢查沒有漏字、換字或把兩詞黏成一個。</p><p>範例錯稿<span lang=\"en\">Itis a red pen.</span>少了It和is之間的空格。修正時把這一處重寫成<span lang=\"en\">It is</span>，不必把整頁全部擦掉。再看<span lang=\"en\">It is a red pn.</span>，這回不是空格，是pen漏e；先找問題類型，修復才準。</p>",
+      "id": "g3s2-english-03-s03"
+    },
+    {
+      "title": "一起做：三張檢查卡",
+      "childText": "字母、空格和意思分別看。",
+      "html": "<p>檢查甲：把<span lang=\"en\">red</span>與<span lang=\"en\">der</span>並排，指出字母順序不同，本課模型要red。檢查乙：把<span lang=\"en\">a red pen</span>與<span lang=\"en\">ared pen</span>並排，找a後的空格。檢查丙：把<span lang=\"en\">It is a red pen.</span>與<span lang=\"en\">It is a blue pen.</span>並排，兩句形式可讀，但顏色資訊不同，不能拿blue代替要抄的red。</p><p>孩子依序拿「字母順序」「詞間空格」「內容一致」三卡配錯稿，成人等孩子指出後才修。不是看到任何差異都說手寫不好，而是給能操作的具體提示。</p>",
+      "id": "g3s2-english-03-s04"
+    },
+    {
+      "title": "修復：不要把支持當失敗",
+      "childText": "看模型抄寫就是這次任務。",
+      "html": "<p>有人遮住範本要求「不看才算會」，這已把抄寫改成默寫。先把模型放回，完成本課看懂、看著抄與核對；若日後想練默寫，要另給明確任務，不假裝兩者相同。</p><p>字距不必每個空格精確一根手指，但要讓詞能分開。左手或其他握筆方式先重視舒適和清楚，不能從字寫得慢推斷態度。成人代寫時由孩子指正確順序和空格位置，可證明規畫能力，但不是獨立手寫。</p>",
+      "id": "g3s2-english-03-s05"
+    },
+    {
+      "title": "自己試：新顏色、新用品",
+      "childText": "抄完整新模型，不沿用舊句。",
+      "html": "<p>新模型：<span lang=\"en\">It is a blue book.</span>，意思是「它是一本藍書」。先指出blue和book分別取代原句哪兩個詞，再看模型抄一遍。完成後只用三張檢查卡自己核對，成人不立即指出錯處。</p><details><summary>核對重點</summary><p lang=\"en\">It is a blue book.</p><p>開頭It保留大寫I；五個詞之間分開；blue與book不可沿用red與pen；句末保留句號。對照抄寫完成，不等於已能離開範本默寫。</p></details><p>若不便書寫，可把大紙詞卡It／is／a／blue／book.排成句，記為詞序操作。</p>",
+      "id": "g3s2-english-03-s06"
+    },
+    {
+      "title": "帶著證據回看進步",
+      "childText": "挑一處修正，比重抄十遍有用。",
+      "html": "<p>原創紀錄：「第一次少It後空格；檢查卡提醒後重寫該處；新句blue/book有依模型更新。」下次目標是先指每個詞間位置，再抄新句。不需要寫真實姓名作評量標題。</p><p>認讀、抄寫、自己校對與默寫分別看。發音和朗讀若要評量，仍須教師實際聽見；一張字形清楚的紙不能證明口語已熟練，也不能單靠成品推定筆順。</p>",
+      "id": "g3s2-english-03-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>先語意配對，再示範分詞抄寫，錯稿分為字母遺漏、詞間空格和內容更動。轉用新句要求有模型抄寫及自查，不偷換成默寫。支持者放大字、減為詞組或用詞卡；進階者自己指出修改證據，不增加抄寫量。教師把認讀、手寫控制與校對分欄，接受合法書體差異。靜態模型不證明筆順，實際動作仍以已確認書寫模型現場觀察，無強迫改慣用手或忍痛書寫。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-03-q01",
+      "question": "本課red pen表示什麼？",
+      "options": [
+        "紅筆",
+        "藍書",
+        "年齡"
+      ],
+      "answer": 0,
+      "hint": "把顏色和物品合起來。",
+      "explanation": "red是紅色、pen是筆，詞組組合出紅筆而非其他物品或年齡。"
+    },
+    {
+      "id": "g3s2-english-03-q02",
+      "question": "Itis a red pen.主要少了什麼？",
+      "options": [
+        "所有字母",
+        "問號",
+        "It和is之間的空格"
+      ],
+      "answer": 2,
+      "hint": "逐詞對照原模型。",
+      "explanation": "原句It與is是兩個詞，少空格會黏在一起，應針對這一處修正。"
+    },
+    {
+      "id": "g3s2-english-03-q03",
+      "question": "It is a red pn.哪個詞要修？",
+      "options": [
+        "pn應補e成pen",
+        "red要刪掉",
+        "It應全部小寫"
+      ],
+      "answer": 0,
+      "hint": "看用品詞的字母是否完整。",
+      "explanation": "模型用品是pen，錯稿漏中間e；不是顏色或句首的問題。"
+    },
+    {
+      "id": "g3s2-english-03-q04",
+      "question": "把red抄成blue，問題是？",
+      "options": [
+        "英文一定不存在blue",
+        "改變原本顏色資訊",
+        "字一定太大"
+      ],
+      "answer": 1,
+      "hint": "形式可讀也要內容一致。",
+      "explanation": "blue是有效色詞，但不同於範本red，抄寫必須保留原有訊息。"
+    },
+    {
+      "id": "g3s2-english-03-q05",
+      "question": "看著模型完成屬什麼任務？",
+      "options": [
+        "抄寫",
+        "一定是默寫",
+        "一定是聽寫"
+      ],
+      "answer": 0,
+      "hint": "任務允許查看原文。",
+      "explanation": "抄寫本來可看模型；默寫不看原文、聽寫則依實際聲音，證據不同。"
+    },
+    {
+      "id": "g3s2-english-03-q06",
+      "question": "新模型It is a blue book.更新哪兩詞？",
+      "options": [
+        "It→red，is→pen",
+        "red→blue，pen→book",
+        "所有詞都不變"
+      ],
+      "answer": 1,
+      "hint": "比較新舊句的內容詞。",
+      "explanation": "新句改顏色和用品，前面的It is a保持相同而不需任意替換。"
+    },
+    {
+      "id": "g3s2-english-03-q07",
+      "question": "不便手寫時如何呈現詞序理解？",
+      "options": [
+        "假稱獨立手寫",
+        "排大紙詞卡並記操作支持",
+        "取消全部參與"
+      ],
+      "answer": 1,
+      "hint": "把理解與動作要求分開。",
+      "explanation": "詞卡排列可呈現順序與空格理解，需如實記支持而非宣稱手寫完成。"
+    },
+    {
+      "id": "g3s2-english-03-q08",
+      "question": "只看成品可以確定什麼？",
+      "options": [
+        "所有筆順都正確",
+        "口語發音一定流利",
+        "可見字形與空格狀況"
+      ],
+      "answer": 2,
+      "hint": "過程和聲音需要另觀察。",
+      "explanation": "成品能檢查外觀內容，但筆順過程與口語聲音不能由靜態紙張推知。"
+    }
+  ],
+  "selfCheck": [
+    "我能把熟悉詞組和物品意思連起來。",
+    "我會對照模型抄寫並檢查字母順序、空格與句號。",
+    "我知道抄寫與默寫不同，可以誠實記錄使用的支持。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "Oxford University Press｜Handwriting",
+      "url": "https://home.oxfordowl.co.uk/english/primary-handwriting/",
+      "note": "2026-10-05正文核對書寫起點、方向、終點、字距、定位線及尊重學校書體。英國年齡分級不作臺灣年級要求；本頁不使用來源建議的沙泥或接觸他人身體活動。"
+    },
+    {
+      "title": "British Council｜Objects around the classroom",
+      "url": "https://www.teachingenglish.org.uk/sites/teacheng/files/2024-04/Objects_around_the_classroom_LP.pdf",
+      "note": "2026-10-05 官方教材核對pencil、pen、book、ruler等物品詞與使用物件或圖卡的教學；本課全部圖、問答與操作原創，沒有複製歌曲，未驗聽。"
+    },
+    {
+      "title": "British Council｜Colours 1",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-colours-1.pdf",
+      "note": "2026-10-05 直接核對官方PDF的基本顏色詞red、blue、yellow、green等。圖片與練習原創，顏色另附文字標記。"
+    }
+  ]
+}

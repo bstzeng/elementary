@@ -1,0 +1,189 @@
+{
+  "id": "g3s1-english-10",
+  "course": "英語文",
+  "title": "顏色與簡單物品描述",
+  "subtitle": "用顏色加物品，讓別人找到你說的那一件",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "用顏色加物品，讓別人找到你說的那一件。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能理解red、blue、yellow、green四種色詞。",
+    "我會分清問顏色與問物品的不同。",
+    "我能用顏色加名詞描述指定圖卡並檢查聽者選擇。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "顏色幫忙縮小範圍",
+      "childText": "不只說一本書，要說是哪種顏色。",
+      "html": "<span lang=\"en\">red</span>紅、<span lang=\"en\">blue</span>藍、<span lang=\"en\">yellow</span>黃、<span lang=\"en\">green</span>綠。<span lang=\"en\">What colour is it?</span>問正在談的物品顏色，可答<span lang=\"en\">It’s red.</span>。本課採colour這個拼字；<span lang=\"en\">color</span>也是常見美式拼字，不當錯字。<p>說物品加顏色可用<span lang=\"en\">It’s a red book.</span>。a後面先放red，再放book，是本課完整模型。只說book時兩本都可能；加入red能在目前三卡中選出甲，但真實場景若有兩本紅書，仍需更多說明。</p>",
+      "id": "g3s1-english-10-s01"
+    },
+    {
+      "title": "實際三卡：顏色不是唯一線索",
+      "childText": "保留中英文字，人人都能核對。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 195\" role=\"img\" aria-labelledby=\"g3s1-english-10-fig\"><title id=\"g3s1-english-10-fig\">原創物品卡：甲紅書red book，乙藍書blue book，丙黃鉛筆yellow pencil；顏色和名稱均以文字標出。</title><rect x=\"16\" y=\"30\" width=\"94\" height=\"83\" fill=\"#b82328\" stroke=\"#202d3c\" stroke-width=\"2\"/><path d=\"M29 32V110\" stroke=\"white\" stroke-width=\"3\"/><text x=\"34\" y=\"83\" fill=\"white\" font-size=\"18\">甲紅</text><rect x=\"132\" y=\"30\" width=\"94\" height=\"83\" fill=\"#194f97\" stroke=\"#202d3c\" stroke-width=\"2\"/><path d=\"M145 32V110\" stroke=\"white\" stroke-width=\"3\"/><text x=\"150\" y=\"83\" fill=\"white\" font-size=\"18\">乙藍</text><path d=\"M254 38H280V109L267 127L254 109Z\" fill=\"#efd13e\" stroke=\"#202d3c\" stroke-width=\"2\"/><path d=\"M254 109H280L267 127Z\" fill=\"#efd7b0\" stroke=\"#202d3c\"/><text x=\"294\" y=\"83\" font-size=\"17\">丙黃</text><g lang=\"en\" font-size=\"16\"><text x=\"17\" y=\"148\">red book</text><text x=\"127\" y=\"148\">blue book</text><text x=\"235\" y=\"175\">yellow pencil</text></g></svg><figcaption>原創物品卡：甲紅書red book，乙藍書blue book，丙黃鉛筆yellow pencil；顏色和名稱均以文字標出。</figcaption></figure><p>甲是紅書，乙是藍書，丙是黃鉛筆。先按文字標籤配詞，再看外觀核對；印刷偏色或色覺差異不影響使用標記學習。成人不遮掉所有文字後把辨色能力誤當英語能力。</p><p>本課圖卡只有一種主要顏色，方便練習。真實物件可有多色，不一定一句It’s red就完整；先指明這回合描述封面、筆身或整張卡。</p>",
+      "id": "g3s1-english-10-s02"
+    },
+    {
+      "title": "示範：問什麼就答什麼",
+      "childText": "同一張卡可以回答不同問題。",
+      "html": "<div class=\"story\"><p>成人指甲：<span lang=\"en\">What’s this?</span></p><p>角色：<span lang=\"en\">It’s a book.</span></p><p>成人仍指甲：<span lang=\"en\">What colour is it?</span></p><p>角色：<span lang=\"en\">It’s red.</span></p><p>角色合起描述：<span lang=\"en\">It’s a red book.</span></p></div><p>教師先確認三種完整句，再自然示範。孩子指出第一問要種類、第二問要顏色；最後句把兩種資訊合起來。若只答red來回應物品問題，先回本課功能對照，不只是要求句子變長。</p>",
+      "id": "g3s1-english-10-s03"
+    },
+    {
+      "title": "一起找：兩項條件都相符",
+      "childText": "顏色對了，種類也要對。",
+      "html": "<p>成人說<span lang=\"en\">It’s a blue book.</span>，孩子選乙；再說<span lang=\"en\">It’s a yellow pencil.</span>，孩子選丙。教師一開始可指色詞和物品詞，第二輪不指答案，逐句自然讀，讓孩子用文字與圖卡核對。</p><p>請孩子說明為什麼甲不是blue book：它是book但紅色，只有一項相符。一次只改一個資訊可看見語言作用：red book換blue book仍是書；yellow pencil換red pencil則要先有相應新卡，不假裝現有三卡一定有答案。</p>",
+      "id": "g3s1-english-10-s04"
+    },
+    {
+      "title": "修復：找不到也可以說找不到",
+      "childText": "不能只湊最近的一張。",
+      "html": "<p>教師故意提出<span lang=\"en\">It’s a green book.</span>。本頁三卡沒有綠書；成人先在大紙寫「沒有符合」做回應卡；孩子可選卡、指這段文字或直接說「沒有符合」。成人確認這是資料不足，不叫孩子硬選紅書。之後畫一張新綠書並標<span lang=\"en\">green book</span>，這才加入可匹配資料。</p><p>錯句示例把詞序排成<span lang=\"en\">a book red</span>。對照已提供的<span lang=\"en\">a red book</span>，把色詞放在名詞前再讀完整句。這是本課句型位置練習，不宣稱所有英文形容語都只可放前面。</p>",
+      "id": "g3s1-english-10-s05"
+    },
+    {
+      "title": "自己試：第四張綠書",
+      "childText": "用新資料更新選擇。",
+      "html": "<p>成人依文字畫一張綠色封面書並明寫「丁green book」，或只用同樣文字紙卡。先問丁顏色，再請孩子用完整句合併顏色與物品。接著問現有卡是否有green pencil，孩子自行判斷。</p><details><summary>完成後核對</summary><p>丁顏色答<span lang=\"en\">It’s green.</span>；合併答<span lang=\"en\">It’s a green book.</span>。四卡仍沒有green pencil，不能因丁綠色就忽略它是書。</p></details><p>自己選一張讓成人只聽你的句子找卡，最後轉正核對。若成人選錯，指出哪個資訊需要重說。</p>",
+      "id": "g3s1-english-10-s06"
+    },
+    {
+      "title": "把觀察與口語分開記",
+      "childText": "兩個條件比一個更精確。",
+      "html": "<p>紀錄例：「看句能用色詞加種類找卡；green pencil題知道沒有符合；口說完整句仍需模型。」這能看出語意組合，不只背顏色名稱。</p><p>可用指詞卡組句、AAC、繪圖或口說，分別記錄。正常英美拼字和口音差異不是錯誤；英語說得可理解由教師實際聽，不用本頁文字題推論未聽過的發音。</p>",
+      "id": "g3s1-english-10-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>先辨色詞，接物品問句與顏色問句對比，再合併雙條件描述。支持者保留兩欄詞卡，進階者檢查不存在的組合與加入新卡後的變化。成人讀新句不先指答案，並註明文字或嘴形支持。圖中有色名與形狀，不能把辨色測驗混為語言測驗。color/colour及自然口音差異接納；課堂以老師示範保持一致即可。活動不碰塗料、混色化學物或真實私人用品。</p>",
+  "exercises": [
+    {
+      "id": "g3s1-english-10-q01",
+      "question": "What colour is it?在問？",
+      "options": [
+        "顏色",
+        "年齡",
+        "數量"
+      ],
+      "answer": 0,
+      "hint": "先看colour的作用。",
+      "explanation": "此句要求顏色資訊，和年齡或數量問題的回答類別不同。"
+    },
+    {
+      "id": "g3s1-english-10-q02",
+      "question": "乙卡完整描述是哪句？",
+      "options": [
+        "It’s a red book.",
+        "It’s a blue book.",
+        "It’s a yellow pencil."
+      ],
+      "answer": 1,
+      "hint": "查乙的兩項標記。",
+      "explanation": "乙同時是藍色和書，blue book兩項都符合，其他句至少一項不同。"
+    },
+    {
+      "id": "g3s1-english-10-q03",
+      "question": "甲答It’s red.是在提供什麼？",
+      "options": [
+        "物品數量",
+        "人名",
+        "顏色"
+      ],
+      "answer": 2,
+      "hint": "句中red是色詞。",
+      "explanation": "red提供紅色資訊，沒有回答數量或人物名字。"
+    },
+    {
+      "id": "g3s1-english-10-q04",
+      "question": "本課名詞前色詞模型哪個正確？",
+      "options": [
+        "a book red",
+        "red a book",
+        "a red book"
+      ],
+      "answer": 2,
+      "hint": "對照完整句It’s a red book.",
+      "explanation": "本課模型把a、顏色red、名詞book依此順序組合，不能任意倒置。"
+    },
+    {
+      "id": "g3s1-english-10-q05",
+      "question": "原本三卡中有green book嗎？",
+      "options": [
+        "沒有",
+        "有，就是甲",
+        "有，就是丙"
+      ],
+      "answer": 0,
+      "hint": "原卡只列紅書、藍書、黃鉛筆。",
+      "explanation": "原三卡沒有綠書，應承認無符合資料，不能把近似顏色或種類當答案。"
+    },
+    {
+      "id": "g3s1-english-10-q06",
+      "question": "加入丁green book後，有green pencil嗎？",
+      "options": [
+        "有，就是丁",
+        "仍沒有",
+        "有，就是乙"
+      ],
+      "answer": 1,
+      "hint": "檢查顏色和種類兩條件。",
+      "explanation": "丁雖綠色卻是書，現有四卡仍沒有同時綠色和鉛筆的物品。"
+    },
+    {
+      "id": "g3s1-english-10-q07",
+      "question": "colour和color在本課應如何看待？",
+      "options": [
+        "color一定錯",
+        "都是常見拼字變體",
+        "兩者表示不同顏色"
+      ],
+      "answer": 1,
+      "hint": "本課已說明英美拼字差異。",
+      "explanation": "兩種拼字可表示相同概念，本課採colour而不把color列成錯誤。"
+    },
+    {
+      "id": "g3s1-english-10-q08",
+      "question": "印刷顏色不清時怎麼辦？",
+      "options": [
+        "依文字標記並請成人核對",
+        "直接說孩子不懂英文",
+        "必須硬猜色彩"
+      ],
+      "answer": 0,
+      "hint": "可近用資訊不只靠顏色。",
+      "explanation": "保留標籤能避免把印刷或色覺差異誤判為英語理解困難。"
+    }
+  ],
+  "selfCheck": [
+    "我能理解red、blue、yellow、green四種色詞。",
+    "我會分清問顏色與問物品的不同。",
+    "我能用顏色加名詞描述指定圖卡並檢查聽者選擇。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Colours 1",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-colours-1.pdf",
+      "note": "2026-10-05 直接核對官方PDF的基本顏色詞red、blue、yellow、green等。圖片與練習原創，顏色另附文字標記。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05直接核對短時、情境式教學、Can I have…?、What colour is it?、It’s…及禮貌框架。人物、全文劇本與圖卡均為本課原創；未驗聽音訊，完整口語須由英語教師課前核對示範。"
+    },
+    {
+      "title": "British Council｜Objects around the classroom",
+      "url": "https://www.teachingenglish.org.uk/sites/teacheng/files/2024-04/Objects_around_the_classroom_LP.pdf",
+      "note": "2026-10-05 官方教材核對pencil、pen、book、ruler等物品詞與使用物件或圖卡的教學；本課全部圖、問答與操作原創，沒有複製歌曲，未驗聽。"
+    }
+  ]
+}

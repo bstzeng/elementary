@@ -1,0 +1,194 @@
+{
+  "id": "g3s1-english-06",
+  "course": "英語文",
+  "title": "教室指令與禮貌用語",
+  "subtitle": "聽懂紙書指令，知道何時重問與求助",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "聽懂紙書指令，知道何時重問與求助。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能把open和close對應到書本狀態。",
+    "我能在遞物、請求和致謝中選用合適句子。",
+    "我知道求助不以英文正確為條件。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "每句有當下用途",
+      "childText": "指令、遞物和致謝要分清。",
+      "html": "<span lang=\"en\">Open your book, please.</span>請打開書；<span lang=\"en\">Close your book, please.</span>請合上書。只用輕薄紙書或指圖，不操作門窗、電器及他人物品。<span lang=\"en\">please</span>在此讓請求較有禮，不代表任何要求都安全或都必須照做。<p>遞物可說<span lang=\"en\">Here you are.</span>，得到幫助可說<span lang=\"en\">Thank you.</span>。需要協助可說<span lang=\"en\">Help, please.</span>，也可立即用熟悉語言、指卡或AAC求助；不能要求說對英文才提供協助。</p>",
+      "id": "g3s1-english-06-s01"
+    },
+    {
+      "title": "實際可見的開始與結果",
+      "childText": "看書的狀態，不靠卡片左右猜。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 180\" role=\"img\" aria-labelledby=\"g3s1-english-06-fig\"><title id=\"g3s1-english-06-fig\">原創書本狀態：甲書合著；乙書攤開。文字標示可直接辨認。</title><rect x=\"25\" y=\"30\" width=\"112\" height=\"90\" rx=\"5\" fill=\"#355d8a\"/><path d=\"M39 32V118\" stroke=\"white\" stroke-width=\"3\"/><text x=\"55\" y=\"83\" font-size=\"18\" fill=\"white\">甲合上</text><path d=\"M190 42Q220 28 252 45Q285 28 330 42V128Q286 113 252 129Q220 115 190 128Z\" fill=\"#fff3d5\" stroke=\"#263849\" stroke-width=\"3\"/><path d=\"M252 45V129\" stroke=\"#263849\"/><text x=\"220\" y=\"156\" font-size=\"18\">乙打開</text></svg><figcaption>原創書本狀態：甲書合著；乙書攤開。文字標示可直接辨認。</figcaption></figure><p>甲合著，收到<span lang=\"en\">Open your book, please.</span>後應接近乙；乙攤開，收到<span lang=\"en\">Close your book, please.</span>後應接近甲。成人先用中文說清楚動作，再由合格教師自然示範英文。</p><p>操作不便可指出結果，由成人代做。選圖可以證明理解，親手開合則是另種動作要求，不混在一起評。書封面顏色不影響open與close的意思，換一本紙書同樣可以練。</p>",
+      "id": "g3s1-english-06-s02"
+    },
+    {
+      "title": "原創示範：紙書準備好了",
+      "childText": "先遞卡，再發出指令。",
+      "html": "<div class=\"story\"><p>成人：<span lang=\"en\">Here you are.</span>（遞紙書卡）</p><p>角色：<span lang=\"en\">Thank you.</span></p><p>成人：<span lang=\"en\">Open your book, please.</span></p><p>角色指乙，成人依指示打開紙書。</p><p>成人：<span lang=\"en\">Close your book, please.</span></p><p>角色指甲，成人依指示合上紙書。</p></div><p>教師課前確認全文再分角色示範。孩子指出哪句遞物、哪句致謝、哪句讓書打開。若只是跟隨成人的手部動作，應記有示範支持，不能直接宣布已獨立聽懂。</p>",
+      "id": "g3s1-english-06-s03"
+    },
+    {
+      "title": "一起練：去掉答案手勢",
+      "childText": "同一句重複，意思不一定改變。",
+      "html": "<p>第一輪教師一邊指圖一邊讀<span lang=\"en\">Open your book, please.</span>、<span lang=\"en\">Close your book, please.</span>；第二輪不指圖，依序讀<span lang=\"en\">Close your book, please.</span>、<span lang=\"en\">Open your book, please.</span>、<span lang=\"en\">Open your book, please.</span>。每句留等待，孩子指甲或乙。</p><p>連續兩次open不代表第二次要反做；書已開著，可保留打開或再指出乙。理解目標狀態比每句都做新動作重要。成人若同時說中文翻譯，記為有翻譯支持，與純英文聽辨分開。</p>",
+      "id": "g3s1-english-06-s04"
+    },
+    {
+      "title": "聽不清楚先修復",
+      "childText": "不懂時可以停下，請人再說。",
+      "html": "<span lang=\"en\">Please say that again.</span>請再說一次；<span lang=\"en\">Help, please.</span>請幫忙。教師先在兩種情境自然示範，孩子可指相應卡。真實急需協助時不必先分清哪句較好，立即用能用的方式求助。<p>聽close卻指打開時，先核對中文「合上」概念，再對比完整兩句，也確認孩子是否沒聽清或圖太小。不要立刻責罵不專心。只修這一處，再給新順序；英文不熟不等於不願合作。</p>",
+      "id": "g3s1-english-06-s05"
+    },
+    {
+      "title": "自己試：換封面和位置",
+      "childText": "變了外觀，仍照句意做。",
+      "html": "<p>把甲乙圖交換左右，改用另一色的紙書。教師說<span lang=\"en\">Open your book, please.</span>，孩子選結果；再說<span lang=\"en\">Close your book, please.</span>。成人不指答案，完成後遞一張完成卡，讓孩子選是否用<span lang=\"en\">Thank you.</span>。</p><details><summary>完成後核對</summary><p>open配打開的乙狀態，close配合上的甲狀態；左右與封面改變不更改意思。遞物者可說Here you are，受助者可說Thank you。</p></details><p>再讓孩子選一句，成人依句做，孩子核對成人是否理解。可以只指句卡，不需要突然變成全班口頭指揮。</p>",
+      "id": "g3s1-english-06-s06"
+    },
+    {
+      "title": "回饋要說出實際支持",
+      "childText": "真實需要優先處理。",
+      "html": "<p>紀錄例：「換位置後open選乙；close需要再聽一次；會在遞卡後選Thank you。」記錄有重聽並不扣掉努力，而是找出下一步。成人代開書則記「理解獨立，操作有支持」。</p><p>重要安全訊息應用孩子能理解的語言說清楚；喝水、休息、如廁或不舒服都不以英語表現為門檻。本課只有紙上情境，不模擬緊急電話，也不安排跑跳服從遊戲。</p>",
+      "id": "g3s1-english-06-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>先對照書本狀態，再由手勢加語音逐步到不指答案，最後換紙書與圖卡位置。支持者指圖、成人代操作；進階者選句指揮成人並核對，不增加危險動作。聲音模型由教師確認，未能提供則先做文字配對，不能宣稱聽辨完成。評量把詞意、禮貌用途、操作與支持條件分開；不將服從、音量或公開表演當語言成果。</p>",
+  "exercises": [
+    {
+      "id": "g3s1-english-06-q01",
+      "question": "Open your book, please.對應哪個結果？",
+      "options": [
+        "書打開",
+        "書合上",
+        "撕掉書頁"
+      ],
+      "answer": 0,
+      "hint": "查乙圖的狀態。",
+      "explanation": "open在本課指打開書，結果是攤開，而非合上或破壞紙書。"
+    },
+    {
+      "id": "g3s1-english-06-q02",
+      "question": "close在本課書本指令中表示？",
+      "options": [
+        "塗色",
+        "合上",
+        "丟掉"
+      ],
+      "answer": 1,
+      "hint": "看甲圖提供的動作結果。",
+      "explanation": "close與合上書的狀態對應，沒有塗色或丟掉物品的要求。"
+    },
+    {
+      "id": "g3s1-english-06-q03",
+      "question": "遞給對方紙卡時哪句合適？",
+      "options": [
+        "I’m nine.",
+        "What’s your name?",
+        "Here you are."
+      ],
+      "answer": 2,
+      "hint": "這一輪是在遞物。",
+      "explanation": "Here you are可配遞物情境，年齡或姓名句不傳達這個用途。"
+    },
+    {
+      "id": "g3s1-english-06-q04",
+      "question": "卡片左右交換後，open的意思？",
+      "options": [
+        "仍是打開",
+        "變為合上",
+        "永遠是左邊"
+      ],
+      "answer": 0,
+      "hint": "將詞意和卡片位置分開。",
+      "explanation": "移動圖卡只改位置，不會改變英語指令中open的意思。"
+    },
+    {
+      "id": "g3s1-english-06-q05",
+      "question": "書已打開，再聽到open時怎樣？",
+      "options": [
+        "必須合上",
+        "必須撕一頁",
+        "保留打開的狀態"
+      ],
+      "answer": 2,
+      "hint": "注意指令要求的結果。",
+      "explanation": "相同指令可以要求同一狀態，不需要為了有動作而做相反事。"
+    },
+    {
+      "id": "g3s1-english-06-q06",
+      "question": "需要幫忙但不會英文時怎樣？",
+      "options": [
+        "等背熟才求助",
+        "立即用熟悉方式求助",
+        "忍住不說"
+      ],
+      "answer": 1,
+      "hint": "真實需要不是英語考試。",
+      "explanation": "協助不能以語言正確為條件，中文、指認或AAC都可立即使用。"
+    },
+    {
+      "id": "g3s1-english-06-q07",
+      "question": "看教師答案手勢後選對，應記錄？",
+      "options": [
+        "完全獨立聽辨",
+        "有視覺提示後完成",
+        "完全沒有學習"
+      ],
+      "answer": 1,
+      "hint": "把提示寫清楚。",
+      "explanation": "提示後完成仍有價值，但不能冒充沒有提示的獨立聽辨證據。"
+    },
+    {
+      "id": "g3s1-english-06-q08",
+      "question": "close與open混淆時先怎麼做？",
+      "options": [
+        "責罵不專心",
+        "馬上增加十句",
+        "核對意思和支持需要再對比練"
+      ],
+      "answer": 2,
+      "hint": "先處理當下的混淆。",
+      "explanation": "確認概念、聽清程度和可近用需要，才能有針對性地修復錯誤。"
+    }
+  ],
+  "selfCheck": [
+    "我能把open和close對應到書本狀態。",
+    "我能在遞物、請求和致謝中選用合適句子。",
+    "我知道求助不以英文正確為條件。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "Cambridge University Press｜教室指令官方樣章",
+      "url": "https://assets.cambridge.org/97811076/04384/excerpt/9781107604384_excerpt.pdf",
+      "note": "2026-10-05獨立審閱者由官方搜尋索引核對印刷頁10的open/close書本指令；直接開啟失敗。本課紙書圖、操作、對話與題目原創，不採原活動，未驗聽。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05直接核對短時、情境式教學、Can I have…?、What colour is it?、It’s…及禮貌框架。人物、全文劇本與圖卡均為本課原創；未驗聽音訊，完整口語須由英語教師課前核對示範。"
+    },
+    {
+      "title": "Cambridge University Press｜Super Minds Level 2 Student’s Book American English樣章",
+      "url": "https://assets.cambridge.org/97811088/27157/excerpt/9781108827157_excerpt.pdf",
+      "note": "2026-10-05直接開啟官方6頁樣章核對open your book與please教室框架；不複製圖片、歌曲或活動，未驗聽音訊。"
+    },
+    {
+      "title": "Cambridge Dictionary｜Here and there",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/here",
+      "note": "2026-10-05官方搜尋索引直接核對Here you are在遞物情境的用法；未驗聽語音，課堂完整原創對話須教師確認示範。"
+    }
+  ]
+}

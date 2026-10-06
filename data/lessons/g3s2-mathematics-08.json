@@ -1,0 +1,178 @@
+{
+  "id": "g3s2-mathematics-08",
+  "course": "數學",
+  "title": "一位小數的比較與加減",
+  "subtitle": "小數點對齊，才讓一和十分之一各自合併。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與練習可分段。",
+  "materials": [
+    "個位、十分位大卡及十等分條圖",
+    "直式紙、粗筆、虛構長度卡"
+  ],
+  "goals": [
+    "能比較一位小數大小",
+    "能用位值直式做一位小數加減及進退位",
+    "能用十等分模型與估算核對答案"
+  ],
+  "intro": "3.8公尺加2.7公尺，不是把點拿掉亂算；每個數字的單位都要保持。",
+  "sections": [
+    {
+      "title": "先比整數部分，再比十分位",
+      "childText": "3.2大於2.9，因為已有3個一。",
+      "html": "<p>比較3.2與2.9，3.2有3個完整一，2.9還不到3，所以3.2較大；不能只看9比2大。若比較4.3與4.8，個位同為4，才比較十分位3和8，得到4.3＜4.8。</p><p>整數5可寫5.0，和4.9比時先看完整一的量。0.9不到1，不能因9比1大就說0.9較大。比較規則延續由較大位值向小位值看的經驗。</p>",
+      "id": "g3s2-mathematics-08-s01"
+    },
+    {
+      "title": "直式的小數點對齊",
+      "childText": "2.4加1.3，同單位加在一起。",
+      "html": "<p>把2.4、1.3的小數點上下對齊，個位對個位、十分位對十分位。4個十分之一加3個十分之一得7個十分之一，2個一加1個一得3個一，結果3.7。</p><p>整數2和0.6相加時可先把2寫成2.0，再對齊計算2.0＋0.6＝2.6。若把2寫在十分位下面，就變成加0.2，題目已被改掉；小數點幫我們守住位置。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 235\" role=\"img\" aria-labelledby=\"g3s2-mathematics-08-decimal-align\"><title id=\"g3s2-mathematics-08-decimal-align\">2.0加0.6直式：小數點對齊，個位2與0相加，十分位0與6相加，得2.6。</title><text x=\"170\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">個位</text><text x=\"225\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\"></text><text x=\"280\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">十分位</text><text x=\"170\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"225\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">0</text><text x=\"170\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">0</text><text x=\"225\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"170\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"225\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"123\" y=\"150\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">＋</text><line x1=\"147\" y1=\"170\" x2=\"303\" y2=\"170\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>2.0加0.6直式：小數點對齊，個位2與0相加，十分位0與6相加，得2.6。</figcaption></figure>",
+      "id": "g3s2-mathematics-08-s02"
+    },
+    {
+      "title": "十分位滿十，換成一個一",
+      "childText": "3.8加2.7，15個十分之一要交換。",
+      "html": "<p>3.8＋2.7：十分位8＋7＝15，15個十分之一換1個一並留5個十分之一。個位3＋2再加換來1，得6，答案6.5。圖中小1寫在個位上方，代表1個一。</p><p>把3.8看成38個0.1，2.7看成27個0.1，合65個0.1，也是6.5。這是同單位點數核對，不把答案寫成65公尺；原題單位是公尺，十分之一公尺仍是較小的一份。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 235\" role=\"img\" aria-labelledby=\"g3s2-mathematics-08-decimal-carry\"><title id=\"g3s2-mathematics-08-decimal-carry\">3.8加2.7直式：十分位8加7得15，進1個一；個位3加2加1得6，答案6.5。</title><text x=\"170\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">個位</text><text x=\"225\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\"></text><text x=\"280\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">十分位</text><text x=\"170\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">3</text><text x=\"225\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">8</text><text x=\"170\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"225\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">7</text><text x=\"170\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">6</text><text x=\"225\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">5</text><text x=\"170\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">1</text><text x=\"123\" y=\"150\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">＋</text><line x1=\"147\" y1=\"170\" x2=\"303\" y2=\"170\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>3.8加2.7直式：十分位8加7得15，進1個一；個位3加2加1得6，答案6.5。</figcaption></figure>",
+      "id": "g3s2-mathematics-08-s03"
+    },
+    {
+      "title": "十分位不足，向一交換十份",
+      "childText": "5.2減1.7，先把1個一換10個十分之一。",
+      "html": "<p>5.2－1.7：2個十分之一不夠拿7個，從5個一換出1個一，變4個一和12個十分之一。十分位12－7＝5，個位4－1＝3，得到3.5。</p><p>交換後總量仍5.2，不是5.12；12在這裡是12個十分之一的暫時記錄，不是兩位小數。圖上改寫的是位值量，最後每欄整理成一個數字。用3.5＋1.7＝5.2核對。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 235\" role=\"img\" aria-labelledby=\"g3s2-mathematics-08-decimal-borrow\"><title id=\"g3s2-mathematics-08-decimal-borrow\">5.2減1.7直式：5個一改4個一、2個十分之一改12個；12減7得5、4減1得3，答案3.5。</title><text x=\"170\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">個位</text><text x=\"225\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\"></text><text x=\"280\" y=\"25\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">十分位</text><text x=\"170\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">5</text><text x=\"225\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"105\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">2</text><text x=\"170\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">1</text><text x=\"225\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">7</text><text x=\"170\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">3</text><text x=\"225\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">.</text><text x=\"280\" y=\"211\" text-anchor=\"middle\" font-size=\"29\" fill=\"#193c34\">5</text><text x=\"170\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">4</text><text x=\"280\" y=\"62\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">12</text><line x1=\"158\" y1=\"84\" x2=\"182\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"268\" y1=\"84\" x2=\"292\" y2=\"108\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"123\" y=\"150\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">−</text><line x1=\"147\" y1=\"170\" x2=\"303\" y2=\"170\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>5.2減1.7直式：5個一改4個一、2個十分之一改12個；12減7得5、4減1得3，答案3.5。</figcaption></figure>",
+      "id": "g3s2-mathematics-08-s04"
+    },
+    {
+      "title": "整數減小數，也要保留十分位",
+      "childText": "4等於4.0，不是4個十分之一。",
+      "html": "<p>4－1.6，把4先記4.0，再換成3個一和10個十分之一。10－6＝4個十分之一，3－1＝2個一，得2.4。不能在十分位直接做0－6而寫6。</p><p>量感檢查：4減約2，結果應接近2，2.4合理，24或0.24不符合本課的量。這裡只用一位小數，不讓錯誤小數位數變成要另學的新算法。</p>",
+      "id": "g3s2-mathematics-08-s05"
+    },
+    {
+      "title": "引導修復：先查對齊，再查交換",
+      "childText": "數字加對了，單位錯也不是原題答案。",
+      "html": "<p>錯誤卡把2與0.6相加寫成0.8，請孩子用2個一和6個十分之一畫圖，指出被錯排的2。再看3.8＋2.7寫5.5，請查十分位滿10換來的1是否加入個位。</p><p>合作算6.4－2.8：先換成5個一14個十分之一，14－8＝6，5－2＝3，得3.6。另一人用3.6＋2.8＝6.4檢查，每步說出量，不只看答案。</p>",
+      "id": "g3s2-mathematics-08-s06"
+    },
+    {
+      "title": "獨立出口：比較、加減和核對",
+      "childText": "小數點不是裝飾，記的是同一個位值系統。",
+      "html": "<p>獨立比較5.1和4.9，5.1較大；算1.9＋2.6＝4.5，再用十等分模型說為何進1；算7.3－4.8＝2.5，並以2.5＋4.8＝7.3檢查。</p><p>所有長度卡是教學設定；若用真紙條作量測，使用真尺，不將畫面比例當公尺。可口述、指卡或成人代寫直式，但由孩子指定小數點與各位數位置。</p>",
+      "id": "g3s2-mathematics-08-s07"
+    }
+  ],
+  "teachingHtml": "<h3>內容與先備</h3><p>N-3-10包含一位小數的比較、加減、直式及解題，須連結整數位值。本課只有十分位，並用連續長度理解，沒有百分位或小數乘除。先查10個0.1換1，以及2等於2.0，再教進退位；孩子若只會移點而不懂份量，先回十等分條操作。</p><h3>示範次序</h3><p>先3.2和2.9比較整數部分，再4.3與4.8比較十分位；整數5寫5.0保持一致。直式從2.0加0.6的對齊開始，確認點不是一個數字位。3.8加2.7示範十分位15份換1個一，小1位置指明其量；5.2減1.7用一換十，改成4與12再相減。</p><p>圖中的12是暫時的12個十分之一，不寫成5.12來引進兩位小數。成人須一邊指出原數被劃掉的位置，一邊說總量仍5.2。4減1.6先寫4.0再換3個一10個十分之一，處理十分位0；最後用加回恢復原量，確認交換沒有多算或漏算。</p><h3>差異化與修復</h3><p>對齊錯得0.8者，用兩整條與6小格對照；漏進位得5.5者，追查10小份換成的一整條去了哪裡。支持組先無進退位，再只有一處交換，保留位值標頭。熟練組用整數附近估算和逆向核對，不增加小數位數。成人可以代寫但每一欄需由孩子指定，避免把書寫支援變成代做數學決策。</p><h3>評量與材料</h3><p>出口5.1比4.9、1.9加2.6、7.3減4.8分別看比較順序、滿十交換、退位與驗算；口頭解釋至少一個小1或暫時12的單位。所有長度為教學設定，可用同長紙條和真尺對應，不以螢幕長度作實測。粗筆、完整大紙及大卡在平桌操作，不需小散片或兒童身體測量。</p>",
+  "exercises": [
+    {
+      "question": "3.2和2.9比較，哪個較大？",
+      "options": [
+        "相等",
+        "3.2",
+        "2.9"
+      ],
+      "answer": 1,
+      "hint": "先比較完整的1有幾個。",
+      "explanation": "3.2已有3個一，2.9還不足3，所以先由個位判斷3.2較大。",
+      "id": "g3s2-mathematics-08-q01"
+    },
+    {
+      "question": "2與0.6相加，對齊前可把2寫成？",
+      "options": [
+        "2.0",
+        "0.2",
+        "20.0"
+      ],
+      "answer": 0,
+      "hint": "整數2是2個一、0個十分之一。",
+      "explanation": "2等於2.0，這樣可讓個位與十分位正確對齊而不改變數量。",
+      "id": "g3s2-mathematics-08-q02"
+    },
+    {
+      "question": "3.8＋2.7等於？",
+      "options": [
+        "65",
+        "6.5",
+        "5.5"
+      ],
+      "answer": 1,
+      "hint": "十分位15份要換出1個一。",
+      "explanation": "8加7得15個十分之一，進1個一後個位共6，剩5個十分之一。",
+      "id": "g3s2-mathematics-08-q03"
+    },
+    {
+      "question": "3.8加2.7，進到個位的小1代表？",
+      "options": [
+        "1個一",
+        "1個十分之一",
+        "1個十"
+      ],
+      "answer": 0,
+      "hint": "它由10個十分之一交換而來。",
+      "explanation": "十分位滿10份合成1個完整一，因此個位進來的小1代表1。",
+      "id": "g3s2-mathematics-08-q04"
+    },
+    {
+      "question": "5.2減1.7重組後原量是？",
+      "options": [
+        "4個一與2個十分之一",
+        "4個一與12個十分之一",
+        "5個一與12個十分之一"
+      ],
+      "answer": 1,
+      "hint": "交換要讓左邊少1、右邊多10份。",
+      "explanation": "從5個一取出1換10小份，形成4個一與原2加10的12個十分之一。",
+      "id": "g3s2-mathematics-08-q05"
+    },
+    {
+      "question": "5.2－1.7等於？",
+      "options": [
+        "3.9",
+        "4.5",
+        "3.5"
+      ],
+      "answer": 2,
+      "hint": "用重組後的兩欄分別減。",
+      "explanation": "12個十分之一減7剩5，4個一減1剩3，合成3.5。",
+      "id": "g3s2-mathematics-08-q06"
+    },
+    {
+      "question": "4－1.6等於？",
+      "options": [
+        "2.4",
+        "24",
+        "3.6"
+      ],
+      "answer": 0,
+      "hint": "先把4看成4.0再交換。",
+      "explanation": "4.0換成3個一與10個十分之一，減去1.6後剩2.4。",
+      "id": "g3s2-mathematics-08-q07"
+    },
+    {
+      "question": "7.3－4.8及驗算，哪組正確？",
+      "options": [
+        "3.5；3.5＋4.8＝7.3",
+        "2.5；2.5＋7.3＝4.8",
+        "2.5；2.5＋4.8＝7.3"
+      ],
+      "answer": 2,
+      "hint": "差加拿走的量要恢復原量。",
+      "explanation": "7.3重組後相減得2.5，加回4.8確實是7.3，支持原減法結果。",
+      "id": "g3s2-mathematics-08-q08"
+    }
+  ],
+  "selfCheck": [
+    "我會先比完整一再比十分位。",
+    "我會對齊小數點和位值。",
+    "我知道進位與退位換了什麼量。",
+    "我會用加回和量感檢查。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "官方列出年級學習內容；本課學期位置、節數、原創情境及練習屬編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：三年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁23–26。N-3-10一位小數比較與加減含直式；僅十分位，連結位值及連續量。"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "g3s2-english-02",
+  "course": "英語文",
+  "title": "短母音與簡單拼讀",
+  "subtitle": "在規則短詞中比較五個短母音，讀完也要懂意思",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "在規則短詞中比較五個短母音，讀完也要懂意思。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能在cat、bed、pig、pot、cup找出中間母音字母。",
+    "我能在美式模型示範後嘗試合讀規則短詞。",
+    "我知道短母音名稱不是叫我把所有音縮得很快。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "短母音是本課的語音類別",
+      "childText": "名字和代表音不同，長短不是秒數比賽。",
+      "html": "<p>本課選<span lang=\"en\">a e i o u</span>五個母音字母在規則例詞中的短母音對應，不念字母名來代替。例詞為<span lang=\"en\">cat</span>貓、<span lang=\"en\">bed</span>床、<span lang=\"en\">pig</span>豬、<span lang=\"en\">pot</span>鍋、<span lang=\"en\">cup</span>杯。美式模型由教師課前核對；不同正常口音，尤其<span lang=\"en\">o</span>的實現可能不同，不當成孩子錯誤。</p><p>「短」不是要求孩子越快越好或用秒錶量聲音。這只是入門分類，英語同一字母在其他詞可能不同。本課不把全部英文都教成三字母一樣讀。</p>",
+      "id": "g3s2-english-02-s01"
+    },
+    {
+      "title": "五張完整詞義卡",
+      "childText": "每張有字形和意思，沒有缺少的錄音。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 325\" role=\"img\" aria-labelledby=\"g3s2-english-02-fig\"><title id=\"g3s2-english-02-fig\">原創五詞對照卡：a-cat貓、e-bed床、i-pig豬、o-pot鍋、u-cup杯；每詞中間是本課母音。</title><rect x=\"12\" y=\"12\" width=\"336\" height=\"51\" rx=\"6\" fill=\"#f0f5fb\" stroke=\"#587a98\"/><text x=\"27\" y=\"45\" font-size=\"27\" lang=\"en\">a</text><text x=\"89\" y=\"45\" font-size=\"27\" lang=\"en\">cat</text><text x=\"218\" y=\"45\" font-size=\"22\">貓</text><rect x=\"12\" y=\"73\" width=\"336\" height=\"51\" rx=\"6\" fill=\"#f0f5fb\" stroke=\"#587a98\"/><text x=\"27\" y=\"106\" font-size=\"27\" lang=\"en\">e</text><text x=\"89\" y=\"106\" font-size=\"27\" lang=\"en\">bed</text><text x=\"218\" y=\"106\" font-size=\"22\">床</text><rect x=\"12\" y=\"134\" width=\"336\" height=\"51\" rx=\"6\" fill=\"#f0f5fb\" stroke=\"#587a98\"/><text x=\"27\" y=\"167\" font-size=\"27\" lang=\"en\">i</text><text x=\"89\" y=\"167\" font-size=\"27\" lang=\"en\">pig</text><text x=\"218\" y=\"167\" font-size=\"22\">豬</text><rect x=\"12\" y=\"195\" width=\"336\" height=\"51\" rx=\"6\" fill=\"#f0f5fb\" stroke=\"#587a98\"/><text x=\"27\" y=\"228\" font-size=\"27\" lang=\"en\">o</text><text x=\"89\" y=\"228\" font-size=\"27\" lang=\"en\">pot</text><text x=\"218\" y=\"228\" font-size=\"22\">鍋</text><rect x=\"12\" y=\"256\" width=\"336\" height=\"51\" rx=\"6\" fill=\"#f0f5fb\" stroke=\"#587a98\"/><text x=\"27\" y=\"289\" font-size=\"27\" lang=\"en\">u</text><text x=\"89\" y=\"289\" font-size=\"27\" lang=\"en\">cup</text><text x=\"218\" y=\"289\" font-size=\"22\">杯</text></svg><figcaption>原創五詞對照卡：a-cat貓、e-bed床、i-pig豬、o-pot鍋、u-cup杯；每詞中間是本課母音。</figcaption></figure><p>把每詞抄在大紙上，只圈中間的a、e、i、o、u；首尾字母也要看完，不能只看母音猜整詞。鍋和杯僅為詞義，不拿熱水或真的烹煮用品練習。</p><p>教師先自然讀整詞並確認意思，再取中間音比較，最後回整詞。沒有真正示範時，先做看字分類，不把猜測音質當作聽力。</p>",
+      "id": "g3s2-english-02-s02"
+    },
+    {
+      "title": "示範cat：依序合音再回整詞",
+      "childText": "三個位置在這個例詞各有對應。",
+      "html": "<p>教師自然說<span lang=\"en\">cat</span>，再依序指<span lang=\"en\">c</span>、<span lang=\"en\">a</span>、<span lang=\"en\">t</span>，用它們在cat中的音合起來，最後自然再讀<span lang=\"en\">cat</span>。本詞的<span lang=\"en\">c</span>是這個規則例子的硬音對應，不因字母名不同就換成名稱。孩子先指格跟著聽，再自願嘗試合讀。</p><p>如果中間讀成字母a的名字，先回到cat整詞示範，聽這個詞中間的短母音，再把三個音接近。短促尾音不硬拖長，子音後不另加一個母音；教師必須先確認自己能準確示範。</p>",
+      "id": "g3s2-english-02-s03"
+    },
+    {
+      "title": "一起比較：一個位置改變",
+      "childText": "看得出變動，再聽得出來。",
+      "html": "<p>完整新卡：<span lang=\"en\">cat</span>貓、<span lang=\"en\">cut</span>切。只看文字，兩詞首尾相同，a換u；cut在這裡只作詞義辨認，不實際操作刀剪。教師先給兩詞完整模型，孩子先指出中間差異，再聽教師順序<span lang=\"en\">cat</span>、<span lang=\"en\">cut</span>、<span lang=\"en\">cut</span>、<span lang=\"en\">cat</span>選卡。</p><p>另一組<span lang=\"en\">bed</span>與<span lang=\"en\">bad</span>（不好的）也是中間e/a不同，但先熟悉第一組再加入。成人把字卡或嘴形支持如實記錄，不把一次跟讀當成不看模型獨立轉用。</p>",
+      "id": "g3s2-english-02-s04"
+    },
+    {
+      "title": "修復：聲音相近，不用諧音硬塞",
+      "childText": "回可靠模型，縮小比較範圍。",
+      "html": "<p>如果cat和cut混淆，一次只留兩卡，由教師自然重讀、說明詞義，再指出不同位置。不要自行造中文「卡特、刻特」當發音，這可能增加原詞沒有的音。也不把口音正常差異當缺點，先看是否能讓人理解與分辨本組詞。</p><p>另一錯誤是看到pot的o就說字母名。成人重示範完整pot，提醒這課取詞內的短母音對應；未教的<span lang=\"en\">go</span>等詞不是這一規則的證明或反例考題，遇到就另查可靠模型。</p>",
+      "id": "g3s2-english-02-s05"
+    },
+    {
+      "title": "自己試：新詞與兩步核對",
+      "childText": "先讀字，再確認意思。",
+      "html": "<p>新卡<span lang=\"en\">cap</span>帽子：成人先確認c/a/p都是已教對應，給中文意思但不先讀新整詞。孩子看完三字母試合讀，教師再讀模型核對。若仍需示範，先跟讀，再換順序與cat比較：差異在最後p/t。</p><details><summary>文字部分核對</summary><p>cap中間是a，與cat同樣字母；cap和cat最後p/t不同。能說出這些位置是文字觀察，不足以單獨證明短母音發音正確。</p></details><p>最後把五張原詞按中間字母放到a/e/i/o/u下，各說或指中文意思。不要把抄寫正確當成已會聽辨。</p>",
+      "id": "g3s2-english-02-s06"
+    },
+    {
+      "title": "記錄會哪種轉用",
+      "childText": "把合音、語意和聽辨分欄。",
+      "html": "<p>原創紀錄：「cat可看字合讀，cup要再示範；cat/cut選卡三次獨立一次重讀；cap能指出尾字母改動。」下次只選需要支持的兩詞短練，不一次增加大量詞彙。</p><p>指卡或AAC可以表達詞義與聽懂的選擇；獨立發音仍另由教師觀察。五個短母音不是本學期一定得瞬間全會的配額，練習長度與難度依孩子反應調整。</p>",
+      "id": "g3s2-english-02-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>五詞是完整母音對照材料，可分多次教，先a/u一組再擴展，不要求一節全精熟。cap獨立合音前確認首尾音已具備，否則先補對應並記支持。採美式模型，特別注意pot短o的變體；本頁沒有IPA或偽音標。聲音比較、字形位置、詞義各記證據。紙卡鍋杯和cut詞義不構成烹煮切割活動。支持者保留詞義、一次兩張，進階者指出尾音改動而非盲猜整詞。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-02-q01",
+      "question": "cat中間的母音字母是？",
+      "options": [
+        "c",
+        "a",
+        "t"
+      ],
+      "answer": 1,
+      "hint": "找三字母正中位置。",
+      "explanation": "cat依序c、a、t，中間是a；另外兩字母是本詞首尾位置。"
+    },
+    {
+      "id": "g3s2-english-02-q02",
+      "question": "cup在本課表示？",
+      "options": [
+        "床",
+        "貓",
+        "杯"
+      ],
+      "answer": 2,
+      "hint": "查完整詞義卡。",
+      "explanation": "cup對應杯，bed是床而cat是貓，意思必須與完整詞相連。"
+    },
+    {
+      "id": "g3s2-english-02-q03",
+      "question": "cat和cut哪個位置不同？",
+      "options": [
+        "中間a與u",
+        "開頭c與p",
+        "最後t與d"
+      ],
+      "answer": 0,
+      "hint": "逐一對照三個位置。",
+      "explanation": "兩詞保留c與t，差異僅在中間母音字母a和u。"
+    },
+    {
+      "id": "g3s2-english-02-q04",
+      "question": "本課「短母音」是否指越快越好？",
+      "options": [
+        "是，要計時最快",
+        "不是，是入門語音分類",
+        "是，完全不需意思"
+      ],
+      "answer": 1,
+      "hint": "回到課文對短的說明。",
+      "explanation": "短母音是規則類別標記，不能把自然發音變成壓縮時間的比賽。"
+    },
+    {
+      "id": "g3s2-english-02-q05",
+      "question": "哪張詞卡中間是e？",
+      "options": [
+        "pig",
+        "bed",
+        "pot"
+      ],
+      "answer": 1,
+      "hint": "找五詞卡的中間字母。",
+      "explanation": "bed的中間為e，pig為i、pot為o，三者分類依實際字形。"
+    },
+    {
+      "id": "g3s2-english-02-q06",
+      "question": "cap與cat在文字上哪裡不同？",
+      "options": [
+        "最後p與t",
+        "開頭c與b",
+        "中間a與u"
+      ],
+      "answer": 0,
+      "hint": "新詞也要看完每一格。",
+      "explanation": "cap和cat前兩字母ca相同，最後p/t不同，不能只看開頭就猜。"
+    },
+    {
+      "id": "g3s2-english-02-q07",
+      "question": "實作cut詞義需要拿刀剪嗎？",
+      "options": [
+        "必須拿刀競速",
+        "要真的切杯子",
+        "不需要，紙上理解即可"
+      ],
+      "answer": 2,
+      "hint": "本課是語言分類。",
+      "explanation": "cut只用於詞義和字母比較，沒有使用刀剪或真實切割的必要。"
+    },
+    {
+      "id": "g3s2-english-02-q08",
+      "question": "發音不確定時最可靠的下一步？",
+      "options": [
+        "請教師核對可靠模型再示範",
+        "自創中文諧音",
+        "把每個字母名念快"
+      ],
+      "answer": 0,
+      "hint": "回到準確而可理解的語音。",
+      "explanation": "可靠模型和合格教師示範能修復聲音，不應用諧音或名稱替代詞音。"
+    }
+  ],
+  "selfCheck": [
+    "我能在cat、bed、pig、pot、cup找出中間母音字母。",
+    "我能在美式模型示範後嘗試合讀規則短詞。",
+    "我知道短母音名稱不是叫我把所有音縮得很快。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜Alphabet Unit",
+      "url": "https://ufli.education.ufl.edu/foundations/toolbox/1-34/",
+      "note": "2026-10-05直接核對字母名、字母音、書寫及解碼的區別，a/m/s/t與後續短母音、CVC範圍。採美式教學語音模型；不是臺灣指定進度，未驗聽音訊、未複製課程原文或學習單。"
+    },
+    {
+      "title": "UFLI｜Short Vowel Review",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/19_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05 直接核對五個短母音的複習與改一個字母形成新詞的方法；本課詞卡與任務原創，不複製原題。採美式模型，未驗聽。"
+    }
+  ]
+}

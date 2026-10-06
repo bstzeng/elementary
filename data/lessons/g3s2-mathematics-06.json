@@ -1,0 +1,178 @@
+{
+  "id": "g3s2-mathematics-06",
+  "course": "數學",
+  "title": "同分母分數的加減",
+  "subtitle": "同樣大小的小份可以合起來，也能拿走。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與練習可分段。",
+  "materials": [
+    "同長四等分及六等分大紙條圖",
+    "粗筆、遮紙和分數記錄卡"
+  ],
+  "goals": [
+    "能說明同分母加減是相同單位的份數加減",
+    "能做結果不超過2的同分母分數加減",
+    "能以圖、整數基準及逆向操作核對"
+  ],
+  "intro": "3份四分之一再添2份，會跨過一整條，但每一小份仍叫四分之一。",
+  "sections": [
+    {
+      "title": "相加先確認每份大小相同",
+      "childText": "3/4加2/4，是3份再加2份。",
+      "html": "<p>每一整條都一樣長且分4等份。先有3/4，再添2/4，共5個1/4，所以3/4＋2/4＝5/4。下圖第三列塗滿一條後，第二條又塗1份；每條仍各代表1。</p><p>分母4表示每條的分法，合量時沒有重新切成8等份，所以不能寫5/8。先口述三份加兩份成五份，再寫分數計算，讓符號跟著數量走。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 312\" role=\"img\" aria-labelledby=\"g3s2-mathematics-06-add-fourths\"><title id=\"g3s2-mathematics-06-add-fourths\">三列都以相同的一條為1，各條分4等份；塗3份、2份與合量5份，3/4加2/4等於5/4。</title><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">原有3/4</text><rect x=\"25.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"60.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"95.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"190.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"225.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"260.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"295.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"95\" y=\"93\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"260\" y=\"93\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"180\" y=\"120\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">再添2/4</text><rect x=\"25.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"60.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"95.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"190.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"225.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"260.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"295.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"95\" y=\"188\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"260\" y=\"188\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"180\" y=\"215\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">合起來5/4</text><rect x=\"25.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"60.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"95.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"190.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"225.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"260.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"295.0\" y=\"225\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"95\" y=\"283\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"260\" y=\"283\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text></svg><figcaption>三列都以相同的一條為1，各條分4等份；塗3份、2份與合量5份，3/4加2/4等於5/4。</figcaption></figure>",
+      "id": "g3s2-mathematics-06-s01"
+    },
+    {
+      "title": "和等於1或2，是清楚的檢查點",
+      "childText": "四份四分之一是1，八份是2。",
+      "html": "<p>1/4＋3/4＝4/4＝1，表示一整條補滿。5/4＋3/4＝8/4＝2，表示兩整條都滿。這裡所有數與答案都不超過2，不再往更多條累加。</p><p>答案5/4不必改寫成另一種名稱；說五個四分之一即可。分子可以比分母大，因為取的小份可以來自相同大小的第二個整體，不是把第一條切法改掉。</p>",
+      "id": "g3s2-mathematics-06-s02"
+    },
+    {
+      "title": "相減是拿走幾份相同單位",
+      "childText": "6/4拿走3/4，留下3/4。",
+      "html": "<p>先有6個1/4，遮住或移走3個1/4，還剩3個1/4，寫6/4－3/4＝3/4。遮去的份可以來自第一條或第二條，只要全是相同大小的四分之一，總剩量一樣。</p><p>分母仍4，因為每份大小沒有變。不能寫3/0，也不能因3份都搬到另一張紙就把整體重新定成3份；本題的1一直是原來那一整條。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 217\" role=\"img\" aria-labelledby=\"g3s2-mathematics-06-subtract-fourths\"><title id=\"g3s2-mathematics-06-subtract-fourths\">兩列使用相同整體四等分：先取6份，拿走3份後餘3份，6/4減3/4等於3/4。</title><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">原有6/4</text><rect x=\"25.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"60.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"95.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"190.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"225.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"260.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"295.0\" y=\"35\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"95\" y=\"93\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"260\" y=\"93\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"180\" y=\"120\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">拿走3份後剩3/4</text><rect x=\"25.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"60.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"95.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"190.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"225.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"260.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"295.0\" y=\"130\" width=\"35.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"95\" y=\"188\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"260\" y=\"188\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text></svg><figcaption>兩列使用相同整體四等分：先取6份，拿走3份後餘3份，6/4減3/4等於3/4。</figcaption></figure>",
+      "id": "g3s2-mathematics-06-s03"
+    },
+    {
+      "title": "從整數1或2開始，也先換成同一種小份",
+      "childText": "1減2/6，先把1看成6/6。",
+      "html": "<p>一整條六等分，1＝6/6。拿走2/6，剩4/6，所以1－2/6＝4/6。不是把整數1直接減分子2；要先用相同的小份單位表示所有量。</p><p>2條同長紙帶六等分，共12個1/6，2＝12/6。拿走5/6，剩7/6。圖上可先圈出兩整條，再遮5格，數餘7格，得到2－5/6＝7/6。</p>",
+      "id": "g3s2-mathematics-06-s04"
+    },
+    {
+      "title": "用相反的動作檢查",
+      "childText": "拿走後再加回，應恢復原量。",
+      "html": "<p>算7/8－3/8＝4/8，檢查4/8＋3/8＝7/8，能恢復原本7份。算2/5＋2/5＝4/5，從合量拿走其中2/5，剩原另一份2/5，也能核對。</p><p>檢查時仍用相同整體。若合量答案比其中一個正加數還小，例如3/4加2/4卻寫5/8，5/8小於3/4，就值得回圖再看；本課不要求跨分母算法，而用已供四等分圖直接證明合量有5份，必定比原3份更多。</p>",
+      "id": "g3s2-mathematics-06-s05"
+    },
+    {
+      "title": "引導活動：把錯誤分母改回分法",
+      "childText": "加減變的是取幾份，不是每條切幾份。",
+      "html": "<p>錯誤卡寫2/6＋3/6＝5/12。請畫一條6等份，先塗2格再加3格，現在占5格，仍是6格中的5格，所以5/6。若真的切12等份，每個小格已變小，和原模型不一樣。</p><p>減法錯誤卡寫5/7－2/7＝3/0，請從7等份取5份再遮2份，剩3份，每份仍1/7，應3/7。圖能說明為什麼分母保留，不只讓孩子背「分母不能動」。</p>",
+      "id": "g3s2-mathematics-06-s06"
+    },
+    {
+      "title": "獨立出口：算式、圖與範圍一起查",
+      "childText": "答案可超過1，但本課不超過2。",
+      "html": "<p>獨立算4/5＋3/5＝7/5；畫兩條同長五等分紙帶塗7格，確定超過1卻不足2。再算9/6－4/6＝5/6，從9份拿走4份，剩5份。</p><p>最後做1－3/8＝5/8，說明先把1換成8/8。請挑一題用逆向動作檢查，可口述或指格；不要求約分、帶分數或不同分母相加減。</p>",
+      "id": "g3s2-mathematics-06-s07"
+    }
+  ],
+  "teachingHtml": "<h3>課綱界線</h3><p>N-3-9同分母加減建立在單位分數點數，分數與結果皆不超過2，知道和等於1，不教帶分數及分數類型名詞。先檢查孩子能把6/4說成六份四分之一、知道每一整條仍為1，再跨過1計算。本課不要求約分，4/6、4/8等答案保持原計數單位即可。</p><h3>加減模型</h3><p>3/4加2/4的圖每列有兩個相同整體，總取5格；先說三份加兩份，再寫5/4。6/4減3/4則遮去3格數剩3格，不將不同列畫成不等長整體。成人在每次操作前指出哪一條是1，防止學生把整頁兩條合成新的1。符號只是數量記錄，不用一般公式取代操作。</p><p>整數減分數先做1等於6/6，再2等於12/6，從同一單位相減。只要超過2或產生負量就不列入本課題目。以7/8減3/8再加回3/8檢查，強調逆向能恢復原量；若只是數字碰巧相同仍需單位一致。</p><h3>常見錯誤與差異化</h3><p>加分母得5/12、減分母得3/0，均讓孩子回到原6或7等份圖，問哪一步改了切法。支持組在1內相加減，保留粗線大格與遮紙，穩定後才跨1；熟練組解釋兩整體計數與逆向檢查，不進入跨分母、約分或分數乘法。若需要成人代畫，讓孩子指定每一步取或遮幾格，保留決策證據。</p><h3>評量與安全</h3><p>出口7/5、5/6、5/8分別查跨1合量、同分母減法、整數轉同分母三種理解，並要求一題核對。圖像和口頭理由比一頁重複算式更能定位困難。所有教具在完整紙張上塗畫或遮擋，不用食物、小片或尖銳分切工具；可坐姿完成，繪圖精細程度不作數學能力標籤。</p>",
+  "exercises": [
+    {
+      "question": "3/4＋2/4等於？",
+      "options": [
+        "5/4",
+        "1/4",
+        "5/8"
+      ],
+      "answer": 0,
+      "hint": "數相同大小的四分之一有幾份。",
+      "explanation": "3份加2份共5份，每份仍四分之一，所以總量是5/4。",
+      "id": "g3s2-mathematics-06-q01"
+    },
+    {
+      "question": "為什麼同分母加法不把分母相加？",
+      "options": [
+        "因為分母永遠比分子大",
+        "因為分數不能相加",
+        "整體的等分方式沒有改變"
+      ],
+      "answer": 2,
+      "hint": "看每一小份的大小有沒有變。",
+      "explanation": "加法增加取出的份數，沒有重新分割整體，因此每份名稱和分母保留。",
+      "id": "g3s2-mathematics-06-q02"
+    },
+    {
+      "question": "5/4＋3/4的結果是？",
+      "options": [
+        "8/4＝2",
+        "8/8＝1",
+        "2/4"
+      ],
+      "answer": 0,
+      "hint": "四份一整條，八份有幾條？",
+      "explanation": "5份加3份共8個四分之一，剛好覆蓋兩整條，所以等於2。",
+      "id": "g3s2-mathematics-06-q03"
+    },
+    {
+      "question": "6/4－3/4等於？",
+      "options": [
+        "2/4",
+        "3/4",
+        "3/0"
+      ],
+      "answer": 1,
+      "hint": "六份拿走三份，份的大小不改。",
+      "explanation": "6份四分之一減3份，仍剩3份同樣單位，故為3/4。",
+      "id": "g3s2-mathematics-06-q04"
+    },
+    {
+      "question": "1－2/6等於？",
+      "options": [
+        "2/6",
+        "4/6",
+        "1/6"
+      ],
+      "answer": 1,
+      "hint": "先把一整條表示為6個1/6。",
+      "explanation": "1等於6/6，從6份拿走2份剩4份，所以是4/6。",
+      "id": "g3s2-mathematics-06-q05"
+    },
+    {
+      "question": "2－5/6等於？",
+      "options": [
+        "7/12",
+        "3/6",
+        "7/6"
+      ],
+      "answer": 2,
+      "hint": "兩整條六等分共有12份。",
+      "explanation": "2等於12/6，12份拿走5份剩7份，因此結果為7/6。",
+      "id": "g3s2-mathematics-06-q06"
+    },
+    {
+      "question": "哪個算式可檢查7/8－3/8＝4/8？",
+      "options": [
+        "4/8＋3/8＝7/8",
+        "4/8＋7/8＝3/8",
+        "7/8－4/8＝4/8"
+      ],
+      "answer": 0,
+      "hint": "把拿走部分加回剩餘。",
+      "explanation": "剩下4份再加拿走3份，恢復7份，能核對原減法的數量關係。",
+      "id": "g3s2-mathematics-06-q07"
+    },
+    {
+      "question": "9/6－4/6等於？",
+      "options": [
+        "5/0",
+        "5/6",
+        "11/6"
+      ],
+      "answer": 1,
+      "hint": "分子在數同樣的六分之一。",
+      "explanation": "原有9份六分之一，拿走4份後剩5份，所以是5/6。",
+      "id": "g3s2-mathematics-06-q08"
+    }
+  ],
+  "selfCheck": [
+    "我知道加減變的是份數。",
+    "我會把1或2轉成同一種小份。",
+    "我的圖一直保持同一個整體。",
+    "我能用加回或拿走來核對。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "官方列出年級學習內容；本課學期位置、節數、原創情境及練習屬編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：三年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁23–26。N-3-9同分母加減、和等於1，所有數及結果≤2；不要求約分、帶分數、跨分母運算。"
+    }
+  ]
+}

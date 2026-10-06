@@ -1,0 +1,178 @@
+{
+  "id": "g3s2-mathematics-07",
+  "course": "數學",
+  "title": "一位小數與位值",
+  "subtitle": "一整份再分十等份，小數點把個位和十分位分開。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與練習可分段。",
+  "materials": [
+    "一整條十等分的大圖紙",
+    "個位與十分位表、真尺與成人提供的長紙帶"
+  ],
+  "goals": [
+    "能以十等分連續量解釋一位小數",
+    "能辨認個位、小數點與十分位",
+    "能在個與十分之一間換算並讀寫含0小數"
+  ],
+  "intro": "把一公尺紙帶分成十個一樣長的部分，其中一份可寫0.1公尺。",
+  "sections": [
+    {
+      "title": "十分之一有另一個寫法",
+      "childText": "0.1就是一個十分之一。",
+      "html": "<p>一整條代表1，平均分成10份，每份是1/10，也可以寫0.1，讀零點一。取4份就是4/10，寫0.4，讀零點四。小數點左邊的0表示還沒有一整個1。</p><p>這裡以連續長度作模型：1公尺分10等份，每份0.1公尺，也就是10公分。小數點是數字的一部分，0.4不等於4，也不能省去點；點右邊第一位是十分位。</p>",
+      "id": "g3s2-mathematics-07-s01"
+    },
+    {
+      "title": "完整的1和剩下的小份一起記",
+      "childText": "2.4表示2個一和4個十分之一。",
+      "html": "<p>下圖每條同長紙帶代表1公尺，前兩條全塗，第三條塗4格，共2.4公尺。不是24公尺，也不是2公尺4公分，因每格是0.1公尺即10公分，4格是40公分。</p><p>讀2.4為二點四。先數幾條完整的1，再數多出幾個十分之一。圖有3條輪廓並不表示取了3條；要看實際取的塗色，第三條空白6格沒有計入。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 287\" role=\"img\" aria-labelledby=\"g3s2-mathematics-07-decimal-strips\"><title id=\"g3s2-mathematics-07-decimal-strips\">三條同長紙帶各分10等份，每整條代表1公尺；前兩條全塗，第三條塗4格，共24個0.1公尺，即2.4公尺。</title><text x=\"40\" y=\"57\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">第1條</text><rect x=\"82\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"106\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"154\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"178\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"202\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"226\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"250\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"274\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"298\" y=\"35\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"40\" y=\"125\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">第2條</text><rect x=\"82\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"106\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"154\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"178\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"202\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"226\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"250\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"274\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"298\" y=\"103\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"40\" y=\"193\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">第3條</text><rect x=\"82\" y=\"171\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"106\" y=\"171\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"130\" y=\"171\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"154\" y=\"171\" width=\"24\" height=\"30\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"178\" y=\"171\" width=\"24\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"202\" y=\"171\" width=\"24\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"226\" y=\"171\" width=\"24\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"250\" y=\"171\" width=\"24\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"274\" y=\"171\" width=\"24\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"298\" y=\"171\" width=\"24\" height=\"30\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180\" y=\"261\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">每整條代表1公尺，塗色共2.4公尺</text></svg><figcaption>三條同長紙帶各分10等份，每整條代表1公尺；前兩條全塗，第三條塗4格，共24個0.1公尺，即2.4公尺。</figcaption></figure>",
+      "id": "g3s2-mathematics-07-s02"
+    },
+    {
+      "title": "位值表指明每個數字的工作",
+      "childText": "個位2代表2，十分位4代表0.4。",
+      "html": "<p>下圖把2.4排進個位與十分位，點在兩欄之間。2是2個一，4是4個十分之一。小數點不是一個位值欄，不要把點算成一位、把4推到別的位置。</p><p>對照4.2，個位4代表4，十分位2代表0.2。相同數字換了位置，代表量不同，延續整數位值的想法。讀小數時點後逐字讀，本課只有一位小數，沒有百分位。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 174\" role=\"img\" aria-labelledby=\"g3s2-mathematics-07-decimal-place\"><title id=\"g3s2-mathematics-07-decimal-place\">2.4位值表：個位2代表2個一，十分位4代表4個十分之一；小數點在兩欄之間。</title><rect x=\"70\" y=\"35\" width=\"90\" height=\"65\" fill=\"#e8f2ed\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"200\" y=\"35\" width=\"90\" height=\"65\" fill=\"#e8f2ed\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"115\" y=\"26\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">個位</text><text x=\"245\" y=\"26\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">十分位</text><text x=\"115\" y=\"78\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">2</text><text x=\"180\" y=\"78\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">.</text><text x=\"245\" y=\"78\" text-anchor=\"middle\" font-size=\"30\" fill=\"#193c34\">4</text><text x=\"180\" y=\"143\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">2個一 ＋ 4個十分之一</text></svg><figcaption>2.4位值表：個位2代表2個一，十分位4代表4個十分之一；小數點在兩欄之間。</figcaption></figure>",
+      "id": "g3s2-mathematics-07-s03"
+    },
+    {
+      "title": "十個十分之一換一個一",
+      "childText": "1等於1.0，也等於10個0.1。",
+      "html": "<p>把10格全部塗滿，得到10個0.1，剛好1。可寫1＝1.0，十分位0表示沒有額外的小份，不是沒有整體。2.4共有24個0.1，因2個一可換20個十分之一，再加4個。</p><p>反過來，17個0.1可換1個一，還有7個0.1，記1.7。交換時完整條與10小格不要同時重複計算；如同10個十換1百，是改記法而非增加總量。</p>",
+      "id": "g3s2-mathematics-07-s04"
+    },
+    {
+      "title": "0在不同位置有不同任務",
+      "childText": "0.7與7.0差的是整體數量。",
+      "html": "<p>0.7表示7個十分之一，不到一整個；7.0表示7個一又0個十分之一，等於7。雖有相同7與0，位置不同，量相差很大。先看點左邊有幾個完整1。</p><p>3.0可讀三點零，也知道等於整數3。0.0表示0個一與0個十分之一，等於0。本課寫0.7時保留個位0，讓讀者清楚看到沒有完整1，不把它寫成容易漏點的形式。</p>",
+      "id": "g3s2-mathematics-07-s05"
+    },
+    {
+      "title": "引導測讀：長度單位要跟著數字",
+      "childText": "0.6公尺是60公分，不是6公分。",
+      "html": "<p>用1公尺模型，每個十分之一是10公分。6格是6份10公分，共60公分，記0.6公尺。若紙帶長1公尺3個十分之一，就是1.3公尺，也等於130公分。</p><p>本課紙帶圖僅表示等分比例，螢幕長度不是實際一公尺。要實測時用真正公尺尺或直尺與成人準備的紙帶；先讀整體單位，再把小格轉成該單位的十分之一。</p>",
+      "id": "g3s2-mathematics-07-s06"
+    },
+    {
+      "title": "獨立出口：從文字、圖和數互轉",
+      "childText": "寫得出小數，也說得出每位的量。",
+      "html": "<p>出口一：3個一與5個十分之一寫3.5；0個一與8個十分之一寫0.8。出口二：26個0.1重組成2.6，並說2個一用了20個0.1，餘6個。</p><p>最後畫一條代表1的十等分圖塗7格，標0.7及7/10。可用指格或口述代畫，重點是整體和等分一致；不使用零錢等不合本課連續量重點的模型。</p>",
+      "id": "g3s2-mathematics-07-s07"
+    }
+  ],
+  "teachingHtml": "<h3>課綱與先備</h3><p>N-3-10一位小數與十分位，結合整數位值、點數與位值換算，情境以連續量為主。本課用長度及十等分紙條，不引入百分位、二位小數或小數乘除。先確認孩子懂1/10和十等分，並能分清一整條與一格，才把符號0.1連到相同的量。</p><h3>表徵安排</h3><p>三條同長十等分圖每條代表1公尺，前兩條全取、第三條4格，合24個0.1公尺為2.4公尺。外框有三條但未塗部分不算進量，先讓孩子逐份確認。位值圖把點放欄位間，個位2和十分位4各有對應量；避免用點當位名或讓4對錯欄。圖上單位關係屬教學設定，非螢幕物理尺。</p><p>10個0.1換1個一，連到1.0與1；24個0.1重組2.4，反向17個0.1重組1.7。交換時要移除被換掉的記錄，防止大條小格重複計數。對照0.7、7.0與0.0，讓0的位置有實際意義，不只背讀法。</p><h3>修復與差異化</h3><p>把2.4公尺解成2公尺4公分者，回到每格0.1公尺等於10公分，4格40公分，指出少算的量。支持組先0.1至0.9，清楚後才加整體1或2；熟練組在一與十分之一之間換記法，不增加小數位數。讀小數點後逐字，本課一位故每次只讀一個數字，避免順帶教未涉及內容。</p><h3>評量與可及性</h3><p>出口3.5、0.8、2.6及0.7圖，分別查位值、個位0、交換及分數連結。可口述、指圖或成人代寫，不因點寫太小直接判數量不懂，但提醒清楚標點避免誤讀。真實量測用校準尺和大紙帶、成人協助，不量兒童身體、不使用細小散片；全程可坐姿操作。</p>",
+  "exercises": [
+    {
+      "question": "0.4表示多少個1/10？",
+      "options": [
+        "4個",
+        "1個",
+        "40個"
+      ],
+      "answer": 0,
+      "hint": "看小數點右邊的十分位。",
+      "explanation": "十分位4表示4個十分之一，因此0.4和4/10表示同一數量。",
+      "id": "g3s2-mathematics-07-q01"
+    },
+    {
+      "question": "2.4的4代表多少？",
+      "options": [
+        "4個一",
+        "4個十",
+        "4個十分之一"
+      ],
+      "answer": 2,
+      "hint": "數字的值取決於所在欄位。",
+      "explanation": "4在小數點後第一位，屬十分位，所以代表0.4而非4。",
+      "id": "g3s2-mathematics-07-q02"
+    },
+    {
+      "question": "圖中前兩整條加第三條4格，共多少公尺？",
+      "options": [
+        "3公尺",
+        "2.4公尺",
+        "24公尺"
+      ],
+      "answer": 1,
+      "hint": "每整條1公尺，每格0.1公尺。",
+      "explanation": "兩整條是2公尺，另4格是0.4公尺，合起來2.4公尺。",
+      "id": "g3s2-mathematics-07-q03"
+    },
+    {
+      "question": "10個0.1等於？",
+      "options": [
+        "1",
+        "0.1",
+        "10"
+      ],
+      "answer": 0,
+      "hint": "十等份是否剛好填滿整體？",
+      "explanation": "10個十分之一正好組成1個一，所以10個0.1等於1。",
+      "id": "g3s2-mathematics-07-q04"
+    },
+    {
+      "question": "17個0.1可以寫成？",
+      "options": [
+        "1.7",
+        "17.0",
+        "0.7"
+      ],
+      "answer": 0,
+      "hint": "先換出一個完整1。",
+      "explanation": "其中10個0.1換成1，餘7個0.1，因此總量記為1.7。",
+      "id": "g3s2-mathematics-07-q05"
+    },
+    {
+      "question": "0.7和7.0，哪個說法正確？",
+      "options": [
+        "0.7等於7個一",
+        "0.7不足1，7.0等於7",
+        "兩數完全相同"
+      ],
+      "answer": 1,
+      "hint": "先看小數點左側的完整一。",
+      "explanation": "0.7只有7個十分之一，7.0有7個完整一，兩個數的位值不同。",
+      "id": "g3s2-mathematics-07-q06"
+    },
+    {
+      "question": "0.6公尺等於多少公分？",
+      "options": [
+        "6公分",
+        "60公分",
+        "600公分"
+      ],
+      "answer": 1,
+      "hint": "1公尺100公分分成10份。",
+      "explanation": "每0.1公尺是10公分，6份共60公分，所以0.6公尺等於60公分。",
+      "id": "g3s2-mathematics-07-q07"
+    },
+    {
+      "question": "26個0.1重組後是？",
+      "options": [
+        "6.2",
+        "26.0",
+        "2.6"
+      ],
+      "answer": 2,
+      "hint": "20個0.1先換2個一。",
+      "explanation": "20個十分之一等於2，再加6個十分之一，總量為2.6。",
+      "id": "g3s2-mathematics-07-q08"
+    }
+  ],
+  "selfCheck": [
+    "我知道每個0.1對應十分之一。",
+    "我能指出個位和十分位。",
+    "我會在一和十分之一間交換。",
+    "我不把0.6公尺當6公分。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "官方列出年級學習內容；本課學期位置、節數、原創情境及練習屬編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：三年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁23–26。N-3-10一位小數、十分位與位值換算，使用連續量；不擴展百分位或小數乘除。"
+    }
+  ]
+}

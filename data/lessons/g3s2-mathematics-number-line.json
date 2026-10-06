@@ -1,0 +1,178 @@
+{
+  "id": "g3s2-mathematics-number-line",
+  "course": "數學",
+  "title": "整數數線的標示、比較與加減",
+  "subtitle": "先查起點與每格大小，再看位置與移動。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與練習可分段。",
+  "materials": [
+    "從0開始的完整等距數線紙",
+    "粗筆、可指認的大型位置卡；不用地面跳躍"
+  ],
+  "goals": [
+    "能在0到10000的非負整數範圍讀標數線",
+    "能利用位置比較整數大小",
+    "能把不低於0的加減表示成數線移動"
+  ],
+  "intro": "本課的整數數線只教0與正整數，從0開始；不涉及負數或跨到0左邊的運算。",
+  "sections": [
+    {
+      "title": "數線先有起點和相同間隔",
+      "childText": "0是本課起點，每一格必須代表一樣多。",
+      "html": "<p>數線用一直線與等距刻度表示數。先找0，再確認每格代表多少；若相鄰刻度差1，就依次0、1、2、3往右增加。從0到5有5段間隔，不是把0那個點也算一段。</p><p>本課使用0到10000的非負整數，圖例先用0到20。每張圖的線段可以只呈現這個範圍，但都標出0。讀法不只看圖上有幾個數字，有的刻度雖沒寫數字，仍有自己的位置。</p>",
+      "id": "g3s2-mathematics-number-line-s01"
+    },
+    {
+      "title": "報讀位置，先由已知刻度數間隔",
+      "childText": "0到5分成5等格，每格就是1。",
+      "html": "<p>第一張圖在0、5、10、15、20標數，其間小格都等距。7在5右邊2格；13在10右邊3格。可以從最近標好的數往前後數，但要保持同樣每格1。</p><p>請在完整紙面數線標4、9、16，先用手指走到位置再落點。點放刻度上，不放兩格中間；本課只標整數，沒有半格的小數位置。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 253\" role=\"img\" aria-labelledby=\"g3s2-mathematics-number-line-addition-line\"><title id=\"g3s2-mathematics-number-line-addition-line\">從0到20的數線，每小格1；7向右先3格到10，再3格到13，共向右6格，表示7加6等於13。</title><line x1=\"30\" y1=\"130\" x2=\"330\" y2=\"130\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"30.0\" y1=\"125\" x2=\"30.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"30.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">0</text><line x1=\"45.0\" y1=\"125\" x2=\"45.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"60.0\" y1=\"125\" x2=\"60.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"75.0\" y1=\"125\" x2=\"75.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"90.0\" y1=\"125\" x2=\"90.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"105.0\" y1=\"125\" x2=\"105.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"105.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">5</text><line x1=\"120.0\" y1=\"125\" x2=\"120.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"135.0\" y1=\"125\" x2=\"135.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"150.0\" y1=\"125\" x2=\"150.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"165.0\" y1=\"125\" x2=\"165.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"180.0\" y1=\"125\" x2=\"180.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">10</text><line x1=\"195.0\" y1=\"125\" x2=\"195.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"210.0\" y1=\"125\" x2=\"210.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"225.0\" y1=\"125\" x2=\"225.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"240.0\" y1=\"125\" x2=\"240.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"255.0\" y1=\"125\" x2=\"255.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"255.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">15</text><line x1=\"270.0\" y1=\"125\" x2=\"270.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"285.0\" y1=\"125\" x2=\"285.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"300.0\" y1=\"125\" x2=\"300.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"315.0\" y1=\"125\" x2=\"315.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"330.0\" y1=\"125\" x2=\"330.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"330.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">20</text><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">每一小格表示1，從0開始</text><path d=\"M 135 125 Q 157.5 65 180 125\" fill=\"none\" stroke=\"#327c65\" stroke-width=\"3\"/><polygon points=\"173,118 180,128 183,116\" fill=\"#327c65\"/><text x=\"157.5\" y=\"84\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">＋3</text><path d=\"M 180 125 Q 202.5 65 225 125\" fill=\"none\" stroke=\"#327c65\" stroke-width=\"3\"/><polygon points=\"218,118 225,128 228,116\" fill=\"#327c65\"/><text x=\"202.5\" y=\"84\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">＋3</text><circle cx=\"135\" cy=\"130\" r=\"4\" fill=\"#193c34\"/><text x=\"135\" y=\"186\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">7</text><circle cx=\"225\" cy=\"130\" r=\"4\" fill=\"#193c34\"/><text x=\"225\" y=\"186\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">13</text><text x=\"180\" y=\"221\" text-anchor=\"middle\" font-size=\"21\" fill=\"#193c34\">7向右走6格，到13</text></svg><figcaption>從0到20的數線，每小格1；7向右先3格到10，再3格到13，共向右6格，表示7加6等於13。</figcaption></figure>",
+      "id": "g3s2-mathematics-number-line-s02"
+    },
+    {
+      "title": "比較大小，看誰離0更往右",
+      "childText": "同一數線上，右邊的數較大。",
+      "html": "<p>9在6的右邊，所以9＞6；4在12的左邊，所以4＜12。這是本課由0向右增加的數序，不靠紙上數字寫得大小或顏色深淺判斷。</p><p>若兩點重合，就代表同一個數。0是本課範圍中最小的數；往左減少仍須停在0或右邊，本課不延伸負數。問到小於0的運算，先說它不在這課處理範圍。</p>",
+      "id": "g3s2-mathematics-number-line-s03"
+    },
+    {
+      "title": "加法向右，數的是移動幾格",
+      "childText": "7加6，從7出發，不從0重來。",
+      "html": "<p>第一圖示範7＋6，把起點放7，再向右走6格，可先走3到10再走3到13。中途拆成兩跳只是幫數，不是另改題目，總移動仍6格。</p><p>若從7開始把7當第一步，走到12就停，少走了一格。檢查方法是數相鄰刻度間的段，不數包含起點在內的點數。起點告訴已有多少，移動量告訴又添多少。</p>",
+      "id": "g3s2-mathematics-number-line-s04"
+    },
+    {
+      "title": "減法向左，仍留在非負範圍",
+      "childText": "14減5，向左5格到9。",
+      "html": "<p>下圖從14往左移5個單位間隔，依次到13、12、11、10、9，得到14－5＝9。0仍在左端；這題不會越過0，所以符合本課範圍。</p><p>檢查時從9向右5格可回14，對應9＋5＝14。若14減0，不移動，還在14；若14減14，正好到0。不是每個減法都回0，要看減去多少。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\" role=\"img\" aria-labelledby=\"g3s2-mathematics-number-line-subtraction-line\"><title id=\"g3s2-mathematics-number-line-subtraction-line\">0到20數線，每格1；從14向左5格到9，表示14減5等於9，未越過0。</title><line x1=\"30\" y1=\"130\" x2=\"330\" y2=\"130\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"30.0\" y1=\"125\" x2=\"30.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"30.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">0</text><line x1=\"45.0\" y1=\"125\" x2=\"45.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"60.0\" y1=\"125\" x2=\"60.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"75.0\" y1=\"125\" x2=\"75.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"90.0\" y1=\"125\" x2=\"90.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"105.0\" y1=\"125\" x2=\"105.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"105.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">5</text><line x1=\"120.0\" y1=\"125\" x2=\"120.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"135.0\" y1=\"125\" x2=\"135.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"150.0\" y1=\"125\" x2=\"150.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"165.0\" y1=\"125\" x2=\"165.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"180.0\" y1=\"125\" x2=\"180.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">10</text><line x1=\"195.0\" y1=\"125\" x2=\"195.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"210.0\" y1=\"125\" x2=\"210.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"225.0\" y1=\"125\" x2=\"225.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"240.0\" y1=\"125\" x2=\"240.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"255.0\" y1=\"125\" x2=\"255.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"255.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">15</text><line x1=\"270.0\" y1=\"125\" x2=\"270.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"285.0\" y1=\"125\" x2=\"285.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"300.0\" y1=\"125\" x2=\"300.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"315.0\" y1=\"125\" x2=\"315.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"330.0\" y1=\"125\" x2=\"330.0\" y2=\"135\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"330.0\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">20</text><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">每一小格表示1</text><path d=\"M 240 125 Q 202.5 53 165 125\" fill=\"none\" stroke=\"#a86132\" stroke-width=\"3\"/><polygon points=\"162,115 165,129 173,119\" fill=\"#a86132\"/><text x=\"203\" y=\"70\" text-anchor=\"middle\" font-size=\"22\" fill=\"#193c34\">−5</text><circle cx=\"165\" cy=\"130\" r=\"4\" fill=\"#193c34\"/><text x=\"165\" y=\"188\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">9</text><circle cx=\"240\" cy=\"130\" r=\"4\" fill=\"#193c34\"/><text x=\"240\" y=\"188\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">14</text></svg><figcaption>0到20數線，每格1；從14向左5格到9，表示14減5等於9，未越過0。</figcaption></figure>",
+      "id": "g3s2-mathematics-number-line-s05"
+    },
+    {
+      "title": "刻度換成100，數字跟著改",
+      "childText": "一樣長的一格，可以約定代表不同數量。",
+      "html": "<p>下圖0到1000分10等格，每格100。700在600右邊一格，不是右邊100格。圖上的距離代表數量比例，螢幕長度不是實物公尺或公分。</p><p>若0到10000分10等格，每格便代表1000；第3格是3000，第8格是8000。先看數字差與間隔數再決定刻度，不把上一張每格1的規則直接搬來。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 142\" role=\"img\" aria-labelledby=\"g3s2-mathematics-number-line-hundreds-line\"><title id=\"g3s2-mathematics-number-line-hundreds-line\">從0到1000的數線，分10等格，每格100；標數每200一次，點位於700，即600右側一格。</title><line x1=\"30\" y1=\"80\" x2=\"330\" y2=\"80\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"30.0\" y1=\"75\" x2=\"30.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"30.0\" y=\"110\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">0</text><line x1=\"60.0\" y1=\"75\" x2=\"60.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"90.0\" y1=\"75\" x2=\"90.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"90.0\" y=\"110\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">200</text><line x1=\"120.0\" y1=\"75\" x2=\"120.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"150.0\" y1=\"75\" x2=\"150.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"150.0\" y=\"110\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">400</text><line x1=\"180.0\" y1=\"75\" x2=\"180.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"210.0\" y1=\"75\" x2=\"210.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"210.0\" y=\"110\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">600</text><line x1=\"240.0\" y1=\"75\" x2=\"240.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"270.0\" y1=\"75\" x2=\"270.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"270.0\" y=\"110\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">800</text><line x1=\"300.0\" y1=\"75\" x2=\"300.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><line x1=\"330.0\" y1=\"75\" x2=\"330.0\" y2=\"85\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"330.0\" y=\"110\" text-anchor=\"middle\" font-size=\"18\" fill=\"#193c34\">1000</text><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">每一格表示100</text><circle cx=\"240\" cy=\"80\" r=\"5\" fill=\"#193c34\"/><text x=\"240\" y=\"50\" text-anchor=\"middle\" font-size=\"19\" fill=\"#193c34\">700</text></svg><figcaption>從0到1000的數線，分10等格，每格100；標數每200一次，點位於700，即600右側一格。</figcaption></figure>",
+      "id": "g3s2-mathematics-number-line-s06"
+    },
+    {
+      "title": "獨立出口：說起點、方向、格數和終點",
+      "childText": "移動記錄要讓別人可以照著重做。",
+      "html": "<p>在0到20每格1的數線，表示8＋7，從8向右7格到15；表示16－6，從16向左6格到10。再用加回檢查10＋6＝16，口說每個數的角色。</p><p>在每格100的0到1000數線，從300加400向右4格到700，不是向右400格。最後指出本課沒有負數，所有題目結果至少0；可坐姿指線、畫箭頭或讓成人依口述代標。</p>",
+      "id": "g3s2-mathematics-number-line-s07"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與來源</h3><p>N-3-11要求整數數線從0開始，結合數序、長度和尺的經驗理解比較及加減。本課明定0到10000的非負整數，只使用0與正整數，不因標題含整數就帶入負數算術。圖例每張保留0，且加減結果不越過0；沒有負數、分數或小數數線。</p><h3>刻度與位置</h3><p>先檢查等距與每格代表量：0到5五等格得每格1，標數可每5才寫但每條刻度仍有效。孩子常把點數當段數，0到5數到六個點便答6，要請手指走過五個間隔。標7、13先靠5與10定位，再在刻度落點。比較以右方較大，同一線上位置重合代表相等。</p><p>加法圖7到10到13每跳3，共加6；減法圖14到9向左5。箭頭是計數模型，操作在紙面，不安排踩線跳躍或身體競賽。用9加5回14檢查方向和步數；加0不移動，減到0是邊界情況，明說不越界。</p><h3>換尺度與差異化</h3><p>第三圖0到1000十等格每格100，700在第7格。再以文字0到10000十等格推每格1000，保持數範圍限制。支持組先0到10逐格標滿數，穩定後稀疏標數；熟練組說不同刻度為何需不同格數，不擴展負數。畫面像素不是真實長度，不能把格數解作公分，除非另有實物校準尺。</p><h3>評量與修復</h3><p>出口8加7、16減6、300加400，分別查起點、方向、間隔計數、尺度和終點。若加6只走5格，先指出起點不是第一段；若每格100卻走400格，回查每一格的標值。可指圖或口述成人代畫，讓孩子自己核對。成人記錄理解過程，不以動作快慢評分，不用地面跳躍或蒐集個人步長。</p>",
+  "exercises": [
+    {
+      "question": "本課數線學習的數範圍是？",
+      "options": [
+        "只包含小數",
+        "負數到正數全部運算",
+        "0到10000的非負整數"
+      ],
+      "answer": 2,
+      "hint": "看起點與本課明定的界線。",
+      "explanation": "本課從0開始，只處理0與正整數到10000，沒有教負數運算。",
+      "id": "g3s2-mathematics-number-line-q01"
+    },
+    {
+      "question": "0到5分成5個相同間隔，每格代表？",
+      "options": [
+        "6",
+        "5",
+        "1"
+      ],
+      "answer": 2,
+      "hint": "比較數值差和間隔數。",
+      "explanation": "數值增加5而共有5等格，每一格表示1，不把六個端點當六段。",
+      "id": "g3s2-mathematics-number-line-q02"
+    },
+    {
+      "question": "同一數線上9在6的右邊，可以知道？",
+      "options": [
+        "9＞6",
+        "9＜6",
+        "9＝6"
+      ],
+      "answer": 0,
+      "hint": "往右數值持續增加。",
+      "explanation": "本課數線由0往右依次增加，右方的9比左方的6大。",
+      "id": "g3s2-mathematics-number-line-q03"
+    },
+    {
+      "question": "7＋6在每格1的數線上如何表示？",
+      "options": [
+        "從7向左6格到1",
+        "從7向右6格到13",
+        "從0向右6格到6"
+      ],
+      "answer": 1,
+      "hint": "起點是已有量7，再增加6。",
+      "explanation": "加法由7開始向數量增加的右方移6個間隔，落在13。",
+      "id": "g3s2-mathematics-number-line-q04"
+    },
+    {
+      "question": "14－5的箭頭應如何？",
+      "options": [
+        "從5向左14格",
+        "從14向左5格到9",
+        "從14向右5格到19"
+      ],
+      "answer": 1,
+      "hint": "減法移往數值減少方向。",
+      "explanation": "從14向左依次13、12、11、10、9，五個間隔後得到9。",
+      "id": "g3s2-mathematics-number-line-q05"
+    },
+    {
+      "question": "14－0在數線上表示？",
+      "options": [
+        "停在14，不移動",
+        "向左14格",
+        "一定回0"
+      ],
+      "answer": 0,
+      "hint": "減去0表示沒有減少。",
+      "explanation": "減0不改變原數量，起點與終點同為14，不需要移動任何格。",
+      "id": "g3s2-mathematics-number-line-q06"
+    },
+    {
+      "question": "0到1000分10等格，700在600的哪裡？",
+      "options": [
+        "右邊100格",
+        "右邊1格",
+        "左邊1格"
+      ],
+      "answer": 1,
+      "hint": "每格代表100而不是1。",
+      "explanation": "700比600多100，這張數線每格正是100，所以只向右一格。",
+      "id": "g3s2-mathematics-number-line-q07"
+    },
+    {
+      "question": "每格100，從300加400應移動？",
+      "options": [
+        "向右4格到700",
+        "向左4格到0",
+        "向右400格"
+      ],
+      "answer": 0,
+      "hint": "先把增加量換成格數。",
+      "explanation": "400等於4份100，因此從300向右4格就到700，不能把數量當格數。",
+      "id": "g3s2-mathematics-number-line-q08"
+    }
+  ],
+  "selfCheck": [
+    "我先找0和每格代表量。",
+    "我數的是間隔，不是端點個數。",
+    "我能說加減的起點方向與終點。",
+    "我知道本課不越過0進入負數。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "官方列出年級學習內容；本課學期位置、節數、原創情境及練習屬編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：三年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁23–26。N-3-11數線必須從0開始，連結比較與加減；配合N-3-1範圍，本課0到10000非負整數，未教負數。"
+    }
+  ]
+}

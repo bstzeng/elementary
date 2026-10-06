@@ -1,0 +1,184 @@
+{
+  "id": "g3s2-english-05",
+  "course": "英語文",
+  "title": "常見動物與特徵",
+  "subtitle": "用名稱加上有證據的特徵，描述這張動物卡",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "用名稱加上有證據的特徵，描述這張動物卡。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能認讀cat、bird、fish三種動物名稱。",
+    "我會用It’s…和It has got…描述卡上提供的資訊。",
+    "我知道簡圖沒畫到不等於不存在，也不把個別圖例概括所有動物。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "先說是誰，再說有什麼",
+      "childText": "名稱和特徵提供不同資訊。",
+      "html": "<span lang=\"en\">cat</span>貓、<span lang=\"en\">bird</span>鳥、<span lang=\"en\">fish</span>魚。<span lang=\"en\">It’s a cat.</span>告訴聽者這是貓；<span lang=\"en\">It has got a tail.</span>說它有尾巴。本課先學名稱與有什麼，並不要求用畫面猜牠的情緒、性別或健康。<span lang=\"en\">tail</span>是尾巴，<span lang=\"en\">beak</span>是喙，<span lang=\"en\">legs</span>是腳。本頁用簡圖及明確資料練英語，不是完整動物解剖圖。教師先核對完整詞句讀法，再示範；孩子可先用中文指出畫面上相關部位。",
+      "id": "g3s2-english-05-s01"
+    },
+    {
+      "title": "真的動物圖卡與資料",
+      "childText": "圖能看見一些部位，文字補清楚範圍。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 280\" role=\"img\" aria-labelledby=\"g3s2-english-05-fig\"><title id=\"g3s2-english-05-fig\">原創動物卡：甲cat貓有畫出的尾巴；乙bird鳥有畫出的喙與兩隻腳；丙fish魚有畫出的尾部與鰭。這是簡化示意，未畫出的部分不代表不存在。</title><g stroke=\"#273d50\" stroke-width=\"2\"><ellipse cx=\"86\" cy=\"72\" rx=\"38\" ry=\"24\" fill=\"#e7bd89\"/><path d=\"M48 65Q11 15 22 62\" fill=\"none\" stroke-width=\"6\"/><circle cx=\"122\" cy=\"53\" r=\"21\" fill=\"#e7bd89\"/><path d=\"M104 40L103 19L118 32M129 32L143 18L141 45\" fill=\"#e7bd89\"/><path d=\"M63 87V111M96 91V111\" fill=\"none\"/><circle cx=\"129\" cy=\"50\" r=\"2\"/><ellipse cx=\"260\" cy=\"68\" rx=\"38\" ry=\"25\" fill=\"#8ac1df\"/><circle cx=\"294\" cy=\"47\" r=\"19\" fill=\"#8ac1df\"/><path d=\"M311 43L334 50L311 56Z\" fill=\"#efb952\"/><path d=\"M247 90V111M270 91V111\" fill=\"none\"/><circle cx=\"298\" cy=\"44\" r=\"2\"/><path d=\"M255 66Q275 87 239 84\" fill=\"none\"/><ellipse cx=\"140\" cy=\"208\" rx=\"54\" ry=\"28\" fill=\"#e59d77\"/><path d=\"M87 205L59 182V232Z\" fill=\"#e59d77\"/><path d=\"M120 182L146 158L160 184M133 214L151 231L156 210\" fill=\"#ca7655\"/><circle cx=\"173\" cy=\"203\" r=\"3\"/></g><g font-size=\"18\" lang=\"en\"><text x=\"52\" y=\"139\">甲 cat</text><text x=\"227\" y=\"139\">乙 bird</text><text x=\"117\" y=\"265\">丙 fish</text></g></svg><figcaption>原創動物卡：甲cat貓有畫出的尾巴；乙bird鳥有畫出的喙與兩隻腳；丙fish魚有畫出的尾部與鰭。這是簡化示意，未畫出的部分不代表不存在。</figcaption></figure><p>甲資料：貓，有尾巴。乙資料：鳥，有喙、兩隻腳。丙資料：魚，有尾部與鰭。這些是本頁指定卡片，未畫出的貓腳不代表真貓只有兩腳；簡圖不能拿來推斷完整身體數量。</p><p>本課句卡為<span lang=\"en\">It’s a cat. It has got a tail.</span>、<span lang=\"en\">It’s a bird. It has got a beak.</span>、<span lang=\"en\">It’s a fish.</span>。先配種類，再找支持描述的部位。</p>",
+      "id": "g3s2-english-05-s02"
+    },
+    {
+      "title": "示範：用兩句描述甲",
+      "childText": "it先有明確指向。",
+      "html": "<p>成人指甲說<span lang=\"en\">It’s a cat.</span>，再指尾巴說<span lang=\"en\">It has got a tail.</span>。先讓孩子指出it目前指哪張卡，才練兩句；若桌上三卡都沒指明，聽者可能不知道描述誰。</p><p>使用has got是本課選定完整框架，it後面配has got。聽見其他自然說法如<span lang=\"en\">It has a tail.</span>也可能表達同樣意思，不把未採用框架當錯。這次先維持模型一致，讓孩子專心找證據和連詞義。</p>",
+      "id": "g3s2-english-05-s03"
+    },
+    {
+      "title": "一起找：哪張卡符合線索",
+      "childText": "一條線索不一定只剩一個答案。",
+      "html": "<p>成人給線索<span lang=\"en\">It has got a tail.</span>，甲貓與丙魚都符合資料，不能聲稱只有甲。再加<span lang=\"en\">It’s a cat.</span>才在這三卡中確定甲。這一步教我們不要因第一個想到的動物就停止核對。</p><p>另一輪成人說<span lang=\"en\">It’s a bird. It has got a beak.</span>，孩子選乙並指出喙。完整讀稿由教師確認後實際讀出，先有圖卡支持，再依孩子需要減少提示；文字看懂與聽辨分欄記。</p>",
+      "id": "g3s2-english-05-s04"
+    },
+    {
+      "title": "修復：一張圖不是所有動物",
+      "childText": "用「這張卡」把範圍說清楚。",
+      "html": "<p>錯誤：「這隻鳥藍色，所以所有鳥都藍色。」修成「圖中的鳥是藍色；不同鳥可以不同。」另一錯誤：「貓圖只畫兩腳，所以貓只有兩腳。」先讀圖說的簡化限制，不把未畫到的部分當不存在。</p><p>不帶活體來抓摸、餵食或強迫動物表演。名字和特徵可用紙卡充分練習，不需接近陌生動物，也不以是否家裡有寵物作學習條件。</p>",
+      "id": "g3s2-english-05-s05"
+    },
+    {
+      "title": "自己試：換外觀仍辨種類",
+      "childText": "新卡用文字資料，不靠舊顏色。",
+      "html": "<p>新卡丁資料：「一隻白色貓，有尾巴」，成人可畫簡圖或只提供這句。請用本課兩句介紹丁；再問「甲和丁是不是都可用cat？」並說明顏色改變會不會改種類。</p><details><summary>完成後核對</summary><p lang=\"en\">It’s a cat. It has got a tail.</p><p>丁和甲都標貓，所以可用cat；外觀顏色不同不會在本題改變種類。只憑tail線索仍可能配到魚，需結合完整資料。</p></details><p>最後新資料只說「有尾巴」，沒有種類，孩子保留多個可能，不必硬選一張。</p>",
+      "id": "g3s2-english-05-s06"
+    },
+    {
+      "title": "用證據描述，比猜得快重要",
+      "childText": "回饋要說清哪個線索。",
+      "html": "<p>成人紀錄：「能分三種名稱；能找到喙；尾巴題知道有多個可能；兩句口說需要看卡。」下次可練把種類與特徵分成兩句，不大量增加陌生動物。</p><p>孩子可指部位、圈詞、AAC或選句卡，口語另由教師實際觀察。不能從身體示意猜個體性別或情緒，也不能把圖畫不精細當成語言理解不好。</p>",
+      "id": "g3s2-english-05-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>本課描寫限定給定圖卡，不進行百科分類或動物健康判斷。原圖與文字互補，特別說明貓腿省略，尾巴線索可多解，因此選擇題不將尾巴當唯一識別。支持者用中文部位和句卡，進階者組合兩條線索與承認資料不足。語法採it has got完整模型，與has自然變體不設互斥錯項。口語須教師示範，本課不提供或聲稱播放音訊，不安排動物接觸。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-05-q01",
+      "question": "乙資料是什麼動物？",
+      "options": [
+        "cat",
+        "bird",
+        "fish"
+      ],
+      "answer": 1,
+      "hint": "對照名稱及喙圖。",
+      "explanation": "乙圖卡和資料都標bird，不能只按顏色猜其他動物名稱。"
+    },
+    {
+      "id": "g3s2-english-05-q02",
+      "question": "It has got a tail.表示什麼？",
+      "options": [
+        "它有尾巴",
+        "它是十歲",
+        "它一定藍色"
+      ],
+      "answer": 0,
+      "hint": "tail是本課哪個部位？",
+      "explanation": "此句描述有尾巴的特徵，不包含年齡或顏色資訊。"
+    },
+    {
+      "id": "g3s2-english-05-q03",
+      "question": "只有尾巴線索，在本課哪種判斷合理？",
+      "options": [
+        "一定只有甲",
+        "一定只有乙",
+        "甲和丙都可能"
+      ],
+      "answer": 2,
+      "hint": "查看所有卡片的資料。",
+      "explanation": "甲貓與丙魚都提供尾部資訊，一條尾巴線索不足以唯一選甲。"
+    },
+    {
+      "id": "g3s2-english-05-q04",
+      "question": "確定甲時可以加哪項線索？",
+      "options": [
+        "It’s a bird.",
+        "I’m ten.",
+        "It’s a cat."
+      ],
+      "answer": 2,
+      "hint": "需要把種類也說出來。",
+      "explanation": "加上貓的種類資訊後，才能在目前卡片中把甲與有尾部的魚區分。"
+    },
+    {
+      "id": "g3s2-english-05-q05",
+      "question": "貓簡圖只畫出兩腳，能說貓只有兩腳嗎？",
+      "options": [
+        "不能，未畫到不等於不存在",
+        "能，圖片永遠完整",
+        "能，所有動物相同"
+      ],
+      "answer": 0,
+      "hint": "讀簡圖的限制。",
+      "explanation": "簡化圖只呈現部分可見特徵，不能當完整身體數量的證據。"
+    },
+    {
+      "id": "g3s2-english-05-q06",
+      "question": "新卡白貓仍可用哪句？",
+      "options": [
+        "It’s a fish.",
+        "It’s a cat.",
+        "It’s a ruler."
+      ],
+      "answer": 1,
+      "hint": "顏色不同不一定變種類。",
+      "explanation": "新卡明說白貓，因此名稱仍是cat，不能因顏色改變而換成別類。"
+    },
+    {
+      "id": "g3s2-english-05-q07",
+      "question": "本課需要抓活動物觀察嗎？",
+      "options": [
+        "不用，紙卡足夠",
+        "一定要抓陌生動物",
+        "要強迫牠表演"
+      ],
+      "answer": 0,
+      "hint": "材料已完整供應。",
+      "explanation": "紙圖和資料足以學詞語與描述，不需冒險接近或控制活體動物。"
+    },
+    {
+      "id": "g3s2-english-05-q08",
+      "question": "哪個說法有保持資料範圍？",
+      "options": [
+        "全部鳥都藍色",
+        "圖中這隻鳥是藍色",
+        "所有有尾巴的一定是貓"
+      ],
+      "answer": 1,
+      "hint": "從這張圖能知道多少？",
+      "explanation": "只說本圖個體顏色符合證據，不能將一張圖擴大成所有動物的規則。"
+    }
+  ],
+  "selfCheck": [
+    "我能認讀cat、bird、fish三種動物名稱。",
+    "我會用It’s…和It has got…描述卡上提供的資訊。",
+    "我知道簡圖沒畫到不等於不存在，也不把個別圖例概括所有動物。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Have got",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/have-got",
+      "note": "2026-10-05 直接核對正文have/has got可表達物品、家人與身體部位，it搭配has got；本課動物圖、描述與比較原創，未驗聽。"
+    },
+    {
+      "title": "Cambridge English｜Young Learners Handbook",
+      "url": "https://www.cambridgeenglish.org/vn/images/153612-yle-handbook-for-teachers.pdf",
+      "note": "2026-10-05 直接開啟官方詞彙與句型資料，供cat、bird、fish、tail、leg等初階詞及描述框架核對；本課圖卡原創，不以考試分級替代臺灣課綱。"
+    }
+  ]
+}

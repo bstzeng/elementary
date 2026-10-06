@@ -1,0 +1,189 @@
+{
+  "id": "g3s2-english-11",
+  "course": "英語文",
+  "title": "歌謠與小組角色演出",
+  "subtitle": "用原創節奏句開場，合作演出一段會依資料變動的短劇",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "用原創節奏句開場，合作演出一段會依資料變動的短劇。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能理解原創四句節奏短詩並選合適參與方式。",
+    "我會按角色卡完成能力問答與顏色確認。",
+    "我能在換角色資料後更新臺詞，給一項具體回饋。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "演出用來傳意思",
+      "childText": "背順序還不夠，要依角色資料。",
+      "html": "<p>這次演「紙上小畫展」，結合能力問答、物品顏色確認與輪替。所有角色、劇本和短詩都是本課原創，不取用現成歌曲或旋律。現成圖卡已供應，不要求孩子現場畫畫或證明真實能力。</p><p>先選舒服形式：兩三人小桌、對成人、指句卡、AAC或讓成人代讀。可以只負責出圖與核對，不強迫全班公開唱演；真實說話、選句理解和道具操作分別記錄。</p>",
+      "id": "g3s2-english-11-s01"
+    },
+    {
+      "title": "完整原創節奏開場",
+      "childText": "四句各有完整意思，不是固定音節格。",
+      "html": "<div class=\"poem\" lang=\"en\"><p>We can look.</p><p>We can wait.</p><p>We can read.</p><p>We can share.</p></div><p>意思依序是我們可以看、等候、閱讀與分享。這是角色對活動方式的短句，不要求每個孩子以同樣方式看或讀；需要成人代讀或觸覺/AAC支持也能參與。</p><p>教師先確認自然讀法，先不打拍讀完整句，再自選輕點或指四行。每行長短可不同，不把每字都壓成同一拍，也不用大聲音響。沒有音檔，這份文字就是成人讀稿。</p>",
+      "id": "g3s2-english-11-s02"
+    },
+    {
+      "title": "完整角色與道具",
+      "childText": "紙卡設定不等於孩子本人。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 168\" role=\"img\" aria-labelledby=\"g3s2-english-11-fig\"><title id=\"g3s2-english-11-fig\">原創演出用圖卡：甲紅魚，乙藍鳥。這些完成圖可直接指用，不需現場畫畫。</title><rect x=\"10\" y=\"15\" width=\"158\" height=\"135\" rx=\"7\" fill=\"white\" stroke=\"#38536e\"/><ellipse cx=\"91\" cy=\"77\" rx=\"41\" ry=\"25\" fill=\"#bd242a\"/><path d=\"M51 77L26 57V99Z\" fill=\"#bd242a\"/><circle cx=\"111\" cy=\"70\" r=\"4\"/><text x=\"52\" y=\"132\" font-size=\"19\">甲紅魚</text><rect x=\"188\" y=\"15\" width=\"158\" height=\"135\" rx=\"7\" fill=\"white\" stroke=\"#38536e\"/><ellipse cx=\"257\" cy=\"86\" rx=\"32\" ry=\"22\" fill=\"#235ba4\"/><circle cx=\"284\" cy=\"61\" r=\"18\" fill=\"#235ba4\"/><path d=\"M300 56L326 65L300 70Z\" fill=\"#e5ab43\"/><path d=\"M247 108V119M270 108V119\" stroke=\"#23374a\" stroke-width=\"3\"/><circle cx=\"289\" cy=\"58\" r=\"3\"/><text x=\"230\" y=\"140\" font-size=\"19\">乙藍鳥</text></svg><figcaption>原創演出用圖卡：甲紅魚，乙藍鳥。這些完成圖可直接指用，不需現場畫畫。</figcaption></figure><p>主持人負責開場與出圖；畫家角色Kit的卡明寫「會畫魚，不會畫鳥」，訪客Mia負責提問。畫家卡只供演出，不是對孩子能力下定論。角色可以換人，角色資料不隨演員真實能力改。</p><p>道具就是上方甲紅魚與乙藍鳥原創圖，孩子可指圖，也可由成人在大紙畫同樣簡圖並寫色名。第一版使用甲紅魚。三人角色不足時由成人兼任；不需要服裝、照片、錄音或實物動物。</p>",
+      "id": "g3s2-english-11-s03"
+    },
+    {
+      "title": "完整原創三幕劇本",
+      "childText": "每個角色清楚知道何時輪到自己。",
+      "html": "<div class=\"story\"><h3>第一幕：招呼與確認能力</h3><p>主持人：<span lang=\"en\">Hello.</span></p><p>Mia：<span lang=\"en\">Can you draw a bird?</span></p><p>Kit：<span lang=\"en\">No, I can’t.</span></p><h3>第二幕：換可行請求</h3><p>Mia：<span lang=\"en\">Can you draw a fish?</span></p><p>Kit：<span lang=\"en\">Yes, I can.</span></p><p>主持人出示甲紅魚卡，不現場作畫。</p><h3>第三幕：確認畫面</h3><p>Mia：<span lang=\"en\">Is it blue?</span></p><p>Kit：<span lang=\"en\">No, it isn’t. It’s red.</span></p><p>Mia：<span lang=\"en\">Thank you.</span></p></div><p>教師先完整自然示範一輪，孩子用中文重述三幕作用：問能力、換符合能力的請求、確認畫面。不是問兩次就一定一No一Yes，而是Kit卡真的提供兩項不同資料。</p>",
+      "id": "g3s2-english-11-s04"
+    },
+    {
+      "title": "一起排練與修復",
+      "childText": "每次只改一件會影響理解的事。",
+      "html": "<p>先單練第一、二幕能力問答，再加出圖和第三幕。核對者用兩欄紙記「能力回答合卡嗎／顏色回答合圖嗎」，一項困難只給一條具體回饋，如「問完留時間，對方才能選完整回應」。</p><p>如果Kit把顏色題答成<span lang=\"en\">No, I can’t.</span>，先分清Can you和Is it框架，再替換成<span lang=\"en\">No, it isn’t.</span>；不是重罰演整齣。若出圖晚了，先暫停等待，不能要求訪客對未看到的圖猜顏色。</p>",
+      "id": "g3s2-english-11-s05"
+    },
+    {
+      "title": "自己試：換一個劇情設定",
+      "childText": "換資料後，不可照背舊答案。",
+      "html": "<p>新畫家卡明寫「會畫鳥，不會畫魚」，這次先問<span lang=\"en\">Can you draw a bird?</span>，答完出示乙藍鳥卡，再問<span lang=\"en\">Is it blue?</span>。請小組安排三個步驟：能力問答、出圖、顏色確認，自己選需要的完整臺詞，不先看下方答案。</p><details><summary>演過再核對</summary><p lang=\"en\">Can you draw a bird? Yes, I can. Is it blue? Yes, it is.</p><p>鳥能力和藍色都符合新資料，兩次都肯定，但完整回應的I can與it is不同。圖卡乙已供應，不需另找素材。</p></details><p>角色可自願換位或保持原分工；換人不等於強迫每人公開唱讀。</p>",
+      "id": "g3s2-english-11-s06"
+    },
+    {
+      "title": "用一次具體回饋完成修訂",
+      "childText": "再演一段，檢查建議有沒有幫助。",
+      "html": "<p>紀錄例：「第一次Mia問太快；第二次問完留等待，Kit可自己選句；新鳥卡能改兩次肯定。」有具體變化才知道合作修訂做了什麼，不只說很棒或聲音最大。</p><p>成人評語意、輪替、資料轉用與修復；真正英語可理解性需聽見當次語音。指句卡或代讀能證明相應理解，不能誤記為獨立口語。演出結束不拍照上傳、不分享真名，作品可只保留匿名紙卡。</p>",
+      "id": "g3s2-english-11-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>先學原創四句開場，再以兩種問答框架串成三幕。主劇與新設定都供應完整角色資料和實際原創動物圖，成人不另尋外部媒體。支持者出圖、指卡或旁白，進階者換資料與修復框架，仍不加陌生句型。教師記具體輪替變化及資料轉用，公開演出不是必要條件；不把角色can設定當兒童真實能力或必須表演的同意。全文需教師確認自然模型，本頁未驗聽錄音，不使用合成音。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-11-q01",
+      "question": "本課節奏短詩是哪種作品？",
+      "options": [
+        "必須模仿的傳統歌",
+        "真實能力測驗",
+        "本課原創四句短詩"
+      ],
+      "answer": 2,
+      "hint": "看作品和活動的定位。",
+      "explanation": "四句由本課原創作為開場，並非傳統歌曲或對兒童能力的考試。"
+    },
+    {
+      "id": "g3s2-english-11-q02",
+      "question": "第一版Kit會畫什麼？",
+      "options": [
+        "鳥",
+        "資料沒有說",
+        "魚"
+      ],
+      "answer": 2,
+      "hint": "查看完整畫家角色卡。",
+      "explanation": "第一版卡明寫會畫魚不會畫鳥，回答需根據虛構設定。"
+    },
+    {
+      "id": "g3s2-english-11-q03",
+      "question": "第一版Can you draw a bird?應答？",
+      "options": [
+        "Yes, I can.",
+        "No, I can’t.",
+        "No, it isn’t."
+      ],
+      "answer": 1,
+      "hint": "能力和框架都要符合。",
+      "explanation": "Kit不會畫鳥，應用能力否定I can’t，不能用物品確認框架。"
+    },
+    {
+      "id": "g3s2-english-11-q04",
+      "question": "第一版出甲圖後問Is it blue?怎麼答？",
+      "options": [
+        "No, it isn’t. It’s red.",
+        "Yes, I can.",
+        "Yes, it is."
+      ],
+      "answer": 0,
+      "hint": "看甲圖色名及問句類型。",
+      "explanation": "甲為紅魚，應否定藍色並補red，且使用it is的物品框架。"
+    },
+    {
+      "id": "g3s2-english-11-q05",
+      "question": "出圖還沒準備好時，較好做法？",
+      "options": [
+        "暫停等待再問顏色",
+        "逼訪客猜看不到的圖",
+        "只把問題喊大聲"
+      ],
+      "answer": 0,
+      "hint": "判斷需要的資訊是否已到位。",
+      "explanation": "顏色確認需有明確圖卡，等資料到位比逼人猜或增加音量有效。"
+    },
+    {
+      "id": "g3s2-english-11-q06",
+      "question": "新畫家會畫鳥，Can you draw a bird?應答？",
+      "options": [
+        "No, I can’t.",
+        "Yes, I can.",
+        "Yes, it is."
+      ],
+      "answer": 1,
+      "hint": "角色資料已經更新。",
+      "explanation": "新卡明寫會畫鳥，應更新為能力肯定，而不是沿用前版否定。"
+    },
+    {
+      "id": "g3s2-english-11-q07",
+      "question": "新乙藍鳥問Is it blue?應答？",
+      "options": [
+        "Yes, I can.",
+        "Yes, it is.",
+        "No, it isn’t."
+      ],
+      "answer": 1,
+      "hint": "條件與物品框架一起核對。",
+      "explanation": "乙確實是藍色，應用it is肯定，不把能力回答套到顏色題。"
+    },
+    {
+      "id": "g3s2-english-11-q08",
+      "question": "哪個回饋最具體可用？",
+      "options": [
+        "問完留等待，對方能自己選句",
+        "你就是要更有感情",
+        "誰最大聲誰最好"
+      ],
+      "answer": 0,
+      "hint": "找出做法和效果。",
+      "explanation": "具體指出等待如何幫回應，才能在下一次演出嘗試與核對改善。"
+    }
+  ],
+  "selfCheck": [
+    "我能理解原創四句節奏短詩並選合適參與方式。",
+    "我會按角色卡完成能力問答與顏色確認。",
+    "我能在換角色資料後更新臺詞，給一項具體回饋。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Modal verbs: can, could",
+      "url": "https://africa.teachingenglish.org.uk/classroom/grammar/modals-can-could",
+      "note": "2026-10-05 官方教學頁核對can/can’t能力句、問題與簡短回應；本課只用can現在能力，不採could進階項目。原創虛構角色資訊，不要求實際能力展示或合成聲音。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    },
+    {
+      "title": "British Council｜Colours 1",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-colours-1.pdf",
+      "note": "2026-10-05 直接核對官方PDF的基本顏色詞red、blue、yellow、green等。圖片與練習原創，顏色另附文字標記。"
+    }
+  ]
+}

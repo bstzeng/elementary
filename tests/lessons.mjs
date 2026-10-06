@@ -64,6 +64,16 @@ for(const id of manifest.lessonIds){
  }
 
 
+ if(id==='g3s1-english-01'){
+  const chart=html.match(/<svg\b[^>]*aria-labelledby="g3s1-english-01-fig"[^>]*>[\s\S]*?<\/svg>/)?.[0];
+  assert.ok(chart,'Complete original uppercase/lowercase chart is present');
+  const pairs=Array.from({length:26},(_,i)=>`${String.fromCharCode(65+i)} ${String.fromCharCode(97+i)}`);
+  const renderedPairs=[...chart.matchAll(/<text\b[^>]*lang="en"[^>]*>([A-Z])\s+([a-z])<\/text>/g)].map(m=>`${m[1]} ${m[2]}`);
+  assert.deepEqual(renderedPairs,pairs,'All26 exact upper/lower pairs appear in alphabetical order with English language markup');
+  const outsideSvgHtml=html.replace(/<svg\b[\s\S]*?<\/svg>/g,'');
+  assert.ok(outsideSvgHtml.includes(`<span lang="en">${pairs.join(' ')}</span>`),'Full plain-text alphabet fallback remains available outside the image');
+ }
+
  if(id==='g2s1-mathematics-08'){
   const chart=html.match(/<table class="hundred-chart multiplication-chart">([\s\S]*?)<\/table>/)?.[1];
   assert.ok(chart,'Native product table uses its scoped label-width class');
@@ -95,6 +105,23 @@ for(const id of manifest.lessonIds){
  for(const [,target] of html.matchAll(/\bfor="([^"]+)"/g))assert.ok(ids.includes(target),`Label target ${target}`);
  for(const tag of html.matchAll(/<a\b[^>]*target="_blank"[^>]*>/g))assert.ok(tag[0].includes('rel="noopener noreferrer"'));
  for(const tag of html.matchAll(/<svg\b[^>]*>/g))assert.ok(/aria-hidden="true"|aria-label=|aria-labelledby=/.test(tag[0]),`SVG accessible name ${id}: ${tag[0]}`);
+ for(const [,tag] of html.matchAll(/(<img\b[^>]*>)/g)){
+  const src=tag.match(/\bsrc="([^"]+)"/)?.[1]||'';
+  if(src==='../assets/favicon.svg')continue; // Existing decorative brand mark, not lesson evidence.
+  assert.ok(src.startsWith('../assets/lessons/')&&!src.includes('..',3)&&!/[?#]/.test(src),`Lesson photograph is a stable local asset: ${id}`);
+  assert.ok(/\balt="[^"]+"/.test(tag),`Photo has a meaningful text alternative: ${id}`);
+  assert.ok(/\bwidth="[1-9]\d*"/.test(tag)&&/\bheight="[1-9]\d*"/.test(tag),`Photo reserves its intrinsic dimensions: ${id}`);
+  assert.ok(/max-width:\s*100%/.test(tag)&&/height:\s*auto/.test(tag),`Photo stays responsive without JavaScript: ${id}`);
+  assert.ok(!/\bsrcset=/.test(tag),'No unreviewed alternate image source');
+ }
+ if(id==='g3s2-social-11'){
+  const src='../assets/lessons/g3s2-social-11-historic-road.jpg';
+  const photo=html.match(/<img\b[^>]*src="\.\.\/assets\/lessons\/g3s2-social-11-historic-road\.jpg"[^>]*>/)?.[0]||'';
+  assert.ok(photo,'The source-comparison lesson includes its authentic local archival photograph');
+  assert.ok(photo.includes('width="3840"')&&photo.includes('height="3274"'),'Original archive image aspect ratio is preserved');
+  assert.equal(createHash('sha256').update(await readFile(path.resolve(root,'lessons',src))).digest('hex'),'287bd8e3147da2e32880d507b0ddbf0936496c1fdf97a3b3d9deca4dd33a3d73','Authentic photo remains byte-identical to reviewed official download');
+  assert.ok(html.includes('2004.020.0109.0015')&&html.includes('PDM')&&html.includes('國立臺灣歷史博物館'),'Accession, credit and item-specific public-domain mark remain visible');
+ }
  assert.ok(!/<script(?! src="\.\.\/lesson.js")|<iframe|<audio|<video|autoplay|on(?:click|load|error)=|https?:\/\/[^" ]+\.js["']/i.test(html),'No external executable/embed/autoplay');
  assert.ok(!/localStorage|sessionStorage|fetch\(|XMLHttpRequest|sendBeacon|webkitSpeech|speechSynthesis/.test(await read('lesson.js')));
 

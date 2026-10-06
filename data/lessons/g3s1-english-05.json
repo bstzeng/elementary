@@ -1,0 +1,184 @@
+{
+  "id": "g3s1-english-05",
+  "course": "英語文",
+  "title": "招呼、自我介紹與名字",
+  "subtitle": "在紙上角色小站打招呼、問名字，再確認彼此聽懂",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "在紙上角色小站打招呼、問名字，再確認彼此聽懂。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能分辨招呼、問名字和回答名字的用途。",
+    "我會依虛構名字卡選完整回答。",
+    "我會在沒聽清楚時請人重說，不亂猜別人的名字。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "先知道誰問、誰回答",
+      "childText": "招呼與問題有不同工作。",
+      "html": "<span lang=\"en\">Hello.</span>和<span lang=\"en\">Hi.</span>可用在本課友善見面。<span lang=\"en\">What’s your name?</span>問對方名字。<span lang=\"en\">My name is Mia.</span>和<span lang=\"en\">I’m Mia.</span>都能介紹名字。這裡Mia是紙上角色，不必改成你的真名。<p>問完留時間讓對方回應，不是一個人把全部句子唸完。打招呼不必握手、碰觸或對視；可以指句卡或讓成人代讀你的選擇。先用中文理解這輪在做什麼，再由合格教師示範英語，避免只記一串聲音。</p>",
+      "id": "g3s1-english-05-s01"
+    },
+    {
+      "title": "三張虛構名字卡",
+      "childText": "依卡片資訊，不猜外表。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 267\" role=\"img\" aria-labelledby=\"g3s1-english-05-fig\"><title id=\"g3s1-english-05-fig\">原創紙卡資料；所有人物與數字都是虛構練習資料。</title><rect x=\"12\" y=\"10\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"38\" font-size=\"21\" lang=\"en\">Mia</text><text x=\"27\" y=\"67\" font-size=\"17\">甲卡：Mia；辨認記號是圓形。</text><rect x=\"12\" y=\"95\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"123\" font-size=\"21\" lang=\"en\">Ben</text><text x=\"27\" y=\"152\" font-size=\"17\">乙卡：Ben；辨認記號是三角形。</text><rect x=\"12\" y=\"180\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"208\" font-size=\"21\" lang=\"en\">Jo</text><text x=\"27\" y=\"237\" font-size=\"17\">丙卡：Jo；辨認記號是正方形。</text></svg><figcaption>原創紙卡資料；所有人物與數字都是虛構練習資料。</figcaption></figure><p>甲<span lang=\"en\">Mia</span>、乙<span lang=\"en\">Ben</span>、丙<span lang=\"en\">Jo</span>的記號只是方便找卡，不能推斷性別、國籍或性格。先找出成人指的中文代號與名字，再把句卡<span lang=\"en\">I’m Mia.</span>、<span lang=\"en\">I’m Ben.</span>、<span lang=\"en\">I’m Jo.</span>配上。</p><p>成人可持兩卡自演，兒童也可自由選一張。名字尚不熟悉可一直看模型，不以先會拼字作參加條件；不收集真名或照片。</p>",
+      "id": "g3s1-english-05-s02"
+    },
+    {
+      "title": "原創短劇：新角色加入",
+      "childText": "轉向哪一位，就等哪一位回答。",
+      "html": "<div class=\"story\"><p>甲：<span lang=\"en\">Hello. I’m Mia.</span></p><p>乙：<span lang=\"en\">Hi, Mia. I’m Ben.</span></p><p>甲轉向新加入的丙：<span lang=\"en\">What’s your name?</span></p><p>丙：<span lang=\"en\">My name is Jo.</span></p><p>甲：<span lang=\"en\">Hello, Jo.</span></p><p>丙：<span lang=\"en\">Hi, Mia.</span></p></div><p>教師課前確認完整句子和名字讀法，再按角色自然讀，換人時停頓。問丙時應由丙提供資訊，乙不搶答Ben。讀完請孩子指問題、回答和招呼，並用中文說誰是Jo。看文字成功只證明這次圖文理解，真正聽辨另做。</p>",
+      "id": "g3s1-english-05-s03"
+    },
+    {
+      "title": "一起練：同一句問題換卡",
+      "childText": "不要沿用前一輪名字。",
+      "html": "<p>成人持甲，孩子持乙。成人說<span lang=\"en\">Hello. What’s your name?</span>；孩子依卡選<span lang=\"en\">I’m Ben.</span>；成人回<span lang=\"en\">Hi, Ben.</span>。先只有這三步，確認意思後再交換問者與答者。</p><p>第二輪孩子改拿丙卡，仍聽同一句問題，但應答<span lang=\"en\">I’m Jo.</span>。成人等待，不先說Jo也不指答案。孩子可以先指名字、再指完整句、最後自願口說；記清楚每步用了什麼支持。兩輪回答不同是因為角色資訊換了，不是問句意思換了。</p>",
+      "id": "g3s1-english-05-s04"
+    },
+    {
+      "title": "沒聽清楚時修復",
+      "childText": "請重說比猜測可靠。",
+      "html": "<p>求重說卡：<span lang=\"en\">Please say that again.</span>，意思是請再說一次。教師先確認並自然示範。原創情境：成人說<span lang=\"en\">I’m Jo.</span>，孩子沒聽清而選重說卡，成人再說<span lang=\"en\">I’m Jo.</span>，孩子確認<span lang=\"en\">Hi, Jo.</span>。</p><p>叫錯名字時可用熟悉語言說「請再告訴我」，不要求臨時背未教的長道歉句。名字可能有不同正常讀法；不熟悉就詢問，不取笑、亂改稱呼或要求同伴一定要取英文名字。需要等待也不等於不禮貌。</p>",
+      "id": "g3s1-english-05-s05"
+    },
+    {
+      "title": "自己試：只讓回答者看到卡",
+      "childText": "讓名字真正成為新資訊。",
+      "html": "<p>三卡背面朝上，孩子選一張自己看，成人看不到。成人問<span lang=\"en\">What’s your name?</span>，孩子指或說完整句，再轉卡核對。保留字卡查找，獨立與看卡完成分開記。</p><details><summary>完成後核對</summary><p>甲：<span lang=\"en\">I’m Mia.</span>；乙：<span lang=\"en\">I’m Ben.</span>；丙：<span lang=\"en\">I’m Jo.</span>。各句也能改用<span lang=\"en\">My name is…</span>加相同名字，兩種框架都自然。</p></details><p>再換孩子提問，成人另抽卡回答。孩子指出成人的角色，必要時使用重說卡；這一步檢查聽者是否取得訊息，而不是只背台詞。</p>",
+      "id": "g3s1-english-05-s06"
+    },
+    {
+      "title": "留下具體回饋",
+      "childText": "理解、回答和聽者確認分開看。",
+      "html": "<p>紀錄例：「拿丙選I’m Jo，聽者找到丙；第二輪需要成人重說。」這比「我很會講」更具體。下次目標可以是先等問題問完再答，或看卡回答後試少看一次，不必一下背熟全部句子。</p><p>同伴回饋可說「你換卡後更新名字，所以我找到新角色」，不評誰最大聲或最像外國人。口語是否可理解由教師現場觀察；文字選擇題只檢查本頁句子功能和角色資料。</p>",
+      "id": "g3s1-english-05-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>先兩角色互動，再加入第三角色，最後以隱藏卡資訊差檢查轉用。問句功能、卡片一致、聽者確認與修復逐項記錄。支持者保留完整句與中文角色標記，進階者互換問答，不新增住址國籍等私人問題。教師確認名字讀法，接納正常變體；不強迫英文改名、對視或公開介紹。若成人代讀孩子選出的句子，只能記成選句理解，不冒充獨立口語。</p>",
+  "exercises": [
+    {
+      "id": "g3s1-english-05-q01",
+      "question": "What’s your name?問什麼？",
+      "options": [
+        "年齡",
+        "顏色",
+        "名字"
+      ],
+      "answer": 2,
+      "hint": "先找問句要的資訊。",
+      "explanation": "這句詢問對方名字，不能拿年齡或顏色資料代替回答。"
+    },
+    {
+      "id": "g3s1-english-05-q02",
+      "question": "乙卡應配哪句？",
+      "options": [
+        "I’m Ben.",
+        "I’m Mia.",
+        "I’m Jo."
+      ],
+      "answer": 0,
+      "hint": "查乙卡上的名字。",
+      "explanation": "乙卡明確標示Ben，完整回答要與正在扮演的角色相符。"
+    },
+    {
+      "id": "g3s1-english-05-q03",
+      "question": "甲轉向丙問名字，誰應回答？",
+      "options": [
+        "乙Ben搶答",
+        "丙Jo",
+        "甲自己亂猜"
+      ],
+      "answer": 1,
+      "hint": "看這輪問題交給誰。",
+      "explanation": "問題轉向丙，應由丙提供名字，而非繼續套前一輪乙的答案。"
+    },
+    {
+      "id": "g3s1-english-05-q04",
+      "question": "Hello.在本課主要用途是？",
+      "options": [
+        "問年齡",
+        "見面招呼",
+        "命令握手"
+      ],
+      "answer": 1,
+      "hint": "想想它出現的場景。",
+      "explanation": "Hello用於招呼，並沒有命令身體接觸或詢問年齡的意思。"
+    },
+    {
+      "id": "g3s1-english-05-q05",
+      "question": "沒聽清名字時哪句有幫助？",
+      "options": [
+        "Please say that again.",
+        "I’m ten.",
+        "It’s blue."
+      ],
+      "answer": 0,
+      "hint": "選能取得缺少訊息的句子。",
+      "explanation": "請對方再說能補足名字資訊，年齡與顏色句不能修復這個困難。"
+    },
+    {
+      "id": "g3s1-english-05-q06",
+      "question": "由乙換丙卡後應回答？",
+      "options": [
+        "I’m Ben.",
+        "I’m Mia.",
+        "I’m Jo."
+      ],
+      "answer": 2,
+      "hint": "按照本輪新卡作答。",
+      "explanation": "丙卡資料是Jo，換卡後要更新名字，不沿用乙的Ben。"
+    },
+    {
+      "id": "g3s1-english-05-q07",
+      "question": "I’m Mia.和My name is Mia.在這裡如何？",
+      "options": [
+        "只有長句能用",
+        "都能介紹Mia這個名字",
+        "都在問顏色"
+      ],
+      "answer": 1,
+      "hint": "比較兩句傳達的資訊。",
+      "explanation": "兩種常用框架都可介紹名字，句子長短不是判斷正確與否的條件。"
+    },
+    {
+      "id": "g3s1-english-05-q08",
+      "question": "練這課需要提供什麼個人資料？",
+      "options": [
+        "不用真實資料，使用虛構卡即可",
+        "全班真名照片",
+        "真實住址"
+      ],
+      "answer": 0,
+      "hint": "本頁已經供應角色。",
+      "explanation": "虛構名字足以支持問答學習，不必收集真實身分與住址資訊。"
+    }
+  ],
+  "selfCheck": [
+    "我能分辨招呼、問名字和回答名字的用途。",
+    "我會依虛構名字卡選完整回答。",
+    "我會在沒聽清楚時請人重說，不亂猜別人的名字。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜A new friend",
+      "url": "https://learnenglishkids.britishcouncil.org/listen-watch/listening-practice/level-1-listening/new-friend",
+      "note": "2026-10-05 直接核對官方逐字稿的Hello、What’s your name?、My name’s…、I’m…、How old are you?。未聽音訊，未引用原故事或地點資訊，本課劇本人物原創。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    }
+  ]
+}

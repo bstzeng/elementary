@@ -1,0 +1,182 @@
+{
+  "id": "g3s2-arts-01",
+  "course": "藝術",
+  "title": "二拍、三拍與四拍的感受",
+  "subtitle": "速度可以一樣，拍子的分組可以不同",
+  "duration": "2–3次，每次約25–35分鐘；演唱與動作可分短段並休息",
+  "intro": "速度可以一樣，拍子的分組可以不同。先讀本頁完整原創材料，跟著示範試一次，再換一個條件自己完成。",
+  "goals": [
+    "我能在穩定速度中感受二拍、三拍與四拍分組。",
+    "我能讀2/4、3/4、4/4的本課拍數意義。",
+    "我能用小幅指點或聲音做一個新拍組模型。"
+  ],
+  "materials": [
+    "本頁原創拍組卡與三份節奏",
+    "成人均勻拍點示範；可無聲指卡或坐姿輕點，不走步或搖晃身體"
+  ],
+  "sections": [
+    {
+      "id": "g3s2-arts-01-s01",
+      "title": "二、三、四說的是一組幾拍",
+      "childText": "不是哪一種一定比較快。",
+      "html": "<p>今天每一拍的速度保持舒服且均勻，再讓拍子兩個一組、三個一組、四個一組。二拍是1、2再回1；三拍是1、2、3再回1；四拍是1、2、3、4再回1。新的1像重新出發的地方。</p><p>用2/4、3/4、4/4寫本課拍號：下面4表示四分音符作一拍，上面數字說每小節有2、3或4拍。這是本課單拍子的讀法，不把方法任意套到尚未教的6/8。拍數不同，並不表示3/4一定比2/4慢。</p>"
+    },
+    {
+      "id": "g3s2-arts-01-s02",
+      "title": "看得到的拍組",
+      "childText": "大圈表示1，沒有要求用力敲。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 250\" role=\"img\" aria-labelledby=\"g3s2-arts-01-fig-title g3s2-arts-01-fig-desc\"><title id=\"g3s2-arts-01-fig-title\">原創教學示意</title><desc id=\"g3s2-arts-01-fig-desc\">原創拍組圖：2/4列有三組1、2；3/4列有兩組1、2、3；4/4列有兩組1、2、3、4。每個數字代表一個等距拍點，大圈表示每小節第1拍；橫向點距在不同列因版面縮放不同，不能拿圖距比較速度。</desc><rect width=\"360\" height=\"250\" fill=\"#fffdf6\"/><text x=\"12\" y=\"23\" font-size=\"16\" text-anchor=\"start\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">每點一拍；大圈標出新一組的1</text><text x=\"12\" y=\"68\" font-size=\"17\" text-anchor=\"start\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2/4</text><circle cx=\"77\" cy=\"63\" r=\"15\" fill=\"#e1bd59\" stroke=\"#385964\"/><text x=\"77\" y=\"68\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"125\" cy=\"63\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"125\" y=\"68\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"173\" cy=\"63\" r=\"15\" fill=\"#e1bd59\" stroke=\"#385964\"/><text x=\"173\" y=\"68\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"221\" cy=\"63\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"221\" y=\"68\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"269\" cy=\"63\" r=\"15\" fill=\"#e1bd59\" stroke=\"#385964\"/><text x=\"269\" y=\"68\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"317\" cy=\"63\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"317\" y=\"68\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><text x=\"12\" y=\"141\" font-size=\"17\" text-anchor=\"start\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">3/4</text><circle cx=\"77\" cy=\"136\" r=\"15\" fill=\"#e1bd59\" stroke=\"#385964\"/><text x=\"77\" y=\"141\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"125\" cy=\"136\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"125\" y=\"141\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"173\" cy=\"136\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"173\" y=\"141\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><circle cx=\"221\" cy=\"136\" r=\"15\" fill=\"#e1bd59\" stroke=\"#385964\"/><text x=\"221\" y=\"141\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"269\" cy=\"136\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"269\" y=\"141\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"317\" cy=\"136\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"317\" y=\"141\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><text x=\"12\" y=\"214\" font-size=\"17\" text-anchor=\"start\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">4/4</text><circle cx=\"77\" cy=\"209\" r=\"15\" fill=\"#e1bd59\" stroke=\"#385964\"/><text x=\"77\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"112\" cy=\"209\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"112\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"147\" cy=\"209\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"147\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><circle cx=\"182\" cy=\"209\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"182\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><circle cx=\"217\" cy=\"209\" r=\"15\" fill=\"#e1bd59\" stroke=\"#385964\"/><text x=\"217\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><circle cx=\"252\" cy=\"209\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"252\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><circle cx=\"287\" cy=\"209\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"287\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><circle cx=\"322\" cy=\"209\" r=\"10\" fill=\"#dce9e9\" stroke=\"#385964\"/><text x=\"322\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text></svg><figcaption>原創拍組圖：2/4列有三組1、2；3/4列有兩組1、2、3；4/4列有兩組1、2、3、4。每個數字代表一個等距拍點，大圈表示每小節第1拍；橫向點距在不同列因版面縮放不同，不能拿圖距比較速度。</figcaption></figure><p>這張圖的圈是拍點，不是完整樂譜。每列在自己的時間裡均勻前進；版面點距不同不表示播放速度不同。二拍列有6拍、三拍列也有6拍，但二拍是三組、三拍是兩組。四拍列是8拍兩組。</p>"
+    },
+    {
+      "id": "g3s2-arts-01-s03",
+      "title": "完整示範三種分組",
+      "childText": "先數準備拍，再做兩組。",
+      "html": "<p>成人先決定同一均勻速度。二拍模型：「1較清楚、2較輕｜1較清楚、2較輕」；三拍模型：「1較清楚、2較輕、3較輕」重複兩組；四拍模型：「1較清楚、2較輕、3次清楚、4較輕」重複兩組。只用自然音量，不重擊身體。</p><p>這是幫初學者感受分組的重音模型，不宣稱每首作品每一小節都照這個音量。實際音樂可以讓弱拍突出；但本課先用清楚模型練習「什麼時候回到1」。</p>"
+    },
+    {
+      "id": "g3s2-arts-01-s04",
+      "title": "一起把節奏裝進小節",
+      "childText": "音符數和拍數可以不同。",
+      "html": "<p>2/4節奏甲：四分音符1拍、四分休止1拍，一小節共2拍。3/4節奏乙：二分音符2拍、四分音符1拍，共3拍。4/4節奏丙：四分音符1拍、兩個八分音符合1拍、二分音符2拍，共4拍。先在拍點下畫跨格線或短聲點，再演奏或指讀。</p><p>成人只給穩定拍子，孩子每回新小節第一拍輕指大圈。乙雖只有兩個音，也不是二拍子；丙有四個音符，但要依實際時值核對，不能只數符號個數決定拍號。</p>"
+    },
+    {
+      "id": "g3s2-arts-01-s05",
+      "title": "把分組錯誤修回來",
+      "childText": "回到1的時機要一致。",
+      "html": "<p>三拍模式若數成1、2、1、2，已改成二拍分組。先把1、2、3三張卡放成一組，用手指走完整組才回1；成人不只喊更大聲的3。若每到1就加速，先用同速無重音四拍作時間尺，再重新加上較清楚的1。</p><p>不用把二拍必叫走路、三拍必叫轉圈、四拍必叫某種舞步。這些聯想可能有用，但本課不讓孩子旋轉或奔跑來證明拍子，也不把某一文化音樂簡化成單一拍號。</p>"
+    },
+    {
+      "id": "g3s2-arts-01-s06",
+      "title": "自己判斷新模型",
+      "childText": "聽辨必須有真實模型。",
+      "html": "<p>新模型丁文字：「1、2、3｜1、2、3｜1、2、3」，成人每個1較清楚且等速說出；新模型戊：「1、2、3、4｜1、2、3、4」。先遮文字聽成人實演並選三拍或四拍卡，再開文字核對。沒有準確實演時只做文字分組，不記聽辨。</p><details><summary>完成後核對</summary><p>丁是三拍分組，共3組9拍；戊是四拍分組，共2組8拍。兩者每拍可以同速；總時間不同來自總拍數。獨立再畫兩組二拍模型，共4拍，每組都從1起。</p></details>"
+    },
+    {
+      "id": "g3s2-arts-01-s07",
+      "title": "用一句話說分組依據",
+      "childText": "不要只說像某首歌。",
+      "html": "<p>請說「我在每3拍後回到新的1，所以選三拍」或「二分音符加四分音符共3拍」。這樣的理由能用在新的節奏，不必依賴熟悉歌名。一次聽不清可以請成人重做，不要求立刻猜。</p><p>最後比較自己指拍與讀譜的紀錄，分開寫「能數一組」「能維持兩組」「能聽出新模型」。每種表現都可逐步練，不用公開測快或加大音量。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>課程定位與準備</h3><p>本課是三年級藝術參考主題，第二學習階段為三、四年級，這裡的學期順序是編輯安排。先完整閱讀原創範例，再依現場材料與孩子需要拆成短段。只要求本課教過的技巧；不以家庭購買器材、既有才藝或成品像不像老師判定能力。教師示範後要留一次孩子自行選擇、修正及轉用的機會。</p><h3>本課實施與觀察證據</h3><p>成人先自查三種模式確實同速，與孩子只比較回到1的時機。圖中不同列點距是版面處理且已明示，不可拿物理距離當時間。評量拍組、指定拍號與節奏時值分開；本課強弱模式為教學模型，不斷言任何作品每拍的實際音量。起步者只比2與3，再加入4；熟練者用相同總拍數作不同分組並解釋。圖讀正確與盲聽真實模型分欄，不用熟歌猜拍號。</p><h3>差異化與評量</h3><p>起步者一次只處理一個變化，成人讀題、放大圖卡或先示範一半，讓孩子完成其餘部分；可指認、口述、繪圖、使用既有輔助溝通或請成人代操作。熟練者換一種材料、角色或排列，說明選擇的效果，不加速比賽或增加危險動作。紀錄「獨立完成」「口語提示後」「共同完成」，並保留一項具體證據、一項修改及下一步。選擇題只能檢查可由圖文判斷的理解，不能代替實際聽辨、音準、手部操作或表演觀察。</p><h3>參與、安全與回應</h3><p>讓孩子選擇安靜指圖、坐姿動作、個別示範或觀察記錄，不強迫獨唱、上臺、對視、觸碰同伴或揭露真實家庭故事。不錄音錄影、不上傳姓名、照片或作品。空間清楚、平坦且由成人看顧，器材完整適齡；不舒服可立即停止與休息。評論先指出實際看見或聽到的特徵，再提出可試的方法；感受可不同，不把表情、聲音或色彩偏好當性格診斷。成人代做時仍由孩子作選擇，不把成人作品列成孩子獨立成果。</p><h3>真實聲音的必要條件</h3><p>本頁沒有音檔，編寫時未驗聽任何音訊。成人須能準確讀出指定拍數或以已校準樂器給出指定音高，先自查完整模型，再帶聽辨與演唱。無此條件先完成圖文讀譜和無聲指認，另安排具備能力的音樂教師示範；不得把未聽過的曲調或未演奏的音色寫成已會。採自然輕鬆的音量，不喊叫，不憋氣；直笛各人專用且依製造商方式清潔，不交換吹口或整支樂器。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-arts-01-q01",
+      "question": "3/4在本課代表每小節幾拍？",
+      "options": [
+        "4拍",
+        "2拍",
+        "3拍"
+      ],
+      "answer": 2,
+      "hint": "上方數字說一組幾拍。",
+      "explanation": "3/4以四分音符為一拍，每小節有三個這樣的拍。"
+    },
+    {
+      "id": "g3s2-arts-01-q02",
+      "question": "本課2/4、3/4、4/4的下面4代表什麼？",
+      "options": [
+        "一定演四小節",
+        "以四分音符作一拍",
+        "一定每秒四聲"
+      ],
+      "answer": 1,
+      "hint": "只用本課單拍子範圍。",
+      "explanation": "下方4指定四分音符拍單位，不是速度或必須演奏的總小節數。"
+    },
+    {
+      "id": "g3s2-arts-01-q03",
+      "question": "二拍列與三拍列都有6拍，分組一樣嗎？",
+      "options": [
+        "一樣，只看總拍數",
+        "不一樣，三組二拍與兩組三拍",
+        "一定都是四拍"
+      ],
+      "answer": 1,
+      "hint": "數每次回到1的位置。",
+      "explanation": "總拍數相同仍可分成不同每組拍數，圖中兩列回到1的時機不同。"
+    },
+    {
+      "id": "g3s2-arts-01-q04",
+      "question": "二分音符2拍加四分音符1拍，填滿哪一種小節？",
+      "options": [
+        "2/4",
+        "本課4/4",
+        "3/4"
+      ],
+      "answer": 2,
+      "hint": "把時值相加。",
+      "explanation": "二拍加一拍合三拍，符合本課3/4的一個完整小節。"
+    },
+    {
+      "id": "g3s2-arts-01-q05",
+      "question": "三拍模型數成1、2、1、2，問題在哪？",
+      "options": [
+        "未走完三拍就回到1",
+        "多畫了一個圓",
+        "音量一定太小"
+      ],
+      "answer": 0,
+      "hint": "檢查一組是否完整。",
+      "explanation": "每組還缺第3拍就重新開始，實際已成兩拍一組。"
+    },
+    {
+      "id": "g3s2-arts-01-q06",
+      "question": "文字丁三組三拍，共幾拍？",
+      "options": [
+        "6拍",
+        "9拍",
+        "12拍"
+      ],
+      "answer": 1,
+      "hint": "每組都數到3。",
+      "explanation": "三組各有三拍，合為九拍，分隔線不另占一拍。"
+    },
+    {
+      "id": "g3s2-arts-01-q07",
+      "question": "二拍與三拍一定要用不同速度嗎？",
+      "options": [
+        "不用，分組不同但每拍可同速",
+        "必須，三拍永遠比較慢",
+        "必須，二拍永遠大聲"
+      ],
+      "answer": 0,
+      "hint": "分組與速度分開。",
+      "explanation": "每組拍數不規定每拍長短，二拍與三拍可以在同一速度演出。"
+    },
+    {
+      "id": "g3s2-arts-01-q08",
+      "question": "沒聽成人實演，只讀丁文字，能記什麼？",
+      "options": [
+        "文字分組理解",
+        "新模型聽辨已通過",
+        "已聽完一首真歌"
+      ],
+      "answer": 0,
+      "hint": "依實際證據記錄。",
+      "explanation": "讀文字可以判斷每組拍數，但不能當作未進行的聽覺辨認證據。"
+    }
+  ],
+  "selfCheck": [
+    "我能在穩定速度中感受二拍、三拍與四拍分組。",
+    "我能讀2/4、3/4、4/4的本課拍數意義。",
+    "我能用小幅指點或聲音做一個新拍組模型。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "已核對PDF第27頁（印頁24）的第二學習階段，涵蓋三、四年級。學期安排、作品、曲調、場景及活動為編者原創，不是全國固定課文。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Steps to Music Theory：Simple Meters",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/simple-meters/",
+      "note": "核對2/4、3/4、4/4的拍單位與每小節拍數；只教單拍子入門，不推論所有拍號下方數字皆直接代表實際感受的一拍。本課重音模型、圖與節奏原創。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Steps to Music Theory：Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符時值比例、休止與音高位置的基本定義。只取基礎概念；本課節奏、曲調、歌詞與示意圖皆原創，未複製來源曲譜，未提供或驗聽音訊。"
+    }
+  ]
+}
