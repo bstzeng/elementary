@@ -14,10 +14,12 @@ if(!out.browserPrintVerified){assert.ok(index.includes('瀏覽器網頁列印尚
 const tmp=await mkdtemp(path.join(os.tmpdir(),'exam-verification-'));
 try{
  await cp(path.join(root,'data'),path.join(tmp,'data'),{recursive:true});await mkdir(path.join(tmp,'scripts'));await cp(path.join(root,'scripts/build-exams.mjs'),path.join(tmp,'scripts/build-exams.mjs'));await cp(path.join(root,'exams'),path.join(tmp,'exams'),{recursive:true});
- const id=m.formIds[0],paper=path.join(tmp,'exams',id+'.html'),before=await readFile(paper);
+ const id=m.formIds[0],htmlId=Object.keys(v.htmlVerified)[0];
+ assert.ok(htmlId,'This release fixture requires an actually HTML-verified source');
+ const paper=path.join(tmp,'exams',id+'.html'),before=await readFile(paper);
  async function reject(name,change,regex){const bad=structuredClone(m);change(bad);await writeFile(path.join(tmp,'data/exams.json'),JSON.stringify(bad));const r=spawnSync(process.execPath,[path.join(tmp,'scripts/build-exams.mjs')],{encoding:'utf8'});assert.notEqual(r.status,0,name);assert.match(r.stderr,regex,name);assert.deepEqual(await readFile(paper),before,name+' must preserve good output');}
- await reject('HTML evidence outside allowlist',x=>x.verification.htmlVerified['g6s2-fake-final-a']=x.verification.htmlVerified[id],/outside published/);
- await reject('Stale HTML content',x=>x.verification.htmlVerified[id].sourceSha256='0'.repeat(64),/verification binding/);
+ await reject('HTML evidence outside allowlist',x=>x.verification.htmlVerified['g6s2-fake-final-a']=x.verification.htmlVerified[htmlId],/outside published/);
+ await reject('Stale HTML content',x=>x.verification.htmlVerified[htmlId].sourceSha256='0'.repeat(64),/verification binding/);
  await reject('PDF cannot establish browser print',x=>x.qaAcceptedFormIds=[id],/original HTML and browser-print gates/);
  await reject('Student PDF path cannot target key',x=>x.verification.pdfVerified[id].student.path=x.verification.pdfVerified[id].teacher.path,/PDF role\/path/);
  await reject('Stale PDF content source',x=>x.verification.pdfVerified[id].sourceSha256='0'.repeat(64),/PDF source\/page/);
