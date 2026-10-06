@@ -1,0 +1,177 @@
+{
+  "id": "g5s2-mathematics-08",
+  "course": "數學",
+  "title": "比率和百分率",
+  "subtitle": "先找被比較的整體，再用每100份表示比率，看懂折扣與幾成。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與獨立練習分段進行。",
+  "goals": [
+    "辨認比較量與基準量",
+    "把不超過1的比率換成百分率",
+    "在完整虛構價格資料中解讀折與成"
+  ],
+  "materials": [
+    "100等分圖與本課虛構製作紀錄",
+    "紙筆與虛構標價卡；不需查詢或購買任何商品"
+  ],
+  "intro": "先找被比較的整體，再用每100份表示比率，看懂折扣與幾成。",
+  "sections": [
+    {
+      "title": "先說「占誰的多少」",
+      "childText": "基準量一換，比率可能改變。",
+      "html": "<p>模型工作站甲計畫製作20張卡，已完成12張。把計畫總量20張當基準，完成比率12÷20＝12/20＝3/5＝0.6，表示完成全部的十分之六。</p><p>比較量是已完成12，基準量是計畫20。不能反過來20÷12再稱為完成占計畫的比率。本課的比較量不大於基準量，結果在0與1之間。</p><table><caption>完整虛構工作站資料</caption><thead><tr><th scope=\"col\">工作站</th><th scope=\"col\">已完成（張）</th><th scope=\"col\">計畫總數（張）</th><th scope=\"col\">完成占計畫</th></tr></thead><tbody><tr><th scope=\"row\">甲</th><td>12</td><td>20</td><td>12/20＝0.6</td></tr><tr><th scope=\"row\">乙</th><td>15</td><td>30</td><td>15/30＝0.5</td></tr><tr><th scope=\"row\">丙</th><td>8</td><td>10</td><td>8/10＝0.8</td></tr></tbody></table>",
+      "id": "g5s2-mathematics-08-s01"
+    },
+    {
+      "title": "百分率：把整體看成100份",
+      "childText": "百分號說明每100份取多少。",
+      "html": "<p>0.6＝60/100，可寫60%，讀作百分之六十。百分號不是額外的物品單位，而是把比率改用每100份表示；60%不是60倍，也不是60張。</p><p>圖上100格中著色60格，占60%。這個圖只表示比例，原模型20張中完成12張也能用同樣比率圖，不代表原來突然變成100張卡。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 355\" role=\"img\" aria-labelledby=\"g5s2-mathematics-08-percent\"><title id=\"g5s2-mathematics-08-percent\">整張等分100格，其中上6列共60格著色，表示60%，等於0.6與3/5。</title><g font-family=\"sans-serif\" font-size=\"18\" fill=\"#183f38\"><rect x=\"55\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"40\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"65\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"90\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"115\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"140\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"165\" width=\"25\" height=\"25\" fill=\"#86baa2\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"190\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"215\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"240\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"55\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"80\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"105\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"130\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"155\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"180\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"205\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"230\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"255\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><rect x=\"280\" y=\"265\" width=\"25\" height=\"25\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"180\" y=\"23\" font-size=\"20\" text-anchor=\"middle\">100等份，著色60份</text><text x=\"180\" y=\"327\" font-size=\"19\" text-anchor=\"middle\">60%＝60/100＝0.6＝3/5</text></g></svg><figcaption>整張等分100格，其中上6列共60格著色，表示60%，等於0.6與3/5。</figcaption></figure>",
+      "id": "g5s2-mathematics-08-s02"
+    },
+    {
+      "title": "換寫法，要保持同一比率",
+      "childText": "百分率與小數不是直接照抄數字。",
+      "html": "<p>3/4＝75/100＝75%＝0.75；1/5＝20/100＝20%＝0.2；5%＝5/100＝0.05。把0.6寫成0.6%會變成百分之零點六，和60%不同。</p><table><caption>相同比率不同寫法</caption><thead><tr><th scope=\"col\">分數</th><th scope=\"col\">小數</th><th scope=\"col\">百分率</th></tr></thead><tbody><tr><th scope=\"row\">1/4</th><td>0.25</td><td>25%</td></tr><tr><th scope=\"row\">1/2</th><td>0.5</td><td>50%</td></tr><tr><th scope=\"row\">4/5</th><td>0.8</td><td>80%</td></tr><tr><th scope=\"row\">1</th><td>1</td><td>100%</td></tr><tr><th scope=\"row\">0</th><td>0</td><td>0%</td></tr></tbody></table><p>100%表示比較量和基準量相同，0%表示比較量為0。本課只使用0%到100%的完整部分關係。</p>",
+      "id": "g5s2-mathematics-08-s03"
+    },
+    {
+      "title": "不同總量要比完成率，不只看張數",
+      "childText": "數量高和占的比例高是兩件事。",
+      "html": "<p>甲完成12張、乙完成15張，乙的張數較多；但甲計畫20張、乙計畫30張，完成率分別60%與50%，所以甲的完成率較高。這只描述資料，不表示任何人的能力或努力。</p><p>丙完成率80%，計畫10張，已完成10×0.8＝8張。先定總量，再取它的百分率，可以由比例求部分量；剩下20%是2張。</p>",
+      "id": "g5s2-mathematics-08-s04"
+    },
+    {
+      "title": "幾折是付原價的幾成",
+      "childText": "先說清楚付款比例和減少比例。",
+      "html": "<p>以下全是假設標價，且沒有其他費用，也不需實際購買。一張模型材料標價200元，打八折，表示付原價80%，200×0.8＝160元；比原價少40元，減少比例是20%，不是80%。</p><p>「七成」表示70%，「七折」在這種標價情境表示付70%。如果只說「減少三成」，剩七成；它和「付三成」不同。先用完整句子說付多少或減少多少，再計算。</p><table><caption>完整虛構標價卡</caption><thead><tr><th scope=\"col\">原價</th><th scope=\"col\">標示</th><th scope=\"col\">付原價的比例</th><th scope=\"col\">付款金額</th></tr></thead><tbody><tr><th scope=\"row\">200元</th><td>八折</td><td>80%</td><td>160元</td></tr><tr><th scope=\"row\">300元</th><td>七折</td><td>70%</td><td>210元</td></tr><tr><th scope=\"row\">80元</th><td>九折</td><td>90%</td><td>72元</td></tr></tbody></table>",
+      "id": "g5s2-mathematics-08-s05"
+    },
+    {
+      "title": "一起抓基準：同一數量可有不同比較",
+      "childText": "不能省掉百分率的比較對象。",
+      "html": "<p>某批模型卡已完成6張，原計畫20張，完成率30%；若問這6張相當於另一份10張樣本的多少，則是60%。6沒有改變，基準由20改為10，比率就變了。</p><p>因此只寫「完成60%」卻不說是哪個計畫，資訊可能不完整。成人可請孩子在每題基準量下畫線，再用比較量除基準量核對。所有題目需先確定基準大於0。</p>",
+      "id": "g5s2-mathematics-08-s06"
+    },
+    {
+      "title": "獨立轉用：在答案旁寫比較對象",
+      "childText": "先做完，再看核對。",
+      "html": "<p>①40張模型卡完成18張，完成率多少？②80張的25%是多少張？③虛構原價150元打八折，無其他費用，付款多少、減少多少？④計畫10張已完成10張，完成率多少？⑤寫一句解釋40%而不假設原總量一定100張。</p><details><summary>完成後核對</summary><p>①18/40＝45%。②20張。③付款120元，減少30元，即原價20%。④100%。⑤例如「每個整體平均分100份，完成其中40份」，或「完成原計畫的2/5」。評量看基準明確、比率同值與付款及減少不混淆。</p></details>",
+      "id": "g5s2-mathematics-08-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-5-10處理結果不超過100%的比率、百分率、折與成。百格圖是比例模型，不代表所有原事件真的有100個物件；成人要孩子指出原計畫20張如何對應完成12張與圖上60格。支持組先固定同一基準再換寫法，熟練組比較不同總數工作站及相同完成數配不同基準的反例。所有資料與價格明標虛構，費用條件完整，不涉及實際消費或評價真實兒童表現。評量分別看找基準、算比率、換百分率與回求部分量；八折常被誤讀為減80%，須要求用完整句「付原價80%」修補。不要用超過100%的成長率擴展本課。</p><p>教學時先請孩子說出題目已知什麼、要找什麼，再容許用指圖、口述、畫記或成人代筆表達。保留第一次答案，以追問找出想法；不要只看數字是否答對，也不以字跡、閱讀速度或操作精細度代替數學理解。每次只修補一個關鍵錯因，再用不同資料確認是否能轉用。</p><p>形成性評量分別記錄「辨認量與單位、選擇模型、完成計算、提出檢查」四項。學習單上的判斷題不能取代紙面操作與解釋；孩子先完成獨立題再開啟核對內容。支持組可減少一次呈現的資料或先由成人讀題，熟練組則說明另一條合理解法；兩組都要保留本課的核心概念。</p><p>所有故事和資料都是教學用的虛構例子，不要求填真實兒童姓名、家庭收支或私人紀錄。操作只在桌面使用大張紙卡與粗筆，需要裁切時由成人預備；不以小顆物品、危險器材或實際購買來驗證答案。未實際完成的操作須記為紙面推想，不能當成已測量的證據。</p>",
+  "exercises": [
+    {
+      "id": "g5s2-mathematics-08-q01",
+      "question": "完成12張、計畫20張，完成率是多少？",
+      "options": [
+        "12%",
+        "20%",
+        "60%"
+      ],
+      "answer": 2,
+      "hint": "完成量除以原計畫總量。",
+      "explanation": "12除20為0.6，也就是60/100，所以完成率60%。"
+    },
+    {
+      "id": "g5s2-mathematics-08-q02",
+      "question": "60%等於哪個小數？",
+      "options": [
+        "60",
+        "0.6",
+        "0.06"
+      ],
+      "answer": 1,
+      "hint": "百分率先寫成60/100。",
+      "explanation": "60個百分之一是0.60，也就是0.6，不能直接去掉百分號當60。"
+    },
+    {
+      "id": "g5s2-mathematics-08-q03",
+      "question": "5%等於多少？",
+      "options": [
+        "0.5",
+        "0.05",
+        "5"
+      ],
+      "answer": 1,
+      "hint": "5份百分之一是多少？",
+      "explanation": "5/100為0.05，0.5代表50%而不是5%。"
+    },
+    {
+      "id": "g5s2-mathematics-08-q04",
+      "question": "甲12/20完成，乙15/30完成，哪句對？",
+      "options": [
+        "乙張數較多，甲完成率較高",
+        "乙張數與完成率都較高",
+        "兩者完成率一樣"
+      ],
+      "answer": 0,
+      "hint": "分別比較數量和比率。",
+      "explanation": "乙15大於12，但甲60%大於乙50%，不同總量下不能只比完成張數。"
+    },
+    {
+      "id": "g5s2-mathematics-08-q05",
+      "question": "原價200元打八折，無其他費用，付多少？",
+      "options": [
+        "160元",
+        "40元",
+        "80元"
+      ],
+      "answer": 0,
+      "hint": "八折是付80%，不是減80%。",
+      "explanation": "200乘0.8得160，40元是減少的金額，不是付款金額。"
+    },
+    {
+      "id": "g5s2-mathematics-08-q06",
+      "question": "八折相對原價減少多少百分率？",
+      "options": [
+        "80%",
+        "20%",
+        "8%"
+      ],
+      "answer": 1,
+      "hint": "原價100%減去付款80%。",
+      "explanation": "付款80%後省下剩餘20%，兩個比例合起來是原價100%。"
+    },
+    {
+      "id": "g5s2-mathematics-08-q07",
+      "question": "80張的25%是多少？",
+      "options": [
+        "20張",
+        "25張",
+        "60張"
+      ],
+      "answer": 0,
+      "hint": "25%是四分之一。",
+      "explanation": "80乘0.25或80除4都得20，比例25%不表示固定25張。"
+    },
+    {
+      "id": "g5s2-mathematics-08-q08",
+      "question": "計畫10張且完成10張，完成率是多少？",
+      "options": [
+        "10%",
+        "0%",
+        "100%"
+      ],
+      "answer": 2,
+      "hint": "比較量和基準量相等。",
+      "explanation": "10除10等於1，換成百分率為100%，表示全部計畫量完成。"
+    }
+  ],
+  "selfCheck": [
+    "我會先指出比較的基準量。",
+    "我知道百分率不是固定物品數量。",
+    "我分清打折後付款與減少的比例。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "依官方五年級年度學習內容設計；學期分配、原創故事與練習是本教材的編輯安排，不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：五年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁29–32。N-5-10：比率百分率、折、成，結果限0至1或0%至100%。"
+    }
+  ]
+}

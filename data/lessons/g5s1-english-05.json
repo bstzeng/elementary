@@ -1,0 +1,184 @@
+{
+  "id": "g5s1-english-05",
+  "course": "英語文",
+  "title": "飲食偏好與簡單選擇",
+  "subtitle": "用偏好、當次意願與供應資訊，選擇合適的紙上餐點",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "用偏好、當次意願與供應資訊，選擇合適的紙上餐點。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能分開一般喜好與當次選擇的問答。",
+    "我能合併虛構角色偏好和菜單，並禮貌拒絕。",
+    "我能在缺貨或資訊不足時澄清，不替角色答應或保證安全。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>先教三欄「喜好／供應／本人確認」，再加入明寫交付與否，避免把供餐者提供或孩子沉默當作同意。完整紙卡數量已供應，沒有真食物或成分安全演示。對需要支持的孩子分兩回合讀；進階者在新資料同時處理食物與飲品缺貨。拒絕的語意與禮貌可觀察，但不要求說出私人飲食原因。</p>",
+  "selfCheck": [
+    "我能分開一般喜好與當次選擇的問答。",
+    "我能合併虛構角色偏好和菜單，並禮貌拒絕。",
+    "我能在缺貨或資訊不足時澄清，不替角色答應或保證安全。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s1-english-05-s01",
+      "title": "喜歡，不等於這次一定要",
+      "childText": "先看問題的用途。",
+      "html": "<p>Do you like noodles?問一般喜不喜歡麵；Would you like some noodles?是在這個情境提供麵。回答I like noodles.只告訴偏好，沒有完成點餐。當次想要可說I’d like some rice, please.；I’d是I would的縮寫。本頁只用紙上選擇，不是真的訂餐。</p><p>詞庫：rice飯、noodles麵、bread麵包、soup湯、water水、juice果汁、available有供應、sold out售完。一般喜好可用I like rice.／I don’t like soup.，不必把不喜歡解釋成生病、過敏或家庭規定。每個人可以拒絕，不必交代私人的原因，也不能以喜歡或不喜歡評斷一個人。</p>"
+    },
+    {
+      "id": "g5s1-english-05-s02",
+      "title": "完整角色卡與紙上菜單",
+      "childText": "只根據已提供的偏好作比較。",
+      "html": "<div class=\"story\"><p>角色卡A，Jo：I like rice and noodles. I don’t like soup. Today I’d like noodles and water.<br/>角色卡B，Pat：I like soup. Today I’d like soup and juice.</p></div><div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構紙上菜單與供應狀況\" tabindex=\"0\"><table><caption>起始供應：每次選一份食物與一杯飲品；只供語言遊戲。</caption><thead><tr><th>Item</th><th>Status</th><th>Paper cards</th></tr></thead><tbody><tr><td>rice</td><td>available</td><td>2份</td></tr><tr><td>noodles</td><td>sold out</td><td>0份</td></tr><tr><td>soup</td><td>available</td><td>2份</td></tr><tr><td>water</td><td>available</td><td>3杯</td></tr><tr><td>juice</td><td>available</td><td>1杯</td></tr></tbody></table></div><p>Tab可移入表區，方向鍵可左右捲動。份是本頁紙卡的單位，不表示rice在句中可直接寫two rices。菜單沒有成分或過敏原資料，不能保證任何食物對任何人安全。</p>"
+    },
+    {
+      "id": "g5s1-english-05-s03",
+      "title": "完整八回合：缺貨後再選",
+      "childText": "替代品須經本人接受。",
+      "html": "<div class=\"story\"><p>1 Server: What would you like?<br/>2 Jo: I’d like noodles and water, please.<br/>3 Server: Sorry, the noodles are sold out. Would you like some soup?<br/>4 Jo: No, thank you. Do you have rice?<br/>5 Server: Yes, we do.<br/>6 Jo: I’d like rice and water, please.<br/>7 Server: Rice and water?<br/>8 Jo: Yes, please.</p></div><p>server此處是虛構供餐角色。第3句只是提供湯，不等於Jo接受；第4句拒絕並詢問飯，第6、8句確認新選擇。本段沒有交付動作，所以還不能扣卡或說Jo吃完了。成人完整讀八回合後，孩子在卡上寫「最後確認：rice＋water」，保留Jo平常仍喜歡noodles這項資料。</p>"
+    },
+    {
+      "id": "g5s1-english-05-s04",
+      "title": "一起做三欄判斷",
+      "childText": "喜好、供應和確認不可少一欄。",
+      "html": "<p>成人示範Jo的第一選擇noodles：偏好有、供應無，所以不能照原請求交付。湯雖有供應但Jo不喜歡且已拒絕，不可代替他答應。飯有供應、角色喜歡，並有第6與第8句接受，才記成這次選擇。不是由別人的喜好決定Jo的餐點。</p><p>紙卡準備：rice兩張、soup兩張、water三張、juice一張，另有noodles sold out告示一張與Jo／Pat角色卡各一張。也可指表格代替卡片。先只「確認」不移卡；若成人另讀動作「Server給Jo一張rice卡和一張water卡」，才更新rice剩1、water剩2。其他項目不變，因為沒有交付Pat的記錄。</p>"
+    },
+    {
+      "id": "g5s1-english-05-s05",
+      "title": "修復：拒絕、健康與庫存",
+      "childText": "一句英文不能取代實際安全確認。",
+      "html": "<p>錯句「Jo拒絕湯，所以一定過敏」沒有證據；I don’t like表達偏好，不能推成醫療資訊。錯句「菜單沒寫花生，因此保證無花生」也不成立，未列成分不等於不存在。本課不要求說自己的過敏、嘗食物或交換真食物；實際飲食問題由可信任成人按真實資訊處理。</p><p>如果角色有提供好的虛構限制卡「Please ask an adult about the ingredients. 請成人確認成分」，只練習轉交問題，不能把英語說得流利當成已驗證安全。售完的noodles仍可被喜歡；當次改飯也不代表以後永遠不吃麵。任何人可說No, thank you.，而不被迫說理由。</p>"
+    },
+    {
+      "id": "g5s1-english-05-s06",
+      "title": "自己試：新供應，新決定",
+      "childText": "不要把原角色的選擇套給別人。",
+      "html": "<p>新資料：Pat的角色卡不變，今日soup sold out，rice available 2份，bread available 2份，water 2杯，juice 0杯。完整新對話開頭：Server: Sorry, the soup and juice are sold out. Would you like rice and water? Pat: No, thank you. Do you have bread? Server: Yes. 請續寫Pat選bread與water的一句，以及Server的確認問句和Pat同意；再說能否從此推知Pat平常不喜歡湯。</p><details><summary>完成後看一種模型</summary><p>Pat: I’d like bread and water, please. Server: Bread and water? Pat: Yes, please. 新選擇是因供應與本次明說意願，不能推知Pat不喜歡湯。這三句尚未提供交付記錄，不扣紙卡，也不宣稱餐點已吃完。</p></details>"
+    },
+    {
+      "id": "g5s1-english-05-s07",
+      "title": "留下選擇證據",
+      "childText": "評的是理解、澄清和尊重。",
+      "html": "<p>成品寫「誰／一般偏好／初次請求／缺貨資訊／最後確認／是否已交付」。每欄對回合或卡片；若未知就寫未知。成人可先協助需要較多支持的孩子分辨Do you like和Would you like，進階者須同步更新兩個缺貨品，並保留角色原偏好。</p><p>合格教師可完整讀原劇本，孩子在聽到拒絕後選對應卡；若可見全文，應記為聽讀結合而非純聽辨。以指卡、書寫、成人代讀同樣可完成語意任務。不以實際食量、身材、家庭飲食或口味排序，也沒有下單、付款、聯絡餐廳或公開分享任何資料。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "Cambridge English Grammar Today｜Would like",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/would-like",
+      "note": "2026-10-06核對官方搜尋索引全文：Do you like…?問一般喜好，would like用於當次意願、提供與請求。直接頁面回傳403；未驗聽音訊。本頁對話為原創。"
+    },
+    {
+      "title": "British Council｜Nouns: countable and uncountable",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable",
+      "note": "2026-10-06直接核對。支持rice、water等本課物質用法及提供／請求中的some；菜單與份量設定是虛構材料。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s1-english-05-q01",
+      "question": "Do you like noodles?主要問什麼？",
+      "options": [
+        "一般喜好",
+        "這次已交付多少",
+        "食物過敏的診斷"
+      ],
+      "answer": 0,
+      "hint": "和Would you like的用途比較。",
+      "explanation": "Do you like在本課問通常偏好，不等於當次訂單，更不能作健康診斷。"
+    },
+    {
+      "id": "g5s1-english-05-q02",
+      "question": "Jo不能取得原先想要的noodles，原因是？",
+      "options": [
+        "他已不喜歡麵",
+        "菜單顯示售完",
+        "Pat把所有麵吃了"
+      ],
+      "answer": 1,
+      "hint": "查看noodles的Status。",
+      "explanation": "菜單明示sold out，沒有改變Jo偏好或Pat吃麵的敘述。"
+    },
+    {
+      "id": "g5s1-english-05-q03",
+      "question": "Jo最後確認哪組？",
+      "options": [
+        "soup and juice",
+        "rice and water",
+        "noodles and soup"
+      ],
+      "answer": 1,
+      "hint": "追蹤第6至8句。",
+      "explanation": "第6句改選飯與水，第8句接受重述，因此這才是最後確認的組合。"
+    },
+    {
+      "id": "g5s1-english-05-q04",
+      "question": "第3句提供soup是否表示Jo已接受？",
+      "options": [
+        "沒有，第4句婉拒",
+        "有，供餐者說了就算",
+        "有，菜單有兩份就算"
+      ],
+      "answer": 0,
+      "hint": "提供和回覆分開讀。",
+      "explanation": "Server只提出湯的選項，Jo隨後說No, thank you.，因此不能記為接受。"
+    },
+    {
+      "id": "g5s1-english-05-q05",
+      "question": "只有原八回合時，應怎樣處理庫存？",
+      "options": [
+        "自動扣掉所有飯與水",
+        "尚無交付記錄，不扣卡",
+        "把noodles改成有貨"
+      ],
+      "answer": 1,
+      "hint": "確認訂單與交付是不同事件。",
+      "explanation": "原對話到確認為止，另有明寫交付動作才可扣除相應紙卡。"
+    },
+    {
+      "id": "g5s1-english-05-q06",
+      "question": "Jo不喜歡湯，能確定他過敏嗎？",
+      "options": [
+        "能，不喜歡就代表過敏",
+        "能，菜單沒寫成分就安全",
+        "不能，偏好不是健康證據"
+      ],
+      "answer": 2,
+      "hint": "不要替角色增加病況。",
+      "explanation": "喜好語句沒有提供過敏資訊，不能推測診斷或保證任何食物安全。"
+    },
+    {
+      "id": "g5s1-english-05-q07",
+      "question": "新Pat續寫的正確選擇是？",
+      "options": [
+        "soup and juice",
+        "rice and juice",
+        "bread and water"
+      ],
+      "answer": 2,
+      "hint": "按照題目指定的新版意願。",
+      "explanation": "新題要求Pat明說麵包與水，湯和果汁售完，且Pat拒絕先前飯的提議。"
+    },
+    {
+      "id": "g5s1-english-05-q08",
+      "question": "新Pat改選bread，可以說他永遠不喜歡soup嗎？",
+      "options": [
+        "不可以，只是這次選擇",
+        "可以，新選擇會刪除舊喜好",
+        "可以，售完等於不喜歡"
+      ],
+      "answer": 0,
+      "hint": "區分一般偏好和本次供應。",
+      "explanation": "角色卡仍說喜歡湯，本次缺貨後另選麵包，不足以推翻一般偏好。"
+    }
+  ]
+}

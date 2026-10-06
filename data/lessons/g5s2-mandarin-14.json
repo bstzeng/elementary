@@ -1,0 +1,198 @@
+{
+  "id": "g5s2-mandarin-14",
+  "course": "國語文",
+  "title": "楷書布局與書寫練習",
+  "subtitle": "把完整明、林字形放進兩字布局，分清部件、整字與行列三種調整。",
+  "duration": "2–3次，每次25–30分鐘；可分段與調整回應方式。",
+  "goals": [
+    "依完整明林模型保持筆序與形體。",
+    "安排兩字大小、字距和對齊的關係。",
+    "用兩輪書寫與過程記錄評估布局調整。"
+  ],
+  "materials": [
+    "本頁完整原創閱讀、對話與任務材料",
+    "空白紙、鉛筆及大字紙卡；可由成人代筆"
+  ],
+  "intro": "把完整明、林字形放進兩字布局，分清部件、整字與行列三種調整。",
+  "sections": [
+    {
+      "title": "完整任務與布局圖",
+      "childText": "兩個字組成練習組，不假稱古人名句。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><p>本課把明、林作為兩字練習組，不是詩句或真實人名。每排從左向右寫明、林，第二排再寫一次。下圖四格邊長相同、兩列上下對齊；字樣只標明該寫哪字，不能用印刷字樣推測筆順。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 395\" role=\"img\" aria-labelledby=\"g5s2-mandarin-14-pt g5s2-mandarin-14-pd\"><title id=\"g5s2-mandarin-14-pt\">兩字橫寫配置與第二次試寫格</title><desc id=\"g5s2-mandarin-14-pd\">四個邊長相同的正方格，分兩列兩排，同一列上下對齊。上排左格以印刷明字標位置、右格以林字標位置，下排留空給第二次試寫。印刷字只標示要寫哪字，完整筆順另見本頁方向模型。</desc><rect width=\"360\" height=\"395\" fill=\"#fffdf7\"/><g stroke=\"#aaa\" fill=\"none\"><rect x=\"35\" y=\"50\" width=\"120\" height=\"120\"/><rect x=\"205\" y=\"50\" width=\"120\" height=\"120\"/><rect x=\"35\" y=\"225\" width=\"120\" height=\"120\"/><rect x=\"205\" y=\"225\" width=\"120\" height=\"120\"/></g><g stroke=\"#ccc\" stroke-dasharray=\"4 4\"><path d=\"M95 50V170 M35 110H155 M265 50V170 M205 110H325 M95 225V345 M35 285H155 M265 225V345 M205 285H325\"/></g><g fill=\"#333\" font-family=\"sans-serif\"><text x=\"35\" y=\"30\" font-size=\"18\">第一排：明、林，從左向右</text><text x=\"95\" y=\"132\" text-anchor=\"middle\" font-size=\"60\">明</text><text x=\"265\" y=\"132\" text-anchor=\"middle\" font-size=\"60\">林</text><text x=\"35\" y=\"207\" font-size=\"18\">第二排：自己重寫，位置對齊</text><text x=\"27\" y=\"375\" font-size=\"17\">字樣只標位；不是筆畫形成示範。</text></g></svg><figcaption>編者原創布局格，四格均為一百二十單位見方；格距為本圖設計，不是所有楷書的唯一標準。完整形成模型在以下兩節。</figcaption></figure></div><p>先安排整排，再觀察整字內外留白。兩字黑色外緣不必完全相等；明的左日較短與林的左右讓位都要保留，不能為對齊把部件拉成同高。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>指出閱讀方向與第二排的對應格。</li><li>說一項需要整排觀看而非只盯單筆的地方。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s1"
+    },
+    {
+      "title": "明的完整八筆模型",
+      "childText": "布局改變，單字必要的關係不改。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 372\" role=\"img\" aria-labelledby=\"g5s2-mandarin-14-ft g5s2-mandarin-14-fd\"><title id=\"g5s2-mandarin-14-ft\">明字八筆方向與左右高低原創示意</title><desc id=\"g5s2-mandarin-14-fd\">正方形定位格內，左日較窄且短，右月較高並向下伸。編號一至四先形成左日，五至八再形成右月。圈是起處，箭頭是主要方向；折筆中途不離紙。這是方向關係圖，不是字型或毛筆筆觸。</desc><defs><marker id=\"g5s2-mandarin-14-arr\" markerWidth=\"5\" markerHeight=\"5\" refX=\"4\" refY=\"2.5\" orient=\"auto\"><path d=\"M0 0 L5 2.5 L0 5Z\" fill=\"#24597d\"/></marker></defs><rect width=\"360\" height=\"372\" fill=\"#fffdf7\"/><rect x=\"38\" y=\"45\" width=\"280\" height=\"280\" fill=\"none\" stroke=\"#aaa\"/><path d=\"M178 45 V325 M38 185 H318\" stroke=\"#ccc\" stroke-dasharray=\"4 4\"/><path d=\"M75 105 L75 226\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><path d=\"M76 105 L140 98 L140 235 L128 217\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><path d=\"M76 158 L140 153\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><path d=\"M76 218 L140 213\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><path d=\"M219 84 Q220 194 185 285\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><path d=\"M222 84 L279 73 L279 295 L260 277\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><path d=\"M216 146 L279 140\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><path d=\"M208 200 L279 194\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-arr)\"/><circle cx=\"75\" cy=\"105\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"76\" cy=\"105\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"76\" cy=\"158\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"76\" cy=\"218\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"219\" cy=\"84\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"222\" cy=\"84\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"216\" cy=\"146\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"208\" cy=\"200\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><g font-family=\"sans-serif\" font-size=\"17\" fill=\"#222\"><text x=\"67\" y=\"29\">左：日</text><text x=\"217\" y=\"29\">右：月</text><text x=\"54\" y=\"132\">1</text><text x=\"112\" y=\"87\">2</text><text x=\"52\" y=\"160\">3</text><text x=\"51\" y=\"218\">4</text><text x=\"195\" y=\"111\">5</text><text x=\"286\" y=\"98\">6</text><text x=\"226\" y=\"132\">7</text><text x=\"223\" y=\"188\">8</text><text x=\"36\" y=\"350\">圈是起處；箭頭與數字不寫入字。</text></g></svg><figcaption>明字原創方向模型，依教育部完整八筆輪廓與運行資料核對，不是毛筆力度圖。</figcaption></figure><p>全序：1左日左豎向下；2向右再轉下，末端回左上；3左日內橫向右；4左日下橫向右；5右月左側向下並彎向左下；6向右再轉下，末端回左上；7、8右月內上橫、內下橫均向右。每筆結束離紙，2、6轉向不拆筆。左日較短，右月上下伸展。</p></div><p>請成人依完整模型先用硬筆示範全字，觀察起處、轉向和離紙。字在排內縮放時，不能省掉一筆或只壓縮右月來塞格；未完成實筆者可指述而另記理解成果。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>完整指一次八筆，將左右兩部件順序說清。</li><li>圈一項成品可見與一項須看過程才知道的關係。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s2"
+    },
+    {
+      "title": "林的完整八筆模型",
+      "childText": "同樣八筆，部件配合與明不同。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 345\" role=\"img\" aria-labelledby=\"g5s2-mandarin-14-lt g5s2-mandarin-14-ld\"><title id=\"g5s2-mandarin-14-lt\">林字八筆形成方向與左右讓位</title><desc id=\"g5s2-mandarin-14-ld\">正方定位格內，左木較收，末筆短點；右木較展，末筆長捺。先左四筆再右四筆，圈為起處，箭頭只示主要運行方向，沒有筆壓數值。</desc><defs><marker id=\"g5s2-mandarin-14-la\" markerWidth=\"5\" markerHeight=\"5\" refX=\"4\" refY=\"2.5\" orient=\"auto\"><path d=\"M0 0 L5 2.5 L0 5Z\" fill=\"#24597d\"/></marker></defs><rect width=\"360\" height=\"345\" fill=\"#fffdf7\"/><rect x=\"50\" y=\"30\" width=\"260\" height=\"260\" fill=\"none\" stroke=\"#aaa\"/><path d=\"M180 30V290 M50 160H310\" stroke=\"#ccc\" stroke-dasharray=\"4 4\"/><path d=\"M70 105 L147 99\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><path d=\"M115 65 L110 268\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><path d=\"M111 113 Q96 165 60 206\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><path d=\"M122 154 L145 171\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><path d=\"M180 104 L268 96\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><path d=\"M220 62 L217 272\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><path d=\"M214 113 Q193 175 162 211\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><path d=\"M229 128 Q259 193 297 220\" fill=\"none\" stroke=\"#24597d\" stroke-width=\"3\" marker-end=\"url(#g5s2-mandarin-14-la)\"/><circle cx=\"70\" cy=\"105\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"115\" cy=\"65\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"111\" cy=\"113\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"122\" cy=\"154\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"104\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"220\" cy=\"62\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"214\" cy=\"113\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><circle cx=\"229\" cy=\"128\" r=\"4\" fill=\"white\" stroke=\"#24597d\" stroke-width=\"2\"/><g font-family=\"sans-serif\" font-size=\"18\" fill=\"#222\"><text x=\"54\" y=\"95\">1</text><text x=\"127\" y=\"63\">2</text><text x=\"60\" y=\"159\">3</text><text x=\"151\" y=\"172\">4</text><text x=\"163\" y=\"95\">5</text><text x=\"232\" y=\"62\">6</text><text x=\"157\" y=\"191\">7</text><text x=\"274\" y=\"176\">8</text><text x=\"31\" y=\"322\">左末短點；右末舒展。格線不寫入字。</text></g></svg><figcaption>編者另繪的主要方向與相對位置圖，核對教育部林字完整八筆資料；外框為正方定位格，箭頭與圈不寫入字。</figcaption></figure><p>全序：1左橫向右；2左豎向下；3左撇向左下；4左側短點向右下；5右橫向右；6右豎向下；7右撇向左下；8右捺向右下舒展。四筆左部件完成再寫右四筆。左末收為短點，讓右側有空間；不是並排兩個同大的獨立木字。</p></div><p>此圖只畫主要運行方向，沒有毛筆起收細節或力量數值。成人先完整硬筆示範，再看你實寫。若改毛筆，需合格教師另作兩字全部筆形的完整示範與當場指導，本頁圖不能代替。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>比較明與林兩字最容易混用的一項配置規則。</li><li>指林第四與第八筆的不同，說明如何影響字內空間。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s3"
+    },
+    {
+      "title": "分清三個尺度的問題",
+      "childText": "同樣看起來歪，可能需要不同修法。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><p>原創評語卡A：「明的左日拉到與右月同高。」是部件問題。卡B：「林的部件配置合適，但整個字靠格右邊。」是整字位置問題。卡C：「兩字各自可辨，但同排明偏上、林偏下，整排看起來跳動。」是行列配置問題。</p></div><p>A先修部件高低，B下次重定起處，C比較兩字整體位置。不是每次都加大筆壓或重描。對齊指整體安排穩定，不要求每個字每一筆的上下端一模一樣。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>成人可把本節A、B、C的完整評語各抄在一張大紙卡上，讓孩子配到部件、整字、行列三欄；也可直接指本頁各評語並說出所屬欄。</li><li>各提出一項不同的修訂目標，不能都回答寫漂亮一點。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s4"
+    },
+    {
+      "title": "布局前先規劃外緣與字距",
+      "childText": "留白也參與整排的閱讀節奏。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><p>實際準備：成人用普通紙畫四個舒適正方格，兩排兩列且上下對齊，格間留相同橫向空隙。第一排依完整模型各寫一個明與林。寫前先指每字可能的上、下、左、右範圍，兩字筆畫不伸進鄰格，林右捺不貼外側邊線，兩字也不擠成一字。</p></div><p>紙格不需照圖上的單位換算毫米；可用更大格或既有支持工具。兩字同排不等於黑色面積相同；選相近的視覺大小並維持各字結構。此為兩字橫寫練習，不推成所有直式書法布局規則。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>只用指向先說出兩字邊界，再自己落筆。</li><li>寫完比較字內空間與字間空間，指出兩者不同。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s5"
+    },
+    {
+      "title": "獨立第二輪：只改一個布局目標",
+      "childText": "用真正的前後比較看調整效果。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><p>任務條件：保留第一排，選A、B、C中一個符合自己作品的問題；在第二排重寫明、林。筆序與必要部件不變，優先修你選的位置或字距。若沒有明顯問題，可改用無中線但仍有外框的格子，檢驗自行定位。</p></div><p>沒有合格毛筆全字示範時就選鉛筆，不猜折、撇、捺、鉤的毛筆手法。若只用指述，完成相同布局決策，但成果記作配置理解；手寫控制需另觀察。每次只用安全文具，不研磨、加熱或使用刀具。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>獨立完成第二排，再開下面核對卡。</li><li>寫一句修改理由，說明沒有順便改動哪個必要部件關係。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s6"
+    },
+    {
+      "title": "完成後核對三份證據",
+      "childText": "整齊的成品不能證明未見過的運筆。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><details><summary>完成後再開啟參考與核對依據</summary><p>成品查：明左日較短、右月伸展；林左末短點、右末舒展；兩字各居合適位置，彼此留空、同排整體穩定。過程查：兩字各八筆，明轉向不拆筆，林先左四再右四。理由查：第二排真正針對一項部件、位置或行列目標調整。只有文字或指述，不記為毛筆或硬筆已熟練。</p></details></div><p>成人觀察是否得到提示，也記孩子自我發現的問題；不能從線條寬度反推精確筆壓。若兩輪不見改善，下一步是縮小目標並再看示範，不是罰抄滿頁。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>把兩次作品並排，指出一個有證據的改善或未改善。</li><li>請成人記一處實際觀察的起筆、轉向或離紙情形。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s7"
+    },
+    {
+      "title": "形成下一次可用的書寫計畫",
+      "childText": "布局意識會遷移，具體新字仍須完整模型。",
+      "html": "<div class=\"example\"><h3>完整材料與示範</h3><p>成果記錄句架：「這次我調整的是……尺度。第一排……，第二排……；證據是……。下次我想……，需要的模型或協助是……。」以自己的兩排作品填寫，不把範例字當自己的成績。</p></div><p>學新字先核對其全部筆序與結構，再安排整行；不能因為這兩字八筆，就將任何左右字當八筆。不以字跡推斷性格，不強迫慣用手、姿勢或抓手練寫；不舒服就停下，尋找舒適工具與合格指導。</p><div class=\"task-card\"><h3>動手整理與說明</h3><ol><li>交兩排作品或指述、一次過程記錄與修改理由。</li><li>說清楚本次已觀察到的能力，以及仍未評量的實筆技巧。</li></ol></div>",
+      "id": "g5s2-mandarin-14-s8"
+    }
+  ],
+  "teachingHtml": "<h3>本課如何教與觀察</h3><p>本課在單字結構基礎上整合兩字視覺大小、字距、行列與回饋尺度。完整明與林逐筆資料均實際核對，頁面各有完整八筆文字與原創方向圖；布局圖印刷字僅標位，明確不是筆順示範。四個布局格實際同為120見方，林模型260見方、明模型280見方，不混稱固定紙張比例。教師先作硬筆全字示範；毛筆的折、撇、捺等本課未提供完整動態筆法，必須由合格教師補全兩字實筆示範後才觀察毛筆操作，未有條件就硬筆練布局。評量分部件、整字、行列、過程四面，替代回應不冒充實筆熟練。兩輪前後比較優於量化抄寫，保留孩子選目標與拒絕不適姿勢的權利。</p><h3>分層支持與證據</h3><p>先讓孩子完成開放任務，保留原稿或整理痕跡，再看參考。起步者可一次處理一段，使用大字紙卡，把自己的答案與原文用線連起來；熟練後拿走分類提示。進階者要指出一個看似合理卻缺乏證據的說法，解釋需要補什麼資料才能判斷。成人追問「你根據哪一句？這能說到什麼程度？」而不是只要求背名稱。每項分別記獨立完成、重讀後完成、提示後完成，不把八題選擇題當成完整能力認證。</p><h3>可選的回應方式</h3><p>孩子可指選、口述、書寫、繪圖或使用既有輔助溝通工具，成人可照孩子原意代筆。記錄使用的支持；讀給孩子聽所呈現的理解，不等同獨立識字，口述也不等同手寫熟練。需要聆聽時由成人依本頁完整稿照讀，沒有音檔，不宣稱聽過錄音。不以速度、口音、眼神接觸或公開發言意願評分。</p><h3>範圍與安全</h3><p>五年級屬第三學習階段，本課次序為編輯安排。使用虛構角色與資料，不要求真實家庭經驗、私人心情、採訪、錄音、兒童照片或上網發表。紙筆活動可由成人協助準備；不強迫姿勢或抓手操作。選擇題用來找出誤解，最後仍須查看孩子的獨立產出、一次修改及修改理由。</p>",
+  "exercises": [
+    {
+      "id": "g5s2-mandarin-14-q1",
+      "question": "布局圖中印刷明、林字的用途？",
+      "options": [
+        "證明已看過真人毛筆全程",
+        "標示格位要寫哪字，不是筆順示範",
+        "提供精確筆壓數字"
+      ],
+      "answer": 1,
+      "hint": "讀圖注與完整模型的分工。",
+      "explanation": "印刷字只說明任務位置，形成過程由完整逐筆模型與實際示範提供。"
+    },
+    {
+      "id": "g5s2-mandarin-14-q2",
+      "question": "明與林共同的本課筆數是？",
+      "options": [
+        "各八筆",
+        "明四筆、林兩筆",
+        "全部左右字都八筆"
+      ],
+      "answer": 0,
+      "hint": "核對兩個完整形成序列。",
+      "explanation": "教育部兩字模型各八筆，但不能把個別筆數擴張到所有左右字。"
+    },
+    {
+      "id": "g5s2-mandarin-14-q3",
+      "question": "林第四與第八筆最重要差異？",
+      "options": [
+        "左末短點、右末舒展",
+        "兩者都必須寫成同樣長橫",
+        "第四筆不是字的一部分"
+      ],
+      "answer": 0,
+      "hint": "看左右部件如何讓位。",
+      "explanation": "第四筆收短給右部件空間，第八筆向右下舒展，是模型中的不同配置。"
+    },
+    {
+      "id": "g5s2-mandarin-14-q4",
+      "question": "明左日拉得與右月同高，屬哪類問題？",
+      "options": [
+        "只有整排字距",
+        "紙張是否放桌上",
+        "部件相對高低"
+      ],
+      "answer": 2,
+      "hint": "先定位錯在字內還是字外。",
+      "explanation": "日月高低是單字內部結構，不靠移動整個字或加大字距就能修好。"
+    },
+    {
+      "id": "g5s2-mandarin-14-q5",
+      "question": "林結構合適但整字偏右，優先如何改？",
+      "options": [
+        "把右捺全部刪除",
+        "新格重新安排整字起處",
+        "將左木也拉成最大"
+      ],
+      "answer": 1,
+      "hint": "整字位置不要用破壞部件補救。",
+      "explanation": "重定整體位置能保留正確部件，刪筆或擴大左側會造新問題。"
+    },
+    {
+      "id": "g5s2-mandarin-14-q6",
+      "question": "兩字同排對齊是否每筆上下端都須相同？",
+      "options": [
+        "必須，否則不是楷書",
+        "必須把明左日拉到最低",
+        "不必，整體穩定並保留各字形體"
+      ],
+      "answer": 2,
+      "hint": "對齊與部件差異可以並存。",
+      "explanation": "布局協調指整體位置關係，不要求不同字的每筆端點完全重合。"
+    },
+    {
+      "id": "g5s2-mandarin-14-q7",
+      "question": "沒有完整兩字毛筆實筆示範時，適當做法？",
+      "options": [
+        "先用硬筆練布局，毛筆技巧另待指導",
+        "只看印刷字就算毛筆已會",
+        "照箭頭猜壓力與角度"
+      ],
+      "answer": 0,
+      "hint": "模型界線要落實到評量。",
+      "explanation": "方向圖不提供所有毛筆筆法，需合格示範與觀察，不能冒充已學會。"
+    },
+    {
+      "id": "g5s2-mandarin-14-q8",
+      "question": "第二輪最有用的記錄是？",
+      "options": [
+        "只寫我最漂亮",
+        "說明改哪個尺度及前後證據",
+        "以線粗斷定固定力道"
+      ],
+      "answer": 1,
+      "hint": "修改理由需要可核對。",
+      "explanation": "部件、位置或行列的具體目標與前後痕跡，才能說明學習和下一步。"
+    }
+  ],
+  "selfCheck": [
+    "我會看部件、整字與行列。",
+    "我保留完整筆順和必要形體。",
+    "我的布局修訂有前後證據。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜國語文課程綱要",
+      "url": "https://www.naer.edu.tw/upload/1/9/doc/1267/十二年國民基本教育課程綱要國民中小學暨普通型高級中等學校語文領域-國語文.pdf",
+      "note": "依第三學習階段的聽說讀寫方向設計；五、六年級共用的階段指標不是單一學期配額。本頁學期位置與原創案例為編輯安排。"
+    },
+    {
+      "title": "教育部《重訂標點符號手冊》｜引號",
+      "url": "https://language.moe.gov.tw/001/Upload/FILES/SITE_CONTENT/M0001/HAU/h6.htm",
+      "note": "核對直接引語的標示；明確標示原創的情境、人物、數據及對話為虛構教材；另標作者與出處的古典作品或史料不在此列。"
+    },
+    {
+      "title": "教育部國字標準字體筆順學習網｜明",
+      "url": "https://stroke-order.learningweb.moe.edu.tw/dictView.jsp?ID=26126",
+      "note": "完整8筆Outline/Track及輪廓核對，支援次序、轉向與左短右長。原創圖只給方向關係，不給毛筆力度。"
+    },
+    {
+      "title": "教育部國字標準字體筆順學習網｜林",
+      "url": "https://stroke-order.learningweb.moe.edu.tw/dictView.jsp?ID=26519",
+      "note": "完整8筆資料重新取回並核對左末點、右末捺及先左後右；原創圖不複製官方筆觸。"
+    },
+    {
+      "title": "教育部國字標準字體筆順學習網｜筆順基本原則",
+      "url": "https://stroke-order.learningweb.moe.edu.tw/page.jsp?ID=23",
+      "note": "原則配逐字模型使用；本課兩字橫寫布局為教學設計，不是全國統一楷書格距。"
+    }
+  ]
+}

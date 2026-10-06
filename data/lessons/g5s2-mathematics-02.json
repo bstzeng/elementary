@@ -1,0 +1,177 @@
+{
+  "id": "g5s2-mathematics-02",
+  "course": "數學",
+  "title": "整數相除的分數表示",
+  "subtitle": "當整個一還能再分，整數相除可以用分數把全部量分完。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與獨立練習分段進行。",
+  "goals": [
+    "用公平分配解釋整數除法的分數商",
+    "用每份量解釋不足一份的分數份數",
+    "依題意區分分數商與完整份數及餘數"
+  ],
+  "materials": [
+    "三張一樣大的長方形紙圖，每張可分4等份",
+    "紙面長度條、粗筆；只模擬分享，不裁切不可分物品"
+  ],
+  "intro": "當整個一還能再分，整數相除可以用分數把全部量分完。",
+  "sections": [
+    {
+      "title": "3張紙平均分4份，不必停在餘3",
+      "childText": "紙能再分，就把每張也公平分。",
+      "html": "<p>有3張相同大小的長方形圖紙，要全部平均分給甲、乙、丙、丁四個角色。每張原紙都當作1張，分成4等份，每人從每張取1小份。</p><p>每人得到3個1/4張，合起來3/4張，所以3÷4＝3/4。不是說每人得到3張的四分之三；3/4的單位是「原來一張紙」，四人各得3/4張合起來正好3張。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 285\" role=\"img\" aria-labelledby=\"g5s2-mathematics-02-sharing\"><title id=\"g5s2-mathematics-02-sharing\">三張相同長條紙各分4等份，每列依序標甲乙丙丁；每位角色取得3片，每片原紙的1/4。</title><g font-family=\"sans-serif\" font-size=\"18\" fill=\"#183f38\"><rect x=\"35\" y=\"40\" width=\"72\" height=\"42\" fill=\"#c1dfd0\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"71\" y=\"69\" font-size=\"20\" text-anchor=\"middle\">甲</text><rect x=\"107\" y=\"40\" width=\"72\" height=\"42\" fill=\"#eed0a5\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"143\" y=\"69\" font-size=\"20\" text-anchor=\"middle\">乙</text><rect x=\"179\" y=\"40\" width=\"72\" height=\"42\" fill=\"#c9d9ec\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"215\" y=\"69\" font-size=\"20\" text-anchor=\"middle\">丙</text><rect x=\"251\" y=\"40\" width=\"72\" height=\"42\" fill=\"#e0cbe6\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"287\" y=\"69\" font-size=\"20\" text-anchor=\"middle\">丁</text><rect x=\"35\" y=\"105\" width=\"72\" height=\"42\" fill=\"#c1dfd0\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"71\" y=\"134\" font-size=\"20\" text-anchor=\"middle\">甲</text><rect x=\"107\" y=\"105\" width=\"72\" height=\"42\" fill=\"#eed0a5\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"143\" y=\"134\" font-size=\"20\" text-anchor=\"middle\">乙</text><rect x=\"179\" y=\"105\" width=\"72\" height=\"42\" fill=\"#c9d9ec\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"215\" y=\"134\" font-size=\"20\" text-anchor=\"middle\">丙</text><rect x=\"251\" y=\"105\" width=\"72\" height=\"42\" fill=\"#e0cbe6\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"287\" y=\"134\" font-size=\"20\" text-anchor=\"middle\">丁</text><rect x=\"35\" y=\"170\" width=\"72\" height=\"42\" fill=\"#c1dfd0\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"71\" y=\"199\" font-size=\"20\" text-anchor=\"middle\">甲</text><rect x=\"107\" y=\"170\" width=\"72\" height=\"42\" fill=\"#eed0a5\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"143\" y=\"199\" font-size=\"20\" text-anchor=\"middle\">乙</text><rect x=\"179\" y=\"170\" width=\"72\" height=\"42\" fill=\"#c9d9ec\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"215\" y=\"199\" font-size=\"20\" text-anchor=\"middle\">丙</text><rect x=\"251\" y=\"170\" width=\"72\" height=\"42\" fill=\"#e0cbe6\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"287\" y=\"199\" font-size=\"20\" text-anchor=\"middle\">丁</text><text x=\"180\" y=\"252\" font-size=\"18\" text-anchor=\"middle\">每一張原紙分4份，每人共得3份</text></g></svg><figcaption>三張相同長條紙各分4等份，每列依序標甲乙丙丁；每位角色取得3片，每片原紙的1/4。</figcaption></figure>",
+      "id": "g5s2-mathematics-02-s01"
+    },
+    {
+      "title": "有整份也有剩量，剩下的還可平均分",
+      "childText": "商不是只能是整數加餘數。",
+      "html": "<p>5張相同可分的圖紙平均分給3個角色。先各得1張，用掉3張，剩2張；每張再分3等份，每人從兩張各取1份，另得2/3張。所以每人1又2/3張，也就是5/3張。</p><p>算式5÷3＝5/3＝1又2/3。在這些可分的量中，可把總量的數字寫在分子、平均份數寫在分母，表示每份的量，並保留原單位。除數不能是0，因為無法平均分成零份。</p><table><caption>分享與檢查</caption><thead><tr><th scope=\"col\">全部量</th><th scope=\"col\">平均份數</th><th scope=\"col\">每份量</th><th scope=\"col\">乘回總量</th></tr></thead><tbody><tr><th scope=\"row\">3張</th><td>4份</td><td>3/4張</td><td>4個3/4＝3張</td></tr><tr><th scope=\"row\">5張</th><td>3份</td><td>5/3張</td><td>3個5/3＝5張</td></tr><tr><th scope=\"row\">2公尺</th><td>5份</td><td>2/5公尺</td><td>5個2/5＝2公尺</td></tr></tbody></table>",
+      "id": "g5s2-mathematics-02-s02"
+    },
+    {
+      "title": "另一種除法：每份4公尺，3公尺有幾份",
+      "childText": "這次問份數，不是每份長度。",
+      "html": "<p>紙面模型規定4公尺算1份，現在有3公尺。1公尺是標準一份的1/4，3公尺便是3個1/4份，即3/4份，所以3÷4＝3/4。</p><p>和第一節相同算式，但答案單位不同：第一節3張分4人，每人3/4張；這裡3公尺按每份4公尺比較，得到3/4份。不能把份數誤寫成3/4公尺。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 210\" role=\"img\" aria-labelledby=\"g5s2-mathematics-02-grouping\"><title id=\"g5s2-mathematics-02-grouping\">一條標準份長4公尺，分4個等長1公尺區段，前3段著色；已有量是標準份的3/4。</title><g font-family=\"sans-serif\" font-size=\"18\" fill=\"#183f38\"><rect x=\"40\" y=\"60\" width=\"70\" height=\"70\" fill=\"#9dcab5\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"75\" y=\"104\" font-size=\"17\" text-anchor=\"middle\">1公尺</text><rect x=\"110\" y=\"60\" width=\"70\" height=\"70\" fill=\"#9dcab5\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"145\" y=\"104\" font-size=\"17\" text-anchor=\"middle\">1公尺</text><rect x=\"180\" y=\"60\" width=\"70\" height=\"70\" fill=\"#9dcab5\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"215\" y=\"104\" font-size=\"17\" text-anchor=\"middle\">1公尺</text><rect x=\"250\" y=\"60\" width=\"70\" height=\"70\" fill=\"#fff\" stroke=\"#49646c\" stroke-width=\"2\"/><text x=\"285\" y=\"104\" font-size=\"17\" text-anchor=\"middle\">1公尺</text><text x=\"180\" y=\"35\" font-size=\"20\" text-anchor=\"middle\">整條4公尺定為1份</text><text x=\"180\" y=\"170\" font-size=\"19\" text-anchor=\"middle\">已有3公尺，是這1份的3/4</text></g></svg><figcaption>一條標準份長4公尺，分4個等長1公尺區段，前3段著色；已有量是標準份的3/4。</figcaption></figure>",
+      "id": "g5s2-mathematics-02-s03"
+    },
+    {
+      "title": "完整份數與包含多少份量，要看問句",
+      "childText": "可分的量和不可拆的件數，答案要求不同。",
+      "html": "<p>有7公升模型液體，以每2公升為一份。問「相當於幾份量」，7÷2＝3又1/2份；問「可裝滿幾個2公升容器」，答案3個，剩1公升。容器數不可寫成裝滿3又1/2個。</p><p>若5本完整書平均送給3人而不拆書，不能說每人得到5/3本完整書。必須說明分不成一樣多的整本，或先每人1本剩2本，請決策者另定剩書分法。數學計算要符合物品可否再分的條件。</p>",
+      "id": "g5s2-mathematics-02-s04"
+    },
+    {
+      "title": "一起把兩種故事並排",
+      "childText": "相同數字也可能問不同單位。",
+      "html": "<p>故事甲：8公尺紙帶平均分3段，每段多長？每段8/3＝2又2/3公尺。故事乙：8公尺紙帶以每3公尺為一標準份，相當於幾份量？相當於8/3＝2又2/3份。</p><p>請在算式旁先寫「每段長度」或「份數」，再計算。若只圈數字8與3，可能算對卻回答錯量。兩個故事都假設紙帶可切分、沒有切割損耗，並全部用來比較或分配。</p>",
+      "id": "g5s2-mathematics-02-s05"
+    },
+    {
+      "title": "修補：分母不是剩下的數量",
+      "childText": "分母說明把一個單位分成幾等份。",
+      "html": "<p>有人算5÷3得1餘2，於是寫1又2/5。正確是剩2張繼續分給3人，每人分到2/3張，所以1又2/3。分母3來自平均份數，不是原來總張數5。</p><p>也有人說3小於4所以3÷4一定0。若只問完整份數，確實不足一整份；但紙能再分、題目要全部平均時，每份仍可有3/4張，並非什麼都沒有。</p>",
+      "id": "g5s2-mathematics-02-s06"
+    },
+    {
+      "title": "獨立轉用：把單位寫完整",
+      "childText": "先辨認問每份量還是份數。",
+      "html": "<p>①7張可分的同大圖紙平均分4份，每份多少張？②5公尺紙帶以每2公尺為標準一份，相當於幾份量？③5公尺最多能剪幾條完整2公尺紙帶，剩多少？④為2÷3編一個完整分享故事，說明答案單位。</p><details><summary>完成後核對</summary><p>①7/4＝1又3/4張。②5/2＝2又1/2份。③2條，剩1公尺。④例如2張可分的同大紙平均分3人，每人2/3張；需明示總量2、平均3份、可分且無損耗，單位與所問量一致。</p></details>",
+      "id": "g5s2-mathematics-02-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-5-6必須同時提供等分與分裝（測量）觀點。三張四分模型固定每張原紙為1，不能把全部三張改作分數整體而仍使用張作單位；第二圖明確把4公尺定為標準1份，份數與公尺因此不同。支持組逐列追蹤甲取得三片，熟練組比較8÷3兩個故事並判斷不同問句。成人要求乘回去檢查分配總量，並用完整書或裝滿容器的反例限制可分性，避免把任何除法一律寫分數就算答題完成。評量看是否全部均分、保持原單位、理解不足一份仍有量，以及能區分整份與份量。紙片裁切由成人準備，兒童以指圖或大紙模型操作即可。</p><p>教學時先請孩子說出題目已知什麼、要找什麼，再容許用指圖、口述、畫記或成人代筆表達。保留第一次答案，以追問找出想法；不要只看數字是否答對，也不以字跡、閱讀速度或操作精細度代替數學理解。每次只修補一個關鍵錯因，再用不同資料確認是否能轉用。</p><p>形成性評量分別記錄「辨認量與單位、選擇模型、完成計算、提出檢查」四項。學習單上的判斷題不能取代紙面操作與解釋；孩子先完成獨立題再開啟核對內容。支持組可減少一次呈現的資料或先由成人讀題，熟練組則說明另一條合理解法；兩組都要保留本課的核心概念。</p><p>所有故事和資料都是教學用的虛構例子，不要求填真實兒童姓名、家庭收支或私人紀錄。操作只在桌面使用大張紙卡與粗筆，需要裁切時由成人預備；不以小顆物品、危險器材或實際購買來驗證答案。未實際完成的操作須記為紙面推想，不能當成已測量的證據。</p>",
+  "exercises": [
+    {
+      "id": "g5s2-mathematics-02-q01",
+      "question": "3張同大可分紙平均分4份，每份多少？",
+      "options": [
+        "4/3張",
+        "0張",
+        "3/4張"
+      ],
+      "answer": 2,
+      "hint": "每張分4份，每人取3片。",
+      "explanation": "每人得3片四分之一張，合成3/4張，四份合回3張。"
+    },
+    {
+      "id": "g5s2-mathematics-02-q02",
+      "question": "5張可分紙平均分3份，每份多少？",
+      "options": [
+        "1又2/3張",
+        "1又2/5張",
+        "1張且把剩紙丟掉"
+      ],
+      "answer": 0,
+      "hint": "先各分1張，再把剩2張分3份。",
+      "explanation": "剩下2張仍平均分3份，每人多2/3張，因此是1又2/3張。"
+    },
+    {
+      "id": "g5s2-mathematics-02-q03",
+      "question": "3公尺以每4公尺為標準一份，相當於多少？",
+      "options": [
+        "3/4份",
+        "3/4公尺",
+        "4/3份"
+      ],
+      "answer": 0,
+      "hint": "答案要問已有量包含幾份標準量。",
+      "explanation": "3公尺是標準4公尺的四分之三，所求是份數而不是已有長度。"
+    },
+    {
+      "id": "g5s2-mathematics-02-q04",
+      "question": "7公升相當於幾份2公升的量？",
+      "options": [
+        "3公升",
+        "3又1/2份",
+        "3又1/2公升"
+      ],
+      "answer": 1,
+      "hint": "2公升才算一份。",
+      "explanation": "7除2等於3又1/2，單位為標準份量，與7公升原量不同。"
+    },
+    {
+      "id": "g5s2-mathematics-02-q05",
+      "question": "7公升可裝滿幾個2公升容器，剩多少？",
+      "options": [
+        "3又1/2個全部裝滿",
+        "3個，剩1公升",
+        "4個，沒有剩"
+      ],
+      "answer": 1,
+      "hint": "裝滿容器數要用完整整數。",
+      "explanation": "3個容器用6公升，剩1公升不足裝滿第4個，所以只裝滿3個。"
+    },
+    {
+      "id": "g5s2-mathematics-02-q06",
+      "question": "為何5÷3的帶分數不是1又2/5？",
+      "options": [
+        "剩2張仍要平均分3份",
+        "分子不能是2",
+        "帶分數一定要以5作分子"
+      ],
+      "answer": 0,
+      "hint": "餘量要繼續除以原份數。",
+      "explanation": "原除數3代表平均3份，所以剩2張每份分到2/3，而不是2/5。"
+    },
+    {
+      "id": "g5s2-mathematics-02-q07",
+      "question": "7張可分紙平均分4份，每份多少？",
+      "options": [
+        "1又3/7張",
+        "3/4張",
+        "1又3/4張"
+      ],
+      "answer": 2,
+      "hint": "7/4中4/4是一張。",
+      "explanation": "7/4等於4/4加3/4，因此每份1又3/4張，四份剛好7張。"
+    },
+    {
+      "id": "g5s2-mathematics-02-q08",
+      "question": "5本完整書平均給3人且不能拆書，哪句正確？",
+      "options": [
+        "每人必得5/3本完整書",
+        "無法全部分成每人相同的整本數",
+        "每人2本且總數不變"
+      ],
+      "answer": 1,
+      "hint": "物品能否分割會影響答案。",
+      "explanation": "5不能整除3，又不允許拆書，不能把分數本數當作可行的完整分配。"
+    }
+  ],
+  "selfCheck": [
+    "我能用分享和標準份量解釋分數商。",
+    "我知道分數仍以原單位為準。",
+    "我能分清完整份數與相當的份量。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "依官方五年級年度學習內容設計；學期分配、原創故事與練習是本教材的編輯安排，不是全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：五年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁29–32。N-5-6：由等分與分裝兩觀點解釋整數相除的分數商，突破只能有整數餘數的想法。"
+    }
+  ]
+}
