@@ -1,0 +1,189 @@
+{
+  "id": "g5s2-english-12",
+  "course": "英語文",
+  "title": "角色對話與合作表達",
+  "subtitle": "用完整角色卡合作規劃，處理不足、重述和共同確認",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "用完整角色卡合作規劃，處理不足、重述和共同確認。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能依自己的角色資料提出建議、澄清數量與回應同伴。",
+    "我能把時間、場所、材料與意願整合成三人都確認的計畫。",
+    "我能在新情境中分工與修訂，分清同意計畫和活動已完成。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>本課整合星期、時刻、材料數、場所更新、個人偏好與全體明確同意，並要求分工與完成範圍記錄。原版2紙／4書／3筆只能按條件選閱讀；新版3紙／2書／3筆選畫圖，地點時間同步改。完整卡量和初態已供，沒有隱藏第三張紙。合格教師示範後才評口語，單人輪換、AAC或代讀均可完成合作理解。</p>",
+  "selfCheck": [
+    "我能依自己的角色資料提出建議、澄清數量與回應同伴。",
+    "我能把時間、場所、材料與意願整合成三人都確認的計畫。",
+    "我能在新情境中分工與修訂，分清同意計畫和活動已完成。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-12-s01",
+      "title": "合作不是把三段獨白接起來",
+      "childText": "你的回合要回應前一人的訊息。",
+      "html": "<p>本課三位虛構角色要安排一次校內30分鐘活動，選reading閱讀或drawing畫圖。合作需要提出、查資料、重述、接受或拒絕、記錄分工。不同意可以說No, thank you.或提出另一方案；沒聽清楚可說Please say that again.。三人都能指卡、書寫或請成人代讀，不必公開演戲。</p><p>本頁給完整初始資料、所有角色卡、原版全文和新版條件。無須真實班級行程、物品、聯絡或報名。共同計畫不能由一人說Let’s…就算全體同意，也不能把「已寫計畫」說成活動已實際舉行。每次改一項資料，要回頭檢查其餘條件是否仍可行。</p>"
+    },
+    {
+      "id": "g5s2-english-12-s02",
+      "title": "三張完整角色卡與初態",
+      "childText": "每人掌握的資料都能找到。",
+      "html": "<div class=\"story\"><p>Ava卡，主持：三人都可在Friday15:30–16:00。Room 2此時關閉，reading corner此時開放。Ava可接受閱讀或畫圖。</p><p>Bo卡，提出活動：Bo偏好drawing，但若材料不足也願意reading。本次畫圖每人需一張紙，三人共需3張；閱讀每人需一本書，三人共需3本。</p><p>Cora卡，查材料：桌面起始有paper2張、story books4本、pencils3支。沒有別的材料供應或借入機會；閱讀不用紙和鉛筆，畫圖需每人一支鉛筆。Cora願意閱讀，也接受材料足夠時畫圖。</p></div><p>reading corner閱讀角、story books故事書、paper紙、pencils鉛筆、enough足夠、instead改為。紙上的「沒有其他供應」是這次任務界線，不能靠自己想像借來第三張紙解題；不是真實世界永遠不能借物。</p>"
+    },
+    {
+      "id": "g5s2-english-12-s03",
+      "title": "完整十六回合合作劇本",
+      "childText": "改方案後，每人都說清楚。",
+      "html": "<div class=\"story\"><p>1 Ava: What can we do on Friday at three thirty?<br/>2 Bo: Let’s draw pictures.<br/>3 Cora: We have two sheets of paper and four story books.<br/>4 Ava: We need three sheets for drawing.<br/>5 Bo: Can we read instead?<br/>6 Cora: Yes, I’d like that.<br/>7 Ava: Where can we read?<br/>8 Cora: In Room 2?<br/>9 Ava: Room 2 is closed. The reading corner is open from three thirty to four.<br/>10 Bo: Please say that again.<br/>11 Ava: The reading corner, from three thirty to four on Friday.<br/>12 Cora: OK. Let’s read there.<br/>13 Bo: Yes. I agree.<br/>14 Ava: I agree too. Bo, please choose three story books. Cora, please check the time. I’ll write our plan.<br/>15 Bo: Here are three story book cards.<br/>16 Cora: The plan is Friday, three thirty to four, in the reading corner.</p></div><p>明寫動作：Bo從4張story book卡選出3張放在「計畫用」區，餘1張仍在材料區；Ava寫下三人閱讀計畫。此時只是完成規劃與挑卡，沒有到星期五活動時間或讀完書的記錄。</p>"
+    },
+    {
+      "id": "g5s2-english-12-s04",
+      "title": "一起查四個合作條件",
+      "childText": "數量足夠之外，還要有場所與同意。",
+      "html": "<p>成人示範材料：drawing需3張紙、只有2張，因此不夠；3支筆雖足夠，仍不能補紙的不足。reading需3本書、現有4本，且reading corner在指定時段開放，符合時間場所。三人分別在第6／12、13、14句接受閱讀方案，不能只引用Bo提議第5句便當作全體通過。</p><p>紙卡精確準備：paper2張、story book4張、pencil3張，Ava／Bo／Cora角色卡各一張，另在底紙寫「材料區」「計畫用」兩區；大字紙卡即可，每張代表一件。把初態都放材料區，按第15句動作選出3張書。也可在清單圈3並註明留下1，全程不需真實借書、搬物或預約閱讀角。</p>"
+    },
+    {
+      "id": "g5s2-english-12-s05",
+      "title": "修復：合作不靠猜心和搶答",
+      "childText": "重述是讓計畫更清楚。",
+      "html": "<p>錯摘要「Cora提Room 2，所以地點就是Room 2」漏看第9句更正。錯摘要「Bo偏好畫圖，所以不會同意閱讀」忽略角色卡與明說I agree。錯摘要「四本書全借走」忽略只選3張卡。請各指出一句證據再修訂，不以誰說得比較大聲決定。</p><p>第10句要求重述是合理溝通策略，不是失敗。成人可先示範把第9句拆成地點和時段，再合成完整第11句；成人可先在三張大紙卡分別寫Friday、15:30、16:00；需要較多支持的孩子可指這三張文字標記，或直接指本頁已印出的日與時刻，無須讀得快。拒絕公開演出、使用AAC或由成人代讀，不應被當成沒有參與合作。</p>"
+    },
+    {
+      "id": "g5s2-english-12-s06",
+      "title": "獨立轉用：材料和場所一起改",
+      "childText": "先自己協商，再看完整可用模型。",
+      "html": "<p>新初態：角色與共同空檔改成Tuesday15:00–15:30；paper3張、pencils3支、story books2本；Room 1開放，reading corner關閉。三人都願意選符合材料與場所的活動。沒有其他供應，畫圖與閱讀人均需求同原版。若使用紙卡，成人另備一張標示paper的大紙卡，在原版活動中先收在場外、不列入原版供應；開始本次新情境時才加入，並把故事書卡改為2張、鉛筆卡保留3張，設好本次初態。也可直接指讀本頁的新數量，不必移卡。請寫一份計畫：活動、日與時段、場所、材料數、三人明說接受及分工。再安排一個聽錯後澄清的回合；請逐項核對新的日、時段、場所與材料條件，再決定活動。</p><details><summary>完成後看完整轉用腳本</summary><p>Ava: What can we do on Tuesday at three? Bo: Let’s read. Cora: We have only two books, but three sheets of paper and three pencils. Ava: Let’s draw in Room 1. Bo: Room 2? Ava: No, Room 1. It is open from three to three thirty. Bo: OK. I agree. Cora: I agree too. Ava: I agree. Bo, please choose three paper cards. Cora, please choose three pencil cards. I’ll write the plan. Bo: Three paper cards. Cora: Three pencil cards. Ava: Our plan is drawing in Room 1 on Tuesday from three to three thirty.</p><p>若依腳本另明寫Bo與Cora把所需卡移到「計畫用」區，即為準備動作已完成；計畫仍不等於活動已舉行。材料恰足三人，不能把兩本書硬當每人一本的閱讀材料。</p></details>"
+    },
+    {
+      "id": "g5s2-english-12-s07",
+      "title": "完成一張共同確認表",
+      "childText": "每人有發言權，也能選自己的表達方式。",
+      "html": "<p>確認表欄位完整為「活動／日期與時段／場所／材料需求與供應／Ava接受／Bo接受／Cora接受／分工／完成到哪一步」。原版以16回合逐格核對，新版先不展開答案自己完成。成人可依角色卡幫忙讀句，但不能替孩子推定第三人的同意。</p><p>評量分四項：使用資料、回應前句、澄清修復、尊重同伴與證據。單人也能輪換三張角色卡完成，不強制找真人夥伴；不錄音上傳。合格教師完整示範後才做真正口語觀察，記錄模型與字卡支持。活動安全、支持需求和參與權不以口音、音量、對視或背稿熟練度作門檻。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    },
+    {
+      "title": "British Council｜Checking understanding",
+      "url": "https://learnenglish.britishcouncil.org/skills/speaking/a1-speaking/checking-understanding",
+      "note": "2026-10-06另行直接核對請求重述與確認理解的教學頁；只借溝通用途，所有本課16回合與轉用腳本原創，未播放來源影片或音訊。"
+    },
+    {
+      "title": "教育部｜英語文課綱第三階段口說與合作",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對。實體第12、15頁（索引11、14；印刷10、13）支持簡易問答、日常溝通與角色扮演方向；本頁角色卡、材料限制、腳本和評量原創。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-12-q01",
+      "question": "原版畫圖方案為何不夠？",
+      "options": [
+        "需4支筆但只有3支",
+        "所有人都拒絕畫圖",
+        "需3張紙但只有2張"
+      ],
+      "answer": 2,
+      "hint": "先看每人需求和三人總需求。",
+      "explanation": "三人每人一張紙需要3張，原有2張不足；鉛筆3支則已符合需求。"
+    },
+    {
+      "id": "g5s2-english-12-q02",
+      "question": "原版閱讀需3本，現有4本，選卡後材料區剩？",
+      "options": [
+        "0張",
+        "1張story book卡",
+        "4張全數不動"
+      ],
+      "answer": 1,
+      "hint": "第15句動作只選3張。",
+      "explanation": "原4張移3張到計畫用區，留下1張，不能把需求3當全部4都移走。"
+    },
+    {
+      "id": "g5s2-english-12-q03",
+      "question": "原計畫的正確地點是？",
+      "options": [
+        "Room 2",
+        "reading corner",
+        "Room 1"
+      ],
+      "answer": 1,
+      "hint": "追蹤第8、9與11句。",
+      "explanation": "Room2是被更正的提議，Ava說關閉並指定開放reading corner，後續確認此地。"
+    },
+    {
+      "id": "g5s2-english-12-q04",
+      "question": "第10句Please say that again.的作用是？",
+      "options": [
+        "請求重述以確認資訊",
+        "拒絕所有合作",
+        "證明活動已完成"
+      ],
+      "answer": 0,
+      "hint": "看後面Ava補說地點和時段。",
+      "explanation": "Bo請求再次說明，Ava重述後繼續確認，這是一種修復溝通的策略。"
+    },
+    {
+      "id": "g5s2-english-12-q05",
+      "question": "哪些證據顯示原版三人接受閱讀？",
+      "options": [
+        "Cora、Bo和Ava各自的明說接受回合",
+        "只有Bo第5句提議",
+        "Cora沒有反對所以一定同意"
+      ],
+      "answer": 0,
+      "hint": "逐個人找明確回覆。",
+      "explanation": "Cora第6／12、Bo第13、Ava第14句表達接受，不能用沉默替代其中一人。"
+    },
+    {
+      "id": "g5s2-english-12-q06",
+      "question": "新資料最可行活動是？",
+      "options": [
+        "reading且每人一本",
+        "無視場所直接去reading corner",
+        "drawing"
+      ],
+      "answer": 2,
+      "hint": "新材料3紙3筆2書且Room1開放。",
+      "explanation": "畫圖每人一紙一筆正好足夠，閱讀需三本但只有兩本且閱讀角關閉。"
+    },
+    {
+      "id": "g5s2-english-12-q07",
+      "question": "新計畫應使用哪個時段？",
+      "options": [
+        "Tuesday15:00–15:30",
+        "Friday15:30–16:00",
+        "Tuesday16:00–16:30"
+      ],
+      "answer": 0,
+      "hint": "新版明說共同空檔已改。",
+      "explanation": "新空檔為星期二15:00至15:30，不能沿用舊版星期五時間。"
+    },
+    {
+      "id": "g5s2-english-12-q08",
+      "question": "原版已寫計畫且選好卡，可否說已讀完書？",
+      "options": [
+        "可以，選卡等於讀完",
+        "不能，只有規劃與準備動作",
+        "可以，三人同意就算完成所有事"
+      ],
+      "answer": 1,
+      "hint": "看正文的完成範圍。",
+      "explanation": "正文只記錄確認計畫和選卡，沒有實際活動或閱讀完成證據，應保留這個界線。"
+    }
+  ]
+}

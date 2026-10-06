@@ -1,0 +1,184 @@
+{
+  "id": "g5s2-english-02",
+  "course": "英語文",
+  "title": "詢問健康狀況",
+  "subtitle": "以尊重的問句關心角色，追蹤回覆、需求與後來狀態",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "以尊重的問句關心角色，追蹤回覆、需求與後來狀態。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能分開一般招呼、詢問感受和詢問需要的用途。",
+    "我能依完整角色回覆追蹤時間變化，不把better說成已治癒。",
+    "我能尊重不願說明的回覆，並用任何有效方式轉達求助。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>教學用三卡和兩完整腳本，重點從單句「不舒服」增加到需求、界線與時間更新。不得要求孩子真實披露，不能把better當完全恢復或給治療建議。轉達是否完成須查動作與成人回覆；新卡只給承諾時保留未完成。支持方式與真正聽說觀察分開記，實際需求優先且不以英文表現作取得協助條件。</p>",
+  "selfCheck": [
+    "我能分開一般招呼、詢問感受和詢問需要的用途。",
+    "我能依完整角色回覆追蹤時間變化，不把better說成已治癒。",
+    "我能尊重不願說明的回覆，並用任何有效方式轉達求助。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-02-s01",
+      "title": "關心不是盤問",
+      "childText": "對方可以不公開細節。",
+      "html": "<p>How are you?可以作招呼；How do you feel?或How are you feeling?可以在適當語境關心感受，包括身體或情緒。不能單看一個句型就判定對方生病。本課固定情境是虛構角色在紙上活動時說不舒服，同伴關心並找成人，不是同學互相做健康檢查。</p><p>核心詞句完整供應：I don’t feel well.我覺得不舒服；I feel better.我感覺好一些；I need help.我需要幫助；I’d rather not say.我不想說；That’s OK.沒關係。人可以拒絕分享細節，仍可取得協助。練習時不要要求真人列症狀、診斷、家庭醫療資訊或藥名。</p>"
+    },
+    {
+      "id": "g5s2-english-02-s02",
+      "title": "兩個時點的完整角色卡",
+      "childText": "前後兩張卡不能混成同時。",
+      "html": "<div class=\"story\"><p>虛構角色Ari，時間卡A，10:00：I don’t feel well. I need an adult.<br/>時間卡B，10:15：I feel better, but I still want to stop the activity.<br/>虛構角色Bo，時間卡C，10:00：I’m OK. I’d rather not talk about my health.</p></div><p>still仍然、but但是、health健康、activity活動。Ari在10:15說better，是相較先前好一些，且仍想停止；沒有提供治療或全好證據。Bo說OK仍不想談細節，這不是犯錯或不合作，不能逼問。卡片只描述虛構資料，不要請孩子改成自己真實的病史。</p><p>成人可抄A、B、C三張大卡與10:00、10:15時間卡各一張；用紙面並排，不用真時鐘等待或測量身體。無材料時直接指本頁文字即可。</p>"
+    },
+    {
+      "id": "g5s2-english-02-s03",
+      "title": "完整求助對話",
+      "childText": "答了問題之後，還要聽見需求。",
+      "html": "<div class=\"story\"><p>1 Friend: How are you feeling, Ari?<br/>2 Ari: I don’t feel well.<br/>3 Friend: Do you need help?<br/>4 Ari: Yes, please. Please get an adult.<br/>5 Friend: I’ll tell the teacher.<br/>動作記錄：Friend把卡A交給在旁的Teacher，說Ari needs help.<br/>6 Teacher: I’m here, Ari. We can stop the activity.<br/>7 Ari: Thank you. I want to stop.<br/>動作記錄：紙上活動停止。</p></div><p>第3句詢問是否需要協助，第4句提出明確需求，第5句是承諾，後面的動作與成人第6句才證明已轉達。這段不包含病因、治療或病況結果，也不做真正聯絡或代替醫療專業判斷。</p>"
+    },
+    {
+      "id": "g5s2-english-02-s04",
+      "title": "完整尊重回覆模型",
+      "childText": "不說細節，也能繼續溝通。",
+      "html": "<div class=\"story\"><p>1 Friend: How are you feeling, Bo?<br/>2 Bo: I’m OK. I’d rather not talk about my health.<br/>3 Friend: That’s OK. Would you like me to get an adult?<br/>4 Bo: No, thank you. I’d like to read quietly.<br/>5 Friend: OK. You can use the reading card.</p></div><p>此腳本中Bo拒絕的是這次「請同伴找成人」的提供，並選擇安靜閱讀；不是宣稱任何真實情況都不能求助。成人若真的看到孩子需要協助，依現場責任處理，不拿紙上對話作拒絕支援的規則。孩子也可全程拿角色卡或請成人代讀，無須把自己的感受放進故事。</p><p>虛構Bo場景的選用安靜閱讀卡，全文為本課原創：<span lang=\"en\">Here is a red book. The book is on a desk.</span> 中文意思：「這裡有一本紅色的書。這本書在一張書桌上。」這張卡只是該場景可選的閱讀材料，不是健康判斷或治療建議。成人可把以上兩句英文和中文完整抄在一張普通大紙上，或讓孩子直接閱讀本頁，不必另找圖卡或真實紅書。孩子可選擇不讀，或請成人依既有真人模型條件代讀；這張選用卡不增加任何測驗。</p>"
+    },
+    {
+      "id": "g5s2-english-02-s05",
+      "title": "一起更新紀錄並修復",
+      "childText": "更好一些與不再需要支持不同。",
+      "html": "<p>成人先填時間線：10:00不舒服、要找成人；已明寫轉達且停止活動；10:15自述better、仍想停止。孩子各用一句原文作證據。錯摘要「Ari好一些，所以可以要求立即繼續」忽略still want to stop；錯摘要「停止活動治好了Ari」把前後事件硬連成已證明的治療原因。</p><p>語言修復：How do you feel?與How are you feeling?都可在本課適當語境使用，不把第二種硬判錯。I feel better.不等於I am completely well.。問句答覆有時不是Yes／No，例如How are you feeling?需要感受資訊；Do you need help?則可以先答Yes, please.再說需要什麼。</p>"
+    },
+    {
+      "id": "g5s2-english-02-s06",
+      "title": "獨立轉用：新角色的有限回答",
+      "childText": "先尊重界線，再找下一步語言。",
+      "html": "<p>新卡D：角色Rin說I don’t feel well. I’d rather not say more. Please get the teacher.。同伴問How are you feeling?後，請代Rin給出卡上的回覆，再寫同伴一句合適回應。假設只有同伴說I’ll get the teacher.，沒有後續動作記錄，請判斷是否已證明成人到場；再寫可補記的完整事實句。</p><details><summary>完成後核對</summary><p>Rin可直接讀三句角色卡。同伴可說That’s OK. I’ll get the teacher.。這只是承諾，未證明已到。若劇本真的另供Teacher comes to the table and says, “I’m here to help.”，才可記成人到場；不能自己當作已發生。Rin不願多說仍可請求協助。</p></details>"
+    },
+    {
+      "id": "g5s2-english-02-s07",
+      "title": "成人與孩子如何確認學會",
+      "childText": "問候、資訊和行動證據分開記。",
+      "html": "<p>用四欄完成紀錄：「問句用途／角色回覆／需要或界線／下一步是否已發生」。每欄都可用中文先說，再配短英文。需要較多支持的孩子先比較Ari與Bo兩個回覆，進階者解釋10:15的更新沒有抹去停止需求。不可把不願演出或不想披露當錯誤。</p><p>合格教師須先自然示範兩段完整對話，才做真人聽辨與口語；有字卡提示要記清楚，紙面選擇題只測供應概念。不要依表情、聲線或腔調猜病因。實際不適出現就停止遊戲，用任何可行語言、指卡或求助工具通知可信任成人，必要時交由專業人員協助，不繼續進行英文測驗。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Stative verbs官方教學回覆",
+      "url": "https://learnenglish.britishcouncil.org/comment/148133",
+      "note": "2026-10-06直接核對。直接核對LearnEnglish教師2020-07-14回覆：How do you feel?與How are you feeling today?均有適用語境。只用語言框架，不採第三方留言作健康建議。"
+    },
+    {
+      "title": "British Council｜Health官方教學回覆",
+      "url": "https://learnenglish.britishcouncil.org/comment/182091",
+      "note": "2026-10-06官方搜尋索引核對2022-12-18 LearnEnglish教師關於feel問句可涉及身體或情緒、須看語境的說明；未取用使用者病史，未播放音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-02-q01",
+      "question": "How are you feeling?在適當語境中可以問？",
+      "options": [
+        "必定是哪一種疾病",
+        "身體或情緒感受",
+        "只問年齡"
+      ],
+      "answer": 1,
+      "hint": "句型本身不指定診斷。",
+      "explanation": "官方語言說明與本課都強調語境；這類問句可關心感受，不能單靠句型診斷。"
+    },
+    {
+      "id": "g5s2-english-02-q02",
+      "question": "Ari10:15的完整意思是？",
+      "options": [
+        "已完全好了並同意繼續",
+        "從未不舒服",
+        "好一些，但仍想停止活動"
+      ],
+      "answer": 2,
+      "hint": "把but後的需求也讀完。",
+      "explanation": "better表示相對改善，still want to stop保留停止需求，不能只讀前半句。"
+    },
+    {
+      "id": "g5s2-english-02-q03",
+      "question": "Bo不想談健康細節，合適回應是？",
+      "options": [
+        "尊重界線並按腳本提供可選協助",
+        "要求公布病史才准閱讀",
+        "宣稱Bo一定說謊"
+      ],
+      "answer": 0,
+      "hint": "看完整尊重回覆模型。",
+      "explanation": "拒絕分享細節不等於不合作，角色仍能選擇支持方式，無須公開私事。"
+    },
+    {
+      "id": "g5s2-english-02-q04",
+      "question": "原Ari腳本哪裡證明求助已轉達？",
+      "options": [
+        "只靠Friend的I’ll",
+        "交卡動作與Teacher的回覆",
+        "只靠Ari10:15的better"
+      ],
+      "answer": 1,
+      "hint": "找承諾之後的明寫記錄。",
+      "explanation": "腳本有Friend交卡通知及成人回應，才支持轉達已發生，而非只有打算。"
+    },
+    {
+      "id": "g5s2-english-02-q05",
+      "question": "哪個問題可先答Yes, please.？",
+      "options": [
+        "How are you feeling?",
+        "Do you need help?",
+        "What day is it?"
+      ],
+      "answer": 1,
+      "hint": "區分是否問題與資訊問題。",
+      "explanation": "Do you need help?問是否需要協助；另兩句通常需要感受或星期等具體資訊。"
+    },
+    {
+      "id": "g5s2-english-02-q06",
+      "question": "新Rin不願多說，但要求找老師，應如何處理？",
+      "options": [
+        "不說完全部就不幫",
+        "直接猜測病因",
+        "尊重不多說並回應找老師需求"
+      ],
+      "answer": 2,
+      "hint": "角色的界線與求助可以並存。",
+      "explanation": "Rin已清楚要求成人協助，不願更多披露不會取消這個需求。"
+    },
+    {
+      "id": "g5s2-english-02-q07",
+      "question": "可否斷言停止活動治好了Ari？",
+      "options": [
+        "不可，文字未證明原因或治癒",
+        "可以，先後發生就是因果",
+        "可以，better等於完全痊癒"
+      ],
+      "answer": 0,
+      "hint": "前後紀錄不等於治療證據。",
+      "explanation": "故事只有狀態與時間變化，沒有提供治療證據，更不能把better改成治癒。"
+    },
+    {
+      "id": "g5s2-english-02-q08",
+      "question": "真人練習時真的不舒服，先做什麼？",
+      "options": [
+        "停止活動並找可信任成人",
+        "要求把所有問題答完",
+        "請同伴檢查身體"
+      ],
+      "answer": 0,
+      "hint": "安全與協助先於英文正確。",
+      "explanation": "實際不適要先停止並取得成人協助，不用測驗或同伴檢查來證明需要幫忙。"
+    }
+  ]
+}

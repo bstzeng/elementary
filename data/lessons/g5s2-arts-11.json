@@ -1,0 +1,187 @@
+{
+  "id": "g5s2-arts-11",
+  "course": "藝術",
+  "title": "說唱與故事創作",
+  "subtitle": "把自然說話和有節拍的歌唱接成故事，讓每個段落都有敘事作用",
+  "duration": "2–3次，每次約30–40分鐘；實作分短段並安排休息",
+  "intro": "把自然說話和有節拍的歌唱接成故事，讓每個段落都有敘事作用。先觀察完整模型，提出有理由的選擇，再用新條件試做與修訂。",
+  "goals": [
+    "我能分清自由說白與固定拍數的唱段，找到接續提示。",
+    "我能依完整原創譜唱或指讀四句，說明它們如何推進故事。",
+    "我能按新路線條件改寫台詞與一行歌詞，保持音節與時值完整。"
+  ],
+  "materials": [
+    "本頁原創故事、全譜與台詞；成人備大紙圖，完整寫「小橋←｜大樹→」，再畫左方小橋形、右方大樹形作符號。",
+    "紙筆，成人另寫「說、唱、停」三張大字卡；可坐姿說讀或指譜。唱段需成人核實完整音高與時值模型，不模仿未供應的傳統唱腔，也不要求快嘴或大音量。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-arts-11-s01",
+      "title": "說與唱可以各自完成不同的事",
+      "childText": "說與唱可以各自完成不同的事",
+      "html": "<p>說白能清楚交代人物、問題與決定，唱段可用重複、節拍和音高把重要想法凸顯。本課是原創的說唱故事，不宣稱是任何傳統說唱曲種、饒舌風格或特定語言唱腔的示範。自然說話的長短由意思決定，唱段則依完整譜走拍；接點要事先約好。</p><p>不必把每個字都塞成同樣快，也不用為押韻犧牲故事因果。可以先讀懂故事，再安排哪一句值得唱。沒有準確音高模型時，先做說白和節奏朗讀，記為準備練習；它不等於已完成有音高的唱段評量。</p>"
+    },
+    {
+      "id": "g5s2-arts-11-s02",
+      "title": "原創故事與完整說白",
+      "childText": "原創故事與完整說白",
+      "html": "<p>故事《小雲問路》：想像角色小雲想去大樹展台看圖，但眼前有往左的小橋和往右的大樹兩個標示。小雲原本只注意到小橋圖案，伙伴阿石提醒先確認目的地。兩人一起讀完整指路卡，決定往右，在桌上用手指點大樹，不真的出門。角色不影射真實兒童。</p><p>開頭說白：敘述者「小雲來到展覽路口，想找到大樹展台。」小雲「我看見小橋，應該往那裡嗎？」阿石「先別急，我們把圖看清楚。」敘述者出示「唱」卡，成人另數4拍後開始下方唱段。這段自然說完再數，不規定說白幾秒，沒有伴奏或額外動作。</p>"
+    },
+    {
+      "id": "g5s2-arts-11-s03",
+      "title": "完整唱段：《先看圖》",
+      "childText": "完整唱段：《先看圖》",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 330\" role=\"img\" aria-labelledby=\"g5s2-arts-11-四句唱段：每列4拍-t g5s2-arts-11-四句唱段：每列4拍-d\"><title id=\"g5s2-arts-11-四句唱段：每列4拍-t\">原創教學圖：四句唱段：每列4拍</title><desc id=\"g5s2-arts-11-四句唱段：每列4拍-d\">原創時值圖，每列一個4拍小節，格寬按時值；休止也佔時間。完整音高、歌詞或動作另依本頁文字。</desc><rect width=\"360\" height=\"330\" fill=\"#fffdf6\"/><text x=\"10\" y=\"23\" font-size=\"16\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">四句唱段：每列4拍</text><text x=\"7\" y=\"68\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1</text><rect x=\"30\" y=\"43\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"35\" y=\"62\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">C4先</text><text x=\"35\" y=\"82\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"110\" y=\"43\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"115\" y=\"62\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">D4看</text><text x=\"115\" y=\"82\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"190\" y=\"43\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"195\" y=\"62\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">E4圖</text><text x=\"195\" y=\"82\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"270\" y=\"43\" width=\"80\" height=\"48\" fill=\"#eee7d9\" stroke=\"#617f80\"/><text x=\"275\" y=\"62\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">休</text><text x=\"275\" y=\"82\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><text x=\"7\" y=\"138\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">2</text><rect x=\"30\" y=\"113\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"35\" y=\"132\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">E4找</text><text x=\"35\" y=\"152\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"110\" y=\"113\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"115\" y=\"132\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">D4大</text><text x=\"115\" y=\"152\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"190\" y=\"113\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"195\" y=\"132\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">C4樹</text><text x=\"195\" y=\"152\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"270\" y=\"113\" width=\"80\" height=\"48\" fill=\"#eee7d9\" stroke=\"#617f80\"/><text x=\"275\" y=\"132\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">休</text><text x=\"275\" y=\"152\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><text x=\"7\" y=\"208\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">3</text><rect x=\"30\" y=\"183\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"35\" y=\"202\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">C4問</text><text x=\"35\" y=\"222\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"110\" y=\"183\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"115\" y=\"202\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">E4清</text><text x=\"115\" y=\"222\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"190\" y=\"183\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"195\" y=\"202\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">G4楚</text><text x=\"195\" y=\"222\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"270\" y=\"183\" width=\"80\" height=\"48\" fill=\"#eee7d9\" stroke=\"#617f80\"/><text x=\"275\" y=\"202\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">休</text><text x=\"275\" y=\"222\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><text x=\"7\" y=\"278\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">4</text><rect x=\"30\" y=\"253\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"35\" y=\"272\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">G4再</text><text x=\"35\" y=\"292\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"110\" y=\"253\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"115\" y=\"272\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">E4上</text><text x=\"115\" y=\"292\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"190\" y=\"253\" width=\"80\" height=\"48\" fill=\"#d7e9e6\" stroke=\"#617f80\"/><text x=\"195\" y=\"272\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">C4路</text><text x=\"195\" y=\"292\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text><rect x=\"270\" y=\"253\" width=\"80\" height=\"48\" fill=\"#eee7d9\" stroke=\"#617f80\"/><text x=\"275\" y=\"272\" font-size=\"14\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">休</text><text x=\"275\" y=\"292\" font-size=\"12\" font-family=\"Noto Sans CJK TC,sans-serif\" fill=\"#173947\">1拍</text></svg><figcaption>原創時值圖，每列一個4拍小節，格寬按時值；休止也佔時間。完整音高、歌詞或動作另依本頁文字。</figcaption></figure><p>4/4，四分音符一拍，C4中央C，舒適中慢速度，沒有弱起。第1小節C4先1、D4看1、E4圖1、休1；第2小節E4找1、D4大1、C4樹1、休1；第3小節C4問1、E4清1、G4楚1、休1；第4小節G4再1、E4上1、C4路1、休1。全段16拍、12次起音，每字一音，沒有反覆。歌詞合讀為「先看圖，找大樹，問清楚，再上路」。</p><p>句尾休止提供停頓與自然換氣空間，不要求同一口氣唱完整四句。第3句把問清楚放在再上路前，支持故事先確認再決定的因果；不是為了順口就可以把次序任意顛倒。</p>"
+    },
+    {
+      "id": "g5s2-arts-11-s04",
+      "title": "唱完還要交代真正的決定",
+      "childText": "唱完還要交代真正的決定",
+      "html": "<p>第四節休止走完，敘述者出示「說」卡，阿石朝大圖說「你要去大樹，卡上指向右邊。」小雲說「對，我要看大樹展台的圖，現在確認了。」阿石問「那我們依右邊方向走，可以嗎？」小雲答「可以，謝謝你和我一起看清楚。」兩人在各自桌面附近指右方符號，敘述者出示「停」卡，故事結束。</p><p>這裡有提議與明確接受，不能只靠阿石指路就說小雲已同意。唱段提醒方法，結尾台詞才說出這次確定的目的地與方向。譜面不提供真實聲音，成人仍需先核全段模型，才能評歌唱與說唱接續。</p>"
+    },
+    {
+      "id": "g5s2-arts-11-s05",
+      "title": "一起排練：把接點而非快慢當目標",
+      "childText": "一起排練：把接點而非快慢當目標",
+      "html": "<p>先由成人自然讀全故事，再準確示範唱段。孩子練三個接點：阿石說完「看清楚」後等待唱卡和4拍準備；第4節休止數完才開始尾段；小雲說「可以」後才指向右符號。觀者只選一個接點記錄，避免同時打斷所有細節。</p><p>如果唱卡太早出現，說白還未完成，先請提示者等台詞完整結束；若歌詞被快說吞掉，先放慢共同大拍而非要求更用力喊。口語清楚、音高、節拍與因果各自評量，有人可擔任提示員或指圖者。不同角色聲音可相同，不必模仿年齡、性別或口音。</p>"
+    },
+    {
+      "id": "g5s2-arts-11-s06",
+      "title": "自己轉用：指路牌更新了",
+      "childText": "自己轉用：指路牌更新了",
+      "html": "<p>新圖由成人寫「大樹←｜小橋→」，兩個符號對調，角色仍要去大樹。請保留開頭問題與三個接點，將第2小節歌詞改為三字「往左走」，音高仍E4、D4、C4各1拍再休1。重寫結尾至少四句，包含讀新圖、確認目的、提出左行與接受。先核文字和圖，再試新的唱段。</p><details><summary>完成後再看參考與理由</summary><p>第2小節E4往1、D4左1、C4走1、休1，全段仍16拍12次起音。結尾可寫阿石「新卡把大樹標在左邊。」小雲「我還是要去大樹展台。」阿石「那改依左邊方向，可以嗎？」小雲「可以，我們再照新圖確認。」其餘三節不變；不能只改歌詞卻仍在台詞和手勢指右。</p></details>"
+    },
+    {
+      "id": "g5s2-arts-11-s07",
+      "title": "故事清楚比聲音炫技更重要",
+      "childText": "故事清楚比聲音炫技更重要",
+      "html": "<p>回顧時先問觀者能否說出角色想去哪、起初哪裡不清楚、如何確認及最後決定。再問一處唱段的效果，例如反覆短句是否讓方法易記。沒有真正觀者時可先自己核對劇本，不編造大家都聽懂的結果。</p><p>自查說白可以自然完成、唱段拍數完整、方向與新版圖相符、每個人都知道暫停方式。若聲音不舒服，停止唱而用指譜說明設計。新作品標成自己的說唱故事，不冒用真實民謠、文化曲種或其他作者的歌詞；獨特之處來自你如何組織資訊與音樂。</p>"
+    }
+  ],
+  "teachingHtml": "<p>第三學習階段涵蓋五、六年級，本頁的學期安排是編者設計。教學先從完整模型找到形式與目的的關係，再讓孩子提出預測、試一個改變，最後用新條件獨立轉用。評量不是比誰的作品最像示範，而是看孩子能否指出具體線索、作出有理由的選擇、修正方案並尊重不同解讀。</p><p>需要較多支持的孩子可先處理一項條件，成人代讀題目並放大模型，讓孩子以指認、口述、文字或既有輔助溝通回答。動作困難時由孩子決定位置與順序，再請成人代操作，記為共同完成。進階者比較兩個都合理的方案，說明各自的得失；不以危險材料、更大音量、更高速度或課外訓練增加難度。</p><p>保留理解、設計決定、實際操作、反思四欄，各記一項可見證據，並區分獨立完成、提示後完成、共同完成、尚未觀察。選擇題只能檢查圖文理解，不能證明已畫出作品、已唱準或已完成演出。回饋先說具體位置與效果，再問作者要保留或調整什麼；不以外貌、性別、家庭背景、材料價格或上臺意願評價能力。</p><p>每人可選坐姿、桌上卡片、口述或觀察角色，並可隨時暫停。不強迫觸碰、眼神接觸、私人故事或真實肖像，也不收集兒童姓名、照片及家庭資料。材料由成人先檢查適齡、完整及邊緣平滑；桌面保持清楚平穩，作品不戴在頸部、不投擲、不載人、不拿來攀爬。用具不用時收好，濺水或不適立即停下處理。</p><p>完整原創說白、16拍歌詞音高、準備4拍、自然結尾及轉用新圖全供應；不靠空白曲調或老師自行猜唱完成。唱段第2節原找大樹、新往左走均3字，時值音高不變，方向更改要一致更新結尾台詞。說唱接點重視先確認再行動的因果，不以語速、音量或背誦全部台詞判優劣。分工或無聲版本評相應能力，不代替歌唱證據。</p><p>聲音實作有必要條件：本頁供完整原創文字樂譜，沒有音檔，也沒有驗聽紀錄。具讀譜能力的成人先核對全部音高、時值、休止、起拍及每個聲部，用校準樂器完整示範，才進行實際聆聽與演唱演奏評量。缺少模型時仍可讀譜、指拍、排練規劃，真實聲音欄標為尚未觀察。舒適自然呼吸，不強吸、不憋氣、不比長音；任何不適就停止。</p>",
+  "exercises": [
+    {
+      "id": "g5s2-arts-11-q01",
+      "question": "本課說白的時間怎樣安排？",
+      "options": [
+        "自然說清楚，不硬塞固定拍數",
+        "每句都必須一拍說完",
+        "越快吞字越好"
+      ],
+      "answer": 0,
+      "hint": "口語與唱段有不同的時間安排。",
+      "explanation": "說白以完整意思為重，唱段才按所供節拍，不需要為趕拍吞字。"
+    },
+    {
+      "id": "g5s2-arts-11-q02",
+      "question": "原圖大樹方向在哪邊？",
+      "options": [
+        "左邊",
+        "右邊",
+        "沒有給方向"
+      ],
+      "answer": 1,
+      "hint": "讀完整原始指路卡。",
+      "explanation": "原卡小橋向左、大樹向右，故事結尾應依這份已供資訊。"
+    },
+    {
+      "id": "g5s2-arts-11-q03",
+      "question": "唱段每小節最後一拍是什麼？",
+      "options": [
+        "休止",
+        "一定要大喊",
+        "另一個未寫的新詞"
+      ],
+      "answer": 0,
+      "hint": "看四列完整譜的尾端。",
+      "explanation": "四句均三個一拍音加一拍休止，停頓是完整時間安排。"
+    },
+    {
+      "id": "g5s2-arts-11-q04",
+      "question": "唱段全長和起音數為何？",
+      "options": [
+        "12拍、16次",
+        "8拍、8次",
+        "16拍、12次"
+      ],
+      "answer": 2,
+      "hint": "每節四拍，其中三次發聲。",
+      "explanation": "四小節各四拍共16，三個字各起音一次，四節共12次。"
+    },
+    {
+      "id": "g5s2-arts-11-q05",
+      "question": "尾段何時開始？",
+      "options": [
+        "第三句唱一半就搶話",
+        "第四節休止走完並出示說卡後",
+        "準備拍尚未數完時"
+      ],
+      "answer": 1,
+      "hint": "接點需讓前段完整結束。",
+      "explanation": "完成第四節的末拍休止後再轉自然說白，才能保留原譜時序。"
+    },
+    {
+      "id": "g5s2-arts-11-q06",
+      "question": "新第2小節「往左走」如何配音？",
+      "options": [
+        "每字都三拍且不休",
+        "E4、D4、C4各1拍，再休1拍",
+        "只唱往字，其餘省略"
+      ],
+      "answer": 1,
+      "hint": "新詞字數和原三音對應。",
+      "explanation": "三個新字逐一配到原E4D4C4，保留一拍一字和句末休止。"
+    },
+    {
+      "id": "g5s2-arts-11-q07",
+      "question": "改了新左行歌詞，還需核對什麼？",
+      "options": [
+        "結尾台詞與指向也符合新圖",
+        "只改標題就可以",
+        "仍固定指右不需解釋"
+      ],
+      "answer": 0,
+      "hint": "各種媒介應支持同一新條件。",
+      "explanation": "歌詞、台詞和動作都要根據更新指路卡，避免各說各的方向。"
+    },
+    {
+      "id": "g5s2-arts-11-q08",
+      "question": "未有準確音高示範時，可以先做什麼？",
+      "options": [
+        "宣布已唱準全曲",
+        "照歌名猜傳統唱腔",
+        "說白、讀譜與節奏準備，歌唱待觀察"
+      ],
+      "answer": 2,
+      "hint": "準備學習與實唱證據分開。",
+      "explanation": "可先理解故事和時間，但歌唱音準及接續仍需完整模型與觀察。"
+    }
+  ],
+  "selfCheck": [
+    "我能分清自由說白與固定拍數的唱段，找到接續提示。",
+    "我能依完整原創譜唱或指讀四句，說明它們如何推進故事。",
+    "我能按新路線條件改寫台詞與一行歌詞，保持音節與時值完整。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "直接核對PDF第11–13頁（印頁8–10）：第三學習階段為五、六年級，包含視覺構成、媒材、音樂創作、輪唱合奏、表演與文化理解。本頁學期次序及教學模型由編者安排，並非課綱指定教材。"
+    },
+    {
+      "title": "Royal Shakespeare Company｜Rehearsal Room Approaches",
+      "url": "https://www.rsc.org.uk/learn/schools-and-teachers/teacher-resources/rehearsal-room-approaches-to-shakespeare",
+      "note": "直接閱讀共同探究角色、故事、語言與排練選擇的原則；本課故事與活動均原創，未抄劇本、影片或高風險舞臺動作。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "直接核對音符、休止與相對時值。本課以四分音符一拍，所有短曲、節奏、歌詞及改編均原創，未引用來源完整樂曲或驗聽其音訊。"
+    },
+    {
+      "title": "NIDCD｜Taking Care of Your Voice",
+      "url": "https://www.nidcd.nih.gov/health/taking-care-your-voice",
+      "note": "直接讀取用聲保護建議；本課不逼高低音、不喊叫、不比氣息長短。身體不適即停止並告知成人。"
+    }
+  ]
+}

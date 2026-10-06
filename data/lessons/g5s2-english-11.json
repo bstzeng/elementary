@@ -1,0 +1,189 @@
+{
+  "id": "g5s2-english-11",
+  "course": "英語文",
+  "title": "主食文化與生活差異",
+  "subtitle": "從米飯、麵包與玉米餅的官方文化例子，練習尊重差異的英語比較",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "從米飯、麵包與玉米餅的官方文化例子，練習尊重差異的英語比較。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能理解staple food指基本而重要的食物，不是所有人唯一吃的食物。",
+    "我能把兩個有日期與地點的官方例子說清楚，不概括所有家庭。",
+    "我能用簡短比較句保留來源範圍，分開真實摘要和虛構轉用。"
+  ],
+  "materials": [
+    "本頁兩則真實博物館資料摘要、明標原創的對話與字卡、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。本課文化來源中的Khadijah與Florentina是真實公開案例人物；只有明標原創的讀者對話和X／Y卡為虛構。資料使用限於有出處的文化摘要，不蒐集孩子姓名、家庭資料或照片。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>兩則例子均有真實人物、機構與日期，不能套用整頁虛構聲明。只用公開成人文化故事的必要資訊，沒有兒童姓名照片或私事。重點為米飯／麵包多種搭配、玉米餅製作者個案及來源限制，不評哪一國比較好，也不假設每個家庭一致。僅有影片目錄不代表已驗看影片；地方名稱未驗聽時可只書面認識。</p>",
+  "selfCheck": [
+    "我能理解staple food指基本而重要的食物，不是所有人唯一吃的食物。",
+    "我能把兩個有日期與地點的官方例子說清楚，不概括所有家庭。",
+    "我能用簡短比較句保留來源範圍，分開真實摘要和虛構轉用。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-11-s01",
+      "title": "主食不是一國只能有一種",
+      "childText": "先看人物、場合與資料時間。",
+      "html": "<p>staple food在本課指飲食中基本而重要的食物；不代表一個人只吃這種食物，也不是健康排名。詞庫：rice米飯、bread麵包、corn玉米、corn tortillas玉米餅、stew燉菜、with搭配、or或者、example例子、different不同的。corn tortillas在本課指來源明說的烘烤玉米餅，不要求孩子猜西語名稱發音。</p><p>下面A、B是真實博物館公開資料的限定摘要，不是虛構食譜。只有之後的Lin、Ren對話與X／Y生活卡是原創虛構。兩來源的年代不同，不能拿來當2026年全國人口的飲食調查。可以閱讀文化而不試吃，也不需透露自己的信仰、族群、過敏或家庭飲食理由。</p>"
+    },
+    {
+      "id": "g5s2-english-11-s02",
+      "title": "真實例子A：一道菜有不同搭配",
+      "childText": "來源寫or，不能改成only。",
+      "html": "<p>新加坡土生文化館2022-01-27刊登Khadijah’s Kuah Bamia，介紹一位Arab Network @Singapore成員Khadijah分享的家庭菜餚故事。文中這道羊肉燉菜常搭配rice or bread，亦即米飯或麵包。這支持「同一個例子可以有不同主食搭配」，不能推出每個新加坡人每餐都吃這道菜。</p><p>本課簡短英語摘要由編者自寫：<span lang=\"en\">In this example, the stew can be served with rice or bread.</span> 中文：在這個例子中，燉菜可搭配米飯或麵包。這是來源摘要，不是Khadijah的逐字話語。本課沒有重製完整食譜、準備食材、料理或驗看圖片中的成分，也不採用文章任何存放食物或健康說法作兒童操作指引。</p>"
+    },
+    {
+      "id": "g5s2-english-11-s03",
+      "title": "真實例子B：一位製作者與玉米餅",
+      "childText": "記錄的是特定人與作品年代。",
+      "html": "<p>史密森尼國家美洲印第安人博物館2006年影展目錄介紹2005年短片Na Florentina。目錄文字說，墨西哥Oaxaca州Juchitán的Florentina Gallegos Luis製作totopos，即烘烤玉米餅，供鎮上廣場販售。這是目錄對影片內容的介紹，本課只讀此段，沒有看過影片，不推測她現在仍在同地工作。</p><p>原創簡易摘要：<span lang=\"en\">This film description is about a woman who makes baked corn tortillas for sale.</span> 中文：這份影片介紹談一位製作烘烤玉米餅供販售的女性。corn說明所述食物的穀物原料線索；不能由此說所有玉米餅都同配方、所有墨西哥人只吃玉米，或照片看來就能保證沒有其他成分。</p>"
+    },
+    {
+      "id": "g5s2-english-11-s04",
+      "title": "一起比較，不把不同例子硬分兩國",
+      "childText": "同與不同要用同一個問題比。",
+      "html": "<p>比較欄完整供應：「來源日期／所述地點與人／出現的食物／本文支持的說法／本文沒有說的」。成人示範食物欄：A有rice與bread作燉菜搭配；B有baked corn tortillas作販售食物。共同點可以說兩來源都談人的食物製作或搭配生活；差別是A列搭配選項，B記一位製作者的販售工作。</p><p>完整原創讀者對話：Lin: Does the first example say rice only? Ren: No. It says rice or bread. Lin: Does the second example tell us what every family eats? Ren: No. It describes one woman’s work. Lin: So people can have different meals. Ren: Yes. We should not guess a person’s food from a country name. 這段不是博物館訪談逐字稿。</p><p>比較時可把兩份資料各畫一個框，框內保留地點、年份和人；跨框只連食物與用途，不把人的姓名或國籍當成食物配方。若某欄沒有資料，寫「本段未說」，不要為了填滿表格而補猜每日餐次。</p>"
+    },
+    {
+      "id": "g5s2-english-11-s05",
+      "title": "修復：沒有寫到，不等於不能吃",
+      "childText": "比較不要求把別人的餐桌變成考題。",
+      "html": "<p>錯句「A吃飯，所以從來不吃麵包」與rice or bread直接衝突。錯句「B的玉米餅比A的食物更好」沒有評比依據，也不是尊重文化的方式。錯句「知道國籍就能替人選餐」忽略個人的選擇、場合與實際需求；應先問當次意願，不能用文化摘要替任何人同意。</p><p>本課的staple是食物語境，不是同拼字的訂書針義。主食概念也不要求孩子計算熱量、改變體型或限制吃法。若有人想比較成分，須知道本頁只提供概括名稱，不能作過敏原保證。整個活動用文字和字卡即可，沒有烹飪、品嘗、儀式模仿、採訪或對外貼文。</p>"
+    },
+    {
+      "id": "g5s2-english-11-s06",
+      "title": "獨立轉用：沒有國籍的新生活卡",
+      "childText": "讀日期與選擇，不猜家庭身份。",
+      "html": "<p>以下X／Y皆為原創虛構，不代表前述真實人物。X卡：On Monday, I have rice with lunch. On Tuesday, I have bread with soup. Y卡：On Monday, I have corn tortillas with lunch. On Tuesday, I have rice with dinner. 詞庫lunch午餐、dinner晚餐、soup湯。請寫一個相同食物、一個不同的星期一搭配，並回答能否由卡片判斷兩人的國籍或永遠只吃什麼。</p><details><summary>完成後核對</summary><p>兩卡都出現rice，但餐次與日期不同；星期一X吃米飯搭午餐，Y吃玉米餅搭午餐。不能判斷國籍、全部日常或永久偏好。可寫Both cards include rice.／On Monday, X has rice and Y has corn tortillas.，這只摘要虛構卡上的資料。</p></details>"
+    },
+    {
+      "id": "g5s2-english-11-s07",
+      "title": "做一張有出處的比較卡",
+      "childText": "英語可以簡短，範圍不能省掉。",
+      "html": "<p>孩子選一個真實例子，用In this example…寫一句，再補來源與年份；另一欄用「我還不知道……」限制結論。需要較多支持的孩子先把rice、bread、corn三張字卡對中文；進階者說明or、only、every如何改變句子的範圍，並修復過度概括。</p><p>成人評量詞義、來源辨識、比較與尊重四項，不以願不願吃某食物或說出家庭故事評分。合格教師可示範全部簡短英文，但專有人名與當地食物名沒有核對口語時只作書面辨識，不自造發音。此課資料已完整供應，不要求使用者聯絡博物館、真實人物、拍照上傳或分享私人飲食資訊。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "新加坡土生文化館｜Khadijah’s Kuah Bamia",
+      "url": "https://www.nhb.gov.sg/peranakanmuseum/learn/digital-resources/khadijah-kuah-bamia",
+      "note": "2026-10-06直接核對。直接核對刊載日期2022-01-27、特定家庭菜餚與rice or bread搭配。只摘要此範圍，不複製食譜、不採醫療或食物儲存建議。"
+    },
+    {
+      "title": "Smithsonian NMAI｜Native American Film + Video Festival 2006",
+      "url": "https://americanindian.si.edu/sites/1/files/pdf/festival/2006.pdf",
+      "note": "2026-10-06直接核對。直接核對PDF實體第12頁（索引11；印刷12）Na Florentina的2005作品年份、Juchitán Oaxaca製作者與baked corn tortillas販售摘要。未觀看影片或驗聽。"
+    },
+    {
+      "title": "Cambridge Dictionary｜staple",
+      "url": "https://dictionary.cambridge.org/dictionary/english/staple",
+      "note": "2026-10-06官方搜尋索引核對食物語境為basic／main，不與金屬訂書針義混用；不採語料例句作營養比較。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-11-q01",
+      "question": "staple food在本課的意思是？",
+      "options": [
+        "基本而重要的食物",
+        "只准吃的唯一食物",
+        "訂書針做的食物"
+      ],
+      "answer": 0,
+      "hint": "由完整food語境判斷。",
+      "explanation": "本課談飲食，staple指基本重要，並不排除其他食物，也不是另一個金屬物件義。"
+    },
+    {
+      "id": "g5s2-english-11-q02",
+      "question": "來源A明寫燉菜可搭配什麼？",
+      "options": [
+        "rice or bread",
+        "rice only",
+        "corn only"
+      ],
+      "answer": 0,
+      "hint": "注意or這個連接詞。",
+      "explanation": "官方例子明列米飯或麵包，不能把兩種搭配選項縮成只有米飯。"
+    },
+    {
+      "id": "g5s2-english-11-q03",
+      "question": "來源A日期與範圍最準確的是？",
+      "options": [
+        "2026所有新加坡學生午餐調查",
+        "2022-01-27家庭菜餚個案介紹",
+        "所有亞洲家庭永久菜單"
+      ],
+      "answer": 1,
+      "hint": "區分文章案例和全面統計。",
+      "explanation": "來源是有明確日期的特定菜餚故事，沒有提供全國或全體學生飲食統計。"
+    },
+    {
+      "id": "g5s2-english-11-q04",
+      "question": "來源B的2006目錄介紹哪年影片？",
+      "options": [
+        "2005",
+        "2026",
+        "2022"
+      ],
+      "answer": 0,
+      "hint": "影片年份與影展年份不同。",
+      "explanation": "目錄屬2006影展，Na Florentina片目標2005，兩個年份代表不同事情。"
+    },
+    {
+      "id": "g5s2-english-11-q05",
+      "question": "本課有驗看Na Florentina影片嗎？",
+      "options": [
+        "有，已看完整影片",
+        "沒有，只讀官方目錄文字",
+        "有，已聽真實人物訪談"
+      ],
+      "answer": 1,
+      "hint": "正文明示媒體查核界線。",
+      "explanation": "教材依官方片目簡介摘要，未觀看或聽取影片，不能宣稱影像與聲音已驗證。"
+    },
+    {
+      "id": "g5s2-english-11-q06",
+      "question": "新X／Y卡共同出現的食物是？",
+      "options": [
+        "bread",
+        "rice",
+        "soup"
+      ],
+      "answer": 1,
+      "hint": "兩張卡各自逐日查找。",
+      "explanation": "X星期一與Y星期二均有rice，雖日期餐次不同仍是兩卡共同出現的食物。"
+    },
+    {
+      "id": "g5s2-english-11-q07",
+      "question": "可以由新卡判斷X／Y國籍嗎？",
+      "options": [
+        "可以，吃米飯一定同國籍",
+        "可以，兩天菜單等於家庭身分",
+        "不可以，卡未提供且食物不能唯一決定"
+      ],
+      "answer": 2,
+      "hint": "不把食物選擇當身份證據。",
+      "explanation": "卡片未說國籍，食物也跨越地區與家庭使用，不能據此替角色指定身份。"
+    },
+    {
+      "id": "g5s2-english-11-q08",
+      "question": "哪句比較保留證據範圍？",
+      "options": [
+        "所有新加坡人只吃飯",
+        "所有墨西哥人永遠不吃飯",
+        "A列米飯或麵包搭配，B介紹一位製作者的玉米餅"
+      ],
+      "answer": 2,
+      "hint": "用例子中的人、食物與來源範圍。",
+      "explanation": "正確比較描述各來源明寫的內容，不把個案擴張成所有人的永久習慣。"
+    }
+  ]
+}

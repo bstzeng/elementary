@@ -1,0 +1,189 @@
+{
+  "id": "g5s2-english-07",
+  "course": "英語文",
+  "title": "字詞拼寫與標點",
+  "subtitle": "在完整訊息中核對拼字與標點，辨別所有格、省略與複數",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "在完整訊息中核對拼字與標點，辨別所有格、省略與複數。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能保留原資料，修訂缺字、字序、大小寫與句末標點。",
+    "我能分辨It’s、Jo’s bag和bags中符號或s的不同用途。",
+    "我能把新資料寫成清楚的問答與短通知，並說明修訂理由。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>相較上學期生活句拼寫，本課增加同形Jo’s的語境辨析、名詞複數與省略功能，以及多句通知校稿。Wednesday已供兩張e和兩張d，避免操作時材料不足。成人先示範兩種修訂，其餘與新Mina資料保留自主；不以字體、速度或成人代寫判定理解。標點不簡化成聲音每停一次就加逗號。</p>",
+  "selfCheck": [
+    "我能保留原資料，修訂缺字、字序、大小寫與句末標點。",
+    "我能分辨It’s、Jo’s bag和bags中符號或s的不同用途。",
+    "我能把新資料寫成清楚的問答與短通知，並說明修訂理由。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-07-s01",
+      "title": "標點也在表達意思",
+      "childText": "不是每個s前面都加一撇。",
+      "html": "<p>本課原創資料：Jo有一個blue bag；袋內two books；活動在Wednesday at three，地點Room 2。bag袋子、books書、whose誰的、it’s＝it is、don’t＝do not。句首、I、名字Jo和星期Wednesday需要大寫，完整問句常用問號，陳述用句點。</p><p>比較三個完整句：It’s blue.它是藍色的，It’s縮自It is；This is Jo’s bag.這是Jo的袋子，Jo’s在bag前表示所有權；There are two bags.有兩個袋子，bags的s只是本課規則複數，不能寫成two bag’s。先理解用途，再決定符號，不能看見s就自動加省字符號。</p>"
+    },
+    {
+      "id": "g5s2-english-07-s02",
+      "title": "完整模型：問答與短通知",
+      "childText": "每一句都要對應給定資料。",
+      "html": "<div class=\"story\"><p>1 A: Whose bag is this?<br/>2 B: It’s Jo’s bag.<br/>3 A: Is it green?<br/>4 B: No, it’s blue. There are two books in it.<br/>5 A: When is the activity?<br/>6 B: On Wednesday at three.</p><p>通知模型：<span lang=\"en\">Jo’s blue bag is in Room 2. There are two books in the bag. The activity is on Wednesday at three.</span></p></div><p>原資料另補足位置：這個袋子現在確實放在Room 2，活動也是Room 2，且three指下午三點。對話第4句的it指袋子；不可以因有兩本書就把前面的Is it green?改成Are they green?，那會改變問的物品。此頁通知只是紙上練習，不會傳送或張貼。</p>"
+    },
+    {
+      "id": "g5s2-english-07-s03",
+      "title": "完整錯稿與分類修訂",
+      "childText": "先找錯在哪一層，再改。",
+      "html": "<p>待修稿全文：<span lang=\"en\">whose bag is this. Its jos blue bag. There are two book in it? The activity is on Wendesday at three</span>。成人第一步先找問句Whose…，改句首Whose和句尾?。第二步分別修Its成It’s、jos成Jo’s；前者是It is縮寫，後者是Jo的。第三步把two book改two books，再把該陳述句尾?改句點。</p><p>最後逐字比Wednesday：W-e-d-n-e-s-d-a-y，錯稿Wendesday把d與n的位置放錯；按照標準字形重排並加通知句尾句點。成人示範其中兩項，其餘讓孩子先找理由。整齊重抄不能取代說明，也不因需要代寫就認定不懂標點。</p>"
+    },
+    {
+      "id": "g5s2-english-07-s04",
+      "title": "一起操作：材料與反例齊全",
+      "childText": "重複字母和符號都有供應。",
+      "html": "<p>若拼Wednesday，準備大字母卡W一張、e兩張、d兩張、n一張、s一張、a一張、y一張，依標準字形排九個字母。完整詞卡則準備Whose、bag、is、this、It’s、Jo’s、blue、There、are、two、books、in、it各一張，問號一張、句點三張。一次排一句後收回重用，不要求同時排全部通知。</p><p>一起判斷三張檢查卡：「two books」「Jo’s bag」「It’s blue.」。第一張s表示複數，第二張符號表示所有權，第三張符號表示省略。Jo’s here.中的Jo’s也可能縮自Jo is，因此不能只看同一串字形就不讀後文；本課Jo’s bag因接名詞，意義已由資料限定。</p><p>成人先把Wednesday的卡打亂成W、e、n、d、e、s、d、a、y，讓孩子參照完整詞卡指出哪兩張需交換，再把模型收起重排。第一次有對照，第二次無對照，記錄要分開；孩子可以只說卡片移動方式，不必用手搬動。</p>"
+    },
+    {
+      "id": "g5s2-english-07-s05",
+      "title": "修復：標點不能補出缺少的事實",
+      "childText": "正確句子也可能傳錯資訊。",
+      "html": "<p>如果有人把The activity is on Thursday at three.寫得完全正確，仍與原Wednesday資料衝突，要先修星期再評格式。若把two books改成one book，單複數雖可合文法，仍違反指定數量。教師不能只查省字符號，就忽略訊息核心已被改掉。</p><p>需要較多支持的孩子先用「是問題嗎／是兩個嗎／是誰的嗎／有縮寫嗎」四張中文檢查卡，依句子選一項；進階者解釋為何Jo’s在不同後文中可能有不同用途。省字符號可用直式或彎式正常字形，不以電腦字體的外形差異扣分；句內詞與詞仍須留空格。</p>"
+    },
+    {
+      "id": "g5s2-english-07-s06",
+      "title": "獨立轉用：新角色、新物品",
+      "childText": "把意思和表面格式同步換掉。",
+      "html": "<p>新資料：Mina的green pencil case現在在Room 3，內有three pens；活動在Friday at four，指下午四點。完整新詞庫：Mina、green、pencil case鉛筆盒、three三、pens筆、Friday星期五、four四、Room 3。請寫一問一答詢問所有權，再寫一句物品數量與一句活動時間；不必沿用原資料的袋子和書。</p><details><summary>完成後核對一種模型</summary><p>Whose pencil case is this? It’s Mina’s pencil case. There are three pens in it. The activity is on Friday at four. 可另寫The green pencil case is in Room 3.。Mina’s是所有格，It’s是It is縮寫，pens是複數不加省字符號；新資料不要保留Wednesday或two books。</p></details>"
+    },
+    {
+      "id": "g5s2-english-07-s07",
+      "title": "成人與孩子留下修訂證據",
+      "childText": "一個標記配一個理由。",
+      "html": "<p>成品保留初稿與改稿，再圈一個自己修對的地方，口述「我把book改books，因two表示兩本」。拼字、標點、資料一致、獨立程度四項分開記，不追求同時改得很快。若成人代寫，記孩子是否能自己指出問題並提出修法。</p><p>真正聽寫可由合格教師讀完整通知三句，先說角色與語境，收起模型後允許分句重讀；記錄重聽與提示。標點聽寫須依句意判斷，不能假稱每個停頓必定等於逗號。沒有合適模型就完成文字修訂，不把看句改錯記成聽力。所有物品、姓名與教室皆為虛構資料，不涉及真實失物公告或外部張貼。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "Cambridge English Grammar Today｜Punctuation",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/capital-letters",
+      "note": "2026-10-06官方搜尋索引核對大小寫、句末標點與省字符號等書寫慣例；直接頁面403，沒有音訊驗聽。課文和錯句均自編。"
+    },
+    {
+      "title": "British Council｜Possessives: pronouns",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/possessives-pronouns",
+      "note": "2026-10-06直接核對。直接核對所有格與省字符號限制；此課另用完整語境對比所有格、縮寫與名詞複數。"
+    },
+    {
+      "title": "British Council｜School timetable answers",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/writing-practice-school-timetable-answers.pdf",
+      "note": "2026-10-06直接核對。直接核對PDF實體第1頁（索引0）的星期大寫；未挪用原課表。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-07-q01",
+      "question": "It’s blue.中的It’s表示？",
+      "options": [
+        "It is",
+        "It has在本課表示擁有",
+        "兩個it"
+      ],
+      "answer": 0,
+      "hint": "讀完整句看省略用途。",
+      "explanation": "本句It’s可展開It is，後接blue描述顏色，不是複數或所有權。"
+    },
+    {
+      "id": "g5s2-english-07-q02",
+      "question": "Jo’s bag中的Jo’s表示？",
+      "options": [
+        "Jo的",
+        "Jo is在此直接接bag",
+        "很多個Jo"
+      ],
+      "answer": 0,
+      "hint": "注意後面的物品名詞。",
+      "explanation": "此處Jo’s在bag前且資料明說Jo擁有袋子，表示所有格而不是名字複數。"
+    },
+    {
+      "id": "g5s2-english-07-q03",
+      "question": "表示兩本書，哪個寫法正確？",
+      "options": [
+        "two book’s",
+        "two books",
+        "two book"
+      ],
+      "answer": 1,
+      "hint": "這裡是數量複數，不是誰的。",
+      "explanation": "規則複數books加s即可，two不要求所有格符號，也不能保留單數book。"
+    },
+    {
+      "id": "g5s2-english-07-q04",
+      "question": "Wednesday字母卡需要幾張d？",
+      "options": [
+        "2張",
+        "1張",
+        "0張"
+      ],
+      "answer": 0,
+      "hint": "依W-e-d-n-e-s-d-a-y逐字數。",
+      "explanation": "Wednesday中d出現兩次，少一張便無法排出標準完整拼字。"
+    },
+    {
+      "id": "g5s2-english-07-q05",
+      "question": "完整問句應寫成？",
+      "options": [
+        "whose bag is this.",
+        "Whose bag is this?",
+        "Whose bag is this,"
+      ],
+      "answer": 1,
+      "hint": "本句在詢問所有權。",
+      "explanation": "問句開頭大寫Whose，結尾用問號，才能符合本課完整詢問用途。"
+    },
+    {
+      "id": "g5s2-english-07-q06",
+      "question": "原資料被寫成Thursday，哪項判斷正確？",
+      "options": [
+        "有句點就一定全對",
+        "Thursday和Wednesday完全同義",
+        "文法可能整齊但星期資訊錯"
+      ],
+      "answer": 2,
+      "hint": "拼寫與資料一致是不同檢查。",
+      "explanation": "原指定Wednesday，Thursday即使拼字正確仍改錯意思，需要回到資料修訂。"
+    },
+    {
+      "id": "g5s2-english-07-q07",
+      "question": "新Mina資料的數量句可用？",
+      "options": [
+        "There are two books in it.",
+        "There are three pens in it.",
+        "There is three pen’s in it."
+      ],
+      "answer": 1,
+      "hint": "新物品內有three pens。",
+      "explanation": "新資料明示三支筆，需three pens與are，不能沿用兩本書或加錯省字符號。"
+    },
+    {
+      "id": "g5s2-english-07-q08",
+      "question": "為何不能把每個朗讀停頓都寫成逗號？",
+      "options": [
+        "所有停頓都是問號",
+        "口語根本沒有意義",
+        "標點需依句子結構與意思判斷"
+      ],
+      "answer": 2,
+      "hint": "停頓可能只是重讀或呼吸。",
+      "explanation": "朗讀有不同停頓原因，標點還需依語句用途和結構，不能機械逐停頓加逗號。"
+    }
+  ]
+}

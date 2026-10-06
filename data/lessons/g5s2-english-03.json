@@ -1,0 +1,184 @@
+{
+  "id": "g5s2-english-03",
+  "course": "英語文",
+  "title": "三餐食物與點餐需求",
+  "subtitle": "依三餐供應表和份量，完成可澄清、可拒絕的紙上點餐",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "依三餐供應表和份量，完成可澄清、可拒絕的紙上點餐。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能從三餐表找本次可供應的食物與飲品。",
+    "我能用數量加容器單位提出需求並確認缺貨替代。",
+    "我能追蹤訂單和交付記錄，不從菜名推測成分安全。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>相較前課偏好選擇，本課增加餐次、單位、多人份量與明寫交付後的雙品項盤點。評量不能只算總張數，須分bowls／cups／slices和午餐／早餐。紙卡完整供應，只有午餐動作實作；早餐用表即可。尊重拒絕，不要求真實成分或過敏披露，也不把一個英語請求當成完成安全查核。</p>",
+  "selfCheck": [
+    "我能從三餐表找本次可供應的食物與飲品。",
+    "我能用數量加容器單位提出需求並確認缺貨替代。",
+    "我能追蹤訂單和交付記錄，不從菜名推測成分安全。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-03-s01",
+      "title": "三餐詞與本次需求",
+      "childText": "菜單是這家虛構店的設定，不是人人的飲食規則。",
+      "html": "<p>breakfast早餐、lunch午餐、dinner晚餐。本課三餐表是虛構紙上供餐站，並不表示每個家庭都同時吃飯或固定吃這些食物。詞庫：bread麵包、rice飯、noodles麵、soup湯、milk牛奶、water水、a bowl of一碗、a cup of一杯、a slice of一片。</p><p>I’d like a bowl of rice and a cup of water, please.用容器或份量把本次需求說清楚；兩碗是two bowls of rice，複數s加在bowls，不把rice直接變rices。所有「碗、杯、片」是指定紙卡的遊戲單位，沒有實際容量、營養評分、價格或交易。可以不選、不演、不吃。</p>"
+    },
+    {
+      "id": "g5s2-english-03-s02",
+      "title": "完整三餐供應表",
+      "childText": "先找到餐次，才看品項數量。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構三餐菜單與起始紙卡數量\" tabindex=\"0\"><table><caption>每列是獨立一餐的起始紙卡；不把不同餐次庫存混加。</caption><thead><tr><th>Meal</th><th>Food</th><th>Drink</th></tr></thead><tbody><tr><th>breakfast</th><td>bread：4 slices；soup：0 bowls</td><td>milk：2 cups；water：3 cups</td></tr><tr><th>lunch</th><td>rice：3 bowls；noodles：1 bowl</td><td>milk：0 cups；water：4 cups</td></tr><tr><th>dinner</th><td>rice：2 bowls；soup：2 bowls</td><td>water：3 cups</td></tr></tbody></table></div><p>Tab進入表區後可用方向鍵捲動。未列的品項代表此份菜單沒有提供其供應資訊，不可自己假定有貨或永久沒有。午餐milk的0則是明確沒有可交的牛奶卡，和「未列」不同。角色餐次卡完整寫Lunch；Kai替自己與Mo取餐，兩人本次都同意選飯，不涉及真實家庭飲食。</p>"
+    },
+    {
+      "id": "g5s2-english-03-s03",
+      "title": "完整午餐訂單對話",
+      "childText": "缺貨飲品要重新得到同意。",
+      "html": "<div class=\"story\"><p>1 Server: What would you like for lunch?<br/>2 Kai: Two bowls of rice and two cups of milk, please.<br/>3 Server: Sorry, we have no milk for lunch. Would you like water?<br/>4 Kai: Two cups of water?<br/>5 Server: Yes. We have four cups.<br/>6 Kai: OK. Two bowls of rice and two cups of water, please.<br/>7 Server: Two bowls of rice and two cups of water?<br/>8 Kai: Yes, thank you.</p></div><p>劇本另有交付記錄：Server把2張rice-bowl紙卡與2張water-cup紙卡給Kai。這裡才是已交付的證據；對話中的four cups是供應量，不是Kai要四杯。沒有付款、外送、飲用完畢或食物安全檢查的記錄。</p>"
+    },
+    {
+      "id": "g5s2-english-03-s04",
+      "title": "一起盤點與重述",
+      "childText": "數量、單位、種類和餐次都要保留。",
+      "html": "<p>成人把訂單拆成四格：「Lunch／two／bowls／rice」，飲品另拆「Lunch／two／cups／water」。依午餐表，rice原3碗交2碗剩1碗，water原4杯交2杯剩2杯；noodles仍1碗。早餐milk仍列2杯，是另一餐的獨立資料，不能拿來偷偷補午餐缺貨。</p><p>可用完整紙卡組：午餐rice bowl3張、noodles bowl1張、water cup4張、milk sold out告示1張，以及Kai／Mo角色卡各1張。其餘餐次只讀表，不需製作。卡片用大紙和文字即可，也可在清單勾除交付數量。孩子重述時若漏cups，成人先問是哪種單位，再一起看完整詞組，不催促快速背稿。</p>"
+    },
+    {
+      "id": "g5s2-english-03-s05",
+      "title": "修復：可數單位與安全界線",
+      "childText": "英文澄清能減少誤會，不能保證成分。",
+      "html": "<p>錯句two rice在本課明確碗數語境應寫two bowls of rice；錯記「四杯水已給Kai」把供應量和需求混在一起；錯推論「晚餐只有飯和湯」把未列品項當成世界上不存在。修復時指回餐次欄和確認句，必要時再問How many cups?。</p><p>本課菜單沒有成分與過敏原資訊。角色可用Please ask an adult about the ingredients.請成人查成分；但說出這句不代表已查明，菜名也不能保證適合食用。不需真人披露過敏或做品嘗；真正飲食安全由可信任成人依實際資料處理。任何人可用No, thank you.拒絕替代品，不因拒絕被扣合作分。</p>"
+    },
+    {
+      "id": "g5s2-english-03-s06",
+      "title": "自己試：早餐的完整新訂單",
+      "childText": "餐次改了，數量也要重新查。",
+      "html": "<p>新卡：breakfast；Lia本次要2片bread和1杯milk，並拒絕額外的一杯milk。沿用早餐起始表。請完成三回合「提出訂單／Server確認／Lia接受」，再回答：若後續明寫交出2張bread-slice卡與1張milk-cup卡，各剩多少？若沒有後續交付記錄，又該怎樣寫？Server確認後另問Would you like another cup of milk?（還想要一杯牛奶嗎？），請寫一句婉拒。</p><details><summary>核對模型與庫存</summary><p>Lia: I’d like two slices of bread and a cup of milk, please. Server: Two slices of bread and one cup of milk? Lia: Yes, please. 明寫交付後bread剩2片、milk剩1杯；沒有交付只記「已確認、未有交付證據」。拒絕可說No, thank you.，不必提供私人原因。原本兩杯牛奶足夠供應已選的一杯與額外提議，但Lia拒絕額外一杯，不能因此多扣一張卡。</p></details>"
+    },
+    {
+      "id": "g5s2-english-03-s07",
+      "title": "成品是一張可核對訂單",
+      "childText": "語意完整比演得像餐廳更重要。",
+      "html": "<p>寫「餐次／品項與單位／需求數量／是否同意替代／交付記錄／剩餘」。需要較多支持的孩子一次處理一項食物，再加飲品；進階者指出庫存0與未列資訊的差別，且不混算餐次。成人可代寫，並記錄孩子是自主產出還是看詞卡完成。</p><p>合格教師先讀完整午餐劇本，才做有或無字卡的聽辨；紙面算對剩餘不代表已能聽清bowls、cups。每一個角色都有可拒絕和重問的回合，無須接觸真食物、熱湯或餐具。此活動沒有真實下單、訂位、支付、配送或對外傳送個人飲食資訊。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "Cambridge English Grammar Today｜Would like",
+      "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/would-like",
+      "note": "2026-10-06官方搜尋索引核對提供與請求框架，直接403；未驗聽。"
+    },
+    {
+      "title": "British Council｜Countable and uncountable",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable",
+      "note": "2026-10-06直接核對。直接核對rice、water、bread等物質用法及以容器表達數量的概念；所有菜單、卡量與對話原創。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-03-q01",
+      "question": "Kai這次的餐次是？",
+      "options": [
+        "lunch",
+        "breakfast",
+        "dinner"
+      ],
+      "answer": 0,
+      "hint": "查角色餐次卡與第1句。",
+      "explanation": "角色卡和開場都指定午餐，不能用另兩餐的庫存替代本餐資訊。"
+    },
+    {
+      "id": "g5s2-english-03-q02",
+      "question": "Kai最後確認多少水？",
+      "options": [
+        "four cups",
+        "three bowls",
+        "two cups"
+      ],
+      "answer": 2,
+      "hint": "供應量與訂單量不同。",
+      "explanation": "四杯是原有供應，Kai第6、8句確認兩杯；不能把可供應數量當需求。"
+    },
+    {
+      "id": "g5s2-english-03-q03",
+      "question": "哪個詞組清楚表示兩碗飯？",
+      "options": [
+        "two rices",
+        "two cups of noodles",
+        "two bowls of rice"
+      ],
+      "answer": 2,
+      "hint": "數量加在可數容器單位上。",
+      "explanation": "本課按碗計數，bowls用複數，rice保留物質名詞形式。"
+    },
+    {
+      "id": "g5s2-english-03-q04",
+      "question": "原交付後午餐rice剩多少？",
+      "options": [
+        "3 bowls",
+        "1 bowl",
+        "2 cups"
+      ],
+      "answer": 1,
+      "hint": "原3碗減去明寫交付2碗。",
+      "explanation": "午餐飯卡從三碗交出兩碗，剩一碗，單位仍是bowl而不是cup。"
+    },
+    {
+      "id": "g5s2-english-03-q05",
+      "question": "對話本身哪句完成替代品接受？",
+      "options": [
+        "Server第3句提出water",
+        "Kai第6句改選水，第8句確認",
+        "Server第5句說four cups"
+      ],
+      "answer": 1,
+      "hint": "提出替代不等於對方同意。",
+      "explanation": "Kai本人後續改寫需求並接受重述，才確認以水取代牛奶。"
+    },
+    {
+      "id": "g5s2-english-03-q06",
+      "question": "早餐新卡明寫交付後bread與milk各剩？",
+      "options": [
+        "2 slices與1 cup",
+        "4 slices與2 cups",
+        "0 slices與0 cups"
+      ],
+      "answer": 0,
+      "hint": "使用早餐原庫存，不用午餐。",
+      "explanation": "早餐麵包4減2剩2片，牛奶2減1剩1杯，兩項單位要各自保留。"
+    },
+    {
+      "id": "g5s2-english-03-q07",
+      "question": "菜單未列成分，可以保證沒有過敏原嗎？",
+      "options": [
+        "可以，沒寫就一定沒有",
+        "不可以，資料不足",
+        "可以，只要英文說得清楚"
+      ],
+      "answer": 1,
+      "hint": "菜名與安全驗證不同。",
+      "explanation": "缺少成分資訊不能作安全保證，語言練習也不能代替成人依真實資料查核。"
+    },
+    {
+      "id": "g5s2-english-03-q08",
+      "question": "沒有交付記錄，只到Yes, please.，應記？",
+      "options": [
+        "已確認選擇，尚無交付證據",
+        "已吃完所有餐點",
+        "庫存自動歸零"
+      ],
+      "answer": 0,
+      "hint": "辨別意願和完成動作。",
+      "explanation": "Yes, please.表明接受，但沒有給出實物的敘述，不能推成交付或飲用完成。"
+    }
+  ]
+}
