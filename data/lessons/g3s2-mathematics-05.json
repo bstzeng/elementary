@@ -1,0 +1,178 @@
+{
+  "id": "g3s2-mathematics-05",
+  "course": "數學",
+  "title": "同分母分數的比較",
+  "subtitle": "每一份一樣大，就比較取了幾份。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與練習可分段。",
+  "materials": [
+    "相同長度的七等分及五等分完整紙條圖",
+    "粗筆、比較符號卡"
+  ],
+  "goals": [
+    "能在同一整體下比較同分母分數",
+    "能解釋分子大小與等份數量的關係",
+    "能比較跨過1但不超過2的同分母分數"
+  ],
+  "intro": "4份七分之一和6份七分之一，哪邊較多？先確認每一份的大小一樣。",
+  "sections": [
+    {
+      "title": "比較前先確認同一個1",
+      "childText": "整條相同、分法相同，才是在數相同的份。",
+      "html": "<p>下圖兩條一樣長，都分7等份。甲塗4份是4/7，乙塗6份是6/7。每一格同樣大，乙比甲多2格，所以4/7＜6/7。符號開口向較大的分數。</p><p>如果兩條整體不同長，取到的實際長度可能不同；比較分數大小時要把1設成相同長度。這不是只看色塊長短就算完，先交代整體是必要步驟。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 182\" role=\"img\" aria-labelledby=\"g3s2-mathematics-05-sevenths\"><title id=\"g3s2-mathematics-05-sevenths\">甲乙整條等長，各分7等份，甲塗4格，乙塗6格；乙多2個1/7，所以4/7＜6/7。</title><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">甲：4/7</text><rect x=\"40.0\" y=\"35\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"80.0\" y=\"35\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"120.0\" y=\"35\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"160.0\" y=\"35\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"200.0\" y=\"35\" width=\"40.0\" height=\"36\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"240.0\" y=\"35\" width=\"40.0\" height=\"36\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"280.0\" y=\"35\" width=\"40.0\" height=\"36\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"180\" y=\"101\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">乙：6/7</text><rect x=\"40.0\" y=\"111\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"80.0\" y=\"111\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"120.0\" y=\"111\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"160.0\" y=\"111\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"200.0\" y=\"111\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"240.0\" y=\"111\" width=\"40.0\" height=\"36\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"280.0\" y=\"111\" width=\"40.0\" height=\"36\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/></svg><figcaption>甲乙整條等長，各分7等份，甲塗4格，乙塗6格；乙多2個1/7，所以4/7＜6/7。</figcaption></figure>",
+      "id": "g3s2-mathematics-05-s01"
+    },
+    {
+      "title": "分母相同，比取了幾份",
+      "childText": "5/8和3/8，都是在數八分之一。",
+      "html": "<p>5/8表示5個1/8，3/8表示3個1/8，5份比3份多，所以5/8＞3/8。不把分子5與分母8大小混著比，也不把分母8當成取了8份。</p><p>先用口語「同樣大小的份，5份比3份多」說明，再寫符號。若分母不同，本課這個直接比分子的方法就不能照搬；例如1/2與1/4要回相同整條的模型看，不在這裡做通分。</p>",
+      "id": "g3s2-mathematics-05-s02"
+    },
+    {
+      "title": "同份數、同分母，就一樣多",
+      "childText": "分開塗或連著塗，不改變取的量。",
+      "html": "<p>一張八等分紙條塗第1、2、3格，另一張同長紙條塗第2、5、8格，兩邊都是3個1/8，因此都是3/8，大小相等。位置不同不會改變每格大小。</p><p>可以把塗的三格以透明紙描出，再移到相鄰位置核對。不要只看塗色連成的一段有多長：分散的空白不是取出的部分，應數真正被取的等份。</p>",
+      "id": "g3s2-mathematics-05-s03"
+    },
+    {
+      "title": "分數也能超過一整份",
+      "childText": "6/5是6個五分之一，已經超過5/5。",
+      "html": "<p>本課向前多數一些份：同樣大小的一整條分5等份，數完5份是5/5＝1，再多1份就是6/5。每條原長相同，不能把兩條連成新的1再重新命名。</p><p>下圖每列提供兩個同樣大小的整體。上列取6份，下列取8份，每一份仍是原整條的1/5，所以6/5＜8/5。這些量都不超過10/5＝2；不需要使用帶分數或分數種類名稱。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 217\" role=\"img\" aria-labelledby=\"g3s2-mathematics-05-over-one\"><title id=\"g3s2-mathematics-05-over-one\">每列各有兩個相同整體，每個分5等份；依序塗6份與8份，6/5小於8/5，兩者皆小於2。</title><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">6/5：六個1/5</text><rect x=\"25.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"53.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"81.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"109.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"137.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"190.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"218.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"246.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"274.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"302.0\" y=\"35\" width=\"28.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"95\" y=\"93\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"260\" y=\"93\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"180\" y=\"120\" text-anchor=\"middle\" font-size=\"20\" fill=\"#193c34\">8/5：八個1/5</text><rect x=\"25.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"53.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"81.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"109.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"137.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"190.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"218.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"246.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#8ccab3\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"274.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><rect x=\"302.0\" y=\"130\" width=\"28.0\" height=\"35\" fill=\"#fff\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"95\" y=\"188\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text><text x=\"260\" y=\"188\" text-anchor=\"middle\" font-size=\"16\" fill=\"#193c34\">1個整體</text></svg><figcaption>每列各有兩個相同整體，每個分5等份；依序塗6份與8份，6/5小於8/5，兩者皆小於2。</figcaption></figure>",
+      "id": "g3s2-mathematics-05-s04"
+    },
+    {
+      "title": "把1與2當檢查點",
+      "childText": "5/5等於1，10/5等於2。",
+      "html": "<p>排序4/5、5/5、7/5、10/5，先看每項有4、5、7、10個相同的小份。依序由小到大排列，5/5是第一整條全滿，10/5是兩條都全滿。</p><p>若有人說7/5小於1，請在圖中先圈出5份形成一整條，再看還有2份，明白總量已超過1。本課取的份數不超過兩整條，也就是最多10個1/5，保持在2以內。</p>",
+      "id": "g3s2-mathematics-05-s05"
+    },
+    {
+      "title": "引導任務：解釋錯誤比較",
+      "childText": "同分母時，分子較大才有更多相同小份。",
+      "html": "<p>錯誤卡寫「3/6比5/6大，因3較少，每份應更大」。請指出兩者分母都6，切法並未改變，所以每份一樣大；3與5是取出的份數，不是把整條重新分成3份或5份。</p><p>配對合作，一人說2/9、另一人說7/9，先指出共同的小份為1/9，再比較2與7。交換做8/6與10/6，各用兩條同長六等分紙帶支持推理，兩者均不超過2。</p>",
+      "id": "g3s2-mathematics-05-s06"
+    },
+    {
+      "title": "獨立出口：選符號也選理由",
+      "childText": "能說為什麼，才不只是猜開口方向。",
+      "html": "<p>獨立比較9/8和7/8，9/8較大，因9份同樣的1/8比7份多；9/8超過1而7/8不足1，也能幫檢查。再比較11/6與10/6，11份比10份多，兩數皆不超過12/6＝2。</p><p>最後自己畫同一整體、相同分母的兩個分數，選＜、＞或＝並說明。若說不清哪一整條代表1，就先補畫外框與等分線，不能用不完整圖要求別人猜。</p>",
+      "id": "g3s2-mathematics-05-s07"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與先備</h3><p>N-3-9簡單同分母分數比較，涉及分數與結果不超過2，不使用真分數、假分數、帶分數名詞。本課從1內延伸到1以上，以連續紙條逐份點數；所有整體原長一致。先查孩子是否把分母理解成分成幾份、分子理解成取幾份，以及知道5/5回到1，才引入6/5。</p><h3>模型安排</h3><p>七等分4與6先用完整等長紙條比較，每格同長且取份數清楚。成人要求孩子先說每格是1/7，再比較4與6，不只背同分母比分子。八等分中塗色分散與相連的3份，建立位置不改量；不把空白間隔也當塗色。所有圖案可描摹或指認，不依賴顏色辨識唯一線索。</p><p>兩整體五等分圖，每一條是1，兩條合在頁面上也不能改成一個新1。先圈5份為1，再數第6至第10份，連到6/5、8/5與2。用5/5和10/5作基準，避免分子大於分母就以為不合法，也避免引進分數類型術語。</p><h3>修復與差異化</h3><p>3/6比5/6大的錯誤混淆分子與分母，應指圖說兩題切法都6等份，不是切3份與5份。支持組停留1內並用粗線大格，掌握後才跨1；熟練組用1與2作估計檢查或比較分散位置，不進入約分通分。沒有同一整體資訊的真實量比較，要指出不足，不能直接套比分子規則。</p><h3>評量</h3><p>出口9/8與7/8、11/6與10/6，要求符號和份數理由一起回答，再自畫一組相同分母圖。觀察整體一致、等分、份數、符號方向與跨1理解，口述可替代書寫。所有分數和實際操作維持2內；使用完整紙面模型，不用食物或小顆物品，也不追求畫工與速度。</p>",
+  "exercises": [
+    {
+      "question": "相同整條七等分，4/7和6/7哪個較大？",
+      "options": [
+        "6/7",
+        "一樣大",
+        "4/7"
+      ],
+      "answer": 0,
+      "hint": "每份同為七分之一。",
+      "explanation": "6份相同的1/7比4份多，因此6/7大於4/7。",
+      "id": "g3s2-mathematics-05-q01"
+    },
+    {
+      "question": "5/8＞3/8的正確理由是？",
+      "options": [
+        "5/8把整條切5份",
+        "都是1/8，取5份比3份多",
+        "分母8決定兩者一樣多"
+      ],
+      "answer": 1,
+      "hint": "分母相同時每份大小不變。",
+      "explanation": "兩者都以八分之一為單位，大小差異來自取5份或3份。",
+      "id": "g3s2-mathematics-05-q02"
+    },
+    {
+      "question": "同長八等分紙條各塗3格，一張相連、一張分散，大小？",
+      "options": [
+        "相連的一定較大",
+        "分散的一定較大",
+        "相等，都是3/8"
+      ],
+      "answer": 2,
+      "hint": "只數塗色格，不加空白。",
+      "explanation": "位置不改變三份八分之一的總量，兩張都表示3/8。",
+      "id": "g3s2-mathematics-05-q03"
+    },
+    {
+      "question": "6/5與1比較，哪個說法正確？",
+      "options": [
+        "6/5小於1",
+        "6/5不可能表示數量",
+        "6/5大於1"
+      ],
+      "answer": 2,
+      "hint": "先圈5個1/5為一整份。",
+      "explanation": "5/5已等於1，6/5再多一份1/5，所以超過1。",
+      "id": "g3s2-mathematics-05-q04"
+    },
+    {
+      "question": "6/5和8/5如何比較？",
+      "options": [
+        "6/5＜8/5",
+        "6/5＝8/5",
+        "6/5＞8/5"
+      ],
+      "answer": 0,
+      "hint": "同樣五分之一，比6與8份。",
+      "explanation": "8份五分之一比6份多2份，所以6/5小於8/5。",
+      "id": "g3s2-mathematics-05-q05"
+    },
+    {
+      "question": "兩個相同整條各分5等份，全部取完是？",
+      "options": [
+        "10/10＝1作本題原整體",
+        "10/5＝2",
+        "5/5＝2"
+      ],
+      "answer": 1,
+      "hint": "一整條仍代表1，不能重定義。",
+      "explanation": "每條5份，兩條共10份五分之一，所以是10/5等於2。",
+      "id": "g3s2-mathematics-05-q06"
+    },
+    {
+      "question": "9/8和7/8哪個較大？",
+      "options": [
+        "9/8",
+        "兩者同分母所以相等",
+        "7/8"
+      ],
+      "answer": 0,
+      "hint": "可用8/8等於1來檢查。",
+      "explanation": "9份八分之一多於7份，且9/8超過1、7/8不足1，支持比較。",
+      "id": "g3s2-mathematics-05-q07"
+    },
+    {
+      "question": "3/6和5/6比較時，哪個想法需要修正？",
+      "options": [
+        "兩者每份都為1/6",
+        "把分子3與5當成重新等分的份數",
+        "應比較取出3份和5份"
+      ],
+      "answer": 1,
+      "hint": "切法由分母6決定。",
+      "explanation": "3與5是取出份數，不是把整體切幾份；兩者切法都由分母6決定。",
+      "id": "g3s2-mathematics-05-q08"
+    }
+  ],
+  "selfCheck": [
+    "我先確認同一個整體。",
+    "我知道同分母代表每份一樣大。",
+    "我能比較超過1但不超過2的份數。",
+    "我會用1和2檢查。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "官方列出年級學習內容；本課學期位置、節數、原創情境及練習屬編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：三年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁23–26。N-3-9同分母比較，量不超過2，連續模型逐份計數；不教分數類型、帶分數或通分。"
+    }
+  ]
+}

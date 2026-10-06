@@ -1,0 +1,264 @@
+{
+  "id": "g3s2-language-choice-03",
+  "course": "本土語文／臺灣手語／新住民語文（依選習語別）",
+  "title": "生活購物與數量表達",
+  "subtitle": "教師輔助選習課｜購物意思要有品項、數量和單位，改單再確認。",
+  "duration": "建議2節，各40分鐘；完整模型核實由教師課前完成。",
+  "materials": [
+    "本頁原創圖文列印，或成人依完整文字替代製作大卡",
+    "大紙、粗筆與兩個桌面標記；不需私人照片",
+    "所選語別的具能力教師及課前核實完整模型"
+  ],
+  "goals": [
+    "在虛構紙卡訂單中分清品項、數量與包裝單位。",
+    "接收一次數量更新，核對新單而不把新量當追加量。",
+    "完整自然量詞與要求模型核實後，做一輪要物及回傳。"
+  ],
+  "intro": "教師輔助課｜這六條是選習例：臺灣台語、客語四縣腔、部編馬祖閩東語、秀姑巒阿美語、越南語、臺灣手語；只做所選的一條，不代表所有語言與方言。完整原音／手語形式未驗收；完整模型須教師核實，缺少時語言產出與無提示接收待補。本頁圖文思考可直接完成。",
+  "sections": [
+    {
+      "id": "g3s2-language-choice-03-s1",
+      "title": "說兩個，對方還可能不知道兩個什麼",
+      "childText": "品項、數量、單位一起核對。",
+      "html": "<p>紙卡小店只有大張樹圖卡和月亮圖卡，沒有真實付款。角色要兩張樹圖，後來改成三張。小店若把三張當成再加三張，就會拿出五張。三年級練習把更改的意思說清楚。</p><p>這六條是選習例：臺灣台語、客語四縣腔、部編馬祖閩東語、秀姑巒阿美語、越南語、臺灣手語；只做所選的一條，不代表所有語言與方言。</p><p><strong>本頁的文字、中文對照或官方影片名稱已核；完整原音及手語動作未驗收。具所選語別能力的教師，須先核對完整、自然、適合此情境的可用模型，才帶領口語／手語產出或無文字提示的接收評量。沒有完整模型時，只完成下列圖文理解與溝通設計，相關語言目標明記「待補模型」，不能算已熟練。不可剪接單詞、用華語諧音、合成聲音或自創手勢填補。</strong></p>"
+    },
+    {
+      "id": "g3s2-language-choice-03-s2",
+      "title": "原創訂單記錄",
+      "childText": "本回的三張是新總量。",
+      "html": "<figure><svg viewBox=\"0 0 360 294\" role=\"img\" aria-labelledby=\"g3s2-language-choice-03-fig\" xmlns=\"http://www.w3.org/2000/svg\"><title id=\"g3s2-language-choice-03-fig\">紙卡小店改單。原訂單：品項：樹圖卡、總數：2張；修改卡：改成3張樹圖卡、月亮圖卡不要；交付核對：樹圖卡：3張、月亮圖卡：0張</title><rect width=\"360\" height=\"294\" fill=\"#edf5f4\"/><rect x=\"12\" y=\"12\" width=\"336\" height=\"72\" rx=\"8\" fill=\"white\" stroke=\"#476574\"/><text x=\"25\" y=\"39\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\" fill=\"#173540\" font-weight=\"bold\">原訂單</text><text x=\"150\" y=\"35\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#173540\">品項：樹圖卡</text><text x=\"150\" y=\"56\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#173540\">總數：2張</text><rect x=\"12\" y=\"94\" width=\"336\" height=\"72\" rx=\"8\" fill=\"white\" stroke=\"#476574\"/><text x=\"25\" y=\"121\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\" fill=\"#173540\" font-weight=\"bold\">修改卡</text><text x=\"150\" y=\"117\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#173540\">改成3張樹圖卡</text><text x=\"150\" y=\"138\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#173540\">月亮圖卡不要</text><rect x=\"12\" y=\"176\" width=\"336\" height=\"72\" rx=\"8\" fill=\"white\" stroke=\"#476574\"/><text x=\"25\" y=\"203\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\" fill=\"#173540\" font-weight=\"bold\">交付核對</text><text x=\"150\" y=\"199\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#173540\">樹圖卡：3張</text><text x=\"150\" y=\"220\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#173540\">月亮圖卡：0張</text></svg><figcaption>完整規則：所有商品都是單張大紙卡；「改成」表示新總量，不是另外增加。這是無付款的虛構對話，不要求消費。</figcaption></figure><p>文字替代：紙卡小店改單。原訂單：品項：樹圖卡、總數：2張；修改卡：改成3張樹圖卡、月亮圖卡不要；交付核對：樹圖卡：3張、月亮圖卡：0張。</p>"
+    },
+    {
+      "id": "g3s2-language-choice-03-s3",
+      "title": "數量需要知道數的是什麼",
+      "childText": "張與包不是同一件事。",
+      "html": "<p>兩張樹圖卡表示兩個單張單位；兩包若每包有兩張，就共有四張。這個數學關係只說明原創包裝資料，不證明任一目標語量詞都可直接套用。語言中的自然品項—數量—單位組合要整段核實。</p><p>本單先要2張，改成3張，新總數3；如果原先已擺2張，只需再補1張，最後仍是3。若說另外加3張，才會變5；本課修改卡沒有說另外加。</p><p>交付前回傳完整意思能減少誤會：樹圖、3、張，月亮圖0。無須加入真實價錢、付款帳號或個人資料；孩子可以指卡核對，不必購物或分享家庭花費。</p>"
+    },
+    {
+      "id": "g3s2-language-choice-03-s4",
+      "title": "選習路線的數量模型",
+      "childText": "數字不是任意量詞公式。",
+      "html": "<h3>A｜臺灣台語</h3><p>已核<a href=\"https://sutian.moe.edu.tw/zh-hant/su/1/\" target=\"_blank\" rel=\"noopener noreferrer\">一tsi̍t</a>、<a href=\"https://sutian.moe.edu.tw/zh-hant/su/3584/\" target=\"_blank\" rel=\"noopener noreferrer\">兩nn̄g</a>、<a href=\"https://sutian.moe.edu.tw/zh-hant/su/163/\" target=\"_blank\" rel=\"noopener noreferrer\">三sann</a>提供1–3數量支點。數詞不自行加華語量詞造購物句；要幾張、改成幾張及核對品項的完整模型待教師核實。</p><h3>B｜客語四縣腔</h3><p><a href=\"https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/hkdialouge/客家情境對話練習_校園篇_四縣腔.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">校園篇印刷6頁</a>數字一idˋ、二ngi、三samˊ為已核讀名；不是任意物品前的數量短語。教師另核與本次物品／單位相合的完整要求及確認句，不把讀數熟練當作購物互動完成。</p><h3>C｜部編馬祖閩東語</h3><p><a href=\"https://mintung.livestudy.tw/teaching_material/moe/show?d=1&amp;b=1&amp;l=7&amp;page=lesson\" target=\"_blank\" rel=\"noopener noreferrer\">第一冊下冊第7課p19</a>數字行可對應1–3，課內連讀符號不當孤立詞音。本頁完整品項、單位及數量變更模型待核；未到位只記清點及訂單意義。</p><h3>D｜秀姑巒阿美語</h3><p>沿用既有官方獨立詞義：<a href=\"https://web.klokah.tw/vocabulary/index.php?d=2&amp;c=01&amp;n=01\" target=\"_blank\" rel=\"noopener noreferrer\">cecay一</a>、<a href=\"https://web.klokah.tw/vocabulary/index.php?d=2&amp;c=01&amp;n=02\" target=\"_blank\" rel=\"noopener noreferrer\">tosa^二</a>、<a href=\"https://web.klokah.tw/vocabulary/index.php?d=2&amp;c=01&amp;n=03\" target=\"_blank\" rel=\"noopener noreferrer\">tolo^三</a>。原版記號保留；數詞不是完整買物句，物品量詞與變更整句待教師核實。</p><h3>E｜越南語</h3><p><a href=\"https://mkm.k12ea.gov.tw/upload/mf/1775638303c8ffe9a587b126f152ed3d89a146b445.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">第10冊印刷12頁/PDF14頁</a>原情境有「120.000 đồng một hộp bánh quy」的價格與單位文字，中文對照餅乾一盒12萬盾。這是教材價例，不是現價，也不能當成12元；只抽取品項、盒數、幣別三項意思。新紙卡訂單的自然量詞句另核。</p><h3>F｜臺灣手語</h3><p>官方數字<a href=\"https://www.youtube.com/watch?v=knu2YforVYw\" target=\"_blank\" rel=\"noopener noreferrer\">1</a>、<a href=\"https://www.youtube.com/watch?v=hWoXsc1Wpdo\" target=\"_blank\" rel=\"noopener noreferrer\">2</a>、<a href=\"https://www.youtube.com/watch?v=yDh7JyAqv_E\" target=\"_blank\" rel=\"noopener noreferrer\">3</a>名稱／影片連結已核；完整形式未驗。購物品項與數量的完整自然手語句要教師先核，不能只拼三個數字影片。</p>"
+    },
+    {
+      "id": "g3s2-language-choice-03-s5",
+      "title": "工作樣例：把改成聽成追加",
+      "childText": "用舊單和新單比。",
+      "html": "<p>錯例拿2張再拿3張，共5張。先把原單2張放在「舊資料」，修改卡3張放「目前總量」。若桌上已有2張，只再添1張；交付時逐張指點，一共3張，月亮圖沒有加入。</p><p>表達者回傳新總量，接收者看交付是否一致。完整目標語「改成」與「再加」若未核，不製造兩個自然句作對比，只用本頁中文意思卡分析，待教師補核後再練語言。</p>"
+    },
+    {
+      "id": "g3s2-language-choice-03-s6",
+      "title": "帶著做：訂、改、點、確認",
+      "childText": "使用大紙卡，不用錢或小物。",
+      "html": "<ol><li>成人製作5張大字「樹圖卡」和3張大字「月亮圖卡」；可各畫簡單樹冠／彎月，標籤保留，逐張讀出。</li><li>照原單取兩張樹圖，顯示2張而非兩包；清楚說這一回每卡是一張。</li><li>收到修改卡後先回傳新總量3張，再調整桌面數量；月亮圖卡留原處。</li><li>伙伴逐張核對數量與品項；成人觀察是否把改成誤當另外增加。</li><li>只有本路線完整自然量詞及改單模型經教師核實後，才評無中文提示的接收或產出。</li></ol>"
+    },
+    {
+      "id": "g3s2-language-choice-03-s7",
+      "title": "獨立轉移與誤解修補",
+      "childText": "新單改品項，也改包裝。",
+      "html": "<p>新單完整寫明：月亮圖卡1包，每包2張；另加1張散裝月亮圖卡；樹圖卡0張。總共收到3張月亮圖卡，但交付單位是1包加1張。成人用一個大紙圈框住兩張表示一包，不用封口袋或小物。</p><p>若只看數字1以為總共一張，回查包內張數；若把上次樹圖沿用，回查本回品項；若會點數但不會自然量詞句，保留數量理解成果，讓教師核實語言形式，不要求模仿華語量詞。</p>"
+    },
+    {
+      "id": "g3s2-language-choice-03-s8",
+      "title": "一張清楚的確認單",
+      "childText": "數對、物對、意思也對。",
+      "html": "<p>原訂單成果應是3張樹圖、0張月亮圖；新單成果是3張月亮圖、0張樹圖，並能指出1包包含2張。圖文比對不等於所有語言都會買物，選習成果分開記錄。</p><p>使用教材價例時必須保留幣別及單位，越南語來源的盾不可當作臺幣或現時市場價格。</p><p>網頁題只檢查本頁提供的圖義、文字證據和思考；路線題只做已選、已教的部分。跨語別總分不能證明任一語言的聽說或手語能力。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>進展與模型準備</h3><p>從數詞配量進展為品項、單位、新總量、追加與改單的不同意思；不教未核量詞拼裝。</p><p>本頁的文字、中文對照或官方影片名稱已核；完整原音及手語動作未驗收。具所選語別能力的教師，須先核對完整、自然、適合此情境的可用模型，才帶領口語／手語產出或無文字提示的接收評量。沒有完整模型時，只完成下列圖文理解與溝通設計，相關語言目標明記「待補模型」，不能算已熟練。不可剪接單詞、用華語諧音、合成聲音或自創手勢填補。</p><p>這六條是選習例：臺灣台語、客語四縣腔、部編馬祖閩東語、秀姑巒阿美語、越南語、臺灣手語；只做所選的一條，不代表所有語言與方言。</p><h3>兩節教學</h3><p>第一節以5分鐘讀情境、10分鐘找證據、10分鐘具能力教師示範、10分鐘伙伴核對及5分鐘記錄安排。第二節用8分鐘複習、12分鐘錯例修補、15分鐘新資料轉移及5分鐘自評。這是編輯建議，不是全國固定學期或教材冊次配對。教師先寫明來源頁碼／影片名稱、採用語別／腔別、完整模型的意思與當次使用範圍；缺少一項就保留待補。</p><p>示範必須完整且可接收；聲音播放可重聽，手語需能同時看到臉、雙手和必要空間。這裡未驗收媒體，請教師課前實際確認。練習可留圖文提示；若評量時答案仍寫在旁邊，記為有提示，不能假稱純聽力或純手語接收。</p><h3>分層觀察</h3><p>支持者只用單張2改3；熟悉者處理一包兩張再加一張的完整文字資料，不變成純算術取代語言。</p><p>支持較多者先用兩選項、大字卡、單一資訊及較長等待時間；可指認、繪圖、口述或使用已有輔助溝通。熟悉者要向新伙伴傳達、指出造成誤解的資料，並在一次澄清後更新答案；不是多背一串未核詞。一次只回饋一個可改項目，不以音量、表演膽量或與教師口音完全一致評優劣。</p><h3>評量與保護</h3><p>原改單和新包裝單各回傳一次，正確分清張數、包數及物件品項；語言量詞項另核。</p><p>紀錄分「讀圖／讀文理解」「接收所選完整模型」「依情境表達」「核對及修補」；每欄用獨立完成、重示後完成、仍需教學／待補模型，附支持種類。網頁題只檢查本頁提供的圖義、文字證據和思考；路線題只做已選、已教的部分。跨語別總分不能證明任一語言的聽說或手語能力。</p><p>本課人物、地點與故事均可使用虛構版本，不要求真實住址、家庭關係、照片或困難經驗，不錄音錄影上傳。用大紙卡在桌面操作，不做真實交易、外出、飲食試吃或接觸他人身體；任何人都可暫停或改用可理解方式。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-language-choice-03-q1",
+      "question": "原修改卡的目前總數是多少？",
+      "options": [
+        "3張樹圖卡",
+        "5張樹圖卡",
+        "2張月亮圖卡"
+      ],
+      "answer": 0,
+      "explanation": "改成3張是新的總數，不是原來兩張再另外加三張。",
+      "hint": "注意改成和另外增加不同。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q2",
+      "question": "桌上已有2張樹圖，要到新總數3張，再補幾張？",
+      "options": [
+        "3張",
+        "1張",
+        "5張"
+      ],
+      "answer": 1,
+      "explanation": "已有兩張距離新總量三張只差一張，最後核對仍為三張。",
+      "hint": "先確定要達到的總數。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q3",
+      "question": "原交付單月亮圖卡有幾張？",
+      "options": [
+        "1張",
+        "3張",
+        "0張"
+      ],
+      "answer": 2,
+      "explanation": "修改卡明說月亮圖不要，交付核對也列零張，不能換品項。",
+      "hint": "找未訂的品項。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q4",
+      "question": "兩包每包兩張，共幾張？",
+      "options": [
+        "2張",
+        "1張",
+        "4張"
+      ],
+      "answer": 2,
+      "explanation": "每包兩張而有兩包，合起來四張；包數和張數不是相同數值。",
+      "hint": "把每包的兩張分別點一次。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q5",
+      "question": "新單1包2張再加1張，總共什麼？",
+      "options": [
+        "3張樹圖卡",
+        "1張月亮圖卡",
+        "3張月亮圖卡"
+      ],
+      "answer": 2,
+      "explanation": "新單品項月亮圖，兩張包裝加一張散裝合計三張。",
+      "hint": "先看品項，再合計單張。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q6",
+      "question": "新單交付單位怎樣說最清楚？",
+      "options": [
+        "1包加1張，包內2張",
+        "只說1就夠",
+        "只說多一些"
+      ],
+      "answer": 0,
+      "explanation": "包內數量及散裝補充都要保留，單獨數字一無法表示完整交付。",
+      "hint": "分清包與張的關係。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q7",
+      "question": "越南語教材價例中的đồng是？",
+      "options": [
+        "原例的越南盾幣別",
+        "臺幣的保證現價",
+        "物品數量單位張"
+      ],
+      "answer": 0,
+      "explanation": "來源價例須保留幣別，不能把盾當臺幣或當作數量量詞。",
+      "hint": "看來源中文對照的幣別。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q8",
+      "question": "會說1–3數字，可以直接拼任意買物句嗎？",
+      "options": [
+        "不可以，完整量詞與要求句須核實",
+        "可以，所有語言量詞都相同",
+        "可以，把華語單位接後面"
+      ],
+      "answer": 0,
+      "explanation": "數字讀名不保證自然品項數量短語，完整形式需各路線模型。",
+      "hint": "數詞和完整句不同層次。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q9",
+      "question": "哪個方式最能查出交付錯誤？",
+      "options": [
+        "只數卡片總數不看圖",
+        "回傳品項、單位及新總量再逐張核對",
+        "只比誰講得快"
+      ],
+      "answer": 1,
+      "explanation": "數量正確但品項錯仍是錯單，需要三項資訊一起核對。",
+      "hint": "物對和數對都重要。"
+    },
+    {
+      "id": "g3s2-language-choice-03-q10",
+      "question": "本課實作應使用什麼？",
+      "options": [
+        "真實網購帳號和付款",
+        "大紙卡的無付款虛構小店",
+        "家庭存款資料"
+      ],
+      "answer": 1,
+      "explanation": "大紙卡足以支持訂單語意練習，不需要任何真實交易或財務資料。",
+      "hint": "查看本課活動設定。"
+    }
+  ],
+  "selfCheck": [
+    "我能指出答案來自哪一條線索。",
+    "我能區分這回的訊息與自己補想的內容。",
+    "我能核對伙伴收到的意思並修補一次。",
+    "我知道本路線哪些完整模型已由教師核實，哪些仍待補。"
+  ],
+  "sources": [
+    {
+      "title": "教育部台語辭典｜一",
+      "url": "https://sutian.moe.edu.tw/zh-hant/su/1/",
+      "note": "數量tsi̍t。"
+    },
+    {
+      "title": "教育部台語辭典｜兩",
+      "url": "https://sutian.moe.edu.tw/zh-hant/su/3584/",
+      "note": "數量nn̄g。"
+    },
+    {
+      "title": "教育部台語辭典｜三",
+      "url": "https://sutian.moe.edu.tw/zh-hant/su/163/",
+      "note": "白讀sann。"
+    },
+    {
+      "title": "教育部｜校園篇四縣腔",
+      "url": "https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/hkdialouge/客家情境對話練習_校園篇_四縣腔.pdf",
+      "note": "印刷6一二三數字讀名；不作任意物品量詞句。"
+    },
+    {
+      "title": "教育部｜四縣腔配套音檔",
+      "url": "https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/hkdialouge/index.html",
+      "note": "定位第2課並由教師核實單項模型。"
+    },
+    {
+      "title": "國教署｜閩東語第7課",
+      "url": "https://mintung.livestudy.tw/teaching_material/moe/show?d=1&b=1&l=7&page=lesson",
+      "note": "第一級第一冊下冊印刷19數字行，跨冊參考；未聽驗，不將連讀標記當單詞。"
+    },
+    {
+      "title": "原語會｜秀姑巒阿美語一",
+      "url": "https://web.klokah.tw/vocabulary/index.php?d=2&c=01&n=01",
+      "note": "cecay官方API對應。"
+    },
+    {
+      "title": "原語會｜秀姑巒阿美語二",
+      "url": "https://web.klokah.tw/vocabulary/index.php?d=2&c=01&n=02",
+      "note": "tosa^官方API對應。"
+    },
+    {
+      "title": "原語會｜秀姑巒阿美語三",
+      "url": "https://web.klokah.tw/vocabulary/index.php?d=2&c=01&n=03",
+      "note": "tolo^官方API對應。"
+    },
+    {
+      "title": "國教署｜臺灣手語1",
+      "url": "https://www.youtube.com/watch?v=knu2YforVYw",
+      "note": "官方頁精確詞目連結；完整影像未驗，課前合格教師確認。"
+    },
+    {
+      "title": "國教署｜臺灣手語2",
+      "url": "https://www.youtube.com/watch?v=hWoXsc1Wpdo",
+      "note": "同上模型條件。"
+    },
+    {
+      "title": "國教署｜臺灣手語3",
+      "url": "https://www.youtube.com/watch?v=yDh7JyAqv_E",
+      "note": "同上模型條件。"
+    },
+    {
+      "title": "國教署｜越南語第10冊",
+      "url": "https://mkm.k12ea.gov.tw/upload/mf/1775638303c8ffe9a587b126f152ed3d89a146b445.pdf",
+      "note": "印刷12/PDF14完整原價例中的價格／單位語段：餅乾一盒120000越南盾；跨冊教材價，不是市場現價。"
+    }
+  ]
+}

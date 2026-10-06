@@ -1,0 +1,178 @@
+{
+  "id": "g3s2-mathematics-01",
+  "course": "數學",
+  "title": "二、三位數除以一位數",
+  "subtitle": "先分大的位值，餘下再換小單位繼續分。",
+  "duration": "建議2–3節，每節35–40分鐘；操作、討論與練習可分段。",
+  "materials": [
+    "千百十個大卡中的百十個卡",
+    "位值直式紙、粗筆、完整大格圖"
+  ],
+  "goals": [
+    "能完成二、三位數除以一位數的直式",
+    "能以位值解釋逐位商與剩量",
+    "能正確保留商中間的0並驗算餘數"
+  ],
+  "intro": "84平均分4份時，先把8個十平均分，再把4個一平均分，就能得到21。",
+  "sections": [
+    {
+      "title": "先分十，再分個",
+      "childText": "84除4，商2個十和1個一。",
+      "html": "<p>84是8個十和4個一。平均分4份，8個十分給4份，每份2個十；4個一分4份，每份1個一，合成每份21。直式上面的2放十位，1放個位。</p><p>下圖先乘回8個十，從8個十減完後，將原有4個一接下來分；再乘回4個一，餘0。每一步都帶著位值，不是把84的兩個數字當毫不相關的兩題。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 380\" role=\"img\" aria-labelledby=\"g3s2-mathematics-01-division84\"><title id=\"g3s2-mathematics-01-division84\">84除以4直式：十位商2、乘回8十；接下4個一，個位商1、乘回4，餘0；答案21。</title><text x=\"225\" y=\"38\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">2</text><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">1</text><line x1=\"195\" y1=\"53\" x2=\"306\" y2=\"53\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M 188 54 Q 202 78 188 102\" fill=\"none\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"153\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">4</text><text x=\"225\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">8</text><text x=\"280\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">4</text><text x=\"225\" y=\"139\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">8</text><line x1=\"206\" y1=\"151\" x2=\"303\" y2=\"151\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280\" y=\"194\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">4</text><text x=\"280\" y=\"249\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">4</text><line x1=\"206\" y1=\"261\" x2=\"303\" y2=\"261\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280\" y=\"304\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">0</text></svg><figcaption>84除以4直式：十位商2、乘回8十；接下4個一，個位商1、乘回4，餘0；答案21。</figcaption></figure>",
+      "id": "g3s2-mathematics-01-s01"
+    },
+    {
+      "title": "最高位不足一份，合到下一位",
+      "childText": "156的1個百換成10個十，連原5十共15十。",
+      "html": "<p>156除以3，1百不足平均給每份1百，所以將它換成10十，和原5十共15十。15十分3份，每份5十，商5寫十位；剩下6個一再分3份，每份2個一，得52。</p><p>直式中的15寫在原15下面，表示分掉15個十，不是只分15個一。最上面商沒有百位數，答案是52，不是502。以52×3＝156核對，正好恢復全部數量。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 380\" role=\"img\" aria-labelledby=\"g3s2-mathematics-01-division156\"><title id=\"g3s2-mathematics-01-division156\">156除以3直式：先把15個十分3份，十位商5；接下6個一，個位商2，餘0；得52。</title><text x=\"225\" y=\"38\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">5</text><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">2</text><line x1=\"140\" y1=\"53\" x2=\"306\" y2=\"53\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M 133 54 Q 147 78 133 102\" fill=\"none\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"98\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">3</text><text x=\"170\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">1</text><text x=\"225\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">5</text><text x=\"280\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">6</text><text x=\"170\" y=\"139\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">1</text><text x=\"225\" y=\"139\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">5</text><line x1=\"151\" y1=\"151\" x2=\"303\" y2=\"151\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280\" y=\"194\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">6</text><text x=\"280\" y=\"249\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">6</text><line x1=\"151\" y1=\"261\" x2=\"303\" y2=\"261\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280\" y=\"304\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">0</text></svg><figcaption>156除以3直式：先把15個十分3份，十位商5；接下6個一，個位商2，餘0；得52。</figcaption></figure>",
+      "id": "g3s2-mathematics-01-s02"
+    },
+    {
+      "title": "商中間為0，也要占住位置",
+      "childText": "306除3，十位沒有十可分，商十位寫0。",
+      "html": "<p>306有3百、0十、6個一。3百平均分3份，每份1百；0十分3份，每份0十；6個一分3份，每份2個一，因此商是102。把0漏掉寫12，百位的1就被移成十位，數量相差很大。</p><p>下圖商上面1、0、2各對百、十、個。即使十位分到0，也應記清這一步。驗算102×3＝306；若12×3只等於36，無法恢復原量。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 490\" role=\"img\" aria-labelledby=\"g3s2-mathematics-01-division306\"><title id=\"g3s2-mathematics-01-division306\">306除以3直式：百位商1、十位商0、個位商2；依次乘回3百、0十、6個一，最後餘0，答案102。</title><text x=\"170\" y=\"38\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">1</text><text x=\"225\" y=\"38\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">0</text><text x=\"280\" y=\"38\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">2</text><line x1=\"140\" y1=\"53\" x2=\"306\" y2=\"53\" stroke=\"#526476\" stroke-width=\"2\"/><path d=\"M 133 54 Q 147 78 133 102\" fill=\"none\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"98\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">3</text><text x=\"170\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">3</text><text x=\"225\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">0</text><text x=\"280\" y=\"91\" text-anchor=\"middle\" font-size=\"28\" fill=\"#193c34\">6</text><text x=\"170\" y=\"139\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">3</text><line x1=\"151\" y1=\"151\" x2=\"303\" y2=\"151\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"225\" y=\"194\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">0</text><text x=\"225\" y=\"249\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">0</text><line x1=\"151\" y1=\"261\" x2=\"303\" y2=\"261\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280\" y=\"304\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">6</text><text x=\"280\" y=\"359\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">6</text><line x1=\"151\" y1=\"371\" x2=\"303\" y2=\"371\" stroke=\"#526476\" stroke-width=\"2\"/><text x=\"280\" y=\"414\" text-anchor=\"middle\" font-size=\"27\" fill=\"#193c34\">0</text></svg><figcaption>306除以3直式：百位商1、十位商0、個位商2；依次乘回3百、0十、6個一，最後餘0，答案102。</figcaption></figure>",
+      "id": "g3s2-mathematics-01-s03"
+    },
+    {
+      "title": "某一位分不完，換成下一位的量",
+      "childText": "125除4，1百換成10十，加原2十，共12十後仍會有剩。",
+      "html": "<p>125÷4：12個十每份分3十，剛好分去12十；5個一每份分1個一，用去4個一，餘1個一。商31餘1。4×31＝124，再加1得125，而且1小於4。</p><p>另一題95÷4：9十分4份，每份2十，餘1十；這1十換10個一，加原5個一共15個一，每份3個一，餘3。因此23餘3。餘下的1十不能直接當1個一加5。</p>",
+      "id": "g3s2-mathematics-01-s04"
+    },
+    {
+      "title": "每一個商的0都有理由",
+      "childText": "有餘量不足除數時，該位仍可能商0。",
+      "html": "<p>408÷4：百位4除4商1百，十位0除4商0十，個位8除4商2個，得102。再看201÷2：2百分2份，每份1百；0十仍0；1個一不足分每份1個，個位商0、餘1，答案100餘1。</p><p>商末尾0也不能省，100餘1與10餘1不相同。要問這一位有多少量、能分幾個同單位，不是看到原數有0就隨便補0。用乘回再加餘數能檢查位值是否跑掉。</p>",
+      "id": "g3s2-mathematics-01-s05"
+    },
+    {
+      "title": "引導練習：說出落下的是哪種單位",
+      "childText": "從十位到個位，要先換成個一。",
+      "html": "<p>用92÷4練習：9十每份2十，餘1十；換成10個一，加原2個一共12個一，每份3個一，餘0，商23。成人記直式，孩子逐步說9十、1十、12個一。</p><p>接著96÷3：9十分3份得3十，6個一分3份得2個一，商32。兩題都商兩位數，但一題有十位剩量要換，一題沒有。比較這個差別，比重複口令更能建立算法理解。</p>",
+      "id": "g3s2-mathematics-01-s06"
+    },
+    {
+      "title": "獨立出口：先估商位數，再算",
+      "childText": "三位數除一位數，不一定商三位數。",
+      "html": "<p>獨立算248÷4：2百換成20十，加原4十，共24十，每份6十，8個一每份2個一，商62。再算307÷3：每份1百0十2個一，餘1，商102餘1。各做乘回與餘數檢查。</p><p>出口解釋156除3為何商沒有百位，而306除3的商有百位且中間0必須保留。數學理由可用位值卡、口說或書寫；不把寫長除號的速度當理解。</p>",
+      "id": "g3s2-mathematics-01-s07"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與先備</h3><p>N-3-5要求二、三位數除以一位數，含被除數有0並用位值解釋直式。從一位商進到兩、三位商，先查孩子會估商和餘數小於除數。除數均為1到9正整數，不含小數商、分數商或兩位除數。直式每位商的意義必須連回百十個，避免只會照抄固定步驟。</p><h3>分段教學</h3><p>84除4先不需跨位交換，8十、4個一各分，讓商21的兩位有數量來源。156除3則先將1百換成10十，加原5十，共15十，最高商寫十位，避免502。306除3的十位0明確記在商中間，成人用102與12乘回比較位值差，說明0不只是書寫裝飾。圖中每個乘回數與被除數對齊，文字逐行說明。</p><p>95除4示範1十剩量換10個一，加原5個一成15個一；這是落下下一位的核心。201除2讓最後個位不足一份時仍商0而餘1，避免只教中間0。成人逐步記錄，孩子先說量和單位再填數字，必要時用大位值卡換量。</p><h3>差異化與修復</h3><p>支持組先84與96等無剩量跨位，再92，最後含0；乘法表可供參照。熟練組比較156與306商位數、解釋0的角色或驗算，不擴展四位被除數。若把1十當1個一，請用十卡換成10個一再加原個位。若漏0，先乘回看是否恢復總量，再修正位值。</p><h3>評量</h3><p>獨立248除4和307除3，分開觀察商位數、估商、相減、剩量換位、0占位、餘數與逆向核對。能解釋但書寫困難者可由成人代寫，每個位置仍讓孩子指出。所有量為教學設定、教具平放且尺寸大，不用細小物；精確作答外也保留一段口述證明，不以速度排名。</p>",
+  "exercises": [
+    {
+      "question": "84÷4的商是？",
+      "options": [
+        "201",
+        "21",
+        "12"
+      ],
+      "answer": 1,
+      "hint": "8個十與4個一各分4份。",
+      "explanation": "每份2個十加1個一，合成21，不能把兩個位值對調。",
+      "id": "g3s2-mathematics-01-q01"
+    },
+    {
+      "question": "156÷3先用15個十去分，商5應在哪一位？",
+      "options": [
+        "個位",
+        "百位",
+        "十位"
+      ],
+      "answer": 2,
+      "hint": "15個十分3份得5個十。",
+      "explanation": "5代表每份5個十，應寫在十位上方，不是5百或5個一。",
+      "id": "g3s2-mathematics-01-q02"
+    },
+    {
+      "question": "156÷3等於？",
+      "options": [
+        "52",
+        "502",
+        "51"
+      ],
+      "answer": 0,
+      "hint": "分完15十，還有6個一。",
+      "explanation": "15十分3份得5十，6個一分3份得2個一，因此每份52。",
+      "id": "g3s2-mathematics-01-q03"
+    },
+    {
+      "question": "306÷3為什麼商中間要寫0？",
+      "options": [
+        "因為3除3等於0",
+        "每份0個十，仍要保留十位",
+        "0可以任意加上去"
+      ],
+      "answer": 1,
+      "hint": "先把商分成百十個三欄。",
+      "explanation": "每份得到1百0十2個一，十位0不能省，否則102會變12。",
+      "id": "g3s2-mathematics-01-q04"
+    },
+    {
+      "question": "125÷4的商與餘數是？",
+      "options": [
+        "31餘1",
+        "31餘5",
+        "30餘5已完成"
+      ],
+      "answer": 0,
+      "hint": "乘回去並檢查餘數小於4。",
+      "explanation": "4乘31為124，125減124剩1，且1小於4，所以31餘1。",
+      "id": "g3s2-mathematics-01-q05"
+    },
+    {
+      "question": "95÷4分完9個十後餘1十，接原5個一，應共有？",
+      "options": [
+        "10個一",
+        "15個一",
+        "6個一"
+      ],
+      "answer": 1,
+      "hint": "把1個十換成10個一。",
+      "explanation": "餘1十等於10個一，再加原有5個一，共15個一繼續分。",
+      "id": "g3s2-mathematics-01-q06"
+    },
+    {
+      "question": "201÷2的結果是？",
+      "options": [
+        "100餘1",
+        "101餘0",
+        "10餘1"
+      ],
+      "answer": 0,
+      "hint": "十位和個位的0都要保留。",
+      "explanation": "2乘100等於200，尚餘1不足分一份2，因此是100餘1。",
+      "id": "g3s2-mathematics-01-q07"
+    },
+    {
+      "question": "307÷3等於？",
+      "options": [
+        "103餘0",
+        "12餘1",
+        "102餘1"
+      ],
+      "answer": 2,
+      "hint": "百十個逐欄分，再核對。",
+      "explanation": "3乘102為306，307減306餘1且小於3，商中間0保留十位。",
+      "id": "g3s2-mathematics-01-q08"
+    }
+  ],
+  "selfCheck": [
+    "我能說出每位商的單位。",
+    "我會把剩下的十換成個一。",
+    "我不漏商中間或末尾的0。",
+    "我會乘回並檢查餘數。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "官方列出年級學習內容；本課學期位置、節數、原創情境及練習屬編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：三年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁23–26。N-3-5二、三位數除以一位數，含0與位值說明；N-3-4餘數條件，R-3-1驗算。"
+    }
+  ]
+}
