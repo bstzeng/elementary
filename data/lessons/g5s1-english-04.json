@@ -1,0 +1,184 @@
+{
+  "id": "g5s1-english-04",
+  "course": "英語文",
+  "title": "動物種類與數量",
+  "subtitle": "合併圖卡與文字清單，準確回答種類、數量和更新後的總數",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "合併圖卡與文字清單，準確回答種類、數量和更新後的總數。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能用How many…?問指定種類的數量。",
+    "我能配合one與複數說There is／There are。",
+    "我能整合兩處資料與一筆移動記錄，避免重複計數。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>把圖上A／B、圖外C清單與後來移動分開教，不讓看不到的信封內容冒充直接觀察。先評孩子能否一次數一張，再看能否維持總量並說出數量範圍；英文單複數另作一項。若計算需要協助可用完整字卡移動，無須真動物。進階者解釋兩個局部變動如何抵消；不以會算總數就推定會發所有複數尾音。</p>",
+  "selfCheck": [
+    "我能用How many…?問指定種類的數量。",
+    "我能配合one與複數說There is／There are。",
+    "我能整合兩處資料與一筆移動記錄，避免重複計數。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s1-english-04-s01",
+      "title": "問種類，還是問數量",
+      "childText": "先限定你要數什麼。",
+      "html": "<p>詞庫：rabbit兔子、duck鴨子、cat貓、dog狗；本課複數rabbits、ducks、cats、dogs。How many ducks are there?要問鴨子的數量，不能把兔子也加入。What animals are there?問種類，可答Rabbits and ducks.，這個回答本身沒有給數字。</p><p>There is one rabbit.用is配一隻；There are two rabbits.用are配複數。How many後面用複數名詞，即使最後查到答案只有一隻，也可問How many rabbits are there?。本課只練這四個規則複數，不能推成所有動物詞都加s，也不把所有複數尾音當成同一個聲音。</p>"
+    },
+    {
+      "id": "g5s1-english-04-s02",
+      "title": "實際圖卡與另一份清單",
+      "childText": "圖外資料必須另有明文。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\" role=\"img\" aria-labelledby=\"g5s1-english-04-scene\"><title id=\"g5s1-english-04-scene\">原創紙上動物卡場景：A框兩張兔子圖卡；B框三張鴨子圖卡。每個完整輪廓算一張，不是實際動物調查。</title><rect x=\"8\" y=\"8\" width=\"344\" height=\"92\" rx=\"8\" fill=\"#edf3f7\" stroke=\"#324c62\"/><rect x=\"8\" y=\"118\" width=\"344\" height=\"92\" rx=\"8\" fill=\"#f8f0d8\" stroke=\"#67552c\"/><text x=\"18\" y=\"37\" font-size=\"22\">A</text><text x=\"18\" y=\"147\" font-size=\"22\">B</text><g fill=\"#fff\" stroke=\"#48546a\" stroke-width=\"2\"><ellipse cx=\"118\" cy=\"68\" rx=\"25\" ry=\"20\"/><circle cx=\"142\" cy=\"53\" r=\"13\"/><ellipse cx=\"139\" cy=\"31\" rx=\"5\" ry=\"15\"/><ellipse cx=\"150\" cy=\"33\" rx=\"5\" ry=\"15\"/></g><circle cx=\"147\" cy=\"51\" r=\"2\"/><g fill=\"#fff\" stroke=\"#48546a\" stroke-width=\"2\"><ellipse cx=\"248\" cy=\"68\" rx=\"25\" ry=\"20\"/><circle cx=\"272\" cy=\"53\" r=\"13\"/><ellipse cx=\"269\" cy=\"31\" rx=\"5\" ry=\"15\"/><ellipse cx=\"280\" cy=\"33\" rx=\"5\" ry=\"15\"/></g><circle cx=\"277\" cy=\"51\" r=\"2\"/><g fill=\"#e6c449\" stroke=\"#65551c\" stroke-width=\"2\"><ellipse cx=\"92\" cy=\"179\" rx=\"26\" ry=\"17\"/><circle cx=\"111\" cy=\"157\" r=\"13\"/><path d=\"M123 154l13 5-13 4Z\" fill=\"#d5863b\"/></g><circle cx=\"115\" cy=\"155\" r=\"2\"/><g fill=\"#e6c449\" stroke=\"#65551c\" stroke-width=\"2\"><ellipse cx=\"190\" cy=\"179\" rx=\"26\" ry=\"17\"/><circle cx=\"209\" cy=\"157\" r=\"13\"/><path d=\"M221 154l13 5-13 4Z\" fill=\"#d5863b\"/></g><circle cx=\"213\" cy=\"155\" r=\"2\"/><g fill=\"#e6c449\" stroke=\"#65551c\" stroke-width=\"2\"><ellipse cx=\"288\" cy=\"179\" rx=\"26\" ry=\"17\"/><circle cx=\"307\" cy=\"157\" r=\"13\"/><path d=\"M319 154l13 5-13 4Z\" fill=\"#d5863b\"/></g><circle cx=\"311\" cy=\"155\" r=\"2\"/></svg><figcaption>A有2張rabbit兔子圖卡，B有3張duck鴨子圖卡。數量只限此刻畫面；沒有隱藏的卡。</figcaption></figure><p>完整起始資料：桌面如圖，A有2張rabbit，B有3張duck。另有C信封，沒有畫在圖中；清單寫C: one cat, two dogs.，共3張。所有卡只有一張對應一隻圖案，A、B、C互不重疊。圖本身不能證明C的內容；只有清單供應這項資訊。沒有真動物、觸摸或餵食活動。</p>"
+    },
+    {
+      "id": "g5s1-english-04-s03",
+      "title": "完整盤點對話",
+      "childText": "確認數量時，保留動物名稱。",
+      "html": "<div class=\"story\"><p>1 Mira: How many ducks are there on the table?<br/>2 Tom: There are three ducks.<br/>3 Mira: And how many rabbits?<br/>4 Tom: Two rabbits.<br/>5 Mira: Five animals on the table?<br/>6 Tom: Yes. Two rabbits and three ducks.<br/>7 Mira: Are there any dogs on the table?<br/>8 Tom: No. There are two dogs in envelope C.</p></div><p>table桌面、envelope信封、on在表面、in在裡面。第8句說明dogs不在桌面，不代表整組材料沒有dogs。教師完整讀八回合後，孩子用手指A與B核算2＋3＝5；C的2隻狗不要先放進「桌面」總數。每個數字要附範圍與種類，避免只答two而不知道在數什麼。</p>"
+    },
+    {
+      "id": "g5s1-english-04-s04",
+      "title": "一起做：一張卡移動",
+      "childText": "位置變了，總張數不一定變。",
+      "html": "<p>供應完整操作與初態：成人在大紙上畫A、B、C三區，準備rabbit字卡2張、duck字卡3張、cat字卡1張、dog字卡2張。初態A放2兔、B放3鴨、C放1貓2狗。動作記錄：將C的一張dog卡移到桌面B，其他卡不動，沒有新增或丟掉卡。也可用正文清單畫箭頭作文字操作，不必剪紙。</p><p>示範更新：桌面原5張，加進1張dog，現在6張；C原3張，現在2張，即1貓1狗；整組仍8張。回答桌面種類是rabbits、ducks、a dog，不可說只剩dogs。先寫「從哪到哪」再更新兩區，能避免把移動誤算成新增。</p>"
+    },
+    {
+      "id": "g5s1-english-04-s05",
+      "title": "修復：看到、推算與未知",
+      "childText": "沒有畫出，不等於不存在。",
+      "html": "<p>錯句「沒有畫狗，所以整組沒有狗」忽略C清單。錯句「狗移到B後共9張」只加桌面、不扣C，重複計數。錯句There are one dog.在本課改為There is one dog.；若是整組兩張狗，則There are two dogs.，要先決定範圍。</p><p>圖卡不能告訴真實動物的健康、年齡或性別，也不能據此判斷適合飼養。白色輪廓只是繪圖選擇，不代表所有兔子都白色。真正學習成果是能給出「什麼種類、哪個範圍、哪個時點、多少」，而不是背出圖上總數就不再檢查。</p>"
+    },
+    {
+      "id": "g5s1-english-04-s06",
+      "title": "獨立轉用：另一組紙卡",
+      "childText": "把全新初態和動作都讀完。",
+      "html": "<p>新初態：桌面D有1張cat、4張ducks；信封E有2張rabbits。動作：把桌面D的一張duck移到E，不增減其他卡。請分別寫移動後桌面的duck數、E的總張數、整組總張數，再用There are…或There is…寫一句明確指定種類與位置的英文。不要沿用原版本C的數字。</p><details><summary>完成後核對</summary><p>桌面剩3張duck，E有2兔加1鴨共3張，整組仍7張。可說There are three ducks on the table.，或There is one duck in envelope E.。D仍有1貓，所以桌面總張數是4而非3；「3」只回答duck種類。</p></details>"
+    },
+    {
+      "id": "g5s1-english-04-s07",
+      "title": "做一份不重算的盤點",
+      "childText": "數量與範圍都要說清楚。",
+      "html": "<p>在紙上寫「起始／移動／移動後」，每列都標桌面與信封。需要較多支持的孩子可用一次一張的指點順序與大字清單；進階者說明為何移動不改整組總數，並用另一種類的問句查同伴是否讀對範圍。不要求速度比賽，視覺或動作需要可改用成人讀清單。</p><p>成人分別記錄單複數、問句用途、數量核算與引用圖／清單。合格教師可讀完整原對話供聽辨，但出示圖片或逐字句卡時須記為有視覺支持。文字選擇題只測已供文字與圖卡概念，不能取代真正觀察口語。孩子可用中文解釋「總數沒變」，再補核心英文數量。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Using there is and there are",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/using-there-there-are",
+      "note": "2026-10-06直接核對。支持指定單數／複數存在句、問答與否定；本頁數量、圖卡和移動均為原創。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s1-english-04-q01",
+      "question": "起始圖桌面B有幾張duck？",
+      "options": [
+        "three",
+        "two",
+        "five"
+      ],
+      "answer": 0,
+      "hint": "只數B框中的鴨子輪廓。",
+      "explanation": "B畫出三張鴨子圖卡；two是A兔子數，five是A加B總數。"
+    },
+    {
+      "id": "g5s1-english-04-q02",
+      "question": "C信封的兩張dog由哪項證據支持？",
+      "options": [
+        "圖中藏在兔子後面",
+        "鴨子的顏色",
+        "文字清單"
+      ],
+      "answer": 2,
+      "hint": "C沒有畫在原圖內。",
+      "explanation": "正文完整清單明寫C有兩張dog，不能假稱圖上看得到信封內容。"
+    },
+    {
+      "id": "g5s1-english-04-q03",
+      "question": "How many ducks…?在問？",
+      "options": [
+        "指定種類的數量",
+        "鴨子喜歡什麼",
+        "所有種類的英文名稱"
+      ],
+      "answer": 0,
+      "hint": "留意many和後面名詞。",
+      "explanation": "How many配ducks限定要數鴨子，並不是問喜好或列出全部種類。"
+    },
+    {
+      "id": "g5s1-english-04-q04",
+      "question": "原操作移動後，桌面共有？",
+      "options": [
+        "8張",
+        "6張",
+        "9張"
+      ],
+      "answer": 1,
+      "hint": "原桌面5張加移入1張。",
+      "explanation": "C的一張dog移入桌面後為6張；8是整組總數，不能混用範圍。"
+    },
+    {
+      "id": "g5s1-english-04-q05",
+      "question": "原操作移動後，整組總張數？",
+      "options": [
+        "8張",
+        "9張",
+        "7張"
+      ],
+      "answer": 0,
+      "hint": "卡只是換位置，沒有新增或丟棄。",
+      "explanation": "起始2兔3鴨1貓2狗共8張；內部移動不改整組總數。"
+    },
+    {
+      "id": "g5s1-english-04-q06",
+      "question": "移動後桌面只有一張dog，哪句正確？",
+      "options": [
+        "There are one dog on the table.",
+        "There is one dog on the table.",
+        "There is two dogs on the table."
+      ],
+      "answer": 1,
+      "hint": "先看one再決定is或are。",
+      "explanation": "one dog是單數，所以用There is，並保留on the table限定位置。"
+    },
+    {
+      "id": "g5s1-english-04-q07",
+      "question": "新D／E操作後，E共有多少卡？",
+      "options": [
+        "2張",
+        "7張",
+        "3張"
+      ],
+      "answer": 2,
+      "hint": "E原2兔，再收到1鴨。",
+      "explanation": "新E由兩張兔子卡加一張鴨子卡成三張；七張是整組總數。"
+    },
+    {
+      "id": "g5s1-english-04-q08",
+      "question": "新操作後桌面duck數是3，能否直接說桌面共3張？",
+      "options": [
+        "可以，cat不算圖卡",
+        "不能，還有1張cat",
+        "可以，移動會刪掉cat"
+      ],
+      "answer": 1,
+      "hint": "檢查新D完整初態。",
+      "explanation": "D仍保留一張cat，所以三張鴨子加一張貓共四張，種類小計不等於總數。"
+    }
+  ]
+}

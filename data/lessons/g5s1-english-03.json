@@ -1,0 +1,184 @@
+{
+  "id": "g5s1-english-03",
+  "course": "英語文",
+  "title": "社區場所與目的地",
+  "subtitle": "依目的、開放資訊與確認回合選擇社區目的地",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "依目的、開放資訊與確認回合選擇社區目的地。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能分開目前位置與想去的目的地。",
+    "我能比較場所功能和給定開放資訊，說明選擇。",
+    "我能用完整問答澄清目的地，而不假設已經出發或抵達。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>檢查孩子是否將at的目前位置、to的目的地與已完成動作分開。先用兩張場所卡示範「目的＋時間」的合併，再換全新目的做轉用；位置示意沒有比例或道路，不做最近、最快、安全路線判斷。真正口語觀察要聽見孩子區分兩種Where問句並完成否定澄清；紙面選項只測本頁文字概念。</p>",
+  "selfCheck": [
+    "我能分開目前位置與想去的目的地。",
+    "我能比較場所功能和給定開放資訊，說明選擇。",
+    "我能用完整問答澄清目的地，而不假設已經出發或抵達。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s1-english-03-s01",
+      "title": "場所與目的地",
+      "childText": "Where are you?和Where are you going?問的不同。",
+      "html": "<p>詞庫：school學校、library圖書館、park公園、station車站、museum博物館。Where are you?問現在在哪裡；Where are you going?問正要去哪裡。I’m at the school.與I’m going to the library.可以同時描述一個人的所在與目的地，並不矛盾。</p><p>to後接本課具體場所the library、the park、the museum。功能詞卡：read books讀書、play a ball game玩球、see an art show看藝術展、take a train搭火車。功能只是本頁情境的選擇線索，不表示每個場所只提供一種活動。紙上活動不要求孩子離校、走路探訪或公布住家位置。</p>"
+    },
+    {
+      "id": "g5s1-english-03-s02",
+      "title": "原創示意圖與完整場所卡",
+      "childText": "這是位置示意，沒有比例和路線。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 230\" role=\"img\" aria-labelledby=\"g5s1-english-03-map\"><title id=\"g5s1-english-03-map\">原創位置示意：上排左library、右museum；下排左school、右park。school方框中有一個標為Now的圓點。圖沒有路線、距離或方向指北。</title><rect x=\"15\" y=\"15\" width=\"145\" height=\"75\" rx=\"8\" fill=\"#e5f2ef\" stroke=\"#28524b\"/><rect x=\"200\" y=\"15\" width=\"145\" height=\"75\" rx=\"8\" fill=\"#fff0d1\" stroke=\"#72571d\"/><rect x=\"15\" y=\"130\" width=\"145\" height=\"85\" rx=\"8\" fill=\"#e5edf7\" stroke=\"#314d71\"/><rect x=\"200\" y=\"130\" width=\"145\" height=\"85\" rx=\"8\" fill=\"#e8efd6\" stroke=\"#4c632b\"/><g font-size=\"22\" text-anchor=\"middle\" fill=\"#182b3b\"><text x=\"88\" y=\"59\">library</text><text x=\"273\" y=\"59\">museum</text><text x=\"88\" y=\"159\">school</text><text x=\"273\" y=\"177\">park</text></g><circle cx=\"60\" cy=\"190\" r=\"8\" fill=\"#ac4c30\"/><text x=\"78\" y=\"197\" font-size=\"18\">Now</text></svg><figcaption>現在位置在school；圖只顯示相對版面，不能量距離，也沒有安全行走路線。</figcaption></figure><p>完整今日卡，皆為虛構：library，open 14:00–17:00，read books；museum，closed today，沒有開放；park，open 14:00–18:00，ball games allowed。open開放、closed關閉、allowed允許。現在14:30，角色Ivy想在室內讀書。圖上沒有station；詞庫出現過不表示一定畫在圖內。</p>"
+    },
+    {
+      "id": "g5s1-english-03-s03",
+      "title": "完整確認對話",
+      "childText": "聽到一個地名，仍要追蹤否定。",
+      "html": "<div class=\"story\"><p>1 Kai: Where are you, Ivy?<br/>2 Ivy: I’m at the school.<br/>3 Kai: Where are you going?<br/>4 Ivy: I’m going to the library. I want to read books.<br/>5 Kai: The museum?<br/>6 Ivy: No, the library. The museum is closed today.<br/>7 Kai: OK, the library. Let’s go together.<br/>8 Ivy: Yes, let’s go.</p></div><p>本段只有目的、提議與同意，沒有「走出校門」或「已抵達」的記錄，所以不可說兩人已在圖書館。Want to表示想做，不能直接證明已經做了。教師先完整示範兩種Where問句，再讓孩子指示意圖與目的地詞卡；無適合示範者時用文字閱讀。</p>"
+    },
+    {
+      "id": "g5s1-english-03-s04",
+      "title": "一起建立選擇理由",
+      "childText": "符合目的，也符合本頁時段。",
+      "html": "<p>成人示範兩欄判斷：library有read books且14:30在14:00–17:00內，符合本頁需求；museum今日closed，不能因圖上靠近library就改選；park可玩球，但本頁沒有提供室內閱讀安排。結論限於「依本頁卡，圖書館符合已知條件」，不是說所有公園不能讀書。</p><p>準備school、library、museum、park各一張大字卡，另有Now、Destination目的地各一張；先把school放Now下，再把library放Destination下。也可直接用手指本頁兩處。不要用人物卡在真實教室跑動，不練習過馬路。孩子須說出兩個依據，而不是只照圖上位置猜。</p>"
+    },
+    {
+      "id": "g5s1-english-03-s05",
+      "title": "修復：地圖沒說的事",
+      "childText": "小圖不能證明遠近和安全。",
+      "html": "<p>錯句「library最近，所以最快到」缺少比例、距離、路線和交通方式。錯句「Ivy現在在library」把目的地當目前位置。錯句「Kai說museum，因此兩人去museum」忽略後面的No。請各找原句，改成資料真正支持的說法。</p><p>Where are you going?中的going由完整語境表示目的地，不用將它生硬理解為此刻一定在移動。若朋友只問Library?，可補問Do you mean the library?來確認；但只有提問，沒有答覆時，紀錄仍寫「待確認」。本課判斷的是給定文字，不是讀表情或替別人決定意願。</p>"
+    },
+    {
+      "id": "g5s1-english-03-s06",
+      "title": "獨立轉用：目的變了",
+      "childText": "換資料後，不能固守原答案。",
+      "html": "<p>新卡完整資料：現在15:00；Noah在school，想看藝術展。library今日closed；museum open 13:00–16:00，art show；park open 14:00–18:00，ball games。請代Noah完成兩句目前位置與目的地，引用一個目的線索和一個時間線索。接著同伴問The park?，你如何澄清？本題沒有安排真實外出。</p><details><summary>自己完成後看模型</summary><p>I’m at the school. I’m going to the museum. I want to see an art show. 澄清可說No, the museum. 15:00在13:00–16:00內，且卡上列art show。這些句子仍不證明已抵達；是否有人陪同或交通方式也未知。</p></details>"
+    },
+    {
+      "id": "g5s1-english-03-s07",
+      "title": "用三欄留下證據",
+      "childText": "現在、目的地和未知資訊分開。",
+      "html": "<p>成品三欄為「目前所在／已確認目的地／仍不知道」。原情境可填school／library／路程與是否已抵達；新情境改用新資料自己填。每項旁標出圖、場所卡或對話回合。圖上無法看出的開放狀況，需要場所卡支持。</p><p>成人評量孩子能否用至少兩項條件選擇，能否指出拒絕或澄清的No，並說明證據限制。需要較多支持的孩子一次比較兩張卡；進階者將一張open換closed後提出還缺什麼資料，不編造替代開放時間。可指卡或書寫完成，不要求真實社區地址、地理定位、預約、訪問或外出。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Places in a town詞卡",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-places-in-a-town.pdf",
+      "note": "2026-10-06直接核對。PDF實體第1、3頁（索引0、2）支持school、library、park、station詞形；圖像未挪用。本課地圖不是實際導航。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s1-english-03-q01",
+      "question": "原情境Ivy目前在哪裡？",
+      "options": [
+        "library",
+        "school",
+        "museum"
+      ],
+      "answer": 1,
+      "hint": "比較Now與第2句。",
+      "explanation": "Now標記與I’m at the school.都指向學校，目的地library不是目前位置。"
+    },
+    {
+      "id": "g5s1-english-03-q02",
+      "question": "原情境選library的兩項依據是？",
+      "options": [
+        "可讀書，且14:30在開放時段",
+        "圖框最大，且一定最近",
+        "Ivy已經到達，且每家都一樣"
+      ],
+      "answer": 0,
+      "hint": "合併目的與今日卡。",
+      "explanation": "library卡提供read books和14:00–17:00，兩項共同支持這次選擇。"
+    },
+    {
+      "id": "g5s1-english-03-q03",
+      "question": "Kai的The museum?最後怎樣處理？",
+      "options": [
+        "成為新的共同目的地",
+        "證明museum已開門",
+        "被Ivy更正為library"
+      ],
+      "answer": 2,
+      "hint": "找緊接的No與地名。",
+      "explanation": "Ivy明確否定museum並重述library，所以確認問句不能當最後答案。"
+    },
+    {
+      "id": "g5s1-english-03-q04",
+      "question": "示意圖能證明哪一件事？",
+      "options": [
+        "到library只要兩分鐘",
+        "Now點畫在school框內",
+        "museum在真正的東北方"
+      ],
+      "answer": 1,
+      "hint": "圖說已列出沒有的資訊。",
+      "explanation": "圖直接顯示Now與school的關係，沒有比例、路線或指北，不能算距離方向。"
+    },
+    {
+      "id": "g5s1-english-03-q05",
+      "question": "原對話能確定兩人已抵達嗎？",
+      "options": [
+        "不能，沒有抵達記錄",
+        "能，第8句就是抵達",
+        "能，地名出現兩次就算"
+      ],
+      "answer": 0,
+      "hint": "同意出發與完成旅行不同。",
+      "explanation": "第8句接受提議，但沒有移動或抵達敘述，因此位置不能自動更新。"
+    },
+    {
+      "id": "g5s1-english-03-q06",
+      "question": "新情境Noah應選哪個目的地？",
+      "options": [
+        "library",
+        "museum",
+        "school以外任何地方"
+      ],
+      "answer": 1,
+      "hint": "對照art show與15:00。",
+      "explanation": "新museum提供藝術展且仍在開放時間，library關閉，不能沿用原目的地。"
+    },
+    {
+      "id": "g5s1-english-03-q07",
+      "question": "問目前位置應使用？",
+      "options": [
+        "Where are you going?",
+        "What do you eat?",
+        "Where are you?"
+      ],
+      "answer": 2,
+      "hint": "目前在哪裡不是要去哪裡。",
+      "explanation": "Where are you?詢問所在，Where are you going?則在本課詢問目的地。"
+    },
+    {
+      "id": "g5s1-english-03-q08",
+      "question": "新卡沒有提供什麼？",
+      "options": [
+        "交通方式與所需時間",
+        "museum的開放時間",
+        "Noah想看的活動"
+      ],
+      "answer": 0,
+      "hint": "逐項查看新卡是否明寫。",
+      "explanation": "卡列出了時段與目的，卻未列交通方式和路程，這些仍須保留未知。"
+    }
+  ]
+}

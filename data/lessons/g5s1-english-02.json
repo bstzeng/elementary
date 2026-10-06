@@ -1,0 +1,184 @@
+{
+  "id": "g5s1-english-02",
+  "course": "英語文",
+  "title": "科目與上課時間表",
+  "subtitle": "從科目、開始與結束時間，說明一個上午的學習安排",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "從科目、開始與結束時間，說明一個上午的學習安排。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能用科目名稱讀課表並分開開始和結束時刻。",
+    "我能用What time…?和at回答上課時間。",
+    "我能把換課通知與原課表整合，確認應帶材料。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>本課重點是同列跨欄、開始與結束的差別，以及只改一節的通知。先讓孩子說明原science時段，再讀通知；若混淆，提供Start／End兩張大字卡而非要求背數字。評量同時保留原表和新通知的證據。書面time理解與教師實際聽到的口語分開記錄；math／maths等正常標準變體不扣分。</p>",
+  "selfCheck": [
+    "我能用科目名稱讀課表並分開開始和結束時刻。",
+    "我能用What time…?和at回答上課時間。",
+    "我能把換課通知與原課表整合，確認應帶材料。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s1-english-02-s01",
+      "title": "科目詞義與問句",
+      "childText": "問哪一科和問幾點，是兩個問題。",
+      "html": "<p>詞庫：English英語、math數學、science自然科學、art藝術、music音樂、PE體育、break休息。PE是physical education的縮寫；本課採美式math，英式maths也是正常用法。學校科目中English因語言名稱而大寫；一般科目名稱在句中可寫成小寫，如math、science或art。本課表格也採這些小寫形式。</p><p>What do we have at nine?問九點上什麼；What time do we have science?問自然科學在幾點。回答We have science at ten ten.是上午十點十分，與本課上午課表的開始時間一致。表列安排不等於現在正在上這一科；不知道目前時間就不能說We are having science now.</p>"
+    },
+    {
+      "id": "g5s1-english-02-s02",
+      "title": "完整週二上午課表",
+      "childText": "每列有開始與結束，不能只看一個數字。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構班級週二上午課表\" tabindex=\"0\"><table><caption>原創班級：Tuesday morning。時間採24小時制；本課只列08:20–11:30。</caption><thead><tr><th>Start</th><th>End</th><th>Subject</th><th>Bring</th></tr></thead><tbody><tr><td>08:20</td><td>09:00</td><td>English</td><td>English book</td></tr><tr><td>09:00</td><td>09:10</td><td>break</td><td>—</td></tr><tr><td>09:10</td><td>09:50</td><td>math</td><td>math book</td></tr><tr><td>09:50</td><td>10:10</td><td>break</td><td>—</td></tr><tr><td>10:10</td><td>10:50</td><td>science</td><td>science book</td></tr><tr><td>10:50</td><td>11:30</td><td>art</td><td>paper and a pencil</td></tr></tbody></table></div><p>Start開始、End結束、Bring帶來；破折號只表示此表未指定材料，不能解成不得帶任何東西。窄螢幕可左右捲動；Tab移入表區後用方向鍵。08:20可讀eight twenty，10:10讀ten ten，10:50讀ten fifty，11:30讀eleven thirty。</p>"
+    },
+    {
+      "id": "g5s1-english-02-s03",
+      "title": "完整模型：辨認與澄清",
+      "childText": "把科目和時間一起重述。",
+      "html": "<div class=\"story\"><p>1 Ava: What time do we have science on Tuesday?<br/>2 Ben: At ten ten.<br/>3 Ava: Ten fifty?<br/>4 Ben: No, ten ten. Science ends at ten fifty.<br/>5 Ava: So we have science from ten ten to ten fifty.<br/>6 Ben: Yes. Bring your science book.</p></div><p>end結束、from…to…從……到……。第3句不是新課表，是Ava確認時的誤會；第4句澄清開始與結束。教師完整讀六回合，不把兩個時刻省成「那個時間」。孩子以線連Start 10:10與End 10:50，再用自己的方式說明40分鐘，這項算術只是檢查課表閱讀，並非英語流利的條件。</p>"
+    },
+    {
+      "id": "g5s1-english-02-s04",
+      "title": "一起合併一張通知",
+      "childText": "更新一格前，先確認通知的範圍。",
+      "html": "<p>新增原創通知全文：<span lang=\"en\">This Tuesday only: Music replaces art from 10:50 to 11:30. Bring your music book. All other lessons stay the same.</span> 中文：只有本週二，10:50–11:30由音樂取代藝術；帶音樂課本。其他課不變。replaces取代、only只、stay the same保持相同。</p><p>成人示範留下原課表，在art那列加「本週例外：music／music book」。不把science改掉，也不把10:10誤當音樂開始。紙卡可抄English book、math book、science book、music book、paper and a pencil各一張；孩子依本週通知選前三本加music book，原藝術材料只是不再由這份課表要求，並非禁止攜帶。</p>"
+    },
+    {
+      "id": "g5s1-english-02-s05",
+      "title": "修復：四種不同資訊",
+      "childText": "數字相同位置不同，用途就不同。",
+      "html": "<p>錯摘要「自然科學10:50開始」讀到End欄；修成10:10開始、10:50結束。錯摘要「現在是10:10」把安排當鐘面；此頁沒有現在時刻。錯摘要「每週二都改音樂」忽略This Tuesday only。錯句We have music on ten fifty.應將時刻前介詞改at。</p><p>學會一句並不代表可以任意更換詞序。先保留We have…at…句框，再填科目與開始時間。需要完整區間時使用from…to…。若有人說ten fifty，先問開始還是結束，而不是責備對方沒讀懂。學生可以指Start／End回答，也可以用中文澄清後補核心英文。</p>"
+    },
+    {
+      "id": "g5s1-english-02-s06",
+      "title": "自己試：另一張週四表",
+      "childText": "新資料要重新定位。",
+      "html": "<p>完整新卡：Thursday morning；09:00–09:40 math，09:40–10:00 break，10:00–10:40 PE。通知：<span lang=\"en\">This Thursday, we have art instead of PE. Bring paper and a pencil. The time stays the same.</span> 請完成We have ___ on Thursday from ___ to ___.，再選要帶的材料，並寫一件這些資料不能告訴你的事情。不要套用週二10:50。</p><details><summary>完成後核對</summary><p>We have art on Thursday from ten to ten forty. 本週帶paper and a pencil。也可寫數字10:00、10:40。無法知道藝術老師姓名、教室或今天的時間；這些空白不能憑想像補上。這張表只取代PE，math仍在09:00–09:40。</p></details>"
+    },
+    {
+      "id": "g5s1-english-02-s07",
+      "title": "評量：四格摘要與實際口語",
+      "childText": "把找得到的證據寫在結論旁。",
+      "html": "<p>完成本週二四格：「科目music／開始10:50／結束11:30／材料music book」，每格附原表列或通知片語。再遮住模型，用週四卡重做。先核對讀表與更新正確，再檢查英語句框；不要因數字寫成10:50便認定會自然說ten fifty。</p><p>合格教師若做實際聽辨，先完整讀第1–6句，再單獨讀兩個時刻，讓孩子指Start或End；給重聽並記錄。需要較多支持的孩子只看相鄰兩列，進階者自行解釋通知未改動的科目。可用指卡、打字、成人代寫，無須孩子上傳自己的課表，也不以英語正確與否限制取得上課材料。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Prepositions of time",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-time",
+      "note": "2026-10-06直接核對。支持on加星期、at加時刻；本課課表、活動與對話均為原創。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s1-english-02-q01",
+      "question": "原週二自然科學何時開始？",
+      "options": [
+        "10:50",
+        "10:10",
+        "09:50"
+      ],
+      "answer": 1,
+      "hint": "定位science那列Start欄。",
+      "explanation": "science在10:10開始，10:50是結束；09:50則是前一段休息的開始。"
+    },
+    {
+      "id": "g5s1-english-02-q02",
+      "question": "第3句Ten fifty?在對話中是什麼？",
+      "options": [
+        "Ava的確認誤會",
+        "新上課通知",
+        "Ben已接受的換課提議"
+      ],
+      "answer": 0,
+      "hint": "看第4句是否更正它。",
+      "explanation": "Ben隨後說No並區分起訖，因此第3句不是確立的新安排。"
+    },
+    {
+      "id": "g5s1-english-02-q03",
+      "question": "本週二10:50–11:30上什麼？",
+      "options": [
+        "art",
+        "music",
+        "science"
+      ],
+      "answer": 1,
+      "hint": "通知只改原art那段。",
+      "explanation": "Music replaces art使原藝術區段改為音樂，其時間仍為10:50–11:30。"
+    },
+    {
+      "id": "g5s1-english-02-q04",
+      "question": "本週二的新通知指定哪項材料？",
+      "options": [
+        "music book",
+        "basketball",
+        "English book取代所有書"
+      ],
+      "answer": 0,
+      "hint": "讀Bring後面的文字。",
+      "explanation": "通知要求音樂課本，其他課未改；不能推論只帶一本書即可。"
+    },
+    {
+      "id": "g5s1-english-02-q05",
+      "question": "哪個說法沒有證據？",
+      "options": [
+        "原自然科學結束於10:50",
+        "本週二最後一列改音樂",
+        "現在是10:10"
+      ],
+      "answer": 2,
+      "hint": "課表不是顯示現在的時鐘。",
+      "explanation": "頁面只有安排與通知，沒有提供現在時刻，所以不能據此知道現在幾點。"
+    },
+    {
+      "id": "g5s1-english-02-q06",
+      "question": "新週四卡的藝術課開始於？",
+      "options": [
+        "10:50",
+        "10:00",
+        "09:00"
+      ],
+      "answer": 1,
+      "hint": "以PE的原時間加上通知。",
+      "explanation": "通知以art取代PE且時間不變，所以沿用PE的10:00開始時間。"
+    },
+    {
+      "id": "g5s1-english-02-q07",
+      "question": "英文表達一段起訖，哪句符合原science？",
+      "options": [
+        "from ten ten to ten fifty",
+        "from ten fifty to ten ten",
+        "at Tuesday to science"
+      ],
+      "answer": 0,
+      "hint": "由開始讀到結束。",
+      "explanation": "from接開始，to接結束，原自然科學由10:10上到10:50。"
+    },
+    {
+      "id": "g5s1-english-02-q08",
+      "question": "表格Bring欄的—表示？",
+      "options": [
+        "禁止帶任何物品",
+        "一定不必帶書包",
+        "這張表未指定材料"
+      ],
+      "answer": 2,
+      "hint": "讀表格後的符號說明。",
+      "explanation": "正文限定破折號為未指定材料，不能擴成禁令或完整裝備清單。"
+    }
+  ]
+}

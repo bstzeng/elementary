@@ -1,0 +1,184 @@
+{
+  "id": "g5s1-english-01",
+  "course": "英語文",
+  "title": "星期與每週活動",
+  "subtitle": "把每週規律、單週變動與兩人的共同空檔分開讀",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "把每週規律、單週變動與兩人的共同空檔分開讀。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能辨認七個星期名稱，配對每週活動。",
+    "我能用on與星期說明固定活動，分開通常安排和本週變動。",
+    "我能比較兩張表並用完整問答確認共同時間。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>觀察孩子是否能同時讀人、星期與時間範圍，是否保留usually與this week的差別。請先示範原版本，再用新版本測轉用；不能在新題先替孩子說出是否約好。曜日拼寫、閱讀證據和同意判斷分開評。實際口語以問活動、說固定安排、澄清本週變動三項作紀錄；不要求孩子公布自己的週間作息。</p>",
+  "selfCheck": [
+    "我能辨認七個星期名稱，配對每週活動。",
+    "我能用on與星期說明固定活動，分開通常安排和本週變動。",
+    "我能比較兩張表並用完整問答確認共同時間。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s1-english-01-s01",
+      "title": "七天不是七個時刻",
+      "childText": "先知道問的是哪一天。",
+      "html": "<p>詞庫：Monday星期一、Tuesday星期二、Wednesday星期三、Thursday星期四、Friday星期五、Saturday星期六、Sunday星期日。英文星期名稱首字母大寫；本頁為方便閱讀由Monday排到Sunday，這不表示所有月曆都必須從星期一開始。</p><p>活動詞庫：read books讀書、draw pictures畫圖、play chess下棋、play basketball打籃球、visit the library到圖書館。固定每週活動可說I play chess on Tuesdays.，此處Tuesdays表示每個星期二。問What do you do on Tuesdays?是在問活動；問What day is it?則是在問今天星期幾。今天是哪一天，不能靠一張每週表猜。</p>"
+    },
+    {
+      "id": "g5s1-english-01-s02",
+      "title": "完整雙人週表",
+      "childText": "空檔也要有明確定義。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構每週下午四點活動表\" tabindex=\"0\"><table><caption>原創角色Mia與Leo：每週16:00–16:30。free表示此時沒有排活動，不表示整天有空。</caption><thead><tr><th>Day</th><th>Mia</th><th>Leo</th></tr></thead><tbody><tr><th>Monday</th><td>read books</td><td>play chess</td></tr><tr><th>Tuesday</th><td>play chess</td><td>draw pictures</td></tr><tr><th>Wednesday</th><td>free</td><td>free</td></tr><tr><th>Thursday</th><td>draw pictures</td><td>play basketball</td></tr><tr><th>Friday</th><td>free</td><td>read books</td></tr><tr><th>Saturday</th><td>visit the library</td><td>free</td></tr><tr><th>Sunday</th><td>free</td><td>free</td></tr></tbody></table></div><p>窄螢幕可左右捲動；鍵盤按Tab進入表區，再用左右方向鍵。逐列同時看兩人的格子，不能只看到Mia的free就說兩人都有空。這是紙上資料，不是孩子的行程。</p>"
+    },
+    {
+      "id": "g5s1-english-01-s03",
+      "title": "完整澄清與同意",
+      "childText": "提議之後，要等明說的答覆。",
+      "html": "<div class=\"story\"><p>1 Leo: What do you do on Tuesdays?<br/>2 Mia: I play chess on Tuesdays.<br/>3 Leo: Are you free on Wednesday at four?<br/>4 Mia: Usually, yes. This Wednesday, I visit the library.<br/>5 Leo: How about Sunday at four?<br/>6 Mia: Yes. Let’s draw pictures on Sunday at four.<br/>7 Leo: OK. Sunday at four.</p></div><p>usually通常、this Wednesday這個星期三、How about…?……如何？成人先完整讀出七回合，再讓孩子用兩張紀錄卡「每週規律」「本週已確認」整理。第4句只改本週的星期三；第6、7句才共同確認星期日16:00畫圖。圖書館是否開門沒有資料，劇本只是虛構角色的計畫。</p>"
+    },
+    {
+      "id": "g5s1-english-01-s04",
+      "title": "一起做：跨表與對話查核",
+      "childText": "共同空檔必須符合三項條件。",
+      "html": "<p>先照每週表圈Wednesday、Sunday兩個共同free。接著看第4句，把本週Wednesday旁加註library；剩Sunday仍符合雙方原有空檔。最後抄第7句作確認證據，寫成「本週星期日16:00，一起畫圖」。不是把通常課表全部刪掉。</p><p>大紙卡可由成人準備Wednesday、Sunday、four、draw pictures、visit the library各一張，以及usually、this week各一張；可直接指本頁文字代替實物。孩子把本週改動放到this week下，不遮住通常表。一起讀I play chess on Tuesdays.，再用Mia says…中文引介角色，避免把虛構表冒充自己的真實安排。</p>"
+    },
+    {
+      "id": "g5s1-english-01-s05",
+      "title": "修復三個常見誤會",
+      "childText": "一筆變動不能擴大成永遠。",
+      "html": "<p>錯句「Mia每個星期三都去圖書館」把this Wednesday擴成每週。修成「本週星期三去；通常這半小時free」。錯句「Leo提Sunday就算約好了」漏看回覆；本頁因第6、7句都接受才確定。錯句「Friday是共同空檔」只看了一人，Leo在read books。</p><p>語言修復：I play chess at Tuesday.在本課日期語境改為on Tuesday；four是時刻，搭at four。Wednesday的書寫不能只按自己聽到的聲音刪字母；先分段觀察Wed／nes／day，再看完整單字核對，這是拼寫記憶分段，不是聲音分節的精確指令。</p>"
+    },
+    {
+      "id": "g5s1-english-01-s06",
+      "title": "獨立轉用：新的一週",
+      "childText": "先寫結論，再展開核對。",
+      "html": "<p>新資料保留原本每週表，但本週Mia的Wednesday仍為free，Leo的Wednesday改成read books；Mia和Leo的Sunday都free。新增對話：Mia: How about Sunday at four? Leo: Sorry, not this Sunday. Mia: How about next Wednesday? 對話到此停止。請寫兩件事：本週星期三是否共同有空？下一個星期三是否已經約定？各指出一筆證據，並提出一個需要再問的問題。</p><details><summary>完成後核對推理</summary><p>本週星期三不是共同空檔，因Leo有read books。下星期三只是Mia提議，Leo還沒回答，也未提供下週例外。可問Are you free next Wednesday at four?，須取得答覆才能記為確認。不能沿用原劇本的Sunday同意。</p></details>"
+    },
+    {
+      "id": "g5s1-english-01-s07",
+      "title": "留下有用的學習紀錄",
+      "childText": "讀對名稱，也要讀對範圍。",
+      "html": "<p>完成三格紀錄：「每週表說什麼／本週文字改什麼／雙方是否明說同意」。各格至少指出一個英文詞或回合號。可先用中文解釋，再用on Sunday at four說關鍵資訊；拼字或發音需要協助時，不因此抹去正確的資料推理。</p><p>成人先只給Monday、Wednesday、Sunday三列協助定位，再恢復全表。進階者換一個人的資料並檢查另一人的格子，不能任意添加未提供的空檔。真正聽辨時由合格教師讀第1–4句，孩子看不到文字後指出「通常／本週」；記錄有無重讀與字卡。讀表答對只能證明閱讀，不算已聽懂全部對話。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Prepositions of time",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-time",
+      "note": "2026-10-06直接核對。支持on加星期、at加時刻；本課課表、活動與對話均為原創。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s1-english-01-q01",
+      "question": "表中的free具體表示什麼？",
+      "options": [
+        "指定16:00–16:30沒排活動",
+        "整天都沒有任何事情",
+        "所有日子都能出門"
+      ],
+      "answer": 0,
+      "hint": "先讀表格的caption說明。",
+      "explanation": "free的範圍由表題限定為指定半小時，不能擴張成全天或每一天。"
+    },
+    {
+      "id": "g5s1-english-01-q02",
+      "question": "Mia固定每週二做什麼？",
+      "options": [
+        "play chess",
+        "read books",
+        "draw pictures"
+      ],
+      "answer": 0,
+      "hint": "沿Tuesday那列找Mia欄。",
+      "explanation": "Tuesday與Mia交會是play chess，不能讀到同列Leo的draw pictures。"
+    },
+    {
+      "id": "g5s1-english-01-q03",
+      "question": "原本每週表中，兩人共同free的是？",
+      "options": [
+        "Friday與Saturday",
+        "Wednesday與Sunday",
+        "Tuesday與Thursday"
+      ],
+      "answer": 1,
+      "hint": "每一列都要同時核對兩欄。",
+      "explanation": "Wednesday與Sunday的兩欄都free；其他列至少一人已有活動。"
+    },
+    {
+      "id": "g5s1-english-01-q04",
+      "question": "第4句造成哪個變動？",
+      "options": [
+        "每週日Leo都去圖書館",
+        "本週三Mia計畫去圖書館",
+        "Mia從此不下棋"
+      ],
+      "answer": 1,
+      "hint": "留意this Wednesday的範圍。",
+      "explanation": "this Wednesday只指這個星期三，不能推成所有星期或改動不相關活動。"
+    },
+    {
+      "id": "g5s1-english-01-q05",
+      "question": "原七回合最後共同確認哪個安排？",
+      "options": [
+        "Sunday at four畫圖",
+        "Wednesday at four下棋",
+        "Friday at four打球"
+      ],
+      "answer": 0,
+      "hint": "合起來看第6、7句。",
+      "explanation": "Mia提出星期日四點畫圖，Leo接著明說OK並重述日、時，構成確認。"
+    },
+    {
+      "id": "g5s1-english-01-q06",
+      "question": "哪個時間片語適合本課？",
+      "options": [
+        "at Tuesday on four",
+        "on four at Tuesday",
+        "on Tuesday at four"
+      ],
+      "answer": 2,
+      "hint": "星期與時刻要分開看。",
+      "explanation": "星期用on，時刻用at，兩種資料的介詞不能互換。"
+    },
+    {
+      "id": "g5s1-english-01-q07",
+      "question": "新資料中，下星期三的提議如何記錄？",
+      "options": [
+        "已約好且已完成",
+        "Leo已明確拒絕",
+        "尚待Leo答覆"
+      ],
+      "answer": 2,
+      "hint": "新對話在Mia提議處停止。",
+      "explanation": "沒有Leo的答覆，無法記成同意或拒絕，更無活動已完成的證據。"
+    },
+    {
+      "id": "g5s1-english-01-q08",
+      "question": "只看每週表可以知道今天星期幾嗎？",
+      "options": [
+        "可以，一定是Monday",
+        "不可以，缺少今天的日期或說明",
+        "可以，一定是Sunday"
+      ],
+      "answer": 1,
+      "hint": "這張表描述規律而非現在日期。",
+      "explanation": "表的排列起點不代表今天，固定每週活動資料不能提供目前日期。"
+    }
+  ]
+}
