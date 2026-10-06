@@ -26,10 +26,24 @@ for(const id of manifest.formIds){
  assert.ok(!/class="(?:response-space|observation-note|writing-boxes)"/.test(key));
  assert.ok(!/correctIndex|"answer":|teacherNotes/.test(student));
  for(const q of questions){
-  assert.ok(key.includes(esc(q.answer.value)),`${q.id} key missing`);
+  assert.ok(key.includes(esc(q.answer.value).replaceAll('\n','<br>')),`${q.id} key missing`);
   if(q.teacher)assert.ok(!student.includes(esc(q.teacher)),`${q.id} script leaked`);
+  if(q.routeTopicIds){
+   assert.ok(key.includes('兩條路徑擇一；只評已選語別。'));
+   assert.ok(!student.includes('route-coverage'));
+   for(const [route,label] of [['spoken','口語語別'],['sign','臺灣手語']]){
+    const group=`<span class="route-coverage">${label}：`+q.routeTopicIds[route].map(id=>`<a href="../lessons/${id}.html">${esc(courses.flatMap(c=>c.topics).find(t=>t.id===id).title)}</a>`).join('、')+'</span>';
+    assert.ok(key.includes(group),`${q.id}: ${route} coverage missing`);
+   }
+  }
   if(q.writingBoxes){boxes+=q.writingBoxes.length;for(const label of q.writingBoxes)assert.ok(student.includes(`${esc(label)}的書寫空格`));}
   if(['oral','listening','performance'].includes(q.kind))observed++;
+ }
+ if(manifest.verification?.pdfVerified?.[id]){
+  const pdf=manifest.verification.pdfVerified[id];
+  assert.ok(student.includes(`href="./${pdf.student.path}" download`));assert.ok(!student.includes(pdf.teacher.path));
+  assert.ok(key.includes(`href="./${pdf.teacher.path}" download`));assert.ok(!key.includes(pdf.student.path));
+  assert.ok(student.includes('瀏覽器網頁列印尚未驗證。')||Object.hasOwn(manifest.verification.browserPrintVerified||{},id));
  }
  const ids=[...student.matchAll(/\sid="([^"]+)"/g)].map(x=>x[1]);assert.equal(new Set(ids).size,ids.length);
 }
@@ -45,12 +59,17 @@ if(manifest.formIds.length){
   await cp(path.join(root,'data'),path.join(tmp,'data'),{recursive:true});
   await mkdir(path.join(tmp,'scripts'),{recursive:true});await mkdir(path.join(tmp,'exams'),{recursive:true});
   await cp(path.join(root,'scripts/build-exams.mjs'),path.join(tmp,'scripts/build-exams.mjs'));
+  if(Object.keys(manifest.verification?.pdfVerified||{}).length)await cp(path.join(root,'exams/pdf'),path.join(tmp,'exams/pdf'),{recursive:true});
   let r=spawnSync(process.execPath,[path.join(tmp,'scripts/build-exams.mjs')],{encoding:'utf8'});assert.equal(r.status,0,r.stderr);
   const id=manifest.formIds[0],file=path.join(tmp,'data/exams',`${id}.json`),paper=path.join(tmp,'exams',`${id}.html`);
   const before=await readFile(paper);const d=JSON.parse(await readFile(file,'utf8'));d.title+=' MUTATED';let bytes=JSON.stringify(d,null,2)+'\n';await writeFile(file,bytes);
   r=spawnSync(process.execPath,[path.join(tmp,'scripts/build-exams.mjs')],{encoding:'utf8'});assert.notEqual(r.status,0);assert.match(r.stderr,/source differs/);assert.deepEqual(await readFile(paper),before);
   d.sections[0].items[0].points+=1;bytes=JSON.stringify(d,null,2)+'\n';await writeFile(file,bytes);
-  const m=structuredClone(manifest);m.sourceHashes[id]=createHash('sha256').update(bytes).digest('hex');await writeFile(path.join(tmp,'data/exams.json'),JSON.stringify(m));
+  const m=structuredClone(manifest);m.sourceHashes[id]=createHash('sha256').update(bytes).digest('hex');
+  // Keep this synthetic score-mutation fixture internally hash-consistent, so
+  // the numeric gate is tested rather than stopping at stale-evidence checks.
+  for(const kind of ['htmlVerified','pdfVerified','browserPrintVerified'])if(m.verification?.[kind]?.[id])m.verification[kind][id].sourceSha256=m.sourceHashes[id];
+  await writeFile(path.join(tmp,'data/exams.json'),JSON.stringify(m));
   r=spawnSync(process.execPath,[path.join(tmp,'scripts/build-exams.mjs')],{encoding:'utf8'});assert.notEqual(r.status,0);assert.match(r.stderr,/score|rubric|blueprint/);assert.deepEqual(await readFile(paper),before);
  }finally{await rm(tmp,{recursive:true,force:true});}
 }
