@@ -1,0 +1,189 @@
+{
+  "id": "g5s2-english-01",
+  "course": "英語文",
+  "title": "身體部位與不適描述",
+  "subtitle": "用部位名稱和完整自述句表達不適，分清語言訊息與診斷",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "用部位名稱和完整自述句表達不適，分清語言訊息與診斷。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能在紙上示意中辨認五個身體部位名稱。",
+    "我能依角色卡分辨My hand hurts.與My feet hurt.的單複數。",
+    "我能重述角色明說的不適與需求，不猜病因或強迫真人揭露。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>本課身體圖僅供詞義，不畫傷口、疼痛表情或暗示診斷；教師不能讓學生互摸、互檢或演出疼痛。每張角色卡都有需求，先理解求助再做語法練習；任何真實不適立即停止。分清I’ll的承諾與明寫通知動作，不能憑一句話宣稱成人已到。書面單複數表現和實際真人口語觀察分開記錄，拒絕表演不扣分。</p>",
+  "selfCheck": [
+    "我能在紙上示意中辨認五個身體部位名稱。",
+    "我能依角色卡分辨My hand hurts.與My feet hurt.的單複數。",
+    "我能重述角色明說的不適與需求，不猜病因或強迫真人揭露。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-01-s01",
+      "title": "先把語言練習與真實身體分開",
+      "childText": "不需要真的疼痛，才能學會求助。",
+      "html": "<p>本課全部不適情境是虛構角色卡，只學如何表達與求助，不教診斷、治療、用藥或檢查身體。不需要模仿受傷動作、不用碰壓身體或展示私密部位。如果練習中真的不舒服，活動立即停止，用任何語言告訴可信任成人，必要時由專業人員協助，不必先把英文說對。</p><p>詞庫：head頭、arm手臂、hand手、leg腿、foot腳；feet是foot的複數。hurt在本課指疼痛。My hand hurts.是我的手痛；My feet hurt.是我的腳痛；feet在此是複數，仍不能只靠圖猜哪一處或痛因。單數部位配hurts，複數feet配hurt。</p>"
+    },
+    {
+      "id": "g5s2-english-01-s02",
+      "title": "完整紙上部位圖",
+      "childText": "標示能幫認詞，不能看出疼痛。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 330\" role=\"img\" aria-labelledby=\"g5s2-english-01-body\"><title id=\"g5s2-english-01-body\">原創穿衣人形示意，標示head頭、arm手臂、hand手、leg腿、foot腳。線段指示名稱位置，沒有紅腫、傷口或疼痛表情，不能由圖診斷不適。</title><g stroke=\"#3a5266\" stroke-width=\"3\"><circle cx=\"180\" cy=\"52\" r=\"28\" fill=\"#e4c8a6\"/><path d=\"M151 91H209L228 170H132Z\" fill=\"#6dabb8\"/><path d=\"M151 99L122 163M209 99L238 163\" fill=\"none\" stroke-width=\"15\"/><circle cx=\"119\" cy=\"174\" r=\"11\" fill=\"#e4c8a6\"/><circle cx=\"241\" cy=\"174\" r=\"11\" fill=\"#e4c8a6\"/><path d=\"M159 173L156 275M201 173L204 275\" stroke=\"#557292\" stroke-width=\"25\"/><path d=\"M156 279H131M204 279H229\" stroke=\"#394c61\" stroke-width=\"15\"/></g><g stroke=\"#936037\" stroke-width=\"2\"><path d=\"M89 52H148M60 120H128M283 174H254M68 235H141M283 279H239\"/></g><g font-size=\"21\" fill=\"#162c3c\"><text x=\"27\" y=\"59\">head</text><text x=\"15\" y=\"126\">arm</text><text x=\"285\" y=\"181\">hand</text><text x=\"27\" y=\"242\">leg</text><text x=\"285\" y=\"286\">foot</text></g></svg><figcaption>圖只提供五個部位名稱，沒有呈現某人疼痛；可以只指紙上的標籤，不碰自己或他人的身體。</figcaption></figure><p>成人逐詞自然讀head、arm、hand、leg、foot，孩子只指圖中文字或線段終點；不要求指自己身體。圖上沒有症狀標記，因此看到head標籤不能說人物頭痛。若視覺辨認不便，完整文字替代為「head頭；arm手臂；hand手；leg腿；foot腳」，讓孩子配英中文卡即可。</p>"
+    },
+    {
+      "id": "g5s2-english-01-s03",
+      "title": "完整三張角色卡",
+      "childText": "部位、數量和需求各有一項資料。",
+      "html": "<div class=\"story\"><p>卡A，虛構角色Sam：My hand hurts. I need help.<br/>卡B，虛構角色Lee：My feet hurt. I want to stop.<br/>卡C，虛構角色Kim：My head hurts. Please get an adult.</p></div><p>need help需要幫助、want to stop想停止、get an adult找一位成人。卡A沒說左手或右手，卡B沒說為什麼痛，卡C沒提供病名。先找明文，空白項目寫「不知道」。用卡不要求孩子說自己症狀，也不把某張卡固定分給有障礙或受傷經驗的人。</p><p>成人可抄A、B、C三張大卡，另抄hand、feet、head及help、stop、adult各一張詞卡，逐張配對；若不做卡片，直接以手指正文或用字母A／B／C回覆即可。</p>"
+    },
+    {
+      "id": "g5s2-english-01-s04",
+      "title": "完整確認對話",
+      "childText": "同伴需要聽清楚，不是替人看病。",
+      "html": "<div class=\"story\"><p>1 Sam: My hand hurts. I need help.<br/>2 Friend: Your arm?<br/>3 Sam: No, my hand.<br/>4 Friend: Your hand hurts. I’ll get an adult.<br/>5 Sam: Thank you.<br/>劇本記錄：Friend告訴身旁的Teacher，Teacher接著說：I’m here to help.</p></div><p>這段有明寫同伴通知成人的動作，以及成人回覆，才可說求助已轉達；第4句單獨只是將要做。文中沒有檢查、藥物或治療結果，不可寫「已治好」。教師先讀完整腳本，孩子用hand卡澄清arm的誤會；不按揉任何人的手臂或要求露出真實傷口。</p>"
+    },
+    {
+      "id": "g5s2-english-01-s05",
+      "title": "一起改句，保留意思",
+      "childText": "換單複數時，動詞也要跟著檢查。",
+      "html": "<p>成人示範由My hand hurts.換為My feet hurt.。第一步依卡改hand為feet，第二步因feet是複數，把hurts改hurt，第三步讀完整句並配卡B的I want to stop.。這不是說一個人哪裡痛就能猜哪種病，只是在指定文字中維持語法與意思。</p><p>誤句My feet hurts.少了主詞數量的核對；誤句My head hurt.若本課要表達現在的單數不適，改為My head hurts.。hurt也能出現在其他時態和其他意思，本課不拿這個單一模型判定所有句子。更正時先尊重角色求助，不能因語法沒修好而拒絕幫忙。</p>"
+    },
+    {
+      "id": "g5s2-english-01-s06",
+      "title": "自己試：新卡中的訊息",
+      "childText": "說完整，也要承認不知道。",
+      "html": "<p>新卡D完整文字：My leg hurts. I want to stop. Please get an adult. 同伴誤問Your head?。請依新卡續寫角色的澄清句、同伴的求助承諾，並填「已知部位／需求／未知原因」。最後判斷：如果只寫I’ll get an adult.而沒有後續記錄，是否能說成人已到場？</p><details><summary>完成後核對模型</summary><p>角色：No, my leg. 同伴：I’ll get an adult. 已知leg痛、想停止並請找成人；原因未知。只有承諾不等於已通知或成人已到。可用指leg卡或任何有效語言表達，不必完整背出英句才得到協助。</p></details>"
+    },
+    {
+      "id": "g5s2-english-01-s07",
+      "title": "成人觀察與停止權",
+      "childText": "部位知識不等於健康診斷。",
+      "html": "<p>評量分成「詞義配對／單複數句形／澄清部位／辨別承諾與已轉達」。需要較多支持的孩子用兩張詞卡選擇，不問真實症狀；進階者比較卡A和新D哪些欄位改變，哪些仍不知道。成人只記虛構卡號和所用支持，不留下兒童私人健康紀錄、照片或錄音。</p><p>合格教師須能示範所有部位詞和完整句，才做聽辨與口語觀察。成人實際讀Sam腳本後，孩子指hand，記為有部位卡支持的辨識；只有看句配卡，不記為聽力。孩子可跳過身體主題的表演、選書寫或由成人代讀。若出現真實不適，先停止練習並取得成人協助，不繼續測驗或讓同伴診斷。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Body flashcards",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-body.pdf",
+      "note": "2026-10-06直接核對。直接核對三頁PDF的身體部位詞形；原圖為本課自繪，不挪用來源圖卡。"
+    },
+    {
+      "title": "Cambridge Dictionary｜hurt",
+      "url": "https://dictionary.cambridge.org/dictionary/english/hurt",
+      "note": "2026-10-06官方搜尋索引核對hurt的疼痛詞義與My head hurts類用法；直接頁面未取回，沒有音訊驗聽。本課只作語言表達，不作醫療判斷。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-01-q01",
+      "question": "部位圖本身能確定什麼？",
+      "options": [
+        "head等標籤所指的位置",
+        "人物一定頭痛",
+        "人物已經服藥"
+      ],
+      "answer": 0,
+      "hint": "圖說限定沒有症狀標記。",
+      "explanation": "圖提供部位詞與位置，沒有不適或用藥證據，所以不能從標籤推斷病況。"
+    },
+    {
+      "id": "g5s2-english-01-q02",
+      "question": "卡B明說哪個部位不適？",
+      "options": [
+        "hand",
+        "head",
+        "feet"
+      ],
+      "answer": 2,
+      "hint": "逐字讀卡B第一句。",
+      "explanation": "卡B寫My feet hurt.，feet是foot複數，不能換成其他卡的部位。"
+    },
+    {
+      "id": "g5s2-english-01-q03",
+      "question": "哪句符合本課現在單數手痛？",
+      "options": [
+        "My hand hurts.",
+        "My hand hurt.",
+        "My hands hurts."
+      ],
+      "answer": 0,
+      "hint": "本題限定hand單數與現在。",
+      "explanation": "hand為單數，在此現在式不適句用hurts；不要和feet的複數句混淆。"
+    },
+    {
+      "id": "g5s2-english-01-q04",
+      "question": "Friend說Your arm?後，Sam更正什麼？",
+      "options": [
+        "人名，改為Kim",
+        "部位，改為hand",
+        "病名，改為感冒"
+      ],
+      "answer": 1,
+      "hint": "看No後面保留的名詞。",
+      "explanation": "Sam明說No, my hand.是在澄清部位，不是診斷病因或變更人名。"
+    },
+    {
+      "id": "g5s2-english-01-q05",
+      "question": "原腳本何處能證明成人已獲通知？",
+      "options": [
+        "只有I’ll get an adult.",
+        "圖中的head標籤",
+        "明寫Friend告訴Teacher且Teacher回覆"
+      ],
+      "answer": 2,
+      "hint": "承諾後還有額外動作記錄。",
+      "explanation": "正文另記通知動作及成人回覆，這才超出單純未來承諾的證據。"
+    },
+    {
+      "id": "g5s2-english-01-q06",
+      "question": "新D應如何澄清Your head?？",
+      "options": [
+        "Yes, my head.",
+        "No, my leg.",
+        "No, my feet."
+      ],
+      "answer": 1,
+      "hint": "按新D的部位，不沿用舊卡。",
+      "explanation": "新D明寫My leg hurts.，因此要更正為leg，不能沿用其他角色的部位。"
+    },
+    {
+      "id": "g5s2-english-01-q07",
+      "question": "本課能由卡C判定頭痛原因嗎？",
+      "options": [
+        "不能，卡未供應病因",
+        "能，一定是某種疾病",
+        "能，只看圖就足夠"
+      ],
+      "answer": 0,
+      "hint": "詞句描述不等於診斷。",
+      "explanation": "卡C只表達部位不適和找成人需求，沒有足夠資訊診斷原因或治療。"
+    },
+    {
+      "id": "g5s2-english-01-q08",
+      "question": "練習時真實不舒服，應怎麼辦？",
+      "options": [
+        "先完成英語測驗才准求助",
+        "停止活動，用任何有效方式找成人協助",
+        "讓同伴按壓疼痛部位確認"
+      ],
+      "answer": 1,
+      "hint": "求助不以英文正確為條件。",
+      "explanation": "本課安全界線要求停止練習並告知可信任成人，不延誤協助或進行同伴身體檢查。"
+    }
+  ]
+}

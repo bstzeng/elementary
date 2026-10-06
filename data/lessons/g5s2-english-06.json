@@ -1,0 +1,214 @@
+{
+  "id": "g5s2-english-06",
+  "course": "英語文",
+  "title": "常見子音組合的拼讀",
+  "subtitle": "比較sh、ch與st、sl，依完整詞義拼讀而不把所有子音組合合成一音",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "比較sh、ch與st、sl，依完整詞義拼讀而不把所有子音組合合成一音。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能說明本課sh／ch與st／sl在聲音分組上的差別。",
+    "我能依指定詞義比較一個改動，並用完整字卡拼詞。",
+    "我能分開文字分組和真正聽辨，遇到未教組合不亂套規則。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>課前核對ship／chip／stop／slip與新shop／fish全詞，不只會念sh或字母名。九張大卡足夠每次一詞且收回重用，已供f；ship三格與slip四格實際示意需跟朗讀模型一致。文本用digraph和相鄰子音區分，不把工具印在一格的st誤當一音。全程避開滑倒表演與真食物，聽說必須有真人模型。</p>",
+  "selfCheck": [
+    "我能說明本課sh／ch與st／sl在聲音分組上的差別。",
+    "我能依指定詞義比較一個改動，並用完整字卡拼詞。",
+    "我能分開文字分組和真正聽辨，遇到未教組合不亂套規則。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-06-s01",
+      "title": "兩個相鄰子音有不同工作",
+      "childText": "看見兩個字母，不必然聽見兩個音。",
+      "html": "<p>本課美式模型中，ship的sh和chip的ch各共同表示一個子音聲音；stop的st、slip的sl則保留兩個子音聲音。前者常稱digraph，後者是consonant cluster。孩子不必背術語，先理解「一起代表一音」與「相鄰但仍有兩音」。這不是說所有h前的字母都能套同一規則。</p><p>完整核心詞義與語境：ship船，本課指水上大型船隻，以中英文文字卡練習；chip洋芋片，採美式食物詞義，也以中英文文字卡練習；stop停止，指停止畫圖的口頭指令；slip小紙片，完整語境a slip of paper。slip也有別的意思，本課不演滑倒；chip也有其他用法，不能只憑一個詞推定正在吃東西。</p>"
+    },
+    {
+      "id": "g5s2-english-06-s02",
+      "title": "完整真人示範順序",
+      "childText": "詞音、分音與字母名稱分開。",
+      "html": "<p>教師參考完整模型：ship /ʃɪp/，chip /tʃɪp/，stop /stɑːp/，slip /slɪp/。先按「ship船；chip洋芋片；stop停止；slip小紙片」自然讀完整詞，再示範ship分/ʃ/、/ɪ/、/p/；slip分/s/、/l/、/ɪ/、/p/。音標是教師查核用，不要求孩子先懂音標。</p><p>分音時不能插入額外母音，把stop變成更多音節，也不能把s與l當成同一個新音。停止音不必硬拖長，教師先做自然可連接的模型，再合成整詞。此頁沒有錄音，未驗聽影片；若沒有合格示範者，先學字形和詞義，聽辨和口語明確保留待教。</p>"
+    },
+    {
+      "id": "g5s2-english-06-s03",
+      "title": "看聲音分組的實際圖",
+      "childText": "四個字母不一定都各占一格。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 200\" role=\"img\" aria-labelledby=\"g5s2-english-06-groups\"><title id=\"g5s2-english-06-groups\">原創聲音分組：ship分sh、i、p三格；slip分s、l、i、p四格。兩個詞各有四個字母，格子表示本課模型的聲音單位，不是錄音。</title><g stroke=\"#3c5569\" stroke-width=\"2\" fill=\"#edf2f6\"><rect x=\"20\" y=\"35\" width=\"95\" height=\"50\" fill=\"#f6e7ad\"/><rect x=\"132\" y=\"35\" width=\"95\" height=\"50\"/><rect x=\"244\" y=\"35\" width=\"95\" height=\"50\"/><rect x=\"20\" y=\"132\" width=\"65\" height=\"50\"/><rect x=\"105\" y=\"132\" width=\"65\" height=\"50\"/><rect x=\"190\" y=\"132\" width=\"65\" height=\"50\"/><rect x=\"275\" y=\"132\" width=\"65\" height=\"50\"/></g><g font-size=\"27\" text-anchor=\"middle\" fill=\"#16354b\"><text x=\"68\" y=\"69\">sh</text><text x=\"180\" y=\"69\">i</text><text x=\"291\" y=\"69\">p</text><text x=\"53\" y=\"168\">s</text><text x=\"138\" y=\"168\">l</text><text x=\"223\" y=\"168\">i</text><text x=\"308\" y=\"168\">p</text></g><text x=\"20\" y=\"25\" font-size=\"18\">ship</text><text x=\"20\" y=\"122\" font-size=\"18\">slip</text></svg><figcaption>sh合在一格；sl的s與l分兩格。兩詞同樣四個字母，但本課聲音單位數不同。</figcaption></figure><p>一起數印刷字母：ship是s、h、i、p，slip是s、l、i、p，兩個都有四個字母。再依指定模型數聲音格：ship三格，slip四格。不是字母h消失，而是sh兩字母在這個詞一起表示一個音。圖中格子沒有真正發聲，答對格數仍屬文字概念理解。</p>"
+    },
+    {
+      "id": "g5s2-english-06-s04",
+      "title": "完整字卡操作與引導比較",
+      "childText": "每次一個詞，收回後重排。",
+      "html": "<p>準備大字母卡c、h、i、l、o、p、s、t、f各一張，另畫三格與四格聲音框各一張。每次只排一個詞，排完全部收回，故不需要同時複製多套字母。成人說「排ship，將s與h一起放第一格；讀完整詞並配船卡」。接著收回，排slip，把s與l分放前兩格，再比較意思是小紙片。</p><p>船卡、洋芋片卡、停止卡、小紙片卡可由成人在大紙上各寫中文和英文，不必另找照片或真食物。一起把ship改chip，只換s為c，h、i、p仍保留；sh與ch的整個子音聲音改了，不只是把字母名稱s換c來朗讀。孩子先指出改哪張卡，再說是哪個詞義。</p>"
+    },
+    {
+      "id": "g5s2-english-06-s05",
+      "title": "修復：常見不是永遠",
+      "childText": "不要用一個新規則蓋過完整單字。",
+      "html": "<p>錯說「sh有兩個字母，所以一定兩個聲音」應回到ship的三格模型；錯說「st也放一格就夠」則忽略stop的/s/和/t/。本課只練上述詞中的組合，不能宣稱每個ch、每個相鄰子音永遠如此。新詞先找可靠整詞模型與語境，而不是猜任何陌生字。</p><p>若孩子把slip寫成sip，漏掉的l改變詞形和詞音，先看四格的第二格，再補回l；不把「口音不同」一概當作錯誤。教師觀察的是目標詞是否可理解、關鍵對比是否保留，不要求用力或誇張嘴形，也不以中文諧音或合成聲音代替精確英語模型。</p>"
+    },
+    {
+      "id": "g5s2-english-06-s06",
+      "title": "獨立轉用：shop和fish",
+      "childText": "先找組合，答案留到完成後。",
+      "html": "<p>完整新詞與意思：shop商店、fish魚。教師先自然讀兩詞並配中文，孩子各圈sh、依本課模型分聲音格，說sh出現在開頭還是結尾。再比較shop與stop，找出字形哪一處不同、聲音格數是否相同。材料仍用原九張字母卡，每詞收回重排，沒有缺f或t。</p><details><summary>完成後核對</summary><p>shop為sh／o／p三格，sh在開頭；fish為f／i／sh三格，sh在結尾。shop與stop只有第二個字母h／t不同，但shop的sh共同一音，stop的s／t分兩音，故stop四格。這是本課指定美式模型，不由格子圖冒充已聽到聲音。</p></details>"
+    },
+    {
+      "id": "g5s2-english-06-s07",
+      "title": "真實可觀察的評量",
+      "childText": "先記用什麼支持，再記學會什麼。",
+      "html": "<p>成人依ship、slip、chip、stop固定順序示範一回，孩子看字與意思；第二回換成stop、ship、slip、chip但收起整詞，讓孩子選字卡或拼字，記錄重讀與提示。新shop、fish再作轉用，不能先把三格答案畫好才說是獨立分音。完全無模型時僅交文字分類成果。</p><p>需要較多支持的孩子先比較ship／slip，進階者說明為何兩個四字母詞格數不同。詞義、字形、聲音單位與口語產出各自記錄，成人代寫或卡片提示也要註明。全程紙上、坐姿或指認均可，不要求滑倒、停止呼吸、品嘗或接觸真船等身體活動。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "UFLI｜Phoneme-Grapheme Correspondences",
+      "url": "https://ufli.education.ufl.edu/resources/teaching-resources/instructional-activities/phoneme-grapheme-correspondences/",
+      "note": "2026-10-06直接核對。直接核對digraph兩子音字母表示一個音、consonant cluster保留各音的區分；未播放示範影片。"
+    },
+    {
+      "title": "UFLI｜Digital Resources",
+      "url": "https://ufli.education.ufl.edu/foundations/apps/",
+      "note": "2026-10-06直接核對。直接核對相鄰子音在教學中保留分開音素，不因工具把它們印在一張卡就當單一音；本課不使用線上工具或AI語音。"
+    },
+    {
+      "title": "Cambridge Dictionary｜ship",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/ship",
+      "note": "2026-10-06官方索引核對美式/ʃɪp/與船義；未驗聽。"
+    },
+    {
+      "title": "Cambridge Dictionary｜chip",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/chip",
+      "note": "2026-10-06官方索引核對/tʃɪp/及美式薄洋芋片義；未驗聽，不要求食用。"
+    },
+    {
+      "title": "Cambridge Dictionary｜slip",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/slip",
+      "note": "2026-10-06官方索引核對/slɪp/與紙片義；本課提供語境避免混成滑倒。"
+    },
+    {
+      "title": "Cambridge Dictionary｜stop",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/stop",
+      "note": "2026-10-06官方索引核對美式/stɑːp/及停止義；未驗聽。"
+    },
+    {
+      "title": "UFLI｜45 Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/45_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-06直接讀取唯一實體頁（索引0），核對ship、shop及fish的sh模式；不搬用來源句子或詞鏈。"
+    },
+    {
+      "title": "UFLI｜48 Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/48_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-06直接讀取唯一實體頁（索引0），核對chip的ch模式；與相鄰子音st／sl作本課原創比較。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-06-q01",
+      "question": "本課ship的sh表示幾個子音聲音？",
+      "options": [
+        "1個",
+        "2個",
+        "0個"
+      ],
+      "answer": 0,
+      "hint": "看第一格把哪些字母放在一起。",
+      "explanation": "本課模型把sh兩字母合成一個子音聲音，整個ship因此分三格。"
+    },
+    {
+      "id": "g5s2-english-06-q02",
+      "question": "slip在本課的意思是？",
+      "options": [
+        "必須真的滑倒一次",
+        "洋芋片",
+        "一小片紙"
+      ],
+      "answer": 2,
+      "hint": "讀a slip of paper語境。",
+      "explanation": "正文特別供應紙片語境，不能把另一個滑倒義套進本課任務。"
+    },
+    {
+      "id": "g5s2-english-06-q03",
+      "question": "ship與slip各有幾個字母？",
+      "options": [
+        "ship3個、slip4個",
+        "都3個",
+        "都4個"
+      ],
+      "answer": 2,
+      "hint": "數字母，而不是聲音格。",
+      "explanation": "兩詞均由四個字母寫成；聲音分組數不同不會刪掉字母。"
+    },
+    {
+      "id": "g5s2-english-06-q04",
+      "question": "本課stop的st如何分組？",
+      "options": [
+        "永遠是一個新子音",
+        "s與t保留兩個子音聲音",
+        "t沒有任何作用"
+      ],
+      "answer": 1,
+      "hint": "參考相鄰子音與digraph區別。",
+      "explanation": "stop的st是相鄰子音，指定模型保留/s/與/t/，不能仿照sh合一格。"
+    },
+    {
+      "id": "g5s2-english-06-q05",
+      "question": "從ship改chip要換哪張字母卡？",
+      "options": [
+        "s換c",
+        "i換o",
+        "p換f"
+      ],
+      "answer": 0,
+      "hint": "逐個比較完整拼字。",
+      "explanation": "ship與chip的h-i-p相同，首字母s改c後形成ch組合與新詞義。"
+    },
+    {
+      "id": "g5s2-english-06-q06",
+      "question": "新fish中的sh在哪裡？",
+      "options": [
+        "詞首",
+        "詞尾",
+        "完全沒有sh"
+      ],
+      "answer": 1,
+      "hint": "由左至右讀f-i-s-h。",
+      "explanation": "fish末兩字母是s與h，這個sh在詞尾並共同表示本課的一個子音。"
+    },
+    {
+      "id": "g5s2-english-06-q07",
+      "question": "shop和stop的聲音格數是？",
+      "options": [
+        "兩者都4格",
+        "shop3格，stop4格",
+        "shop4格，stop3格"
+      ],
+      "answer": 1,
+      "hint": "h與t改動影響組合分法。",
+      "explanation": "shop的sh合一格，stop的s和t分兩格，所以即使字母數相同，聲音格數不同。"
+    },
+    {
+      "id": "g5s2-english-06-q08",
+      "question": "沒聽真人模型，只圈對sh，可證明什麼？",
+      "options": [
+        "字形辨識，不是已通過聽辨",
+        "所有組合的發音都正確",
+        "已聽完來源影片"
+      ],
+      "answer": 0,
+      "hint": "本頁沒有播放音訊。",
+      "explanation": "圈字只證明認得印刷組合，真正聽辨和口語還需合格成人示範並實際觀察。"
+    }
+  ]
+}

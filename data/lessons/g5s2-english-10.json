@@ -1,0 +1,184 @@
+{
+  "id": "g5s2-english-10",
+  "course": "英語文",
+  "title": "圖表線索與訊息推測",
+  "subtitle": "用圖表和文字限制形成合理推測，區分最多、過半與原因",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "用圖表和文字限制形成合理推測，區分最多、過半與原因。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能讀圖例、單位、總人數與活動數量。",
+    "我能合併兩天表格和說明，比較變化而不推測個別身份。",
+    "我能分清直接資料、合理推測與證據不足的因果或預測。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>圖表有明確分母、每人單選、同群兩次及相同可選條件；不要讓孩子替無個別紀錄的資料配名字。原Tuesday8/6/4、Thursday5/4/9各合18；games多5，reading少3/drawing少2。新12人5/5/2有平手而無過半。逐項評數值、比較語句與推論邊界，不用天氣敘述偷渡因果。</p>",
+  "selfCheck": [
+    "我能讀圖例、單位、總人數與活動數量。",
+    "我能合併兩天表格和說明，比較變化而不推測個別身份。",
+    "我能分清直接資料、合理推測與證據不足的因果或預測。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-10-s01",
+      "title": "先讀標題、單位與調查方式",
+      "childText": "長條較長，只表示這個數量較多。",
+      "html": "<p>本課資料完全虛構，沒有向兒童蒐集活動偏好。場景：同一個18人班級，在Tuesday和Thursday各選一次「這次30分鐘想做的活動」；每人每天恰選一項，三項都可選，沒有缺席或漏答。這些條件讓每天三數可相加為18；若可複選就不能把票數直接當人數。</p><p>詞庫：reading閱讀、drawing畫圖、games遊戲、students學生、choose選擇、more較多、fewer較少、most最多、half一半、because因為。圖上最多不一定超過一半；更不能直接說那一項最好、最健康或所有孩子都愛。先限定「這一班、這一次、這三個選項」。</p>"
+    },
+    {
+      "id": "g5s2-english-10-s02",
+      "title": "實際長條圖與完整替代文字",
+      "childText": "不用看顏色也能讀數量。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 245\" role=\"img\" aria-labelledby=\"g5s2-english-10-chart\"><title id=\"g5s2-english-10-chart\">原創虛構星期二活動選擇圖：Reading8人、Drawing6人、Games4人。橫軸每一小格1人，總共18人且每人只選一項。</title><rect x=\"1\" y=\"1\" width=\"358\" height=\"243\" fill=\"#fff\" stroke=\"#9aabb6\"/><text x=\"15\" y=\"30\" font-size=\"21\" fill=\"#213e53\">Tuesday: 18 students</text><line x1=\"125\" y1=\"49\" x2=\"125\" y2=\"195\" stroke=\"#d1dce2\"/><text x=\"125\" y=\"215\" text-anchor=\"middle\" font-size=\"16\">0</text><line x1=\"147\" y1=\"49\" x2=\"147\" y2=\"195\" stroke=\"#d1dce2\"/><line x1=\"169\" y1=\"49\" x2=\"169\" y2=\"195\" stroke=\"#d1dce2\"/><text x=\"169\" y=\"215\" text-anchor=\"middle\" font-size=\"16\">2</text><line x1=\"191\" y1=\"49\" x2=\"191\" y2=\"195\" stroke=\"#d1dce2\"/><line x1=\"213\" y1=\"49\" x2=\"213\" y2=\"195\" stroke=\"#d1dce2\"/><text x=\"213\" y=\"215\" text-anchor=\"middle\" font-size=\"16\">4</text><line x1=\"235\" y1=\"49\" x2=\"235\" y2=\"195\" stroke=\"#d1dce2\"/><line x1=\"257\" y1=\"49\" x2=\"257\" y2=\"195\" stroke=\"#d1dce2\"/><text x=\"257\" y=\"215\" text-anchor=\"middle\" font-size=\"16\">6</text><line x1=\"279\" y1=\"49\" x2=\"279\" y2=\"195\" stroke=\"#d1dce2\"/><line x1=\"301\" y1=\"49\" x2=\"301\" y2=\"195\" stroke=\"#d1dce2\"/><text x=\"301\" y=\"215\" text-anchor=\"middle\" font-size=\"16\">8</text><line x1=\"323\" y1=\"49\" x2=\"323\" y2=\"195\" stroke=\"#d1dce2\"/><text x=\"13\" y=\"85\" font-size=\"20\">Reading</text><rect x=\"125\" y=\"65\" width=\"176\" height=\"28\" fill=\"#418a9c\"/><text x=\"308\" y=\"86\" font-size=\"18\">8</text><text x=\"13\" y=\"135\" font-size=\"20\">Drawing</text><rect x=\"125\" y=\"115\" width=\"132\" height=\"28\" fill=\"#9b723a\"/><text x=\"264\" y=\"136\" font-size=\"18\">6</text><text x=\"13\" y=\"185\" font-size=\"20\">Games</text><rect x=\"125\" y=\"165\" width=\"88\" height=\"28\" fill=\"#8461a5\"/><text x=\"220\" y=\"186\" font-size=\"18\">4</text><text x=\"190\" y=\"236\" text-anchor=\"middle\" font-size=\"15\">1 small step = 1 student</text></svg><figcaption>星期二：閱讀8、畫圖6、遊戲4，共18人；每人一票。顏色只用來區別活動，沒有健康或能力排名。</figcaption></figure><p>文字替代：Tuesday reading8、drawing6、games4，每小格1人。所有長條從0開始，末端標出精確數值，閱讀8大於畫圖6也大於遊戲4。18的一半是9，所以8雖最多，仍未過半。成人先示範沿橫軸對齊讀一條，再讓孩子讀其餘兩條，不用拿尺估圖上印刷公分。</p>"
+    },
+    {
+      "id": "g5s2-english-10-s03",
+      "title": "第二天表格與文字說明",
+      "childText": "天氣資料不自動變成原因。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"同一虛構班級兩天的活動選擇\" tabindex=\"0\"><table><caption>同一18人班級，每人每天一項；選項均開放。</caption><thead><tr><th>Day</th><th>Reading</th><th>Drawing</th><th>Games</th></tr></thead><tbody><tr><th>Tuesday</th><td>8</td><td>6</td><td>4</td></tr><tr><th>Thursday</th><td>5</td><td>4</td><td>9</td></tr></tbody></table></div><p>另附完整文字：<span lang=\"en\">Tuesday is rainy. Thursday is sunny. All three activities are indoors. We do not ask why each student chooses an activity.</span> 中文：週二下雨、週四晴；三活動都在室內；沒有詢問每人選擇原因。Tab移入表區後可用方向鍵捲動。天氣和選擇恰在兩天不同，仍不能證明陽光造成更多人選games。</p>"
+    },
+    {
+      "id": "g5s2-english-10-s04",
+      "title": "一起形成有根據的比較",
+      "childText": "能算變化，不一定能認出換選的人。",
+      "html": "<p>成人示範games從4到9，增加5人；reading從8到5，減少3人；drawing從6到4，減少2人，增減總合為0。英文模型：More students choose games on Thursday.／Fewer students choose reading on Thursday.，都要保留比較日期，不能只說more而不知跟哪次比。</p><p>可合理知道至少有人改選，因三類數量不完全相同；但沒有個別紀錄，不能說「原本閱讀的那三人全改遊戲」或指出誰改選。準備Tuesday／Thursday各一張卡與三個活動名各一張，依表寫數值即可，不用建立真實兒童名單。</p>"
+    },
+    {
+      "id": "g5s2-english-10-s05",
+      "title": "完整討論與修復",
+      "childText": "把推測的確定程度說出來。",
+      "html": "<div class=\"story\"><p>1 Ada: Games has nine votes on Thursday.<br/>2 Ben: So more than half choose games?<br/>3 Ada: No. Nine is half of eighteen.<br/>4 Ben: Does sunny weather make them choose games?<br/>5 Ada: We don’t know. We did not ask why.<br/>6 Ben: Then we can report the change, but not the reason.</p></div><p>votes票數、report報告、reason原因。這是原創圖表討論，Games作活動標籤單數看待；也可說Nine students choose games on Thursday.。錯句「最多等於全部」「沒有原因問卷就一定沒有原因」都不成立。正確是資料沒有告訴我們原因，不是否認人們做選擇有原因。</p>"
+    },
+    {
+      "id": "g5s2-english-10-s06",
+      "title": "獨立轉用：不同總人數的新表",
+      "childText": "換了分母，不能沿用九人門檻。",
+      "html": "<p>新虛構班有12人，每人一項，Reading5、Drawing5、Games2；只提供一次記錄，沒有天氣或個人名單。請回答哪項最多、是否有任一項超過一半，以及能否確定下次Games會增加。再寫一句含數字與活動的英文報告；所有所需詞在本頁已供應。</p><details><summary>完成後核對</summary><p>Reading與Drawing各5人並列最多；12的一半是6，沒有項目過半。一次資料不能保證下次Games增減。可寫Five students choose reading.，也可報告另一項。不能用原18人班的9人門檻評新班，也不能為了選一項而刪掉平手。</p></details>"
+    },
+    {
+      "id": "g5s2-english-10-s07",
+      "title": "完成三層證據卡",
+      "childText": "事實、有限推論、未知各留一格。",
+      "html": "<p>原資料卡可填：「直接讀到Thursday games9；可算出比Tuesday多5；仍未知個別理由與下一次選擇」。需要較多支持的孩子先讀一日單位與末端值，再加第二日；進階者分辨最大值、過半、平手與因果限制。說明可用中文、指圖或書寫，算術與英文表達分項紀錄。</p><p>教師若讀完整六回合供聽辨，須記錄是否可見圖與文字，不能把讀圖答對當作已聽清nine與half。圖表是原創教具，不是實測照片或調查結果；沒有真人問卷、錄音、姓名、健康偏好或對外分享。選擇不同活動不影響孩子受尊重的程度。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    },
+    {
+      "title": "教育部｜英語文課綱讀圖與思考",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對。直接核對實體第13、18頁（索引12、17；印刷11、16）藉圖文理解、分類與合理判斷方向。本課圖表與數量是編輯自編，非官方統計或國小統一測驗。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-10-q01",
+      "question": "原星期二最多人選哪項？",
+      "options": [
+        "Games",
+        "Reading",
+        "Drawing與Games平手"
+      ],
+      "answer": 1,
+      "hint": "比較三條末端數值。",
+      "explanation": "星期二reading8高於drawing6與games4，因此在指定三項中最多。"
+    },
+    {
+      "id": "g5s2-english-10-q02",
+      "question": "星期二reading8人是否超過一半？",
+      "options": [
+        "沒有，18的一半是9",
+        "有，最多必然過半",
+        "有，8比4多就算"
+      ],
+      "answer": 0,
+      "hint": "先看總人數再算一半。",
+      "explanation": "最多是與其他項目比，過半是與總數一半9比；8尚未過半。"
+    },
+    {
+      "id": "g5s2-english-10-q03",
+      "question": "Thursday games相較Tuesday增加多少？",
+      "options": [
+        "9人",
+        "5人",
+        "4人"
+      ],
+      "answer": 1,
+      "hint": "用新值9減舊值4。",
+      "explanation": "9減4等於5，九是新總數而非增加數，四則是原來的選擇數。"
+    },
+    {
+      "id": "g5s2-english-10-q04",
+      "question": "可以確定哪三個孩子改選games嗎？",
+      "options": [
+        "不可以，只有彙總數量",
+        "可以，一定是閱讀的三人",
+        "可以，看長條顏色就知道"
+      ],
+      "answer": 0,
+      "hint": "沒有個別姓名或選擇紀錄。",
+      "explanation": "彙總可顯示群體數量變化，但不能識別特定個人或精確轉移路徑。"
+    },
+    {
+      "id": "g5s2-english-10-q05",
+      "question": "天氣不同能證明games增加的原因嗎？",
+      "options": [
+        "能，兩件事同時變就是原因",
+        "能，所有活動都是戶外",
+        "不能，未詢問原因且兩次觀察不足以證明"
+      ],
+      "answer": 2,
+      "hint": "正文說三項都在室內。",
+      "explanation": "天氣只是同時提供的資料，沒有個人原因或因果設計，不能把相關變化當成原因。"
+    },
+    {
+      "id": "g5s2-english-10-q06",
+      "question": "新12人班哪項最多？",
+      "options": [
+        "只有Reading",
+        "Games",
+        "Reading與Drawing並列"
+      ],
+      "answer": 2,
+      "hint": "比較5、5、2，保留平手。",
+      "explanation": "兩項都五人，高於遊戲兩人，因此需報告並列，不能任意只選一項。"
+    },
+    {
+      "id": "g5s2-english-10-q07",
+      "question": "新12人班是否有過半項目？",
+      "options": [
+        "沒有，最多5人而一半是6",
+        "有，5人就是過半",
+        "有，沿用原班的一半9"
+      ],
+      "answer": 0,
+      "hint": "新總人數是12。",
+      "explanation": "12人的一半為6，五人沒有過半；判斷需使用這份資料的總數。"
+    },
+    {
+      "id": "g5s2-english-10-q08",
+      "question": "下一次games一定增加嗎？",
+      "options": [
+        "一定增加，因這次最少",
+        "不知道，資料不足",
+        "一定不變，圖表能固定未來"
+      ],
+      "answer": 1,
+      "hint": "一次記錄不能保證未來選擇。",
+      "explanation": "新資料只有一次選擇數，沒有足夠證據預測下次必然增加或保持不變。"
+    }
+  ]
+}

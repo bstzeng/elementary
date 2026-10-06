@@ -1,0 +1,189 @@
+{
+  "id": "g5s2-english-05",
+  "course": "英語文",
+  "title": "生活中的百位數",
+  "subtitle": "把百位、十位和個位連成完整數詞，再核對物品數量與標籤",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "把百位、十位和個位連成完整數詞，再核對物品數量與標籤。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能讀寫本課100至999範圍的指定整數。",
+    "我能分清物品數量與物品編號，不把編號拿來相加。",
+    "我能在完整清單和更新記錄中核對數詞與總量。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>本課明確只處理數量，不把年份、標籤或電話逐位讀法混入同一評分標準。完整模型統一含and，也接受意思相同的正常省略形式。精確數詞的hundred不加s；先用中文解釋位值，再讀完整數詞，避免把位值計算與英語詞形混為一談。每題卡片收回重用，所需3張100、4張10、5張1均明列；新箱子用文字計算即可。</p>",
+  "selfCheck": [
+    "我能讀寫本課100至999範圍的指定整數。",
+    "我能分清物品數量與物品編號，不把編號拿來相加。",
+    "我能在完整清單和更新記錄中核對數詞與總量。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-05-s01",
+      "title": "百位數要先看位值",
+      "childText": "數字0有位置作用，但不必逐字讀zero。",
+      "html": "<p>本課討論物品數量，不是年份、電話、房號或價錢。100是one hundred，200是two hundred，300是three hundred；精確數量two hundred後的hundred不加s。205是200＋5，不是250，也不是兩百五十。中間0表示沒有十位量，在完整數詞中不必讀成zero。</p><p>本課完整數詞統一示範含and的形式：120 one hundred and twenty；205 two hundred and five；340 three hundred and forty；415 four hundred and fifteen。Oxford美式詞典也列出數詞中的and；常見省略and的標準讀法若數值相同也接受，不以and有無判成不同數量。本頁所有數值都是虛構教具記錄。</p>"
+    },
+    {
+      "id": "g5s2-english-05-s02",
+      "title": "完整數詞字庫與位值表",
+      "childText": "four變成forty，不是fourty。",
+      "html": "<p>所需字庫：one一、two二、three三、four四、five五、six六、seven七、eight八、nine九；ten十、fifteen十五、twenty二十、thirty三十、forty四十、fifty五十、sixty六十、seventy七十、eighty八十、ninety九十；hundred百、and連接百位與後面數。21–99中非整十數的英文十位和個位間用連字號，如twenty-five。</p><div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"指定百位數的位值對照\" tabindex=\"0\"><table><caption>數量拆解：各欄是位數，不是標籤。</caption><thead><tr><th>Number</th><th>Hundreds</th><th>Tens</th><th>Ones</th></tr></thead><tbody><tr><th>120</th><td>1</td><td>2</td><td>0</td></tr><tr><th>205</th><td>2</td><td>0</td><td>5</td></tr><tr><th>340</th><td>3</td><td>4</td><td>0</td></tr><tr><th>415</th><td>4</td><td>1</td><td>5</td></tr></tbody></table></div><p>Tab可移入表區以方向鍵捲動。415末兩位15用fifteen，不是把one和five逐字念完就算完整數量名稱。</p>"
+    },
+    {
+      "id": "g5s2-english-05-s03",
+      "title": "完整圖書卡清單與核對對話",
+      "childText": "同一列的編號和數量作用不同。",
+      "html": "<div class=\"story\"><p>原創教具庫：Box A，label 205，number of cards 120；Box B，label 340，number of cards 205；Box C，label 415，number of cards 340。label是箱子標籤編號，number of cards才是卡片數量。</p><p>1 Ada: How many cards are in Box B?<br/>2 Ben: Two hundred and five.<br/>3 Ada: Two hundred and fifty?<br/>4 Ben: No, two hundred and five. Two hundred plus five.<br/>5 Ada: I see. The label is 340, but there are 205 cards.<br/>6 Ben: That’s right.</p></div><p>第4句Two hundred plus five說明200加5，plus表示加。本課完整數量一律示範two hundred and five；成人可先用中文讀位值說明，再自然示範完整數詞。標籤340不表示B有340張。</p>"
+    },
+    {
+      "id": "g5s2-english-05-s04",
+      "title": "一起用大紙分組",
+      "childText": "100卡代表一百，不是畫了一百張。",
+      "html": "<p>準備「100」卡3張、「10」卡4張、「1」卡5張，各用一張普通大紙寫大數字；每題完成後收回重用。先排205為100、100、1、1、1、1、1，沒有10卡。再排340為三張100加四張10。這是代表量的符號卡，不宣稱紙上實際畫了205張物件，也不需大量小珠子。</p><p>成人示範把205變成215：新增一張10代表量卡，百位仍2、個位仍5，十位由0變1；完整讀two hundred and fifteen。寫到數量清單時必須說明「新增10張卡」，不能把箱子標籤205改成215就說物品變多。符號操作和實際清單更新要各有條件。</p>"
+    },
+    {
+      "id": "g5s2-english-05-s05",
+      "title": "修復：數量和編號不做同一種算術",
+      "childText": "尾端s與連字號也有使用條件。",
+      "html": "<p>錯讀205成two hundred and fifty會把5移到十位；修復先填百、十、個位，再讀two hundred and five。精確200用two hundred；hundreds of cards表示數百張、沒有給精確數字，是不同結構，不能用來回答本課要求精確205張的問題。</p><p>Box A的label205與Box B的label340相加得到545，這個算式沒有「總卡數」的意義，因兩數只是編號。要算A和B卡數應用120＋205＝325，寫three hundred and twenty-five。forty不能因four有u就寫fourty；twenty-five的連字號連十位與個位，不能把每個詞任意黏成一串。</p>"
+    },
+    {
+      "id": "g5s2-english-05-s06",
+      "title": "獨立轉用：新箱子記錄",
+      "childText": "先讀欄名，再讀數詞。",
+      "html": "<p>完整新記錄：Box D，label 305，cards 210；Box E，label 520，cards 105。動作：10張卡從D移到E，沒有新增或丟棄。請寫移動後D、E及兩箱總卡數，並各寫完整英文數詞。補充詞已供應：fifteen十五；兩箱總數可先用位值算，再找百位和末兩位。不要把305、520當數量。</p><details><summary>核對答案與讀法</summary><p>D剩200，two hundred；E變115，one hundred and fifteen；總數315，three hundred and fifteen。省略and但數值與語意清楚的標準形式也可。兩箱標籤仍305和520，不因移卡而變；210＋105與200＋115都等於315。</p></details>"
+    },
+    {
+      "id": "g5s2-english-05-s07",
+      "title": "成人評量與真正口語觀察",
+      "childText": "看字、辨音、算數要分項。",
+      "html": "<p>完整成人朗讀順序：205 two hundred and five，250 two hundred and fifty，315 three hundred and fifteen，340 three hundred and forty；250與315的完整模型已在此供應。先讓孩子看字、配位值，再收起英文請教師自然讀兩數，孩子選數字卡；這才是實際辨音，需記錄是否重讀與是否有位值圖提示。</p><p>需要較多支持的孩子先比較205與250，使用大代表卡；進階者判斷數量與標籤並解釋總量守恆。算術需要成人協助不代表英語詞義不會，反之算對也不等於會說。避免拿真實金額、學號、電話或家庭財務作例子；沒有交易、付款或對外資料傳送。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "Oxford Advanced American Dictionary｜hundred",
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/american_english/hundred",
+      "note": "2026-10-06官方搜尋索引核對精確a／one／two hundred不加s，以及hundreds of的不同用法；未驗聽音訊。"
+    },
+    {
+      "title": "Oxford Advanced American Dictionary｜and",
+      "url": "https://www.oxfordlearnersdictionaries.com/us/definition/american_english/and",
+      "note": "2026-10-06官方搜尋索引核對數詞百位後可用and連接後續數量。課堂完整模型保留and，正常省略變體不因形式不同而扣數值理解分。"
+    },
+    {
+      "title": "Cambridge English Grammar Today｜And in numbers",
+      "url": "https://dictionary.cambridge.org/grammar/british-grammar/and",
+      "note": "2026-10-06官方搜尋索引核對含and及複合十位個位連字號；直接403，沒有音訊驗聽。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-05-q01",
+      "question": "205的位值是？",
+      "options": [
+        "2個百、0個十、5個一",
+        "2個百、5個十、0個一",
+        "5個百、0個十、2個一"
+      ],
+      "answer": 0,
+      "hint": "中間的0有固定位置。",
+      "explanation": "205中2在百位、0在十位、5在個位，不能把個位5移去十位。"
+    },
+    {
+      "id": "g5s2-english-05-q02",
+      "question": "哪個完整數詞對應340？",
+      "options": [
+        "three hundred and fourteen",
+        "four hundred and thirty",
+        "three hundred and forty"
+      ],
+      "answer": 2,
+      "hint": "拆成300加40。",
+      "explanation": "340是三百加四十，forty對應40，fourteen則是14，數值不同。"
+    },
+    {
+      "id": "g5s2-english-05-q03",
+      "question": "精確200張卡應寫？",
+      "options": [
+        "two hundred cards",
+        "two hundreds cards",
+        "two hundredth cards"
+      ],
+      "answer": 0,
+      "hint": "精確倍數後hundred不加s。",
+      "explanation": "標準精確數詞用two hundred，hundreds of屬另一種概數表達。"
+    },
+    {
+      "id": "g5s2-english-05-q04",
+      "question": "原Box B有多少張卡？",
+      "options": [
+        "340",
+        "205",
+        "415"
+      ],
+      "answer": 1,
+      "hint": "不要把label欄當cards欄。",
+      "explanation": "Box B標籤為340但卡數為205，兩欄用途不同，應依數量欄回答。"
+    },
+    {
+      "id": "g5s2-english-05-q05",
+      "question": "原A與B總卡數是多少？",
+      "options": [
+        "545",
+        "120205",
+        "325"
+      ],
+      "answer": 2,
+      "hint": "用兩箱cards數量相加。",
+      "explanation": "A120加B205等於325；545是誤把標籤相加，並非卡片總數。"
+    },
+    {
+      "id": "g5s2-english-05-q06",
+      "question": "新D移10張到E後，E有多少？",
+      "options": [
+        "95",
+        "115",
+        "520"
+      ],
+      "answer": 1,
+      "hint": "E原105，收到10張。",
+      "explanation": "E從105加10變115；520仍只是箱子標籤，不是卡數。"
+    },
+    {
+      "id": "g5s2-english-05-q07",
+      "question": "新D與E移動後總量為何不變？",
+      "options": [
+        "標籤數字互相抵消",
+        "卡只換箱，沒有增減",
+        "所有移動都讓總量變零"
+      ],
+      "answer": 1,
+      "hint": "看明寫的動作限制。",
+      "explanation": "移動把D減10、E加10，沒有新增或丟棄，總量仍315張。"
+    },
+    {
+      "id": "g5s2-english-05-q08",
+      "question": "同學省略and讀出數值相同的標準數詞，應如何評？",
+      "options": [
+        "核對數值清楚，接受正常變體",
+        "必定是另一個數字",
+        "一律說不能用英語"
+      ],
+      "answer": 0,
+      "hint": "本課示範形式不排除標準變體。",
+      "explanation": "and有無不會自動改變數值；應核對完整意思並接受可理解的正常標準形式。"
+    }
+  ]
+}

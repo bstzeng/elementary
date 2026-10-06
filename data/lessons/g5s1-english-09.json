@@ -1,0 +1,184 @@
+{
+  "id": "g5s1-english-09",
+  "course": "英語文",
+  "title": "短文主題和細節",
+  "subtitle": "讀完整短文，分出主要內容、支持細節與還不知道的事",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "讀完整短文，分出主要內容、支持細節與還不知道的事。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能用一句話概括短文主要內容，不只抄一個細節。",
+    "我能回到句子找人物、地點、原因與改變的證據。",
+    "我能依新短文調整摘要，分開原文、合理推測與未知。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>先讓孩子完整讀故事再選主題，避免用選項提前透露全部摘要。示範一欄後把其他欄留給孩子，區分明文找尋與it／there的整合。進階評量可要求反駁過度推論，不能把單一虛構前後結果變成普遍效果證明。兩篇均完整供應，紙卡可抄現有詞，不需真實孩子借閱紀錄或校內調查。</p>",
+  "selfCheck": [
+    "我能用一句話概括短文主要內容，不只抄一個細節。",
+    "我能回到句子找人物、地點、原因與改變的證據。",
+    "我能依新短文調整摘要，分開原文、合理推測與未知。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s1-english-09-s01",
+      "title": "讀主題要看整篇",
+      "childText": "常出現的詞是線索，不是自動答案。",
+      "html": "<p>主題是這篇主要在說什麼；細節支持主題，可以說明誰做、何時、在哪裡、遇到什麼問題。不是每個細節都要塞進一句摘要，也不能只看第一句就跳過後文。標題可幫我們預想，還要用完整文字查證。</p><p>本課完整詞庫：reading corner閱讀角、shelf書架、label標籤、story故事、animal動物、lost迷路或找不到方向的，本文指找不到書、不是真的走失；help幫助、find找到、picture圖畫、together一起。下文是原創虛構班級，沒有真實兒童或實際借閱資料。可以請成人按句讀出中文意思，不以陌生詞多寡評斷理解能力。</p>"
+    },
+    {
+      "id": "g5s1-english-09-s02",
+      "title": "完整原創短文：A Better Reading Corner",
+      "childText": "先完整讀，再動筆選答案。",
+      "html": "<div class=\"story\"><p>① Our class has a small reading corner. We read there on Fridays. There are story books and animal books, but the books have no labels.</p><p>② On Friday, Ben wants a book about ducks. He looks on two shelves. “I can’t find it,” he says. Mei finds the book on the story shelf. “Let’s make labels,” she says. Ben and the teacher say, “Good idea.”</p><p>③ The class makes two labels: “Stories” and “Animals.” They put the duck book on the animal shelf. Next Friday, Ben finds it there. “The labels help me,” he says. Mei smiles. They sit down and read together.</p></div><p>輔助詞：about關於、looks看、can’t不能、next下一個、makes製作、put放。標題意為「更好用的閱讀角」。故事的兩張標籤已完整供應，不需另找圖片或買書；孩子可以全程以文字分析，不必真的重新整理圖書室。</p>"
+    },
+    {
+      "id": "g5s1-english-09-s03",
+      "title": "示範：從三段縮成一句",
+      "childText": "留下問題、行動與結果。",
+      "html": "<p>成人先把三段各縮一個中文片語：「閱讀角沒有標籤／Ben找鴨子書，大家同意做標籤／書分類後Ben找到書」。再合成主題句：「班級用分類標籤幫助找書。」這句比「Mei微笑」涵蓋得多，又比「所有人的生活」更貼近原文範圍。</p><p>英文核心摘要可用The class makes labels to help readers find books.，意思是班級做標籤幫讀者找書。這是教師提供的概括模型，不是要求孩子逐字背誦。先用中文或圖卡講出問題、行動、結果，再嘗試核心英文。若只說「一本鴨子書」，那是重要物品，但還沒有說出整篇處理的問題。</p>"
+    },
+    {
+      "id": "g5s1-english-09-s04",
+      "title": "一起找細節與指代",
+      "childText": "每個答案旁留一個句子位置。",
+      "html": "<p>完整查核欄：「何時閱讀／起始問題／誰提出方法／是否被接受／書最後在哪裡／結果」。成人先示範第一欄：第①段on Fridays。孩子找第②段Mei的Let’s make labels與Ben和teacher的Good idea，確認這次不是只有提議；第③段有真正製作和移書動作。</p><p>第②段I can’t find it中的it指a book about ducks；第③段finds it there的it也是鴨子書，there指animal shelf。可在大紙上抄「duck book」「animal shelf」各一張卡，用箭頭連文字；也可直接畫底線。若把there解成整座城市，就超出最近的明確地點與故事範圍。</p>"
+    },
+    {
+      "id": "g5s1-english-09-s05",
+      "title": "修復：結果不代表所有人都一樣",
+      "childText": "一位角色的回報有自己的範圍。",
+      "html": "<p>錯摘要「所有同學從此都能立刻找任何書」超出資料。正文只記下Ben下週找到那本書，並說標籤幫了他；沒有每個人的速度、每一本書或更長時間的觀察。可以說「標籤在這次故事中幫助Ben」，不能說已證明一個對所有人永遠有效的因果規則。</p><p>錯摘要「Ben做標籤，Mei只旁觀」把The class縮成Ben一人，沒有依據。錯摘要「故事教我們鴨子怎樣游泳」把書的題材當成本文主題，原文沒有講游泳。請將錯誤處圈出，指出應回看第幾段，然後用一小句修正，不必整篇重抄。</p>"
+    },
+    {
+      "id": "g5s1-english-09-s06",
+      "title": "獨立轉用：A Quiet Place",
+      "childText": "新故事也要先找問題、行動和結果。",
+      "html": "<div class=\"story\"><p>Our class reads after lunch. The table near the door is noisy. Ali wants to read a short story, but he cannot hear his partner. “Can we use the quiet corner?” he asks. The teacher says yes. Ali and his partner move their books to the corner. They read the story together. Ali says, “I can hear you here.”</p></div><p>完整補充詞：after lunch午餐後、near the door門旁、noisy吵雜、partner搭檔、quiet安靜、hear聽到、move移動。請寫一句主要內容，列兩個支持細節，再寫一件不能確定的事；例如能否保證從此全班都更喜歡閱讀？先回答後再看模型。</p><details><summary>核對摘要的範圍</summary><p>主要內容可說兩位閱讀搭檔在取得允許後換到較安靜的角落，方便一起閱讀。支持細節包括門旁吵、teacher說yes、移書後Ali說聽得到。不能推出全班喜好、閱讀成績或永久效果，因本文沒有提供。</p></details>"
+    },
+    {
+      "id": "g5s1-english-09-s07",
+      "title": "製作一張證據摘要卡",
+      "childText": "主題與細節要互相連得上。",
+      "html": "<p>摘要卡格式完整為：「我選的主題句／支持細節一與段落／支持細節二與段落／一件未知」。需要較多支持的孩子先用原文句號分段，逐句指讀；進階者比較兩個候選標題，說明哪一個涵蓋更多主要事件。手寫不便可以口述或讓成人代寫，保留孩子選擇的理由。</p><p>教師評量要分開「找出明文」「理解it或there」「概括主要內容」「限制推測」四項。語法拼寫不完美但能找正確證據時，先肯定已完成的閱讀工作，再協助修句。合格教師朗讀全文才能做聽讀整合；純文字答題不記成聽力成績，不蒐集班級真實閱讀紀錄。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    },
+    {
+      "title": "教育部｜英語文課程綱要閱讀與思考項目",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對。實體第13、18頁（索引12、17；印刷11、16）支持簡易短文主要內容與分類、比較、合理判斷方向；本文與摘要方法由編輯原創。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s1-english-09-q01",
+      "question": "A Better Reading Corner最合適的主要內容是？",
+      "options": [
+        "Mei有一個微笑",
+        "鴨子在水裡游泳的方法",
+        "班級用分類標籤幫助找書"
+      ],
+      "answer": 2,
+      "hint": "合併三段問題、行動與結果。",
+      "explanation": "分類標籤串起原問題和後來結果，微笑只是細節，游泳方法根本未出現。"
+    },
+    {
+      "id": "g5s1-english-09-q02",
+      "question": "閱讀角起始缺少什麼？",
+      "options": [
+        "所有的書",
+        "書的分類標籤",
+        "所有的椅子"
+      ],
+      "answer": 1,
+      "hint": "看第①段最後一句。",
+      "explanation": "第①段有故事書與動物書，但明寫沒有labels，並非沒有書或椅子。"
+    },
+    {
+      "id": "g5s1-english-09-q03",
+      "question": "誰提出Let’s make labels？",
+      "options": [
+        "Mei",
+        "Ben",
+        "一個未出場的人"
+      ],
+      "answer": 0,
+      "hint": "找第②段引語後的she說明。",
+      "explanation": "Mei找到書後提出做標籤，Ben和教師的Good idea是接受提議。"
+    },
+    {
+      "id": "g5s1-english-09-q04",
+      "question": "哪項證據能確認提議被接受並實作？",
+      "options": [
+        "只有Let’s這個詞",
+        "第②段同意，第③段製作標籤",
+        "只有Ben想找書"
+      ],
+      "answer": 1,
+      "hint": "分開提議、回覆與後續動作。",
+      "explanation": "Good idea明示接受，後段The class makes two labels又明示實際完成行動。"
+    },
+    {
+      "id": "g5s1-english-09-q05",
+      "question": "第③段finds it there的there指？",
+      "options": [
+        "animal shelf",
+        "整座城市",
+        "不知道的公園"
+      ],
+      "answer": 0,
+      "hint": "回看前一句放書位置。",
+      "explanation": "前句將鴨子書放在animal shelf，後文there延續同一個明確位置。"
+    },
+    {
+      "id": "g5s1-english-09-q06",
+      "question": "可以由本文確定什麼結果？",
+      "options": [
+        "所有人找任何書都只用一秒",
+        "Ben下週找到那本書並說標籤有幫助",
+        "全校成績一定提高"
+      ],
+      "answer": 1,
+      "hint": "結論不能超過敘述對象與時間。",
+      "explanation": "原文記錄Ben的特定經驗，沒有全體速度或成績資料，應保留範圍。"
+    },
+    {
+      "id": "g5s1-english-09-q07",
+      "question": "新短文中換位置前得到誰的允許？",
+      "options": [
+        "the teacher",
+        "一位未出場的家長",
+        "沒有得到允許"
+      ],
+      "answer": 0,
+      "hint": "找asks後緊接的回覆。",
+      "explanation": "Ali提出使用安靜角落的問題後，教師明說yes，才有接受與移動記錄。"
+    },
+    {
+      "id": "g5s1-english-09-q08",
+      "question": "哪項是兩篇共有的閱讀方法？",
+      "options": [
+        "只看最後一個詞",
+        "把任何細節都當唯一主題",
+        "找問題、行動與結果，再核對細節"
+      ],
+      "answer": 2,
+      "hint": "想想摘要示範的三步。",
+      "explanation": "兩篇都能用事件關係組織主要內容，仍須回到全文核對，不能只抽單字。"
+    }
+  ]
+}

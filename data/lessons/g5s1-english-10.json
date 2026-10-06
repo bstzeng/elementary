@@ -1,0 +1,184 @@
+{
+  "id": "g5s1-english-10",
+  "course": "英語文",
+  "title": "課表與文字資訊整合",
+  "subtitle": "把課表、開放時段和通知合起來，選出符合全部條件的活動",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "把課表、開放時段和通知合起來，選出符合全部條件的活動。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能分別指出課表、活動表和通知提供的資訊。",
+    "我能比較完整時段、教室與材料，選出唯一符合條件的方案。",
+    "我能在更新一筆資料後重新判斷，對資訊不足保留問題。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>本課把兩表加通知整合，和只讀單列課表不同。檢查全程參加、移動空檔、材料、開放與名額五項是否都讀到；題目已給移動前提，不能隱性假設。需要較多支持的孩子先做時間淘汰，再做材料；進階者處理通知覆寫範圍。方案選擇與完成報名分開，沒有任何真實外部行動或兒童課表蒐集。</p>",
+  "selfCheck": [
+    "我能分別指出課表、活動表和通知提供的資訊。",
+    "我能比較完整時段、教室與材料，選出唯一符合條件的方案。",
+    "我能在更新一筆資料後重新判斷，對資訊不足保留問題。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s1-english-10-s01",
+      "title": "三份資料各有工作",
+      "childText": "只看一份表，可能漏掉限制。",
+      "html": "<p>本課是虛構校內繪圖工作坊規劃。先看自己的課何時結束，再看工作坊何時開始、在哪裡，最後看通知的材料限制。詞庫：timetable課表、workshop工作坊、start開始、finish結束、room教室、colored pencils色鉛筆、bring帶來、available可用、full完整的。</p><p>本課限定：角色Lin要參加完整30分鐘工作坊，不能中途加入；必須在自己的必修課結束後；所有相關教室在同層相鄰且安排10分鐘空檔可到達。這是題目供應的條件，不能把未說的交通時間默默設成零。Lin沒有色鉛筆，這項角色資料不代表真實孩子的物資狀況。</p>"
+    },
+    {
+      "id": "g5s1-english-10-s02",
+      "title": "完整課表與活動表",
+      "childText": "先不下結論，逐欄找對應資料。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"Lin的虛構星期五課表和工作坊表\" tabindex=\"0\"><table><caption>Friday課表：只有下列課程需要比較。</caption><thead><tr><th>Time</th><th>Class</th></tr></thead><tbody><tr><td>13:00–13:40</td><td>science</td></tr><tr><td>13:50–14:30</td><td>English</td></tr></tbody></table><table><caption>繪圖工作坊：每場30分鐘，須全程參加。</caption><thead><tr><th>Choice</th><th>Time</th><th>Room</th><th>Materials</th></tr></thead><tbody><tr><td>A</td><td>14:00–14:30</td><td>Room 1</td><td>provided</td></tr><tr><td>B</td><td>14:40–15:10</td><td>Room 2</td><td>bring colored pencils</td></tr><tr><td>C</td><td>14:40–15:10</td><td>Room 3</td><td>provided</td></tr></tbody></table></div><p>provided表示現場提供本活動需要的紙與色鉛筆；B也提供紙，但須自備色鉛筆。Tab進入表區後可用方向鍵捲動。14:40可讀two forty in the afternoon；這和24小時制的14:40指同一時刻，不能誤寫成上午。</p>"
+    },
+    {
+      "id": "g5s1-english-10-s03",
+      "title": "完整通知與確認對話",
+      "childText": "時間合適之外，還有材料條件。",
+      "html": "<div class=\"story\"><p>通知：Lin has no colored pencils today. Lin may use only materials provided at the workshop. All three workshops have places available. Room 3 is open today.</p><p>1 Lin: My English class finishes at two thirty.<br/>2 Ada: Can you join workshop A?<br/>3 Lin: No. It starts during my English class.<br/>4 Ada: How about C in Room 3?<br/>5 Lin: It starts at two forty. Are the materials provided?<br/>6 Ada: Yes. Paper and colored pencils are provided.<br/>7 Lin: Then C works for me.<br/>8 Ada: OK. Our plan is C.</p></div><p>may use only只能使用、places available有名額、during在……期間。最後兩句確認的是紙上計畫，沒有提交報名，也沒有證明Lin已到場。通知已說三場都有名額，不能自己添一個「C額滿」理由推翻題目。</p>"
+    },
+    {
+      "id": "g5s1-english-10-s04",
+      "title": "一起做淘汰表",
+      "childText": "每一項排除都要有來源。",
+      "html": "<p>成人示範A：14:00開始時Lin還在13:50–14:30的English；因須完整參加，所以A不合條件。請孩子檢查B：14:40晚於下課，且有10分鐘空檔，但B須自備色鉛筆而Lin沒有，因此仍不符合。C的時間、空檔、材料、教室開放和名額均符合，才是本頁的唯一選擇。</p><p>完整紀錄欄為「方案／時間是否合／材料是否合／場所與名額是否合／結論」。可抄A、B、C三張大卡，另有「時間」「材料」「開放」各一張，指著資料核對。不要只因C排在最後而選；若資料改動，答案可能不同。關鍵是全部條件的交集，不是背字母。</p>"
+    },
+    {
+      "id": "g5s1-english-10-s05",
+      "title": "修復：不能把未知當許可",
+      "childText": "合理補問比無根據保證好。",
+      "html": "<p>錯句「A結束和下課同時，所以能參加」忽略全程30分鐘。錯句「B時間合就可以」漏看自備材料。錯句「C已經報名完成」把兩人商量的計畫當成外部報名。請逐一修成有條件、有時間範圍的說法。</p><p>若沒有Room 3是否開放的資料，可問Is Room 3 open today?；但在本頁通知已提供open，便不必說完全無法判斷。資訊不足和資訊不合是不同情況：B明確缺材料是不合；未寫教室是否開門才是未知。不能替孩子借用真實同學物品，也不要求實際與學校聯絡。</p>"
+    },
+    {
+      "id": "g5s1-english-10-s06",
+      "title": "獨立轉用：一則更新通知",
+      "childText": "只改被明說的欄位。",
+      "html": "<p>新通知取代原材料與開放資訊：Lin has colored pencils now. Lin may use these colored pencils at the workshop. Room 3 is closed today. Workshops A and B still have places. Other times stay the same. 中文：Lin現在有色鉛筆，並可在工作坊使用這些自備色鉛筆；Room 3今天關閉；A、B仍有名額，其他時間不變。請重做淘汰表，選一場並寫兩項理由；再寫一件不能從這些資訊確定的事。</p><details><summary>完成後核對</summary><p>選B。14:40在14:30下課後，有給定10分鐘空檔；Lin現在有須自備的色鉛筆，B有名額。A仍和English重疊，C因Room 3關閉不合。不能確定已報名、老師姓名或參加後的學習成果，因沒有這些資料。</p></details>"
+    },
+    {
+      "id": "g5s1-english-10-s07",
+      "title": "用一句英語和兩筆證據說明",
+      "childText": "結論要能讓另一個人查核。",
+      "html": "<p>原版模型：I choose C. It starts at two forty, and the materials are provided. 選C，因開始時間和材料都符合。新版本先自己寫，再對照更新通知；只寫I choose B.還沒顯示為什麼，至少用中文補上兩筆證據也可以。</p><p>成人可先協助需要較多支持的孩子以不同標記框出時間與材料，再增加開放資訊；進階者刪除一筆資料，請孩子提出精確補問並說明為何暫不下結論。評量分開讀時間、跨來源整合、更新資料與說明限制。完整對話可由合格教師讀，但有文字支持和純聽辨要分別記錄；不做真實報名、借物或校內移動。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Prepositions of time",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-time",
+      "note": "2026-10-06直接核對。支持on加星期、at加時刻；本課課表、活動與對話均為原創。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s1-english-10-q01",
+      "question": "Lin原English課何時結束？",
+      "options": [
+        "14:30",
+        "13:40",
+        "14:40"
+      ],
+      "answer": 0,
+      "hint": "找English那列區間右端。",
+      "explanation": "English在13:50–14:30，結束14:30；不能讀成前一節或工作坊開始時間。"
+    },
+    {
+      "id": "g5s1-english-10-q02",
+      "question": "原版本A為何不合？",
+      "options": [
+        "A沒有任何材料",
+        "A沒有名額",
+        "開始時仍在English，無法全程參加"
+      ],
+      "answer": 2,
+      "hint": "合併全程條件與兩個時段。",
+      "explanation": "A14:00開始和必修English重疊，題目要求完整30分鐘，因此不符合。"
+    },
+    {
+      "id": "g5s1-english-10-q03",
+      "question": "原版本B主要卡在哪項？",
+      "options": [
+        "14:40在下課以前",
+        "須自備色鉛筆，而Lin沒有",
+        "Room 2被明說關閉"
+      ],
+      "answer": 1,
+      "hint": "時間之外再查材料欄。",
+      "explanation": "B時間可行，但材料要求和Lin原角色卡衝突，不能只看時刻就選。"
+    },
+    {
+      "id": "g5s1-english-10-q04",
+      "question": "原版本唯一符合全部條件的是？",
+      "options": [
+        "A",
+        "C",
+        "B"
+      ],
+      "answer": 1,
+      "hint": "逐一查時間、材料、開放與名額。",
+      "explanation": "C14:40開始、提供材料且Room3開放並有名額，符合全部給定條件。"
+    },
+    {
+      "id": "g5s1-english-10-q05",
+      "question": "原對話最後能確定什麼？",
+      "options": [
+        "兩人同意紙上計畫C",
+        "報名已被學校接受",
+        "Lin已完成工作坊"
+      ],
+      "answer": 0,
+      "hint": "計畫和外部辦理不是同一件事。",
+      "explanation": "最後兩句明說計畫，沒有提交或到場記錄，因此不能宣稱已報名或完成活動。"
+    },
+    {
+      "id": "g5s1-english-10-q06",
+      "question": "新通知下應選哪個？",
+      "options": [
+        "C",
+        "仍只能A",
+        "B"
+      ],
+      "answer": 2,
+      "hint": "材料與開放都已更新。",
+      "explanation": "Lin現在有色鉛筆，B的時間和名額合適；C教室關閉，A仍與課程重疊。"
+    },
+    {
+      "id": "g5s1-english-10-q07",
+      "question": "題目怎麼處理移動時間？",
+      "options": [
+        "假定所有移動瞬間完成",
+        "供應相鄰教室與10分鐘空檔條件",
+        "要求查真實地圖"
+      ],
+      "answer": 1,
+      "hint": "第一節有明寫前提。",
+      "explanation": "題目明定相鄰教室與足夠的10分鐘空檔，沒有偷把未知路程設成零。"
+    },
+    {
+      "id": "g5s1-english-10-q08",
+      "question": "若資料未寫Room 3是否開放，最精確補問是？",
+      "options": [
+        "Is Room 3 open today?",
+        "Do you like rice?",
+        "What color is Friday?"
+      ],
+      "answer": 0,
+      "hint": "問缺少的那一個條件。",
+      "explanation": "補問應針對教室今日開放狀況，才能補足這次方案所需的證據。"
+    }
+  ]
+}

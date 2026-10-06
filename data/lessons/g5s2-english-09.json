@@ -1,0 +1,184 @@
+{
+  "id": "g5s2-english-09",
+  "course": "英語文",
+  "title": "短文的順序和細節",
+  "subtitle": "追蹤短文中的先後、指代和條件，重建事件而不靠卡片字母排序",
+  "duration": "2–3次，每次20–30分鐘；可依閱讀與口語需要拆段",
+  "intro": "追蹤短文中的先後、指代和條件，重建事件而不靠卡片字母排序。先用完整資料找證據，再練習澄清，最後換一組條件自己完成。",
+  "goals": [
+    "我能用first、then、after與finally找事件順序。",
+    "我能把物品位置和角色回覆連起來，指出每一步證據。",
+    "我能在新短文缺少結尾時保留未知，不把提議當成完成。"
+  ],
+  "materials": [
+    "本頁完整原創資料、鉛筆和普通大紙；可以全程指本頁，不必剪卡",
+    "若使用紙卡，依正文逐字抄寫指定卡片；無須帳號、真實個資或校外行動",
+    "口語由合格教師先核對完整模型；本頁不含已驗聽音檔"
+  ],
+  "teachingHtml": "<h3>教學範圍與準備</h3><p>五、六年級同屬第三學習階段，本課是參考主題的編輯安排，不是全國統一進度。國小整體300個聽讀說、其中180個拼寫字詞的目標，不可拆成五年級單學期配額。先確認孩子懂核心詞義，再要求整合兩項資訊、澄清誤會和換資料轉用。頁面原創角色與資料不用孩子的真實姓名、住址、家庭資料或照片；所列官方來源只支持註明的語言框架。</p><h3>示範、支持與評量</h3><p>本頁完整英文文本可供成人朗讀，但沒有音檔，也沒有已驗聽播放的聲音。合格英語教師須先核對並能自然示範全部句子，才進行真正的聽辨或口語觀察；本課採美式英語作示範參考，可理解的其他標準變體也應接受。不用中文諧音或合成聲音冒充精確模型。沒有合適示範者時，先做圖文任務，聽說保留待教，紙面題目不算聽力或發音證據。</p><p>支持層先讓孩子指認詞卡、以中文說資料關係，再選句框；進階層遮住模型，改用新資料並說出理由。成人分開記錄詞義、閱讀、資料推理、看卡表達、獨立拼寫與實際口語，不將代寫或跟讀記成自主產出。可指圖、打字、畫圖、使用AAC或由成人讀寫，給重複、短段與休息。不強迫眼神接觸、公開演出、模仿單一腔調或提供私事；溝通需要可用任何有效方式表達。</p><h3>本課教學與觀察</h3><p>本課有兩篇完整短文，原篇供明確接受與完成，新篇刻意停在提議；進階在於不把第一篇結果偷帶第二篇。卡片初態A–E和所有中文／英文全文均供應，C開頭以First定位，其他依條件與動作。成人不要求實際張貼、搬桌或濕板操作；把順序、指代和證據限制分項評，未知完成時間保留未知。</p>",
+  "selfCheck": [
+    "我能用first、then、after與finally找事件順序。",
+    "我能把物品位置和角色回覆連起來，指出每一步證據。",
+    "我能在新短文缺少結尾時保留未知，不把提議當成完成。",
+    "我能指出答案的資料位置，並說明這次用了哪些協助。"
+  ],
+  "sections": [
+    {
+      "id": "g5s2-english-09-s01",
+      "title": "順序詞要配事件",
+      "childText": "卡片A不一定是故事第一步。",
+      "html": "<p>first首先、then接著、after在……之後、before在……之前、finally最後。它們幫助我們組織事件，但還要讀誰做了什麼、物品在哪裡、是否得到回覆。本文採現在式敘述一個故事，不要求把所有現在式都誤判為同時發生。</p><p>本課詞庫：poster海報、box箱子、tape膠帶、board展示板、carry拿著移動、ask詢問、agree同意、check檢查、dry乾的、wet濕的。全部是原創紙上教室故事，不做爬高張貼、搬重物或使用真膠帶。若想排卡，只需抄段落字母或關鍵詞，不需要另找圖片。</p>"
+    },
+    {
+      "id": "g5s2-english-09-s02",
+      "title": "完整短文：The Poster Plan",
+      "childText": "全文已供應，先讀一次。",
+      "html": "<div class=\"story\"><p>① At ten, June and Max have a poster in a box. They want to put it on the classroom board. First, June asks the teacher, “Can we use the board?” The teacher says, “Yes, but please check it first.”</p><p>② Then Max checks the board. It is wet. “Not yet,” he says. They leave the poster in the box. After the teacher says, “The board is dry now,” June asks Max, “Shall we put up the poster?” Max says, “Yes.”</p><p>③ Finally, the teacher puts up the poster while June and Max hold the box on the table. The poster is on the board now. June reads its title. Max checks the words. They thank the teacher.</p></div><p>補充：not yet還沒有、leave留在、shall we…?我們……好嗎、while在……同時、title標題。張貼由成人完成，孩子只讀文本，不搬桌椅或伸高手臂模仿。原文沒說乾燥等了多久，不能把At ten當成全部步驟都在10:00結束。</p>"
+    },
+    {
+      "id": "g5s2-english-09-s03",
+      "title": "完整打亂事件卡",
+      "childText": "字母是卡號，不是時間。",
+      "html": "<p>卡A：The teacher puts up the poster. 成人把海報貼上板。<br/>卡B：Max checks the wet board. Max查看濕的板。<br/>卡C：June asks to use the board. June先詢問是否能使用板。<br/>卡D：The teacher says the board is dry. 成人明說板已乾。<br/>卡E：Max agrees to put up the poster. Max接受張貼提議。</p><p>成人準備A、B、C、D、E各一張大紙卡，抄上完整英句和中文；或在本頁字母旁寫順序1–5。初始擺放為A、B、C、D、E，不按字母當故事順序。先示範C因First定位為第一張，再讓孩子安排其餘四張，說每張和前一張如何連起來。</p>"
+    },
+    {
+      "id": "g5s2-english-09-s04",
+      "title": "一起追蹤物品和允許",
+      "childText": "同意使用板，還帶著先檢查的條件。",
+      "html": "<p>成人示範三列位置表：「起始poster在box／發現wet後仍在box／成人貼好後在board」。第①段Teacher的Yes帶著check it first條件，不能刪掉後半句。第②段Max的Not yet表示暫不張貼；乾燥資訊後，June再提議且Max說Yes，第③段才有完成動作。</p><p>第②段It is wet.的it指board，不是poster；第③段its title的its指poster的標題。位置、物件和語句先後共同支持推理，不能只找到一個Yes就說每件事都完成。可抄box、board、poster三張大字卡，移動poster卡表示文字所述狀態，這是紙上模擬，不是實際張貼。</p>"
+    },
+    {
+      "id": "g5s2-english-09-s05",
+      "title": "修復：先後不等於原因",
+      "childText": "原文沒給的時間與效果不要補猜。",
+      "html": "<p>錯說「10:00貼好」把開始時間當結束時間。錯說「Max說Not yet就是永遠反對」忽略後面明說Yes。錯說「孩子拿箱子使板變乾」把同時或先後的行為硬當原因，原文並沒有提供乾燥原因或實驗證據。</p><p>再看條件：Teacher不是無條件允許立刻貼，而是請先查板。成人可問「哪一句讓我們暫停？哪一句供應新的狀態？哪一句代表同意？哪一段證明已貼好？」孩子逐項指出原文即可，不必靠演技或真實把東西移高。摘要中可保留「取得允許、確認板乾、成人完成張貼」三個主要環節。</p>"
+    },
+    {
+      "id": "g5s2-english-09-s06",
+      "title": "獨立轉用：新短文停在提議",
+      "childText": "沒有結尾，也可以正確閱讀。",
+      "html": "<div class=\"story\"><p>First, Tia puts a picture in a folder. Then she asks an adult, “Can we use this table?” The adult says, “Yes.” Tia checks the table. It is dry. She asks Sol, “Shall we put the picture on the table?” The story stops here.</p></div><p>新詞folder資料夾、picture圖片、stops here到此停止。請將打亂的「向Sol提議／詢問成人／放進資料夾／檢查桌子／成人允許」排成事件順序，回答圖片最後有證據的位置，並指出缺少哪兩件事才能說已放到桌上。不要挪用原故事Max的Yes和成人張貼動作。</p><details><summary>完成後核對</summary><p>正確順序為放進資料夾→詢問成人→成人允許→檢查桌子→向Sol提議；目前最後明寫位置仍是folder。缺少Sol接受提議的回覆，以及圖片實際移到桌上的動作。桌子dry與成人允許只提供部分條件，不能代替Sol答覆和完成記錄。</p></details>"
+    },
+    {
+      "id": "g5s2-english-09-s07",
+      "title": "完成事件線與成人檢查",
+      "childText": "每一箭頭都要說得出根據。",
+      "html": "<p>成品寫五張原卡的順序，再用三格位置表作交叉核對。需要較多支持的孩子先找First和Finally兩端，再排中間；進階者刪去第③段，說明哪些結論須撤回。不要要求背原卡號，換卡號後仍應靠內容排列。</p><p>成人分別記錄順序、it／its指代、條件與結果證據。合格教師可完整讀短文，孩子用已供卡片排序，記為有卡支持聽辨；若同時看全文則是閱讀／聽讀，不算無文字聽力。所有操作只在紙面或桌上，不實際貼高處，不以真實校內照片或兒童姓名做材料。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對PDF實體第12–15、19、30頁（零起算11–14、18、29；印刷10–13、17、28）：第三階段簡易問答、閱讀、拼寫與語音。300個聽讀說及其中180個拼寫字詞為國小整體目標，並非五年級單學期配額。主題順序為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對。支持固定活動的現在簡單式、do／does問答、have／has；只使用本課完整情境。"
+    },
+    {
+      "title": "教育部｜英語文課綱閱讀與思考",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接核對。直接核對實體第13、18頁（索引12、17；印刷11、16）簡易短文主要內容與分類、排序、判斷方向；所有短文、卡片及示範為原創。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g5s2-english-09-q01",
+      "question": "原卡的正確先後是？",
+      "options": [
+        "A→B→C→D→E",
+        "C→B→D→E→A",
+        "C→A→B→E→D"
+      ],
+      "answer": 1,
+      "hint": "先定位First，再讀後續狀態。",
+      "explanation": "先詢問C，再查濕板B，成人說乾D，Max同意E，最後成人張貼A。"
+    },
+    {
+      "id": "g5s2-english-09-q02",
+      "question": "第②段It is wet.的it指？",
+      "options": [
+        "poster",
+        "board",
+        "box"
+      ],
+      "answer": 1,
+      "hint": "回看前一句Max檢查什麼。",
+      "explanation": "Max檢查的是board，因此it承接展示板，不是海報或箱子。"
+    },
+    {
+      "id": "g5s2-english-09-q03",
+      "question": "發現板濕時，poster在哪裡？",
+      "options": [
+        "仍在box",
+        "已在board",
+        "已被丟掉"
+      ],
+      "answer": 0,
+      "hint": "讀leave the poster in the box。",
+      "explanation": "正文明寫海報留在箱子，沒有移到板上或丟棄的動作。"
+    },
+    {
+      "id": "g5s2-english-09-q04",
+      "question": "哪項證據表示Max同意張貼？",
+      "options": [
+        "乾燥資訊後對June說Yes",
+        "前面的Not yet",
+        "卡片字母E本身"
+      ],
+      "answer": 0,
+      "hint": "需要讀到明確接受回合。",
+      "explanation": "Max在新的乾燥狀態與提議後答Yes，才構成同意；卡號不能代替內容。"
+    },
+    {
+      "id": "g5s2-english-09-q05",
+      "question": "可以確定海報在10:00貼好嗎？",
+      "options": [
+        "可以，第一句有At ten",
+        "可以，故事沒有其他時間就一定同時",
+        "不能，10:00只標開始情境"
+      ],
+      "answer": 2,
+      "hint": "開始時刻不等於完成時刻。",
+      "explanation": "原文未提供等待長度或完成時刻，不能把開頭At ten套到所有後續步驟。"
+    },
+    {
+      "id": "g5s2-english-09-q06",
+      "question": "新短文最後有證據的圖片位置是？",
+      "options": [
+        "folder",
+        "table上",
+        "board上"
+      ],
+      "answer": 0,
+      "hint": "找到最後一次明寫移動。",
+      "explanation": "新故事只明寫把圖片放入folder，之後仍在詢問和提議，沒有移出動作。"
+    },
+    {
+      "id": "g5s2-english-09-q07",
+      "question": "新故事還缺什麼才能說雙方同意且已完成放圖？",
+      "options": [
+        "更多形容詞",
+        "原故事的卡片A",
+        "Sol的接受回覆與實際放圖動作"
+      ],
+      "answer": 2,
+      "hint": "不得借用另一故事的結局。",
+      "explanation": "新Sol還未回答，也未寫放圖行動，兩類證據都缺，不能沿用原故事。"
+    },
+    {
+      "id": "g5s2-english-09-q08",
+      "question": "為何不能說拿箱子使板變乾？",
+      "options": [
+        "所有先發生的事都沒有意義",
+        "原文只描述事件，未提供這項因果證據",
+        "板乾一定是孩子吹的"
+      ],
+      "answer": 1,
+      "hint": "不要把先後或同時當因果。",
+      "explanation": "文本沒有說拿箱子造成乾燥，也沒有比較或作用機制資料，所以此因果結論無根據。"
+    }
+  ]
+}
