@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node tests/check.mjs && node tests/interactions.mjs && node tests/lessons.mjs && node tests/lesson-interactions.mjs && node tests/lesson-contrast.mjs && node tests/exams.mjs && node tests/exam-interactions.mjs",
+    "test": "node tests/check.mjs && node tests/interactions.mjs && node tests/lessons.mjs && node tests/lesson-interactions.mjs && node tests/lesson-contrast.mjs && node tests/exams.mjs && node tests/exam-interactions.mjs && node tests/exam-verification.mjs",
     "test:browser": "node tests/browser.mjs",
     "serve": "python3 -m http.server 8080"
   },

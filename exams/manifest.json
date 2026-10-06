@@ -1,6 +1,9 @@
 {
   "draft": false,
   "qaAccepted": 0,
+  "htmlVerified": 18,
+  "pdfVerified": 18,
+  "browserPrintVerified": 0,
   "forms": 18,
   "questions": 183,
   "inventory": 624,
