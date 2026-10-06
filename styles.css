@@ -349,3 +349,10 @@ select:focus-visible { outline: 3px solid #bd7135; outline-offset: 3px; }
 .start-lesson:hover { background: #dfeeda; }
 .topic-lesson-link { display: inline-block; min-height: 44px; font-weight: 650; }
 .lesson-open-label { display: block; width: fit-content; color: #275c40; background: #edf5e7; padding: 1px 6px; border-radius: 4px; font-size: 10px; margin-top: 3px; text-decoration: none; }
+
+/* Keep the new assessment navigation reachable on narrow screens. */
+@media (max-width: 540px) {
+ .header-inner { flex-wrap: wrap; padding-block: 12px 4px; gap: 4px; }
+ .header-links { width: 100%; justify-content: flex-end; gap: 20px; flex-wrap: wrap; }
+ .header-links a { min-height: 44px; }
+}
