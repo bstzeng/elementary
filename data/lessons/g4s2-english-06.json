@@ -1,0 +1,215 @@
+{
+  "id": "g4s2-english-06",
+  "course": "英語文",
+  "title": "長短母音的對照",
+  "subtitle": "比較三組短母音與VCe長母音詞，讀出規律也知道例外",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "比較三組短母音與VCe長母音詞，讀出規律也知道例外。所有詞義、完整模型和練習已供應，先理解再操作，最後換資料轉用。",
+  "goals": [
+    "我能比較cap/cape、kit/kite、not/note的詞形與意思。",
+    "我知道本課拼讀的長短母音是語音類別，不只是把聲音拖長。",
+    "我會把VCe當已學規律使用，遇give等例外重新核對，不說每個字尾e都一樣。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>精確UFLI美式54cape、55kite、56note/hope和62give例外，網站正文kit→kite；短詞cap/hop/not由前已核對UFLI35a/37a。長短教學明說非純時長，不作所有final-e普遍規則；本課只三組及一組轉用，不混入未教u變體。成人完整詞序列與語意俱全，無偽造音訊。支持者單組，進階者例外反證；選項只查書面可判斷概念，聽覺另評。</p>",
+  "selfCheck": [
+    "我能比較cap/cape、kit/kite、not/note的詞形與意思。",
+    "我知道本課拼讀的長短母音是語音類別，不只是把聲音拖長。",
+    "我會把VCe當已學規律使用，遇give等例外重新核對，不說每個字尾e都一樣。",
+    "我能說明自己完成了哪種任務，哪些部分還需要示範。"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-english-06-s01",
+      "title": "長短是拼讀名稱，不是秒數比賽",
+      "childText": "拉長cap不會自動變cape。",
+      "html": "<p>本課採UFLI美式拼讀模型，學三種指定對照。短母音與長母音是拼讀教學的類別；長a、長i、長o在這組詞中的聲音接近對應字母名稱，但不是只把短母音延長。先聽教師完整詞，再比聲音與意思，不計秒、不逼迫拉長或喊叫。</p><p>本課先處理a、i、o三組，沒有聲稱已教完全部長母音或所有拼字。來源是書面美式模型，編寫未驗聽音訊；教師必須先核對並能自然示範，無模型先做詞形理解，口語另教。</p>"
+    },
+    {
+      "id": "g4s2-english-06-s02",
+      "title": "完整三組字卡",
+      "childText": "每個新詞都有意思。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 245\" role=\"img\" aria-labelledby=\"g4s2-english-06-fig\"><title id=\"g4s2-english-06-fig\">原創詞形對照三列：cap到cape、kit到kite、not到note。右列詞尾e著色並由文字指出，箭頭表示比較，不表示音高或只要拖長聲音。</title><g fill=\"#eff4f9\" stroke=\"#456\"><rect x=\"15\" y=\"15\" width=\"330\" height=\"62\"/><rect x=\"15\" y=\"92\" width=\"330\" height=\"62\"/><rect x=\"15\" y=\"169\" width=\"330\" height=\"62\"/></g><g font-size=\"34\" lang=\"en\"><text x=\"34\" y=\"58\">cap</text><text x=\"211\" y=\"58\">cap<tspan fill=\"#9a5816\">e</tspan></text><text x=\"34\" y=\"135\">kit</text><text x=\"211\" y=\"135\">kit<tspan fill=\"#9a5816\">e</tspan></text><text x=\"34\" y=\"212\">not</text><text x=\"211\" y=\"212\">not<tspan fill=\"#9a5816\">e</tspan></text></g><g stroke=\"#456\" stroke-width=\"2\"><path d=\"M133 46H185L178 40M185 46L178 52M133 123H185L178 117M185 123L178 129M133 200H185L178 194M185 200L178 206\"/></g></svg><figcaption>cap帽子／cape披風；kit成套用品／kite風箏；not不／note便條。詞形比較仍須搭配教師實際語音。</figcaption></figure><p>cap帽子→cape披風；kit成套用品→kite風箏；not不→note便條。這些是六個不同詞，不是同一物品突然變長。披風、風箏只讀詞義，不穿繩綁披風、不放風箏或操作工具用品。成人可在大紙抄六詞及中文，無須剪裁。</p>"
+    },
+    {
+      "id": "g4s2-english-06-s03",
+      "title": "教師示範：注意末尾e與中間母音",
+      "childText": "拼字有四個字母，不等於有四個音節。",
+      "html": "<p>成人先讀<span lang=\"en\">cap</span>說帽子，接著讀<span lang=\"en\">cape</span>說披風，再將兩詞並排，指出末尾新增e。本課cape的e本身不另讀一個音節，卻和前面a的讀法有關。再按同法示範kit/kite與not/note，完整詞各自然讀兩次。</p><p>孩子先指出改哪個字母，再聽教師的母音差異。只看出e能證明視覺觀察，不能算已聽出聲音。圖中箭頭表示詞形比較，不是聲音上升指示，也不要求把子音一律拖長。</p>"
+    },
+    {
+      "id": "g4s2-english-06-s04",
+      "title": "一起練：有詞義提示的聽辨",
+      "childText": "先懂詞，再選卡。",
+      "html": "<p>六張英中卡先配對完成。成人第一輪讀<span lang=\"en\">cape, cap, kite, kit, note, not</span>，孩子依序指披風、帽子、風箏、成套用品、便條、不。第二輪改<span lang=\"en\">cap, cap, note, kite</span>，保留重複項避免只背左右輪流。</p><p>成人記英文是否可見、中文提示、口型與重聽次數，這是有支援聽辨而非無提示考試。若把兩詞都指成同一張，先回到一組重示範，再換卡位；不用一次增加未教詞來判定不會。</p>"
+    },
+    {
+      "id": "g4s2-english-06-s05",
+      "title": "拼寫也會改意思",
+      "childText": "從短到長不能忘了最後e。",
+      "html": "<p>圖文任務：想寫「風箏」卻寫kit，先確認kit意思是成套用品，再補末尾e成kite；想寫「帽子」卻寫cape，需依所要意思改cap。不是看見e就一定比較正確，而是要和完整詞義、讀音相符。</p><p>成人可做問答：<span lang=\"en\">Is it a cap? / No, it’s a cape.</span> 此處角色拿的是披風名稱卡；再換成帽子卡，答<span lang=\"en\">Yes, it is.</span>。兩卡的名字不靠猜圖片顏色，全部詞義已給定。</p>"
+    },
+    {
+      "id": "g4s2-english-06-s06",
+      "title": "例外讓規律有邊界",
+      "childText": "不是所有字尾e都讓前面念字母名。",
+      "html": "<p>UFLI第62課將<span lang=\"en\">give</span>列為silent e例外，意思「給」。它雖有i和末尾e，不能直接照kite的長i模式讀。這裡教師核對give完整美式模型後示範，孩子先辨識「需要另記的已知例外」，不用自行拼造未驗證聲音。</p><p>所以修正口訣為「在已教的這些VCe詞中，字尾e提示相應長母音；還有例外，要查完整詞」。也不要把每個字尾e都刪去，因為有些刪去不成詞或變成另一詞。規律是幫助，不是取代字典和意思。</p>"
+    },
+    {
+      "id": "g4s2-english-06-s07",
+      "title": "自己試：hop和hope",
+      "childText": "把方法轉到新的一組。",
+      "html": "<p>新詞義卡：<span lang=\"en\">hop</span>單腳跳，<span lang=\"en\">hope</span>希望。成人先供完整字音模型，孩子再說拼字哪裡不同，按已有o/ o_e模式比較；活動只用詞卡，不需跳。接著圈hope中的末尾e，讀回完整詞並說中文意思。</p><details><summary>文字部分核對</summary><p>hope比hop多最後e；hop是本課短o組，hope是本課o_e長o組。母音不是只多念幾秒。若只完成圈字，記詞形觀察；實際聽辨與朗讀另外記，不能由答案文字代替聲音。</p></details><p>最後有人說「give也有e，所以與kite一樣」，孩子用本課例外卡反駁，說出需要查證的步驟。</p>"
+    },
+    {
+      "id": "g4s2-english-06-s08",
+      "title": "一張對照卡要有三項",
+      "childText": "拼字、意思、聲音模型各留位置。",
+      "html": "<p>成品例：「cap帽子／cape披風；末尾e不同；已聽教師模型，第一次需指卡提示」。若未做口語，就寫「已比較詞形，語音待教」，不畫假裝錄音通過的標記。</p><p>支持者只學cap/cape；進階者三組再加hop/hope和give例外。成人評詞義、字尾辨識、規律邊界和實際語音分開，接納正常英語變體；不以越長、越響、越快當作長母音學會的標準。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜VCe lessons54–62",
+      "url": "https://ufli.education.ufl.edu/foundations/toolbox/54-62/",
+      "note": "2026-10-05直接核對美式原版VCe說明與kit→kite，章節含62例外，不採無例外規則。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜54 Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/54_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05直接讀PDF指定詞項：cape；未驗聽，不複製來源全文或整條詞鏈。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜55 Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/55_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05直接讀PDF指定詞項：kite；未驗聽，不複製來源全文或整條詞鏈。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜56 Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/56_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05直接讀PDF指定詞項：note、hope；未驗聽，不複製來源全文或整條詞鏈。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜62 Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/62_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05直接讀PDF指定詞項：give列silent-e例外；未驗聽，不複製來源全文或整條詞鏈。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜35a Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/35a_HomePractice_UFLI-Foundations.pdf",
+      "note": "2026-10-05 直接核對美式原版短母音分類及cat、cap、map、lap、nap例詞；只使用基本詞項及拼讀概念，不複製原作全文或整組練習，未驗聽。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜37a Home Practice",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/08/37a_HomePractice_UFLI-Foundations-1.pdf",
+      "note": "2026-10-05 直接核對美式原版短母音分類及hop、hot、top例詞；只使用基本詞項及拼讀概念，不複製原作全文或整組練習，未驗聽。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s2-english-06-q01",
+      "question": "cap和cape在拼字上差在哪？",
+      "options": [
+        "cape多末尾e",
+        "cap多中間i",
+        "兩詞完全相同"
+      ],
+      "answer": 0,
+      "hint": "比較右端最後字母。",
+      "explanation": "cape保留c-a-p並增加最後e，不能說中間換i或兩詞完全沒有差異。"
+    },
+    {
+      "id": "g4s2-english-06-q02",
+      "question": "本課kite的意思是？",
+      "options": [
+        "風箏",
+        "帽子",
+        "成套用品"
+      ],
+      "answer": 0,
+      "hint": "kit與kite有不同詞義。",
+      "explanation": "kite是風箏，kit才是成套用品，末尾e的差異對應不同完整詞。"
+    },
+    {
+      "id": "g4s2-english-06-q03",
+      "question": "本課長短母音可只靠拖長短音判定嗎？",
+      "options": [
+        "可以，只計秒數",
+        "不能，還有聲音類別差異",
+        "可以，只看誰喊最大聲"
+      ],
+      "answer": 1,
+      "hint": "長短是拼讀教學名稱。",
+      "explanation": "本課長短母音不是單純時長差異，拉長或喊大聲不能自動形成另一個詞的母音。"
+    },
+    {
+      "id": "g4s2-english-06-q04",
+      "question": "想寫風箏卻寫kit，怎樣修？",
+      "options": [
+        "加末尾e成kite",
+        "把k刪掉",
+        "把t換s"
+      ],
+      "answer": 0,
+      "hint": "讓拼寫對應要表達的意思。",
+      "explanation": "風箏的已給詞形是kite，kit少末尾e且表示不同意思，所以應補回。"
+    },
+    {
+      "id": "g4s2-english-06-q05",
+      "question": "give在本課扮演什麼例子？",
+      "options": [
+        "尚未提供意思的假字",
+        "字尾e規律的例外",
+        "所有e都相同的證明"
+      ],
+      "answer": 1,
+      "hint": "看第62課例外說明。",
+      "explanation": "give是已供詞義的例外，提醒不能把所有含i和末尾e的詞都照kite讀。"
+    },
+    {
+      "id": "g4s2-english-06-q06",
+      "question": "新hope和hop比較，何者正確？",
+      "options": [
+        "hop多末尾e且意思為書",
+        "hope多末尾e且意思為希望",
+        "兩詞意思完全相同"
+      ],
+      "answer": 1,
+      "hint": "一起查字形與意思。",
+      "explanation": "新卡hope表示希望並多末尾e，hop表示單腳跳，不能把字形變化當同義。"
+    },
+    {
+      "id": "g4s2-english-06-q07",
+      "question": "圈對詞尾e證明哪一項？",
+      "options": [
+        "已播放字典錄音",
+        "已經聽辨所有語音",
+        "完成視覺詞形辨認"
+      ],
+      "answer": 2,
+      "hint": "實際完成的是哪種活動？",
+      "explanation": "圈出e是文字視覺證據，沒有聲音示範與反應就不能宣稱完成聽辨。"
+    },
+    {
+      "id": "g4s2-english-06-q08",
+      "question": "遇到新的末尾e單字，合宜做法？",
+      "options": [
+        "一律只把短音拖長",
+        "永遠刪去e",
+        "先嘗試規律，再查完整詞核對"
+      ],
+      "answer": 2,
+      "hint": "規律有範圍也有例外。",
+      "explanation": "已教模式可幫提出猜讀，但新詞仍需完整核對，不能用刪e或拖長取代查證。"
+    }
+  ]
+}

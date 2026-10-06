@@ -1,0 +1,177 @@
+{
+  "id": "g4s2-mathematics-12",
+  "course": "數學",
+  "title": "立方公分與體積比較",
+  "subtitle": "用相同的單位正方體逐層數，讓看不見的部分也有根據。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "認識1立方公分的實際單位",
+    "以完整層記錄計數堆疊體積",
+    "區分可見面高度與體積並辨認資料不足"
+  ],
+  "materials": [
+    "成人固定於透明盒的單位正方體展示或經核實圖示",
+    "安全大型輕質完整方塊、完整層記錄紙"
+  ],
+  "intro": "用相同的單位正方體逐層數，讓看不見的部分也有根據。",
+  "sections": [
+    {
+      "title": "體積是物體佔的空間大小",
+      "childText": "不能只數畫面上看得到幾個面。",
+      "html": "<p>兩件物體可能一樣高，卻一件很寬、一件很窄，佔的空間不同。比較體積先用同樣大小、同樣形狀的單位正方體排滿或組成，才能可靠計數。</p><p>一個正方體有多個面，但它仍是一個佔空間的單位。看見它的正面、上面、側面，不是有三個正方體；面積看面，體積看整個立體。</p>",
+      "id": "g4s2-mathematics-12-s01"
+    },
+    {
+      "title": "認識1立方公分",
+      "childText": "三個方向的邊長都1公分的正方體。",
+      "html": "<p>邊長1公分的正方體，體積是1立方公分，可記cm³。成人可展示固定在透明盒中的實際1公分正方體，先用尺確認每邊；孩子不取出小塊，不放近口鼻。</p><p>孩子親手堆的材料改用安全大型方塊，每個只「代表」1個單位小正方體。大方塊本身並非1立方公分，不能把4公分邊長的玩具說成實際1立方公分。沒有真實單位展示時先用圖示概念，成人另安排實物核對。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 270\" role=\"img\" aria-labelledby=\"g4s2-mathematics-12-unitcube\"><title id=\"g4s2-mathematics-12-unitcube\">一個單位正方體的立體示意，三條不同方向的邊均標1公分；畫面看見三個面，但仍只有一個正方體，體積1立方公分。圖為等比例投影，並非螢幕實尺。</title><polygon points=\"180,210 110.71797,170 110.71797,90 180,130\" fill=\"#a0c4b4\" stroke=\"#465e6c\" stroke-width=\"2\"/><polygon points=\"180,210 249.28203,170 249.28203,90 180,130\" fill=\"#c1e1d3\" stroke=\"#465e6c\" stroke-width=\"2\"/><polygon points=\"180,130 110.71797,90 180,50 249.28203,90\" fill=\"#e1f0e9\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"112\" y=\"211\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1公分</text><text x=\"249\" y=\"211\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1公分</text><text x=\"293\" y=\"137\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1公分</text><text x=\"180\" y=\"245\" text-anchor=\"middle\" font-size=\"19\" fill=\"#183f38\" font-family=\"sans-serif\">一個正方體，不是三個</text></svg><figcaption>一個單位正方體的立體示意，三條不同方向的邊均標1公分；畫面看見三個面，但仍只有一個正方體，體積1立方公分。圖為等比例投影，並非螢幕實尺。</figcaption></figure>",
+      "id": "g4s2-mathematics-12-s02"
+    },
+    {
+      "title": "逐層計數：看不到的也要有證據",
+      "childText": "供給每層完整記錄，才能知道藏在後面的量。",
+      "html": "<p>下圖是兩層模型的完整位置記錄：每層2排，每排3個，六個位置都放1個正方體。下層6個、上層6個，共12個；若每個實際是1立方公分，總體積12立方公分。</p><p>圖每格是該層一個放置位置，不是畫一個可見面。記錄明確保證兩層都完整、沒有中空；若只看外觀照片，沒有這項資訊，不能自行認定後方一定填滿。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\" role=\"img\" aria-labelledby=\"g4s2-mathematics-12-layers\"><title id=\"g4s2-mathematics-12-layers\">完整兩層的平面位置紀錄，每層2排3格、每格標1個單位正方體，兩層各6，共12個。這是完整佔位記錄，不是可見面的計數圖。</title><text x=\"100\" y=\"30\" text-anchor=\"middle\" font-size=\"21\" fill=\"#183f38\" font-family=\"sans-serif\">下層</text><rect x=\"45\" y=\"50\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"62.5\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"80\" y=\"50\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"97.5\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"115\" y=\"50\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"132.5\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"45\" y=\"85\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"62.5\" y=\"109\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"80\" y=\"85\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"97.5\" y=\"109\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"115\" y=\"85\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"132.5\" y=\"109\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"98\" y=\"150\" text-anchor=\"middle\" font-size=\"17\" fill=\"#183f38\" font-family=\"sans-serif\">6個小正方體</text><text x=\"260\" y=\"30\" text-anchor=\"middle\" font-size=\"21\" fill=\"#183f38\" font-family=\"sans-serif\">上層</text><rect x=\"205\" y=\"50\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"222.5\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"240\" y=\"50\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"257.5\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"275\" y=\"50\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"292.5\" y=\"74\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"205\" y=\"85\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"222.5\" y=\"109\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"240\" y=\"85\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"257.5\" y=\"109\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><rect x=\"275\" y=\"85\" width=\"35\" height=\"35\" fill=\"#b4d7c8\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"292.5\" y=\"109\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">1</text><text x=\"258\" y=\"150\" text-anchor=\"middle\" font-size=\"17\" fill=\"#183f38\" font-family=\"sans-serif\">6個小正方體</text><text x=\"180\" y=\"191\" text-anchor=\"middle\" font-size=\"18\" fill=\"#183f38\" font-family=\"sans-serif\">每格是一個位置，不是一個面</text></svg><figcaption>完整兩層的平面位置紀錄，每層2排3格、每格標1個單位正方體，兩層各6，共12個。這是完整佔位記錄，不是可見面的計數圖。</figcaption></figure>",
+      "id": "g4s2-mathematics-12-s03"
+    },
+    {
+      "title": "改排位置，個數不變時體積不變",
+      "childText": "沒有增減、沒有重疊塞進同一位置。",
+      "html": "<p>同樣12個單位正方體，先分成兩層各6，再拆開排成單層12個。不增不減且每塊完整保留，所以體積相同，外形與高度可以改變。</p><p>用安全大方塊在桌面低矮堆疊，成人留意不擋視線、不堆高、不讓人站或坐上模型。動作不便時可在完整紙面逐層標記移動，口述確認12個都去到哪裡。</p>",
+      "id": "g4s2-mathematics-12-s04"
+    },
+    {
+      "title": "缺一個或多一層，要照紀錄算",
+      "childText": "外框相同，不代表內部填法相同。",
+      "html": "<p>模型甲下層6個、上層6個，共12個；乙下層6個、上層5個，且記錄指出上層右後角空著，共11個。甲比乙多1個單位體積。</p><p>如果只給同樣長寬高的外框卻未說中間是否空缺，就不能確定兩模型有同體積。請問需要哪一層、哪些位置的資訊，而不是猜看不見的格子。</p><table><caption>每層都有明確紀錄</caption><thead><tr><th scope=\"col\">模型</th><th scope=\"col\">下層</th><th scope=\"col\">上層</th><th scope=\"col\">單位正方體總數</th></tr></thead><tbody><tr><th scope=\"row\">甲</th><td>6</td><td>6</td><td>12</td></tr><tr><th scope=\"row\">乙</th><td>6</td><td>5，右後缺1</td><td>11</td></tr><tr><th scope=\"row\">丙</th><td>4</td><td>4</td><td>8</td></tr></tbody></table>",
+      "id": "g4s2-mathematics-12-s05"
+    },
+    {
+      "title": "一起做：體積較大不一定較高",
+      "childText": "比較用的單位必須相同。",
+      "html": "<p>模型丙兩層各4個，共8；丁一層有9個。丁比較矮，但9個相同單位比8個多，所以丁體積較大。孩子用數量與單位解釋，不以高度投票。</p><p>若甲用大方塊4個，乙用小方塊6個，單看4和6不能比較實際體積，因單位大小不同。需改用同一單位，或取得每塊大小資訊；本課不教一般長方體體積公式。</p>",
+      "id": "g4s2-mathematics-12-s06"
+    },
+    {
+      "title": "獨立轉用：先說資料是否足夠",
+      "childText": "只在有完整層記錄時合計。",
+      "html": "<p>模型一共有三層，完整紀錄各為4個、4個、3個，沒有重疊或隱藏未記的塊；每個實際是1立方公分，求體積。模型二只知外表能看見7個面，是否能定出體積？說明你需要什麼證據。</p><details><summary>完成後核對</summary><p>模型一4＋4＋3＝11個，體積11立方公分。三層都給完整記錄，所以可以直接逐層合計，不是在猜被遮住的塊。</p><p>模型二不能由7個可見面確定正方體數，更不能確定體積。需要單位塊的實際大小，以及每層完整的佔位或拆開點數紀錄。可見面和完整小正方體不是同一種單位。</p></details>",
+      "id": "g4s2-mathematics-12-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-4-12/S-4-4，以1立方公分單位正方體及具體操作建立體積，避免一般長方體長乘寬乘高公式。本課逐層數6加6及4加4加3，即使層上排列整齊，也不提煉成普遍三邊乘積。平面層圖以每格一個佔位表示，文字明示每層完整且無中空，不能把投影可見面當完整塊數或從照片猜隱藏填充。</p><p>實際1公分小塊只由成人固定於透明展示盒內，孩子不接觸散落小件。親手操作改用大而輕、完整無易脫落零件的安全方塊，先明說每大塊代表1單位，不宣稱其物理體積為1立方公分。若無真單位展示，記錄概念模型活動並保留實物量感驗證，不把屏幕圖說成實際尺度。</p><p>支持組先數單層及區分一個正方體的幾個可見面，再用兩層分開圖；熟練組比較缺一塊、高但較小及同外框可能中空的情況，不追求紙上複雜空間測驗。成人觀察單位大小一致、每塊只數一次、是否有完整隱藏資訊、能否區分高矮與體積及知道模型比例。堆疊保持桌面低矮、成人監督，不用人負重或高塔。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-mathematics-12-q01",
+      "question": "1立方公分的單位正方體邊長是？",
+      "options": [
+        "只有一邊1公分即可",
+        "每邊1公分",
+        "每邊1公尺"
+      ],
+      "answer": 1,
+      "hint": "正方體三個方向等長。",
+      "explanation": "每條邊都是1公分的正方體才有1立方公分體積。"
+    },
+    {
+      "id": "g4s2-mathematics-12-q02",
+      "question": "一個正方體能看見3個面，表示？",
+      "options": [
+        "仍只有1個正方體",
+        "有3個正方體",
+        "體積必是3立方公分"
+      ],
+      "answer": 0,
+      "hint": "面和整個立體是不同單位。",
+      "explanation": "正面上面側面都屬同一個正方體，不能將可見面數當塊數。"
+    },
+    {
+      "id": "g4s2-mathematics-12-q03",
+      "question": "主圖下層6個上層6個，每塊1立方公分，體積？",
+      "options": [
+        "6立方公分",
+        "12平方公分",
+        "12立方公分"
+      ],
+      "answer": 2,
+      "hint": "兩層的完整佔位都已提供。",
+      "explanation": "每層6個共12個同樣單位，合12立方公分，體積不是平方單位。"
+    },
+    {
+      "id": "g4s2-mathematics-12-q04",
+      "question": "把同樣12塊改排，沒有增減，體積？",
+      "options": [
+        "越高一定越大",
+        "排成一層就變小",
+        "不變"
+      ],
+      "answer": 2,
+      "hint": "每一完整單位塊仍被保留。",
+      "explanation": "只改位置形狀而不增減單位塊，總佔空間量仍由12個單位組成。"
+    },
+    {
+      "id": "g4s2-mathematics-12-q05",
+      "question": "乙下層6、上層5，體積比甲兩層各6如何？",
+      "options": [
+        "一樣，外框相同",
+        "少1個單位",
+        "多1個單位"
+      ],
+      "answer": 1,
+      "hint": "比較完整紀錄12與11。",
+      "explanation": "乙共11、甲共12，甲比乙多一個相同單位正方體。"
+    },
+    {
+      "id": "g4s2-mathematics-12-q06",
+      "question": "丙兩層各4、丁單層9個相同單位，誰大？",
+      "options": [
+        "丁體積較大",
+        "丙較高所以大",
+        "兩者一樣"
+      ],
+      "answer": 0,
+      "hint": "比較總塊數，不只高度。",
+      "explanation": "丙8個、丁9個，單位相同時9比8大，單層仍可有較大體積。"
+    },
+    {
+      "id": "g4s2-mathematics-12-q07",
+      "question": "操作用的大方塊，每塊代表1單位，應怎麼說？",
+      "options": [
+        "每個玩具都是真實1立方公分",
+        "只是模型，不一定真的1立方公分",
+        "大方塊不能作任何模型"
+      ],
+      "answer": 1,
+      "hint": "代表的量與物理大小要分清。",
+      "explanation": "大型方塊可以代表單位幫助操作，但真實體積須由實際大小決定。"
+    },
+    {
+      "id": "g4s2-mathematics-12-q08",
+      "question": "只知道能看見7個面，可確定體積嗎？",
+      "options": [
+        "不能，需單位大小和完整塊數",
+        "一定7立方公分",
+        "一定3立方公分"
+      ],
+      "answer": 0,
+      "hint": "面數不等於小正方體數。",
+      "explanation": "可見面不能說明所有塊及隱藏位置，還需單位大小才能求體積。"
+    }
+  ],
+  "selfCheck": [
+    "我數的是整個小正方體，不是面。",
+    "我先確認單位大小相同。",
+    "我不猜沒有紀錄的隱藏單位。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-12/S-4-4：1立方公分及具體堆疊計數比較；安全大塊明示模型比例，不教一般長方體體積公式。"
+    }
+  ]
+}

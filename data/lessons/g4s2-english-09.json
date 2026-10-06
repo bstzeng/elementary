@@ -1,0 +1,190 @@
+{
+  "id": "g4s2-english-09",
+  "course": "英語文",
+  "title": "看圖理解對話順序",
+  "subtitle": "用三張實際場景和完整配句重建順序，再轉用到新找書故事",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "圖卡刻意打亂。用「先問、得到線索、找到」的功能與書的位置一起推理。",
+  "goals": [
+    "我能用人物、物品位置和說話用途判斷故事先後。",
+    "我會追蹤it指同一本書，並保留under/on的位置意思。",
+    "我能在新圖文資料或缺少一幕時重判順序，不只背代號。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>三幅原創實際人物/書/椅場景，A持書、B問句、C指向椅下；代號與時間分離，完整三回合供應，答案先在折疊區。支持者功能欄，進階者新紅書桌上文字轉用和缺幕未知。圖說只描述可見，位置和物品移動吻合；角色外觀不推身份性別心情。看圖、看字幕、聽教師與自主朗讀分評，沒有錄音已播放聲稱，不鑽椅、不尋真實失物。</p>",
+  "selfCheck": [
+    "我能用人物、物品位置和說話用途判斷故事先後。",
+    "我會追蹤it指同一本書，並保留under/on的位置意思。",
+    "我能在新圖文資料或缺少一幕時重判順序，不只背代號。",
+    "我能指出一個圖像證據和一個文字證據，並保留未知。"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-english-09-s01",
+      "title": "先看狀態變化",
+      "childText": "卡片字母不是時間順序。",
+      "html": "<p>故事任務是Nia找一冊藍書，Bo協助。先觀察書在哪、誰已拿到，再讀每張配句。圖卡A/B/C只是代號，不能看字母順序就當事情一定按A→B→C發生。</p><p>詞義：<span lang=\"en\">blue book</span>藍書、<span lang=\"en\">chair</span>椅子、<span lang=\"en\">under</span>在下面、<span lang=\"en\">where</span>哪裡、<span lang=\"en\">Here it is!</span>在這裡、<span lang=\"en\">Thank you.</span>謝謝。沒有真實失物，不需要鑽椅下或伸手拿地板上的物品，用指圖完成就好。</p>"
+    },
+    {
+      "id": "g4s2-english-09-s02",
+      "title": "完整三張原創圖卡",
+      "childText": "可見物品和對話用途一起看。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 525\" role=\"img\" aria-labelledby=\"g4s2-english-09-fig\"><title id=\"g4s2-english-09-fig\">原創打亂順序的三張圖。A：Nia手邊拿藍書，椅下空；B：Nia空手詢問，藍書在椅下；C：Bo伸手指向椅下藍書。圖中A/B/C是卡名，不是故事順序。</title><g transform=\"translate(0 0)\"><rect x=\"8\" y=\"8\" width=\"344\" height=\"160\" fill=\"#f3f6fb\" stroke=\"#456\"/><text x=\"18\" y=\"32\" font-size=\"21\">A</text><g font-size=\"17\" lang=\"en\"><text x=\"51\" y=\"34\">Nia</text><text x=\"169\" y=\"34\">Bo</text></g><g stroke=\"#345\" stroke-width=\"2\"><circle cx=\"72\" cy=\"60\" r=\"17\" fill=\"#c9a27c\"/><path d=\"M52 113V89Q72 75 92 89V113\" fill=\"#6194b7\"/><circle cx=\"186\" cy=\"60\" r=\"17\" fill=\"#d4bda2\"/><path d=\"M166 113V89Q186 75 206 89V113\" fill=\"#8d73ad\"/></g><path d=\"M268 95V49H316V95ZM260 95H324V108H260ZM268 108V151M316 108V151\" fill=\"#d4b078\" stroke=\"#674d29\" stroke-width=\"3\"/><path d=\"M85 94L107 103\" stroke=\"#345\" stroke-width=\"5\"/><rect x=\"105\" y=\"85\" width=\"40\" height=\"40\" fill=\"#467cb7\" stroke=\"#294565\" stroke-width=\"2\"/><path d=\"M111 87V123\" stroke=\"#bfd7ee\" stroke-width=\"2\"/></g><g transform=\"translate(0 175)\"><rect x=\"8\" y=\"8\" width=\"344\" height=\"160\" fill=\"#f3f6fb\" stroke=\"#456\"/><text x=\"18\" y=\"32\" font-size=\"21\">B</text><g font-size=\"17\" lang=\"en\"><text x=\"51\" y=\"34\">Nia</text><text x=\"169\" y=\"34\">Bo</text></g><g stroke=\"#345\" stroke-width=\"2\"><circle cx=\"72\" cy=\"60\" r=\"17\" fill=\"#c9a27c\"/><path d=\"M52 113V89Q72 75 92 89V113\" fill=\"#6194b7\"/><circle cx=\"186\" cy=\"60\" r=\"17\" fill=\"#d4bda2\"/><path d=\"M166 113V89Q186 75 206 89V113\" fill=\"#8d73ad\"/></g><path d=\"M268 95V49H316V95ZM260 95H324V108H260ZM268 108V151M316 108V151\" fill=\"#d4b078\" stroke=\"#674d29\" stroke-width=\"3\"/><rect x=\"275\" y=\"126\" width=\"36\" height=\"20\" fill=\"#467cb7\" stroke=\"#294565\" stroke-width=\"2\"/><path d=\"M281 128V144\" stroke=\"#bfd7ee\" stroke-width=\"2\"/><path d=\"M86 93L111 88M110 88L120 82M110 88L122 90\" stroke=\"#345\" stroke-width=\"3\" fill=\"none\"/><text x=\"125\" y=\"80\" font-size=\"25\">?</text></g><g transform=\"translate(0 350)\"><rect x=\"8\" y=\"8\" width=\"344\" height=\"160\" fill=\"#f3f6fb\" stroke=\"#456\"/><text x=\"18\" y=\"32\" font-size=\"21\">C</text><g font-size=\"17\" lang=\"en\"><text x=\"51\" y=\"34\">Nia</text><text x=\"169\" y=\"34\">Bo</text></g><g stroke=\"#345\" stroke-width=\"2\"><circle cx=\"72\" cy=\"60\" r=\"17\" fill=\"#c9a27c\"/><path d=\"M52 113V89Q72 75 92 89V113\" fill=\"#6194b7\"/><circle cx=\"186\" cy=\"60\" r=\"17\" fill=\"#d4bda2\"/><path d=\"M166 113V89Q186 75 206 89V113\" fill=\"#8d73ad\"/></g><path d=\"M268 95V49H316V95ZM260 95H324V108H260ZM268 108V151M316 108V151\" fill=\"#d4b078\" stroke=\"#674d29\" stroke-width=\"3\"/><rect x=\"275\" y=\"126\" width=\"36\" height=\"20\" fill=\"#467cb7\" stroke=\"#294565\" stroke-width=\"2\"/><path d=\"M281 128V144\" stroke=\"#bfd7ee\" stroke-width=\"2\"/><path d=\"M199 94L244 123L265 129\" stroke=\"#345\" stroke-width=\"4\" fill=\"none\"/><circle cx=\"265\" cy=\"129\" r=\"4\" fill=\"#d4bda2\"/></g></svg><figcaption>A已拿到藍書；B詢問書在哪；C指出椅下藍書。圖卡順序刻意打亂，請用語句與物品位置判斷事件順序。</figcaption></figure><p>圖說可作非視覺替代：A書已在Nia手邊，B與C書仍在椅下，C有Bo指向書的動作。只看B/C兩個靜止物品位置還不能充分區別先後，要加入下面配句。不能從一張圖推定誰的書、什麼時候掉落或為什麼要找。</p>"
+    },
+    {
+      "id": "g4s2-english-09-s03",
+      "title": "每張完整配句與成人模型",
+      "childText": "先供齊所有說話，再安排先後。",
+      "html": "<div class=\"story\"><p>A卡Nia：<span lang=\"en\">Here it is! Thank you.</span> 在這裡！謝謝。B卡Nia問Bo：<span lang=\"en\">Where is the blue book?</span> 藍書在哪裡？C卡Bo：<span lang=\"en\">It’s under the chair.</span> 它在椅子下面。</p></div><p>成人先按顯示順序A、B、C逐卡讀，讓孩子認卡，不假裝這已是正確故事。接著請孩子把卡代號寫到「提出問題／提供線索／找到並致謝」三欄；先說理由，再展開下一節核對。It在C回指剛問的blue book；A的it也指同一本，不是椅子。</p>"
+    },
+    {
+      "id": "g4s2-english-09-s04",
+      "title": "一起核對一條證據鏈",
+      "childText": "每一步都能解釋為什麼放這裡。",
+      "html": "<details><summary>示範順序與完整朗讀</summary><p>順序B→C→A。Nia：<span lang=\"en\">Where is the blue book?</span>；Bo：<span lang=\"en\">It’s under the chair.</span>；Nia：<span lang=\"en\">Here it is! Thank you.</span>。B先詢問，C回答位置，A已拿到才表示找到和致謝。</p></details><p>成人指出兩種支持：語句功能由問題到回答到致謝，圖中書由椅下到手邊。孩子若只說「因為B是第二個字母」沒有解釋時間；若只憑Thank you判最後，也需說明本故事A的找到結果相符，不能推論所有故事的謝謝都在最後。</p>"
+    },
+    {
+      "id": "g4s2-english-09-s05",
+      "title": "修復：別只背一個固定順序",
+      "childText": "新故事要用新的證據。",
+      "html": "<p>錯排A→B→C把已找到放在首次詢問前，與這個「先不知道、獲提示、拿到」故事不合。若有人想寫回憶故事，那是新敘事安排，需要另有提示；本課供應的是這次事件的時間順序，不讓未寫出的回憶替錯排找理由。</p><p>另一個錯誤把C讀成<span lang=\"en\">It’s on the chair.</span>。圖中書在椅面下方，文字under也一致；若位置讀錯，即使順序排對，訊息仍不完整。先回到參照物chair，再把under與on對照，不以聲音大就當讀清楚。</p>"
+    },
+    {
+      "id": "g4s2-english-09-s06",
+      "title": "自己試：新色與新位置",
+      "childText": "改資料後，對話也要跟著變。",
+      "html": "<p>新故事文字卡：D，Jo問紅書在哪；E，Kai說在桌上；F，Jo找到並道謝。顯示順序是F、D、E。任務先排代號，再從詞庫red紅、table桌子、on在上面改出三句英文。這是另一組完整文字情境，不宣稱原藍書圖已變紅。</p><details><summary>獨立轉用核對</summary><p>D→E→F；<span lang=\"en\">Where is the red book? / It’s on the table. / Here it is! Thank you.</span>。顏色blue改red，位置under the chair改on the table，找書的功能順序保持。</p></details><p>最後指出原圖不能證明新紅書真的放在桌上，新位置的證據是追加文字卡；兩種材料來源不可混淆。</p>"
+    },
+    {
+      "id": "g4s2-english-09-s07",
+      "title": "增加一個缺資料的檢查",
+      "childText": "沒有下一幕，就不替它補結局。",
+      "html": "<p>另給只有B詢問和C提示的兩卡，沒有A或任何找到動作。你可以排B→C，但不能斷言Nia已拿到、已看完或書一定屬於Nia。需要哪項新資料？可以回答「看到找到或拿到的下一幕」。這是有根據的未知，不是猜測故事一定順利。</p><p>成人可逐卡遮住字幕做看圖描述，再露出字幕做圖文整合；兩種條件分開記。完整語音由教師自然讀，不把遮字幕看圖當作純聽力，因圖像仍提供重要線索。</p>"
+    },
+    {
+      "id": "g4s2-english-09-s08",
+      "title": "用三句摘要保存先後",
+      "childText": "角色、對象和結果都一致。",
+      "html": "<p>成品例：「Nia問藍書在哪，Bo說椅下，Nia拿到後致謝。」再寫B→C→A並在每步旁標一個理由：問題／位置回覆／持書結果。孩子可以中文摘要加英文短句，無需背長文。</p><p>支持者用功能欄和圖說，進階者同時改顏色位置並處理缺幕。成人評順序依據、it指涉、位置與資料缺口，不以字母順序、快讀或表演音量評分。所有圖文答案可無JavaScript閱讀，不上傳兒童圖像或活動影片。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Prepositions of place",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-place",
+      "note": "2026-10-05直接核對正文in the kitchen/living room與on/under位置框架；圖、角色和對話原創，未驗聽。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s2-english-09-q01",
+      "question": "原圖卡A/B/C的字母代表什麼？",
+      "options": [
+        "角色年齡",
+        "卡片代號，不直接代表時間",
+        "一定是故事時間順序"
+      ],
+      "answer": 1,
+      "hint": "題目明說刻意打亂。",
+      "explanation": "A/B/C只是識別卡名，應依事件與句子功能排序，不能把字母當時間證據。"
+    },
+    {
+      "id": "g4s2-english-09-q02",
+      "question": "哪卡呈現Nia已拿到藍書？",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answer": 0,
+      "hint": "比較書在手邊還是椅下。",
+      "explanation": "A的書在Nia手邊且椅下空，配句也說找到；B/C仍在椅下。"
+    },
+    {
+      "id": "g4s2-english-09-q03",
+      "question": "B卡Where is the blue book?的用途是？",
+      "options": [
+        "詢問位置",
+        "宣告所有權",
+        "確認已看完"
+      ],
+      "answer": 0,
+      "hint": "where問哪一類資訊？",
+      "explanation": "此句問書所在位置，不表示書已讀完或屬於哪個人。"
+    },
+    {
+      "id": "g4s2-english-09-q04",
+      "question": "C的it指哪項？",
+      "options": [
+        "椅子",
+        "藍書",
+        "所有角色"
+      ],
+      "answer": 1,
+      "hint": "回到剛剛被問的對象。",
+      "explanation": "C回答B的藍書位置，所以it承接blue book，不是把椅子說在自己下面。"
+    },
+    {
+      "id": "g4s2-english-09-q05",
+      "question": "這次原故事正確順序？",
+      "options": [
+        "C→A→B",
+        "A→B→C",
+        "B→C→A"
+      ],
+      "answer": 2,
+      "hint": "先問，再提示，最後找到。",
+      "explanation": "B先提出問題，C提供位置，A持書致謝，圖與語句都支持這條事件鏈。"
+    },
+    {
+      "id": "g4s2-english-09-q06",
+      "question": "C位置應讀哪個短語？",
+      "options": [
+        "on the chair",
+        "under the chair",
+        "in the kitchen"
+      ],
+      "answer": 1,
+      "hint": "核對椅面與書位置。",
+      "explanation": "藍書在椅面下方，正文亦用under the chair，不能任意改成椅上或廚房。"
+    },
+    {
+      "id": "g4s2-english-09-q07",
+      "question": "新F/D/E故事順序和位置是？",
+      "options": [
+        "D→E→F；on the table",
+        "E→F→D；in the bed",
+        "F→D→E；under the chair"
+      ],
+      "answer": 0,
+      "hint": "依新問題、回答和找到結果。",
+      "explanation": "新資料先D問紅書，E說桌上，F找到；需同步更新順序及位置而非背舊句。"
+    },
+    {
+      "id": "g4s2-english-09-q08",
+      "question": "只有B和C沒有找到幕，能確定拿到了嗎？",
+      "options": [
+        "能，所有故事必成功",
+        "能，問過就等於拿到",
+        "不能，尚缺結果資料"
+      ],
+      "answer": 2,
+      "hint": "提示位置不等於完成找物。",
+      "explanation": "兩卡只證明問答和線索，沒有拿到的結果證據，不能替故事補確定結局。"
+    }
+  ]
+}

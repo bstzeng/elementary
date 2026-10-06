@@ -1,0 +1,195 @@
+{
+  "id": "g4s2-english-03",
+  "course": "英語文",
+  "title": "正在進行的活動",
+  "subtitle": "用am/is/are加-ing描述現在，依角色和時間更新活動",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "用am/is/are加-ing描述現在，依角色和時間更新活動。依完整圖文先理解，再做有提示練習，最後換資料獨立轉用。",
+  "goals": [
+    "我能理解reading、drawing、writing三個本課活動。",
+    "我會按I、單個角色、複數角色選am/is/are，保留-ing。",
+    "我能區分現在活動、一般喜好與未知，依新卡更改問答。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>正文明確角色卡指定she/he，不從外觀推性別。現在活動圖+資料一致，第三組Kai/Ren只在文字。原創六回合與改時間任務完整；支持者單人is和I am，進階者複數are及未知。read/draw/write指定-ing形式核對，write去e僅限本詞，不教普遍無例外。現在活動、一般偏好、習慣和完成不同，禁止據圖推出全部。可指卡無實作要求，口語需教師自然模型。</p>",
+  "selfCheck": [
+    "我能理解reading、drawing、writing三個本課活動。",
+    "我會按I、單個角色、複數角色選am/is/are，保留-ing。",
+    "我能區分現在活動、一般喜好與未知，依新卡更改問答。",
+    "我能指出資料與使用的支持，不把文字答對當成已完成聽說。"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-english-03-s01",
+      "title": "現在做什麼",
+      "childText": "這張卡是某個時刻的快照。",
+      "html": "<p><span lang=\"en\">I am reading.</span>我正在閱讀；<span lang=\"en\">Nia is drawing.</span>Nia正在畫畫；<span lang=\"en\">They are writing.</span>他們正在寫字。本課用am/is/are加活動的-ing形式談此刻，少一部分就不符合本課完整句。</p><p>read→reading、draw→drawing、write→writing。write在這個形式先去最後e再加ing；不是把每個詞都隨意去字母，也不是所有動詞都只加ing。先學這三個指定組合與意思，不一次推定所有拼寫規律。</p>"
+    },
+    {
+      "id": "g4s2-english-03-s02",
+      "title": "完整現在圖卡",
+      "childText": "圖與文字一起確認活動。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 240\" role=\"img\" aria-labelledby=\"g4s2-english-03-fig\"><title id=\"g4s2-english-03-fig\">原創活動場景：左側Nia前方有打開的書，右側Bo手持鉛筆靠近有圓形圖案的紙。此圖搭配文字卡說明Nia正在閱讀、Bo正在畫畫，不以姿勢推定所有活動。</title><rect x=\"8\" y=\"8\" width=\"344\" height=\"224\" fill=\"#f2f6fa\" stroke=\"#345\"/><g fill=\"#d4b594\" stroke=\"#345\" stroke-width=\"2\"><circle cx=\"92\" cy=\"67\" r=\"24\"/><circle cx=\"269\" cy=\"67\" r=\"24\"/></g><path d=\"M60 152V110Q92 94 124 110V152\" fill=\"#9ab8d0\" stroke=\"#345\"/><path d=\"M237 152V110Q269 94 301 110V152\" fill=\"#d5acb9\" stroke=\"#345\"/><path d=\"M31 171H327V187H31ZM47 187V218M313 187V218\" fill=\"#cba977\" stroke=\"#634f34\" stroke-width=\"3\"/><path d=\"M50 125Q73 116 96 129Q119 116 142 125V163Q119 154 96 167Q73 154 50 163Z\" fill=\"#fff\" stroke=\"#345\" stroke-width=\"2\"/><path d=\"M96 129V167M59 135H80M59 144H84M107 136H133M107 145H129\" stroke=\"#567\"/><path d=\"M219 137H295L306 170H226Z\" fill=\"#fff\" stroke=\"#345\"/><circle cx=\"257\" cy=\"154\" r=\"9\" fill=\"#f0cc48\" stroke=\"#886320\"/><path d=\"M281 132L289 120\" fill=\"none\" stroke=\"#345\" stroke-width=\"6\"/><circle cx=\"290\" cy=\"120\" r=\"5\" fill=\"#d4b594\" stroke=\"#345\"/><path d=\"M290 120L265 149\" stroke=\"#825c24\" stroke-width=\"5\"/><g lang=\"en\" font-size=\"20\" text-anchor=\"middle\"><text x=\"92\" y=\"34\">Nia</text><text x=\"269\" y=\"34\">Bo</text><text x=\"92\" y=\"219\">reading</text><text x=\"265\" y=\"219\">drawing</text></g></svg><figcaption>文字活動卡：現在Nia reading、Bo drawing。書和畫紙提供場景線索；沒有第三人的活動資訊。</figcaption></figure><p>活動卡甲：Nia現在reading，角色卡指定用she；乙：Bo現在drawing，角色卡指定用he。這些代詞是故事資料，不由名字、頭髮或衣色猜。丙文字卡：Kai和Ren現在writing，用they。原圖只畫甲乙，丙由文字補充，不能說圖裡看到丙。</p>"
+    },
+    {
+      "id": "g4s2-english-03-s03",
+      "title": "完整原創問答",
+      "childText": "確認問題可能有一個猜錯的動作。",
+      "html": "<div class=\"story\"><p>Jo：<span lang=\"en\">What is Nia doing?</span> Nia正在做什麼？Bo：<span lang=\"en\">She is reading.</span> Jo：<span lang=\"en\">Is she drawing?</span> 她正在畫畫嗎？Bo：<span lang=\"en\">No, she isn’t. She is reading.</span> Jo轉向Bo：<span lang=\"en\">What are you doing?</span> Bo：<span lang=\"en\">I’m drawing.</span></p></div><p>成人先讀完整六回合，孩子指出前四句she都指Nia，最後I是Bo自稱。Bo描述Nia用She is，回答自己用I’m，不是同一角色不能換主詞，而是說話視角改了。</p>"
+    },
+    {
+      "id": "g4s2-english-03-s04",
+      "title": "一起搭三塊句子",
+      "childText": "人、be和活動形式都要齊。",
+      "html": "<p>供應主詞卡I／Nia／Bo／Kai and Ren；連接卡am／is／are；活動卡reading／drawing／writing。依目前資料排<span lang=\"en\">Nia is reading.</span>、<span lang=\"en\">Bo is drawing.</span>、<span lang=\"en\">Kai and Ren are writing.</span>。若由Nia自述，改<span lang=\"en\">I am reading.</span>，活動不變。</p><p>教師先示範一組，再讓孩子查另外兩組。第三組兩人合在一起用are，不因只看到最後Ren一個名字就改is。也可用<span lang=\"en\">They are writing.</span>，但要先說清they指Kai和Ren，避免把兩個不同活動的人無據合成同一句。</p>"
+    },
+    {
+      "id": "g4s2-english-03-s05",
+      "title": "修復：現在不等於喜歡或每天都做",
+      "childText": "活動時間和資料範圍要保留。",
+      "html": "<p><span lang=\"en\">I like drawing.</span>談喜好，不一定現在正在畫；<span lang=\"en\">I’m drawing.</span>在本課談現在。Nia現在閱讀，不能推定每天都閱讀、一定喜歡這本書或已經讀完。照片似的圖也不能給出活動持續多久。</p><p>錯句<span lang=\"en\">She reading.</span>需要補is；<span lang=\"en\">They is writing.</span>需把is改are；<span lang=\"en\">I am draw.</span>需將活動改drawing。這些修復保留原來人與活動意思，不為了改文法順便把reading換成writing。</p>"
+    },
+    {
+      "id": "g4s2-english-03-s06",
+      "title": "自己試：換時間，也換一個活動",
+      "childText": "舊圖保留，新卡說明現在狀態。",
+      "html": "<p>稍後新卡：Nia和Bo現在都reading；Kai現在drawing，Ren活動未提供。請問答Nia與Bo，然後描述Kai並保留Ren未知。新卡不是說Bo從來不畫畫，只是這一時刻做了不同事。</p><details><summary>完整回應模型</summary><p><span lang=\"en\">What are Nia and Bo doing? / They are reading.</span>；<span lang=\"en\">Kai is drawing.</span>。Ren未提供，不能寫Ren is writing，也不能說一定沒做事。可中文說不知道，或教師示範<span lang=\"en\">I don’t know.</span>後使用。</p></details><p>把Kai改為writing時，只更新他的句子，兩人的reading保持；孩子圈出真正變動的一詞。</p>"
+    },
+    {
+      "id": "g4s2-english-03-s07",
+      "title": "成人朗讀和指卡",
+      "childText": "認讀、聽辨、口語分開觀察。",
+      "html": "<p>完整指卡序列：<span lang=\"en\">Nia is reading. / Bo is drawing. / Kai and Ren are writing. / Bo is drawing.</span>。孩子選甲、乙、丙、乙；最後重複乙用來避免只背固定順序。成人記是否看見英文、口型及有沒有重聽，不能把選卡一律記作純聽力。</p><p>角色演練只指書、畫紙或活動卡，不要求孩子具備某種手部動作。可用AAC、成人代寫、座位上看卡做問答；不作真實能力排名或要求拍攝活動。</p>"
+    },
+    {
+      "id": "g4s2-english-03-s08",
+      "title": "完成一張現在活動紀錄",
+      "childText": "把主詞和時間一起查。",
+      "html": "<p>成品例：「原來Bo drawing；稍後Bo和Nia reading；Ren稍後未知。」旁邊添兩句<span lang=\"en\">Bo is drawing. / They are reading.</span>並用箭頭標示時間更新，箭頭只連資料，不表示發音升降。</p><p>成人支持者只做I am與單個角色is，進階者加入兩人are、否定確認與未知。檢查詞義、be配合、-ing及時間依據四項；這是本課現在用法，不宣稱現在進行式只可能指眼前，也不要求四年級背完所有時態用途。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple and present continuous",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-present-continuous",
+      "note": "2026-10-05直接核對正文現在活動、am/is/are+-ing、否定與問句換序；圖、角色和對話原創，未驗聽。"
+    },
+    {
+      "title": "Cambridge Dictionary｜Write",
+      "url": "https://dictionary.cambridge.org/dictionary/english/write",
+      "note": "2026-10-05官方索引核對write書寫詞義與writing詞形使用；僅採詞義詞形，不採私人資料填寫或來源句子全文，未驗聽。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s2-english-03-q01",
+      "question": "Nia起始活動是？",
+      "options": [
+        "writing",
+        "reading",
+        "drawing"
+      ],
+      "answer": 1,
+      "hint": "看圖旁的活動資料卡。",
+      "explanation": "甲卡明寫Nia現在reading，Bo才是drawing，不能把兩人活動互換。"
+    },
+    {
+      "id": "g4s2-english-03-q02",
+      "question": "兩人Kai and Ren應配哪個be？",
+      "options": [
+        "am",
+        "are",
+        "is"
+      ],
+      "answer": 1,
+      "hint": "主詞不是只有最後一人。",
+      "explanation": "Kai and Ren是兩人共同的主詞，因此本課用are writing而非is或am。"
+    },
+    {
+      "id": "g4s2-english-03-q03",
+      "question": "Bo回答自己正在畫畫可說？",
+      "options": [
+        "I’m drawing.",
+        "I am draw.",
+        "I is drawing."
+      ],
+      "answer": 0,
+      "hint": "I搭配am且活動要-ing。",
+      "explanation": "I’m是I am縮寫，配drawing形成完整現在活動句，另外兩項各漏了正確形式。"
+    },
+    {
+      "id": "g4s2-english-03-q04",
+      "question": "She reading.該補哪個詞？",
+      "options": [
+        "do",
+        "are",
+        "is"
+      ],
+      "answer": 2,
+      "hint": "本課需要be加-ing。",
+      "explanation": "單個角色she搭配is，補成She is reading.才是本課完整現在活動結構。"
+    },
+    {
+      "id": "g4s2-english-03-q05",
+      "question": "I like drawing.能證明現在正在畫嗎？",
+      "options": [
+        "能，表示已全部畫完",
+        "不能，它表達喜好",
+        "能，喜好就是此刻活動"
+      ],
+      "answer": 1,
+      "hint": "一般偏好與現在不同。",
+      "explanation": "喜歡畫畫不等於這一刻正在畫，也不提供作品已完成的資訊。"
+    },
+    {
+      "id": "g4s2-english-03-q06",
+      "question": "write的本課-ing形式為？",
+      "options": [
+        "writing",
+        "writeing",
+        "writting"
+      ],
+      "answer": 0,
+      "hint": "核對本課已給的完整詞形。",
+      "explanation": "本課write先去最後e再加ing成writing，不保留e也不多加一個t。"
+    },
+    {
+      "id": "g4s2-english-03-q07",
+      "question": "稍後Nia和Bo都reading，怎麼答？",
+      "options": [
+        "They are reading.",
+        "They is drawing.",
+        "She are writing."
+      ],
+      "answer": 0,
+      "hint": "兩個人、最新活動一起看。",
+      "explanation": "新卡兩人共同正在閱讀，所以they配are reading，不能沿用Bo原活動。"
+    },
+    {
+      "id": "g4s2-english-03-q08",
+      "question": "稍後Ren沒有活動資料，應怎麼記？",
+      "options": [
+        "一定還在writing",
+        "一定沒有做事",
+        "未知"
+      ],
+      "answer": 2,
+      "hint": "沒有更新資料不等於肯否答案。",
+      "explanation": "新卡未提供Ren活動，不能任意沿用舊狀態或推定什麼都沒做。"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "id": "g4s2-english-10",
+  "course": "英語文",
+  "title": "短句朗讀與情境演出",
+  "subtitle": "朗讀完整座位情境劇，練請求、請對方重說、確認與致謝",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "朗讀完整座位情境劇，練請求、請對方重說、確認與致謝。所有模型、資料卡、替代方式和轉用任務都在本頁。",
+  "goals": [
+    "我能理解九回合原創短劇的角色目的及座位安排。",
+    "我會在教師模型下分句朗讀，讓請求和重說的意思清楚。",
+    "我能換一組安排修改臺詞和紙上動作，不把背稿當情境理解。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>九回合、角色目的、所有詞義、原圖、紙上姓名卡準備及新九回合全部供應。場景許可can與能力can分開，for Bo只本場保留非永久所有，here依指向而非固定圖位。BC Permission及Checking understanding全文文字直接核對，只採短通用重說模型，不用來源工具/聽障笑點或複製劇本。支持者指稿，進階者資料變更與聽者核對；無歌曲/錄音/合成音訊或搶椅搬椅實作。</p>",
+  "selfCheck": [
+    "我能理解九回合原創短劇的角色目的及座位安排。",
+    "我會在教師模型下分句朗讀，讓請求和重說的意思清楚。",
+    "我能換一組安排修改臺詞和紙上動作，不把背稿當情境理解。",
+    "我能說明這次的資料依據與使用的支持。"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-english-10-s01",
+      "title": "朗讀是把意思送到對方那裡",
+      "childText": "沒聽懂可以請對方再說。",
+      "html": "<p>本課情境是虛構閱讀活動找座位，不是測誰的聲音大。<span lang=\"en\">Can I sit here?</span>在此問「我可以坐這裡嗎？」是請求許可，不是在質疑身體能力。<span lang=\"en\">Could you say that again, please?</span>表示請你再說一次；可以看句卡完整使用，不必先學完could所有意思。</p><p>成人先核對完整句子並自然示範，再分短句跟讀。看稿朗讀、自己選話語、實際聽懂是不同成果，分開記。不要求演出真實不適、站立、挪動椅子或公開上台。</p>"
+    },
+    {
+      "id": "g4s2-english-10-s02",
+      "title": "完整場景與角色",
+      "childText": "空椅不一定表示這次可用。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 265\" role=\"img\" aria-labelledby=\"g4s2-english-10-fig\"><title id=\"g4s2-english-10-fig\">原創紙上座位場景：左藍椅標A及for Bo，右紅椅標B及free。兩椅都未畫人坐，是否可用須看卡上安排，不由空椅外觀判斷。</title><rect x=\"8\" y=\"8\" width=\"344\" height=\"248\" rx=\"7\" fill=\"#f5f4ed\" stroke=\"#345\"/><path d=\"M43 154V66H138V154ZM31 154H150V176H31ZM44 176V226M138 176V226\" fill=\"#729bbc\" stroke=\"#2d4b64\" stroke-width=\"4\"/><path d=\"M221 154V66H316V154ZM209 154H328V176H209ZM222 176V226M316 176V226\" fill=\"#c9807a\" stroke=\"#6a3c3a\" stroke-width=\"4\"/><rect x=\"52\" y=\"96\" width=\"76\" height=\"33\" fill=\"#fff\" stroke=\"#345\"/><rect x=\"230\" y=\"96\" width=\"76\" height=\"33\" fill=\"#fff\" stroke=\"#345\"/><g lang=\"en\" font-size=\"20\" text-anchor=\"middle\"><text x=\"90\" y=\"45\">A</text><text x=\"268\" y=\"45\">B</text><text x=\"90\" y=\"119\">for Bo</text><text x=\"268\" y=\"119\">free</text></g></svg><figcaption>A藍椅為Bo保留；B紅椅目前可用。free在此指空位可用，不是商品價格。</figcaption></figure><p>Jo想找可用座位；Nia是紙上活動的引導員，知道A為Bo保留，B可用；旁白讀場景。所有人名虛構，for Bo是這場活動安排，不表示Bo永遠擁有那張椅子。成人可兼三角，孩子只指卡亦可。</p><p>道具已在圖上。若要操作，成人在大紙寫「A blue chair：for Bo」「B red chair：free」及「Jo」姓名卡，不需剪裁；將Jo卡放到同意的座位區代表選座。實際需要座位、休息或協助者可用任何有效方式找成人，不以英文正確才協助。</p>"
+    },
+    {
+      "id": "g4s2-english-10-s03",
+      "title": "完整三場九回合原創劇本",
+      "childText": "每句都有對象和作用。",
+      "html": "<div class=\"story\"><p>第一場，旁白：<span lang=\"en\">Jo is looking for a seat.</span> Jo在找座位。Jo指A：<span lang=\"en\">Can I sit here?</span> Nia：<span lang=\"en\">Sorry, this chair is for Bo.</span> 抱歉，這張椅子為Bo保留。<br/>第二場，Jo：<span lang=\"en\">Could you say that again, please?</span> Nia：<span lang=\"en\">This blue chair is for Bo. The red chair is free.</span> 這張藍椅為Bo保留，紅椅可用。<br/>第三場，Jo指B：<span lang=\"en\">Can I use the red chair?</span> Nia：<span lang=\"en\">Yes, you can.</span> Jo：<span lang=\"en\">Thank you.</span> 旁白：<span lang=\"en\">Jo has a seat now.</span> Jo現在有座位了。</p></div><p>舞臺動作：第三場同意後才把Jo紙卡放B區。旁白looking for表示正在尋找，seat座位，use使用，again再一次，now現在。成人一次讀完整劇本，再讓孩子指出哪句是請重說，不模仿任何人的口音或聽覺狀況。</p>"
+    },
+    {
+      "id": "g4s2-english-10-s04",
+      "title": "一起排練：用途、句組、輪替",
+      "childText": "先知道為什麼說，再練怎麼讀。",
+      "html": "<p>第一輪只把九回合放到「找座／請重說／確認可用／致謝」功能旁。第二輪練Could you say that again, please?整句，成人可先示範Could you say that again再加please，最後合回自然一句，別讓每詞都像分開喊。</p><p>第三輪三角輪替。Nia重說時維持blue for Bo、red free兩項資訊，不因為重說就換資料。Jo等得到Yes, you can.後才放姓名卡。教師給可操作回饋：「我聽到了red chair，知道你改問B了。」音高和重音依自然模型，不畫唯一固定問句箭頭。</p>"
+    },
+    {
+      "id": "g4s2-english-10-s05",
+      "title": "修復：禮貌問句不保證同意",
+      "childText": "請重說是理解策略，不是犯錯。",
+      "html": "<p>把Can I sit here?一律理解成一定可以，會忽略Nia的保留說明。Sorry在本劇引出本席為Bo保留，不表示Nia生病或討厭Jo。Jo可以問另一可用座位，沒有誰被英語能力排名。</p><p>另一錯誤是聽不清卻直接把Jo卡放A。先使用已供應的重說句，聽者再用具體顏色和卡名回覆；若仍不清楚，成人可用中文或指圖幫忙，不把只能說英文當規則。謝謝不能代替取得這個座位的明確回答。</p>"
+    },
+    {
+      "id": "g4s2-english-10-s06",
+      "title": "自己試：新安排與新起點",
+      "childText": "用新資料改完整互動。",
+      "html": "<p>新卡：B紅椅為Kai保留，A藍椅可用；Jo第一個指B詢問。請先寫需要改動的顏色、保留名字及最後卡片位置，再分角完成。未改的角色和禮貌框架可以保留。</p><details><summary>完整新版本</summary><p><span lang=\"en\">Jo is looking for a seat. / Can I sit here? / Sorry, this chair is for Kai. / Could you say that again, please? / This red chair is for Kai. The blue chair is free. / Can I use the blue chair? / Yes, you can. / Thank you. / Jo has a seat now.</span> 最後Jo卡放A藍椅區。here起初指B，隨明確指向而定，不是永遠等於A。</p></details>"
+    },
+    {
+      "id": "g4s2-english-10-s07",
+      "title": "再加一次聽者核對",
+      "childText": "能回應新資訊，才超過背稿。",
+      "html": "<p>演練後聽者回答兩題：「哪張為別人保留？」「Jo最後用哪張？」原版A保留、Jo選B；新版本B保留、Jo選A。聽者可看稿回答時記閱讀理解；教師隱去文字但保留圖時，記圖像支持的聽辨，不把兩種都算無提示聽力。</p><p>可由成人朗讀全部九回合，孩子只選座位卡；願意朗讀者再挑一兩句，逐次增多。沒有真實現場語音，不宣稱已判定孩子的發音、語調或節奏。演出只紙卡，不做搶椅、搬椅、速度競賽。</p>"
+    },
+    {
+      "id": "g4s2-english-10-s08",
+      "title": "做一份有下一步的朗讀回饋",
+      "childText": "具體說清楚哪個部分已做到。",
+      "html": "<p>紀錄例：「能依新卡把red改blue；重說句看稿能跟讀；下一回練最後use the blue chair整組。」一回只選一個可改善目標，比要求全段更有感情、像某國口音有效。</p><p>成人支持者讀單句與指圖，進階者完整改九回合並說here指涉。評功能、資料一致、輪替、實際可理解性分開；指卡、AAC、成人代寫都可顯示相應理解。孩子的座位、休息與求助需求不受英語成績限制，也不錄音錄影或公開評比。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Permission",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/permission",
+      "note": "2026-10-05直接核對can詢問/給予許可與否定拒絕框架；本課座位資料與九回合劇本原創，不作權利或實際座位安排。"
+    },
+    {
+      "title": "British Council｜Checking understanding",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/speaking/a1/checking-understanding",
+      "note": "2026-10-05直接核對頁面及官方PDF文字Could you say that again, please?通用模型；未看影片或驗聽，不複製原劇本、工具操作或健康笑點。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接核對正文I/am、it/is、you/are與肯定否定問答結構；完整虛構對話原創，未驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s2-english-10-q01",
+      "question": "Can I sit here?在本劇用途是？",
+      "options": [
+        "宣告自己已看完書",
+        "請求使用此座位的許可",
+        "診斷身體能力"
+      ],
+      "answer": 1,
+      "hint": "看角色正在找座位。",
+      "explanation": "此情境can用於許可請求，不能因單字can也有能力用法就改成身體測試。"
+    },
+    {
+      "id": "g4s2-english-10-q02",
+      "question": "原圖藍椅安排給誰？",
+      "options": [
+        "Jo",
+        "Bo",
+        "Kai"
+      ],
+      "answer": 1,
+      "hint": "核對for Bo標籤。",
+      "explanation": "A藍椅標for Bo且角色卡一致，是本場保留安排，不是任意猜誰先看到。"
+    },
+    {
+      "id": "g4s2-english-10-q03",
+      "question": "哪句是在請對方重說？",
+      "options": [
+        "Could you say that again, please?",
+        "Jo has a seat now.",
+        "Thank you."
+      ],
+      "answer": 0,
+      "hint": "again在此表示再一次。",
+      "explanation": "這個完整句請對方再說一次，另兩句是致謝與結果陳述，不起相同作用。"
+    },
+    {
+      "id": "g4s2-english-10-q04",
+      "question": "原版Jo最後應把姓名卡放哪？",
+      "options": [
+        "B紅椅",
+        "A藍椅",
+        "兩椅都占用"
+      ],
+      "answer": 0,
+      "hint": "先讀同意使用的對象。",
+      "explanation": "Jo改問red chair並獲Yes, you can.，因此最後B紅椅符合回應與可用安排。"
+    },
+    {
+      "id": "g4s2-english-10-q05",
+      "question": "Sorry, this chair is for Bo.能推出什麼？",
+      "options": [
+        "Nia一定討厭Jo",
+        "這張本場為Bo保留",
+        "Bo永遠擁有所有椅子"
+      ],
+      "answer": 1,
+      "hint": "保留本次對話範圍。",
+      "explanation": "這句只說特定座位安排，不足以推斷情緒或永久所有權及所有椅子。"
+    },
+    {
+      "id": "g4s2-english-10-q06",
+      "question": "新卡紅椅for Kai、藍椅free，Jo最後用？",
+      "options": [
+        "B紅椅",
+        "一定沿用原版B",
+        "A藍椅"
+      ],
+      "answer": 2,
+      "hint": "按新資料修改最後動作。",
+      "explanation": "新卡可用的是藍椅，劇本相應改問blue chair並獲同意，不能只背原結尾。"
+    },
+    {
+      "id": "g4s2-english-10-q07",
+      "question": "新劇here起初指什麼？",
+      "options": [
+        "任何時候都A藍椅",
+        "說話者的真實住家",
+        "Jo正在指的B紅椅"
+      ],
+      "answer": 2,
+      "hint": "here要看當時明確指向。",
+      "explanation": "新指示明說Jo先指B，所以here指B紅椅，這個詞不能固定綁在舊版A。"
+    },
+    {
+      "id": "g4s2-english-10-q08",
+      "question": "不方便開口時可如何參與？",
+      "options": [
+        "指卡或AAC，另記口語待教",
+        "先通過發音才可休息",
+        "必須搬椅競賽"
+      ],
+      "answer": 0,
+      "hint": "理解任務與身體需求分開。",
+      "explanation": "替代回應能呈現相應理解，但不冒充已發音；休息和協助也不以英語成績為條件。"
+    }
+  ]
+}

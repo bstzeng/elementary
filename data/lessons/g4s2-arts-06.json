@@ -1,0 +1,187 @@
+{
+  "id": "g4s2-arts-06",
+  "course": "藝術",
+  "title": "輪唱和聲部聆聽",
+  "subtitle": "唱同一首短曲，從不同時間進入，仍聽得見彼此",
+  "duration": "2–3次，每次約25–35分鐘；操作與排練分短段，可隨時休息",
+  "intro": "唱同一首短曲，從不同時間進入，仍聽得見彼此。從完整原創模型出發，試一個有理由的改變，再把方法用到新情境。",
+  "goals": [
+    "我能分清齊唱、接唱與本課延後進入的輪唱。",
+    "我能依完整時間表指出兩聲部同時唱到哪一段。",
+    "我能先練單部，再在自願且有模型條件下聽另一部調整。"
+  ],
+  "materials": [
+    "本頁完整原創短曲與五小節雙聲部表，紙筆與指拍卡",
+    "兩位能準確示範的成人／穩定伙伴或教師雙聲部鍵盤模型；無此條件只作讀譜規劃"
+  ],
+  "sections": [
+    {
+      "id": "g4s2-arts-06-s01",
+      "title": "相同旋律，不同入口",
+      "childText": "相同旋律，不同入口",
+      "html": "<p>齊唱是同時唱同一旋律；接唱可是一組唱完後另一組接續；本課輪唱則同一曲從不同時間開始，會有一段彼此重疊。輪唱不是誰落後就用加速追上，也不是把乙改成甲當下正在唱的字。</p><p>先把自己的短曲唱熟或指熟，再讀共同時間表。聽伙伴是為了保持共同拍與舒服的平衡，不是把自己的聲部丟掉。沒有兩聲部聲音模型，仍能精確學入口與譜面對應，但不能宣稱已聽到輪唱效果。</p>"
+    },
+    {
+      "id": "g4s2-arts-06-s02",
+      "title": "完整六字短曲：X再Y",
+      "childText": "完整六字短曲：X再Y",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 224\" role=\"img\" aria-labelledby=\"g4s2-arts-06-fig-a-t g4s2-arts-06-fig-a-d\"><title id=\"g4s2-arts-06-fig-a-t\">原創教學圖</title><desc id=\"g4s2-arts-06-fig-a-d\">第1小節：C4(1拍)唱「一」、E4(1拍)唱「點」、G4(1拍)唱「光」、休(1拍)；第2小節：E4(1拍)唱「照」、G4(1拍)唱「窗」、C4(1拍)唱「臺」、休(1拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</desc><rect width=\"360\" height=\"224\" fill=\"#fffdf6\"/><text x=\"12\" y=\"23\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">《一點光》；第一小節X，第二小節Y</text><text x=\"12\" y=\"64\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><rect x=\"36\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">C4</text><text x=\"74.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"74.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">一</text><rect x=\"112\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"150.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"150.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">點</text><rect x=\"188\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G4</text><text x=\"226.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"226.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">光</text><rect x=\"264\" y=\"44\" width=\"76\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"302.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"302.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"12\" y=\"151\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><rect x=\"36\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"74.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"74.0\" y=\"197\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">照</text><rect x=\"112\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G4</text><text x=\"150.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"150.0\" y=\"197\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">窗</text><rect x=\"188\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">C4</text><text x=\"226.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"226.0\" y=\"197\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">臺</text><rect x=\"264\" y=\"131\" width=\"76\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"302.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"302.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text></svg><figcaption>第1小節：C4(1拍)唱「一」、E4(1拍)唱「點」、G4(1拍)唱「光」、休(1拍)；第2小節：E4(1拍)唱「照」、G4(1拍)唱「窗」、C4(1拍)唱「臺」、休(1拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</figcaption></figure><p>4/4，每字一拍，每小節末一拍休止，原曲共8拍。歌詞「一點光，照窗臺」，六字各對一音。X為C4、E4、G4、休；Y為E4、G4、C4、休。先由成人給C4起音，完整核實示範，兩組都學相同音高與時值，不另造第二旋律。</p>"
+    },
+    {
+      "id": "g4s2-arts-06-s03",
+      "title": "完整輪唱安排與收尾",
+      "childText": "完整輪唱安排與收尾",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 364\" role=\"img\" aria-labelledby=\"g4s2-arts-06-fig-time-t g4s2-arts-06-fig-time-d\"><title id=\"g4s2-arts-06-fig-time-t\">原創教學圖</title><desc id=\"g4s2-arts-06-fig-time-d\">原創輪唱五小節時間表，X、Y旋律完整列於前圖。全曲各聲部唱XY兩次：甲在全局1至4小節XYXY，第5小節休；乙第1小節休，第2至5小節XYXY。</desc><rect width=\"360\" height=\"364\" fill=\"#fffdf6\"/><text x=\"12\" y=\"24\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">完整兩聲部時間表：每列4拍</text><text x=\"13\" y=\"70\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><rect x=\"42\" y=\"43\" width=\"144\" height=\"42\" fill=\"#d9e8ed\" stroke=\"#4c7283\"/><rect x=\"186\" y=\"43\" width=\"160\" height=\"42\" fill=\"#eee1ce\" stroke=\"#87694c\"/><text x=\"55\" y=\"70\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">甲：X</text><text x=\"198\" y=\"70\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">乙：休4拍</text><text x=\"13\" y=\"119\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><rect x=\"42\" y=\"92\" width=\"144\" height=\"42\" fill=\"#d9e8ed\" stroke=\"#4c7283\"/><rect x=\"186\" y=\"92\" width=\"160\" height=\"42\" fill=\"#eee1ce\" stroke=\"#87694c\"/><text x=\"55\" y=\"119\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">甲：Y</text><text x=\"198\" y=\"119\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">乙：X</text><text x=\"13\" y=\"168\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><rect x=\"42\" y=\"141\" width=\"144\" height=\"42\" fill=\"#d9e8ed\" stroke=\"#4c7283\"/><rect x=\"186\" y=\"141\" width=\"160\" height=\"42\" fill=\"#eee1ce\" stroke=\"#87694c\"/><text x=\"55\" y=\"168\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">甲：X</text><text x=\"198\" y=\"168\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">乙：Y</text><text x=\"13\" y=\"217\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><rect x=\"42\" y=\"190\" width=\"144\" height=\"42\" fill=\"#d9e8ed\" stroke=\"#4c7283\"/><rect x=\"186\" y=\"190\" width=\"160\" height=\"42\" fill=\"#eee1ce\" stroke=\"#87694c\"/><text x=\"55\" y=\"217\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">甲：Y</text><text x=\"198\" y=\"217\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">乙：X</text><text x=\"13\" y=\"266\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">5</text><rect x=\"42\" y=\"239\" width=\"144\" height=\"42\" fill=\"#d9e8ed\" stroke=\"#4c7283\"/><rect x=\"186\" y=\"239\" width=\"160\" height=\"42\" fill=\"#eee1ce\" stroke=\"#87694c\"/><text x=\"55\" y=\"266\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">甲：休4拍</text><text x=\"198\" y=\"266\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">乙：Y</text><text x=\"12\" y=\"316\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">甲第1小節起；乙第2小節起。</text><text x=\"12\" y=\"342\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">甲第4小節唱完；乙第5小節唱完。</text></svg><figcaption>原創輪唱五小節時間表，X、Y旋律完整列於前圖。全曲各聲部唱XY兩次：甲在全局1至4小節XYXY，第5小節休；乙第1小節休，第2至5小節XYXY。</figcaption></figure><p>準備4拍另計。甲在全局第1小節開始，唱X、Y、X、Y；乙先等4拍，於全局第2小節從X開始，唱X、Y、X、Y。正式總長5小節20拍。甲完成後第5小節安靜聽乙結尾，不加唱追尾；乙不在甲停止時提早停。每小節末都保留休止，可自然換氣。</p>"
+    },
+    {
+      "id": "g4s2-arts-06-s04",
+      "title": "示範先分部，再聽重疊點",
+      "childText": "示範先分部，再聽重疊點",
+      "html": "<p>第一輪全體齊唱XY一遍確認模型，休息。第二輪一人指甲、一人指乙，先無聲走完整五小節。第三輪由合格成人或熟練伙伴提供兩部實際模型，重點聽全局第2小節第1拍：甲唱E4的照，乙唱C4的一；第4拍兩部都休止。</p><p>教師若用鍵盤同時演兩部，需說是雙聲部器樂示範，能支持音高重疊聆聽，但不等於已示範歌詞發音與人聲呼吸。歌唱評量需另有準確人聲模型及孩子實唱。每次只練短段，音量舒適，允許指拍角色。</p>"
+    },
+    {
+      "id": "g4s2-arts-06-s05",
+      "title": "小組常見問題與修法",
+      "childText": "小組常見問題與修法",
+      "html": "<p>乙一進來，甲也回到X，表示兩人可能被新入口帶走。先停止，圈甲第2小節的Y，再由甲單唱X接Y，乙只無聲指X；確定後才加聲。若甲聽不到乙，先小幅調低甲的音量，不讓乙喊得更響。</p><p>乙錯過入口，不靠加快把四拍擠回去；先停重來，或依教師明確指示在下一個完整X入口開始，並標記為重排版。不得把臨時插入說成完全按原五小節方案完成。安全休息不受原定收尾限制。</p>"
+    },
+    {
+      "id": "g4s2-arts-06-s06",
+      "title": "自己轉用：交換領唱，不改延後量",
+      "childText": "自己轉用：交換領唱，不改延後量",
+      "html": "<p>新方案由乙先開始，甲晚一小節；兩者各唱XY兩次。請畫五格時間表，填每格X、Y或休4拍，指出第2小節第1拍各唱哪個音和字，以及誰最後唱完。先不用發聲完成，再和伙伴核對。</p><details><summary>做完再展開參考與理由</summary><p>乙五格X、Y、X、Y、休4拍；甲休4拍、X、Y、X、Y。第2小節第1拍乙唱E4照，甲唱C4一；甲最後於第5小節唱完。總長仍20拍，延後量仍4拍。</p></details>"
+    },
+    {
+      "id": "g4s2-arts-06-s07",
+      "title": "聆聽證據比「沒有跑掉」更清楚",
+      "childText": "聆聽證據比「沒有跑掉」更清楚",
+      "html": "<p>回饋可寫「第2小節乙唱一時，我仍在甲的照；第4拍兩部一起安靜」。這指出保留聲部與聆聽共同點。若只讀時間表，記「能指出雙聲部位置」，不能記音準、音量平衡或歌唱表現。</p><p>作者已給本曲合奏入口與結尾，不表示任何隨便一首歌都適合照樣輪唱。新的旋律需要音樂教師另核重疊聲響與可唱性。想延長演出，先重新寫次數和收尾，不無限重複讓孩子疲累。</p>"
+    }
+  ],
+  "teachingHtml": "<p>本課接續三年級的辨認與模仿，四年級重點是先提出目的、控制一項變化、比較證據，再說明修訂。第二學習階段包含三、四年級，本頁的學期排列是參考整理。先讓孩子讀或聽本頁完整模型，再一起試做，最後保留獨立轉用的時間。不要以課外才藝、材料價格、外貌像不像或表演膽量作能力標準。</p><p>原創兩小節以C/E/G構成，輪唱全局2–4小節兩部同拍成對，並不引用現成曲。成人先核X與Y整段及五小節兩部完整重疊；可鍵盤提供音高模型，但人聲技能需另示範。主教學入口、保持本部與聽共同休止。源於二階段合作音樂範圍，並非把外國第五年級固定套用。孩子可無聲指拍並標明實際證據。</p><p>支持策略：把模型放大，一次遮住未處理的段落，成人代讀但不代選；允許指認、口述、寫字或既有輔助溝通。操作有困難時由孩子決定位置、順序或修法，成人代操作，記為共同完成。進階者比較兩個合理方案，說明代價與保留理由，不靠增加危險工具、極端音量或速度提升難度。</p><p>評量分成理解、創作決定、實作與回顧四欄。圖文題可支持理解；實作須看見孩子實際安排或演出才記錄，不能用選擇題分數代替。每欄記一項具體證據，區分獨立、提示後、共同完成與尚未觀察，並給一個可做到的下一步。開放作品沒有唯一外觀，但必須能指出與題目條件相符的證據。</p><p>先確認同意與安全：不強迫上臺、眼神接觸、觸碰、個人故事或真實人物肖像。可改想像角色、坐姿、桌上紙卡或觀察者；隨時可以暫停。不收集、拍攝或上傳真實兒童照片及私人資料。桌面或地面保持清楚平坦，材料由成人檢查且適齡完整；不用刀、尖銳固定物、熱源與溶劑。回饋說明實際線索與可能效果，尊重作者保留原案的選擇。</p><p>真實聲音條件：本頁只供文字與圖形樂譜，沒有音檔，也沒有驗聽紀錄。具讀譜能力的成人先用已校準樂器核對所有指定音高、時值、起拍與結尾，完整示範後才做聆聽、歌唱或器樂評量；缺此條件仍可學讀譜、排練規劃與無聲指認，聲音實作列為待觀察。以舒適自然呼吸與音量為原則，不強吸、不憋氣、不比長音，感到不適立即停止；直笛每人專用，不共用吹口。</p>",
+  "exercises": [
+    {
+      "id": "g4s2-arts-06-q01",
+      "question": "本課輪唱與齊唱的主要差別是？",
+      "options": [
+        "同曲延後進入並重疊",
+        "每人唱完全不同歌",
+        "乙必須加快速度"
+      ],
+      "answer": 0,
+      "hint": "看兩部的入口。",
+      "explanation": "本課兩部旋律相同，但相隔一小節進入，形成重疊而非齊起。"
+    },
+    {
+      "id": "g4s2-arts-06-q02",
+      "question": "原方案乙在全局第幾小節開始？",
+      "options": [
+        "第2小節",
+        "第1小節",
+        "第5小節"
+      ],
+      "answer": 0,
+      "hint": "乙先休四拍。",
+      "explanation": "乙在第一小節等待四拍，第二小節才從自己的X段開始。"
+    },
+    {
+      "id": "g4s2-arts-06-q03",
+      "question": "全局第2小節第1拍，甲唱哪個音和字？",
+      "options": [
+        "C4的一",
+        "E4的照",
+        "G4的光"
+      ],
+      "answer": 1,
+      "hint": "甲已到Y段。",
+      "explanation": "甲第二小節是Y，第一音E4配照，乙此時才進入X。"
+    },
+    {
+      "id": "g4s2-arts-06-q04",
+      "question": "全局第2小節第4拍，兩部做什麼？",
+      "options": [
+        "都休止一拍",
+        "甲大喊乙吸氣",
+        "都重唱第一字"
+      ],
+      "answer": 0,
+      "hint": "X和Y末拍相同。",
+      "explanation": "X與Y的第4拍都明列休止，因此兩部在這一拍一起安靜。"
+    },
+    {
+      "id": "g4s2-arts-06-q05",
+      "question": "正式五小節共幾拍，不含準備？",
+      "options": [
+        "16拍",
+        "20拍",
+        "24拍"
+      ],
+      "answer": 1,
+      "hint": "每小節四拍。",
+      "explanation": "時間表五個四拍小節共二十拍，前面的準備四拍另計。"
+    },
+    {
+      "id": "g4s2-arts-06-q06",
+      "question": "甲唱完自己的兩遍後，第5小節怎麼做？",
+      "options": [
+        "補唱一遍追乙",
+        "要求乙提前停",
+        "休止並聽乙結尾"
+      ],
+      "answer": 2,
+      "hint": "各部收尾按自己的表。",
+      "explanation": "甲已在第四小節完成兩遍，第五小節安靜，不打斷乙剩餘Y段。"
+    },
+    {
+      "id": "g4s2-arts-06-q07",
+      "question": "交換領唱的新方案，誰最後完成？",
+      "options": [
+        "先進入的乙",
+        "一定兩部同拍完成",
+        "晚進入的甲"
+      ],
+      "answer": 2,
+      "hint": "各唱同樣長度。",
+      "explanation": "甲晚一小節進入又唱相同兩遍，因此比乙晚一小節完成。"
+    },
+    {
+      "id": "g4s2-arts-06-q08",
+      "question": "只有單聲部模型時，可以宣稱已聽到輪唱嗎？",
+      "options": [
+        "能，讀X和Y就聽到了",
+        "不能，重疊需要實際雙部聲音",
+        "能，不需要任何聲音"
+      ],
+      "answer": 1,
+      "hint": "紙面和聲響分開。",
+      "explanation": "文字可支持時間結構理解，但實際輪唱聆聽須有兩部同時聲音。"
+    }
+  ],
+  "selfCheck": [
+    "我能分清齊唱、接唱與本課延後進入的輪唱。",
+    "我能依完整時間表指出兩聲部同時唱到哪一段。",
+    "我能先練單部，再在自願且有模型條件下聽另一部調整。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "第二學習階段為三、四年級；PDF第9–11頁與第27頁（印頁24）提供音樂、視覺與表演範圍。本課學期次序、圖畫、短曲、角色與活動均由編者原創，並非指定教材。"
+    },
+    {
+      "title": "American Mathematical Society／Stony Brook｜What is a Canon?",
+      "url": "https://www.math.stonybrook.edu/~tony/whatsnew/column/canons-0399/canon2.html",
+      "note": "核對相同旋律延後進入並重疊的卡農原理；只取概念，本課六字短曲與五小節雙聲部安排全為原創，未借用來源歌曲。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符與休止的相對時值；字母節奏譜為完整原創模型，沒有引用完整既有歌曲或宣稱播放音樂。"
+    },
+    {
+      "title": "NIDCD｜Taking Care of Your Voice",
+      "url": "https://www.nidcd.nih.gov/health/taking-care-your-voice",
+      "note": "只採避免喊叫、聲音疲累時休息及舒適用聲的安全原則；不提供診斷、療程或強制呼吸練習。"
+    }
+  ]
+}
