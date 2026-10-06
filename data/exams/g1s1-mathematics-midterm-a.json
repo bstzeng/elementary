@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "id": "g1s1-mathematics-midterm-a",
+  "grade": 1,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "A",
+  "mode": "written",
+  "title": "小一上學期數學・期中A卷",
+  "duration": "建議35–40分鐘，可依閱讀或動作支持需求分兩次完成。",
+  "instructions": [
+    "先聽清楚或讀完題目，再作答。",
+    "不會寫的說明，可以畫圖，或由教師逐字代記你的回答。",
+    "不要比誰寫得快；完成後檢查有沒有漏題。"
+  ],
+  "teacherNotes": [
+    "依本館跨版本主題順序設計，並非全國統一期中／期末進度或常模化標準測驗；施測前核對學校已教範圍。",
+    "可逐題讀題，但不可代做、暗示答案或替學生計數。數學評量不以國字拼寫或書寫速度扣分。",
+    "滿分100分。依各題規準部分給分；有合理其他表示也接受。可以提供沒有標答案的空白紙。",
+    "圖形題可提供等比例的大圖或同樣關係的實物；若改成口述直接揭示圖形關係，須另記調整，不宣稱原圖形辨識已測得。",
+    "本卷不收集姓名、照片或分數，不需要帳號。列印可使用自訂匿名代號。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙",
+    "如需支持：放大圖或等值的實物圖卡；由教師事先準備"
+  ],
+  "blueprint": [
+    {
+      "id": "number",
+      "title": "數與位置",
+      "points": 30,
+      "purpose": "數量、零、指定方向的序數及30以內數序。"
+    },
+    {
+      "id": "compose",
+      "title": "分合與算式",
+      "points": 40,
+      "purpose": "用分合、加法與減法意義建立模型，並修正一個錯誤。"
+    },
+    {
+      "id": "reason",
+      "title": "生活中的數量",
+      "points": 30,
+      "purpose": "在原創情境應用加法、補足與數量守恆。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "number",
+      "title": "數與位置",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-01"
+          ],
+          "prompt": "數一數，有幾顆星？",
+          "responseLines": 1,
+          "answer": {
+            "value": "6顆",
+            "explanation": "每顆只數一次，數到的最後一個數是6。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「6顆」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "★ ★ ★\n★ ★ ★",
+          "id": "g1s1-mathematics-midterm-a-q01"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-02"
+          ],
+          "prompt": "盒子裡原本有3顆球，全都拿走了。現在有幾顆？",
+          "responseLines": 1,
+          "answer": {
+            "value": "0顆",
+            "explanation": "一顆也沒有，可以用0表示。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「0顆」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q02"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-03"
+          ],
+          "prompt": "從左邊開始數，第4位是誰？",
+          "responseLines": 1,
+          "answer": {
+            "value": "小晴",
+            "explanation": "從指定的左邊數：小青1、小禾2、小安3、小晴4。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「小晴」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "左邊 → 小青　小禾　小安　小晴　小樂 → 右邊",
+          "id": "g1s1-mathematics-midterm-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-04"
+          ],
+          "prompt": "紅盤有8塊餅乾，藍盤有6塊。哪個盤子的餅乾比較多？",
+          "responseLines": 1,
+          "answer": {
+            "value": "紅盤",
+            "explanation": "8比6大，所以紅盤的餅乾較多。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「紅盤」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q04"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-05"
+          ],
+          "prompt": "填入空格：18、19、＿＿、21。",
+          "responseLines": 1,
+          "answer": {
+            "value": "20",
+            "explanation": "依順序每次多1；19的下一個是20。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「20」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-05"
+          ],
+          "prompt": "29前面緊接著的數是多少？",
+          "responseLines": 1,
+          "answer": {
+            "value": "28",
+            "explanation": "往前一個是少1，29前面是28。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「28」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q06"
+        }
+      ]
+    },
+    {
+      "id": "compose",
+      "title": "分合與算式",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-06"
+          ],
+          "prompt": "7顆珠子分成兩堆。一堆有3顆，另一堆有幾顆？請畫或寫出分法。",
+          "responseLines": 2,
+          "answer": {
+            "value": "另一堆4顆；7可以分成3和4。",
+            "explanation": "把7顆中的3顆圈出，剩下4顆；3和4合起來是7。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "另一堆4顆得6分。"
+              },
+              {
+                "points": 4,
+                "criterion": "圖中合計7顆且分成3與4，或正確分合表示，得4分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-07",
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "原有2隻小鳥，又飛來5隻。寫出加法算式和答案。",
+          "responseLines": 2,
+          "answer": {
+            "value": "2＋5＝7；共7隻。",
+            "explanation": "原有和飛來的放在一起，所以用加法。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "2＋5或5＋2正確表示合併得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "算得7隻得5分；無單位但意思清楚仍給分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q08"
+        },
+        {
+          "kind": "choice",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-09"
+          ],
+          "prompt": "桌上有9支筆，拿走2支。哪個算式表示剩下的支數？",
+          "responseLines": 0,
+          "answer": {
+            "value": "9－2",
+            "explanation": "從原有9支拿走2支，用9減2。",
+            "scoring": [
+              {
+                "points": 10,
+                "criterion": "答案「9－2」或同義的清楚表示得10分；未正確表示得0分。"
+              }
+            ],
+            "correctIndex": 1
+          },
+          "options": [
+            "9＋2",
+            "9－2",
+            "2－9"
+          ],
+          "id": "g1s1-mathematics-midterm-a-q09"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "小宇算「4＋3＝8」。請改正，並用畫點或說明讓他懂。",
+          "responseLines": 2,
+          "answer": {
+            "value": "4＋3＝7。",
+            "explanation": "從4往後再數3個：5、6、7，不把原來的4再算一次。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "改成7得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "畫4點與3點共7點，或清楚接數／分合說明得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q10"
+        }
+      ]
+    },
+    {
+      "id": "reason",
+      "title": "生活中的數量",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-07",
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "兩個積木盒共有幾塊？寫算式。",
+          "responseLines": 2,
+          "answer": {
+            "value": "3＋6＝9；共9塊。",
+            "explanation": "兩盒的塊數合併，3加6是9。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "3＋6或6＋3得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "合計9塊得5分。"
+              }
+            ]
+          },
+          "stimulus": "小盒：3塊　大盒：6塊",
+          "id": "g1s1-mathematics-midterm-a-q11"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-06"
+          ],
+          "prompt": "一排要放8張卡。已經放了5張，還要放幾張？請畫或說明你怎麼知道。",
+          "responseLines": 2,
+          "answer": {
+            "value": "3張",
+            "explanation": "8可以分成5和3，所以再放3張就有8張。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "答3張得6分。"
+              },
+              {
+                "points": 4,
+                "criterion": "用圖、5和3合成8，或口述理由得4分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-a-q12"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-04"
+          ],
+          "prompt": "小米說：「排得長的一排，一定比較多。」她說得對嗎？請數一數再說明。",
+          "responseLines": 2,
+          "answer": {
+            "value": "不對；兩排都是5個，一樣多。",
+            "explanation": "排得疏或密會改變隊伍長度，不會改變物件個數。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "答不對得4分。"
+              },
+              {
+                "points": 6,
+                "criterion": "指出兩排各5個／一對一配對相同得6分。"
+              }
+            ]
+          },
+          "stimulus": "甲：●　●　●　●　●\n乙：●●●●●",
+          "id": "g1s1-mathematics-midterm-a-q13"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館小一上數學主題與教材",
+      "url": "https://bstzeng.github.io/elementary/#g1s1",
+      "note": "主題排列為跨版本參考；試題是另行原創。"
+    },
+    {
+      "title": "教育部數學領域課程綱要",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788&media=print",
+      "note": "數學領域課綱正式發布頁；不將官方學年內容等同固定學期考試順序。"
+    }
+  ],
+  "parallelDesign": "三卷皆30分數與位置、40分分合算式、30分生活推理。補足/分合分別採文字目標、十格板空格、兩組圖卡選配；數量比較分別檢查疏密、物件大小、排列方式是否改變個數。各卷皆要求答案與可見說明，不只換名稱與數字。未經試測，不能聲稱統計等值。"
+}

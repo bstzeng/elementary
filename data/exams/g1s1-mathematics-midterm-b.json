@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 1,
+  "id": "g1s1-mathematics-midterm-b",
+  "grade": 1,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "B",
+  "mode": "written",
+  "title": "小一上學期數學・期中B卷",
+  "duration": "建議35–40分鐘，可依閱讀或動作支持需求分兩次完成。",
+  "instructions": [
+    "先聽清楚或讀完題目，再作答。",
+    "不會寫的說明，可以畫圖，或由教師逐字代記你的回答。",
+    "不要比誰寫得快；完成後檢查有沒有漏題。"
+  ],
+  "teacherNotes": [
+    "依本館跨版本主題順序設計，並非全國統一期中／期末進度或常模化標準測驗；施測前核對學校已教範圍。",
+    "可逐題讀題，但不可代做、暗示答案或替學生計數。數學評量不以國字拼寫或書寫速度扣分。",
+    "滿分100分。依各題規準部分給分；有合理其他表示也接受。可以提供沒有標答案的空白紙。",
+    "圖形題可提供等比例的大圖或同樣關係的實物；若改成口述直接揭示圖形關係，須另記調整，不宣稱原圖形辨識已測得。",
+    "本卷不收集姓名、照片或分數，不需要帳號。列印可使用自訂匿名代號。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙",
+    "如需支持：放大圖或等值的實物圖卡；由教師事先準備"
+  ],
+  "blueprint": [
+    {
+      "id": "number",
+      "title": "數與位置",
+      "points": 30,
+      "purpose": "數量、零、指定方向的序數及30以內數序。"
+    },
+    {
+      "id": "compose",
+      "title": "分合與算式",
+      "points": 40,
+      "purpose": "用分合、加法與減法意義建立模型，並修正一個錯誤。"
+    },
+    {
+      "id": "reason",
+      "title": "生活中的數量",
+      "points": 30,
+      "purpose": "在原創情境應用加法、補足與數量守恆。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "number",
+      "title": "數與位置",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-01"
+          ],
+          "prompt": "數一數，停車格裡一共有幾臺玩具車？",
+          "responseLines": 1,
+          "answer": {
+            "value": "7臺",
+            "explanation": "先數上排4臺，再數下排3臺，合計7臺。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「7臺」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "車 車 車 車\n車 車 車",
+          "id": "g1s1-mathematics-midterm-b-q01"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-02"
+          ],
+          "prompt": "魚缸裡沒有魚。小卡應填哪個數？",
+          "responseLines": 1,
+          "answer": {
+            "value": "0",
+            "explanation": "沒有任何一條魚，數量就是0。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「0」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q02"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-03"
+          ],
+          "prompt": "從右邊開始數，第2張卡是什麼？",
+          "responseLines": 1,
+          "answer": {
+            "value": "月亮",
+            "explanation": "從右端先數花朵，再數月亮；題目不是從左邊數。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「月亮」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "左邊 → 太陽　樹木　星星　月亮　花朵 → 右邊",
+          "id": "g1s1-mathematics-midterm-b-q03"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-04"
+          ],
+          "prompt": "哪一包種子比較少？",
+          "responseLines": 1,
+          "answer": {
+            "value": "甲包",
+            "explanation": "甲有4顆，乙有9顆；4比9小。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「甲包」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "甲包：4顆　乙包：9顆",
+          "id": "g1s1-mathematics-midterm-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-05"
+          ],
+          "prompt": "接著往後數：25、26、＿＿、28。",
+          "responseLines": 1,
+          "answer": {
+            "value": "27",
+            "explanation": "26後面多1是27，再來才是28。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「27」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q05"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-05"
+          ],
+          "prompt": "從19往後數，填入空格：19、＿＿、21。",
+          "responseLines": 1,
+          "answer": {
+            "value": "20",
+            "explanation": "依順序數19、20、21，中間是20。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「20」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q06"
+        }
+      ]
+    },
+    {
+      "id": "compose",
+      "title": "分合與算式",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-06"
+          ],
+          "prompt": "把9個圓片分給兩隻玩偶。一隻拿4個，另一隻拿幾個？請畫或寫出分法。",
+          "responseLines": 2,
+          "answer": {
+            "value": "另一隻5個；9分成4和5。",
+            "explanation": "先從9個中分出4個，其餘5個給另一隻，總數仍是9。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "答5個得6分。"
+              },
+              {
+                "points": 4,
+                "criterion": "正確畫出4與5共9個或寫分合得4分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-07",
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "車上原有6人，又上來2人，沒有人下車。請寫現在人數的加法算式。",
+          "responseLines": 2,
+          "answer": {
+            "value": "6＋2＝8；共8人。",
+            "explanation": "沒有人下車，只把上車的2人加入原有6人。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "6＋2或2＋6得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "8人得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q08"
+        },
+        {
+          "kind": "choice",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-09"
+          ],
+          "prompt": "盤中7顆葡萄，吃掉3顆。哪個算式能找出沒吃掉的葡萄？",
+          "responseLines": 0,
+          "answer": {
+            "value": "7－3",
+            "explanation": "被吃掉的3顆要從原有7顆中去掉。",
+            "scoring": [
+              {
+                "points": 10,
+                "criterion": "答案「7－3」或同義的清楚表示得10分；未正確表示得0分。"
+              }
+            ],
+            "correctIndex": 2
+          },
+          "options": [
+            "3＋7",
+            "3－7",
+            "7－3"
+          ],
+          "id": "g1s1-mathematics-midterm-b-q09"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "小荷算「2＋5＝6」。請改正，用圈圖或接著數的方法說明。",
+          "responseLines": 2,
+          "answer": {
+            "value": "2＋5＝7。",
+            "explanation": "從2再數5個：3、4、5、6、7；結果是7。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案改成7得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "有效的5步接數、7個分成2與5的圖，或等值解釋得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q10"
+        }
+      ]
+    },
+    {
+      "id": "reason",
+      "title": "生活中的數量",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-07",
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "回收籃裡已有4個紙盒，小組又放入4個。現在有幾個？請寫算式。",
+          "responseLines": 2,
+          "answer": {
+            "value": "4＋4＝8；8個。",
+            "explanation": "前後兩批都留在籃裡，要合起來數。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "4＋4得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "8個得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q11"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-06"
+          ],
+          "prompt": "每格放一枚棋子才算填滿。還空著幾格？再畫或寫出「已有幾枚和幾枚合成10枚」。",
+          "responseLines": 2,
+          "answer": {
+            "value": "空著2格；8和2合成10。",
+            "explanation": "圖中已有8枚棋子，剩2個空格；把8與2合起來就是完整的10格。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "答2格得6分。"
+              },
+              {
+                "points": 4,
+                "criterion": "以圖、8＋2＝10或口述8與2合成10得4分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q12",
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 310 145\" role=\"img\" aria-label=\"十格板，兩排方格裡有些已放棋子。請依圖找出尚未放棋子的空格。\"><rect width=\"310\" height=\"145\" fill=\"white\"/><rect x=\"20\" y=\"15\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"74\" y=\"15\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"128\" y=\"15\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"182\" y=\"15\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"236\" y=\"15\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"20\" y=\"69\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"74\" y=\"69\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"128\" y=\"69\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"182\" y=\"69\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><rect x=\"236\" y=\"69\" width=\"54\" height=\"54\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><circle cx=\"47\" cy=\"42\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"101\" cy=\"42\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"155\" cy=\"42\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"209\" cy=\"42\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"263\" cy=\"42\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"47\" cy=\"96\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"101\" cy=\"96\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"155\" cy=\"96\" r=\"15\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/></svg>"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-04"
+          ],
+          "prompt": "小朋看見甲的圓比較大，就說甲的個數較多。他說得對嗎？說出兩組個數。",
+          "responseLines": 2,
+          "answer": {
+            "value": "不對；甲4個，乙6個，乙較多。",
+            "explanation": "物件大小不決定個數；分別點數再比較4與6。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "答不對或乙較多得4分。"
+              },
+              {
+                "points": 6,
+                "criterion": "甲4個與乙6個各3分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-b-q13",
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 410 170\" role=\"img\" aria-label=\"甲組和乙組各有一排圓；兩組的圓大小不同。請分別點數，再比較個數。\"><rect width=\"410\" height=\"170\" fill=\"white\"/><text x=\"10\" y=\"55\" font-size=\"22\">甲</text><text x=\"10\" y=\"138\" font-size=\"22\">乙</text><circle cx=\"90\" cy=\"48\" r=\"25\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"175\" cy=\"48\" r=\"25\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"260\" cy=\"48\" r=\"25\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"345\" cy=\"48\" r=\"25\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"65\" cy=\"132\" r=\"12\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"115\" cy=\"132\" r=\"12\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"165\" cy=\"132\" r=\"12\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"215\" cy=\"132\" r=\"12\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"265\" cy=\"132\" r=\"12\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"315\" cy=\"132\" r=\"12\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/></svg>"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館小一上數學主題與教材",
+      "url": "https://bstzeng.github.io/elementary/#g1s1",
+      "note": "主題排列為跨版本參考；試題是另行原創。"
+    },
+    {
+      "title": "教育部數學領域課程綱要",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788&media=print",
+      "note": "數學領域課綱正式發布頁；不將官方學年內容等同固定學期考試順序。"
+    }
+  ],
+  "parallelDesign": "三卷皆30分數與位置、40分分合算式、30分生活推理。補足/分合分別採文字目標、十格板空格、兩組圖卡選配；數量比較分別檢查疏密、物件大小、排列方式是否改變個數。各卷皆要求答案與可見說明，不只換名稱與數字。未經試測，不能聲稱統計等值。"
+}

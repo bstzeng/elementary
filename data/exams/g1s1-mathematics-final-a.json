@@ -1,0 +1,400 @@
+{
+  "schemaVersion": 1,
+  "id": "g1s1-mathematics-final-a",
+  "grade": 1,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "A",
+  "mode": "written",
+  "title": "小一上學期數學・期末A卷",
+  "duration": "建議35–40分鐘，可依閱讀或動作支持需求分兩次完成。",
+  "instructions": [
+    "先聽清楚或讀完題目，再作答。",
+    "不會寫的說明，可以畫圖，或由教師逐字代記你的回答。",
+    "不要比誰寫得快；完成後檢查有沒有漏題。"
+  ],
+  "teacherNotes": [
+    "依本館跨版本主題順序設計，並非全國統一期中／期末進度或常模化標準測驗；施測前核對學校已教範圍。",
+    "可逐題讀題，但不可代做、暗示答案或替學生計數。數學評量不以國字拼寫或書寫速度扣分。",
+    "滿分100分。依各題規準部分給分；有合理其他表示也接受。可以提供沒有標答案的空白紙。",
+    "圖形題可提供等比例的大圖或同樣關係的實物；若改成口述直接揭示圖形關係，須另記調整，不宣稱原圖形辨識已測得。",
+    "本卷不收集姓名、照片或分數，不需要帳號。列印可使用自訂匿名代號。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙",
+    "如需支持：放大圖或等值的實物圖卡；由教師事先準備"
+  ],
+  "blueprint": [
+    {
+      "id": "review",
+      "title": "前半學期核心回顧",
+      "points": 20,
+      "purpose": "數序、分合、加法與減法意義。"
+    },
+    {
+      "id": "operations",
+      "title": "生活加減",
+      "points": 30,
+      "purpose": "10以內減法、情境算式與移動後的數量。"
+    },
+    {
+      "id": "geometry",
+      "title": "比較與圖形",
+      "points": 30,
+      "purpose": "直接比較、辨形及拼組。"
+    },
+    {
+      "id": "time",
+      "title": "先後與讀鐘",
+      "points": 20,
+      "purpose": "依事件訊息排列先後，判讀整點或半點。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "review",
+      "title": "前半學期核心回顧",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "review",
+          "topicIds": [
+            "g1s1-mathematics-05"
+          ],
+          "prompt": "填數：27、28、＿＿、30。",
+          "responseLines": 1,
+          "answer": {
+            "value": "29",
+            "explanation": "每次多1，28後面是29。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「29」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-final-a-q01"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "review",
+          "topicIds": [
+            "g1s1-mathematics-06"
+          ],
+          "prompt": "10可以分成6和＿＿。",
+          "responseLines": 1,
+          "answer": {
+            "value": "4",
+            "explanation": "6和4合起來是10。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「4」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-final-a-q02"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "review",
+          "topicIds": [
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "算一算：3＋5＝＿＿。",
+          "responseLines": 1,
+          "answer": {
+            "value": "8",
+            "explanation": "3再加5，合計8。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「8」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-final-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "review",
+          "topicIds": [
+            "g1s1-mathematics-09"
+          ],
+          "prompt": "8顆球拿走2顆。請寫出找剩下幾顆的算式，不用計算。",
+          "responseLines": 1,
+          "answer": {
+            "value": "8－2",
+            "explanation": "拿走表示從原來8顆減去2顆。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「8－2」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-final-a-q04"
+        }
+      ]
+    },
+    {
+      "id": "operations",
+      "title": "生活加減",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-10"
+          ],
+          "prompt": "9－4＝＿＿。請畫點並劃掉4個，或寫出想法。",
+          "responseLines": 2,
+          "answer": {
+            "value": "5",
+            "explanation": "從9個去掉4個，剩下5個；也可用4和5合成9檢查。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "答5得6分。"
+              },
+              {
+                "points": 4,
+                "criterion": "9個中去掉4個剩5的正確圖或分合說明得4分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-final-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-11"
+          ],
+          "prompt": "圖書角有8本書，同學借走3本。還有幾本？寫算式和答案。",
+          "responseLines": 2,
+          "answer": {
+            "value": "8－3＝5；5本。",
+            "explanation": "借走的書不在圖書角，因此由8扣掉3。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "8－3得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "5本得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-final-a-q06"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-11"
+          ],
+          "prompt": "甲籃有6顆球，乙籃有4顆。把甲籃的1顆移到乙籃後，兩籃各有幾顆？",
+          "responseLines": 2,
+          "answer": {
+            "value": "甲5顆，乙5顆。",
+            "explanation": "甲少1變5，乙多1也變5；總數沒改變。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "甲5顆得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "乙5顆得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-final-a-q07"
+        }
+      ]
+    },
+    {
+      "id": "geometry",
+      "title": "比較與圖形",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-12"
+          ],
+          "prompt": "兩條線左端已對齊。哪條較長？請說明看哪裡。",
+          "responseLines": 2,
+          "answer": {
+            "value": "甲較長；比較右端，甲伸得較遠。",
+            "explanation": "一端對齊後，比較另一端的位置，可以直接比較長短。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答甲得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "指出左端對齊後看右端，或指示相同位置比較，得5分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 150\" role=\"img\" aria-label=\"兩條水平線左端對齊。甲在上，乙在下；請比較另一端。\"><rect width=\"460\" height=\"150\" fill=\"white\"/><text x=\"10\" y=\"48\" font-size=\"22\">甲</text><text x=\"10\" y=\"108\" font-size=\"22\">乙</text><line x1=\"65\" y1=\"40\" x2=\"390\" y2=\"40\" stroke=\"#111\" stroke-width=\"6\"/><line x1=\"65\" y1=\"100\" x2=\"290\" y2=\"100\" stroke=\"#111\" stroke-width=\"6\"/><line x1=\"65\" y1=\"15\" x2=\"65\" y2=\"120\" stroke=\"#444\" stroke-dasharray=\"4\"/></svg>",
+          "id": "g1s1-mathematics-final-a-q08"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-13"
+          ],
+          "prompt": "寫出A、B兩個圖形的名稱。",
+          "responseLines": 2,
+          "answer": {
+            "value": "A三角形；B圓形。",
+            "explanation": "A有三條直邊；B的邊是封閉曲線，沒有角。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "A三角形得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "B圓形得5分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 150\" role=\"img\" aria-label=\"A、B兩個封閉圖形。請辨認。\"><rect width=\"460\" height=\"150\" fill=\"white\"/><polygon points=\"75,25 20,110 130,110\" fill=\"none\" stroke=\"#111\" stroke-width=\"3\"/><text x=\"65\" y=\"140\" font-size=\"20\">A</text><circle cx=\"265\" cy=\"70\" r=\"47\" fill=\"none\" stroke=\"#111\" stroke-width=\"3\"/><text x=\"257\" y=\"140\" font-size=\"20\">B</text></svg>",
+          "id": "g1s1-mathematics-final-a-q09"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-14"
+          ],
+          "prompt": "正方形沿著畫出的直線分開，會變成幾個什麼圖形？",
+          "responseLines": 2,
+          "answer": {
+            "value": "2個三角形",
+            "explanation": "從一個頂點連到對面頂點，每一半都有3條邊。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "2個得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "三角形得5分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 210 145\" role=\"img\" aria-label=\"一個正方形，內有一條從左上頂點到右下頂點的線。\"><rect width=\"210\" height=\"145\" fill=\"white\"/><rect x=\"40\" y=\"15\" width=\"110\" height=\"110\" fill=\"none\" stroke=\"#111\" stroke-width=\"3\"/><line x1=\"40\" y1=\"15\" x2=\"150\" y2=\"125\" stroke=\"#111\" stroke-width=\"3\"/></svg>",
+          "id": "g1s1-mathematics-final-a-q10"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "title": "先後與讀鐘",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "ordering",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-15",
+            "g1s1-mathematics-16"
+          ],
+          "prompt": "依故事，把事情用代號排好先後。哪件事發生在最後？",
+          "responseLines": 2,
+          "answer": {
+            "value": "乙→丙→甲；最後是甲（吃晚餐）。",
+            "explanation": "故事明說起床後上學，放學回家才吃晚餐。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "三個代號各用一次且乙→丙→甲全對6分。只保留一組正確相鄰有向配對得3分，例如丙→甲→乙保留丙甲。其他0分。"
+              },
+              {
+                "points": 4,
+                "criterion": "最後甲／吃晚餐得4分。"
+              }
+            ]
+          },
+          "stimulus": "今天我早上起床，接著去上學。放學回家後，我才吃晚餐。\n甲：吃晚餐　乙：起床　丙：上學",
+          "id": "g1s1-mathematics-final-a-q11"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-17"
+          ],
+          "prompt": "鐘面現在是幾點？請寫「＿＿點＿＿分」或「＿＿點半」。",
+          "responseLines": 2,
+          "answer": {
+            "value": "4點30分（4點半）",
+            "explanation": "長針指6表示30分；短針在4和5中間，所以是4點半。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "小時4得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "30分或半得5分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\" role=\"img\" aria-label=\"時鐘圖。請由長短針判讀時間；需要圖形替代時由教師提供實體可觸讀時鐘，不直接告知針的位置或時間。\"><rect width=\"200\" height=\"200\" fill=\"white\"/><circle cx=\"100\" cy=\"100\" r=\"96\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"141.00\" y=\"34.99\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">1</text><text x=\"171.01\" y=\"65.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">2</text><text x=\"182.00\" y=\"106.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">3</text><text x=\"171.01\" y=\"147.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">4</text><text x=\"141.00\" y=\"177.01\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">5</text><text x=\"100.00\" y=\"188.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">6</text><text x=\"59.00\" y=\"177.01\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">7</text><text x=\"28.99\" y=\"147.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">8</text><text x=\"18.00\" y=\"106.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">9</text><text x=\"28.99\" y=\"65.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">10</text><text x=\"59.00\" y=\"34.99\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">11</text><text x=\"100.00\" y=\"24.00\" text-anchor=\"middle\" font-size=\"16\" fill=\"#111\">12</text><line x1=\"100\" y1=\"100\" x2=\"130.41\" y2=\"130.41\" stroke=\"#111\" stroke-width=\"7\"/><line x1=\"100\" y1=\"100\" x2=\"100.00\" y2=\"170.00\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"100\" cy=\"100\" r=\"5\" fill=\"#111\"/></svg>",
+          "id": "g1s1-mathematics-final-a-q12"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館小一上數學主題與教材",
+      "url": "https://bstzeng.github.io/elementary/#g1s1",
+      "note": "主題排列為跨版本參考；試題是另行原創。"
+    },
+    {
+      "title": "教育部數學領域課程綱要",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788&media=print",
+      "note": "數學領域課綱正式發布頁；不將官方學年內容等同固定學期考試順序。"
+    }
+  ],
+  "parallelDesign": "三卷皆20分前半核心、30分生活加減、30分形與量、20分時間。生活推理分別是移動後數量、根據初始圖修正錯誤提案、從目標反推移動方向和數量；最多兩個簡短推理步驟。直接比較採左端對齊、同底線高度、右端對齊；三卷都測半點與居中的短針。未經試測，不能聲稱統計等值。"
+}
