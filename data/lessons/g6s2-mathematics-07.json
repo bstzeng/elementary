@@ -1,0 +1,177 @@
+{
+  "id": "g6s2-mathematics-07",
+  "course": "數學",
+  "title": "縮圖放大圖與對應",
+  "subtitle": "先配對頂點與邊，再檢查長度同比、角度不變。",
+  "duration": "建議2–3節，每節35–40分鐘；概念、操作與獨立練習分次進行。",
+  "goals": [
+    "辨認對應頂點與邊",
+    "按相同倍數求放大縮小後長度",
+    "用角度和比例區分縮放與變形"
+  ],
+  "materials": [
+    "本課標記ABC、DEF的精確比例圖",
+    "候選尺寸表、紙筆，可用紙角比對直角"
+  ],
+  "intro": "先配對頂點與邊，再檢查長度同比、角度不變。",
+  "sections": [
+    {
+      "title": "放大縮小要保持形狀",
+      "childText": "每一條對應邊都使用同一倍數。",
+      "html": "<p>下圖左邊直角三角形ABC，AB4、AC3、BC5公分；右邊DEF，DE8、DF6、EF10公分。指定A對D、B對E、C對F，因此AB對DE、AC對DF、BC對EF，每條右邊長都是左邊的2倍。</p><p>對應角相等，角A與D都是直角，另外兩對角也不改變。放大的是長度，不是把90度變180度。圖形可以移動、轉向，只要對應關係與同比長度成立，仍可比較縮放。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 340\" role=\"img\" aria-labelledby=\"g6s2-mathematics-07-triangles\"><title id=\"g6s2-mathematics-07-triangles\">兩個直角三角形ABC與DEF，A對D、B對E、C對F；AB4、AC3、BC5公分，DE8、DF6、EF10公分。右圖各對應邊為左圖2倍，對應角相等。</title><g font-family=\"Noto Sans CJK TC, sans-serif\" font-size=\"17\" fill=\"#183f38\"><polygon points=\"40,210 100,210 40,165\" fill=\"#e8cca3\" stroke=\"#315b50\" stroke-width=\"2\"/><polygon points=\"180,210 300,210 180,120\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"2\"/><text x=\"30\" y=\"233\" text-anchor=\"middle\" font-size=\"17\">A</text><text x=\"111\" y=\"233\" text-anchor=\"middle\" font-size=\"17\">B</text><text x=\"28\" y=\"158\" text-anchor=\"middle\" font-size=\"17\">C</text><text x=\"167\" y=\"233\" text-anchor=\"middle\" font-size=\"17\">D</text><text x=\"314\" y=\"233\" text-anchor=\"middle\" font-size=\"17\">E</text><text x=\"168\" y=\"112\" text-anchor=\"middle\" font-size=\"17\">F</text><text x=\"75\" y=\"274\" text-anchor=\"middle\" font-size=\"14\">AB＝4，AC＝3</text><text x=\"245\" y=\"274\" text-anchor=\"middle\" font-size=\"14\">DE＝8，DF＝6</text><text x=\"180\" y=\"30\" text-anchor=\"middle\" font-size=\"17\">對應：A↔D，B↔E，C↔F</text><text x=\"180\" y=\"315\" text-anchor=\"middle\" font-size=\"16\">長度單位皆為公分；右圖是2倍圖</text></g></svg><figcaption>兩個直角三角形ABC與DEF，A對D、B對E、C對F；AB4、AC3、BC5公分，DE8、DF6、EF10公分。右圖各對應邊為左圖2倍，對應角相等。</figcaption></figure>",
+      "id": "g6s2-mathematics-07-s01"
+    },
+    {
+      "title": "列對應表，再找一致的倍數",
+      "childText": "不要把不對應的兩條邊拿來相比。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" tabindex=\"0\" aria-label=\"右圖相對左圖的對應檢查，可左右捲動\"><table><caption>右圖相對左圖的對應檢查</caption><thead><tr><th scope=\"col\">左圖邊</th><th scope=\"col\">右圖對應邊</th><th scope=\"col\">右長÷左長</th></tr></thead><tbody><tr><th scope=\"row\">AB＝4公分</th><td>DE＝8公分</td><td>2</td></tr><tr><th scope=\"row\">AC＝3公分</th><td>DF＝6公分</td><td>2</td></tr><tr><th scope=\"row\">BC＝5公分</th><td>EF＝10公分</td><td>2</td></tr></tbody></table></div><p>三組都得到2，才保留同一縮放比例。若AB錯配DF，會算6÷4＝1.5，這只是配對錯，不能據此否定原圖。先依頂點對應確認哪條邊連接哪兩點，再做除法。</p>",
+      "id": "g6s2-mathematics-07-s02"
+    },
+    {
+      "title": "示範縮小：原圖長度乘同一分率",
+      "childText": "0.5倍表示每一條邊取一半。",
+      "html": "<p>把長8公分、寬6公分的長方形縮成原圖的1/2倍，長為8×1/2＝4公分，寬6×1/2＝3公分，四角仍是直角。長寬比原來8：6，縮後4：3，相等。</p><p>若只把長8變4而寬仍6，新圖長寬比4：6，已經改形，不是本題的1/2倍縮圖。只改一邊的拉長或壓扁，在日常圖片編輯可能出現，但不是保持形狀的等比例縮放。</p>",
+      "id": "g6s2-mathematics-07-s03"
+    },
+    {
+      "title": "圓的縮放也看半徑或直徑",
+      "childText": "圓心位置可以變，比例仍由半徑決定。",
+      "html": "<p>半徑3公分的圓放大成2倍圖，半徑6、直徑12公分。每個圓周上的點到新圓心仍等距，所以圖形仍是圓。圓不會因放大成橢圓；只有不同方向使用不同倍數才可能改形。</p><div class=\"lesson-table-scroll\" role=\"region\" tabindex=\"0\" aria-label=\"縮放資料卡，可左右捲動\"><table><caption>縮放資料卡</caption><thead><tr><th scope=\"col\">原圖條件</th><th scope=\"col\">縮放倍數</th><th scope=\"col\">新圖條件</th></tr></thead><tbody><tr><th scope=\"row\">長方形6×4公分</th><td>3倍</td><td>18×12公分</td></tr><tr><th scope=\"row\">直角三角形3、4、5公分</th><td>1/2倍</td><td>1.5、2、2.5公分</td></tr><tr><th scope=\"row\">圓半徑2公分</th><td>3倍</td><td>半徑6公分、直徑12公分</td></tr></tbody></table></div><p>表中的倍數都相對原圖長度。說「三倍圖」時先問原圖是哪一張；若把18×12再縮成1/3倍，就回到6×4，參考圖換了，運算也要對準。</p>",
+      "id": "g6s2-mathematics-07-s04"
+    },
+    {
+      "title": "一起找被拉歪的候選圖",
+      "childText": "完整邊長資料比外觀可靠。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" tabindex=\"0\" aria-label=\"原長方形長6寬4公分，找2倍圖，可左右捲動\"><table><caption>原長方形長6寬4公分，找2倍圖</caption><thead><tr><th scope=\"col\">候選</th><th scope=\"col\">長的倍數</th><th scope=\"col\">寬的倍數</th><th scope=\"col\">判斷</th></tr></thead><tbody><tr><th scope=\"row\">甲：12×8</th><td>2</td><td>2</td><td>符合</td></tr><tr><th scope=\"row\">乙：12×6</th><td>2</td><td>1.5</td><td>不符合</td></tr><tr><th scope=\"row\">丙：9×6</th><td>1.5</td><td>1.5</td><td>是1.5倍圖，非2倍圖</td></tr></tbody></table></div><p>遮住判斷欄，逐項核算。乙是長方形但比例已改；丙保持原形卻不符合指定2倍。成人要區分「形狀保留」與「是否為指定倍數」兩個判準，不把所有不符合要求都叫畫歪。</p>",
+      "id": "g6s2-mathematics-07-s05"
+    },
+    {
+      "title": "修補角度也乘倍數",
+      "childText": "角度描述開口，長度描述距離。",
+      "html": "<p>有人把直角三角形放大2倍時，寫直角變180度。角的兩邊伸長不會改變它們張開的程度，對應角仍90度。可用兩張透明或普通紙上畫的直角對齊頂點與一邊，比較另一邊方向，不需要精確量其他角度。</p><p>另一人只憑圖看起來比較大就說2倍，應改查對應邊長。螢幕縮放或印表設定可能改變顯示尺寸，本課計算以標記的公分資料為準，不量螢幕判倍數。</p>",
+      "id": "g6s2-mathematics-07-s06"
+    },
+    {
+      "title": "獨立轉用",
+      "childText": "標記對應邊與比例。",
+      "html": "<p>①3、4、5公分三角形放成3倍圖，各邊多少？②長10寬6公分縮成1/2倍圖。③原圓半徑4公分，縮成1/4倍圖，半徑與直徑多少？④原長方形4×3，新圖8×9，是否等比例放大？</p><details><summary>完成後開啟參考答案</summary><p>①9、12、15公分，對應角不變。②5×3公分。③半徑1、直徑2公分。④不是，長2倍、寬3倍，不是同一倍數。判斷先看對應關係，不能只因兩圖都是長方形就說是縮放。</p></details>",
+      "id": "g6s2-mathematics-07-s07"
+    }
+  ],
+  "teachingHtml": "<p>依S-6-1，重點是對應角相等、對應邊成比例。需要較多支持的孩子先連結A與D、B與E、C與F，再查兩端點所定的邊；已熟練的孩子區分等比例1.5倍圖與指定2倍圖。成人可接受旋轉或平移的同形圖，只要頂點對應明確；本課不要求進階幾何作圖或相似三角形判定定理。圖的兩組3、4、5和6、8、10邊長與像素比例一致，角度保持。評量不靠螢幕尺或美工精細度，允許直接用完整尺寸表作答；避免把縮小倍數說成除以原圖或把角度同倍放大。</p><p>教學可分兩次進行：第一次停在共同示範，讓孩子先口述每一個數的意思；第二次從新資料開始，檢查能否獨立選擇方法。提供大張紙、粗筆或成人代筆，容許指表、畫記與口述，不用書寫速度決定是否理解。需要較多支持的孩子每次只看一列資料，再逐步遮去提示；已熟練的孩子要比較兩種方法的理由，不能只增加計算量。</p><p>評量分別記錄辨認條件、建立關係、正確計算、檢查與解釋。選項答對但不能解釋時，請孩子回到示範指出依據；答錯時保留原稿，先修補一個關鍵錯因，再換一題相似但數字不同的題目。獨立活動先完成才開啟參考答案。紙面操作與實際量測要分開記錄，不把讀過答案當成已完成觀察。</p><p>本課人物、物件數量及情境資料皆為原創教學模型。只需在桌面使用紙筆；紙卡可直接指認，若要裁切由成人預先處理，不要求兒童提供真實姓名、位置、家庭帳務或個人紀錄。官方課綱列的是年級學習內容，本課所在學期與練習次序是編輯安排。</p>",
+  "exercises": [
+    {
+      "id": "g6s2-mathematics-07-q01",
+      "question": "A對D、B對E，AB應對應哪條邊？",
+      "options": [
+        "DE",
+        "EF",
+        "DF"
+      ],
+      "answer": 0,
+      "hint": "兩個端點都要照對應關係。",
+      "explanation": "AB的兩端A、B分別對D、E，因此對應DE，不能只選看起來相近的邊。"
+    },
+    {
+      "id": "g6s2-mathematics-07-q02",
+      "question": "3、4、5公分三角形的2倍圖各邊為？",
+      "options": [
+        "6、8、10公分",
+        "6、4、5公分",
+        "5、6、7公分"
+      ],
+      "answer": 0,
+      "hint": "每條對應邊都乘2。",
+      "explanation": "三條邊同乘2才保持同一比例；各加2或只改一邊都不是2倍圖。"
+    },
+    {
+      "id": "g6s2-mathematics-07-q03",
+      "question": "直角放大成2倍圖，對應角為？",
+      "options": [
+        "45度",
+        "90度",
+        "180度"
+      ],
+      "answer": 1,
+      "hint": "縮放不改角的開口程度。",
+      "explanation": "等比例放大時對應角相等，直角仍90度，倍數只作用於長度。"
+    },
+    {
+      "id": "g6s2-mathematics-07-q04",
+      "question": "8乘6公分長方形縮成1/2倍圖為？",
+      "options": [
+        "16乘12公分",
+        "4乘3公分",
+        "4乘6公分"
+      ],
+      "answer": 1,
+      "hint": "兩個方向都乘同一分率。",
+      "explanation": "長8×1/2＝4，寬6×1/2＝3，不能只縮短長邊。"
+    },
+    {
+      "id": "g6s2-mathematics-07-q05",
+      "question": "半徑3公分圓的2倍圖，直徑為？",
+      "options": [
+        "3公分",
+        "6公分",
+        "12公分"
+      ],
+      "answer": 2,
+      "hint": "先把半徑放大，再求直徑。",
+      "explanation": "新半徑6公分，直徑2×6＝12公分，6是新半徑。"
+    },
+    {
+      "id": "g6s2-mathematics-07-q06",
+      "question": "原6乘4，新12乘6，是否等比例縮放？",
+      "options": [
+        "是，都是長方形",
+        "不是，兩方向倍數不同",
+        "是，兩數都變大"
+      ],
+      "answer": 1,
+      "hint": "各算一組新長除原長。",
+      "explanation": "12÷6＝2，6÷4＝1.5，倍數不同，所以形狀比例改變。"
+    },
+    {
+      "id": "g6s2-mathematics-07-q07",
+      "question": "原6乘4，新9乘6，是幾倍圖？",
+      "options": [
+        "2倍",
+        "3倍",
+        "1.5倍"
+      ],
+      "answer": 2,
+      "hint": "檢查兩組對應比值是否相同。",
+      "explanation": "9÷6與6÷4都為1.5，保持形狀但不是2倍圖。"
+    },
+    {
+      "id": "g6s2-mathematics-07-q08",
+      "question": "為何本課不使用螢幕尺量倍數？",
+      "options": [
+        "顯示可能縮放，應讀標記尺寸",
+        "計算永遠不能用量測",
+        "所有圖形都沒有長度"
+      ],
+      "answer": 0,
+      "hint": "螢幕像素不等於固定公分。",
+      "explanation": "螢幕和印出尺寸會受設定影響，題目已給標記長度，應依資料比較。"
+    }
+  ],
+  "selfCheck": [
+    "我會先配對頂點再配邊。",
+    "我知道縮放時角度不變。",
+    "我能辨認比例正確但倍數不同的圖。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "依六年級年度學習內容安排；學期順序、情境、表格與練習為本教材原創編輯設計，不代表全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：六年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對官方附件印刷頁33–35。S-6-1：放大與縮小、對應邊比例與對應角相等，不用進階作圖或相似判定。"
+    }
+  ]
+}
