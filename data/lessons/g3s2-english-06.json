@@ -1,0 +1,184 @@
+{
+  "id": "g3s2-english-06",
+  "course": "英語文",
+  "title": "詢問與表達能做的事",
+  "subtitle": "依角色能力卡問答，尊重能與不能，不要求表演證明",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "依角色能力卡問答，尊重能與不能，不要求表演證明。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能理解can與can’t在本課的能力意思。",
+    "我會依虛構角色卡用Can you…?和Yes/No回答。",
+    "我知道能力描述不代表喜好或必須立刻做，也不拿來排名。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "能做什麼，是這一問的重點",
+      "childText": "會做、不會做和喜不喜歡分開。",
+      "html": "<span lang=\"en\">I can draw.</span>我會畫畫；<span lang=\"en\">I can’t sing.</span>我不會唱歌。本課的<span lang=\"en\">can</span>和<span lang=\"en\">can’t</span>說角色卡上設定的能力，不是問喜歡不喜歡，也不表示一定願意立刻表演。<span lang=\"en\">Can you draw?</span>問你會畫嗎？答<span lang=\"en\">Yes, I can.</span>或<span lang=\"en\">No, I can’t.</span>。本課只扮演虛構紙偶，不蒐集真實同學能力名單、不要求身體測試。真實的人可以用不同方式參與，不能由一張卡或一次表現判定永遠不會。",
+      "id": "g3s2-english-06-s01"
+    },
+    {
+      "title": "兩張完整角色能力卡",
+      "childText": "字卡有明確能與不能，不只用打勾。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 182\" role=\"img\" aria-labelledby=\"g3s2-english-06-fig\"><title id=\"g3s2-english-06-fig\">原創紙卡資料；所有人物與數字都是虛構練習資料。</title><rect x=\"12\" y=\"10\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"38\" font-size=\"21\" lang=\"en\">Pip</text><text x=\"27\" y=\"67\" font-size=\"17\">甲紙偶：會畫draw；不會唱sing。</text><rect x=\"12\" y=\"95\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"123\" font-size=\"21\" lang=\"en\">Kit</text><text x=\"27\" y=\"152\" font-size=\"17\">乙紙偶：會唱sing；不會畫draw。</text></svg><figcaption>原創紙卡資料；所有人物與數字都是虛構練習資料。</figcaption></figure><p>甲完整自述：<span lang=\"en\">I can draw. I can’t sing.</span>；乙：<span lang=\"en\">I can sing. I can’t draw.</span>。draw是畫，sing是唱。這是劇情設定，不代表拿這張卡的孩子本人。卡色或紙偶樣子不決定能力。</p><p>先用中文指出每張會與不會，再聽教師自然讀完整英語。can/can’t的語音須教師核對所選美式模型，不能只靠中文近音或看嘴形猜否定。</p>",
+      "id": "g3s2-english-06-s02"
+    },
+    {
+      "title": "示範：問的是你，回答換成我",
+      "childText": "問題和回應的人稱要接起來。",
+      "html": "<div class=\"story\"><p>問者對Pip：<span lang=\"en\">Can you draw?</span></p><p>Pip：<span lang=\"en\">Yes, I can.</span></p><p>問者：<span lang=\"en\">Can you sing?</span></p><p>Pip：<span lang=\"en\">No, I can’t.</span></p></div><p>問句用you指正在被問的角色，答者用I說自己這張卡。示範後孩子用中文指出兩問的動作不同，所以答案不同；不把Yes當禮貌必答，也不把No當態度不好。</p><p>教師確認全文後自然讀，每問留等待，不能把兩個答案一起先提示。</p>",
+      "id": "g3s2-english-06-s03"
+    },
+    {
+      "title": "一起練：換角色，重新查表",
+      "childText": "同一問題對不同角色可有不同答案。",
+      "html": "<p>改問Kit：<span lang=\"en\">Can you sing?</span>應答<span lang=\"en\">Yes, I can.</span>；<span lang=\"en\">Can you draw?</span>應答<span lang=\"en\">No, I can’t.</span>。成人先持角色卡讓孩子看清，再按「唱、畫、畫、唱」順序問完整句，孩子每次重新對照動作欄。</p><p>本課肯定和否定都要依卡，不能因為連著兩次一樣問題就硬換答案。只用紙卡回答，不強迫畫畫、唱歌或表演。不便拿卡可由成人持卡，孩子仍決定答案。</p>",
+      "id": "g3s2-english-06-s04"
+    },
+    {
+      "title": "修復：漏了否定，意思會變",
+      "childText": "先核對資料，再請老師重說。",
+      "html": "<p>把Pip不會唱說成<span lang=\"en\">I can sing.</span>，先回甲卡確認「不會」，再用<span lang=\"en\">I can’t sing.</span>修正。聽不清can或can’t時用<span lang=\"en\">Please say that again.</span>或熟悉語言求重說；成人可用完整肯定/否定句再次確認，不猜。</p><p>can後面在本課接動作原形draw或sing，不加to。這是目前兩個模型的句法線索。British Council來源另有英式發音說明，本課不把其中長短母音說法套成全球規則，尤其不拿來否定正常美式變體。</p>",
+      "id": "g3s2-english-06-s05"
+    },
+    {
+      "title": "自己試：新紙偶有兩項能力",
+      "childText": "不把之前角色的對比當固定規則。",
+      "html": "<p>新卡Nori：會畫，也會唱。問<span lang=\"en\">Can you draw?</span>和<span lang=\"en\">Can you sing?</span>，兩題都依新資料回答。另一張空白卡沒有能力資料，不能自動判No；先說「資料不足」或請成人補充虛構設定。</p><details><summary>作答後核對</summary><p>Nori兩問都可答<span lang=\"en\">Yes, I can.</span>，因兩欄都寫會。空白卡沒有資料，不能從沉默或外觀推定不會。</p></details><p>再自己寫一張只有draw/sing的虛構卡，請成人照卡演，核對他是否真正回應所問動作。</p>",
+      "id": "g3s2-english-06-s06"
+    },
+    {
+      "title": "用語言描述，不用能力評價人",
+      "childText": "不會不是較差，也不一定永遠。",
+      "html": "<p>紀錄例：「能用Pip選一肯定一否定；換Kit要看卡；Nori兩項都會能更新答案。」這證明問答與資料配對，不證明孩子自己的畫唱能力。</p><p>成人將語意、回應框架與實際口語分欄。指卡、AAC或成人代讀可表達選擇；若沒有孩子實際發聲，就不寫獨立發音通過。不公開比較誰能誰不能，也不強迫說自己的困難。</p>",
+      "id": "g3s2-english-06-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>Pip/Kit先建立依人與動作查欄，再用Nori雙肯定和空白未知破除固定一正一負策略。支持者保留中文會/不會及完整回應卡；進階者自己出新角色卡，仍不問真實身體能力。can/can’t必須教師核對美式模型再聽說，來源僅採語法，不採其英式音值作跨口音規則。語意選擇和口語可理解性分開；不做真唱、運動或能力公開排名，不把No回應視為不合作。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-06-q01",
+      "question": "I can draw.在本課表示？",
+      "options": [
+        "我一定喜歡唱歌",
+        "我會畫畫",
+        "我十歲"
+      ],
+      "answer": 1,
+      "hint": "看can後面的動作。",
+      "explanation": "本句描述畫畫能力，沒有提供唱歌喜好或年齡資訊。"
+    },
+    {
+      "id": "g3s2-english-06-q02",
+      "question": "Pip被問Can you sing?應答？",
+      "options": [
+        "No, I can’t.",
+        "Yes, I can.",
+        "I’m ten."
+      ],
+      "answer": 0,
+      "hint": "查甲卡的唱歌欄。",
+      "explanation": "甲Pip明寫不會唱，所以依本課能力問題用否定回應。"
+    },
+    {
+      "id": "g3s2-english-06-q03",
+      "question": "問Can you draw?時，回答者為何用I？",
+      "options": [
+        "回答者在說自己的角色資料",
+        "I永遠指問者",
+        "I表示任何物品"
+      ],
+      "answer": 0,
+      "hint": "注意輪到誰回答。",
+      "explanation": "問句you指答者，答者以I說自己的卡片資訊，人稱隨發話角色轉換。"
+    },
+    {
+      "id": "g3s2-english-06-q04",
+      "question": "Kit被問Can you sing?應答？",
+      "options": [
+        "Yes, I can.",
+        "No, I can’t.",
+        "It’s blue."
+      ],
+      "answer": 0,
+      "hint": "重新查看乙卡。",
+      "explanation": "乙Kit的唱歌欄是會，因此肯定回答，不沿用Pip的否定。"
+    },
+    {
+      "id": "g3s2-english-06-q05",
+      "question": "can與can’t意思在本課如何？",
+      "options": [
+        "兩個永遠完全一樣",
+        "一個表示會，一個表示不會",
+        "都只問顏色"
+      ],
+      "answer": 1,
+      "hint": "留意否定對訊息的影響。",
+      "explanation": "can與can’t的能力意思相反，漏掉否定會改變角色資料。"
+    },
+    {
+      "id": "g3s2-english-06-q06",
+      "question": "新Nori會畫也會唱，兩問怎麼答？",
+      "options": [
+        "一定一題Yes一題No",
+        "兩題都Yes, I can.",
+        "兩題都不能回答"
+      ],
+      "answer": 1,
+      "hint": "不要把前兩角色規律套到新卡。",
+      "explanation": "新卡兩項都會，應逐欄判斷，不能硬套之前一會一不會的安排。"
+    },
+    {
+      "id": "g3s2-english-06-q07",
+      "question": "空白能力卡代表什麼？",
+      "options": [
+        "一定全部不會",
+        "一定全部會",
+        "資料不足，不能推定不會"
+      ],
+      "answer": 2,
+      "hint": "沒有記錄不等於否定。",
+      "explanation": "缺少能力資料無法確定答案，應補充資料而非由空白或外觀猜測。"
+    },
+    {
+      "id": "g3s2-english-06-q08",
+      "question": "問能力是否授權強迫對方立刻表演？",
+      "options": [
+        "是，必須馬上做",
+        "只有聲音大者能拒絕",
+        "不是，可用角色卡回答"
+      ],
+      "answer": 2,
+      "hint": "描述能力與參與意願不同。",
+      "explanation": "能力問答不代表一定願意或必須現場展示，需尊重表達與參與方式。"
+    }
+  ],
+  "selfCheck": [
+    "我能理解can與can’t在本課的能力意思。",
+    "我會依虛構角色卡用Can you…?和Yes/No回答。",
+    "我知道能力描述不代表喜好或必須立刻做，也不拿來排名。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Modal verbs: can, could",
+      "url": "https://africa.teachingenglish.org.uk/classroom/grammar/modals-can-could",
+      "note": "2026-10-05 官方教學頁核對can/can’t能力句、問題與簡短回應；本課只用can現在能力，不採could進階項目。原創虛構角色資訊，不要求實際能力展示或合成聲音。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    }
+  ]
+}

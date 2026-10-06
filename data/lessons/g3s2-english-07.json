@@ -1,0 +1,184 @@
+{
+  "id": "g3s2-english-07",
+  "course": "英語文",
+  "title": "介紹家人與朋友",
+  "subtitle": "依虛構關係卡介紹人物，讓聽者知道你說的是誰",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "依虛構關係卡介紹人物，讓聽者知道你說的是誰。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能理解本課家人與朋友的常用稱呼。",
+    "我會用This is…依角色關係介紹人物。",
+    "我知道家庭可以不同，不從外貌猜關係，也不必展示真實家庭。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "介紹人物要說清楚關係",
+      "childText": "同一個人和不同人可以有不同關係。",
+      "html": "<span lang=\"en\">This is my grandmother, Jo.</span>表示「這是我的祖母Jo」，要先知道說話角色是誰，才明白my指誰的關係。<span lang=\"en\">This is my friend, Sam.</span>介紹朋友Sam。這些人物完全虛構，不要求你報家人姓名或照片。<p>本課詞庫：<span lang=\"en\">mother</span>母親、<span lang=\"en\">father</span>父親、<span lang=\"en\">grandmother</span>祖母或外祖母、<span lang=\"en\">grandfather</span>祖父或外祖父、<span lang=\"en\">brother</span>兄弟、<span lang=\"en\">sister</span>姊妹、<span lang=\"en\">family</span>家庭或家人、<span lang=\"en\">friend</span>朋友。英語詞不一定像中文區分長幼或父系母系；具體關係要看資料。</p>",
+      "id": "g3s2-english-07-s01"
+    },
+    {
+      "title": "完整虛構關係卡",
+      "childText": "每個關係都明寫，不靠長相猜。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 287\" role=\"img\" aria-labelledby=\"g3s2-english-07-fig\"><title id=\"g3s2-english-07-fig\">原創紙卡資料；所有人物與數字都是虛構練習資料。</title><rect x=\"12\" y=\"10\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"38\" font-size=\"21\" lang=\"en\">Mia</text><text x=\"27\" y=\"67\" font-size=\"17\">甲：Jo是Mia的祖母；Sam是Mia的朋友。</text><rect x=\"12\" y=\"95\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"123\" font-size=\"21\" lang=\"en\">Ben</text><text x=\"27\" y=\"152\" font-size=\"17\">乙：Pat與Kim是Ben的兩位照顧者。</text><rect x=\"12\" y=\"180\" width=\"336\" height=\"95\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"208\" font-size=\"21\" lang=\"en\">Jo / Sam</text><text x=\"27\" y=\"237\" font-size=\"17\">Jo與Sam的年齡、職業及其他關係：</text><text x=\"27\" y=\"260\" font-size=\"17\">未提供。</text></svg><figcaption>原創紙卡資料；所有人物與數字都是虛構練習資料。</figcaption></figure><p>這是兩份情境資料，不代表家庭只有這兩種形式。甲卡可練關係稱呼；乙卡可用名字介紹<span lang=\"en\">This is Pat. This is Kim.</span>，不用硬替資料沒有說的家庭角色加稱呼。</p><p>成年人和孩子住在一起的方式、家人數目及稱呼可能不同。沒有提供的資訊就保留不知道，不用追問真實家庭或把某種組成說成比較完整。</p>",
+      "id": "g3s2-english-07-s02"
+    },
+    {
+      "title": "原創示範：Mia介紹兩張人物卡",
+      "childText": "my跟著發話者，不跟著拿卡的人亂換。",
+      "html": "<div class=\"story\"><p>Mia：<span lang=\"en\">Hello. I’m Mia.</span></p><p>Mia指Jo卡：<span lang=\"en\">This is my grandmother, Jo.</span></p><p>Mia指Sam卡：<span lang=\"en\">This is my friend, Sam.</span></p><p>訪客對Sam：<span lang=\"en\">Hello, Sam.</span></p></div><p>教師先核對全文和人名，再自然示範。孩子指出誰說my、誰被介紹，以及訪客最後向誰招呼。即使由成人拿Mia卡代讀，my仍是故事中Mia的關係，不變成成人自己的家庭。</p>",
+      "id": "g3s2-english-07-s03"
+    },
+    {
+      "title": "一起選句：知道與不知道分開",
+      "childText": "有名字，也可先介紹名字。",
+      "html": "<p>第一輪用Mia卡，成人指Jo，孩子選<span lang=\"en\">This is my grandmother, Jo.</span>；指Sam選<span lang=\"en\">This is my friend, Sam.</span>。第二輪改Ben卡，孩子選<span lang=\"en\">This is Pat.</span>和<span lang=\"en\">This is Kim.</span>。不因名字或衣服猜Pat是父親、Kim是母親。</p><p>若想用<span lang=\"en\">This is my family.</span>，先說明這是角色願意介紹的一組家人，不把一張圖當全部家庭成員清單。孩子可用兩張大紙名字卡代替人物畫，意思仍完整，不必帶家中照片。</p>",
+      "id": "g3s2-english-07-s04"
+    },
+    {
+      "title": "修復：稱呼不靠刻板印象",
+      "childText": "年紀、髮型、衣服都不是關係證據。",
+      "html": "<p>錯誤：「Jo名字短，所以是朋友。」修復時回關係卡，Jo是Mia祖母的資料明確；Sam才標朋友。另一錯誤是「grandmother一定是爸爸的媽媽」，其實這個英語詞也可指媽媽的媽媽，中文細分需額外資訊。</p><p>不要從外觀推定he或she；本課用姓名介紹即可，若之後要練代名詞，先有角色明示設定。不評誰的家庭更好，也不要求說出沒有同住、失去或不願談的家人。</p>",
+      "id": "g3s2-english-07-s05"
+    },
+    {
+      "title": "自己試：換說話者的關係卡",
+      "childText": "資料改變時，介紹要跟著更新。",
+      "html": "<p>新角色Nori的卡寫「Jo是Nori的朋友」。Nori指Jo介紹時，應選<span lang=\"en\">This is my friend, Jo.</span>，不能沿用Mia說的grandmother。這是虛構新關係，不矛盾：一個人可以同時是某人的祖母和另一人的朋友。</p><details><summary>作答後核對</summary><p>Nori用<span lang=\"en\">This is my friend, Jo.</span>；Mia仍可用<span lang=\"en\">This is my grandmother, Jo.</span>。關鍵是my指哪位說話角色及其提供的關係。</p></details><p>最後給一張只有名字Lee、沒有關係的卡，先用<span lang=\"en\">This is Lee.</span>，不補編祖父、兄弟或職業。</p>",
+      "id": "g3s2-english-07-s06"
+    },
+    {
+      "title": "理解關係，也尊重界線",
+      "childText": "用卡片即可，不要收集家庭名單。",
+      "html": "<p>紀錄例：「能以Mia視角介紹Jo；換Nori後第一次沿用祖母，查新卡後改朋友；只有名字能保留未知。」這比背熟某個家庭樹更能顯示理解。</p><p>可選句、指人名、AAC或成人代讀；真實口語另由教師觀察。班級不保存真名、照片、家庭組成表或私人故事，本課不把是否願意說真實家庭作評分。</p>",
+      "id": "g3s2-english-07-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>關係稱呼先與發話者對上，再換Nori視角檢查my的指向，避免背固定名字關係。支持者保留中文卡和姓名，進階者說明一人對不同人的關係，不新增個人揭露。grandmother等英語涵蓋中文父母系，不過度簡化；brother/sister不硬設長幼。來源詞表僅驗證詞彙，兩種家庭情境皆原創，不宣稱是唯一或標準家庭。無性別推斷、家庭優劣或公共展示要求，個人真實情況不進入評量。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-07-q01",
+      "question": "Mia卡裡Jo與Mia的關係？",
+      "options": [
+        "卡片沒有提供",
+        "朋友",
+        "祖母"
+      ],
+      "answer": 2,
+      "hint": "直接查甲卡的關係資料。",
+      "explanation": "甲卡明確說Jo是Mia祖母，不能用名字或外觀另猜關係。"
+    },
+    {
+      "id": "g3s2-english-07-q02",
+      "question": "Mia介紹Sam應用哪句？",
+      "options": [
+        "This is my grandmother, Sam.",
+        "This is my friend, Sam.",
+        "I’m ten."
+      ],
+      "answer": 1,
+      "hint": "看Sam在甲卡中的標籤。",
+      "explanation": "Sam被標為Mia朋友，介紹應保留正確姓名和關係，而非套用Jo。"
+    },
+    {
+      "id": "g3s2-english-07-q03",
+      "question": "grandmother在英語一定只指父親的母親嗎？",
+      "options": [
+        "是，只能父系",
+        "不是，也可指母親的母親",
+        "它表示任何年輕朋友"
+      ],
+      "answer": 1,
+      "hint": "英語與中文細分不完全一樣。",
+      "explanation": "grandmother可涵蓋祖母和外祖母，若要區分父母哪一側需更多資料。"
+    },
+    {
+      "id": "g3s2-english-07-q04",
+      "question": "Pat與Kim資料只寫照顧者，怎麼介紹合適？",
+      "options": [
+        "一定叫父親和母親",
+        "This is Pat. This is Kim.",
+        "看髮型決定稱呼"
+      ],
+      "answer": 1,
+      "hint": "不要補上資料沒有的關係。",
+      "explanation": "已知姓名足以介紹人物，不可依外貌或名字替角色捏造父母稱呼。"
+    },
+    {
+      "id": "g3s2-english-07-q05",
+      "question": "Nori的新卡說Jo是朋友，應用哪句？",
+      "options": [
+        "This is my friend, Jo.",
+        "This is my grandmother, Jo.",
+        "It’s a blue book."
+      ],
+      "answer": 0,
+      "hint": "這次my由誰說？",
+      "explanation": "Nori的關係資料不同於Mia，應依新說話者更新為朋友介紹。"
+    },
+    {
+      "id": "g3s2-english-07-q06",
+      "question": "同一個Jo可以是Mia祖母又是Nori朋友嗎？",
+      "options": [
+        "不可以，一生只能一種關係",
+        "一定是資料全部錯了",
+        "可以，關係相對不同的人"
+      ],
+      "answer": 2,
+      "hint": "看兩個關係分別連到誰。",
+      "explanation": "對不同人可有不同關係，這兩個虛構設定並不相互衝突。"
+    },
+    {
+      "id": "g3s2-english-07-q07",
+      "question": "只有名字Lee沒有關係，哪句有根據？",
+      "options": [
+        "This is Lee.",
+        "This is my grandfather, Lee.",
+        "Lee一定是醫師"
+      ],
+      "answer": 0,
+      "hint": "只用目前已提供的資料。",
+      "explanation": "名字已知可直接介紹，祖父或職業等資訊沒有根據便不添加。"
+    },
+    {
+      "id": "g3s2-english-07-q08",
+      "question": "完成這課一定要帶真實家人照片嗎？",
+      "options": [
+        "不用，虛構卡足夠",
+        "一定要全家照片",
+        "必須公布家庭名單"
+      ],
+      "answer": 0,
+      "hint": "本頁提供完整角色資料。",
+      "explanation": "虛構關係能完成學習，不需提供照片或私人家庭資訊。"
+    }
+  ],
+  "selfCheck": [
+    "我能理解本課家人與朋友的常用稱呼。",
+    "我會用This is…依角色關係介紹人物。",
+    "我知道家庭可以不同，不從外貌猜關係，也不必展示真實家庭。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    },
+    {
+      "title": "British Council｜Family flashcards",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-family.pdf",
+      "note": "2026-10-05 直接開啟官方PDF核對mother、father、grandmother、grandfather、brother、sister、family詞形。本課關係卡、人物與介紹全文原創，未複製圖片；不把原圖家庭形式當唯一標準。"
+    }
+  ]
+}

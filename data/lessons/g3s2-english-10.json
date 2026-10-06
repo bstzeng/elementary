@@ -1,0 +1,189 @@
+{
+  "id": "g3s2-english-10",
+  "course": "英語文",
+  "title": "看圖理解簡短對話",
+  "subtitle": "看清it指哪張畫，再把短對話和圖像證據連起來",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "看清it指哪張畫，再把短對話和圖像證據連起來。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能依實際場景找出說話者與所指圖卡。",
+    "我能讀懂辨物、確認顏色和更正的短對話。",
+    "我會用同一張卡核對整段，而不是每句換不同對象。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "看圖前先知道任務",
+      "childText": "圖片和話語各提供一些資料。",
+      "html": "<p>兩位虛構角色<span lang=\"en\">Mia</span>、<span lang=\"en\">Jo</span>在紙上展臺介紹動物畫。本課英文用<span lang=\"en\">What’s this?</span>、<span lang=\"en\">It’s a fish.</span>、<span lang=\"en\">Is it blue?</span>、<span lang=\"en\">No, it isn’t. It’s red.</span>。先理解每句功能，再對照圖，不用猜人物心情。</p><p>教師先核對完整英文和fish/bird詞音。可選純閱讀或有成人實際讀稿的聽讀活動；頁面沒有錄音，不把看文字全對說成聽力已通過。</p>",
+      "id": "g3s2-english-10-s01"
+    },
+    {
+      "title": "實際原創場景與標記",
+      "childText": "甲乙卡有顏色和種類兩種資訊。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 290\" role=\"img\" aria-labelledby=\"g3s2-english-10-fig\"><title id=\"g3s2-english-10-fig\">原創展臺對話場景：Mia在左，Jo在右；臺面甲卡是紅色魚畫，乙卡是藍色鳥畫。兩人的姓名及卡片中英標記可讀，未標情緒或性別。</title><rect x=\"95\" y=\"111\" width=\"173\" height=\"69\" fill=\"#e4d7c1\" stroke=\"#34495e\"/><path d=\"M110 180V215M252 180V215\" stroke=\"#34495e\" stroke-width=\"5\"/><circle cx=\"48\" cy=\"64\" r=\"21\" fill=\"#ebc6a4\"/><path d=\"M22 142V96Q48 80 73 96V142Z\" fill=\"#b1d1ba\"/><circle cx=\"310\" cy=\"64\" r=\"21\" fill=\"#ddb393\"/><path d=\"M284 143V95Q310 81 337 95V143Z\" fill=\"#bfc5de\"/><text x=\"30\" y=\"172\" font-size=\"18\" lang=\"en\">Mia</text><text x=\"296\" y=\"172\" font-size=\"18\" lang=\"en\">Jo</text><rect x=\"104\" y=\"34\" width=\"72\" height=\"72\" fill=\"white\" stroke=\"#345\"/><ellipse cx=\"143\" cy=\"64\" rx=\"20\" ry=\"12\" fill=\"#bf2929\"/><path d=\"M123 64L112 52V76Z\" fill=\"#bf2929\"/><circle cx=\"155\" cy=\"61\" r=\"2\"/><text x=\"110\" y=\"94\" font-size=\"14\">甲紅魚</text><rect x=\"187\" y=\"34\" width=\"72\" height=\"72\" fill=\"white\" stroke=\"#345\"/><ellipse cx=\"220\" cy=\"65\" rx=\"19\" ry=\"12\" fill=\"#245da0\"/><circle cx=\"238\" cy=\"54\" r=\"10\" fill=\"#245da0\"/><path d=\"M247 51L256 56L247 60Z\" fill=\"#e8ac42\"/><path d=\"M216 76V83M227 76V83\" stroke=\"#345\"/><text x=\"192\" y=\"94\" font-size=\"14\">乙藍鳥</text><g font-size=\"18\" lang=\"en\"><text x=\"102\" y=\"241\">A: red fish</text><text x=\"102\" y=\"269\">B: blue bird</text></g></svg><figcaption>原創展臺對話場景：Mia在左，Jo在右；臺面甲卡是紅色魚畫，乙卡是藍色鳥畫。兩人的姓名及卡片中英標記可讀，未標情緒或性別。</figcaption></figure><p>甲標紅魚，乙標藍鳥。它們是人物畫的紙卡，不是真實魚鳥，也不代表所有魚是紅、所有鳥是藍。人物衣服沒有提供性別、職業、情緒資訊，姓名由圖下標籤確認。</p><p>本頁圖卡A/B的英文代號與甲乙相對應。教師可讓孩子先指兩人的位置，再說甲卡和乙卡的種類顏色；沒有讀完對話前，不先猜對方正在說哪張。</p>",
+      "id": "g3s2-english-10-s02"
+    },
+    {
+      "title": "完整原創對話：一直指甲卡",
+      "childText": "跟著指涉，別自己換成乙。",
+      "html": "<div class=\"story\"><p>Mia指甲卡：<span lang=\"en\">What’s this?</span></p><p>Jo：<span lang=\"en\">It’s a fish.</span></p><p>Mia仍指甲：<span lang=\"en\">Is it blue?</span></p><p>Jo：<span lang=\"en\">No, it isn’t. It’s red.</span></p><p>Mia：<span lang=\"en\">Thank you.</span></p></div><p>中文導讀：Mia問甲畫的是什麼，Jo說魚；Mia確認是否藍色，Jo否定並更正紅色。兩次it都指甲，不因問句出現blue便跳去找乙藍鳥。</p><p>全文是成人確切讀稿，換角色時停頓，必要時重讀指定一句，不要求孩子背整段。</p>",
+      "id": "g3s2-english-10-s03"
+    },
+    {
+      "title": "示範：兩條證據一起用",
+      "childText": "圖支持顏色，文字支持正在談誰。",
+      "html": "<p>示範題「為什麼不能答Yes, it is？」先找文字「仍指甲」，再看甲圖是紅魚，藍色條件不符合，所以否定。若只看到乙是藍色就答Yes，是看對了圖中一部分，卻錯放到另一張卡。</p><p>一起做第二問「Jo更正了哪個資訊？」孩子指出red只更正顏色，fish仍是魚。教師可以用紙畫兩欄「種類／顏色」，逐句填入，不必同時記住全部臺詞。</p>",
+      "id": "g3s2-english-10-s04"
+    },
+    {
+      "title": "修復：對象不清楚就先指明",
+      "childText": "不要用最顯眼的圖猜。",
+      "html": "<p>如果Mia沒有指甲也沒有說卡名，it可能不清楚。先用中文問「你是說甲還是乙？」或請成人示範<span lang=\"en\">This one?</span>並指一張，再確認；不強迫孩子猜一個答案才算完成。</p><p>另一錯誤是把<span lang=\"en\">No, it isn’t.</span>理解成「這裡什麼都沒有」。其實它否定的是前一句藍色條件，不是否定有一張圖。回到完整問句，才能知道No在否定哪項。</p>",
+      "id": "g3s2-english-10-s05"
+    },
+    {
+      "title": "自己試：這次改指乙",
+      "childText": "同樣框架，依新圖更新詞。",
+      "html": "<p>新段對話明確指乙：問<span lang=\"en\">What’s this?</span>；答者選一整句。接著問<span lang=\"en\">Is it red?</span>，答者否定並說正確顏色。先不看答案，使用圖上的種類與顏色兩欄自己組合。</p><details><summary>完成後核對</summary><p lang=\"en\">It’s a bird. No, it isn’t. It’s blue.</p><p>乙是藍鳥，所以種類改bird、否定紅色、補blue。不能因原版答fish/red就照抄。</p></details><p>再只給「it」而沒有指卡，請孩子主動要求說清楚對象。這不是刁難，而是檢查你知道答案需要什麼資料。</p>",
+      "id": "g3s2-english-10-s06"
+    },
+    {
+      "title": "指出來源，答案更可靠",
+      "childText": "一次說一個線索就好。",
+      "html": "<p>紀錄例：「能指人物；原版藍色問句第一次選乙，回看仍指甲後修正；新指乙能改bird/blue。」下次目標可以是每題先確認it的對象，再查條件。</p><p>可用指卡、兩欄記號、AAC或短句回應；成人代讀的回合就記有代讀，不當獨立朗讀。英文發音品質需真實聽見，圖文推理則依可見資料檢查。</p>",
+      "id": "g3s2-english-10-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>原創場景實際提供兩人兩畫，不拿文字框假扮圖片。先指角色及卡片，再讀完整五回合，示範it穩定指甲與blue引起的干擾，最後移到乙做真正轉用。支持者用種類/顏色兩欄記錄，進階者指出未明指涉時問題不可唯一解。純圖文與真實聽讀分開記，完整敘事不靠不存在音檔。源圖只支持可見色形，心情性別未知；紙卡不用活體或真實人物照片。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-10-q01",
+      "question": "原對話Mia指的是哪張？",
+      "options": [
+        "乙藍鳥",
+        "甲紅魚",
+        "沒有任何卡"
+      ],
+      "answer": 1,
+      "hint": "看對話的中文動作說明。",
+      "explanation": "原文先指甲且接著仍指甲，不能因blue出現而自行換成乙。"
+    },
+    {
+      "id": "g3s2-english-10-q02",
+      "question": "Jo的It’s a fish.說明什麼？",
+      "options": [
+        "甲一定藍色",
+        "Jo的年齡",
+        "甲畫的是魚"
+      ],
+      "answer": 2,
+      "hint": "fish在這句是種類詞。",
+      "explanation": "這句提供圖卡動物種類，不直接提供顏色或人物年齡資訊。"
+    },
+    {
+      "id": "g3s2-english-10-q03",
+      "question": "甲卡被問Is it blue?為何答No？",
+      "options": [
+        "甲是紅色而非藍色",
+        "乙不存在",
+        "所有魚都不能是藍色"
+      ],
+      "answer": 0,
+      "hint": "核對這張卡的色名。",
+      "explanation": "本題否定依甲圖的紅色資料，不是對所有魚顏色作普遍判斷。"
+    },
+    {
+      "id": "g3s2-english-10-q04",
+      "question": "No, it isn’t. It’s red.更正哪項？",
+      "options": [
+        "人物姓名",
+        "顏色",
+        "動物種類"
+      ],
+      "answer": 1,
+      "hint": "看補充句中的red。",
+      "explanation": "補充red修正前句的blue，魚的種類資訊沒有在這句被改動。"
+    },
+    {
+      "id": "g3s2-english-10-q05",
+      "question": "只見乙是藍色便替甲答Yes，錯在哪？",
+      "options": [
+        "藍色詞一定錯",
+        "圖中完全沒有藍色",
+        "把另一張卡資料套到當前對象"
+      ],
+      "answer": 2,
+      "hint": "同時核對指涉和條件。",
+      "explanation": "乙確有藍色，但原對話指甲，不能把不同對象的屬性混用。"
+    },
+    {
+      "id": "g3s2-english-10-q06",
+      "question": "新對話指乙，What’s this?應答？",
+      "options": [
+        "It’s a fish.",
+        "It’s a bird.",
+        "It’s a pen."
+      ],
+      "answer": 1,
+      "hint": "按新指涉看種類。",
+      "explanation": "新指乙是鳥，必須更新為bird，不能沿用原版甲的fish。"
+    },
+    {
+      "id": "g3s2-english-10-q07",
+      "question": "新指乙問Is it red?，應如何？",
+      "options": [
+        "No, it isn’t. It’s blue.",
+        "Yes, it is.",
+        "No, I can’t."
+      ],
+      "answer": 0,
+      "hint": "乙的顏色和問句類型一起看。",
+      "explanation": "乙是藍色而非紅色，使用物品否定並補blue，不用能力回應。"
+    },
+    {
+      "id": "g3s2-english-10-q08",
+      "question": "it沒有指清楚時，較可靠做法？",
+      "options": [
+        "先問或指卡確認對象",
+        "隨便挑顯眼的圖",
+        "永遠答No"
+      ],
+      "answer": 0,
+      "hint": "缺少的是哪一項資訊？",
+      "explanation": "先釐清指涉才可判斷屬性，猜圖或一律否定都不能解決資訊不足。"
+    }
+  ],
+  "selfCheck": [
+    "我能依實際場景找出說話者與所指圖卡。",
+    "我能讀懂辨物、確認顏色和更正的短對話。",
+    "我會用同一張卡核對整段，而不是每句換不同對象。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    },
+    {
+      "title": "British Council｜Colours 1",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-colours-1.pdf",
+      "note": "2026-10-05 直接核對官方PDF的基本顏色詞red、blue、yellow、green等。圖片與練習原創，顏色另附文字標記。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05直接核對短時、情境式教學、Can I have…?、What colour is it?、It’s…及禮貌框架。人物、全文劇本與圖卡均為本課原創；未驗聽音訊，完整口語須由英語教師課前核對示範。"
+    }
+  ]
+}

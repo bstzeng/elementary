@@ -1,0 +1,184 @@
+{
+  "id": "g3s2-english-09",
+  "course": "英語文",
+  "title": "提問、肯定與否定回應",
+  "subtitle": "先看問題在確認什麼，再依資料選肯定或否定",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "先看問題在確認什麼，再依資料選肯定或否定。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能把Is it…?與Can you…?分成兩種問答。",
+    "我會依紙卡資料選Yes或No，並配合正確回應框架。",
+    "我能用一句更正讓誤會變清楚，不為討好而總答Yes。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "Yes不是每題的禮貌答案",
+      "childText": "先看資料，再選真實一致的回應。",
+      "html": "<span lang=\"en\">Is it a book?</span>確認物品是不是書，可答<span lang=\"en\">Yes, it is.</span>或<span lang=\"en\">No, it isn’t.</span>。<span lang=\"en\">Can you draw?</span>詢問角色會不會畫，可答<span lang=\"en\">Yes, I can.</span>或<span lang=\"en\">No, I can’t.</span>。兩種問題都可有肯定與否定，但後面的完整回應不同。<p>本課只用已提供紙卡，不問個人健康、家庭或真實能力。回答No不等於不友善；配合資料並說清楚，才能讓聽者真正理解。教師先自然示範四種回應，不靠喊大聲區分。</p>",
+      "id": "g3s2-english-09-s01"
+    },
+    {
+      "title": "兩張可核對的資料卡",
+      "childText": "物品和角色資料別混在一起。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 182\" role=\"img\" aria-labelledby=\"g3s2-english-09-fig\"><title id=\"g3s2-english-09-fig\">原創紙卡資料；所有人物與數字都是虛構練習資料。</title><rect x=\"12\" y=\"10\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"38\" font-size=\"21\" lang=\"en\">Object A: a red book</text><text x=\"27\" y=\"67\" font-size=\"17\">甲物品卡：一本紅書，不是筆。</text><rect x=\"12\" y=\"95\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"123\" font-size=\"21\" lang=\"en\">Role B: Pip</text><text x=\"27\" y=\"152\" font-size=\"17\">乙角色卡：Pip會畫draw，不會唱sing。</text></svg><figcaption>原創紙卡資料；所有人物與數字都是虛構練習資料。</figcaption></figure><p>物品問句依甲：是不是書、是不是筆、是不是紅色。能力問句依乙：會不會畫、會不會唱。兩張卡不是同一種證據，書的顏色不能告訴我們Pip會不會唱。</p><p>完整問答庫：<span lang=\"en\">Is it a book? Yes, it is.</span>、<span lang=\"en\">Is it a pen? No, it isn’t.</span>、<span lang=\"en\">Can you draw? Yes, I can.</span>、<span lang=\"en\">Can you sing? No, I can’t.</span>。先理解再分回合練，英文全文已供應。</p>",
+      "id": "g3s2-english-09-s02"
+    },
+    {
+      "title": "示範：否定後補正確資訊",
+      "childText": "不只說不，也讓聽者知道是什麼。",
+      "html": "<div class=\"story\"><p>甲指紅書：<span lang=\"en\">Is it a pen?</span></p><p>乙：<span lang=\"en\">No, it isn’t. It’s a book.</span></p><p>甲：<span lang=\"en\">Is it red?</span></p><p>乙：<span lang=\"en\">Yes, it is.</span></p></div><p>教師先解釋第一問猜錯種類，回答先否定，再補book；第二問顏色正確便肯定。句中的it一直指已指明的甲物品。不是因第一題答No就第二題必須答Yes，而是每次條件與資料重新比較。</p>",
+      "id": "g3s2-english-09-s03"
+    },
+    {
+      "title": "一起配：聽到哪個開頭",
+      "childText": "先配框架，再依資料填肯否。",
+      "html": "<p>成人給兩個袋名大紙：「Is it」與「Can you」。把<span lang=\"en\">Yes, it is.</span>、<span lang=\"en\">No, it isn’t.</span>放第一袋；<span lang=\"en\">Yes, I can.</span>、<span lang=\"en\">No, I can’t.</span>放第二袋。這是紙上分類，不用小袋或剪小卡，直接指兩欄即可。</p><p>再依順序問<span lang=\"en\">Can you sing?</span>、<span lang=\"en\">Is it a book?</span>、<span lang=\"en\">Can you draw?</span>、<span lang=\"en\">Is it a pen?</span>。孩子先查相應卡再回；若直接用Yes, I can回答物品題，回到框架分類修復，不只改Yes/No。</p>",
+      "id": "g3s2-english-09-s04"
+    },
+    {
+      "title": "修復：問題變了，答案要重新算",
+      "childText": "固定交替猜對並不代表理解。",
+      "html": "<p>假如兩次都問<span lang=\"en\">Is it a book?</span>且仍指紅書，兩次都應答<span lang=\"en\">Yes, it is.</span>。若物品卡換成筆，同一句問書便要否定。真正判斷的是當前指涉與條件，不是題號或前一題答案。</p><p>沒有看清楚物品或沒有角色資料時，先指「資料不足」文字、請重說或用熟悉語言澄清，不能把不知道當No。教師在大紙寫「資料不足」即可，不需額外圖檔。</p>",
+      "id": "g3s2-english-09-s05"
+    },
+    {
+      "title": "自己試：新卡雙重更新",
+      "childText": "角色能力和物品種類都更新。",
+      "html": "<p>新甲卡：「藍色筆」；新乙卡：「Kit會唱，不會畫」。先問新甲<span lang=\"en\">Is it a book?</span>，再問新乙<span lang=\"en\">Can you sing?</span>，最後新甲<span lang=\"en\">Is it blue?</span>。孩子自己選完整句，最後核對每句依據哪張資料。</p><details><summary>完成後核對</summary><p lang=\"en\">No, it isn’t. It’s a pen. Yes, I can. Yes, it is.</p><p>三回合依序是物品否定、能力肯定、顏色肯定；最後兩個都是Yes，但完整框架不相同。</p></details><p>可用四張完整回應卡配對，不要求在全班面前背出所有句子。</p>",
+      "id": "g3s2-english-09-s06"
+    },
+    {
+      "title": "讓紀錄看出你怎麼判斷",
+      "childText": "肯否、框架和更正分開看。",
+      "html": "<p>紀錄例：「判No正確但配錯is/can框架；分類後第二輪能修正；可補It’s a pen指出正確種類。」下次先練兩類框架，不增加更多否定縮寫負擔。</p><p>教師先確認isn’t/can’t自然讀法與可理解性，未驗聽的網站文字不當錄音證據。文字題只評資料匹配與書面框架；指卡能證明選擇，實際獨立口語另觀察。</p>",
+      "id": "g3s2-english-09-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>材料明分物品卡與能力卡，先教兩類回應分類再混排，轉用同時更新角色與物品。支持者保留大字兩欄和完整句，進階者補一句正確資訊並指出依據。所有問句正向清楚，不加入負向問題造成初學Yes/No跨語言歧義。can發音採教師核對模型，isn’t及完整句同樣先確認。資料不足不得硬答No；不把否定視為不禮貌或要求揭露真實個人能力。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-09-q01",
+      "question": "甲紅書被問Is it a book?應答？",
+      "options": [
+        "Yes, it is.",
+        "Yes, I can.",
+        "No, I can’t."
+      ],
+      "answer": 0,
+      "hint": "物品確認使用哪個框架？",
+      "explanation": "甲確實是書，應肯定並用it is框架，而非能力回應。"
+    },
+    {
+      "id": "g3s2-english-09-q02",
+      "question": "甲紅書被問Is it a pen?如何修正？",
+      "options": [
+        "No, it isn’t. It’s a book.",
+        "Yes, it is.",
+        "No, I can’t."
+      ],
+      "answer": 0,
+      "hint": "既要判斷種類，也要配物品框架。",
+      "explanation": "甲不是筆而是書，否定後補book讓對方知道正確物品。"
+    },
+    {
+      "id": "g3s2-english-09-q03",
+      "question": "Pip會畫，被問Can you draw?應答？",
+      "options": [
+        "Yes, it is.",
+        "No, it isn’t.",
+        "Yes, I can."
+      ],
+      "answer": 2,
+      "hint": "這題是角色能力。",
+      "explanation": "Pip資料是會畫，應用I can肯定，it is屬另一種物品確認。"
+    },
+    {
+      "id": "g3s2-english-09-q04",
+      "question": "不知道卡片資料時是否一定答No？",
+      "options": [
+        "是，所有未知都是否定",
+        "不是，應先澄清或表達資料不足",
+        "是，No比較安全就永遠用"
+      ],
+      "answer": 1,
+      "hint": "缺少證據和條件不符不同。",
+      "explanation": "未知無法確認肯否，應取得資料，不能把沒有資訊當成不存在或不會。"
+    },
+    {
+      "id": "g3s2-english-09-q05",
+      "question": "同一紅書連問兩次Is it a book?應如何？",
+      "options": [
+        "兩次都Yes, it is.",
+        "必須一Yes一No",
+        "兩次都No, I can’t."
+      ],
+      "answer": 0,
+      "hint": "每次都核對相同的實際條件。",
+      "explanation": "資料未變且每次條件都符合，可以連續肯定，不應按題目交替猜測。"
+    },
+    {
+      "id": "g3s2-english-09-q06",
+      "question": "新Kit會唱，問Can you sing?應答？",
+      "options": [
+        "No, I can’t.",
+        "Yes, it is.",
+        "Yes, I can."
+      ],
+      "answer": 2,
+      "hint": "用新角色資料取代舊Pip。",
+      "explanation": "新Kit唱歌欄是會，所以能力肯定；不能沿用Pip不會唱的舊答案。"
+    },
+    {
+      "id": "g3s2-english-09-q07",
+      "question": "新甲藍筆問Is it blue?應答？",
+      "options": [
+        "Yes, I can.",
+        "Yes, it is.",
+        "No, it isn’t."
+      ],
+      "answer": 1,
+      "hint": "顏色條件是否符合？",
+      "explanation": "新筆確實藍色，應以it is肯定該顏色，而非使用能力框架。"
+    },
+    {
+      "id": "g3s2-english-09-q08",
+      "question": "哪個回饋對修復最有幫助？",
+      "options": [
+        "每次只要大聲喊Yes",
+        "肯否對了，再核對Is it或Can you框架",
+        "所有No都不禮貌"
+      ],
+      "answer": 1,
+      "hint": "把錯誤分成能修的部分。",
+      "explanation": "分別核對資料判斷與回應框架，能找到具體下一步，不以音量或討好取代。"
+    }
+  ],
+  "selfCheck": [
+    "我能把Is it…?與Can you…?分成兩種問答。",
+    "我會依紙卡資料選Yes或No，並配合正確回應框架。",
+    "我能用一句更正讓誤會變清楚，不為討好而總答Yes。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    },
+    {
+      "title": "British Council｜Modal verbs: can, could",
+      "url": "https://africa.teachingenglish.org.uk/classroom/grammar/modals-can-could",
+      "note": "2026-10-05 官方教學頁核對can/can’t能力句、問題與簡短回應；本課只用can現在能力，不採could進階項目。原創虛構角色資訊，不要求實際能力展示或合成聲音。"
+    }
+  ]
+}

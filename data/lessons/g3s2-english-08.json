@@ -1,0 +1,194 @@
+{
+  "id": "g3s2-english-08",
+  "course": "英語文",
+  "title": "生活職業與人物辨識",
+  "subtitle": "讀工作資料辨人物，用完整句介紹，不靠服裝或性別猜",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "讀工作資料辨人物，用完整句介紹，不靠服裝或性別猜。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能理解teacher、doctor、baker、driver四個工作詞。",
+    "我能依虛構工作卡介紹人物與職業。",
+    "我知道名字、衣服和性別不決定工作，也不靠單一工具斷定。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "職業詞說工作，不說人的價值",
+      "childText": "用資料介紹，不替人貼標籤。",
+      "html": "<span lang=\"en\">teacher</span>教師、<span lang=\"en\">doctor</span>醫師、<span lang=\"en\">baker</span>烘焙師、<span lang=\"en\">driver</span>駕駛。本課用虛構工作卡，不問同學家長工作、收入或是否有工作。每種工作有不同內容，不能用收入、制服或性別排名。<p>介紹可說<span lang=\"en\">This is Alex. Alex is a teacher.</span>。直接重用名字讓意思清楚，不必猜he或she。教師課前確認完整句和詞形；孩子先理解工作欄，再練英語，而不是只猜一張職業服裝畫。</p>",
+      "id": "g3s2-english-08-s01"
+    },
+    {
+      "title": "四張完整工作資料卡",
+      "childText": "姓名和工作是分開的兩欄。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 352\" role=\"img\" aria-labelledby=\"g3s2-english-08-fig\"><title id=\"g3s2-english-08-fig\">原創紙卡資料；所有人物與數字都是虛構練習資料。</title><rect x=\"12\" y=\"10\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"38\" font-size=\"21\" lang=\"en\">Alex — teacher</text><text x=\"27\" y=\"67\" font-size=\"17\">甲：Alex；工作資料明寫教師。</text><rect x=\"12\" y=\"95\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"123\" font-size=\"21\" lang=\"en\">Jo — doctor</text><text x=\"27\" y=\"152\" font-size=\"17\">乙：Jo；工作資料明寫醫師。</text><rect x=\"12\" y=\"180\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"208\" font-size=\"21\" lang=\"en\">Lee — baker</text><text x=\"27\" y=\"237\" font-size=\"17\">丙：Lee；工作資料明寫烘焙師。</text><rect x=\"12\" y=\"265\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"293\" font-size=\"21\" lang=\"en\">Sam — driver</text><text x=\"27\" y=\"322\" font-size=\"17\">丁：Sam；工作資料明寫駕駛。</text></svg><figcaption>原創紙卡資料；所有人物與數字都是虛構練習資料。</figcaption></figure><p>情境補充：Alex在課堂教學；Jo從事醫療工作；Lee製作麵包等烘焙食品；Sam的工作是駕駛。這是卡片給定的資料，不代表在家教人、烤一次麵包或開過車的人就一定以此為職業。</p><p>沒有年齡、性別、收入或能力高低欄位。只用紙卡介紹，不做開車、看診、烹煮或使用工具的模擬。</p>",
+      "id": "g3s2-english-08-s02"
+    },
+    {
+      "title": "原創示範：社區人物展卡",
+      "childText": "指清人，再說資料上的工作。",
+      "html": "<div class=\"story\"><p>主持人指丙：<span lang=\"en\">This is Lee.</span></p><p>主持人：<span lang=\"en\">Lee is a baker.</span></p><p>訪客：<span lang=\"en\">Hello, Lee.</span></p></div><p>成人先說中文場景：這是一個紙上人物展臺，不是真的對陌生人做職業調查。示範後問孩子哪句提供名字、哪句提供工作，指出兩句都來自丙卡。</p><p>先以名字重複避免代名詞不明；不要只因Lee這個名字就自動選某個代名詞。關係稱呼與職業也不同，上一課的祖母不會自動告訴我們工作。</p>",
+      "id": "g3s2-english-08-s03"
+    },
+    {
+      "title": "一起配對：兩個條件都核對",
+      "childText": "工作相同也可能是不同的人。",
+      "html": "<p>成人讀<span lang=\"en\">Alex is a teacher.</span>、<span lang=\"en\">Jo is a doctor.</span>、<span lang=\"en\">Sam is a driver.</span>，孩子每次指出姓名及工作欄都一致的卡。只看到doctor就選任何穿白衣的人不夠，本頁沒有提供那種衣服證據。</p><p>再加入新資料：「Pat也是teacher。」現在問「哪位是teacher」會有Alex與Pat兩個可能；若成人指定Alex名字，才可唯一選甲。孩子學會檢查問題是否足夠明確，不因要答一張就忽略其他符合者。</p>",
+      "id": "g3s2-english-08-s04"
+    },
+    {
+      "title": "修復：工具不能代替職業資料",
+      "childText": "看見行為，還需要情境。",
+      "html": "<p>錯誤：「Sam拿筆，所以一定teacher。」拿筆不代表工作，應回卡看Sam是driver。另一錯誤：「有某種性別才可以做doctor。」本課資料從未設這種限制，不以性別、外貌或家庭背景排除職業。</p><p>同學說家人暫時沒工作或不願分享時，不追問或評價；本課完全可用虛構人物。醫師卡只是詞義，不教診斷或讓孩子替人看病；駕駛和烘焙也只讀資料，不做危險操作。</p>",
+      "id": "g3s2-english-08-s05"
+    },
+    {
+      "title": "自己試：新人物卡，依資料介紹",
+      "childText": "新角色出現時，重新核對名字與工作。",
+      "html": "<p>新故事卡戊明寫「Kim，baker」，卡己「Rae，teacher」。成人指戊，孩子用兩句介紹；再指己，只問工作，孩子用完整描述回應。兩卡僅是新虛構故事，不採家庭真實資料。</p><details><summary>作答後核對</summary><p lang=\"en\">This is Kim. Kim is a baker. Rae is a teacher.</p><p>若問題改成「誰是baker」，本課丙Lee和新戊Kim都符合；需說清目前是指哪張或允許多個答案。</p></details><p>最後空白卡只寫名字Nori，工作未提供。可介紹名字，但不能自行填教師、醫師或烘焙師。</p>",
+      "id": "g3s2-english-08-s06"
+    },
+    {
+      "title": "留下依據，不留下家長名單",
+      "childText": "用詞義和資料匹配來看進步。",
+      "html": "<p>紀錄例：「四職業詞能配中文；雙條件配對正確；新增Pat後知道teacher不只一人。」下一步可練完整句，不需加十種職業或調查家庭。</p><p>兒童可指、選、排句、AAC或口說。成人記錄理解和口語的不同證據，對未提供工作能保留未知也是重要能力；不把大聲介紹或披上制服當成更懂職業。</p>",
+      "id": "g3s2-english-08-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>先分姓名與工作欄，再做完整介紹，加入同職業新人物後檢查多解。支持者中文詞義和完整句卡並用，進階者指出只問職業可能不唯一；文字選擇題依明確指定卡確保唯一鍵。職業詞源官方字卡及字典，原創角色不模仿任何真實家庭。避免醫療、駕駛、烹飪表演及制服性別刻板印象；不要求透露家長工作或收入。口語表現只在教師確認模型並實際聽見後評估。</p>",
+  "exercises": [
+    {
+      "id": "g3s2-english-08-q01",
+      "question": "丙Lee的工作資料是？",
+      "options": [
+        "baker",
+        "doctor",
+        "driver"
+      ],
+      "answer": 0,
+      "hint": "查丙卡工作欄。",
+      "explanation": "丙卡明列baker，介紹應保留其工作資料，不依姓名或想像更換。"
+    },
+    {
+      "id": "g3s2-english-08-q02",
+      "question": "This is Alex.主要提供什麼？",
+      "options": [
+        "薪資",
+        "真實年齡",
+        "人物名字"
+      ],
+      "answer": 2,
+      "hint": "看句子介紹的內容。",
+      "explanation": "This is Alex先介紹姓名，沒有提供薪資或年齡等其他資訊。"
+    },
+    {
+      "id": "g3s2-english-08-q03",
+      "question": "Alex is a teacher.中的teacher是？",
+      "options": [
+        "駕駛",
+        "教師",
+        "烘焙師"
+      ],
+      "answer": 1,
+      "hint": "回四詞中文對照。",
+      "explanation": "teacher在本課是教師；driver與baker分別是駕駛與烘焙師。"
+    },
+    {
+      "id": "g3s2-english-08-q04",
+      "question": "Sam拿筆，能因此確定Sam是教師嗎？",
+      "options": [
+        "可以，拿筆都一樣",
+        "不能，應看職業資料",
+        "可以，名字決定工作"
+      ],
+      "answer": 1,
+      "hint": "工具不等同職業身分。",
+      "explanation": "多種工作和日常活動都可拿筆，單一工具不足以推斷職業。"
+    },
+    {
+      "id": "g3s2-english-08-q05",
+      "question": "加入Pat也是teacher後，誰符合教師？",
+      "options": [
+        "Alex和Pat",
+        "只有Alex",
+        "只有Jo"
+      ],
+      "answer": 0,
+      "hint": "新資料加入後重新檢查。",
+      "explanation": "兩張卡均明示teacher，若問題沒限定名字就不能假定唯一Alex。"
+    },
+    {
+      "id": "g3s2-english-08-q06",
+      "question": "新卡Kim是baker，哪句正確？",
+      "options": [
+        "Kim is a doctor.",
+        "Kim is a driver.",
+        "Kim is a baker."
+      ],
+      "answer": 2,
+      "hint": "依新故事卡回答。",
+      "explanation": "Kim的工作已明示烘焙師，需用baker而不是沿用其他角色的職業。"
+    },
+    {
+      "id": "g3s2-english-08-q07",
+      "question": "只有名字Nori、沒有工作資料，可以做什麼？",
+      "options": [
+        "直接填醫師",
+        "介紹名字並保留工作未知",
+        "看外貌決定工作"
+      ],
+      "answer": 1,
+      "hint": "只陳述有根據的資訊。",
+      "explanation": "姓名足以作名字介紹，但不足以推出職業，缺少資料應保留未知。"
+    },
+    {
+      "id": "g3s2-english-08-q08",
+      "question": "這課適合哪種活動？",
+      "options": [
+        "讀虛構工作卡並介紹",
+        "實際開車演駕駛",
+        "讓孩子替人診斷"
+      ],
+      "answer": 0,
+      "hint": "學習目的只需語言資料。",
+      "explanation": "紙卡可完成工作詞與介紹句學習，不需真實危險操作或醫療行為。"
+    }
+  ],
+  "selfCheck": [
+    "我能理解teacher、doctor、baker、driver四個工作詞。",
+    "我能依虛構工作卡介紹人物與職業。",
+    "我知道名字、衣服和性別不決定工作，也不靠單一工具斷定。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    },
+    {
+      "title": "British Council｜Jobs flashcards set1",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-jobs-set-1.pdf",
+      "note": "2026-10-05 直接開啟官方PDF核對teacher、doctor詞形；沒有複製職業人物圖或性別呈現。"
+    },
+    {
+      "title": "British Council｜Jobs flashcards set2",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-jobs-set-2.pdf",
+      "note": "2026-10-05 直接核對taxi driver等詞形；本課採一般driver名稱並提供中文意思，原創角色卡不表示真實人物。"
+    },
+    {
+      "title": "Cambridge Dictionary｜baker",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/baker",
+      "note": "2026-10-05 官方搜尋索引核對baker製作或售賣麵包蛋糕的工作本義，未驗聽音訊，不把一次家庭烘焙等同職業。"
+    }
+  ]
+}
