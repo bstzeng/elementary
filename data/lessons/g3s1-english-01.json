@@ -1,0 +1,184 @@
+{
+  "id": "g3s1-english-01",
+  "course": "英語文",
+  "title": "26個大小寫字母辨識",
+  "subtitle": "把26組字母配成伙伴，換位置也認得出來",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "把26組字母配成伙伴，換位置也認得出來。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能對照全部26組大寫與小寫字母。",
+    "我會觀察字形特徵，分辨容易混淆的字母。",
+    "我能在新的字卡排列中配對，而不是只背順序。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "一個字母有兩種常見寫法",
+      "childText": "先看字母身分，再看大小寫。",
+      "html": "<p>英語字母表有26個字母，每個都有大寫和小寫。大寫<span lang=\"en\">A</span>配小寫<span lang=\"en\">a</span>，不是配看起來較像的其他字。<span lang=\"en\">B</span>與<span lang=\"en\">b</span>也屬同一字母。它們的大小寫名稱不是「大張卡」和「小張卡」：把小寫<span lang=\"en\">b</span>印得很大，它仍是小寫。</p><p>這一課先學辨識，不要求一次背完或一口氣默寫26組。能唱出順序是線索，但抽出一張仍要看得懂。遇到新書體，可以回到完整表查證；不熟悉不等於做錯。</p>",
+      "id": "g3s1-english-01-s01"
+    },
+    {
+      "title": "完整26組可查字母表",
+      "childText": "每一格是一對，先一列一列找。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 375\" role=\"img\" aria-labelledby=\"g3s1-english-01-fig\"><title id=\"g3s1-english-01-fig\">原創字母對照表，共26格；每格左為大寫、右為小寫。</title><rect x=\"12\" y=\"8\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"22\" y=\"39\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">A a</text><rect x=\"100\" y=\"8\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"110\" y=\"39\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">B b</text><rect x=\"188\" y=\"8\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"198\" y=\"39\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">C c</text><rect x=\"276\" y=\"8\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"286\" y=\"39\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">D d</text><rect x=\"12\" y=\"60\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"22\" y=\"91\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">E e</text><rect x=\"100\" y=\"60\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"110\" y=\"91\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">F f</text><rect x=\"188\" y=\"60\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"198\" y=\"91\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">G g</text><rect x=\"276\" y=\"60\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"286\" y=\"91\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">H h</text><rect x=\"12\" y=\"112\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"22\" y=\"143\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">I i</text><rect x=\"100\" y=\"112\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"110\" y=\"143\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">J j</text><rect x=\"188\" y=\"112\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"198\" y=\"143\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">K k</text><rect x=\"276\" y=\"112\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"286\" y=\"143\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">L l</text><rect x=\"12\" y=\"164\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"22\" y=\"195\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">M m</text><rect x=\"100\" y=\"164\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"110\" y=\"195\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">N n</text><rect x=\"188\" y=\"164\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"198\" y=\"195\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">O o</text><rect x=\"276\" y=\"164\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"286\" y=\"195\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">P p</text><rect x=\"12\" y=\"216\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"22\" y=\"247\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">Q q</text><rect x=\"100\" y=\"216\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"110\" y=\"247\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">R r</text><rect x=\"188\" y=\"216\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"198\" y=\"247\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">S s</text><rect x=\"276\" y=\"216\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"286\" y=\"247\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">T t</text><rect x=\"12\" y=\"268\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"22\" y=\"299\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">U u</text><rect x=\"100\" y=\"268\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"110\" y=\"299\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">V v</text><rect x=\"188\" y=\"268\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"198\" y=\"299\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">W w</text><rect x=\"276\" y=\"268\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"286\" y=\"299\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">X x</text><rect x=\"12\" y=\"320\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"22\" y=\"351\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">Y y</text><rect x=\"100\" y=\"320\" width=\"80\" height=\"46\" rx=\"5\" fill=\"#f3f6fb\" stroke=\"#59738b\"/><text x=\"110\" y=\"351\" font-size=\"25\" font-family=\"Arial,sans-serif\" lang=\"en\">Z z</text></svg><figcaption>原創字母對照表，共26格；每格左為大寫、右為小寫。</figcaption></figure><span lang=\"en\">A a B b C c D d E e F f G g H h I i J j K k L l M m N n O o P p Q q R r S s T t U u V v W w X x Y y Z z</span><p>這裡是瀏覽器印刷字體對照，不是筆順動畫。成人用紙遮住其他列，每輪只看四組，依序從<span lang=\"en\">A a</span>找到<span lang=\"en\">Z z</span>。之後換成先指小寫、再找大寫，避免只會由左向右念。</p><p>有些字母兩種字形很相近，如<span lang=\"en\">C c</span>、<span lang=\"en\">O o</span>、<span lang=\"en\">S s</span>；有些差很多，如<span lang=\"en\">G g</span>、<span lang=\"en\">R r</span>。上面26組都是要能查到的材料，不把「看起來像」當唯一配對方法。</p>",
+      "id": "g3s1-english-01-s02"
+    },
+    {
+      "title": "示範：B要找誰",
+      "childText": "比對直線與圓弧，最後查整組。",
+      "html": "<p>桌上有大寫<span lang=\"en\">B</span>及三張小寫卡<span lang=\"en\">d</span>、<span lang=\"en\">b</span>、<span lang=\"en\">p</span>。我先回表查<span lang=\"en\">B b</span>，再找<span lang=\"en\">b</span>。這張印刷<span lang=\"en\">b</span>的直線在左、圓弧在右；<span lang=\"en\">d</span>的直線在右；<span lang=\"en\">p</span>下方還有往下的部分。這是在目前字體看見的線索，不是用一面鏡子把字翻過來。</p><p>若把<span lang=\"en\">B</span>配<span lang=\"en\">d</span>，先放回表旁逐筆比較，再換一張<span lang=\"en\">B</span>重新選。說「它們都有圓弧」還不夠，還要看圓弧相對直線的位置。成人可以讀中文步驟，不必同時考英文字母名。</p>",
+      "id": "g3s1-english-01-s03"
+    },
+    {
+      "title": "一起做：四組配對與查漏",
+      "childText": "先少量，再把順序打亂。",
+      "html": "<p>第一輪紙卡完整清單：<span lang=\"en\">A</span>、<span lang=\"en\">M</span>、<span lang=\"en\">R</span>、<span lang=\"en\">S</span>與<span lang=\"en\">s</span>、<span lang=\"en\">a</span>、<span lang=\"en\">m</span>、<span lang=\"en\">r</span>。請把每張大寫放在對應小寫旁，完成後指著字母表核對。第二輪改為小寫<span lang=\"en\">f</span>、<span lang=\"en\">g</span>、<span lang=\"en\">n</span>、<span lang=\"en\">t</span>找大寫<span lang=\"en\">T</span>、<span lang=\"en\">N</span>、<span lang=\"en\">F</span>、<span lang=\"en\">G</span>。成人只問「你要查哪格？」而非手指答案。</p><p>再用完整表檢查還沒有練到的組。把紙上26個大寫各畫一個小圈，配過一組才做記號；成人分幾天讓其餘組都出現，不把一次四組成功當成26組全會。每輪可用眼睛指、手指或口述代號。</p>",
+      "id": "g3s1-english-01-s04"
+    },
+    {
+      "title": "容易混淆，也能有方法",
+      "childText": "字體會變，字母身分不跟著亂換。",
+      "html": "<span lang=\"en\">I</span>、<span lang=\"en\">l</span>和數字<span lang=\"en\">1</span>在某些字體很像；<span lang=\"en\">O</span>和數字<span lang=\"en\">0</span>也可能相似。不要單看高度猜，先看這是字母表、單字還是數量，再請成人放大或換清楚字體。數字不增加英語字母表的數量。<p>印刷<span lang=\"en\">a</span>、<span lang=\"en\">g</span>可見不同合法造型，手寫常見單層造型；<span lang=\"en\">I</span>可有上下橫線，<span lang=\"en\">l</span>可能有小彎尾。它們不是「有裝飾便錯」。今天配字母身分，手寫時再依老師選好的清楚範本。若孩子將<span lang=\"en\">b</span>、<span lang=\"en\">d</span>弄反，安排並排比較，不用羞辱或要求罰寫。</p>",
+      "id": "g3s1-english-01-s05"
+    },
+    {
+      "title": "自己試：新的配對包",
+      "childText": "這次不靠上一輪卡片位置。",
+      "html": "<p>先不用看表，試配這六組：大寫<span lang=\"en\">H</span>、<span lang=\"en\">Q</span>、<span lang=\"en\">E</span>、<span lang=\"en\">Y</span>、<span lang=\"en\">L</span>、<span lang=\"en\">Z</span>；小寫<span lang=\"en\">z</span>、<span lang=\"en\">e</span>、<span lang=\"en\">l</span>、<span lang=\"en\">h</span>、<span lang=\"en\">y</span>、<span lang=\"en\">q</span>。完成後再開答案，圈出自己需要查表的組。紙上另寫兩組容易混淆的字，指出你用的辨識線索。</p><details><summary>完成後核對</summary><p lang=\"en\">H h; Q q; E e; Y y; L l; Z z.</p><p>例如Q配q，而不是只因外形有圓圈便配o。查表後完成也是有效學習，紀錄時與獨立配對分開。</p></details><p>挑一張新卡讓成人換字體出示，再找對應字母。如果辨識困難，先請成人提供清楚模型；不猜測裝置上的模糊小字。</p>",
+      "id": "g3s1-english-01-s06"
+    },
+    {
+      "title": "從配對走向字母名",
+      "childText": "看到、聽到、寫出是不同證據。",
+      "html": "<p>成人口語腳本：先指<span lang=\"en\">A a</span>，自然說一次字母名<span lang=\"en\">A</span>；再指<span lang=\"en\">M m</span>說<span lang=\"en\">M</span>；最後不指表，說<span lang=\"en\">R</span>，請孩子指對那一組。示範者須先向可靠字母名模型核對，本頁沒有可播放錄音，也不以中文字標讀音。</p><p>如果孩子在看表時配對正確，只能記「能以視覺配對」。真正聽到成人說字母名後指對，才記這一輪聽辨；自己寫對仍需下一課另觀察。今天結尾選一組已會、一組要再查，不用和同伴比快。</p>",
+      "id": "g3s1-english-01-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課安排與觀察</h3><p>第一段先看四組再完整巡覽，第二段用兩輪少量混排卡，第三段獨立包與換字體。教師建立26格紀錄，每次抽不同組，特別分辨有表查找與離表認讀。支持者一次兩組並排、放大字；進階者反向由小寫找大寫，仍不增加拼字負擔。字母名只在確有合格口語模型時另做短回合，Z可有不同英語變體，不把正常差異判錯。字形辨識與手部書寫控制分開，不能從一課的六組表現推論全表精熟。</p>",
+  "exercises": [
+    {
+      "id": "g3s1-english-01-q01",
+      "question": "英語字母表共有幾個字母？",
+      "options": [
+        "52個",
+        "26個",
+        "24個"
+      ],
+      "answer": 1,
+      "hint": "想想大寫小寫是否算兩個身分。",
+      "explanation": "26個字母各有大小寫形式，52種形式不代表52個不同字母。"
+    },
+    {
+      "id": "g3s1-english-01-q02",
+      "question": "大寫B應配哪張小寫卡？",
+      "options": [
+        "b",
+        "d",
+        "p"
+      ],
+      "answer": 0,
+      "hint": "回完整表找同一格。",
+      "explanation": "B和b為同一字母的大小寫，d和p是另外兩個字母。"
+    },
+    {
+      "id": "g3s1-english-01-q03",
+      "question": "把小寫m印得很大，它仍是什麼？",
+      "options": [
+        "大寫M",
+        "數字3",
+        "小寫m"
+      ],
+      "answer": 2,
+      "hint": "字形身分和印刷大小分開看。",
+      "explanation": "大寫小寫由字形形式判斷，不能用卡片或印刷尺寸決定。"
+    },
+    {
+      "id": "g3s1-english-01-q04",
+      "question": "依本頁對照表，Q的小寫是？",
+      "options": [
+        "o",
+        "g",
+        "q"
+      ],
+      "answer": 2,
+      "hint": "找Q右邊的字母。",
+      "explanation": "完整表中Q與q同格，圓形相似不能把o或g當作對應。"
+    },
+    {
+      "id": "g3s1-english-01-q05",
+      "question": "第一輪A、M、R、S中，哪一對正確？",
+      "options": [
+        "R r",
+        "R s",
+        "M a"
+      ],
+      "answer": 0,
+      "hint": "把每組和字母表比較。",
+      "explanation": "R對應r，其他選項跨了不同字母，不能只看卡片排列配對。"
+    },
+    {
+      "id": "g3s1-english-01-q06",
+      "question": "某字體中I和l很像，怎樣較可靠？",
+      "options": [
+        "永遠當成同一字母",
+        "看上下文並請成人換清楚字體",
+        "只猜高的一定正確"
+      ],
+      "answer": 1,
+      "hint": "模糊時要增加辨識證據。",
+      "explanation": "字體可能讓不同符號相似，清楚模型和文字情境可幫忙查證。"
+    },
+    {
+      "id": "g3s1-english-01-q07",
+      "question": "獨立包裡Y應配誰？",
+      "options": [
+        "y",
+        "h",
+        "z"
+      ],
+      "answer": 0,
+      "hint": "先找到Y在完整表的位置。",
+      "explanation": "Y和y才是這一組大小寫，換順序不改變對應關係。"
+    },
+    {
+      "id": "g3s1-english-01-q08",
+      "question": "只看表配對成功，已證明什麼？",
+      "options": [
+        "一定聽得懂全部字母名",
+        "一定會寫所有筆順",
+        "能在這次視覺材料中配對"
+      ],
+      "answer": 2,
+      "hint": "區分看見與實際聽見的證據。",
+      "explanation": "視覺配對只支持辨識表現，聽辨與書寫必須另有實際觀察。"
+    }
+  ],
+  "selfCheck": [
+    "我能對照全部26組大寫與小寫字母。",
+    "我會觀察字形特徵，分辨容易混淆的字母。",
+    "我能在新的字卡排列中配對，而不是只背順序。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜Alphabet Unit",
+      "url": "https://ufli.education.ufl.edu/foundations/toolbox/1-34/",
+      "note": "2026-10-05直接核對字母名、字母音、書寫及解碼的區別，a/m/s/t與後續短母音、CVC範圍。採美式教學語音模型；不是臺灣指定進度，未驗聽音訊、未複製課程原文或學習單。"
+    },
+    {
+      "title": "Oxford University Press｜Handwriting",
+      "url": "https://home.oxfordowl.co.uk/english/primary-handwriting/",
+      "note": "2026-10-05正文核對書寫起點、方向、終點、字距、定位線及尊重學校書體。英國年齡分級不作臺灣年級要求；本頁不使用來源建議的沙泥或接觸他人身體活動。"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "g3s1-english-07",
+  "course": "英語文",
+  "title": "數字與詢問年齡",
+  "subtitle": "讀懂1到12，依虛構年齡卡回答，不猜真實年齡",
+  "duration": "2–3次，每次20–30分鐘；語音與動作練習可拆為短段",
+  "intro": "讀懂1到12，依虛構年齡卡回答，不猜真實年齡。依本頁完整教材先理解，再在合格成人示範下練習，最後換一組資訊自己試。",
+  "goals": [
+    "我能把1–12和英文數字配對。",
+    "我會分清問名字與問年齡，依角色資料回答。",
+    "我知道不能依身高猜年齡，不必提供同學真實生日。"
+  ],
+  "materials": [
+    "本頁原創圖文與大紙字卡、鉛筆",
+    "紙上虛構角色卡；可用指認、繪圖或AAC回應",
+    "英語教師課前核對完整詞句；本頁未提供或驗聽音訊"
+  ],
+  "sections": [
+    {
+      "title": "數字要配對問題",
+      "childText": "先聽完整問句，才決定讀哪一欄。",
+      "html": "<span lang=\"en\">How old are you?</span>問年齡。拿到九歲卡，可說<span lang=\"en\">I’m nine.</span>或<span lang=\"en\">I’m nine years old.</span>。在這情境中nine是年齡，不是桌上物品數量；知道卡片有一個數字仍要先理解問題。<p>只用虛構資料，不問生日、出生年份、真實同學年齡或證件。年齡大也不等於英文更好。先用熟悉語言說清楚資訊類型，再由合格教師示範自然英文。</p>",
+      "id": "g3s1-english-07-s01"
+    },
+    {
+      "title": "完整1到12數字庫",
+      "childText": "先查數字，再看角色。",
+      "html": "<span lang=\"en\">1 one 2 two 3 three 4 four 5 five 6 six 7 seven 8 eight 9 nine 10 ten 11 eleven 12 twelve</span><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 267\" role=\"img\" aria-labelledby=\"g3s1-english-07-fig\"><title id=\"g3s1-english-07-fig\">原創紙卡資料；所有人物與數字都是虛構練習資料。</title><rect x=\"12\" y=\"10\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"38\" font-size=\"21\" lang=\"en\">Mia — 8</text><text x=\"27\" y=\"67\" font-size=\"17\">甲：名字Mia，年齡八歲。</text><rect x=\"12\" y=\"95\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"123\" font-size=\"21\" lang=\"en\">Ben — 10</text><text x=\"27\" y=\"152\" font-size=\"17\">乙：名字Ben，年齡十歲。</text><rect x=\"12\" y=\"180\" width=\"336\" height=\"75\" rx=\"8\" fill=\"#f2f5fa\" stroke=\"#56728b\"/><text x=\"27\" y=\"208\" font-size=\"21\" lang=\"en\">Jo — 9</text><text x=\"27\" y=\"237\" font-size=\"17\">丙：名字Jo，年齡九歲。</text></svg><figcaption>原創紙卡資料；所有人物與數字都是虛構練習資料。</figcaption></figure><p>三張卡都是虛構資料，不包含照片或性別。先把<span lang=\"en\">8</span>配<span lang=\"en\">eight</span>、<span lang=\"en\">10</span>配<span lang=\"en\">ten</span>、<span lang=\"en\">9</span>配<span lang=\"en\">nine</span>，再配完整回答。成人把1–6、7–12分成兩短段示範；不要求一口氣背完。</p><p>數字詞先整詞理解和聽讀，像<span lang=\"en\">eight</span>不能直接套用前課全部短母音規則。會順數也不代表抽出一張就認得，後面要改順序。</p>",
+      "id": "g3s1-english-07-s02"
+    },
+    {
+      "title": "示範：同一張卡的兩種問題",
+      "childText": "答案都在卡上，但欄位不同。",
+      "html": "<div class=\"story\"><p>問者：<span lang=\"en\">What’s your name?</span></p><p>乙：<span lang=\"en\">I’m Ben.</span></p><p>問者：<span lang=\"en\">How old are you?</span></p><p>乙：<span lang=\"en\">I’m ten years old.</span></p></div><p>第一問要名字，第二問要年齡。成人先在乙卡兩欄旁各畫一個小圈，依問題指相應欄位。若第二問仍答Ben，資料沒有記錯，但選錯資訊類別；請重新聽完整問句，再移到年齡欄。</p><p>教師先確認ten和完整句讀法，示範後才讓孩子試；可以選句卡，不要求每次一定口說。</p>",
+      "id": "g3s1-english-07-s03"
+    },
+    {
+      "title": "一起練：抽出來也認得",
+      "childText": "反向配對，別只靠順序背誦。",
+      "html": "<p>第一輪給<span lang=\"en\">3</span>、<span lang=\"en\">7</span>、<span lang=\"en\">11</span>，找<span lang=\"en\">three</span>、<span lang=\"en\">seven</span>、<span lang=\"en\">eleven</span>；第二輪給<span lang=\"en\">twelve</span>、<span lang=\"en\">four</span>、<span lang=\"en\">six</span>，找<span lang=\"en\">12</span>、<span lang=\"en\">4</span>、<span lang=\"en\">6</span>。完成再查完整庫，看看哪個需要支持。</p><p>成人實際聽辨腳本：<span lang=\"en\">eight</span>、<span lang=\"en\">ten</span>、<span lang=\"en\">nine</span>、<span lang=\"en\">eight</span>。每次自然讀一詞，孩子指甲、乙或丙的年齡；教師不指答案，也不先翻譯。可見嘴形、字卡、重讀或中文提示都註明；若以看字配對完成，就記認讀，不冒充純聽辨。</p>",
+      "id": "g3s1-english-07-s04"
+    },
+    {
+      "title": "修復：外貌與年齡不同",
+      "childText": "照提供的資料，不加自己猜測。",
+      "html": "<p>有人說「Ben畫得高，一定十二歲」，但卡上寫十歲，就應依資料回答ten；本課沒有身高資訊，也不從外貌猜。另一種錯誤是看見九便答nine，卻沒注意問者要名字；先圈問句類型，再圈卡片欄位。</p><p>在年齡問題下<span lang=\"en\">I’m ten.</span>和<span lang=\"en\">I’m ten years old.</span>都自然。初學者可先選短句，不以句子長短評程度；若採長句，使用完整的<span lang=\"en\">ten years old</span>而不是漏掉必要形式。</p>",
+      "id": "g3s1-english-07-s05"
+    },
+    {
+      "title": "自己試：新角色新資料",
+      "childText": "保留框架，更新數字。",
+      "html": "<p>新卡丁：<span lang=\"en\">Sam</span>，六歲；新卡戊：<span lang=\"en\">Kim</span>，十一歲。成人先問丁名字、再問丁年齡、最後問戊年齡。孩子先獨立選完整回答，再決定是否口說；成人可以讀任務，不先說正確答案。</p><details><summary>先作答再核對</summary><p lang=\"en\">I’m Sam. I’m six. I’m eleven.</p><p>後兩句可加years old。第一問不能用six代替名字，最後一問不能沿用丁的six。</p></details><p>再由孩子改問題順序，請成人回答後指出支持的欄位，看看自己能否判斷答案是否對題。</p>",
+      "id": "g3s1-english-07-s06"
+    },
+    {
+      "title": "只留下學習證據",
+      "childText": "記虛構卡和支持，不收真實年齡。",
+      "html": "<p>紀錄例：「11可配eleven；Kim年齡題第一次答名字，重看問題後改為I’m eleven。」下一步就練先分問題類別，不是罰背整段。</p><p>這課問的是已提供卡片，不要求兒童證明真實年齡或比較誰年紀大。英語數字的聽辨和口語可理解性要有真實聲音任務才能判斷；文字題只支持數字對應和語意理解。</p>",
+      "id": "g3s1-english-07-s07"
+    }
+  ],
+  "teachingHtml": "<h3>定位與媒材</h3><p>這是三年級英語文參考主題，第二學習階段涵蓋三、四年級；單課順序不是全國統一課表。先看學生實際經驗，不假定人人已有低年級英語。國小畢業的300字詞與180拼寫目標不作本學期配額。故事、角色、卡片與題目均為原創，所列來源只支持註明的語言或教學事項。</p><h3>口語實施前提</h3><p>本頁沒有音檔，編寫時未驗聽播放。教師須先用可靠官方或字典模型核對本課完整詞句，並有能力以自然清楚的速度示範，才進行聽辨或發音觀察；本系列語音課採美式模型，但其他可理解的正常英語變體不列錯誤。不用中文諧音、合成聲音或拼字聲代替字音。無合適示範者時先做圖文理解，另安排口語課，不聲稱已完成聽說。</p><h3>紀錄與可近用</h3><p>書面選擇題只檢查文字可判斷的資訊；把認讀、理解、獨立口語和示範後跟讀分欄記錄。孩子可指卡、繪圖、使用AAC或請成人代寫；這能證明相應理解，不能冒充獨立發音或筆順表現。等待、重聽、短段休息均可，不以速度、音量、對視或公開表演膽量給分。不使用真實姓名、年齡、家庭、健康資料，不錄音錄影或上傳。</p><h3>本課專項</h3><p>完整數字庫分段認讀，抽卡再反向配對，接著以不同問句選欄位。支持者保留阿拉伯數字與英文，進階者交替新角色與問題順序，不增加住址等私人資料。教師確認eight、eleven、twelve等整詞模型，不能硬套初學CVC規則。本課不考默寫所有數字詞；成人記錄孤立認讀、問句理解、依卡轉用與口語各項。數字能順數而抽卡尚需提示，正是下一次短練重點。</p>",
+  "exercises": [
+    {
+      "id": "g3s1-english-07-q01",
+      "question": "How old are you?問什麼？",
+      "options": [
+        "名字",
+        "年齡",
+        "顏色"
+      ],
+      "answer": 1,
+      "hint": "先分問題的資訊類別。",
+      "explanation": "How old在此生活問答中詢問年齡，姓名和顏色不是此題所需。"
+    },
+    {
+      "id": "g3s1-english-07-q02",
+      "question": "乙卡應怎樣回答年齡？",
+      "options": [
+        "I’m eight.",
+        "I’m nine.",
+        "I’m ten."
+      ],
+      "answer": 2,
+      "hint": "查Ben的年齡欄。",
+      "explanation": "乙卡Ben是十歲，需用ten，不可以引用另外兩張角色的資料。"
+    },
+    {
+      "id": "g3s1-english-07-q03",
+      "question": "eleven對應哪個數字？",
+      "options": [
+        "11",
+        "7",
+        "12"
+      ],
+      "answer": 0,
+      "hint": "對照完整數字庫。",
+      "explanation": "eleven是11，seven為7、twelve為12，三者不能互換。"
+    },
+    {
+      "id": "g3s1-english-07-q04",
+      "question": "問乙What’s your name?應答？",
+      "options": [
+        "I’m Ben.",
+        "I’m ten.",
+        "I’m twelve."
+      ],
+      "answer": 0,
+      "hint": "這輪問的不是年齡。",
+      "explanation": "Ben是乙的名字；ten雖在同卡上，卻不是本次要求的資訊。"
+    },
+    {
+      "id": "g3s1-english-07-q05",
+      "question": "能依角色身高確定年齡嗎？",
+      "options": [
+        "一定高的十二歲",
+        "不能，需看年齡資料",
+        "高的一定英語更好"
+      ],
+      "answer": 1,
+      "hint": "外貌不是年齡的證據。",
+      "explanation": "身高或畫面大小不能代替明確資料，更不能推定語言學習能力。"
+    },
+    {
+      "id": "g3s1-english-07-q06",
+      "question": "丁Sam六歲，問年齡時哪句合適？",
+      "options": [
+        "I’m eleven.",
+        "I’m six.",
+        "I’m Sam."
+      ],
+      "answer": 1,
+      "hint": "用新卡且看清問什麼。",
+      "explanation": "丁的年齡是六，six正確；Sam是名字而eleven屬另一新卡。"
+    },
+    {
+      "id": "g3s1-english-07-q07",
+      "question": "哪組都可表示十歲？",
+      "options": [
+        "I’m ten.／I’m ten years old.",
+        "I’m Ben.／Hello.",
+        "I’m eight.／I’m nine."
+      ],
+      "answer": 0,
+      "hint": "比較兩句年齡資訊。",
+      "explanation": "簡短與完整年齡回答都可自然使用，不由句子長短決定對錯。"
+    },
+    {
+      "id": "g3s1-english-07-q08",
+      "question": "練年齡問答需收集什麼？",
+      "options": [
+        "全班真實生日",
+        "出生證件照片",
+        "使用本頁虛構資料即可"
+      ],
+      "answer": 2,
+      "hint": "已有能用來演練的角色卡。",
+      "explanation": "虛構年齡足夠支援本課目的，沒有必要收集真實生日或證件。"
+    }
+  ],
+  "selfCheck": [
+    "我能把1–12和英文數字配對。",
+    "我會分清問名字與問年齡，依角色資料回答。",
+    "我知道不能依身高猜年齡，不必提供同學真實生日。",
+    "我能說明這次是自己完成、看卡完成，還是成人示範後完成。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對印刷頁4、17–18及28：第二階段為三、四年級，涵蓋字母、語音、生活溝通。Ac-Ⅱ-3未訂學期字數；300字詞與其中180拼寫是國小畢業目標，不能拆作三年級學期配額。本課順序、原創情境與練習為編輯安排。"
+    },
+    {
+      "title": "British Council｜A new friend",
+      "url": "https://learnenglishkids.britishcouncil.org/listen-watch/listening-practice/level-1-listening/new-friend",
+      "note": "2026-10-05 直接核對官方逐字稿的Hello、What’s your name?、My name’s…、I’m…、How old are you?。未聽音訊，未引用原故事或地點資訊，本課劇本人物原創。"
+    },
+    {
+      "title": "British Council｜Present simple: verb to be",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/present-simple-verb-be",
+      "note": "2026-10-05 直接開啟正文核對I am／I’m和be的肯定、否定、問答結構；本課完整情境句為原創，口語由教師課前核對。"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "id": "g3s1-arts-11",
+  "course": "藝術",
+  "title": "聲音動作組成短表演",
+  "subtitle": "把聲音和動作排成有頭有尾的十二拍故事",
+  "duration": "2–3次，每次約25–35分鐘；演唱與動作可分短段並休息",
+  "intro": "把聲音和動作排成有頭有尾的十二拍故事。先讀本頁完整原創材料，跟著示範試一次，再換一個條件自己完成。",
+  "goals": [
+    "我能讀出原創表演的三段與提示。",
+    "我能讓聲音和動作配合指定拍點。",
+    "我能改一段表演並和伙伴約好開始與停止。"
+  ],
+  "materials": [
+    "本頁《小窗的一天》十二拍腳本",
+    "使用本頁完整動作腳本文字卡：開始1–4、中間5–8、結束9–12；成人可抄在三張大紙上並逐格朗讀，不需另備圖片或真窗",
+    "自然人聲或指圖替代，不用錄音或擴音"
+  ],
+  "sections": [
+    {
+      "id": "g3s1-arts-11-s01",
+      "title": "短表演有開始、中間和結束",
+      "childText": "聲音與動作一起說一件事。",
+      "html": "<p>今天原創《小窗的一天》不是現實開窗示範，用手掌或紙卡想像小窗。開始是小窗關著，中間是風輕輕來，結束是小窗打開迎接光。三段之間有變化，觀眾才知道故事往前走。</p><p>聲音可以提示事件，動作可以讓事件看得見；不一定全程都要出聲。安靜和停留也是安排的一部分。這裡的拍數幫大家一起排練，不代表所有戲劇都必須用固定拍子。</p>"
+    },
+    {
+      "id": "g3s1-arts-11-s02",
+      "title": "完整十二拍腳本",
+      "childText": "每段四拍，聲音與動作都有位置。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 315\" role=\"img\" aria-labelledby=\"g3s1-arts-11-fig-title g3s1-arts-11-fig-desc\"><title id=\"g3s1-arts-11-fig-title\">原創教學示意</title><desc id=\"g3s1-arts-11-fig-desc\">原創動作腳本，三列各4拍，按上列到下列、每列左到右讀。開始合掌只代表小窗，不擠壓；中間慢慢分開；結束打開後收手休息。</desc><rect width=\"360\" height=\"315\" fill=\"#fffdf6\"/><text x=\"12\" y=\"30\" font-size=\"16\" text-anchor=\"start\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">開始1–4拍</text><rect x=\"16.0\" y=\"46\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"54.5\" y=\"76\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">合掌</text><rect x=\"98.0\" y=\"46\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"136.5\" y=\"76\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">保持</text><rect x=\"180.0\" y=\"46\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"218.5\" y=\"76\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">保持</text><rect x=\"262.0\" y=\"46\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"300.5\" y=\"76\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">保持</text><text x=\"12\" y=\"125\" font-size=\"16\" text-anchor=\"start\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">中間5–8拍</text><rect x=\"16.0\" y=\"141\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"54.5\" y=\"171\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">分開少許</text><rect x=\"98.0\" y=\"141\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"136.5\" y=\"171\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">慢移</text><rect x=\"180.0\" y=\"141\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"218.5\" y=\"171\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">慢移</text><rect x=\"262.0\" y=\"141\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"300.5\" y=\"171\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">停</text><text x=\"12\" y=\"220\" font-size=\"16\" text-anchor=\"start\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">結束9–12拍</text><rect x=\"16.0\" y=\"236\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"54.5\" y=\"266\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">打開</text><rect x=\"98.0\" y=\"236\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"136.5\" y=\"266\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">保持</text><rect x=\"180.0\" y=\"236\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"218.5\" y=\"266\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">收手</text><rect x=\"262.0\" y=\"236\" width=\"77.0\" height=\"48\" fill=\"#e9f3ed\" stroke=\"#37695b\"/><text x=\"300.5\" y=\"266\" font-size=\"17\" text-anchor=\"middle\" fill=\"#193642\" font-family=\"Noto Sans CJK TC,sans-serif\">休息</text></svg><figcaption>原創動作腳本，三列各4拍，按上列到下列、每列左到右讀。開始合掌只代表小窗，不擠壓；中間慢慢分開；結束打開後收手休息。</figcaption></figure><p>聲音軌完整標示：1–4拍安靜；第5拍自然輕聲「呼」開始，延續第6拍末停止；第7、8拍安靜；第9拍說「光」；第10拍說「來」；第11、12拍安靜。不用真風、風扇或吹他人臉。若延聲不舒適，可由成人代做，孩子指聲音開始與停止。</p>"
+    },
+    {
+      "id": "g3s1-arts-11-s03",
+      "title": "成人完整示範一次",
+      "childText": "先約好準備拍，才會同時進入。",
+      "html": "<p>成人先數四拍「1、2、3、4」當準備，下一拍才是腳本第1拍。示範用雙掌輕合於身前、不互壓；第5拍微分並輕聲呼兩拍，第7拍已停止聲音但手仍緩移到第8拍停。第9拍手打開說光，第10拍保持說來，第11拍收手，第12拍休息。</p><p>觀眾看一次後指出哪裡是風來、哪裡是結尾。成人不要邊演邊把每一動作口令說成正式臺詞；可先教學解說一輪，再用僅有「呼、光、來」的表演版一輪，讓兩種用途分清楚。</p>"
+    },
+    {
+      "id": "g3s1-arts-11-s04",
+      "title": "一起分工再合起來",
+      "childText": "一個看動作，一個顧聲音，都很重要。",
+      "html": "<p>兩人時甲作動作，乙讀聲音軌；成人或第三人指拍格。一人時先單練動作，再單練聲音，最後依能力合起來。可全程桌上移紙卡，由成人提供聲音，不強迫每位孩子發聲。</p><p>試演後交換觀察任務：這次只看第5拍是否同時開始，下次只看第7拍是否聲音已停。分段修再接完整十二拍，不需要一失誤就要求從頭重來十次。所有演員可用約好的手掌向下提示請求暫停。</p>"
+    },
+    {
+      "id": "g3s1-arts-11-s05",
+      "title": "碰到聲音和動作不同步",
+      "childText": "先找起點，不用一起加速。",
+      "html": "<p>若風聲第4拍就開始，先把第5拍格標星號，成人從第3拍往後數，練第3至6拍。若動作停在第6拍但腳本要第8拍，分清「聲音結束」和「動作結束」不在同一拍；它們可以一先一後，並不是永遠綁在一起。</p><p>有孩子以為結束就要大家突然大叫，改看第11、12拍：收手、休息也能給清楚結尾。沒有掌聲、沒有大動作並不表示沒有表演，控制與選擇才是本課重點。</p>"
+    },
+    {
+      "id": "g3s1-arts-11-s06",
+      "title": "自己改編：小窗遇到細雨",
+      "childText": "改一段，也要保留完整結尾。",
+      "html": "<p>新任務保留第1–4拍和第9–12拍，只改第5–8拍為細雨。可選第5、7拍各一聲自然「滴」，其餘拍安靜；動作改為兩次指尖輕向下點，但只在自己身前，不觸碰別人。先把聲音與動作各寫四格，再排一次。</p><details><summary>示例核對</summary><p>第5拍指下說滴、第6拍保持安靜、第7拍再指下說滴、第8拍停。整段仍4拍，接前後共12拍。你也可作另一方案，只要拍數清楚、音量舒服、動作安全，且能說明如何表示細雨。</p></details>"
+    },
+    {
+      "id": "g3s1-arts-11-s07",
+      "title": "分享一段合作的證據",
+      "childText": "觀眾說看到或聽到什麼。",
+      "html": "<p>創作者介紹「我們在第5拍一起開始，中間讓聲音先停、手再停」。觀眾回應「我聽到第5、6拍的呼，看到手到第8拍才停」。如果現場沒有真的發聲，只記看過動作，不把文字腳本寫成已聽到的聲音。</p><p>每人可選表演、提示、指圖或觀察角色，再輪替一次；不用誰最大聲就當主角。保存修訂前後四格，下一次能看見合作如何讓表演更清楚。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>課程定位與準備</h3><p>本課是三年級藝術參考主題，第二學習階段為三、四年級，這裡的學期順序是編輯安排。先完整閱讀原創範例，再依現場材料與孩子需要拆成短段。只要求本課教過的技巧；不以家庭購買器材、既有才藝或成品像不像老師判定能力。教師示範後要留一次孩子自行選擇、修正及轉用的機會。</p><h3>本課實施與觀察證據</h3><p>成人完整自演十二拍，再拆聲音與動作兩軌。評量第5拍入口、第7拍聲動分離、第11–12拍結尾與一次合作修改；不要用總體整齊掩蓋具體拍點問題。開始準備四拍另計，正文十二拍，教學口令不當正式臺詞。氣聲只短2拍且音量自然，可由成人代做，絕不以吹人、尖叫或憋氣作音效。進階者只改中間一軌並說與另一軌的關係，支援者先完成一段四格。</p><h3>差異化與評量</h3><p>起步者一次只處理一個變化，成人讀題、放大圖卡或先示範一半，讓孩子完成其餘部分；可指認、口述、繪圖、使用既有輔助溝通或請成人代操作。熟練者換一種材料、角色或排列，說明選擇的效果，不加速比賽或增加危險動作。紀錄「獨立完成」「口語提示後」「共同完成」，並保留一項具體證據、一項修改及下一步。選擇題只能檢查可由圖文判斷的理解，不能代替實際聽辨、音準、手部操作或表演觀察。</p><h3>參與、安全與回應</h3><p>讓孩子選擇安靜指圖、坐姿動作、個別示範或觀察記錄，不強迫獨唱、上臺、對視、觸碰同伴或揭露真實家庭故事。不錄音錄影、不上傳姓名、照片或作品。空間清楚、平坦且由成人看顧，器材完整適齡；不舒服可立即停止與休息。評論先指出實際看見或聽到的特徵，再提出可試的方法；感受可不同，不把表情、聲音或色彩偏好當性格診斷。成人代做時仍由孩子作選擇，不把成人作品列成孩子獨立成果。</p><h3>真實聲音的必要條件</h3><p>本頁沒有音檔，編寫時未驗聽任何音訊。成人須能準確讀出指定拍數或以已校準樂器給出指定音高，先自查完整模型，再帶聽辨與演唱。無此條件先完成圖文讀譜和無聲指認，另安排具備能力的音樂教師示範；不得把未聽過的曲調或未演奏的音色寫成已會。採自然輕鬆的音量，不喊叫，不憋氣；直笛各人專用且依製造商方式清潔，不交換吹口或整支樂器。</p>",
+  "exercises": [
+    {
+      "id": "g3s1-arts-11-q01",
+      "question": "原創表演一共幾拍？",
+      "options": [
+        "4拍",
+        "16拍",
+        "12拍"
+      ],
+      "answer": 2,
+      "hint": "三段各四拍。",
+      "explanation": "開始、中間、結束各四拍，三段相加共十二拍，不包含準備拍。"
+    },
+    {
+      "id": "g3s1-arts-11-q02",
+      "question": "正式腳本的風聲在哪拍開始？",
+      "options": [
+        "第9拍",
+        "第5拍",
+        "第1拍"
+      ],
+      "answer": 1,
+      "hint": "看中間段聲音軌。",
+      "explanation": "前四拍安靜，中間開始的第五拍才起呼聲並延到第六拍末。"
+    },
+    {
+      "id": "g3s1-arts-11-q03",
+      "question": "第7拍的聲音與動作如何？",
+      "options": [
+        "聲音安靜，手仍可慢移",
+        "兩者必須一起大叫",
+        "聲音一定還在呼"
+      ],
+      "answer": 0,
+      "hint": "兩條軌分開讀。",
+      "explanation": "呼聲在第六拍末結束，動作仍依腳本延續至第八拍停。"
+    },
+    {
+      "id": "g3s1-arts-11-q04",
+      "question": "第11、12拍安排什麼？",
+      "options": [
+        "收手再休息，聲音安靜",
+        "全員突然尖叫",
+        "拿真窗戶猛力關上"
+      ],
+      "answer": 0,
+      "hint": "讀結束段最後兩格。",
+      "explanation": "腳本用收手與休息形成結尾，沒有巨響或操作真窗的要求。"
+    },
+    {
+      "id": "g3s1-arts-11-q05",
+      "question": "分工時不想出聲可以怎麼做？",
+      "options": [
+        "動作、提示或指卡，由成人代聲",
+        "被要求更大聲說話",
+        "一定不能參與"
+      ],
+      "answer": 0,
+      "hint": "不同工作都能支持表演。",
+      "explanation": "本課可將聲音交由成人，孩子仍能以動作與提示完成相應學習。"
+    },
+    {
+      "id": "g3s1-arts-11-q06",
+      "question": "風聲搶在第4拍出現，先怎麼修？",
+      "options": [
+        "全段都再加速",
+        "刪掉開始段",
+        "從第3拍數起，特別練第5拍起聲"
+      ],
+      "answer": 2,
+      "hint": "找出錯誤發生的起點。",
+      "explanation": "短段練習可定位第五拍入口，整段加速不會修正提早出聲。"
+    },
+    {
+      "id": "g3s1-arts-11-q07",
+      "question": "細雨示例滴聲出現在哪兩拍？",
+      "options": [
+        "第9、12拍",
+        "第5、7拍",
+        "第6、8拍"
+      ],
+      "answer": 1,
+      "hint": "看改編的四格。",
+      "explanation": "細雨例明確安排第五和第七拍各一聲，其餘兩拍安靜。"
+    },
+    {
+      "id": "g3s1-arts-11-q08",
+      "question": "只讀過聲音腳本，可以說已聽到呼聲嗎？",
+      "options": [
+        "可以，文字就是聲音",
+        "不能，要有現場真實聲音",
+        "可以，只要想像得夠像"
+      ],
+      "answer": 1,
+      "hint": "記錄實際觀察。",
+      "explanation": "腳本提供要做的聲音安排，未實際發聲就不能記為真實聽辨。"
+    }
+  ],
+  "selfCheck": [
+    "我能讀出原創表演的三段與提示。",
+    "我能讓聲音和動作配合指定拍點。",
+    "我能改一段表演並和伙伴約好開始與停止。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "已核對PDF第27頁（印頁24）的第二學習階段，涵蓋三、四年級。學期安排、作品、曲調、場景及活動為編者原創，不是全國固定課文。"
+    },
+    {
+      "title": "Royal Shakespeare Company｜Rehearsal Room Approaches",
+      "url": "https://www.rsc.org.uk/learn/schools-and-teachers/teacher-resources/rehearsal-room-approaches-to-shakespeare",
+      "note": "官方劇團的排練式教學支持以角色、行動及共同試作探索文本。這裡僅用一般戲劇教學方向，所有劇本、動作、臺詞與評量原創；未使用莎劇情節或宣稱看過來源影音。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Steps to Music Theory：Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符時值比例、休止與音高位置的基本定義。只取基礎概念；本課節奏、曲調、歌詞與示意圖皆原創，未複製來源曲譜，未提供或驗聽音訊。"
+    }
+  ]
+}
