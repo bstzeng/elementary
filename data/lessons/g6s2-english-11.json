@@ -1,0 +1,183 @@
+{
+  "id": "g6s2-english-11",
+  "course": "英語文",
+  "title": "簡易故事的角色演出",
+  "subtitle": "先讀懂角色目的，再把完整劇本演給聽眾理解",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "角色演出需要聽對方說什麼，接著用清楚句子回應。這課提供兩個完整結尾，以坐著指紙卡的方式練習澄清、確認與連貫敘事。",
+  "goals": [
+    "我能說出每個角色的目的及劇情如何解決問題。",
+    "我能依完整劇本輪流接話，使用適合語境的重點與語調。",
+    "我能按新的限制演另一個結尾，並用具體證據回饋。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>演出採原創虛構劇本，普通紙上標A／B即可；不用實物箱、布景、變裝、奔跑、抓碰或搬動物品。可全程坐著、指讀、用AAC、分飾多角或只作文字編輯，不強迫表演。合格教師先核對全部語句、角色目的與自然模型，再做聲音觀察；文字選題只能評情節與語意。支持層讀一個短回合，進階層理解新限制後換結尾，不能擅自把未同意動作演成已做。成人分記內容、接話、可理解度與修訂，不用演技、腔調或眼神排名。</p>",
+  "selfCheck": [
+    "我能說出每個角色的目的及劇情如何解決問題。",
+    "我能依完整劇本輪流接話，使用適合語境的重點與語調。",
+    "我能按新的限制演另一個結尾，並用具體證據回饋。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "劇本先交代問題與角色",
+      "childText": "讀到自己的台詞，也要知道上一句在問什麼。",
+      "html": "<p>本課原創劇名The Two Labels（兩張標籤）。角色：Narrator旁白、Mina想找到鳥故事、Sol協助查看內容、Helper擁有這兩個教學用紙上盒子。問題：兩張標籤貼反了；需要查內容、確認是否可調整，再讓讀者知道哪裡找故事。</p><p>完整紙上場景：A盒內容是game stories遊戲故事，但標籤寫Birds；B盒內容是bird stories鳥故事，但標籤寫Games。這是文字模型，不是真的收納箱。準備方式：在普通大紙畫兩個方框，寫A／B、各自內容與標籤，另寫四個角色名；可直接指本頁文字代替，不需剪卡或任何實物。</p>",
+      "id": "g6s2-english-11-s01"
+    },
+    {
+      "title": "完整劇本第一幕：發現與查核",
+      "childText": "先找內容證據，不先指責誰。",
+      "html": "<div class=\"story\"><p>1 Narrator: Mina wants a story about birds. There are two paper boxes, A and B.<br/>2 Mina: This label says “Birds”. Is this the right box?<br/>3 Sol: Let’s check the contents of A.<br/>4 Narrator: A has game stories. B has bird stories.<br/>5 Mina: The label on A does not match the stories.<br/>6 Sol: The two labels are in the wrong places.<br/>7 Mina: We should ask the helper before changing them.<br/>8 Helper: These are my teaching boxes. What is the problem?<br/>9 Sol: A has game stories, and B has bird stories. The labels are the other way around.</p></div><p>label標籤、contents內容、match符合、wrong不合的、the other way around顛倒。兩位角色只說觀察到的標籤與內容不符，不指控某個孩子故意做錯。旁白提供的A／B內容是本劇完整證據，演出不需要翻看真實兒童物品。</p>",
+      "id": "g6s2-english-11-s02"
+    },
+    {
+      "title": "完整劇本原結尾：確認後解決",
+      "childText": "演出須有回覆，也有完成的旁白。",
+      "html": "<div class=\"story\"><p>10 Mina: May we move the two paper labels?<br/>11 Helper: Yes. Put “Games” on A and “Birds” on B.<br/>12 Sol: Games on A, and Birds on B. Is that right?<br/>13 Helper: That’s right.<br/>14 Narrator: They move only the paper labels. Now A says “Games” and B says “Birds”.<br/>15 Mina: I can find the bird stories in B now. Thank you.<br/>16 Sol: We checked the contents and asked before changing the labels.</p></div><p>only只、move移動、checked核對了、asked詢問了。第11–13回合給允許與確認，第14回合才給完成證據；只有第10句提問時不能演成已改。全程可用手指表示紙上標籤位置，旁白說出新狀態，不搬實物或碰任何人的身體。</p>",
+      "id": "g6s2-english-11-s03"
+    },
+    {
+      "title": "一起排練：每回合要有功能",
+      "childText": "聲音重點來自要澄清的資訊。",
+      "html": "<p>第一遍先讀懂全文，用中文寫每角目的。第二遍由合格教師完整自然示範：Mina的Is this the right box?是真詢問；Sol第9句要讓A／game stories和B／bird stories的對照清楚；第12句是在重述確認，不用喊叫。第三遍再分角色朗讀，回合間讓上一人把意思說完，不必搶快。</p><p>可在第9句標A has GAME stories,／and B has BIRD stories.作準備提示，但大寫不是固定音量規則，斜線也不是錄音。教師以自然語境核對。需要較多支持的孩子只讀May we move the labels?一回合，其餘用指卡；不想開口可以負責旁白文字、指資料或檢查順序，同樣參與理解任務。</p>",
+      "id": "g6s2-english-11-s04"
+    },
+    {
+      "title": "修復：角色不知道的事不能擅自補",
+      "childText": "猜原因和表演效果都不能改掉資料。",
+      "html": "<p>錯演「Sol知道Mina貼錯，責怪她」沒有根據，劇本沒說誰貼錯。錯演「Helper還沒回答，Mina已把所有故事搬走」同時跳過確認和擴大動作；原結尾只移紙標籤。修復可停下來說Let’s check the script.（先查劇本），回到第10–14回合。</p><p>演得大聲或動作大，不代表角色目的清楚。觀眾應能答出「Mina想找什麼／什麼資料不合／誰允許哪個動作／最後哪裡找鳥故事」。若聽不懂關鍵字，先縮短回合並讓教師重示範，而不是要求誇張口音或不停加快速度。故事中的改錯也不等於真的修改網站或班級物品。</p>",
+      "id": "g6s2-english-11-s05"
+    },
+    {
+      "title": "獨立轉用：完整替代結尾",
+      "childText": "限制一變，解法要真的改。",
+      "html": "<p>保留第1–9回合及同一紙上場景，改用以下第10–17回合，這是另一個版本，不和原結尾混演。</p><div class=\"story\"><p>10 Mina: May we move the labels?<br/>11 Helper: Not today. These labels must stay here for this lesson.<br/>12 Sol: May we write a guide on a separate page?<br/>13 Helper: Yes. Write “A: game stories. B: bird stories.”<br/>14 Mina: We will keep the labels in place and use the guide.<br/>15 Narrator: They write the guide on paper. They do not move the labels.<br/>16 Mina: The guide tells me to look in B for bird stories.<br/>17 Sol: We found another way.</p></div><p>separate另外的、stay here留在這裡、in place留在原位、guide指引。任務：說明哪個動作不允許、哪個已同意且已完成，再依新版本演或指讀。</p><details><summary>完成後核對</summary><p>不允許移標籤；允許另寫A為遊戲、B為鳥故事的指引。第15回合證明已寫且沒移標籤；鳥故事仍在B。不能套原第14句說標籤已交換。可不用真的另紙寫，只由旁白讀出文字並指向本頁完整指引。</p></details>",
+      "id": "g6s2-english-11-s06"
+    },
+    {
+      "title": "用觀眾能答的問題回饋",
+      "childText": "記錄清楚的訊息，不評誰最像演員。",
+      "html": "<p>演後先請觀眾回答四個情節問題，再給一項具體回饋，例如「你重述A與B時，我能分辨內容」「Helper回覆後才接下一步，順序清楚」。角色可以再演一次，只改一個需要澄清的回合，不必整段重來。將原結尾與替代結尾的最後狀態各寫一句作比較。</p><p>成人分開評劇情理解、輪流接話、資訊可辨與是否依新限制修正。真正語調表現只能由實際聽到的朗讀記錄；看台詞選題不算聲音評量。允許休息、坐姿指讀、AAC和私人展示，孩子可選不表演而完成文字任務。所有角色、箱子和標籤均為課內原創，無需真實姓名、照片、帳號或搬動用品。</p>",
+      "id": "g6s2-english-11-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council TeachingEnglish｜Using intonation",
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/using-intonation",
+      "note": "2026-10-06直接核對在完整情境中示範語意組、語調和說話重點的教學原則。課內戲劇為原創，沒有已驗聽表演音訊。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對規律活動、第三人稱動詞與do／does肯否定問答說明。課內角色、句子與資料均為原創；本頁不是來源錄音的轉錄。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Mina在劇中想找什麼？",
+      "options": [
+        "某位真實同學的私人物品",
+        "game stories",
+        "bird stories"
+      ],
+      "answer": 2,
+      "hint": "第一幕一開始交代角色目的。",
+      "explanation": "旁白說Mina想找鳥故事，不能只看A的錯標籤就把目的換成其他物品。",
+      "id": "g6s2-english-11-q01"
+    },
+    {
+      "question": "原場景A的內容與標籤是？",
+      "options": [
+        "內容game stories，標籤Birds",
+        "內容和標籤都未提供",
+        "內容bird stories，標籤Games"
+      ],
+      "answer": 0,
+      "hint": "讀完整紙上場景，不只讀盒名。",
+      "explanation": "A內實際是遊戲故事，卻貼鳥的標籤，因此問題是標籤與內容不合。",
+      "id": "g6s2-english-11-q02"
+    },
+    {
+      "question": "原結尾哪個回合證明標籤真的移好？",
+      "options": [
+        "第10回合提出請求",
+        "第14回合旁白描述新狀態",
+        "第7回合建議先詢問"
+      ],
+      "answer": 1,
+      "hint": "完成需要行動或結果的敘述。",
+      "explanation": "第14回合明寫移了紙標籤並給A、B新標示，詢問或建議本身不等於完成。",
+      "id": "g6s2-english-11-q03"
+    },
+    {
+      "question": "劇本能知道誰把原標籤弄錯嗎？",
+      "options": [
+        "不能，沒有提供原因或行為者",
+        "一定Mina故意貼反",
+        "一定Sol忘了英文字"
+      ],
+      "answer": 0,
+      "hint": "不要從發現者猜責任人。",
+      "explanation": "文本只給不相符的現況，沒有誰貼錯的證據，演出不能捏造責怪。",
+      "id": "g6s2-english-11-q04"
+    },
+    {
+      "question": "替代結尾Helper不允許哪件事？",
+      "options": [
+        "閱讀B裡的鳥故事",
+        "在另一張紙寫指引",
+        "移動原標籤"
+      ],
+      "answer": 2,
+      "hint": "讀第11回合的限制。",
+      "explanation": "Helper說標籤本課必須留原位，但後續允許寫指引，不是禁止全部協助。",
+      "id": "g6s2-english-11-q05"
+    },
+    {
+      "question": "替代結尾最後完成哪件事？",
+      "options": [
+        "把所有故事拿出教室",
+        "寫好A／B內容指引，未移標籤",
+        "把兩張標籤交換"
+      ],
+      "answer": 1,
+      "hint": "將第15回合與原版本分開。",
+      "explanation": "新第15回合明寫指引完成且標籤未移，不能借用原結尾的交換結果。",
+      "id": "g6s2-english-11-q06"
+    },
+    {
+      "question": "哪項回饋具體且有用？",
+      "options": [
+        "你的口音不像某國人所以沒學會",
+        "重述A和B時，我聽清楚哪邊是鳥故事",
+        "你越大聲就一定越正確"
+      ],
+      "answer": 1,
+      "hint": "回饋要連到溝通功能。",
+      "explanation": "具體指出聽懂的關鍵資訊能幫助修訂，腔調比較或單純音量不能代表理解。",
+      "id": "g6s2-english-11-q07"
+    },
+    {
+      "question": "不想公開表演的孩子可以如何完成學習？",
+      "options": [
+        "坐著指讀、AAC或完成劇情文字任務",
+        "只要不演就完全沒有任何學習證據",
+        "必須被強迫演完整段"
+      ],
+      "answer": 0,
+      "hint": "本課提供多種參與與證據方式。",
+      "explanation": "劇情理解與資料核對可透過指讀或書寫呈現，實際口語另記，不應強迫公開演出。",
+      "id": "g6s2-english-11-q08"
+    }
+  ]
+}

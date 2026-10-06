@@ -1,0 +1,183 @@
+{
+  "id": "g6s2-english-02",
+  "course": "英語文",
+  "title": "昨天及昨晚的活動",
+  "subtitle": "用過去式把昨天和昨晚的活動說完整",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "介紹昨天做過的事，需要時間和動作一起改。用角色紀錄練習規則與不規則過去式，也學會沒有記錄不等於沒做。",
+  "goals": [
+    "我能用yesterday、yesterday afternoon與last night定位過去活動。",
+    "我能辨認本課規則與不規則過去式，寫出完整肯定句。",
+    "我能用didn’t加原形表達已明示的未做事項，保留未知。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>本課引入played、watched、visited及went、ate、had、wrote，語音不直接按ed拼字統一處理；發音須教師先核對全詞全句。先讀事件證據，再變動詞，避免只機械加ed。所有人稱的此類一般動詞過去式不另加第三人稱s。否定只根據明示No／did not，不把未提及當做未發生。支持層用配對詞卡，進階層保留時間範圍並寫兩句連貫小日記。所有生活材料虛構，不詢問真實兒童昨晚活動。</p>",
+  "selfCheck": [
+    "我能用yesterday、yesterday afternoon與last night定位過去活動。",
+    "我能辨認本課規則與不規則過去式，寫出完整肯定句。",
+    "我能用didn’t加原形表達已明示的未做事項，保留未知。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "從通常到昨天，時間和動詞都看",
+      "childText": "last night不是every night。",
+      "html": "<p>現在規律可說I play chess on Fridays.；昨天發生可說I played chess yesterday.。yesterday昨天、yesterday morning昨天早上、yesterday afternoon昨天下午、last night昨晚。last night通常指前一晚，不能改成每天夜裡或未來晚上。句首寫Yesterday時首字大寫；句尾用句點把事件說完整。</p><p>規則詞對：play→played玩、watch→watched觀看、visit→visited拜訪或參觀。這些過去式加ed，但實際詞尾聲音不一定一樣；本頁不提供聲音，教師需自然示範完整詞句。句型I played…／She played…／They played…中過去式played不因第三人稱再加s，不能寫She playeds。</p>",
+      "id": "g6s2-english-02-s01"
+    },
+    {
+      "title": "完整活動記錄：昨天與昨晚",
+      "childText": "每一行都限定一個時間範圍。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構角色過去活動紀錄\" tabindex=\"0\"><table><caption>記錄只列明說的活動及否定，不代表各時段所有事情都寫盡。</caption><thead><tr><th>時間</th><th>Zoe</th><th>Finn</th></tr></thead><tbody><tr><td>yesterday morning</td><td>visited the class library</td><td>went to the art room</td></tr><tr><td>yesterday afternoon</td><td>played chess</td><td>wrote a short story</td></tr><tr><td>last night</td><td>watched a short film; did not play chess</td><td>had dinner at home; did not watch a film</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>不規則詞對：go→went去、write→wrote寫、have→had有或吃（在have dinner中指吃晚餐）、eat→ate吃。補充詞art room美術教室、short film短片、dinner晚餐。went不寫goed；wrote不寫writed。表中沒寫Finn早上有沒有讀書，就保留未知，不能用沒有列出當成No。</p>",
+      "id": "g6s2-english-02-s02"
+    },
+    {
+      "title": "完整對話：回顧而不混人",
+      "childText": "問完活動，再用資料回答。",
+      "html": "<div class=\"story\"><p>Teacher: What did you do yesterday afternoon, Zoe?<br/>Zoe: I played chess.<br/>Teacher: What did you do last night?<br/>Zoe: I watched a short film. I didn’t play chess.<br/>Teacher: What did Finn do yesterday afternoon?<br/>Zoe: He wrote a short story.<br/>Teacher: Did he watch a film last night?<br/>Zoe: No, he didn’t. He had dinner at home.</p></div><p>What did…do?問過去做什麼，did後的do保留原形；回答才用played、watched或wrote。Zoe昨晚沒下棋，不表示昨天下午也沒下棋；同一動作的肯定、否定可以出現在不同時間，並不衝突。Finn在家吃晚餐是正面資料，不是由「沒看電影」推猜出來，而是表格已有給定。</p>",
+      "id": "g6s2-english-02-s03"
+    },
+    {
+      "title": "一起示範：否定句的動詞回原形",
+      "childText": "過去資訊由didn’t承擔。",
+      "html": "<p>肯定She watched a short film last night.。若明示沒有做，改She didn’t watch a film last night.；didn’t＝did not，watch不再加ed。把He went to the art room.改為否定時是He didn’t go to the art room.，不是didn’t went。這只是句型變化練習；若原記錄說Finn確實去了，不可把練習用的否定當成他的真實活動。</p><p>一起做三組詞對：played／play、wrote／write、had／have。成人可把這六個完整詞抄在普通大紙上，不需剪卡；也可直接指本頁印出的詞對來配對。成人指定「肯定過去句」或「已有didn’t的句」，孩子挑相應形態。示例They wrote a story yesterday.與They didn’t write a story yesterday.。同時保留時間，不能只改動詞就忘了說哪一次事件。</p>",
+      "id": "g6s2-english-02-s04"
+    },
+    {
+      "title": "修復：缺資料不是No",
+      "childText": "否定必須有它自己的依據。",
+      "html": "<p>錯句Zoe didn’t played chess last night.有兩次過去標記，改didn’t play。錯句Finn goed to the art room.改went。錯誤閱讀「Finn昨天早上沒有讀書」則不是文法問題，而是證據不足；表只寫他去了美術教室，其他行為未完整記錄。</p><p>否定資料的範圍也有限。Finn did not watch a film last night.不能推成他不喜歡電影，或從來不看電影。活動記錄、偏好和永久習慣是不同問題。完整回答可說The record says he didn’t watch a film last night.，但本課不用孩子提供真實私生活紀錄，也不用影片內容評判哪一種休閒比較有價值。</p>",
+      "id": "g6s2-english-02-s05"
+    },
+    {
+      "title": "獨立轉用：另一份紙上日記",
+      "childText": "用新動詞形式，保留已知與未知。",
+      "html": "<p>新資料全文：Yesterday morning, Lia went to the class library. Yesterday afternoon, she visited a paper art display and wrote two sentences about it. Last night, she ate noodles at home. She did not watch a film. 請寫三句摘要：一個昨天早上句、一個昨天下午句、一個昨晚含明示否定的句。再回答：Lia昨晚有沒有聽音樂？詞庫paper art display紙藝展示、noodles麵。</p><details><summary>完成後核對</summary><p>Lia went to the class library yesterday morning. She visited a paper art display and wrote two sentences yesterday afternoon. Last night, she ate noodles at home and didn’t watch a film.。是否聽音樂未知，原記錄沒有提。ate是eat的過去式，didn’t後watch用原形。只需忠於新資料，不套用Zoe的棋或Finn的故事。</p></details>",
+      "id": "g6s2-english-02-s06"
+    },
+    {
+      "title": "完成三句回顧與一個未知欄",
+      "childText": "描述發生的事，不放大成一生習慣。",
+      "html": "<p>把原表某角色改成第一人稱小日記，三個時間各一句。例Finn可寫Yesterday morning, I went to the art room. Yesterday afternoon, I wrote a short story. Last night, I had dinner at home and didn’t watch a film.。再設「沒有資料」一欄，放一個尚不知的活動問題，不必勉強補答。</p><p>成人把過去時間、動詞形式、否定範圍及資料忠實度分項評。需要較多支持的孩子先配對went／go與played／play，允許查看詞庫；進階者把同一段換成人稱they並說明過去一般動詞不用再改s。若實際口語中音尾尚需支持，不因此抹去讀寫理解；教師自然示範後才記朗讀與聽辨，網頁自動題不聲稱已測發音。</p>",
+      "id": "g6s2-english-02-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Past simple – sentences",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-sentences",
+      "note": "2026-10-06直接核對過去事件、規則動詞ed、不規則went／ate／wrote／had與didn’t後接原形的說明；課內故事與句子原創。未驗聽音訊。"
+    },
+    {
+      "title": "British Council｜Past simple – questions",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-questions",
+      "note": "2026-10-06直接核對did加原形、疑問詞與did／didn’t短答的說明；只支持語法框架，不是課內虛構紀錄的來源。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Zoe昨天下午做什麼？",
+      "options": [
+        "watched a short film",
+        "played chess",
+        "went to the art room"
+      ],
+      "answer": 1,
+      "hint": "先固定yesterday afternoon的列。",
+      "explanation": "Zoe下午下棋；看短片屬於昨晚，美術教室是Finn早上的活動。",
+      "id": "g6s2-english-02-q01"
+    },
+    {
+      "question": "Finn的write在過去肯定句變成？",
+      "options": [
+        "wrote",
+        "writes",
+        "writed"
+      ],
+      "answer": 0,
+      "hint": "查不規則詞對。",
+      "explanation": "write的過去式是wrote，不照一般規則加ed，也不用現在第三人稱writes。",
+      "id": "g6s2-english-02-q02"
+    },
+    {
+      "question": "哪句依原表描述Zoe昨晚正確？",
+      "options": [
+        "She didn’t play chess.",
+        "She never likes chess.",
+        "She didn’t played chess."
+      ],
+      "answer": 0,
+      "hint": "didn’t後原形，範圍限定昨晚。",
+      "explanation": "原表明示昨晚沒下棋，用didn’t play；不能推成永久偏好或保留played。",
+      "id": "g6s2-english-02-q03"
+    },
+    {
+      "question": "Finn昨天早上是否讀書？",
+      "options": [
+        "確定讀了兩本",
+        "未知，這份記錄沒說",
+        "確定沒讀，因沒列出"
+      ],
+      "answer": 1,
+      "hint": "去美術教室不提供全部活動。",
+      "explanation": "表格未完整列舉其他行為，所以不能把未提及改成明確否定或自行補數量。",
+      "id": "g6s2-english-02-q04"
+    },
+    {
+      "question": "哪個句型適用第三人稱的過去活動？",
+      "options": [
+        "She played chess yesterday.",
+        "She playeds chess yesterday.",
+        "She plays chess yesterday.（本課過去敘述）"
+      ],
+      "answer": 0,
+      "hint": "一般動詞過去式不再加第三人稱s。",
+      "explanation": "過去式played可配I、she、they等主語，不能再加s或用現在式替代。",
+      "id": "g6s2-english-02-q05"
+    },
+    {
+      "question": "Lia新資料昨晚吃什麼？",
+      "options": [
+        "a short film",
+        "rice",
+        "noodles"
+      ],
+      "answer": 2,
+      "hint": "讀Last night後的動作和受詞。",
+      "explanation": "新資料明寫ate noodles at home，沒有米飯資料，film也不是所吃的食物。",
+      "id": "g6s2-english-02-q06"
+    },
+    {
+      "question": "Lia的新摘要否定句哪個正確？",
+      "options": [
+        "She wasn’t watch a film.",
+        "She didn’t watch a film.",
+        "She didn’t watched a film."
+      ],
+      "answer": 1,
+      "hint": "動作否定用didn’t加原形。",
+      "explanation": "watch是一般動詞，過去否定用didn’t watch，不能保留ed或只換成wasn’t。",
+      "id": "g6s2-english-02-q07"
+    },
+    {
+      "question": "由Finn昨晚沒看影片，可以推出哪項？",
+      "options": [
+        "他討厭所有故事",
+        "他從來不看任何影片",
+        "只確定原記錄所指昨晚未看影片"
+      ],
+      "answer": 2,
+      "hint": "避免把一次活動擴成永久習慣。",
+      "explanation": "last night限制否定範圍，文本沒有提供長期習慣或喜好，不能擴大結論。",
+      "id": "g6s2-english-02-q08"
+    }
+  ]
+}

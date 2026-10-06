@@ -1,0 +1,188 @@
+{
+  "id": "g6s2-english-10",
+  "course": "英語文",
+  "title": "文化故事與生活經驗",
+  "subtitle": "從真實收錄的伊索寓言版本讀出互助，再比較新的生活情境",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "文化故事會在不同時代與語言中被重述。本課以美國國會圖書館收錄的獅子與老鼠版本為依據，讀一篇完整簡易改寫，並用文字證據討論互助。",
+  "goals": [
+    "我能說出本課寓言的角色、關鍵事件與結局。",
+    "我能區分真實收錄版本、課內改寫與自己的解讀。",
+    "我能把故事主題轉用到新情境，同時尊重幫忙的能力與界線。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>直接核對Library of Congress收錄的The Lion & the Mouse全文與版本說明；本課完整英文為原創簡化改寫，保留放走、受困、救出三個情節，沒有宣稱逐字原文或唯一版本。這是寓言，不作動物行為或兒童救援指示；不綁人、不使用網繩、不咬物、不模仿抓捕。只用文字、指讀、紙上角色標籤。成人區分文本事件、主題解讀與個人生活類比，不要求孩子交出受欺負或私密經驗；新情境可完整代角色討論。</p>",
+  "selfCheck": [
+    "我能說出本課寓言的角色、關鍵事件與結局。",
+    "我能區分真實收錄版本、課內改寫與自己的解讀。",
+    "我能把故事主題轉用到新情境，同時尊重幫忙的能力與界線。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "先知道我們讀的是哪個版本",
+      "childText": "故事流傳和眼前版本是不同問題。",
+      "html": "<p>本課依據美國國會圖書館Read.gov收錄的The Lion & the Mouse（獅子與老鼠）。館方說這個互動書版本改編自1919年的The Aesop for Children，並介紹寓言經不同語言、文化與媒介反覆重述。因此「在美國機構看到英文版」不等於「故事起源於美國」；本課也不把一個版本的細節當成所有版本永遠相同。</p><p>fable寓言、lion獅子、mouse老鼠、net網、rope繩索、free自由的或釋放、help幫忙、kindness善意。下面完整短文是為學習者重寫的簡易英文，不是來源逐字引文。館藏圖像與動畫並未放在本頁；所有閱讀依據就是下列文字，不想像已看過或聽過一段表演。</p>",
+      "id": "g6s2-english-10-s01"
+    },
+    {
+      "title": "完整簡易改寫：A Small Helper",
+      "childText": "保留故事的轉折，讀到結局。",
+      "html": "<div class=\"story\"><p>A lion was resting in a forest. A little mouse ran across him. The lion caught the mouse. “Please let me go,” said the mouse. “I may be able to help you one day.” The lion laughed at the idea, but he let the mouse go.</p><p>Later, the lion was caught in a hunter’s net. He could not get out. The mouse heard him and came to the net. She bit through a rope. The net opened, and the lion was free.</p><p>The mouse had helped the lion, although she was much smaller. The lion’s earlier doubt was not the end of the story.</p></div><p>resting休息、ran跑了、caught捉住或受困、hunter獵人、heard聽到、bit through咬斷、although雖然、doubt懷疑。故事動作只在紙上閱讀，不綁住任何人，不以牙齒或工具處理繩網，也不嘗試接近野生動物。</p>",
+      "id": "g6s2-english-10-s02"
+    },
+    {
+      "title": "一起整理：三個轉折與兩個角色",
+      "childText": "角色的想法可能被後來事件改變。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"本課改寫的事件與證據\" tabindex=\"0\"><table><caption>此表只談寓言，不把動物擬人情節當成現實動物資料。</caption><thead><tr><th>階段</th><th>獅子</th><th>老鼠</th><th>文本能支持</th></tr></thead><tbody><tr><td>開始</td><td>捉住老鼠，後來放走</td><td>請求被放走，提出可能幫忙</td><td>獅子放走了牠</td></tr><tr><td>轉折</td><td>受困獵網，不能出來</td><td>聽到聲音，來到網旁</td><td>角色處境改變</td></tr><tr><td>結局</td><td>獲得自由</td><td>咬斷繩索，幫獅子脫困</td><td>小老鼠確實完成這次幫助</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>示範摘要：The lion let the mouse go. Later, the mouse helped him get free from a net.。him指lion；she在第二段指mouse，依本課採用版本的代詞，不推斷所有老鼠性別。因故事明寫行動與結局，這裡可說幫助已發生；不是只因老鼠先前說可能幫就當成完成。</p>",
+      "id": "g6s2-english-10-s03"
+    },
+    {
+      "title": "討論主題：小不代表沒有能力",
+      "childText": "解讀要能指出故事證據。",
+      "html": "<p>可提出的主題是「不要只按大小低估別人」「善意與互助值得重視」。證據是獅子先懷疑老鼠能幫忙，後來老鼠確實咬斷繩索。本課將這些寫成讀者的解讀，不說所有讀者只能想到一個句子。你也可以注意獅子願意放走老鼠，說明一個選擇會在故事後面被重新理解。</p><p>但寓言不代表「幫助別人就保證得到回報」，更不代表被幫助的人必須接受所有要求。在真實生活中能力、意願與安全都有界線。We can offer help. We can also ask what help is wanted.（可以提議幫忙，也可以問對方需要什麼。）這是本課延伸討論的原創句，不是古代故事的逐字道德規條。</p>",
+      "id": "g6s2-english-10-s04"
+    },
+    {
+      "title": "完整生活對照：不是把獵網搬進教室",
+      "childText": "共通的是互助，不是照演危險動作。",
+      "html": "<div class=\"story\"><p>原創虛構情境：<br/>Tess: I can read the story, but I need help with the order of the pictures.<br/>Noel: I can check the order. Would you like my help?<br/>Tess: Yes, please.<br/>Noel: This picture comes after that one. Let’s check the text.<br/>Tess: You’re right. Thank you.<br/>Noel: Could you help me read this title later?<br/>Tess: I can help after our break.</p></div><p>order順序、break休息。兩人各有能做與需要支持的部分；Noel先詢問，Tess同意才合作。最後Tess只答應休息後幫讀標題，文本未寫那件事已完成。不能因Tess被幫過，就說她欠Noel任何時候都要幫的義務；這一點是生活界線，不由寓言保證。</p>",
+      "id": "g6s2-english-10-s05"
+    },
+    {
+      "title": "獨立轉用：新的請求與限制",
+      "childText": "看清楚明說的同意和能力。",
+      "html": "<p>新情境完整資料：Pia helped Ren find a word in a story. Later, Pia asked Ren to carry a heavy box. Ren said, “I can help with the labels, but I cannot carry this box. Let’s ask an adult.” Pia said, “OK. Please help me read the labels.” Ren read the two labels with Pia. 請指出已完成的兩項幫助、Ren提出的界線，以及一個與寓言相連而不強迫回報的想法。全程只讀文字，不搬任何箱子。</p><details><summary>完成後核對</summary><p>已完成：Pia幫Ren找字；Ren後來與Pia讀兩個標籤。界線：Ren不能搬這個重箱，可改幫標籤並提議找成人。可說People can help in different ways.，或「不要因對方曾接受幫助就要求做能力以外的事」。成人是否已來搬箱未寫，不能補成已完成。</p></details>",
+      "id": "g6s2-english-10-s06"
+    },
+    {
+      "title": "用來源、摘要、想法三格分享",
+      "childText": "知道哪句是故事，哪句是自己想到的。",
+      "html": "<p>第一格寫來源版本：Read.gov的The Lion & the Mouse，本頁為簡易改寫。第二格寫兩句情節摘要，包含獅子放走與老鼠救出；第三格寫一項有證據的主題和一個新情境的界線。可以用中文解釋再選本頁英文句，不要求以個人遭遇證明想法。</p><p>成人評量角色指代、順序、完成證據、來源與解讀區分。需要較多支持的孩子直接指三階段表；進階者比較寓言和新情境哪裡相似、哪裡不能照套。朗讀或角色說話由教師先核對全部自然英文模型，動作只限自願的桌上指卡。沒有使用原網站動畫、音訊或實物網繩，不把文本閱讀宣稱為那些媒體或救援能力的評量。</p>",
+      "id": "g6s2-english-10-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "Library of Congress｜The Lion & the Mouse",
+      "url": "https://read.gov/aesop/007",
+      "note": "2026-10-06直接核對英語全文中的獅子放走老鼠、後來受困獵網、老鼠咬斷繩索救出獅子的情節。本課重新以簡易英語寫完整縮寫版，不是逐字翻譯，也未使用或驗看原網頁動畫。"
+    },
+    {
+      "title": "Library of Congress｜About the Æsop for Children",
+      "url": "https://www.read.gov/aesop/about.html",
+      "note": "2026-10-06直接核對館方說明：所呈現版本改編自1919年The Aesop for Children，插圖者Milo Winter；寓言經不同語言、文化與媒介改編。本課不複製插圖、不把英文館藏版本說成故事起源於美國。"
+    },
+    {
+      "title": "British Council｜Conjunctions grammar reference PDF",
+      "url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/gs_conjunctions_0.pdf",
+      "note": "2026-10-06直接讀兩頁官方PDF，核對and、but、because、so的語意連接。課內比較與回應為原創。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "本課英文短文和來源的關係是？",
+      "options": [
+        "未提供任何真實故事依據",
+        "宣稱是唯一逐字古代原文",
+        "依核對版本作完整簡易改寫"
+      ],
+      "answer": 2,
+      "hint": "先看來源與版本說明。",
+      "explanation": "本課依國會圖書館收錄版本重寫簡易英文，保留核心情節，不冒充逐字原文或唯一版本。",
+      "id": "g6s2-english-10-q01"
+    },
+    {
+      "question": "獅子最初如何對待老鼠的請求？",
+      "options": [
+        "最後放走老鼠，但曾懷疑牠能幫忙",
+        "立刻被老鼠救出網",
+        "要求老鼠搬真實教室箱子"
+      ],
+      "answer": 0,
+      "hint": "讀第一段，不把後來事件提前。",
+      "explanation": "第一段獅子笑看老鼠能幫忙的想法，仍放走牠；受困與救出是在後來。",
+      "id": "g6s2-english-10-q02"
+    },
+    {
+      "question": "後來獅子因什麼受困？",
+      "options": [
+        "一本英文書",
+        "hunter’s net",
+        "閱讀角的時間表"
+      ],
+      "answer": 1,
+      "hint": "找第二段明說的物件。",
+      "explanation": "第二段寫獅子困在獵人的網裡，其他物件屬不同課堂情境而非這個故事。",
+      "id": "g6s2-english-10-q03"
+    },
+    {
+      "question": "哪項證據支持老鼠這次真的幫成功？",
+      "options": [
+        "因為老鼠比較小就必定成功",
+        "只因老鼠第一段說可能幫忙",
+        "繩索被咬斷，網開了，獅子自由了"
+      ],
+      "answer": 2,
+      "hint": "提議和實際結局要分清。",
+      "explanation": "故事明寫咬繩與獅子獲自由的結果，這些行動證據才支持幫助已完成。",
+      "id": "g6s2-english-10-q04"
+    },
+    {
+      "question": "哪個主題解讀有故事支持且不強迫回報？",
+      "options": [
+        "每次幫忙都保證將來獲利",
+        "不要只按大小低估別人的幫助能力",
+        "被幫過就要接受任何要求"
+      ],
+      "answer": 1,
+      "hint": "看故事實際顯示了什麼。",
+      "explanation": "小老鼠在特定情境能救獅子，支持不低估；故事不保證回報，更不能取消個人界線。",
+      "id": "g6s2-english-10-q05"
+    },
+    {
+      "question": "Tess答應休息後幫讀標題，文中是否已完成？",
+      "options": [
+        "未寫完成，只看到後來幫忙的答應",
+        "已取消，因沒有下一句",
+        "已完成，因一句答應就等於做過"
+      ],
+      "answer": 0,
+      "hint": "把承諾與完成記錄分開。",
+      "explanation": "Tess的回覆只安排稍後，文本沒有讀標題行動，不能判完成或自行捏造取消。",
+      "id": "g6s2-english-10-q06"
+    },
+    {
+      "question": "新情境Ren明說的界線是？",
+      "options": [
+        "不能搬這個重箱，可幫標籤並找成人",
+        "再也不能幫任何人",
+        "必須搬所有箱子才能回報"
+      ],
+      "answer": 0,
+      "hint": "界線要照原話的範圍理解。",
+      "explanation": "Ren只拒絕超出能力的搬箱，仍提供標籤協助；一項限制不等於不願互助。",
+      "id": "g6s2-english-10-q07"
+    },
+    {
+      "question": "新情境最後已完成哪件事？",
+      "options": [
+        "成人已來搬走箱子",
+        "Ren與Pia讀了兩個標籤",
+        "每個人都學會所有生字"
+      ],
+      "answer": 1,
+      "hint": "只選原文最後明寫的行動。",
+      "explanation": "末句明寫Ren read the two labels with Pia，沒有成人到場或所有字已學會的證據。",
+      "id": "g6s2-english-10-q08"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "id": "g6s1-english-08",
+  "course": "英語文",
+  "title": "句子語調與流暢朗讀",
+  "subtitle": "以句意分組、重點與語調讓讀者聽懂完整訊息",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "流暢朗讀不是越快越好。先弄懂誰在問、哪個資訊需要澄清，再由教師示範完整對話，讓停頓、重點和語調服務意思。",
+  "goals": [
+    "我能依意義把本課句子分成合適的語意組。",
+    "我能解釋語調常見模式只是情境中的起點。",
+    "我能用完整新對話準備朗讀，並依實際觀察修正清晰度。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>本課沒有音檔；所有語調與朗讀活動必須先由合格英語教師核對完整語境並自然示範。文中斜線和大寫重點是本課可調整的提示，不是聲學記錄，也不是唯一正確分法。先做理解題，再比較同一完整句在不同焦點下的自然說法；不能讓孩子憑符號發明所謂母語者聲音。接受可理解的標準變體、AAC或文字參與，不按腔調、音高範圍或速度排名。閱讀理解、語意分組、跟讀和獨立朗讀分項記錄。</p>",
+  "selfCheck": [
+    "我能依意義把本課句子分成合適的語意組。",
+    "我能解釋語調常見模式只是情境中的起點。",
+    "我能用完整新對話準備朗讀，並依實際觀察修正清晰度。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "先懂意思，再談聲音",
+      "childText": "這課需要完整自然示範。",
+      "html": "<p>語調是說話音高的移動，配合語意組、重點和語境幫助別人理解。朗讀流暢包含讀得準確、意思連貫、停頓合適，不是每分鐘越多字越好。本頁只提供準備用文字，沒有已驗聽音檔；真正的聲音比較與朗讀須由合格教師先示範完整句段。</p><p>本課標記約定：單斜線／代表可考慮的小語意邊界，雙斜線//代表較大的句段結束，大寫詞代表這一次情境要突出的資訊。這些不是每字停頓命令，也不能只看箭頭就學會語調。遇到太長一句，可先分成能理解的語意組，再回到自然連貫的整句。</p>",
+      "id": "g6s1-english-08-s01"
+    },
+    {
+      "title": "完整語境：The Missing Pencil Case",
+      "childText": "先確認誰需要什麼資訊。",
+      "html": "<div class=\"story\"><p>In a fictional classroom, Ana is looking for her pencil case. Ben can see two cases on a table.<br/>Ana: Can you see my pencil case?<br/>Ben: Is it blue?<br/>Ana: No. It is green, with a small star.<br/>Ben: Where did you put it?<br/>Ana: On the table by the window.<br/>Ben: Here it is. The green case with a star.<br/>Ana: Thank you. That is mine.</p></div><p>詞庫pencil case鉛筆盒、look for尋找、with帶有、window窗戶、mine我的。兩個盒子只是虛構文字情境，不需要把真實用品藏起來。Ana提供顏色、圖案、位置三種資訊；Ben先問顏色，再問位置，最後找到符合線索的盒子。沒有提供另一個盒子的主人，不能替它貼真實姓名。</p>",
+      "id": "g6s1-english-08-s02"
+    },
+    {
+      "title": "一起標語意：不要切斷一個意思",
+      "childText": "短句和片語可以保持完整。",
+      "html": "<p>準備稿：Can you see／my pencil case? // Is it BLUE? // No. // It is GREEN,／with a small STAR. // On the table／by the window. //。把my pencil case當一組，因為my說明整個pencil case；不要切成my／pencil／case再每字等長停頓。by the window是一組位置資訊，不把by獨立當一個意思。</p><p>成人先讀完整自然對話，再用準備稿指出可短停的位置，最後拿掉標記讀一次。其他自然分法也可能合適，重點是聽者能辨認整個名詞和位置。孩子可先在紙上用框標出「物件／顏色／位置」，不要直接把紙上框線當成精確音長或氣息指令。</p>",
+      "id": "g6s1-english-08-s03"
+    },
+    {
+      "title": "一起比較：語調和重點都要有情境",
+      "childText": "常見模式不等於每次必須相同。",
+      "html": "<p>British Council教學說明把一般資訊性的yes／no問句常見升調、陳述和一般wh問句常見降調當作入門起點。本課Ben真正在確認Is it blue?時，教師可示範自然的詢問語調；Where did you put it?是詢問位置，也要放回上下文。實際說法會受重述、驚訝、澄清與口音影響，不是看問號就全部上升。</p><p>焦點比較完整情境A：Ben以為藍色，Ana更正It is GREEN.，強調green。完整情境B：Ben以為只有一個無圖案綠盒，Ana說It is green, with a small STAR.，star成為新的辨識重點。教師示範兩段，孩子指出哪個資訊需要更正；紙上只能判斷預期焦點，不能證明已聽出實際音高或重音。</p>",
+      "id": "g6s1-english-08-s04"
+    },
+    {
+      "title": "修復：快、喊和單一腔調都不是目標",
+      "childText": "清楚傳意比模仿聲音外貌重要。",
+      "html": "<p>錯誤練習「每一個字都大聲用力」會讓關鍵資訊不突出。修復時先找這次需要區分的顏色或圖案，再讓教師自然示範，避免用喊叫代替重點。錯誤規則「所有問句都上升」忽略不同問題與語境；要回到說話者在詢問、確認還是更正。</p><p>另一個錯誤是看到一句It is green.就斷定說話者生氣。文字本身沒有給出聲音，更不能只靠一個音高變化猜定情緒或人格。想確認意思，可以問Do you mean the green case?。孩子說話較平、較慢或需要輔助時，仍可準確傳達內容；成人不以眼神、戲劇感或模仿某口音程度打分。</p>",
+      "id": "g6s1-english-08-s05"
+    },
+    {
+      "title": "獨立轉用：找對另一件物品",
+      "childText": "換情境後，關鍵詞也要換。",
+      "html": "<p>新對話全文：Jo: Is this your red notebook? Kim: No. My notebook is yellow. Jo: Is it on the chair? Kim: No. It is on the shelf beside the door. Jo: This yellow notebook? Kim: Yes. Thank you. 詞庫notebook筆記本、yellow黃色、chair椅子、shelf架子、beside旁邊、door門。請先寫Kim更正的兩項資訊，替兩個回答標出你打算突出的詞，再把最後的長位置片語分成合理語意組。</p><details><summary>完成後核對準備</summary><p>更正red為yellow、chair為shelf beside the door。可標My notebook is YELLOW.以及It is on the SHELF／beside the DOOR.，或保持on the shelf beside the door整組，依教師自然示範調整。這是朗讀準備參考；還要實際聽教師模型並朗讀，才能觀察聲音是否清楚，沒有唯一由文字決定的音高線。</p></details>",
+      "id": "g6s1-english-08-s06"
+    },
+    {
+      "title": "完成一次有證據的朗讀回饋",
+      "childText": "說出哪個訊息變清楚。",
+      "html": "<p>流程是先讀懂→聽完整示範→短段跟讀→回到完整對話→換新資料自主表達。回饋要具體，例如「我聽清楚你在更正yellow」「shelf和beside the door連起來後，我知道放在哪裡」，不用「你不像某國人」或「越快越好」。可只演一個回合、用指選完成或暫停聲音練習。</p><p>成人紀錄四項：理解的資訊、能否保留語意組、關鍵資訊是否可辨、是否依回饋修正。若孩子看著標記跟讀，記有支持；能在新稿自行表達才記獨立轉用。自動題只問原文位置、角色目的和朗讀概念，不聲稱評到了發音、語調或流暢度。沒有合適教師時，完成文字準備即可，留待有自然模型再做聲音觀察。</p>",
+      "id": "g6s1-english-08-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council TeachingEnglish｜Using intonation",
+      "url": "https://www.teachingenglish.org.uk/professional-development/teachers/knowing-subject/using-intonation",
+      "note": "2026-10-06直接核對作者Marta J. Sabbadini對語調、語意組、情境及常見問答語調的教學說明；來源明列規律是起點而非絕對法則。本課劇本與標記原創，未驗聽錄音。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Ana真正的鉛筆盒具有哪兩個特徵？",
+      "options": [
+        "green與small star",
+        "blue與small star",
+        "yellow與no picture"
+      ],
+      "answer": 0,
+      "hint": "讀Ana的更正與Ben的確認。",
+      "explanation": "Ana明說綠色且有小星星，Ben最後也重述green case with a star。",
+      "id": "g6s1-english-08-q01"
+    },
+    {
+      "question": "哪個分組較能保留完整名詞意思？",
+      "options": [
+        "pencil與case拆成兩件物品",
+        "my pencil case",
+        "my／pencil／case逐字等長停"
+      ],
+      "answer": 1,
+      "hint": "pencil case一起表示鉛筆盒。",
+      "explanation": "my修飾整個pencil case，保留語意組比較能讓聽者知道同一件物品。",
+      "id": "g6s1-english-08-q02"
+    },
+    {
+      "question": "本課對一般yes／no問句常見升調的說法是？",
+      "options": [
+        "每一句有問號就必須升調",
+        "可作入門起點，仍須看情境與模型",
+        "可以不聽模型只讀箭頭"
+      ],
+      "answer": 1,
+      "hint": "來源把常見模式視為起點。",
+      "explanation": "語調與語境、說話目的及變體相關，常見模式不是不變規則，須有自然示範。",
+      "id": "g6s1-english-08-q03"
+    },
+    {
+      "question": "Ben猜藍色，Ana更正It is GREEN.時的焦點是？",
+      "options": [
+        "另一個盒子的價格",
+        "角色姓名Ana",
+        "顏色green"
+      ],
+      "answer": 2,
+      "hint": "找出與原猜測不同的資訊。",
+      "explanation": "需要更正blue為green，所以green是這一次有辨識作用的新資訊。",
+      "id": "g6s1-english-08-q04"
+    },
+    {
+      "question": "只看It is green.的文字，可以斷定Ana生氣嗎？",
+      "options": [
+        "能，句號一定代表不高興",
+        "能，green一定代表生氣",
+        "不能，文字沒有提供足以判斷的聲音與情境"
+      ],
+      "answer": 2,
+      "hint": "避免把字面當成情緒錄音。",
+      "explanation": "同一句可在不同情境自然說出，文字不足以確定情緒，更不能猜人格。",
+      "id": "g6s1-english-08-q05"
+    },
+    {
+      "question": "新對話Kim更正的顏色是？",
+      "options": [
+        "yellow",
+        "red",
+        "blue"
+      ],
+      "answer": 0,
+      "hint": "不要沿用原故事的green。",
+      "explanation": "新對話明說My notebook is yellow；red是Jo最初的猜測。",
+      "id": "g6s1-english-08-q06"
+    },
+    {
+      "question": "新對話筆記本最後確認在哪裡？",
+      "options": [
+        "on the table by the window",
+        "on the shelf beside the door",
+        "on the chair"
+      ],
+      "answer": 1,
+      "hint": "將新對話的位置回答讀完整。",
+      "explanation": "Kim更正椅子為門旁架子，原故事窗邊桌子不適用於新情境。",
+      "id": "g6s1-english-08-q07"
+    },
+    {
+      "question": "哪項能作為真正朗讀表現的證據？",
+      "options": [
+        "教師實際聽到完整朗讀並記錄支持條件",
+        "紙上有箭頭就代表已發音",
+        "選擇題全對就代表語調自然"
+      ],
+      "answer": 0,
+      "hint": "聲音表現須實際觀察。",
+      "explanation": "文字答題只能提供理解證據；自然模型後的實際朗讀及具體紀錄才支持口語評量。",
+      "id": "g6s1-english-08-q08"
+    }
+  ]
+}

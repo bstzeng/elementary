@@ -1,0 +1,183 @@
+{
+  "id": "g6s1-english-09",
+  "course": "英語文",
+  "title": "短文重點與資訊整合",
+  "subtitle": "用主旨、細節與補充公告完成一份可靠摘要",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "一段短文可能告訴你活動目的，另一張公告才寫本週地點。學會將兩份資料放在一起，保留不變的重點並更新真正改動的部分。",
+  "goals": [
+    "我能用一句話說出短文主要內容。",
+    "我能把短文和公告的相同、補充及變更資訊分開。",
+    "我能寫有資料根據的摘要，保留未提供的細節。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>先讓孩子只讀原短文寫出初步摘要，再加入補充公告，觀察是否只更新有關欄位。地點變更不代表目的、日期、開始時間全變。支持層先圈who、what、when、where四項；進階層區分主要內容與支持細節，並在摘要中標出依據段號。不要把短文的人數或偏好推成全校情況。所有資料都是原創閱讀材料，不實際招募、交換物品或公布孩子資料；成人分項評主旨、跨文整合、指代及未知保留。</p>",
+  "selfCheck": [
+    "我能用一句話說出短文主要內容。",
+    "我能把短文和公告的相同、補充及變更資訊分開。",
+    "我能寫有資料根據的摘要，保留未提供的細節。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "讀兩份資料，先建立問題",
+      "childText": "主旨回答整篇大致在說什麼。",
+      "html": "<p>主旨不是隨便抄第一句，也不是選自己最喜歡的細節。先問「誰做什麼、為了什麼」，再找多個句子是否一起支持這個答案。細節如時間、地點、材料能幫助理解或參加活動，但其中一項不一定能代表整篇內容。</p><p>本課使用兩份完整原創材料：短文A說明班級Book Corner閱讀角；公告B補充本週地點。閱讀時把「平常安排」「本週變更」分欄。詞庫corner角落、choose選擇、book review書評、quiet安靜的、this week本週、instead代替原安排、same相同的。資料沒提的項目先留問號，不能靠自己的經驗補成確定事實。</p>",
+      "id": "g6s1-english-09-s01"
+    },
+    {
+      "title": "完整短文A：A Place to Share Books",
+      "childText": "先讀目的，再找支持它的活動。",
+      "html": "<div class=\"story\"><p>① Our fictional class has a Book Corner every Wednesday. It is a place to share ideas about books. Students can read a short review and choose a book to read later. They do not have to bring a book from home.</p><p>② The Book Corner is usually in Room B, from two to two thirty in the afternoon. There are twelve short reviews on the table. Each review has a title, one sentence about the book and a reason to read it. The teacher brings the display materials.</p><p>③ Some students like adventure stories. Others like stories about animals. They can read quietly or talk with a partner. They ask before taking a review card. At the end, they put the cards back on the table.</p></div><p>補充：fictional虛構的、review card書評卡、reason理由、adventure冒險、others其他一些人、partner同伴。這是本課紙上班級；十二張是書評，不保證代表十二本不同書或十二名學生。</p>",
+      "id": "g6s1-english-09-s02"
+    },
+    {
+      "title": "完整公告B：只改本週的地點",
+      "childText": "新的資訊可能只修改一小部分。",
+      "html": "<div class=\"story\"><p>BOOK CORNER — THIS WEDNESDAY<br/>Room B is being painted. Please use Room D this week.<br/>The time is still 2:00–2:30 p.m.<br/>Read the reviews and share your ideas as usual.<br/>Please leave all review cards in Room D after the activity.<br/>This notice is for the fictional class in Text A.</p></div><p>is being painted正在粉刷、still仍然、as usual照常、leave留在。不要進行粉刷、搬運或去查看真實教室；只讀公告。B說明本週Room B不使用，改Room D；時間仍相同，活動仍讀書評與分享。公告沒有給出油漆何時乾、下週是否回B，不能自行補出復原日期。</p>",
+      "id": "g6s1-english-09-s03"
+    },
+    {
+      "title": "一起示範：用四欄做交叉核對",
+      "childText": "先列原資訊，再標更新範圍。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"原短文與公告對照\" tabindex=\"0\"><table><caption>摘要要同時保留兩份資料中的適用資訊。</caption><thead><tr><th>項目</th><th>A平常安排</th><th>B本週補充</th><th>本週結論</th></tr></thead><tbody><tr><td>目的</td><td>分享閱讀想法</td><td>as usual</td><td>目的不變</td></tr><tr><td>地點</td><td>Room B</td><td>use Room D this week</td><td>Room D</td></tr><tr><td>時段</td><td>14:00–14:30</td><td>still 2:00–2:30 p.m.</td><td>同樣半小時</td></tr><tr><td>卡片去向</td><td>放回桌上</td><td>留在Room D</td><td>本週留在D</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>示範摘要：This Wednesday, the Book Corner is in Room D from two to two thirty p.m. Students read reviews and share ideas about books. They leave the review cards in Room D. 第一個句子整合時間與地點；第二句保留主旨；第三句保留本週材料去向。沒有把粉刷寫成主旨，因為那只是地點變更的原因。</p>",
+      "id": "g6s1-english-09-s04"
+    },
+    {
+      "title": "修復：關鍵字不能代替整句意思",
+      "childText": "一個數字不一定是你以為的對象。",
+      "html": "<p>錯誤摘要「本課教大家粉刷教室」只抓B中的painted，忽略A三段都圍繞閱讀與書評。錯誤「本週活動取消」與B的use Room D、same time相反。錯誤「十二位學生參加」把twelve reviews換成twelve students；原文沒給人數。相同題材不代表資料可以任意互換。</p><p>第③段They can read quietly…中的They指前面談到的學生，不是故事裡的動物。Some…Others…說不同一些學生偏好，不能推出所有人都只選兩種故事。摘要可以省略例子，但不可改動條件；若要知道要帶什麼，A已明說不必自帶書，教師提供展示材料，無須要求孩子帶真實財物。</p>",
+      "id": "g6s1-english-09-s05"
+    },
+    {
+      "title": "獨立轉用：下一份更新",
+      "childText": "時間和地點可能只改其中一個。",
+      "html": "<p>新公告C完整內容：NEXT WEDNESDAY: Use Room D again. The Book Corner starts at 2:15 p.m. and ends at 2:45 p.m. Read reviews and share ideas as usual. Leave the cards in Room D. 這一回以C處理下星期三，不再用B的本週時間。請寫兩句下週摘要、指出與本週不同的一項資料，再列一個仍然不知道的問題。</p><details><summary>完成後核對</summary><p>Next Wednesday, the Book Corner is in Room D from two fifteen to two forty-five p.m. Students read reviews and share ideas about books.。時間整段晚15分鐘，但時長仍30分鐘；地點與本週同為D。未知問題可為How many students will come?或When will Room B be ready?，資料都未回答。不能沿用2:00開始，也不能宣稱Room B已可用。</p></details>",
+      "id": "g6s1-english-09-s06"
+    },
+    {
+      "title": "摘要只留下必要且可靠的內容",
+      "childText": "每一句都能回到來源查核。",
+      "html": "<p>把自己摘要中的人物、活動、時間、地點各畫一種記號，寫出來自A的哪一段或B／C哪一行。再問「刪掉這句，主要意思還在嗎？」例如冒險故事可作細節而省略；若刪掉本週Room D，讀者可能去錯模型位置，這是本次任務的重要資料。主旨和實用細節可以在同一摘要中各有用途。</p><p>成人先提供四欄表，支持孩子逐格核對；進階者自行判斷哪些舊資訊仍適用。評量一方面看能否用英文連起句子，一方面看來源判斷。可以先中文摘要再逐句翻成已有句框，不以陌生文法遮住已掌握的閱讀推理。聽讀活動若使用教師朗讀，註明是否同時看全文，避免把閱讀整合誤記成無文字聽力。</p>",
+      "id": "g6s1-english-09-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對規律活動、第三人稱動詞與do／does肯否定問答說明。課內角色、句子與資料均為原創；本頁不是來源錄音的轉錄。"
+    },
+    {
+      "title": "British Council｜Prepositions of time",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-time",
+      "note": "2026-10-06直接核對on加星期、at加時刻、in加一天的時段等文字說明。只作語法依據，未播放或驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "短文A的主要內容是？",
+      "options": [
+        "教學生粉刷Room B",
+        "介紹十二名學生的地址",
+        "班級透過Book Corner分享閱讀想法"
+      ],
+      "answer": 2,
+      "hint": "看三段共同圍繞的活動和目的。",
+      "explanation": "三段都說閱讀角、書評與分享，粉刷只在補充公告解釋地點變更。",
+      "id": "g6s1-english-09-q01"
+    },
+    {
+      "question": "依A與B，本週活動在哪裡？",
+      "options": [
+        "Room B",
+        "Room D",
+        "沒有任何地點"
+      ],
+      "answer": 1,
+      "hint": "B只更新本週地點。",
+      "explanation": "A的B教室是通常安排，本週公告明說改用Room D。",
+      "id": "g6s1-english-09-q02"
+    },
+    {
+      "question": "B是否改動本週時段？",
+      "options": [
+        "有，改成2:15–2:45 p.m.",
+        "沒有，仍是2:00–2:30 p.m.",
+        "有，取消整個活動"
+      ],
+      "answer": 1,
+      "hint": "找still後面的時間。",
+      "explanation": "B明寫still 2:00–2:30 p.m.；2:15到2:45是後來C的下週資料。",
+      "id": "g6s1-english-09-q03"
+    },
+    {
+      "question": "twelve short reviews表示？",
+      "options": [
+        "十二份短書評",
+        "十二名學生",
+        "十二本一定不同的書"
+      ],
+      "answer": 0,
+      "hint": "數字修飾的是reviews。",
+      "explanation": "原文只數書評，沒有參加人數或每份是否不同書的完整資料。",
+      "id": "g6s1-english-09-q04"
+    },
+    {
+      "question": "第③段They can read quietly的They指？",
+      "options": [
+        "故事中的動物",
+        "書評卡",
+        "學生"
+      ],
+      "answer": 2,
+      "hint": "往前追同一段正在描述的人。",
+      "explanation": "前面Some students與Others都指學生，因此They承接這些閱讀角參與者。",
+      "id": "g6s1-english-09-q05"
+    },
+    {
+      "question": "下週C和本週B比較，哪項改變？",
+      "options": [
+        "開始與結束時刻各晚15分鐘",
+        "地點從D回B",
+        "時長多了15分鐘"
+      ],
+      "answer": 0,
+      "hint": "分別比較起點、終點和地點。",
+      "explanation": "C是2:15–2:45，比B整段晚15分鐘，兩者仍都30分鐘且都在Room D。",
+      "id": "g6s1-english-09-q06"
+    },
+    {
+      "question": "哪個問題仍缺資料？",
+      "options": [
+        "下週在哪個教室？",
+        "下週共有幾名學生參加？",
+        "下週幾點開始？"
+      ],
+      "answer": 1,
+      "hint": "公告沒有提供人數欄。",
+      "explanation": "C給了教室和起訖時刻，卻未說參與人數，不能拿十二份書評當人數。",
+      "id": "g6s1-english-09-q07"
+    },
+    {
+      "question": "學生是否必須自帶一本書？",
+      "options": [
+        "不用，A已說不必自帶",
+        "只有讀動物故事的人要帶",
+        "必須，每人十二本"
+      ],
+      "answer": 0,
+      "hint": "查A第①段do not have to。",
+      "explanation": "A明寫Students do not have to bring a book from home，資料不支持額外帶書要求。",
+      "id": "g6s1-english-09-q08"
+    }
+  ]
+}

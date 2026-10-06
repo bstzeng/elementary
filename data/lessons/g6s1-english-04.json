@@ -1,0 +1,183 @@
+{
+  "id": "g6s1-english-04",
+  "course": "英語文",
+  "title": "日常作息與時間",
+  "subtitle": "把時間、日常活動與先後放進同一段說明",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "六點半起床和讀書半小時不是同一種時間。本課比較兩份完整作息，練習問時刻、說習慣，以及依條件修改一份紙上安排。",
+  "goals": [
+    "我能讀懂本課數位時間並用at說活動時刻。",
+    "我能用What time do／does…?問答日常作息。",
+    "我能分清開始時刻與持續時間，依新資料改寫一段作息。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>先以數位時間配對活動，再轉英文；不要求公開孩子睡眠、飲食或家庭安排，也不把虛構作息當成健康處方。評量分開時間辨認、現在簡單式、人稱及順序推理。需要較多支持的孩子先用six thirty等數字讀法，再介紹half past six；進階者比較兩段時距且保留a.m.／p.m.。兩個時刻的差只支持提供時段的長度，未給結束時間就不能自創持續分鐘。口語時鐘讀法由教師提供全句自然模型。</p>",
+  "selfCheck": [
+    "我能讀懂本課數位時間並用at說活動時刻。",
+    "我能用What time do／does…?問答日常作息。",
+    "我能分清開始時刻與持續時間，依新資料改寫一段作息。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "時間有兩種問題",
+      "childText": "What time問時刻，how long問多久。",
+      "html": "<p>日常活動詞庫：get up起床、have breakfast吃早餐、start class開始上課、read讀書、have dinner吃晚餐、go to bed上床。What time do you get up?可答I get up at six thirty.。數位06:30在本頁是上午六點三十分，也可說half past six；18:30是下午六點三十分，six thirty p.m.。只寫six thirty若沒有語境可能不夠清楚。</p><p>06:45可讀six forty-five，也可讀a quarter to seven；07:15可讀seven fifteen或a quarter past seven。quarter是一刻鐘15分鐘。這些是同一時刻的不同說法；half past six不是六點零五。先把數字與意思配對，聲音由教師完整示範，不用中文諧音代替。</p>",
+      "id": "g6s1-english-04-s01"
+    },
+    {
+      "title": "完整作息卡：兩個虛構角色",
+      "childText": "這只是讀寫資料，不是人人都應照做。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構平日作息\" tabindex=\"0\"><table><caption>表內全部數字採24小時制；英文數字回答改用12小時制，並依需要加a.m.或p.m.。</caption><thead><tr><th>活動</th><th>Tina</th><th>Omar</th></tr></thead><tbody><tr><td>get up</td><td>06:30</td><td>06:45</td></tr><tr><td>have breakfast</td><td>07:00</td><td>07:15</td></tr><tr><td>start class</td><td>08:00</td><td>08:00</td></tr><tr><td>read</td><td>16:00–16:20</td><td>16:30–17:00</td></tr><tr><td>have dinner</td><td>18:30</td><td>18:00</td></tr><tr><td>go to bed</td><td>21:00</td><td>21:15</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>英文下午時刻要轉成Tina has dinner at six thirty p.m.；不用eighteen thirty p.m.。Omar reads from four thirty to five p.m.。Tina的閱讀已給起訖16:00–16:20，所以可算20分鐘；早餐只給開始時刻，不能由這張表知道吃多久。表格描述虛構平日，沒有說週末相同。</p>",
+      "id": "g6s1-english-04-s02"
+    },
+    {
+      "title": "完整問答：確認問的是哪一人",
+      "childText": "短答要接回問題主語。",
+      "html": "<div class=\"story\"><p>Host: What time do you get up, Tina?<br/>Tina: I get up at six thirty in the morning.<br/>Host: What time does Omar get up?<br/>Tina: He gets up at six forty-five.<br/>Host: Does he start class at seven?<br/>Tina: No, he doesn’t. He starts class at eight.<br/>Host: Do you read at the same time?<br/>Tina: No, we don’t. I read at four. He reads at four thirty.</p></div><p>host主持人、same相同的。對話已明示日常早晨起床與下午閱讀，four在最後兩句指下午。若脫離這段對話寫給別人看，應補in the afternoon或p.m.，避免把下午閱讀誤會成清晨。教師示範時完整讀問答，不只唸孤立數字。</p>",
+      "id": "g6s1-english-04-s03"
+    },
+    {
+      "title": "一起改寫：從I到she",
+      "childText": "動詞和主語一起換。",
+      "html": "<p>示範草句I get up at six thirty.改成Tina gets up at six thirty.；I have breakfast at seven.改成She has breakfast at seven.。have的第三人稱是has，不是haves。問What time does Tina have breakfast?，does後回到have；答She has breakfast at seven.。否定句She doesn’t have breakfast at six.同樣保留have原形。</p><p>成人先讓孩子在卡片找到人物和活動，再選完整句框。示範合併：Tina gets up at six thirty. Then she has breakfast at seven. She starts class at eight.。Then表示接著敘述下一個已提供的活動，不表示起床到早餐之間什麼都沒做。若要說閱讀多久，用She reads for twenty minutes.，for後是持續時間，不是某個鐘點。</p>",
+      "id": "g6s1-english-04-s04"
+    },
+    {
+      "title": "核對時間的證據邊界",
+      "childText": "上床時刻不等於已睡著。",
+      "html": "<p>從06:30到06:45相差15分鐘，所以Tina的表定起床時刻比Omar早15分鐘。不能因此說她比較認真或比較健康，角色背景和實際睡眠都沒有提供。go to bed表示上床，不等於fall asleep已睡著；不能用上床時刻直接算實際睡眠長度。本課只練英語讀表，不提供健康診斷或作息處方。</p><p>錯句He have dinner at six.修成He has dinner at six.。錯句What time does she gets up?修成What time does she get up?。錯誤推論「Omar早餐15分鐘」把07:15讀成持續時間；它是早餐的開始時刻，沒有結束欄就保留未知。</p>",
+      "id": "g6s1-english-04-s05"
+    },
+    {
+      "title": "獨立轉用：閱讀時段變了",
+      "childText": "只改有新證據的活動。",
+      "html": "<p>新資料：Tina今天的閱讀改為16:10–16:35，其他卡片活動保持原來時刻。Omar今天閱讀仍為16:30–17:00。請寫一句Tina今天何時開始讀、何時結束讀，算出提供的閱讀時段有幾分鐘，並回答兩人的閱讀是否有重疊。詞庫today今天、finishes結束、from…to…從……到……。不用猜讀了幾頁或誰更專心。</p><details><summary>完成後核對</summary><p>Today, Tina reads from four ten to four thirty-five p.m. 或She starts reading at four ten and finishes at four thirty-five p.m.。35－10＝25分鐘。Tina到16:35，Omar從16:30開始，因此16:30–16:35重疊5分鐘；不是整段都同時。其餘早餐與上床時刻沒有新變動，不能自行更改。</p></details>",
+      "id": "g6s1-english-04-s06"
+    },
+    {
+      "title": "完成一段可被核對的作息",
+      "childText": "時刻、時段與人稱逐項檢查。",
+      "html": "<p>用原卡選Omar，寫三句包含起床、早餐與閱讀。參考Omar gets up at six forty-five in the morning. He has breakfast at seven fifteen. He reads from four thirty to five p.m.。在每句的動詞下畫線，再把其中一句改成What time does…?問句。時間讀法可用數字式，不必強迫使用quarter；重點是對方理解的時間相同。</p><p>成人先讓孩子指表回答，再逐漸遮住句框；進階者另寫一題「資料不夠」的問題並指出缺的欄位。評量記錄讀表、正確時間表達、人稱變化和合理推論。孩子若用中文算對時間而英文仍要提示，應保留兩項不同結果。真正聽力須由合格教師讀完整新句，並記錄是否有文字、時鐘圖或重讀協助。</p>",
+      "id": "g6s1-english-04-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對規律活動、第三人稱動詞與do／does肯否定問答說明。課內角色、句子與資料均為原創；本頁不是來源錄音的轉錄。"
+    },
+    {
+      "title": "British Council｜Prepositions of time",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/prepositions-time",
+      "note": "2026-10-06直接核對on加星期、at加時刻、in加一天的時段等文字說明。只作語法依據，未播放或驗聽音訊。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Tina原卡何時起床？",
+      "options": [
+        "at six thirty in the evening",
+        "at six thirty in the morning",
+        "at six forty-five in the morning"
+      ],
+      "answer": 1,
+      "hint": "讀Tina與get up交會的資料。",
+      "explanation": "Tina起床是06:30，屬於早晨；06:45是Omar的資料，不能混用。",
+      "id": "g6s1-english-04-q01"
+    },
+    {
+      "question": "a quarter to seven在本課表示？",
+      "options": [
+        "06:45",
+        "07:15",
+        "06:15"
+      ],
+      "answer": 0,
+      "hint": "to表示距離下一整點還差一刻。",
+      "explanation": "離七點還有15分鐘就是六點四十五分，不是七點後15分鐘。",
+      "id": "g6s1-english-04-q02"
+    },
+    {
+      "question": "哪句問早餐時刻的語法正確？",
+      "options": [
+        "What time does Tina has breakfast?",
+        "What time does Tina have breakfast?",
+        "What time do Tina has breakfast?"
+      ],
+      "answer": 1,
+      "hint": "does後的have保留原形。",
+      "explanation": "Tina為第三人稱單數，問句使用does，主要動詞則用have。",
+      "id": "g6s1-english-04-q03"
+    },
+    {
+      "question": "Tina原本閱讀時段有多長？",
+      "options": [
+        "20分鐘",
+        "30分鐘",
+        "4分鐘"
+      ],
+      "answer": 0,
+      "hint": "原卡是16:00到16:20。",
+      "explanation": "有起點與終點，16:20減16:00得到20分鐘；16不是分鐘長度。",
+      "id": "g6s1-english-04-q04"
+    },
+    {
+      "question": "只憑07:15的早餐欄，能知道Omar吃多久嗎？",
+      "options": [
+        "能，一定15分鐘",
+        "能，一定75分鐘",
+        "不能，缺少早餐結束時間"
+      ],
+      "answer": 2,
+      "hint": "先分清時刻和持續時間。",
+      "explanation": "07:15只是開始時刻，沒有結束或持續長度，所以不能計算早餐花多久。",
+      "id": "g6s1-english-04-q05"
+    },
+    {
+      "question": "新資料Tina今天閱讀多久？",
+      "options": [
+        "25分鐘",
+        "35分鐘",
+        "20分鐘"
+      ],
+      "answer": 0,
+      "hint": "用新起訖16:10和16:35計算。",
+      "explanation": "35減10等於25，應用新資料，不能沿用原卡20分鐘或只取結束數字。",
+      "id": "g6s1-english-04-q06"
+    },
+    {
+      "question": "新資料兩人的閱讀重疊時段是？",
+      "options": [
+        "16:10–16:30",
+        "16:35–17:00",
+        "16:30–16:35"
+      ],
+      "answer": 2,
+      "hint": "共同時段要同時落在兩人的起訖內。",
+      "explanation": "Tina在16:35結束而Omar在16:30開始，只有中間五分鐘兩人都在閱讀。",
+      "id": "g6s1-english-04-q07"
+    },
+    {
+      "question": "go to bed欄可以直接當成已睡著的時刻嗎？",
+      "options": [
+        "可以，只要表格用英文",
+        "不可以，上床不等於入睡",
+        "可以，兩個動作意思完全相同"
+      ],
+      "answer": 1,
+      "hint": "讀本課對上床與睡眠的區分。",
+      "explanation": "表格只給上床時間，沒有實際入睡記錄，不能直接推算睡了多久。",
+      "id": "g6s1-english-04-q08"
+    }
+  ]
+}

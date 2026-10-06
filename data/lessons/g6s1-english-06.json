@@ -1,0 +1,183 @@
+{
+  "id": "g6s1-english-06",
+  "course": "英語文",
+  "title": "r控制母音的拼讀",
+  "subtitle": "先整組辨認ar、or、er、ir、ur，再在完整詞句中核對",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "r前面的母音不宜只套用短母音規則。本課用已核對的拼讀分組整理字形、意思與詞句；真正聽讀須有合格教師提供完整自然模型。",
+  "goals": [
+    "我能在指定單字中找出母音加r的字母組。",
+    "我能分開字母拼法與本課美式模型的讀音分組。",
+    "我能用詞義和字形核對新句，並知道紙面作答不能代替發音表現。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>本課以UFLI美國版本的r控制音組作拼讀參考，真正發音採教師核對的通用美式rhotic模型。ar、or、er是教學標籤，不是本頁提供的IPA或錄音。BBC資料指出北美與蘇格蘭、愛爾蘭等有rhotic口音，許多英國口音則為non-rhotic；不要把「英國」說成單一無r口音。先示範完整詞及句子，再逐步合讀，避免在子音間添多餘母音。教師若不熟悉指定模型，保留發音教學，改先進行字形、詞義與閱讀任務。拼寫分類正確不等於已聽辨或說準。</p>",
+  "selfCheck": [
+    "我能在指定單字中找出母音加r的字母組。",
+    "我能分開字母拼法與本課美式模型的讀音分組。",
+    "我能用詞義和字形核對新句，並知道紙面作答不能代替發音表現。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "讀前先確認聲音模型",
+      "childText": "這頁的拼字不是錄音。",
+      "html": "<p>本課需要合格英語教師先自然示範下列完整詞與後面的完整短文，才進行拼讀、聽辨與朗讀。使用通用美式、保留r音色的rhotic模型，參照UFLI美國版教學分組。若暫時沒有示範者，可以完成圈字母、配詞義和讀文找資訊，聲音部分保留待教。</p><p>r-controlled vowels是教學上對某些母音後接r型態的稱呼。觀察card中的ar、fork中的or、fern中的er、bird中的ir、curl中的ur。不要把它們自動拆成短母音再加字母名稱R；字母名稱不是詞中的聲音。英語不同口音對r的實現可能不同，因此本文的分組說明限定於指定模型，不以是否模仿單一腔調評價一個人。</p>",
+      "id": "g6s1-english-06-s01"
+    },
+    {
+      "title": "完整詞卡：拼法與意思一起看",
+      "childText": "聲音相近的字，拼法仍可能不同。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"r控制母音詞卡\" tabindex=\"0\"><table><caption>例詞字形以UFLI77、78、80、81課公開文字核對；詞卡與情境為本課原創。</caption><thead><tr><th>本課字形組</th><th>完整詞</th><th>中文詞義</th></tr></thead><tbody><tr><td>ar</td><td>card; star</td><td>卡片；星星</td></tr><tr><td>or</td><td>fork; storm</td><td>叉子；暴風雨</td></tr><tr><td>er</td><td>fern</td><td>蕨類植物</td></tr><tr><td>ir</td><td>bird; shirt</td><td>鳥；襯衫</td></tr><tr><td>ur</td><td>curl</td><td>捲曲</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>在本課模型中，fern、bird、curl的重讀母音部分可歸在同一個er類，但完整單字的開頭和結尾並不相同。相同類不代表同義字，更不表示可任意把bird拼成berd。ar和or另分兩組；先認字母組合，再聽教師將整個詞自然讀出，不自行用中文諧音硬配。</p>",
+      "id": "g6s1-english-06-s02"
+    },
+    {
+      "title": "完整短文：The Picture Cards",
+      "childText": "先懂故事，再找目標字形。",
+      "html": "<div class=\"story\"><p>Rita has eight picture cards on her desk. One card shows a star. Another card shows a fork. There are cards for a storm, a fern, a bird, a shirt and a curl. The last card shows a barn.<br/>“I will sort the cards by their words,” Rita says. She puts star and barn in the ar group. She puts fork and storm in the or group. She keeps fern, bird, shirt and curl in three spelling groups: er, ir and ur. Then she checks every label.</p></div><p>補充詞：desk桌子、another另一張、last最後的、barn穀倉、sort分類、spelling拼寫、label標籤。八張卡畫的內容已用文字完整列出，不需要另找圖片。這段按「卡片內容的英文詞」分類，不把反覆出現的card一詞當成第九張圖。Rita分三種拼法，不表示er、ir、ur一定是三種不同的母音。</p>",
+      "id": "g6s1-english-06-s03"
+    },
+    {
+      "title": "一起示範：字母塊再合回完整詞",
+      "childText": "分塊是提醒，不是額外音節。",
+      "html": "<p>以card示範：先找整組ar，留下c與d；教師先讀完整card，再以自然可合回的聲音帶讀，最後放進This is a card.。紙上可寫c｜ar｜d，直線只是視覺分組，不能把card讀成三個字母名稱或三個中文音節。換成star時保留st這一開頭組合，不能漏掉t。</p><p>若使用文字卡，成人先將star、barn、fork、storm、fern、bird、shirt、curl各寫在一張普通大紙上，共八張，不需剪卡；也可直接指本頁詞語，或在紙上畫五欄寫入。先按ar／or／er／ir／ur五種拼法分類；第二輪由教師提供已核對模型，孩子比較fern、bird、curl目標母音是否同類。教師說出哪輪在查字形、哪輪才在聽聲音，記錄孩子有沒有看詞卡、重聽或跟讀。</p>",
+      "id": "g6s1-english-06-s04"
+    },
+    {
+      "title": "修復：r不控制所有你猜到的讀法",
+      "childText": "規律有範圍，不能只看到字母就下結論。",
+      "html": "<p>錯誤做法「er、ir、ur拼法不同，所以母音必定不同」忽略本課模型把fern、bird、curl歸同類。另一個錯誤「聽起來同類，所以可互換拼法」也不對：shirt仍寫ir、curl仍寫ur，須在完整單字中記住。拼法分類與聲音分類是兩份紀錄。</p><p>不同標準口音可以有不同r的發音條件。BBC文字說明某些北美、蘇格蘭與愛爾蘭口音屬rhotic，許多英國口音屬non-rhotic；後者在某些位置不讀出r，不能因此判為漏字。這裡不要求孩子自行模仿所有變體，也不從國籍推測個人口音。遇到未教的新詞，先查合適詞典或請教師核對，別把本課有限例詞推成全部英語的絕對規則。</p>",
+      "id": "g6s1-english-06-s05"
+    },
+    {
+      "title": "獨立轉用：新詞也要同時查意思",
+      "childText": "先做文字任務，再安排真人拼讀。",
+      "html": "<p>新詞完整卡：part部分、sort分類、dirt泥土、surf衝浪。本課只是讀文字，不實際接觸泥土或下水。請把四詞分到ar／or／ir／ur，並填句：① This is one ___ of the story. ② We ___ the cards into groups. ③ There is ___ on the shoe. ④ The poster has the word “___”. 句意依序為故事的一部分、把卡分類、鞋上的泥土、海報上寫「衝浪」。</p><details><summary>完成後核對</summary><p>ar: part；or: sort；ir: dirt；ur: surf。填句依序part、sort、dirt、surf。字形可直接查卡，詞義由整句決定。若要讀新詞，教師須先核對四個完整詞及句子後示範；完成這張表只能記字形與語意轉用，不足以宣稱會聽辨或發出指定音。</p></details>",
+      "id": "g6s1-english-06-s06"
+    },
+    {
+      "title": "保留兩張不同的學習紀錄",
+      "childText": "拼讀能力需要聲音證據。",
+      "html": "<p>第一張「文字紀錄」列八個目標詞、圈出的字母組和中文詞義，回看原短文找出Rita怎麼分類。第二張「教師觀察」在實際示範後記錄能否聽到整詞、合讀、放回句子，以及哪個位置需要支持。未進行的項目寫尚未觀察，不把紙面答對填進聲音欄。</p><p>需要較多支持的孩子先比card與fork兩組，再加入其他；進階者說明為何同一聲音分組可有多種拼法，並用新詞完成兩句。成人不要求反覆到不舒服，也不評嘴形外觀或追求單一腔調。先確保詞義、可理解度及願意自我修正，再逐步增加流暢度；課本式記號僅作輔助，完整自然模型不可省略。</p>",
+      "id": "g6s1-english-06-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜R-Controlled Vowels",
+      "url": "https://ufli.education.ufl.edu/foundations/toolbox/77-83/",
+      "note": "2026-10-06直接核對ar／or／er類的教學分組，以及er、ir、ur在該美式教學模型中的歸類；另讀77、78、80、81 Home Practice的一頁PDF文字核對所用拼字與例詞。來源音標式記號是其教學記法，本課不冒充IPA，也未驗聽音訊。"
+    },
+    {
+      "title": "BBC Learning English｜British and American /r/ worksheet",
+      "url": "https://downloads.bbc.co.uk/learningenglish/features/the_pronunciation_lounge/pron_lounge_episode_2_worksheet_.pdf",
+      "note": "2026-10-06直接讀PDF第1頁文字，核對rhotic與non-rhotic差異及北美、蘇格蘭、愛爾蘭與部分英國口音的說明。未觀看或驗聽所連影片，不宣稱任何兒童已會發音。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "card中的目標字母組是？",
+      "options": [
+        "ar",
+        "ir",
+        "or"
+      ],
+      "answer": 0,
+      "hint": "找母音字母後緊接的r。",
+      "explanation": "card寫作c-a-r-d，目標字母組為ar，不能依別的詞把a換成o或i。",
+      "id": "g6s1-english-06-q01"
+    },
+    {
+      "question": "哪兩個詞按字形都進or組？",
+      "options": [
+        "star、curl",
+        "fern、bird",
+        "fork、storm"
+      ],
+      "answer": 2,
+      "hint": "逐字找出連在一起的o和r。",
+      "explanation": "fork和storm都含or；其他組分別含er、ir、ar或ur。",
+      "id": "g6s1-english-06-q02"
+    },
+    {
+      "question": "本課模型中fern、bird、curl的關係是？",
+      "options": [
+        "目標母音同類，但拼法分別er、ir、ur",
+        "完整單字意思相同",
+        "所有字母都可以互換"
+      ],
+      "answer": 0,
+      "hint": "分開讀音分類與字形分類。",
+      "explanation": "這三詞在指定模型的目標母音可歸同類，但字形和整詞意思仍然不同。",
+      "id": "g6s1-english-06-q03"
+    },
+    {
+      "question": "Rita短文有幾張圖卡？",
+      "options": [
+        "九張",
+        "八張",
+        "五張"
+      ],
+      "answer": 1,
+      "hint": "逐項算star至barn，不另加card本身。",
+      "explanation": "star、fork、storm、fern、bird、shirt、curl和barn共八張，card只是卡片的名稱。",
+      "id": "g6s1-english-06-q04"
+    },
+    {
+      "question": "紙上的c｜ar｜d表示？",
+      "options": [
+        "三個必須分開念的音節",
+        "已提供可驗聽的錄音",
+        "字形分組的視覺提醒"
+      ],
+      "answer": 2,
+      "hint": "本頁明說直線只做分組。",
+      "explanation": "直線協助辨識ar，不能替代聲音模型，也不代表把card讀成三個音節。",
+      "id": "g6s1-english-06-q05"
+    },
+    {
+      "question": "新句We ___ the cards into groups.填？",
+      "options": [
+        "sort",
+        "part",
+        "dirt"
+      ],
+      "answer": 0,
+      "hint": "句意是把卡片分類。",
+      "explanation": "sort表示分類且符合句中動作，dirt是泥土，part在本課是部分。",
+      "id": "g6s1-english-06-q06"
+    },
+    {
+      "question": "新詞surf按字形分到哪組？",
+      "options": [
+        "er",
+        "ur",
+        "ir"
+      ],
+      "answer": 1,
+      "hint": "看s後面的兩個字母。",
+      "explanation": "surf中的母音加r拼法是ur；聲音類似不代表能改寫成ir或er。",
+      "id": "g6s1-english-06-q07"
+    },
+    {
+      "question": "只完成本頁選擇題，可以記成什麼？",
+      "options": [
+        "已經自然發出所有r控制母音",
+        "本頁字形與概念的文字理解",
+        "已聽懂來源影片"
+      ],
+      "answer": 1,
+      "hint": "聲音能力需要實際示範與觀察。",
+      "explanation": "靜態文字題沒有聽到孩子或播放驗證模型，不能作為發音或來源音訊聽辨的證據。",
+      "id": "g6s1-english-06-q08"
+    }
+  ]
+}

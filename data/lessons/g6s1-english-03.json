@@ -1,0 +1,178 @@
+{
+  "id": "g6s1-english-03",
+  "course": "英語文",
+  "title": "週末休閒活動",
+  "subtitle": "用活動、頻率和回應談週末選擇",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "週末活動的介紹不只是一串動詞。讀完角色記錄後，我們要分清通常做什麼、喜歡什麼，以及這次是否接受邀請。",
+  "goals": [
+    "我能用完整片語介紹週末休閒活動。",
+    "我能用do／does問答並用usually、sometimes描述本課記錄。",
+    "我能在新情境中提出活動並根據明確回覆確認安排。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>先供應每個活動的完整片語，再讓孩子從記錄挑資料，不以休閒活動評價家庭資源或孩子勤惰。usually和sometimes在本課作質性頻率詞，不設成固定百分比；四週記錄只是這四次。邀請、偏好、是否有空與接受分開評；沒有回覆就保留待確認。支持層可用指選活動加句框；進階者根據新的例外修正原敘述。所有遊戲、表演或出遊都只談紙上角色，不能把對話當作真實約定。</p>",
+  "selfCheck": [
+    "我能用完整片語介紹週末休閒活動。",
+    "我能用do／does問答並用usually、sometimes描述本課記錄。",
+    "我能在新情境中提出活動並根據明確回覆確認安排。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "把活動說成完整片語",
+      "childText": "play、go和read各自帶合適的詞。",
+      "html": "<p>活動詞庫：play board games玩桌遊、read comics讀漫畫、draw pictures畫圖、go for a walk散步、listen to music聽音樂、visit a museum參觀博物館。問What do you do on weekends?可以答I read comics on weekends.。本課採美式on weekends；英式常見at weekends也可以，教師須讓同一段模型保持自然，不把差異當錯誤。</p><p>談單一角色用She reads comics.、He plays board games.；Does she read comics?問是否讀漫畫，does後用read原形。What does she do on weekends?問做什麼活動，does後的do是「做」的原形，可答She reads comics.。listen to music中的to是片語一部分，不刪成listen music。喜歡用I like…；習慣用I usually…，喜歡某活動不等於每週都有做。</p>",
+      "id": "g6s1-english-03-s01"
+    },
+    {
+      "title": "完整四週記錄與人物介紹",
+      "childText": "記錄只代表提供的四個星期六。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"虛構四週星期六活動\" tabindex=\"0\"><table><caption>只記各週一項活動；沒有寫下的其他活動不能判為從不做。</caption><thead><tr><th>Saturday</th><th>Ivy</th><th>Bo</th></tr></thead><tbody><tr><td>Week 1</td><td>read comics</td><td>play board games</td></tr><tr><td>Week 2</td><td>read comics</td><td>go for a walk</td></tr><tr><td>Week 3</td><td>draw pictures</td><td>play board games</td></tr><tr><td>Week 4</td><td>read comics</td><td>listen to music</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>人物自述：Ivy: I usually read comics on Saturdays. Sometimes I draw pictures. I like both activities. Bo: I do different things. I sometimes play board games. I also like music. 詞庫usually通常、sometimes有時、different不同的、both兩者都、also也。Ivy三次讀漫畫、一次畫圖；這幫助理解自述，但本課不規定usually必須等於四分之三。</p>",
+      "id": "g6s1-english-03-s02"
+    },
+    {
+      "title": "完整對話：從偏好到約定",
+      "childText": "問答要讀到最後的回覆。",
+      "html": "<div class=\"story\"><p>Bo: What do you usually do on Saturdays?<br/>Ivy: I usually read comics. Sometimes I draw pictures.<br/>Bo: Do you like board games?<br/>Ivy: Yes, I do, but I’m busy this Saturday morning.<br/>Bo: How about Sunday afternoon?<br/>Ivy: I’m free then. Let’s play a board game at two.<br/>Bo: Great. Sunday at two.<br/>Ivy: Yes. See you then.</p></div><p>busy忙碌的、free有空的、then那時。Ivy喜歡桌遊，仍可能在某個時段沒有空。第4回合不是拒絕所有桌遊，第6–8回合才共同確認星期日下午兩點的紙上安排。她的四週記錄沒列桌遊，也不能推成她不喜歡或從未玩過。</p>",
+      "id": "g6s1-english-03-s03"
+    },
+    {
+      "title": "一起示範：頻率與人稱",
+      "childText": "保留usually，再檢查動詞。",
+      "html": "<p>先從Ivy自述選I usually read comics on Saturdays.，轉述成Ivy usually reads comics on Saturdays.。主語由I變一人Ivy，read變reads；usually放在本課主要動詞前。問Does Ivy usually read comics on Saturdays?答Yes, she does.。否定示範：She doesn’t usually play board games on Saturdays.只表示通常習慣不同，不能等同永遠不玩。</p><p>一起做時，把已供應的「Bo／sometimes／play board games」三組詞寫在普通大紙上，或直接在本頁依序指選，不需剪卡，再組成Bo sometimes plays board games.，再變成Does Bo sometimes play board games?。孩子先找主語，再圈does或doesn’t，最後確認主要動詞。成人應說明題目取自Bo自述與四週資料，不把少量觀察推成整年的統計。</p>",
+      "id": "g6s1-english-03-s04"
+    },
+    {
+      "title": "修復：不要把喜歡當成有空",
+      "childText": "用兩個問題解決兩個疑問。",
+      "html": "<p>錯讀「Ivy說Yes, I do.，因此星期六上午已約好」漏了busy。修復時把回答分成「是否喜歡：yes」「這時能不能：busy」「新提議：Sunday afternoon」「已確認：Sunday at two」。Yes短答要連回上一個問題，不能把喜歡的Yes移到後面的時間上。</p><p>錯句Bo sometimes play board games.在這個敘述中改plays。錯句Does Ivy likes comics?改Does Ivy like comics?。若有人想知道這週能否活動，問Are you free on Sunday afternoon?比只問Do you like board games?更直接。真實生活中每個人的休閒方式不同，低成本、安靜或需要輔助的活動都可以；本頁不要求孩子交出自己的週末紀錄。</p>",
+      "id": "g6s1-english-03-s05"
+    },
+    {
+      "title": "獨立轉用：新的回覆改了安排",
+      "childText": "偏好相同，這次的結論可能不同。",
+      "html": "<p>新人物卡：Rae usually listens to music on weekends. Sol sometimes draws pictures. Rae likes drawing, too. 新對話全文：Sol: Let’s draw on Saturday at three. Rae: Sorry, I’m busy then. Sol: Are you free on Sunday at three? Rae: Yes, I am. Sol: Shall we draw together then? 對話停在這裡。請寫Rae的通常活動、將Sol的活動改成does問句，並說明是否已約好星期日一起畫圖。</p><details><summary>完成後核對</summary><p>Rae usually listens to music on weekends. Does Sol sometimes draw pictures? Rae明說星期日三點有空，但Sol後來提出一起畫圖，Rae尚未回答該提議；只可記有空、待確認一起畫圖。可以再問Would you like to draw with me?並等待答覆，不能把空檔的Yes當成所有活動的接受。</p></details>",
+      "id": "g6s1-english-03-s06"
+    },
+    {
+      "title": "整理一段有根據的週末介紹",
+      "childText": "先介紹習慣，再標出這次的狀態。",
+      "html": "<p>選Ivy或Bo，用三句完成：一句通常或有時的活動，一句明說的喜好，一句原對話已確認的安排。參考Ivy usually reads comics on Saturdays. She likes board games. She and Bo agree to play a board game on Sunday at two.。agree to同意做某事，這句是對完整回覆的摘要，不能套在新對話未答覆處。</p><p>成人以資料是否準確、片語是否完整、人稱是否一致、邀請狀態是否保留為判準。可先讓孩子用中文畫四格紀錄再組句；進階者故意刪去最後一個回覆，說明哪些結論要撤回。閱讀題只核對文本。合格教師提供自然對話示範後，才另觀察孩子能否不看答案問活動、表達忙碌與禮貌澄清。</p>",
+      "id": "g6s1-english-03-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Present simple",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/present-simple",
+      "note": "2026-10-06直接核對規律活動、第三人稱動詞與do／does肯否定問答說明。課內角色、句子與資料均為原創；本頁不是來源錄音的轉錄。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "Ivy四週記錄中讀漫畫幾次？",
+      "options": [
+        "四次",
+        "一次",
+        "三次"
+      ],
+      "answer": 2,
+      "hint": "逐列只計read comics。",
+      "explanation": "第1、2、4週是read comics，共三次；第3週是draw pictures。",
+      "id": "g6s1-english-03-q01"
+    },
+    {
+      "question": "哪個轉述句符合Ivy自述？",
+      "options": [
+        "Ivy usually reads comics on Saturdays.",
+        "Ivy usually read comics on Saturdays.",
+        "Ivy never reads comics on Saturdays."
+      ],
+      "answer": 0,
+      "hint": "主語是一人，也要保留頻率詞。",
+      "explanation": "Ivy配reads；usually表示自述的通常習慣，不能任意改為never。",
+      "id": "g6s1-english-03-q02"
+    },
+    {
+      "question": "Ivy說Yes, I do, but I’m busy…表示？",
+      "options": [
+        "永遠不玩桌遊",
+        "喜歡桌遊，但星期六上午沒空",
+        "已同意星期六上午玩桌遊"
+      ],
+      "answer": 1,
+      "hint": "把Yes連回Do you like…問題。",
+      "explanation": "Yes回答喜好，but後補上本次時段限制，喜歡和有空要分開判斷。",
+      "id": "g6s1-english-03-q03"
+    },
+    {
+      "question": "原對話最後確認哪個安排？",
+      "options": [
+        "Saturday morning讀漫畫",
+        "Sunday at two玩桌遊",
+        "Sunday at three畫圖"
+      ],
+      "answer": 1,
+      "hint": "讀第6至8回合的共同確認。",
+      "explanation": "Ivy提出星期日兩點玩桌遊，Bo重述並且Ivy再確認，所以有完整接受證據。",
+      "id": "g6s1-english-03-q04"
+    },
+    {
+      "question": "哪個問題的動詞正確？",
+      "options": [
+        "Does Bo sometimes play board games?",
+        "Do Bo sometimes plays board games?",
+        "Does Bo sometimes plays board games?"
+      ],
+      "answer": 0,
+      "hint": "does後主要動詞回原形。",
+      "explanation": "Bo是第三人稱單數，問句用Does，但play不再加s。",
+      "id": "g6s1-english-03-q05"
+    },
+    {
+      "question": "四週沒記Ivy玩桌遊，可以斷定什麼？",
+      "options": [
+        "所有讀漫畫的人都討厭桌遊",
+        "她永遠不玩桌遊",
+        "不能斷定她從未玩過或不喜歡"
+      ],
+      "answer": 2,
+      "hint": "表題說只記各週一項活動。",
+      "explanation": "缺少記錄不等於從未發生，而且Ivy在對話明說喜歡桌遊。",
+      "id": "g6s1-english-03-q06"
+    },
+    {
+      "question": "新對話能記為已約好一起畫圖嗎？",
+      "options": [
+        "不能，Rae已拒絕星期日任何活動",
+        "不能，Rae尚未回答一起畫圖的提議",
+        "能，Rae的有空等於答應所有活動"
+      ],
+      "answer": 1,
+      "hint": "分開讀有空的回答與後來邀請。",
+      "explanation": "Rae確認空檔但未回覆新活動提議；既不能判同意，也不能捏造拒絕。",
+      "id": "g6s1-english-03-q07"
+    },
+    {
+      "question": "Rae通常做什麼？",
+      "options": [
+        "listens to music",
+        "visits a museum",
+        "plays board games"
+      ],
+      "answer": 0,
+      "hint": "新人物卡提供完整通常活動。",
+      "explanation": "新卡寫Rae usually listens to music，不能把舊人物Ivy的活動套過來。",
+      "id": "g6s1-english-03-q08"
+    }
+  ]
+}

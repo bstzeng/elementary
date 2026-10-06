@@ -1,0 +1,183 @@
+{
+  "id": "g6s2-english-05",
+  "course": "英語文",
+  "title": "混合子音的辨識拼讀",
+  "subtitle": "分清連續子音各保留音值與雙字母代表一音",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "混合子音要把聲音自然連起來，不是省掉其中一個，也不是中間加一個母音。本課用字形、詞義與完整模型逐步核對。",
+  "goals": [
+    "我能在指定單字中辨認開頭或結尾的混合子音字形。",
+    "我能解釋bl、st等混合子音和sh等雙字母單音的差別。",
+    "我能在完整新句辨義與拼字，將實際合讀留給教師示範觀察。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>參照UFLI與FCRR美國閱讀教學的consonant blend概念，由合格教師先核對通用美式完整單字及段落後示範。保持個別音值是教學分析，不要求連讀時每個聲音都像孤立發音；自然語流可有協同發音，不能以文字迫使孩子造出不自然分離音。bl、fl、sl、st、ft、str是拼法標籤，不是已提供錄音。支持層每次兩詞並配中文義，進階層比較混合子音與digraph，指出刪字或添音如何影響辨識。不使用繩子、小積木或真船，只有完整文字材料。</p>",
+  "selfCheck": [
+    "我能在指定單字中辨認開頭或結尾的混合子音字形。",
+    "我能解釋bl、st等混合子音和sh等雙字母單音的差別。",
+    "我能在完整新句辨義與拼字，將實際合讀留給教師示範觀察。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "先確認完整聲音模型",
+      "childText": "看到兩個子音，不一定代表兩個音。",
+      "html": "<p>混合子音consonant blend是相鄰的兩個或更多子音，各自的音值在組合中保留，例如block的bl、string的str。讀時連成一個自然的整詞，不省略某個子音，也不在中間任意加「呃」那樣的母音。合格教師須先示範完整單字和後文，再逐步帶合讀；字形分類可以先做，聲音判斷不能憑空猜。</p><p>另一類是consonant digraph，兩個子音字母共同表示一個音，例如fish的sh。bl和sh都寫兩個字母，卻不是相同聲音結構。數字母與分析聲音是兩種任務，不能用「有兩個字母」當成所有分類的唯一理由。本課不提供音檔，也不把字母名稱的拼念當作自然拼讀。</p>",
+      "id": "g6s2-english-05-s01"
+    },
+    {
+      "title": "完整詞卡：開頭、結尾與對照",
+      "childText": "每個例詞都有意思和位置。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"混合子音及對照詞\" tabindex=\"0\"><table><caption>只讀紙上詞卡，不取實物；字形與分組有UFLI／FCRR文字依據。</caption><thead><tr><th>類型</th><th>詞與意思</th><th>本課目標</th></tr></thead><tbody><tr><td>開頭混合</td><td>block積木塊；flip翻轉</td><td>bl；fl</td></tr><tr><td>開頭混合</td><td>sleep睡覺；stop停止</td><td>sl；st</td></tr><tr><td>三子音開頭</td><td>string細繩</td><td>str</td></tr><tr><td>結尾混合</td><td>raft木筏</td><td>ft</td></tr><tr><td>雙字母單音對照</td><td>fish魚</td><td>sh</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>block中的ck雖有兩個字母，這裡不把它當混合子音；本課目標是開頭bl。raft的ft在末尾，不能因混合子音位在後面就漏掉。string的str有三個子音字母；其中聲音如何自然連接由教師示範，不要求孩子把它切成三個額外音節。fish用來提醒sh是一音的字母組。</p>",
+      "id": "g6s2-english-05-s02"
+    },
+    {
+      "title": "完整短文：A Word-Card Story",
+      "childText": "詞語只是故事內容，不是操作要求。",
+      "html": "<div class=\"story\"><p>Sam has seven large cards on paper. The words are block, flip, sleep, stop, string, raft and fish. Sam reads a short story on the same page:<br/>“A fish is beside a raft in a picture. A red block is on the raft. The word STOP is on a sign. There is no real water, rope or boat in this classroom.”<br/>Sam points to the word raft. Then Sam finds the two letters at the end. The teacher reads the whole word and the sentence. Sam checks the meaning before trying to read it.</p></div><p>詞庫beside旁邊、picture圖像、sign標示、rope繩子、whole完整的、meaning意思。場景以文字完整提供，不聲稱附有未供應的圖片。seven cards指七個列出的詞；STOP在小故事內大寫是標示，不算多一張卡。沒有人需要拿繩子、進水或讓同學站上任何物件。</p>",
+      "id": "g6s2-english-05-s03"
+    },
+    {
+      "title": "一起示範：保留子音，合回整詞",
+      "childText": "準備好的文字就能完成桌上活動。",
+      "html": "<p>若使用卡片，成人把block、flip、sleep、stop、string、raft、fish各抄在普通大紙上，另寫「開頭混合」「結尾混合」「雙字母單音」三個標題；不需剪卡。也可直接指本頁，或畫三欄填詞。第一輪只按目標拼法分類；第二輪教師才提供完整自然聲音，孩子聽後指詞。</p><p>以stop示範：先看開頭st、詞義停止，教師完整讀stop，再協助從s接到t並合回整詞，不在st中間加入另一音節。拿掉s會成top這個不同字；本課補充top是頂端。這個比對先看字形與意思，真聲音由教師示範。再用Please stop here.作完整句，避免永遠只念孤立片段。</p>",
+      "id": "g6s2-english-05-s04"
+    },
+    {
+      "title": "修復：不要把字母數當聲音數",
+      "childText": "比較bl、sh和str的不同工作。",
+      "html": "<p>錯誤分類「fish的sh是兩音混合，因為有s和h」忽略sh在這個詞共同表一個音。錯誤「string開頭只要留s」會漏掉tr；應核對完整str，再聽教師自然整詞模型。錯誤「raft的t不重要」可能影響辨識；聲音若需要慢練，應先有教師示範而不靠猜。</p><p>教學中「每個音值保留」不等於把子音各自拖長成獨立音節。自然連讀會相互影響，不同標準英語變體也可能有差異。成人不因孩子的母語或口音貼標籤；只針對本次已教模型、詞義是否可理解、是否漏掉關鍵部分給具體回饋。紙面上圈字正確仍不能證明實際合讀流暢。</p>",
+      "id": "g6s2-english-05-s05"
+    },
+    {
+      "title": "獨立轉用：新句重新選詞",
+      "childText": "不是把剛才的卡號背下來。",
+      "html": "<p>新完整短文：A picture shows a raft on a blue page. A sign beside the picture says STOP. The teacher asks Lee to flip the page. On the next page, Lee sees the word fish. 請完成三項：①選出有結尾混合子音ft的詞；②找出帶開頭fl且表示動作的詞；③說出sh在最後那個詞屬哪一類。最後用本課詞庫填句The ___ is on the blue page.，句意限定圖中的木筏。</p><details><summary>完成後核對</summary><p>①raft，ft在字尾；②flip，fl在字首，意思翻轉；③fish中的sh是雙字母單音；填raft。這些答案有新段落的字形、位置和語意依據。若要自主朗讀新段，教師先核對完整模型，實際觀察是否能合回單字，不把文字答案當作口語證明。</p></details>",
+      "id": "g6s2-english-05-s06"
+    },
+    {
+      "title": "交付兩種不同的紀錄",
+      "childText": "字形和聲音的進步都要真實。",
+      "html": "<p>文字成果包括三欄分類、新文三項答案和一個完整句。聲音紀錄只在教師實際示範後填寫：能否辨認整詞、能否保留目標組合、能否回到句子、是否需要再次示範。沒有進行的項目留待觀察；不要因一輪選擇題全對就寫「混合子音全部熟練」。</p><p>需要較多支持的孩子先比較stop與fish的兩種結構，再加入字尾raft；進階者解釋為何block的bl與ck不能同樣分類。孩子可指字、打字、分次練習或使用AAC，不必摸嘴、強拉舌頭或重複到不舒服。成人維持完整自然模型、具體回饋與可理解度，且不把美國教材年級當成臺灣課程必須提前或落後的證據。</p>",
+      "id": "g6s2-english-05-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜Glossary",
+      "url": "https://ufli.education.ufl.edu/resources/teaching-resources/glossary/",
+      "note": "2026-10-06直接核對Consonant Blend、Consonant Digraph、Blendable Sound及Onset and Rime條目；支持混合子音與雙字母單音的區分、避免添入額外母音，以及block／string／flip例詞。只讀文字，未驗聽聲音。"
+    },
+    {
+      "title": "Florida Center for Reading Research｜Supporting Your Child’s Reading at Home, Second Grade",
+      "url": "https://fcrr.org/supporting-your-childs-reading-home-second-grade",
+      "note": "2026-10-06直接核對混合子音與digraph文字說明、sleep／stop／raft等例詞，以及雙寫和y變i的拼寫說明。未播放嵌入影片；美國母語閱讀年級不等於臺灣英語課的年級進度。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "block的本課目標混合子音是？",
+      "options": [
+        "ck",
+        "bl",
+        "o"
+      ],
+      "answer": 1,
+      "hint": "看詞首目標而非所有相鄰字母。",
+      "explanation": "block的bl是兩個相鄰子音保留音值的例子；ck不依本課定義當混合子音。",
+      "id": "g6s2-english-05-q01"
+    },
+    {
+      "question": "哪個例詞含字尾ft？",
+      "options": [
+        "raft",
+        "flip",
+        "fish"
+      ],
+      "answer": 0,
+      "hint": "目標位置在完整詞最後。",
+      "explanation": "raft最後兩個字母是ft，本課把它當結尾混合子音，其他兩詞沒有ft。",
+      "id": "g6s2-english-05-q02"
+    },
+    {
+      "question": "fish的sh在本課分類為？",
+      "options": [
+        "兩個獨立音節",
+        "兩個音的混合子音",
+        "雙字母表示一個音"
+      ],
+      "answer": 2,
+      "hint": "字母個數與聲音分析不同。",
+      "explanation": "sh雖然寫兩字母，在fish中共同表示一音，不能因此判成兩音混合。",
+      "id": "g6s2-english-05-q03"
+    },
+    {
+      "question": "本課文字卡一共有幾張？",
+      "options": [
+        "八張",
+        "七張",
+        "三張"
+      ],
+      "answer": 1,
+      "hint": "只數明列七詞，故事內重現不加卡。",
+      "explanation": "列出的block、flip、sleep、stop、string、raft、fish共七張，STOP重現不是新增卡。",
+      "id": "g6s2-english-05-q04"
+    },
+    {
+      "question": "把stop的s拿掉，字形變成？",
+      "options": [
+        "top",
+        "step",
+        "shop"
+      ],
+      "answer": 0,
+      "hint": "只移除第一個字母，其餘保留。",
+      "explanation": "stop刪去s後剩top，文字與詞義改變；不能再任意換其他字母。",
+      "id": "g6s2-english-05-q05"
+    },
+    {
+      "question": "新文中帶fl且表示翻頁動作的詞是？",
+      "options": [
+        "fish",
+        "flip",
+        "raft"
+      ],
+      "answer": 1,
+      "hint": "找teacher asks Lee to後的動詞。",
+      "explanation": "flip表示翻轉，字首fl符合目標；fish是魚，raft是木筏，均不是此動作。",
+      "id": "g6s2-english-05-q06"
+    },
+    {
+      "question": "合讀混合子音時應採哪個做法？",
+      "options": [
+        "全部只讀第一個子音",
+        "每個子音間都加一個中文音節",
+        "依教師自然整詞模型連接，避免任意添母音"
+      ],
+      "answer": 2,
+      "hint": "目標是保留組合並回到完整詞。",
+      "explanation": "自然合讀要保留可辨認的目標子音，添額外母音或刪音都可能改變單字。",
+      "id": "g6s2-english-05-q07"
+    },
+    {
+      "question": "圈字形都正確，可以直接斷定什麼？",
+      "options": [
+        "辨認了本課文字中的目標組合",
+        "已實際聽出所有音",
+        "已能自然朗讀每個新句"
+      ],
+      "answer": 0,
+      "hint": "先確認這次真正做了哪種任務。",
+      "explanation": "字形題提供閱讀分類的證據，聽辨和自然合讀仍需完整聲音模型與實際觀察。",
+      "id": "g6s2-english-05-q08"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "g6s2-english-06",
+  "course": "英語文",
+  "title": "常見過去式詞形辨認",
+  "subtitle": "把原形、過去式與did後的形式連起來",
+  "duration": "2–3次，每次25–30分鐘；聽說由合格教師另行示範與觀察",
+  "intro": "過去式不只有加ed。用完整詞對、事件小記和修稿，學會觀察拼法變化，並讓形式回到句子的時間和結構。",
+  "goals": [
+    "我能辨認本課規則與不規則過去式對應。",
+    "我能在過去肯定句與did／didn’t句中選正確動詞形。",
+    "我能說明read等相同拼字要看語境，並核對新句的意思。"
+  ],
+  "materials": [
+    "本頁完整英文材料、鉛筆與普通大紙；直接指讀即可，不需剪卡",
+    "如進行聽說，由合格英語教師先核對並提供全部自然語句模型；不使用兒童真實個資"
+  ],
+  "teachingHtml": "<h3>範圍、材料與完整模型</h3><p>五、六年級同屬英語文第三學習階段。本課把共同階段目標安排到這個主題，並不是全國統一的六年級學期進度。先讓孩子理解整份英文資料，再示範如何選句、查證與修改；不把抄寫長度或朗讀速度當成溝通能力。角色和個人資料均為原創虛構，兒童可全程代角色回答，不必提供自己的姓名、學校、住址、作息、帳號、照片或家庭情況。</p><p>本頁提供完整文字，但沒有已驗聽音檔。真正的聽辨、發音、語調或口說評量，須由合格英語教師先核對並自然示範完整詞句與語境。文字、拼寫分段和箭頭都不能代替聲音模型；沒有合適示範者時，先完成閱讀與書寫，保留聽說待教，不把選擇題分數記成口語成績。一般句型可採可理解的標準英語變體；特定語音課另依課內指定的變體核對。</p><h3>支持與評量的分項紀錄</h3><p>需要較多支持的孩子可先指認資料、用中文解釋關係，再選英文句框；成人可以讀題或代寫，須註明協助。可使用大字卡、打字、指選、AAC、分段時間與休息，不強迫眼神接觸或公開演出。進階學習者換一組提供的新資料，離開範例自行組句，再回到證據核對。閱讀理解、語法選擇、獨立書寫、看卡表達及實際口語分開觀察，不能因某一項困難就否定其他表現。</p><h3>本課的教學判準</h3><p>本課以詞形辨認與書寫為主，引用BC過去式與UFLI／FCRR拼寫規則，不把所有字尾ed當相同聲音，也不以拼字測發音。雙寫、y改i的說明限定本課條件與詞例，不教成所有詞結尾都一律改。支持層使用完整原形／過去式對表；進階層在連貫段落中識別did位置並解釋原形恢復。read過去式拼字相同，聲音差異須教師全句模型。學生可查詞表、不需靠聽到未驗證音檔猜拼法。</p>",
+  "selfCheck": [
+    "我能辨認本課規則與不規則過去式對應。",
+    "我能在過去肯定句與did／didn’t句中選正確動詞形。",
+    "我能說明read等相同拼字要看語境，並核對新句的意思。",
+    "我能指出答案的依據，分清自主完成與使用的協助。"
+  ],
+  "sections": [
+    {
+      "title": "過去肯定句與did句用不同位置表時態",
+      "childText": "不是一看到yesterday就所有動詞都加ed。",
+      "html": "<p>Yesterday, I played a game.中的played表過去。Did you play a game yesterday?和I didn’t play a game yesterday.已由did／didn’t標示過去，因此play用原形。時間詞、助動詞和主要動詞一起看，不能只抓yesterday這一個詞就填played。</p><p>本課把詞形整理成「一般加ed」「末尾e加d」「本課單音節詞雙寫末尾子音再加ed」「子音加y改ied」「另記不規則」五種觀察。這是拼字方法，不是發音規則；不同ed詞尾不保證聲音一樣。教師若安排朗讀，須先核對所有完整詞句，不能靠這份表假裝已有聲音示範。</p>",
+      "id": "g6s2-english-06-s01"
+    },
+    {
+      "title": "完整詞形表：有限規律與特殊形式",
+      "childText": "原形與過去式逐對核對。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" aria-label=\"原形與過去式完整詞表\" tabindex=\"0\"><table><caption>這不是所有英語動詞表；新詞需查可靠資料，不能任意套成全部規則。</caption><thead><tr><th>觀察類別</th><th>原形→過去式</th><th>意思與範圍</th></tr></thead><tbody><tr><td>加ed</td><td>play→played；watch→watched</td><td>玩；觀看</td></tr><tr><td>已有e加d</td><td>like→liked</td><td>喜歡</td></tr><tr><td>本課雙寫例</td><td>stop→stopped</td><td>停止；單音節、短母音後一個p</td></tr><tr><td>子音+y</td><td>study→studied</td><td>學習；y改i後加ed</td></tr><tr><td>保留y對照</td><td>play→played</td><td>ay中y前是母音字母a，不改ied</td></tr><tr><td>不規則</td><td>go→went；eat→ate；write→wrote；have→had</td><td>去；吃；寫；有或吃</td></tr><tr><td>拼字相同</td><td>read→read</td><td>讀；時態看語境，聲音由教師示範</td></tr></tbody></table></div><p>表格可左右捲動；鍵盤以Tab進入表區，再用左右方向鍵。也可按列讀出全部文字。</p><p>study→studied的意思是把y改i再加ed，不是刪掉整個dy；原來的d還保留。stop→stopped先保留stop，再多一個p後加ed，不寫stoped。本課不由這個例子推成所有末尾子音都雙寫。</p>",
+      "id": "g6s2-english-06-s02"
+    },
+    {
+      "title": "完整小記：同一段中的不同詞形",
+      "childText": "先理解發生了什麼。",
+      "html": "<div class=\"story\"><p>Yesterday, Remy visited a small book display in a fictional classroom. Remy liked a story about a bird and wrote two sentences about it. Then Remy studied five new words. At four, Remy stopped writing and went to another table. Remy had a snack there. Remy didn’t watch a film.<br/>A partner asked, “Did you write a review?” Remy said, “Yes, I did. I wrote two sentences.”</p></div><p>補充visited參觀了、display展示、snack點心、partner同伴。visited為visit加ed，書寫規律與played同類；食品只在虛構記錄，不要求真實吃東西。短文含肯定wrote、否定didn’t watch、問句Did you write，正好顯示句型不同時主要動詞形式也不同。</p>",
+      "id": "g6s2-english-06-s03"
+    },
+    {
+      "title": "一起示範：先定位助動詞，再選詞形",
+      "childText": "相同意思的詞對不能隨便交換。",
+      "html": "<p>示範填句Remy ___ two sentences yesterday.：沒有did，而且是在講已發生的寫作，因此選wrote。Did Remy ___ two sentences?已有did，選write。Remy didn’t ___ a film.則選watch，不選watched。成人讓孩子用鉛筆方框圈did／didn’t；沒有這類助動詞再回到句意與時態檢查。</p><p>拼字修稿分兩步：先從studyd找到原形study，確認子音d加y，再改成studied；從stoped找到stop，套本課的stopped例詞。不能只看錯字尾端便隨便添加字母。I read comics every week.是規律；I read a comic yesterday.是過去，兩個read拼字相同。實際讀音需教師完整示範，紙面不假稱已聽出差異。</p>",
+      "id": "g6s2-english-06-s04"
+    },
+    {
+      "title": "修復：不要把規律當成所有詞的命令",
+      "childText": "記例外也要記它在句中的位置。",
+      "html": "<p>錯句He goed yesterday.改He went yesterday.；go的過去式特殊，不加ed。錯句He didn’t went.改He didn’t go.，特殊過去式同樣在didn’t後回原形。錯字plaied把play誤套子音+y規則，a是母音字母，所以是played。錯字likeed多加一個e，本課已有e只加d。</p><p>read的過去拼字仍是read，不改red；red是另一個顏色詞。完整句The red book was on the table.中的red描述書的顏色，不能當「讀了」。只看字形仍需語意和結構幫忙；不要求靠一個未聽過的發音猜規則，更不把拼寫困難當作閱讀或思考能力全面不足。</p>",
+      "id": "g6s2-english-06-s05"
+    },
+    {
+      "title": "獨立轉用：編輯新的四句小記",
+      "childText": "同一則小記要保留同一時間。",
+      "html": "<p>新材料標明Last Saturday，草稿全文：① I studyed four words. ② I goed to the reading table. ③ I didn’t watched a film. ④ Did I wrote two sentences? Yes, I did. 已知事實：角色確實學四詞、去閱讀桌、沒看影片、寫兩句。請修正四句動詞，並把第④句的肯定回答補成完整事實句。可查本課詞表，不需發明新的活動。</p><details><summary>完成後核對</summary><p>①I studied four words. ②I went to the reading table. ③I didn’t watch a film. ④Did I write two sentences? Yes, I did. I wrote two sentences.。前兩句需過去肯定形；後兩句didn’t／did後用原形；最後補述沒有did，用wrote。保持four words、two sentences等資料不變，不能為修字而改事實。</p></details>",
+      "id": "g6s2-english-06-s06"
+    },
+    {
+      "title": "建立會回到句子裡的詞形表",
+      "childText": "辨認形式，要能說明為何選它。",
+      "html": "<p>從表選三個不同類型，寫「原形／過去式／一個過去肯定句／一個did問句」。例write／wrote／I wrote a note yesterday.／Did you write a note yesterday?。note便條是這個獨立語法例句的新受詞，不拿來改Remy原故事。再把其中一題改否定，查主要動詞是否回原形。</p><p>成人評量詞對辨認、拼寫觀察、助動詞位置和忠於資料四項。需要較多支持的孩子用兩詞一組再回句；進階者解釋read為何只看拼字不能區分時態。可以打字或指選展示概念，獨立拼寫另記。聲音評量須先提供自然模型，不能拿紙上選到stopped就宣稱ed已發對。</p>",
+      "id": "g6s2-english-06-s07"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-06直接讀取官方PDF文字；第三學習階段涵蓋五、六年級，支持簡易問答、閱讀、書寫、語音與文化理解。本課的學期位置、角色與活動是編輯安排，不是官方指定單學期教材；未據此宣稱音檔或頁面圖像已核驗。"
+    },
+    {
+      "title": "British Council｜Past simple – sentences",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-sentences",
+      "note": "2026-10-06直接核對規則ed、不規則went／ate／wrote／had，以及didn’t後接原形；例句與情境均為原創，未驗聽音訊。"
+    },
+    {
+      "title": "British Council｜Past simple – questions",
+      "url": "https://learnenglishkids.britishcouncil.org/grammar-vocabulary/grammar-practice/past-simple-questions",
+      "note": "2026-10-06直接核對did加原形與肯否定短答文字；課內新資料不來自該頁。"
+    },
+    {
+      "title": "University of Florida Literacy Institute｜Grapheme–phoneme scope and sequence",
+      "url": "https://ufli.education.ufl.edu/wp-content/uploads/2022/01/UFLI-Scope-and-Sequence-5-21-2.pdf",
+      "note": "2026-10-06直接讀一頁PDF文字，核對字尾ed及stopped等拼寫變化、y變i等規則分組；課內詞句原創，未驗聽音訊。"
+    },
+    {
+      "title": "Florida Center for Reading Research｜Supporting Your Child’s Reading at Home, Second Grade",
+      "url": "https://fcrr.org/supporting-your-childs-reading-home-second-grade",
+      "note": "2026-10-06直接核對混合子音與digraph文字說明、sleep／stop／raft等例詞，以及雙寫和y變i的拼寫說明。未播放嵌入影片；美國母語閱讀年級不等於臺灣英語課的年級進度。"
+    }
+  ],
+  "exercises": [
+    {
+      "question": "study在本課的過去式是？",
+      "options": [
+        "studyed",
+        "studied",
+        "studys"
+      ],
+      "answer": 1,
+      "hint": "y前是子音d，改y為i再加ed。",
+      "explanation": "study變studied，原來的d保留，再把y改i加ed，不直接加成studyed。",
+      "id": "g6s2-english-06-q01"
+    },
+    {
+      "question": "play為何寫played？",
+      "options": [
+        "所有y都改成i",
+        "y前是母音字母a，本課保留y加ed",
+        "play是沒有過去式的詞"
+      ],
+      "answer": 1,
+      "hint": "與study的dy比較。",
+      "explanation": "play末尾ay與study的dy不同，不能套同一個子音+y變化，所以保留y。",
+      "id": "g6s2-english-06-q02"
+    },
+    {
+      "question": "本課stop的過去式怎麼寫？",
+      "options": [
+        "stopped",
+        "stoppied",
+        "stoped"
+      ],
+      "answer": 0,
+      "hint": "看詞表中本課雙寫例。",
+      "explanation": "stop這個例詞在短母音後只有一個末尾p，過去式雙寫p再加ed成stopped。",
+      "id": "g6s2-english-06-q03"
+    },
+    {
+      "question": "Did Remy ___ two sentences?應填？",
+      "options": [
+        "writed",
+        "wrote",
+        "write"
+      ],
+      "answer": 2,
+      "hint": "過去問句已有did。",
+      "explanation": "did後使用原形write；wrote用在沒有did的過去肯定句。",
+      "id": "g6s2-english-06-q04"
+    },
+    {
+      "question": "哪句符合原小記明示的否定？",
+      "options": [
+        "Remy wasn’t watched a film.",
+        "Remy didn’t watched a film.",
+        "Remy didn’t watch a film."
+      ],
+      "answer": 2,
+      "hint": "一般動作否定用didn’t加原形。",
+      "explanation": "原文明確沒有看影片，因此用didn’t watch，主要動詞不再加ed。",
+      "id": "g6s2-english-06-q05"
+    },
+    {
+      "question": "I read a comic yesterday.中的read如何判斷？",
+      "options": [
+        "由yesterday與句意判為過去，拼字仍是read",
+        "應改寫成顏色詞red",
+        "一定現在式，因沒加ed"
+      ],
+      "answer": 0,
+      "hint": "有些動詞原形和過去形拼字相同。",
+      "explanation": "read兩種時態拼字相同，這句yesterday指過去；red是顏色詞，不能代替。",
+      "id": "g6s2-english-06-q06"
+    },
+    {
+      "question": "新草稿I goed…應改為？",
+      "options": [
+        "I didn’t went…",
+        "I went…",
+        "I goes…"
+      ],
+      "answer": 1,
+      "hint": "go有特殊過去式。",
+      "explanation": "新事實是已去過的肯定活動，需用went；不能改成現在式或無根據否定。",
+      "id": "g6s2-english-06-q07"
+    },
+    {
+      "question": "新題Yes, I did.後補完整寫作事實應是？",
+      "options": [
+        "I wrote two sentences.",
+        "I write two sentence yesterday.",
+        "I did wrote two sentences."
+      ],
+      "answer": 0,
+      "hint": "補述句不用did時，主要動詞標過去。",
+      "explanation": "已知寫了兩句，用wrote與複數sentences；不能同時放did和過去式wrote。",
+      "id": "g6s2-english-06-q08"
+    }
+  ]
+}
