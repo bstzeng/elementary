@@ -1,0 +1,177 @@
+{
+  "id": "g6s2-mathematics-09",
+  "course": "數學",
+  "title": "縮放中的長度和面積",
+  "subtitle": "以同單位方格看見兩方向的倍數，區分長度、周長與面積的改變。",
+  "duration": "建議2–3節，每節35–40分鐘；概念、操作與獨立練習分次進行。",
+  "goals": [
+    "解釋等比例縮放的面積平方倍率",
+    "區分周長與面積變化",
+    "辨認等比例條件及單向拉伸"
+  ],
+  "materials": [
+    "本課6格與24格完整等大方格圖",
+    "縮放尺寸表、紙筆"
+  ],
+  "intro": "以同單位方格看見兩方向的倍數，區分長度、周長與面積的改變。",
+  "sections": [
+    {
+      "title": "兩個方向都放大，格數變得更快",
+      "childText": "每小格的面積單位保持一樣。",
+      "html": "<p>原長方形寬2、高3公分，面積6平方公分；2倍放大圖寬4、高6公分，面積24平方公分。下圖每格都代表1平方公分，因此可直接比較6格與24格，不是把右邊的小格改成別的單位。</p><p>長度變2倍，面積變4倍。因為每一排的格數2倍，排數也2倍，合起來2×2＝4倍。不能只看到面積公式有乘法，就隨便把倍率乘3或加2。</p><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 335\" role=\"img\" aria-labelledby=\"g6s2-mathematics-09-area-grid\"><title id=\"g6s2-mathematics-09-area-grid\">每格1平方公分；左長方形2欄3列共6格，右圖4欄6列共24格。右圖兩方向長度皆2倍，面積4倍。</title><g font-family=\"Noto Sans CJK TC, sans-serif\" font-size=\"17\" fill=\"#183f38\"><text x=\"180\" y=\"25\" text-anchor=\"middle\" font-size=\"17\">每個小格都是1平方公分</text><rect x=\"30\" y=\"145\" width=\"30\" height=\"30\" fill=\"#e8cca3\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"60\" y=\"145\" width=\"30\" height=\"30\" fill=\"#e8cca3\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"30\" y=\"175\" width=\"30\" height=\"30\" fill=\"#e8cca3\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"60\" y=\"175\" width=\"30\" height=\"30\" fill=\"#e8cca3\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"30\" y=\"205\" width=\"30\" height=\"30\" fill=\"#e8cca3\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"60\" y=\"205\" width=\"30\" height=\"30\" fill=\"#e8cca3\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"175\" y=\"55\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"205\" y=\"55\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"235\" y=\"55\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"265\" y=\"55\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"175\" y=\"85\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"205\" y=\"85\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"235\" y=\"85\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"265\" y=\"85\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"175\" y=\"115\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"205\" y=\"115\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"235\" y=\"115\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"265\" y=\"115\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"175\" y=\"145\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"205\" y=\"145\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"235\" y=\"145\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"265\" y=\"145\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"175\" y=\"175\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"205\" y=\"175\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"235\" y=\"175\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"265\" y=\"175\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"175\" y=\"205\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"205\" y=\"205\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"235\" y=\"205\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><rect x=\"265\" y=\"205\" width=\"30\" height=\"30\" fill=\"#b5d6c6\" stroke=\"#315b50\" stroke-width=\"1\"/><text x=\"60\" y=\"265\" text-anchor=\"middle\" font-size=\"16\">2×3＝6</text><text x=\"235\" y=\"265\" text-anchor=\"middle\" font-size=\"16\">4×6＝24</text><text x=\"180\" y=\"307\" text-anchor=\"middle\" font-size=\"17\">長和寬各2倍，格數成4倍</text></g></svg><figcaption>每格1平方公分；左長方形2欄3列共6格，右圖4欄6列共24格。右圖兩方向長度皆2倍，面積4倍。</figcaption></figure>",
+      "id": "g6s2-mathematics-09-s01"
+    },
+    {
+      "title": "用表格看周長與面積的不同",
+      "childText": "同一幅圖可以同時有兩種倍率。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" tabindex=\"0\" aria-label=\"原長方形2×3公分的等比例縮放，可左右捲動\"><table><caption>原長方形2×3公分的等比例縮放</caption><thead><tr><th scope=\"col\">長度倍數</th><th scope=\"col\">新尺寸</th><th scope=\"col\">周長</th><th scope=\"col\">面積</th></tr></thead><tbody><tr><th scope=\"row\">1倍</th><td>2×3公分</td><td>10公分</td><td>6平方公分</td></tr><tr><th scope=\"row\">2倍</th><td>4×6公分</td><td>20公分</td><td>24平方公分</td></tr><tr><th scope=\"row\">3倍</th><td>6×9公分</td><td>30公分</td><td>54平方公分</td></tr><tr><th scope=\"row\">1/2倍</th><td>1×1.5公分</td><td>5公分</td><td>1.5平方公分</td></tr></tbody></table></div><p>周長是對應邊相加，每邊都同倍改變，所以周長按長度倍數改變。面積涉及兩方向，2倍圖為4倍面積，3倍圖為9倍面積，1/2倍圖則為1/4面積。從數據看到差異，再回到長與寬說明原因。</p>",
+      "id": "g6s2-mathematics-09-s02"
+    },
+    {
+      "title": "示範：縮成一半，不是剩一半面積",
+      "childText": "兩個方向各取一半。",
+      "html": "<p>長8公分、寬6公分的圖，原面積48平方公分；縮成1/2倍圖後長4、寬3，面積12平方公分，是48的1/4。若只取原面積一半是24，那可能是只把一個方向縮半，未保持原形。</p><p>對圓也相同：半徑2變4公分，面積由約12.56變50.24平方公分，是4倍；π在前後一樣，所以倍率來自半徑的兩次相乘。這裡只作已知半徑的直接比較，不由面積倒求半徑。</p>",
+      "id": "g6s2-mathematics-09-s03"
+    },
+    {
+      "title": "示範把倍率用在已知面積",
+      "childText": "先確認所有對應長度同倍。",
+      "html": "<p>某圖形各對應長度都放大3倍，原面積8平方公分，放大後為8×3×3＝72平方公分。前提是完整等比例縮放，沒有挖洞、添加邊框或只拉長一邊。</p><p>若題目只說「圖變大」，沒有給長度倍數，就不能判定面積變幾倍；若只說某一邊3倍，也不能直接使用9倍。用公式前先檢查前提，和算出乘積同樣重要。</p>",
+      "id": "g6s2-mathematics-09-s04"
+    },
+    {
+      "title": "一起比較等比例與單向改變",
+      "childText": "兩種模型都能算，但名稱不同。",
+      "html": "<div class=\"lesson-table-scroll\" role=\"region\" tabindex=\"0\" aria-label=\"原圖長4、寬3公分，面積12平方公分，可左右捲動\"><table><caption>原圖長4、寬3公分，面積12平方公分</caption><thead><tr><th scope=\"col\">新尺寸</th><th scope=\"col\">兩方向倍數</th><th scope=\"col\">新面積</th><th scope=\"col\">判讀</th></tr></thead><tbody><tr><th scope=\"row\">8×6公分</th><td>2與2</td><td>48平方公分</td><td>2倍放大圖，面積4倍</td></tr><tr><th scope=\"row\">8×3公分</th><td>2與1</td><td>24平方公分</td><td>只拉長一方向，非2倍圖</td></tr><tr><th scope=\"row\">2×1.5公分</th><td>1/2與1/2</td><td>3平方公分</td><td>1/2倍縮圖，面積1/4</td></tr></tbody></table></div><p>遮住判讀欄，請同伴先用尺寸算面積，再說是不是等比例。不能因新面積是2倍就稱它「2倍放大圖」；放大圖的幾倍通常指對應長度，而非面積。</p>",
+      "id": "g6s2-mathematics-09-s05"
+    },
+    {
+      "title": "面積單位也會有平方關係",
+      "childText": "單位換算可以用方格說明。",
+      "html": "<p>邊長1公尺的正方形，每邊100公分，面積是100×100＝10000平方公分。因此1平方公尺不是100平方公分；長度單位換算同樣在兩方向發生。</p><p>本課只用這個已給正方形模型說明平方關係，不把單位換算與複雜比例尺面積題混在一起。遇到「圖上面積6平方公分」時，不能不經比例說明就把6寫成實際平方公尺；圖面與實際仍是不同量。</p>",
+      "id": "g6s2-mathematics-09-s06"
+    },
+    {
+      "title": "獨立轉用",
+      "childText": "請分別回答長度、周長或面積。",
+      "html": "<p>①原長方形5×2公分，2倍圖尺寸、周長、面積各多少？②原面積36平方公分，所有長度縮成1/3倍，面積多少？③半徑3公分圓放成2倍圖，面積為原來幾倍？④長4寬3改為長12寬3，是否3倍放大圖？</p><details><summary>完成後開啟參考答案</summary><p>①10×4公分，周長28公分，面積40平方公分；原周長14、面積10，可見倍數不同。②36×1/3×1/3＝4平方公分。③4倍。④不是，只有長3倍、寬不變；面積雖3倍，卻不是所有長度3倍的圖。</p></details>",
+      "id": "g6s2-mathematics-09-s07"
+    }
+  ],
+  "teachingHtml": "<p>依S-6-1的等比例縮放結合既有面積概念。需要較多支持的孩子逐排數圖中6與24個同單位小格，再說欄與列各2倍；已熟練的孩子把倍率推到3倍、1/3倍並以原尺寸核對。不把面積倍率當成沒有圖形依據的平方口訣，也不要求平方根逆推縮放比。成人評量先看是否所有對應長度同倍，單向拉伸的面積仍可算但不稱等比例放大圖。1平方公尺換算以完整100乘100格的概念解釋，不要求畫出一萬格；本課圖已供同單位格子，不會以未說明改變格子大小來湊倍率。</p><p>教學可分兩次進行：第一次停在共同示範，讓孩子先口述每一個數的意思；第二次從新資料開始，檢查能否獨立選擇方法。提供大張紙、粗筆或成人代筆，容許指表、畫記與口述，不用書寫速度決定是否理解。需要較多支持的孩子每次只看一列資料，再逐步遮去提示；已熟練的孩子要比較兩種方法的理由，不能只增加計算量。</p><p>評量分別記錄辨認條件、建立關係、正確計算、檢查與解釋。選項答對但不能解釋時，請孩子回到示範指出依據；答錯時保留原稿，先修補一個關鍵錯因，再換一題相似但數字不同的題目。獨立活動先完成才開啟參考答案。紙面操作與實際量測要分開記錄，不把讀過答案當成已完成觀察。</p><p>本課人物、物件數量及情境資料皆為原創教學模型。只需在桌面使用紙筆；紙卡可直接指認，若要裁切由成人預先處理，不要求兒童提供真實姓名、位置、家庭帳務或個人紀錄。官方課綱列的是年級學習內容，本課所在學期與練習次序是編輯安排。</p>",
+  "exercises": [
+    {
+      "id": "g6s2-mathematics-09-q01",
+      "question": "2乘3公分長方形的2倍圖面積為？",
+      "options": [
+        "6平方公分",
+        "24平方公分",
+        "12平方公分"
+      ],
+      "answer": 1,
+      "hint": "新長與新寬都乘2。",
+      "explanation": "新尺寸4×6，面積24，是原6的4倍，不是只乘一次2。"
+    },
+    {
+      "id": "g6s2-mathematics-09-q02",
+      "question": "3倍放大圖的面積為原來幾倍？",
+      "options": [
+        "6倍",
+        "3倍",
+        "9倍"
+      ],
+      "answer": 2,
+      "hint": "兩個方向各乘3。",
+      "explanation": "對應長度都3倍，面積倍率3×3＝9，周長才是3倍。"
+    },
+    {
+      "id": "g6s2-mathematics-09-q03",
+      "question": "1/2倍縮圖的面積為原來多少？",
+      "options": [
+        "2倍",
+        "1/2",
+        "1/4"
+      ],
+      "answer": 2,
+      "hint": "長與寬各取一半。",
+      "explanation": "面積倍率1/2×1/2＝1/4，所以不能只將原面積除2。"
+    },
+    {
+      "id": "g6s2-mathematics-09-q04",
+      "question": "原2乘3公分，2倍圖的周長為？",
+      "options": [
+        "20公分",
+        "24公分",
+        "40公分"
+      ],
+      "answer": 0,
+      "hint": "新尺寸4乘6，沿四邊相加。",
+      "explanation": "周長2×（4＋6）＝20，是原周長10的2倍，而面積是4倍。"
+    },
+    {
+      "id": "g6s2-mathematics-09-q05",
+      "question": "原面積8平方公分，所有長度3倍，面積為？",
+      "options": [
+        "48平方公分",
+        "72平方公分",
+        "24平方公分"
+      ],
+      "answer": 1,
+      "hint": "先找面積倍率3乘3。",
+      "explanation": "8×9＝72平方公分，前提是所有對應長度都作相同倍數放大。"
+    },
+    {
+      "id": "g6s2-mathematics-09-q06",
+      "question": "4乘3改成8乘3，為什麼不是2倍放大圖？",
+      "options": [
+        "兩方向倍數為2和1",
+        "因面積不會變",
+        "因長方形不能放大"
+      ],
+      "answer": 0,
+      "hint": "檢查長和寬各自倍率。",
+      "explanation": "只有長變2倍，寬仍1倍，未保持相同比例，因此不是2倍放大圖。"
+    },
+    {
+      "id": "g6s2-mathematics-09-q07",
+      "question": "1平方公尺等於多少平方公分？",
+      "options": [
+        "10000平方公分",
+        "100平方公分",
+        "1000平方公分"
+      ],
+      "answer": 0,
+      "hint": "每邊1公尺等於100公分。",
+      "explanation": "正方形兩方向各100公分，面積100×100＝10000平方公分。"
+    },
+    {
+      "id": "g6s2-mathematics-09-q08",
+      "question": "只知「圖變大」但沒給縮放倍數，可確定面積嗎？",
+      "options": [
+        "可以，一律面積4倍",
+        "不能，缺少長度倍數或尺寸",
+        "可以，面積等於周長"
+      ],
+      "answer": 1,
+      "hint": "計算前先檢查資料是否完整。",
+      "explanation": "未給倍數或新尺寸，就無法決定兩方向如何改變，因此面積不確定。"
+    }
+  ],
+  "selfCheck": [
+    "我會用欄數和列數解釋面積倍率。",
+    "我不把周長倍率當面積倍率。",
+    "我會檢查是否完整等比例縮放。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "依六年級年度學習內容安排；學期順序、情境、表格與練習為本教材原創編輯設計，不代表全國統一進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：六年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對官方附件印刷頁33–35。S-6-1：縮放及對應邊比例，結合既有面積公式解釋平方倍率，不做逆推平方根。"
+    }
+  ]
+}
