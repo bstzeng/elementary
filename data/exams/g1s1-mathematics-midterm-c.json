@@ -1,0 +1,409 @@
+{
+  "schemaVersion": 1,
+  "id": "g1s1-mathematics-midterm-c",
+  "grade": 1,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "C",
+  "mode": "written",
+  "title": "小一上學期數學・期中C卷",
+  "duration": "建議35–40分鐘，可依閱讀或動作支持需求分兩次完成。",
+  "instructions": [
+    "先聽清楚或讀完題目，再作答。",
+    "不會寫的說明，可以畫圖，或由教師逐字代記你的回答。",
+    "不要比誰寫得快；完成後檢查有沒有漏題。"
+  ],
+  "teacherNotes": [
+    "依本館跨版本主題順序設計，並非全國統一期中／期末進度或常模化標準測驗；施測前核對學校已教範圍。",
+    "可逐題讀題，但不可代做、暗示答案或替學生計數。數學評量不以國字拼寫或書寫速度扣分。",
+    "滿分100分。依各題規準部分給分；有合理其他表示也接受。可以提供沒有標答案的空白紙。",
+    "圖形題可提供等比例的大圖或同樣關係的實物；若改成口述直接揭示圖形關係，須另記調整，不宣稱原圖形辨識已測得。",
+    "本卷不收集姓名、照片或分數，不需要帳號。列印可使用自訂匿名代號。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙",
+    "如需支持：放大圖或等值的實物圖卡；由教師事先準備"
+  ],
+  "blueprint": [
+    {
+      "id": "number",
+      "title": "數與位置",
+      "points": 30,
+      "purpose": "數量、零、指定方向的序數及30以內數序。"
+    },
+    {
+      "id": "compose",
+      "title": "分合與算式",
+      "points": 40,
+      "purpose": "用分合、加法與減法意義建立模型，並修正一個錯誤。"
+    },
+    {
+      "id": "reason",
+      "title": "生活中的數量",
+      "points": 30,
+      "purpose": "在原創情境應用加法、補足與數量守恆。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "number",
+      "title": "數與位置",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-01"
+          ],
+          "prompt": "數一數，圖卡裡共有幾片葉子？",
+          "responseLines": 1,
+          "answer": {
+            "value": "8片",
+            "explanation": "上排5片、下排3片；逐片數，共8片。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「8片」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "葉 葉 葉 葉 葉\n葉 葉 葉",
+          "id": "g1s1-mathematics-midterm-c-q01"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-02"
+          ],
+          "prompt": "小安把袋中最後1顆橘子拿出。袋裡還有幾顆？",
+          "responseLines": 1,
+          "answer": {
+            "value": "0顆",
+            "explanation": "最後一顆也拿走，就一顆都沒有了。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「0顆」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-c-q02"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-03"
+          ],
+          "prompt": "隊伍從「起點」開始算。小河排第幾？",
+          "responseLines": 1,
+          "answer": {
+            "value": "第3",
+            "explanation": "依起點順序是小文第1、小雨第2、小河第3。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「第3」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "起點 → 小文　小雨　小河　小星　小南",
+          "id": "g1s1-mathematics-midterm-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-04"
+          ],
+          "prompt": "兩個杯子分別有5枝和7枝鉛筆。哪個杯子的鉛筆比較多？",
+          "responseLines": 1,
+          "answer": {
+            "value": "乙杯",
+            "explanation": "甲5枝、乙7枝，7大於5。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「乙杯」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "stimulus": "甲杯5枝　乙杯7枝",
+          "id": "g1s1-mathematics-midterm-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-05"
+          ],
+          "prompt": "號碼牌依序排列：9、10、＿＿、12。",
+          "responseLines": 1,
+          "answer": {
+            "value": "11",
+            "explanation": "10後面一個是11，接著才是12。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「11」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-05"
+          ],
+          "prompt": "30前面緊接著的數是多少？",
+          "responseLines": 1,
+          "answer": {
+            "value": "29",
+            "explanation": "往前數一個：30、29，所以答案是29。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "答案「29」或同義的清楚表示得5分；未正確表示得0分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-c-q06"
+        }
+      ]
+    },
+    {
+      "id": "compose",
+      "title": "分合與算式",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-06"
+          ],
+          "prompt": "6塊拼片分成兩袋。第一袋2塊，第二袋幾塊？請畫或寫出分法。",
+          "responseLines": 2,
+          "answer": {
+            "value": "第二袋4塊；6分成2和4。",
+            "explanation": "2塊和4塊放在一起是6塊，沒有遺漏或多算。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "答4塊得6分。"
+              },
+              {
+                "points": 4,
+                "criterion": "正確表示2和4合成6得4分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-c-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-07",
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "展示架上有5件作品，又放上4件。請寫合計件數的加法算式。",
+          "responseLines": 2,
+          "answer": {
+            "value": "5＋4＝9；共9件。",
+            "explanation": "又放上的作品加入原有作品，5加4得到9。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "5＋4或4＋5得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "9件得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-c-q08"
+        },
+        {
+          "kind": "choice",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-09"
+          ],
+          "prompt": "6顆草莓送出1顆。要知道留下幾顆，應選哪個算式？",
+          "responseLines": 0,
+          "answer": {
+            "value": "6－1",
+            "explanation": "送出去的要扣除，所以由6減去1。",
+            "scoring": [
+              {
+                "points": 10,
+                "criterion": "答案「6－1」或同義的清楚表示得10分；未正確表示得0分。"
+              }
+            ],
+            "correctIndex": 0
+          },
+          "options": [
+            "6－1",
+            "6＋1",
+            "1－6"
+          ],
+          "id": "g1s1-mathematics-midterm-c-q09"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "小潔寫「3＋3＝7」。請改正，並用畫圖或分合說明。",
+          "responseLines": 2,
+          "answer": {
+            "value": "3＋3＝6。",
+            "explanation": "兩組各3個，合起來數是6個，不是7個。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "改成6得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "畫出兩組各3共6，或等值說明得5分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-c-q10"
+        }
+      ]
+    },
+    {
+      "id": "reason",
+      "title": "生活中的數量",
+      "instructions": "可以寫數字、畫圖，或依教師安排口述；題目要求說明時，請讓別人看懂你的想法。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-07",
+            "g1s1-mathematics-08"
+          ],
+          "prompt": "小盒和大盒的貼紙全放到同一個信封，信封中有幾張？請寫算式。",
+          "responseLines": 2,
+          "answer": {
+            "value": "1＋8＝9；9張。",
+            "explanation": "兩盒合併，1張加8張是9張。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "1＋8或8＋1得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "9張得5分。"
+              }
+            ]
+          },
+          "stimulus": "小盒1張　大盒8張",
+          "id": "g1s1-mathematics-midterm-c-q11"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-06"
+          ],
+          "prompt": "左盒和哪一盒合起來正好有8片圖卡？寫甲或乙，再畫或寫出分合。",
+          "responseLines": 2,
+          "answer": {
+            "value": "乙盒；4和4合成8。",
+            "explanation": "左盒有4片，甲盒2片、乙盒4片。左盒和乙盒合計8片，左盒和甲盒只有6片。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "選乙盒得6分。"
+              },
+              {
+                "points": 4,
+                "criterion": "畫出兩組各4合成8，寫4＋4＝8或相同分合說明，得4分。"
+              }
+            ]
+          },
+          "id": "g1s1-mathematics-midterm-c-q12",
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 140\" role=\"img\" aria-label=\"左盒、甲盒、乙盒的圖卡，每個圓表示一片。請比較哪個組合能達到題目指定的總數。\"><rect width=\"440\" height=\"140\" fill=\"white\"/><text x=\"25\" y=\"28\" font-size=\"20\">左盒</text><text x=\"170\" y=\"28\" font-size=\"20\">甲盒</text><text x=\"315\" y=\"28\" font-size=\"20\">乙盒</text><circle cx=\"40\" cy=\"65\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"85\" cy=\"65\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"40\" cy=\"110\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"85\" cy=\"110\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"190\" cy=\"65\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"235\" cy=\"65\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"335\" cy=\"65\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"65\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"335\" cy=\"110\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/><circle cx=\"380\" cy=\"110\" r=\"13\" fill=\"white\" stroke=\"#111\" stroke-width=\"3\"/></svg>"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mathematics-04"
+          ],
+          "prompt": "兩組圖卡個數一樣多嗎？不要只看排成什麼形狀，請說明。",
+          "responseLines": 2,
+          "answer": {
+            "value": "一樣多，都是6張。",
+            "explanation": "甲排成兩排，乙排成一排；排列變了，個數都是6。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "答一樣多得4分。"
+              },
+              {
+                "points": 6,
+                "criterion": "指出兩組都6張或完整一對一配對得6分。"
+              }
+            ]
+          },
+          "stimulus": "甲：□ □ □\n　　□ □ □\n乙：□ □ □ □ □ □",
+          "id": "g1s1-mathematics-midterm-c-q13"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館小一上數學主題與教材",
+      "url": "https://bstzeng.github.io/elementary/#g1s1",
+      "note": "主題排列為跨版本參考；試題是另行原創。"
+    },
+    {
+      "title": "教育部數學領域課程綱要",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788&media=print",
+      "note": "數學領域課綱正式發布頁；不將官方學年內容等同固定學期考試順序。"
+    }
+  ],
+  "parallelDesign": "三卷皆30分數與位置、40分分合算式、30分生活推理。補足/分合分別採文字目標、十格板空格、兩組圖卡選配；數量比較分別檢查疏密、物件大小、排列方式是否改變個數。各卷皆要求答案與可見說明，不只換名稱與數字。未經試測，不能聲稱統計等值。"
+}

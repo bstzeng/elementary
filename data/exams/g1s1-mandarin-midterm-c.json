@@ -1,0 +1,361 @@
+{
+  "schemaVersion": 1,
+  "id": "g1s1-mandarin-midterm-c",
+  "grade": 1,
+  "semester": 1,
+  "course": "mandarin",
+  "courseTitle": "國語文",
+  "phase": "midterm",
+  "variant": "C",
+  "mode": "mixed-language",
+  "title": "小一上學期國語文・期中C卷",
+  "duration": "紙筆建議30分鐘；個別聆聽口說與操作約8–10分鐘，可分次進行。",
+  "instructions": [
+    "先聽清楚題目，不用搶快。",
+    "紙筆部分可以用注音；需要口述或其他作答方式時，請告訴老師。",
+    "後半部分和老師一起做，還沒進行的項目先留空。"
+  ],
+  "teacherNotes": [
+    "這是依本館跨版本主題整理的原創評量，不是全國統一考試範圍或常模化標準測驗；先核對已教注音、字詞和活動。",
+    "可讀操作指令，但不要代讀正在考查的注音句、短文、詞卡或朗讀句。選擇題選項可依學生平日支持讀出；支持程度須記錄。",
+    "滿分100分。紙筆60分，個別聆聽／口說／操作40分分開記錄。未完成真人施測的部分記「未觀察」，不可當作答錯或假裝已測。",
+    "聆聽短文與步驟只在教師答案卷提供。按指定次數自然朗讀，不用瀏覽器合成語音作發音模型。聽覺或語言需求依既有支持調整，記錄調整後實際觀察的能力。",
+    "開放題接受合理答案。書寫困難可用選卡、口述或輔具；不能由調整後的概念答案宣稱已測得原書寫／發音能力。",
+    "不要蒐集真實姓名、家庭隱私、錄音或照片；角色分享可以完全虛構。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙",
+    "教師答案卷；安靜的個別聆聽口語空間",
+    "可選：大字圖卡、平日使用的溝通或書寫輔具"
+  ],
+  "blueprint": [
+    {
+      "id": "paper",
+      "title": "讀寫與理解",
+      "points": 60,
+      "purpose": "注音辨認與短句閱讀。"
+    },
+    {
+      "id": "observe",
+      "title": "個別聆聽、口說與操作",
+      "points": 40,
+      "purpose": "真實聽讀、兩步訊息、故事理解與輪流分享。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "paper",
+      "title": "讀寫與理解",
+      "instructions": "共60分。逐題作答，需要說明的地方可寫注音。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-01"
+          ],
+          "prompt": "每排有一個和左邊一樣的符號，把它圈起來。",
+          "responseLines": 2,
+          "answer": {
+            "value": "第一排ㄇ；第二排ㄢ。",
+            "explanation": "ㄇ與ㄈ的開口不同；ㄢ與ㄣ是不同符號，須看整體字形。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "圈ㄇ5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "圈ㄢ5分。"
+              }
+            ]
+          },
+          "stimulus": "ㄇ → ㄈ　ㄅ　ㄇ\nㄢ → ㄢ　ㄣ　ㄥ",
+          "id": "g1s1-mandarin-midterm-c-q01"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "basic",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-02"
+          ],
+          "prompt": "看「圈」的注音。找出聲符和介符。",
+          "responseLines": 2,
+          "answer": {
+            "value": "聲符ㄑ；介符ㄩ。",
+            "explanation": "ㄑ是開頭聲符，ㄩ把聲符和ㄢ連起來，不能換成ㄨ。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "聲符ㄑ5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "介符ㄩ5分。"
+              }
+            ]
+          },
+          "stimulus": "圈：ㄑㄩㄢ",
+          "id": "g1s1-mandarin-midterm-c-q02"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-03"
+          ],
+          "prompt": "把聲調記號補到每組注音後面。",
+          "responseLines": 2,
+          "answer": {
+            "value": "月ㄩㄝˋ；羊ㄧㄤˊ。",
+            "explanation": "月是四聲，羊是二聲，調號標在完整音節最後。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "月標ˋ5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "羊標ˊ5分。"
+              }
+            ]
+          },
+          "stimulus": "月：ㄩㄝ＿＿　羊：ㄧㄤ＿＿",
+          "id": "g1s1-mandarin-midterm-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-04"
+          ],
+          "prompt": "把下面的符號和調號依序合寫。",
+          "responseLines": 2,
+          "answer": {
+            "value": "ㄇㄧˇ；ㄏㄨㄚ。",
+            "explanation": "米是兩個注音符號加三聲記號；花是三個符號合讀。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "ㄇㄧˇ完整得5分；符號對但漏調號得3分。"
+              },
+              {
+                "points": 5,
+                "criterion": "ㄏㄨㄚ得5分。"
+              }
+            ]
+          },
+          "stimulus": "① ㄇ＋ㄧ＋ˇ → ＿＿\n② ㄏ＋ㄨ＋ㄚ → ＿＿",
+          "id": "g1s1-mandarin-midterm-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-05"
+          ],
+          "prompt": "圈出下面字音的結合韻。",
+          "responseLines": 2,
+          "answer": {
+            "value": "家圈ㄧㄚ；圈圈ㄩㄢ。",
+            "explanation": "兩組都是介符接後面的韻符，與開頭聲符分開辨認。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "圈ㄧㄚ5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "圈ㄩㄢ5分。"
+              }
+            ]
+          },
+          "stimulus": "家：ㄐㄧㄚ\n圈：ㄑㄩㄢ",
+          "id": "g1s1-mandarin-midterm-c-q05"
+        },
+        {
+          "kind": "choice",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-06"
+          ],
+          "prompt": "自己讀注音句。小魚在什麼地方？",
+          "responseLines": 0,
+          "answer": {
+            "value": "水裡",
+            "explanation": "句子最後的ㄕㄨㄟˇ ㄌㄧˇ說明小魚的位置。",
+            "scoring": [
+              {
+                "points": 10,
+                "criterion": "選水裡得10分，其餘0分。"
+              }
+            ],
+            "correctIndex": 2
+          },
+          "stimulus": "ㄒㄧㄠˇ　ㄩˊ　ㄗㄞˋ　ㄕㄨㄟˇ　ㄌㄧˇ。",
+          "options": [
+            "山上",
+            "家裡",
+            "水裡"
+          ],
+          "id": "g1s1-mandarin-midterm-c-q06"
+        }
+      ]
+    },
+    {
+      "id": "observe",
+      "title": "個別聆聽、口說與操作",
+      "instructions": "共40分。請等老師安排，再一項一項完成。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-01",
+            "g1s1-mandarin-04",
+            "g1s1-mandarin-05"
+          ],
+          "prompt": "讀出這兩張注音卡。",
+          "responseLines": 2,
+          "answer": {
+            "value": "自然讀出「馬、瓜」。",
+            "explanation": "馬的三聲與媽不同；瓜的中間有ㄨ，要完整合讀。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "馬：拼合3分，三聲可辨2分。"
+              },
+              {
+                "points": 5,
+                "criterion": "瓜：聲符、結合韻拼成可辨音節得3分；第一聲正確可辨得2分。允許先拆拼再合讀，不因合法拼讀策略扣分；只評最後完整讀音。"
+              }
+            ]
+          },
+          "stimulus": "ㄇㄚˇ　　ㄍㄨㄚ",
+          "teacher": "逐張指示，不先說字名。給5秒準備，可中性邀請再讀一次，不教讀後再當獨立作答。",
+          "id": "g1s1-mandarin-midterm-c-q07"
+        },
+        {
+          "kind": "listening",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-07",
+            "g1s1-mandarin-08"
+          ],
+          "prompt": "先聽老師說完，再照順序指圖。",
+          "responseLines": 2,
+          "answer": {
+            "value": "先指星星，再指正方形。",
+            "explanation": "完成目標與先後兩部分，才表示聽懂兩步訊息。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "第一步星星5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "第二步接著正方形5分。"
+              }
+            ]
+          },
+          "stimulus": "□　○　★",
+          "teacher": "讀兩遍：「先指星星，再指正方形。」相隔3秒，語速自然，不作提示動作。讀完再開始指圖。",
+          "id": "g1s1-mandarin-midterm-c-q08"
+        },
+        {
+          "kind": "listening",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-08"
+          ],
+          "prompt": "聽故事後回答：小南想找什麼？最後誰幫他找到？",
+          "responseLines": 2,
+          "answer": {
+            "value": "找畫筆；小安幫他找到。",
+            "explanation": "彩紙是小南先看到的物品，真正要找的是畫筆；小安發現它在筆筒裡。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "畫筆／筆5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "小安5分；以明確指認小安代替說名字也接受。"
+              }
+            ]
+          },
+          "teacher": "讀兩遍原創短文：「小南想畫一朵花，卻找不到畫筆。他在桌上看見彩紙。小安走過來，指著筆筒說：畫筆在這裡。」再問學生卷上的兩個問題，允許口述或學生平日使用的溝通工具回應；不另提供會提示角色答案的卡片。",
+          "id": "g1s1-mandarin-midterm-c-q09"
+        },
+        {
+          "kind": "oral",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-07",
+            "g1s1-mandarin-09"
+          ],
+          "prompt": "想像你是一位植物小幫手。介紹角色稱呼和一件喜歡做的事，再回答老師。",
+          "responseLines": 2,
+          "answer": {
+            "value": "例如：「我是小芽，我喜歡看葉子，因為葉子有不同的形狀。」也接受其他相關的簡短喜好理由。",
+            "explanation": "口語介紹要有可理解的稱呼與活動；聽到問題後作相應回答。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "角色稱呼清楚4分；一次中性提醒後2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "喜歡活動清楚4分；一次中性提醒後2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "等問完且理由相關2分；只達一項1分。"
+              }
+            ]
+          },
+          "teacher": "不用真名，不問私人家庭資料。聽介紹後問：「你為什麼喜歡做這件事？」接受簡短喜好理由，不要求完整長句。 提供30秒準備時間，允許先想再回答；同一項至多一次中性提醒，不示範內容答案。",
+          "id": "g1s1-mandarin-midterm-c-q10"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部國語注音符號手冊",
+      "url": "https://language.moe.gov.tw/001/Upload/files/site_content/M0001/juyin/html_ch/index.html",
+      "note": "2026-10-06核對聲符、介符、聲調標記位置；不將文字題等同實際發音或聽辨。"
+    },
+    {
+      "title": "教育部筆順基本原則",
+      "url": "https://stroke-order.learningweb.moe.edu.tw/page.jsp?ID=23",
+      "note": "核對先橫後豎與由上到下原則；實作評量另須直接觀察運筆。"
+    },
+    {
+      "title": "本館小一上國語文教材",
+      "url": "https://bstzeng.github.io/elementary/#g1s1",
+      "note": "對應已公開主題順序，所有評量情境和短文另行原創。"
+    }
+  ],
+  "parallelDesign": "三卷均六項紙筆60分、四項個別評量40分，涵蓋相同注音辨認／拼合、訊息順序、原創故事聽解及角色介紹。各卷句子、故事、指令與角色任務不同；難度為教學設計估計，未經統計等值檢驗。"
+}

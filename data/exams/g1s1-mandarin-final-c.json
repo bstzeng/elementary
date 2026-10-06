@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 1,
+  "id": "g1s1-mandarin-final-c",
+  "grade": 1,
+  "semester": 1,
+  "course": "mandarin",
+  "courseTitle": "國語文",
+  "phase": "final",
+  "variant": "C",
+  "mode": "mixed-language",
+  "title": "小一上學期國語文・期末C卷",
+  "duration": "紙筆建議30分鐘；個別聆聽口說與操作約8–10分鐘，可分次進行。",
+  "instructions": [
+    "先聽清楚題目，不用搶快。",
+    "紙筆部分可以用注音；需要口述或其他作答方式時，請告訴老師。",
+    "後半部分和老師一起做，還沒進行的項目先留空。"
+  ],
+  "teacherNotes": [
+    "這是依本館跨版本主題整理的原創評量，不是全國統一考試範圍或常模化標準測驗；先核對已教注音、字詞和活動。",
+    "可讀操作指令，但不要代讀正在考查的注音句、短文、詞卡或朗讀句。選擇題選項可依學生平日支持讀出；支持程度須記錄。",
+    "滿分100分。紙筆60分，個別聆聽／口說／操作40分分開記錄。未完成真人施測的部分記「未觀察」，不可當作答錯或假裝已測。",
+    "聆聽短文與步驟只在教師答案卷提供。按指定次數自然朗讀，不用瀏覽器合成語音作發音模型。聽覺或語言需求依既有支持調整，記錄調整後實際觀察的能力。",
+    "開放題接受合理答案。書寫困難可用選卡、口述或輔具；不能由調整後的概念答案宣稱已測得原書寫／發音能力。",
+    "不要蒐集真實姓名、家庭隱私、錄音或照片；角色分享可以完全虛構。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙",
+    "教師答案卷；安靜的個別聆聽口語空間",
+    "可選：大字圖卡、平日使用的溝通或書寫輔具"
+  ],
+  "blueprint": [
+    {
+      "id": "paper",
+      "title": "讀寫與理解",
+      "points": 60,
+      "purpose": "注音核心回顧10分；識字、閱讀、順序與句子50分。"
+    },
+    {
+      "id": "observe",
+      "title": "個別聆聽、口說與操作",
+      "points": 40,
+      "purpose": "看圖表達、書寫過程、朗讀30分；聆聽回顧10分。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "paper",
+      "title": "讀寫與理解",
+      "instructions": "共60分。逐題作答，需要說明的地方可寫注音。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g1s1-mandarin-04",
+            "g1s1-mandarin-06"
+          ],
+          "prompt": "讀注音，和正確語詞連起來。",
+          "responseLines": 2,
+          "answer": {
+            "value": "ㄇㄚˇ對馬；ㄍㄨㄚ對瓜。",
+            "explanation": "馬的三聲不能漏讀；瓜需保留ㄨ，合成完整字音。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "馬配對5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "瓜配對5分。"
+              }
+            ]
+          },
+          "stimulus": "ㄇㄚˇ　　ㄍㄨㄚ\n可選語詞：瓜、花、馬",
+          "id": "g1s1-mandarin-final-c-q01"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-11",
+            "g1s1-mandarin-13"
+          ],
+          "prompt": "把字卡放進合適的句子，每字一次。",
+          "responseLines": 2,
+          "answer": {
+            "value": "水；人。",
+            "explanation": "喝水與人們都是熟悉的生活語詞，依句意與字形判斷。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "①水5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "②人5分。"
+              }
+            ]
+          },
+          "stimulus": "字卡：人、水\n① 運動休息時，我會喝＿＿。\n② 公園裡的＿＿們慢慢走路。",
+          "id": "g1s1-mandarin-final-c-q02"
+        },
+        {
+          "kind": "ordering",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-17"
+          ],
+          "prompt": "按短文把代號排成一列。",
+          "responseLines": 2,
+          "answer": {
+            "value": "甲→丙→乙",
+            "explanation": "先整理桌子，接著畫圖，最後掛在牆上，不能按代號字母順序猜。",
+            "scoring": [
+              {
+                "points": 10,
+                "criterion": "三個代號各用一次且順序甲→丙→乙全對10分。若三個代號各用一次，但僅保留一組正確的相鄰有向配對，得5分；例如丙→乙→甲保留丙乙配對。其他0分。"
+              }
+            ]
+          },
+          "stimulus": "小雨先把桌子整理好，再在桌上畫一隻魚。畫好後，她把圖掛在牆上。\n甲：整理桌子　乙：掛圖　丙：畫魚",
+          "id": "g1s1-mandarin-final-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-15"
+          ],
+          "prompt": "為什麼小禾把葉子放回地上？他沒有做哪件事：看葉子，還是摘樹上的葉子？",
+          "responseLines": 2,
+          "answer": {
+            "value": "例如看到葉上有小蟲所以放回去、怕碰到小蟲，或想讓小蟲繼續爬；沒有摘樹上的葉子。",
+            "explanation": "文字沒有直接說出心情；看到小蟲後放回去，可有不打擾或害怕等合理理由。理由須與文本不矛盾；撿地上的落葉不等於摘樹葉。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "能連結看到小蟲和放回落葉的合理理由得5分，例如不打擾、怕碰到蟲或讓蟲繼續爬；不要求特定道德動機。"
+              },
+              {
+                "points": 5,
+                "criterion": "指出沒有摘樹上的葉子得5分。"
+              }
+            ]
+          },
+          "stimulus": "小禾在地上撿到一片落葉。他看見葉子上有小蟲正在爬，就輕輕把葉子放回地上，站在旁邊看一會兒。",
+          "id": "g1s1-mandarin-final-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-18"
+          ],
+          "prompt": "把詞語排成一句通順的話，也可寫代號。",
+          "responseLines": 2,
+          "answer": {
+            "value": "②④①③；小兔在家裡看書。",
+            "explanation": "先交代角色，再把地點、活動連成完整意思；通順的其他順序也接受。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "四組詞各正確使用一次，每組1分。"
+              },
+              {
+                "points": 6,
+                "criterion": "句中角色作為主語、地點關係、所做動作各清楚正確2分；可接受其他自然通順語序。"
+              }
+            ]
+          },
+          "stimulus": "①家裡　②小兔　③看書　④在",
+          "id": "g1s1-mandarin-final-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-18"
+          ],
+          "prompt": "補上「？」「。」讓讀者知道哪句在問問題。",
+          "responseLines": 2,
+          "answer": {
+            "value": "第一句？；第二句。",
+            "explanation": "問想不想看書是提問；說自己想看是回答。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "①問號5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "②句號5分。"
+              }
+            ]
+          },
+          "stimulus": "① 你想看書嗎＿＿\n② 我想看這本書＿＿",
+          "id": "g1s1-mandarin-final-c-q06"
+        }
+      ]
+    },
+    {
+      "id": "observe",
+      "title": "個別聆聽、口說與操作",
+      "instructions": "共40分。請等老師安排，再一項一項完成。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-10"
+          ],
+          "prompt": "看圖說兩個不同的發現，再提出一個問題。",
+          "responseLines": 2,
+          "answer": {
+            "value": "例如桌上有一張紙；筆筒裡放著筆。可問：「他想用哪一支筆？」其他符合圖上證據的描述也接受。",
+            "explanation": "以圖中物件、動作為依據，問題可延伸，但猜測須以「可能」或問題表達。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第一個可見發現4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第二個不同可見發現4分。"
+              },
+              {
+                "points": 2,
+                "criterion": "與圖相關的清楚問題2分。"
+              }
+            ]
+          },
+          "teacher": "讓學生先看30秒；不要把圖意念完再叫學生重複。需要文字替代者另記調整後構念。",
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 220\" role=\"img\" aria-label=\"原創圖：一人站在桌前，手中的筆接觸桌上紙張，紙上有短線條；桌子右側有一個放著三支筆的筆筒。\"><rect width=\"480\" height=\"220\" fill=\"white\"/><circle cx=\"135\" cy=\"42\" r=\"20\" fill=\"none\" stroke=\"#111\" stroke-width=\"3\"/><path d=\"M135 62V130M135 85L230 110M135 85L180 125M135 130L110 198M135 130L160 198\" fill=\"none\" stroke=\"#111\" stroke-width=\"4\"/><path d=\"M195 135H430M215 135V205M410 135V205\" stroke=\"#111\" stroke-width=\"4\"/><path d=\"M224 112L295 112L318 132H247Z\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M260 123L268 117M268 117L273 120M268 117L265 114\" stroke=\"#111\" stroke-width=\"2\"/><path d=\"M230 110L260 123\" stroke=\"#111\" stroke-width=\"3\"/><path d=\"M350 98H390L385 130H355Z\" fill=\"none\" stroke=\"#111\" stroke-width=\"3\"/><path d=\"M360 99L355 66M370 99V63M380 99L386 70\" stroke=\"#111\" stroke-width=\"3\"/></svg>",
+          "id": "g1s1-mandarin-final-c-q07"
+        },
+        {
+          "kind": "performance",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-12",
+            "g1s1-mandarin-14"
+          ],
+          "prompt": "在下方兩個大方格，各寫一個標出的字。讓老師看你怎麼寫，手不舒服可先休息。",
+          "responseLines": 2,
+          "answer": {
+            "value": "十先橫後豎；三由上到下；使用合適工具與舒服姿勢。",
+            "explanation": "形狀和過程要分開觀察；書寫習慣不等於只能有一種握筆樣子。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "十順序2分、字形可辨2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "三順序2分、三橫可辨2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "自行維持／調整舒服姿勢或適當提出休息2分；中性提醒後調整1分。"
+              }
+            ]
+          },
+          "stimulus": "請按方格上方的字作答。",
+          "teacher": "先查官方筆順，實施時只顯示範字、不提示哪一畫先。可用個別輔具，不能因不同握法而直接扣分。 學生卷已附兩個約3公分方格；先確認列印後空間足夠，必要時等比例放大或改用大空白紙並記錄。",
+          "id": "g1s1-mandarin-final-c-q08",
+          "writingBoxes": [
+            "十",
+            "三"
+          ]
+        },
+        {
+          "kind": "oral",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s1-mandarin-15",
+            "g1s1-mandarin-16"
+          ],
+          "prompt": "把這兩句讀給老師聽，句子結束時停一下。",
+          "responseLines": 2,
+          "answer": {
+            "value": "自然完整朗讀，兩句結束有停頓。",
+            "explanation": "停頓是為了表達兩個完整意思，不以快慢或音量作唯一指標。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "每句字音詞序大致正確各3分；影響意思錯誤每處扣1分，每句最低0分。"
+              },
+              {
+                "points": 4,
+                "criterion": "兩句末自然停頓各2分；不以口音或表演性扣分。"
+              }
+            ]
+          },
+          "stimulus": "小雨來了。小兔看書了。",
+          "teacher": "「小雨」在本句是角色稱呼，施測前教師可說明這是名字但不可讀整句。給30秒默看。不先帶讀；實際支持方式另外記錄。",
+          "id": "g1s1-mandarin-final-c-q09"
+        },
+        {
+          "kind": "listening",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g1s1-mandarin-08"
+          ],
+          "prompt": "聽故事後回答：誰先發現圖卡不見了？最後在哪裡找到？",
+          "responseLines": 2,
+          "answer": {
+            "value": "小青；在書的下面。",
+            "explanation": "發現圖卡不見的人是小青；小白發現圖卡位置，兩人的角色不能混同。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "小青5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "書的下面5分；只說書而無下方位置3分。"
+              }
+            ]
+          },
+          "teacher": "讀兩遍原創短文：「小青準備玩圖卡，發現少了一張。他和小白一起找。小白搬起一本書，看見圖卡就在書的下面。」再問卷上兩題。",
+          "id": "g1s1-mandarin-final-c-q10"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部國語注音符號手冊",
+      "url": "https://language.moe.gov.tw/001/Upload/files/site_content/M0001/juyin/html_ch/index.html",
+      "note": "2026-10-06核對聲符、介符、聲調標記位置；不將文字題等同實際發音或聽辨。"
+    },
+    {
+      "title": "教育部筆順基本原則",
+      "url": "https://stroke-order.learningweb.moe.edu.tw/page.jsp?ID=23",
+      "note": "核對先橫後豎與由上到下原則；實作評量另須直接觀察運筆。"
+    },
+    {
+      "title": "本館小一上國語文教材",
+      "url": "https://bstzeng.github.io/elementary/#g1s1",
+      "note": "對應已公開主題順序，所有評量情境和短文另行原創。"
+    }
+  ],
+  "parallelDesign": "三卷均60分讀寫理解、40分直接觀察，前半核心回顧20分。故事各測事件順序、明示資訊與一項短推論，圖畫是三個不同情境；筆順採相同兩個已核對字以避免新字造成負擔，其他素材另行創作；未經統計等值檢驗。"
+}
