@@ -1,0 +1,184 @@
+{
+  "id": "g4s1-english-09",
+  "course": "英語文",
+  "title": "圖文對話的關鍵訊息",
+  "subtitle": "用圖和完整對話追蹤請求、數量、更正與最後選擇",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "用圖和完整對話追蹤請求、數量、更正與最後選擇。材料和完整對話都在本頁，先理解，再練習並用新資料轉用。",
+  "goals": [
+    "我能從圖找物品和數量，從對話找請求者與需求。",
+    "我會追蹤否定與更正，分開起始庫存、接受和交付。",
+    "我能引用圖或原句作證據，不替未提供的資訊補猜。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放"
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項</h3><p>實際原創場景提供人物、盤子、水果和果汁；圖說只述可見起始狀態，交付另由劇本明寫。七回合原版本交兩蘋果、果汁婉拒；新版本交一香蕉、接受果汁與實際交付分開。支持者回合定位，進階者修改相依資料。所有題目鍵值都以角色、數字、種類與否定逐項核對。圖或文字支持不能冒充純聽辨，口語須合格教師自然完整示範。</p>",
+  "selfCheck": [
+    "我能從圖找物品和數量，從對話找請求者與需求。",
+    "我會追蹤否定與更正，分開起始庫存、接受和交付。",
+    "我能引用圖或原句作證據，不替未提供的資訊補猜。",
+    "我會指出答案根據哪項資料，說明本次用了哪些支持。"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-english-09-s01",
+      "title": "圖和話語各提供什麼",
+      "childText": "桌上有，不等於角色一定要。",
+      "html": "<p>先看角色姓名、物品種類和數量；再讀誰提出請求、哪個訊息被更正、最後是否確定交付。圖文要合起來讀，但不能互相冒充。詞庫：<span lang=\"en\">two apples</span>兩個蘋果、<span lang=\"en\">three bananas</span>三根香蕉、<span lang=\"en\">juice</span>果汁、<span lang=\"en\">please</span>請、<span lang=\"en\">thank you</span>謝謝。</p><p>桌上有果汁只證明有此物品，不證明誰口渴、誰喜歡或誰已喝完。圈出你能直接看見的，對還要讀對話的資料畫問號。無法看圖時用下方完整圖說，仍可做相同的資料比較。</p>"
+    },
+    {
+      "id": "g4s1-english-09-s02",
+      "title": "完整原創桌面",
+      "childText": "圖說只說看得見的事。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 295\" role=\"img\" aria-labelledby=\"g4s1-english-09-fig\"><title id=\"g4s1-english-09-fig\">原創點心桌起始場景：左Nia、右Bo。A盤兩個蘋果、B盤三根香蕉，右側一杯果汁。物品仍在桌上，沒有遞交動作。</title><rect x=\"8\" y=\"8\" width=\"344\" height=\"279\" rx=\"8\" fill=\"#f6f3ea\" stroke=\"#345\"/><g stroke=\"#345\" stroke-width=\"3\"><circle cx=\"63\" cy=\"63\" r=\"21\" fill=\"#c9a17d\"/><path d=\"M37 135V103Q62 86 88 103V135\" fill=\"#5898b4\"/><circle cx=\"289\" cy=\"63\" r=\"21\" fill=\"#dab997\"/><path d=\"M263 135V103Q289 86 315 103V135\" fill=\"#927bb4\"/></g><g lang=\"en\" font-size=\"21\"><text x=\"43\" y=\"31\">Nia</text><text x=\"275\" y=\"31\">Bo</text></g><path d=\"M22 215H337V232H22ZM42 232V267M317 232V267\" fill=\"#bfa779\" stroke=\"#674d2a\" stroke-width=\"3\"/><ellipse cx=\"94\" cy=\"200\" rx=\"62\" ry=\"18\" fill=\"#c7e0eb\" stroke=\"#345\"/><ellipse cx=\"225\" cy=\"200\" rx=\"54\" ry=\"18\" fill=\"#e9c9c6\" stroke=\"#345\"/><g fill=\"#c95652\" stroke=\"#793432\" stroke-width=\"2\"><path d=\"M52 188Q40 158 59 157Q65 148 74 158Q95 155 83 188Q68 205 52 188Z\"/><path d=\"M103 188Q91 158 110 157Q116 148 125 158Q146 155 134 188Q119 205 103 188Z\"/></g><path d=\"M68 159L71 146M119 159L122 146\" stroke=\"#42683c\" stroke-width=\"3\"/><g fill=\"#efcc49\" stroke=\"#7a651d\" stroke-width=\"2\"><path d=\"M181 159Q190 178 205 160Q205 193 190 186Z\"/><path d=\"M213 159Q222 178 237 160Q237 193 222 186Z\"/><path d=\"M245 159Q254 178 278 160Q270 193 254 186Z\"/></g><path d=\"M292 151H329L323 203H298Z\" fill=\"#eea64c\" stroke=\"#69461f\" stroke-width=\"2\"/><text x=\"291\" y=\"143\" font-size=\"14\" lang=\"en\">juice</text><text x=\"77\" y=\"257\" font-size=\"19\">A</text><text x=\"216\" y=\"257\" font-size=\"19\">B</text></svg><figcaption>A盤兩個蘋果、B盤三根香蕉、一杯果汁；這是對話開始前，不代表角色需求或交付。</figcaption></figure><p>請各指出A盤、B盤與果汁的位置。盤內物品數量分別是2、3；這不是兩個角色的年齡。圖沒有價格、果汁容量或任何家庭、健康資料，空白資訊不必填滿。所有食物可只當紙上圖卡，不必品嘗或真的點餐。</p>"
+    },
+    {
+      "id": "g4s1-english-09-s03",
+      "title": "完整七回合對話",
+      "childText": "說話者和先後不能省略。",
+      "html": "<div class=\"story\"><p>1 Nia：<span lang=\"en\">Can I have two apples, please?</span> 請給我兩個蘋果好嗎？<br/>2 Bo：<span lang=\"en\">Two bananas?</span> 兩根香蕉嗎？<br/>3 Nia：<span lang=\"en\">No, two apples, please.</span> 不，是兩個蘋果。<br/>4 Bo：<span lang=\"en\">Here you are.</span> 給你。<br/>5 Nia：<span lang=\"en\">Thank you.</span> 謝謝。<br/>6 Bo：<span lang=\"en\">Would you like some juice?</span> 想要一些果汁嗎？<br/>7 Nia：<span lang=\"en\">No, thank you.</span> 不用，謝謝。</p></div><p>道具準備：成人可在普通大紙卡上分別畫並寫「apple蘋果」2張、「banana香蕉」3張、「juice果汁」1張，在底紙寫A盤與B盤，依起始圖擺放。也可全程直接指本頁物品，成人依劇本讀出交付動作；此時記為指圖／劇本理解，不記實際遞交。無須真食物或飲料。</p><p>劇本動作：第4句Bo將A盤兩張蘋果紙卡給Nia；香蕉和果汁仍在桌上。這個交付來自明寫的動作，不是起始圖上的隱藏手勢。教師按順序完整讀，保留兩處No；未有口語模型時先做文字閱讀。</p>"
+    },
+    {
+      "id": "g4s1-english-09-s04",
+      "title": "一起找四項關鍵訊息",
+      "childText": "每格答案都能指出一句證據。",
+      "html": "<p>成人示範四格：「請求者Nia／需求two apples／修正種類／婉拒juice」。第1句回答誰要什麼，第2、3句顯示banana與apple的更正，第6、7句決定是否接受果汁。孩子將回合號寫在每格旁，再對圖查A盤是否足夠。</p><p>數字two在誤會前後沒有變，只有種類變了。若只寫two，不知道是蘋果或香蕉；若只寫apples，不知道幾個。給支持時可把two與apples兩張詞卡並排，讓孩子合成完整需求再說理由。</p>"
+    },
+    {
+      "id": "g4s1-english-09-s05",
+      "title": "修復：出現過不等於最後答案",
+      "childText": "確認問題也可能猜錯。",
+      "html": "<p>錯摘要「Nia要香蕉，也喝了果汁」忽略兩次否定。bananas是Bo的確認誤會，已被第3句更正；juice是提供，Nia婉拒。正確摘要需保留「兩個蘋果、蘋果紙卡已給出、果汁婉拒」。</p><p>Here you are.本身不告訴所有物品資訊，這頁另供交付動作，才能確定交出什麼。角色微笑、穿什麼顏色也不證明喜好或病況。若只剩孤立句子，先說還需要上下文，別假裝肯定。</p>"
+    },
+    {
+      "id": "g4s1-english-09-s06",
+      "title": "自己試：換兩筆需求資料",
+      "childText": "改一句，相關動作也要跟著改。",
+      "html": "<p>新版本：Nia要一根香蕉，而且願意接受果汁。新第2句Bo誤問<span lang=\"en\">One apple?</span>。請改第1、3句需求、第4句交付及第7句回覆，不改原圖庫存。</p><details><summary>完整轉用模型</summary><p><span lang=\"en\">Can I have one banana, please? / One apple? / No, one banana, please. / Here you are. / Thank you. / Would you like some juice? / Yes, please.</span> 第4句給一張香蕉紙卡；第7句後若另寫Bo給果汁卡，才有果汁交付證據。</p></details><p>一張香蕉已給出，原三張剩兩張。只看到Yes, please.可說同意接受，不可說已喝完；這個差別在新資料也要保留。</p>"
+    },
+    {
+      "id": "g4s1-english-09-s07",
+      "title": "完成一份有根據的摘要",
+      "childText": "每個結論都能回到圖或話語。",
+      "html": "<p>原版本成品：「Nia要兩個蘋果；Bo誤會種類，修正後給出兩張蘋果卡；Nia婉拒果汁。」新版本則是一根香蕉、接受果汁提供。孩子可先用中文摘要，再配核心英語two apples或one banana。</p><p>成人支持者用回合號定位；進階者要求同步更新需求、更正和動作。評物品數量、角色、否定及資料來源分開；書面閱讀題不當聽力成績。若孩子只指圖，記其理解方式，不強迫背稿或公開演出。</p>"
+    }
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Nouns: countable and uncountable",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable",
+      "note": "2026-10-05 直接核對可數單複數、rice/water/bread等物質用法，以及請求或提供時問句可用some；本課只教指定語境，不宣稱所有用法永遠相同。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05 直接核對短段情境活動與Can I have…?、please、thank you等生活框架；不採任何要求孩子只用英語才能求助的限制。"
+    }
+  ],
+  "exercises": [
+    {
+      "id": "g4s1-english-09-q01",
+      "question": "開始圖能確定什麼？",
+      "options": [
+        "Bo已遞出香蕉",
+        "Nia一定想喝果汁",
+        "A盤有兩個蘋果"
+      ],
+      "answer": 2,
+      "hint": "圖中還沒有交付動作。",
+      "explanation": "起始圖只支持物品和數量，不能直接決定角色需求或尚未呈現的交付。"
+    },
+    {
+      "id": "g4s1-english-09-q02",
+      "question": "原對話誰提出two apples請求？",
+      "options": [
+        "Bo",
+        "Nia",
+        "未出場的人"
+      ],
+      "answer": 1,
+      "hint": "找第1句的說話者。",
+      "explanation": "第1句明標Nia且要求two apples，Bo的確認回合不能被當成請求者。"
+    },
+    {
+      "id": "g4s1-english-09-q03",
+      "question": "Two bananas?與原需求差在哪？",
+      "options": [
+        "數量two",
+        "年齡",
+        "種類"
+      ],
+      "answer": 2,
+      "hint": "比較第1句與第2句。",
+      "explanation": "兩句都有two，錯的是apples變成bananas，所以要更正種類而不是數量。"
+    },
+    {
+      "id": "g4s1-english-09-q04",
+      "question": "第4句交付內容根據哪裡？",
+      "options": [
+        "明寫的劇本動作",
+        "起始圖的遞交手勢",
+        "衣服顏色"
+      ],
+      "answer": 0,
+      "hint": "圖沒有畫出遞交。",
+      "explanation": "正文特別寫Bo給兩張蘋果卡，這才是交付內容的證據，不是由起始圖猜出。"
+    },
+    {
+      "id": "g4s1-english-09-q05",
+      "question": "Nia原本如何回應果汁？",
+      "options": [
+        "已喝完",
+        "婉拒",
+        "要求三杯"
+      ],
+      "answer": 1,
+      "hint": "讀No, thank you.全句。",
+      "explanation": "這句是否定本次提供並致謝，不表示接受、飲用完成或要求特定杯數。"
+    },
+    {
+      "id": "g4s1-english-09-q06",
+      "question": "新版本第3句應怎麼更正？",
+      "options": [
+        "No, one banana, please.",
+        "Yes, three bananas.",
+        "No, two apples, please."
+      ],
+      "answer": 0,
+      "hint": "新需求是一根香蕉。",
+      "explanation": "新誤會是one apple，應保留one並改banana，不能沿用舊版本的兩個蘋果。"
+    },
+    {
+      "id": "g4s1-english-09-q07",
+      "question": "明確給一張香蕉後，原三張剩？",
+      "options": [
+        "零張",
+        "兩張",
+        "三張"
+      ],
+      "answer": 1,
+      "hint": "以已交付一張作前提。",
+      "explanation": "從原有三張扣除明寫給出的一張剩兩張，不能忽略交付或假定全部送出。"
+    },
+    {
+      "id": "g4s1-english-09-q08",
+      "question": "只見Yes, please.而無後續動作，能確定？",
+      "options": [
+        "同意接受，尚未證明交付",
+        "一定已喝完",
+        "一定不喜歡"
+      ],
+      "answer": 0,
+      "hint": "接受與完成是不同資訊。",
+      "explanation": "Yes, please.表明接受提供，卻沒有動作證據證明東西已交付或已喝完。"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "g4s1-english-04",
+  "course": "英語文",
+  "title": "食物飲料的需求",
+  "subtitle": "把食物飲料、數量和可提供的選項說清楚，練習禮貌提出需求",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "把食物飲料、數量和可提供的選項說清楚，練習禮貌提出需求。先理解完整情境，再一起練習，最後換資料自己試。",
+  "goals": [
+    "我能區分本課an apple、two apples與some water、some rice。",
+    "我會用Can I have…，please?提出紙上需求並確認實際拿到的物品。",
+    "我能聽懂沒有供應及替代選項，知道請求不保證對方一定能提供。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放",
+    "成人課前在兩張大紙分別寫「apple／蘋果」和「rice／米飯」，供請求與誤交核對；另寫water／水作對話替代卡。可直接寫字或畫簡圖，不需真食物、容器或剪裁。"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-english-04-s01",
+      "title": "食物名稱不全用同一種數法",
+      "childText": "先看本課是在數個體，還是談物質。",
+      "html": "<p>本課詞庫：<span lang=\"en\">apple</span>蘋果、<span lang=\"en\">rice</span>米飯、<span lang=\"en\">bread</span>麵包、<span lang=\"en\">water</span>水、<span lang=\"en\">milk</span>牛奶、<span lang=\"en\">juice</span>果汁。完整蘋果可數：an apple、two apples；這張菜單中的米飯、麵包、水、牛奶和果汁採不可數物質用法：some rice、some bread、some water、some milk、some juice。</p><p>這不是說物質永遠無法測量，而是英文這種說法不直接在water後加s來數。若要說容器，本課用<span lang=\"en\">a cup of water</span>一杯水、<span lang=\"en\">two cups of water</span>兩杯水，數的是cup。這裡只是語言紙卡，沒有飲食份量建議。</p>"
+    },
+    {
+      "id": "g4s1-english-04-s02",
+      "title": "完整紙上菜單與庫存",
+      "childText": "菜單上看得到，才知道能提供什麼。",
+      "html": "<p>角色攤位A的卡：<span lang=\"en\">Apples: 3. Water: available. Rice: available. Milk: not available.</span>蘋果三個；有水；有米飯；沒有牛奶。<span lang=\"en\">available</span>在此表示可提供，不表示每人一定要吃喝。攤位B的卡：<span lang=\"en\">Bread: available. Juice: available. Apples: 0.</span>有麵包、果汁，沒有蘋果。</p><p>請求單甲：<span lang=\"en\">some water</span>；乙：<span lang=\"en\">an apple</span>；丙：<span lang=\"en\">some milk</span>。先配哪個攤位有資料支持，再把找不到供應的留下。沒有寫杯數，就不要假裝知道能提供多少杯；資料未說是否有其他食物，也不要自行新增。</p>"
+    },
+    {
+      "id": "g4s1-english-04-s03",
+      "title": "完整對話：沒有牛奶怎麼辦",
+      "childText": "對方可以提出另一項，你也可以決定。",
+      "html": "<div class=\"story\"><p>客人Nia：<span lang=\"en\">Can I have some milk, please?</span>請給我一些牛奶好嗎？店員Bo：<span lang=\"en\">Sorry, we don’t have any milk. We have water.</span>抱歉，我們沒有牛奶。我們有水。Nia：<span lang=\"en\">Some water, please.</span>請給我一些水。Bo：<span lang=\"en\">Here you are.</span>給你。Nia：<span lang=\"en\">Thank you.</span>謝謝。</p></div><p>成人課前核對完整模型後讀五回合，孩子按先後把「牛奶請求→沒有牛奶→選水→提供→致謝」五張文字卡排列。口語短答Some water, please.在這個上下文自然，不必把所有回合都改成長句。</p>"
+    },
+    {
+      "id": "g4s1-english-04-s04",
+      "title": "一起做：三步提出與查收",
+      "childText": "說明需要，聽回覆，再核對。",
+      "html": "<p>第一步在A攤位提出<span lang=\"en\">Can I have an apple, please?</span>；第二步成人回<span lang=\"en\">Here you are.</span>並指蘋果紙卡；第三步孩子確認物品才說Thank you。若成人指成米飯卡，孩子可說<span lang=\"en\">An apple, please.</span>或用中文指出不符，成人改給蘋果卡。</p><p>另一組把some water換成two cups of water，注意複數在cups，不是waters。成人只檢查表達的單位是否清楚，不真的倒水或要求喝完。未知容器數量的庫存卡不能證明一定有兩杯，角色可以回覆「還要確認」。</p><p>成人課前在兩張大紙分別寫「apple／蘋果」和「rice／米飯」，供請求與誤交核對；另寫water／水作對話替代卡。可直接寫字或畫簡圖，不需真食物、容器或剪裁。成人依步驟先指apple卡，再練故意指rice卡讓孩子修復；操作不便可在本頁對應字上指認。</p>"
+    },
+    {
+      "id": "g4s1-english-04-s05",
+      "title": "修復：問句不一定都用any",
+      "childText": "禮貌請求常見some。",
+      "html": "<p>錯誤口訣「問號前永遠用any」不適用所有情境。這課的請求<span lang=\"en\">Can I have some water, please?</span>自然；說沒有供應時用<span lang=\"en\">We don’t have any milk.</span>。先把整句的用途理解清楚，不只用問號猜一個字。</p><p>另一錯誤是把需求當命令或保證。please表達禮貌，並不取消別人的選擇；<span lang=\"en\">No, thank you.</span>可以婉拒提供的選項。孩子真的需要水或協助時，不以英語完成度延遲照顧；本課不要求公開過敏、疾病或飲食禁忌。</p>"
+    },
+    {
+      "id": "g4s1-english-04-s06",
+      "title": "自己試：改到B攤位",
+      "childText": "換場景後不能沿用A的庫存。",
+      "html": "<p>新客人Paz到B攤位，先想要蘋果，但B沒有蘋果，只有麵包與果汁。任務：先提出蘋果請求，再依B卡回覆，最後Paz自行選麵包或婉拒，不得替角色說一定喜歡果汁。</p><details><summary>一組完整可用對話</summary><p><span lang=\"en\">Can I have an apple, please? / Sorry, we don’t have any apples. We have bread. / Some bread, please. / Here you are. / Thank you.</span>也可在第三回合用<span lang=\"en\">No, thank you.</span>結束提供。角色選擇不同，後面是否遞物也跟著改。</p></details><p>成人可先供回合卡，孩子排出有意義的順序；進階者不看舊對話，用B庫存自行調整。</p>"
+    },
+    {
+      "id": "g4s1-english-04-s07",
+      "title": "做一張需求核對單",
+      "childText": "記需求與實際結果，不能混在一起。",
+      "html": "<p>示範成品：「原請求some milk；A沒有milk；角色同意some water；實際提供water。」這張單可以解釋為什麼最後拿水不等於一開始就要水。再補一格「還不知道杯數」，避免把沒有的數量寫成事實。</p><p>成人分別評詞義、可數與物質用法、禮貌回合、拒絕理解及轉換庫存。紙面閱讀與現場聽說分記，沒有真食物也能完成全部活動；不評吃喝偏好、食量或是否願意接受某飲料。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項觀察</h3><p>本課不作營養或飲用量教學。countability限定菜單物質用法，承認餐飲口語可另有份數用法但不擴充成本課必考。some用於禮貌請求、any用於本課否定，不能教問句一律any。支持者先用an apple/some water兩組；進階者加入cup單位及缺貨後修改五回合。評量要保留原需求與最終選擇兩欄，防止把替代選項視為強迫接受。無實際品嘗、飲水控制或私人健康資訊蒐集。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-english-04-q01",
+      "question": "本課菜單「一些水」用哪個短語？",
+      "options": [
+        "three water",
+        "some water",
+        "a waters"
+      ],
+      "answer": 1,
+      "hint": "這裡談水的物質用法。",
+      "explanation": "本課water作不可數物質，用some water，不直接用three water數水。"
+    },
+    {
+      "id": "g4s1-english-04-q02",
+      "question": "兩杯水的本課寫法是？",
+      "options": [
+        "two cups of water",
+        "two cup of waters",
+        "two waters of cup"
+      ],
+      "answer": 0,
+      "hint": "數的是容器cup。",
+      "explanation": "two配複數cups，water在本課仍作物質用法，因此不另加s。"
+    },
+    {
+      "id": "g4s1-english-04-q03",
+      "question": "A攤位明說沒有哪項？",
+      "options": [
+        "milk",
+        "rice",
+        "water"
+      ],
+      "answer": 0,
+      "hint": "讀A卡的not available。",
+      "explanation": "A卡給milk的狀態是not available，而water和rice都標可提供。"
+    },
+    {
+      "id": "g4s1-english-04-q04",
+      "question": "Nia最初提出什麼請求？",
+      "options": [
+        "some rice",
+        "some milk",
+        "some water"
+      ],
+      "answer": 1,
+      "hint": "分開原請求與後來選擇。",
+      "explanation": "對話第一句要牛奶，水是得知缺貨後才選的替代項，不能混為最初需求。"
+    },
+    {
+      "id": "g4s1-english-04-q05",
+      "question": "Can I have some water, please?自然嗎？",
+      "options": [
+        "不自然，必須把water加s",
+        "自然，請求常可用some",
+        "不自然，所有問句只能any"
+      ],
+      "answer": 1,
+      "hint": "看句子用途是提出請求。",
+      "explanation": "官方語法說明請求或提供常用some，因此不能用問號一概否定這個句子。"
+    },
+    {
+      "id": "g4s1-english-04-q06",
+      "question": "B沒有蘋果，回覆可以是？",
+      "options": [
+        "We have milk.",
+        "Here are three apples.",
+        "We don’t have any apples."
+      ],
+      "answer": 2,
+      "hint": "不要新增B卡沒有的庫存。",
+      "explanation": "B卡蘋果數量為零，用否定句符合資料，不能憑空說有三個或有牛奶。"
+    },
+    {
+      "id": "g4s1-english-04-q07",
+      "question": "角色對替代選項說No, thank you.，意思是？",
+      "options": [
+        "一定生病",
+        "一定接受",
+        "禮貌婉拒"
+      ],
+      "answer": 2,
+      "hint": "讀No與thank you的共同作用。",
+      "explanation": "No保留拒絕的意思，thank you增加禮貌，不表示同意或透露健康狀況。"
+    },
+    {
+      "id": "g4s1-english-04-q08",
+      "question": "庫存只寫water available，可以確定兩杯嗎？",
+      "options": [
+        "不能，杯數還未提供",
+        "可以，一定恰好兩杯",
+        "可以，一定無限杯"
+      ],
+      "answer": 0,
+      "hint": "可提供與數量是兩件事。",
+      "explanation": "available說明有水可供選擇，沒有給容器數量，因此不能斷言恰好或無限杯。"
+    }
+  ],
+  "selfCheck": [
+    "我能區分本課an apple、two apples與some water、some rice。",
+    "我會用Can I have…，please?提出紙上需求並確認實際拿到的物品。",
+    "我能聽懂沒有供應及替代選項，知道請求不保證對方一定能提供。",
+    "我能說明這次用了哪些提示，哪些部分還需要成人示範。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Nouns: countable and uncountable",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable",
+      "note": "2026-10-05 直接核對可數單複數、rice/water/bread等物質用法，以及請求或提供時問句可用some；本課只教指定語境，不宣稱所有用法永遠相同。"
+    },
+    {
+      "title": "British Council｜Drinks flashcards",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-drinks.pdf",
+      "note": "2026-10-05 直接讀PDF的water、milk、orange juice等詞項；本課庫存和所有需求對話原創，不作飲食建議。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05 直接核對短段情境活動與Can I have…?、please、thank you等生活框架；不採任何要求孩子只用英語才能求助的限制。"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "g4s1-arts-05",
+  "course": "藝術",
+  "title": "拍號與節奏組合",
+  "subtitle": "把拍號當分組規則，把不同時值組成完整小節",
+  "duration": "2–3次，每次約25–35分鐘；操作與排練分短段，可隨時休息",
+  "intro": "把拍號當分組規則，把不同時值組成完整小節。從完整原創模型出發，試一個有理由的改變，再把方法用到新情境。",
+  "goals": [
+    "我能讀懂2/4、3/4、4/4的上下數字。",
+    "我能把四分、八分、二分時值與休止組成完整小節。",
+    "我能保持基本拍，合作驗算與修正節奏。"
+  ],
+  "materials": [
+    "本頁節奏卡、粗筆與紙；可輕拍大腿或桌上軟墊",
+    "具節奏能力成人作短聲模型；可全程無聲指拍"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-arts-05-s01",
+      "title": "上面數分組，下面數基本單位",
+      "childText": "上面數分組，下面數基本單位",
+      "html": "<p>本課只處理2/4、3/4、4/4。下面的4表示以四分音符作一拍；上面的2、3或4表示每小節有幾個這樣的拍。3/4不是每小節一定只有三個聲音，而是所有聲音與休止的時值合計三拍。</p><p>四分音符1拍、八分音符半拍、二分音符2拍；四分休止也佔1拍但不發聲。同一拍中可以平均分兩個半拍聲，基本拍仍一次一次前進。每小節第一拍可用輕微提示幫助分組，無須大力拍。</p>"
+    },
+    {
+      "id": "g4s1-arts-05-s02",
+      "title": "完整模型：小節裡如何裝時值",
+      "childText": "完整模型：小節裡如何裝時值",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 260\" role=\"img\" aria-labelledby=\"g4s1-arts-05-fig-a-t g4s1-arts-05-fig-a-d\"><title id=\"g4s1-arts-05-fig-a-t\">原創教學圖</title><desc id=\"g4s1-arts-05-fig-a-d\">上列3/4有一拍聲、兩個各半拍聲、一拍休止，合計三拍。下列4/4有兩拍長音、一拍聲、一拍休止，合計四拍。下方數字對應每拍起點。</desc><rect width=\"360\" height=\"260\" fill=\"#fffdf6\"/><text x=\"12\" y=\"25\" font-size=\"16\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">同一拍可發一聲、兩聲或不發聲</text><text x=\"12\" y=\"53\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3/4：一小節</text><rect x=\"35\" y=\"62\" width=\"75\" height=\"43\" fill=\"#dbe9e8\" stroke=\"#4b6e79\"/><text x=\"72.5\" y=\"81\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">拍</text><text x=\"72.5\" y=\"99\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"110\" y=\"62\" width=\"37.5\" height=\"43\" fill=\"#dbe9e8\" stroke=\"#4b6e79\"/><text x=\"128.75\" y=\"81\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">拍</text><text x=\"128.75\" y=\"99\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0.5拍</text><rect x=\"147.5\" y=\"62\" width=\"37.5\" height=\"43\" fill=\"#dbe9e8\" stroke=\"#4b6e79\"/><text x=\"166.25\" y=\"81\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">拍</text><text x=\"166.25\" y=\"99\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">0.5拍</text><rect x=\"185\" y=\"62\" width=\"75\" height=\"43\" fill=\"#dbe9e8\" stroke=\"#4b6e79\"/><text x=\"222.5\" y=\"81\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"222.5\" y=\"99\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"35\" y=\"130\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><text x=\"110\" y=\"130\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><text x=\"185\" y=\"130\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><text x=\"12\" y=\"163\" font-size=\"17\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4/4：一小節</text><rect x=\"35\" y=\"172\" width=\"150\" height=\"43\" fill=\"#dbe9e8\" stroke=\"#4b6e79\"/><text x=\"110.0\" y=\"191\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">延長</text><text x=\"110.0\" y=\"209\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><rect x=\"185\" y=\"172\" width=\"75\" height=\"43\" fill=\"#dbe9e8\" stroke=\"#4b6e79\"/><text x=\"222.5\" y=\"191\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">拍</text><text x=\"222.5\" y=\"209\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><rect x=\"260\" y=\"172\" width=\"75\" height=\"43\" fill=\"#dbe9e8\" stroke=\"#4b6e79\"/><text x=\"297.5\" y=\"191\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"297.5\" y=\"209\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"35\" y=\"240\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><text x=\"110\" y=\"240\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><text x=\"185\" y=\"240\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><text x=\"260\" y=\"240\" font-size=\"16\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text></svg><figcaption>上列3/4有一拍聲、兩個各半拍聲、一拍休止，合計三拍。下列4/4有兩拍長音、一拍聲、一拍休止，合計四拍。下方數字對應每拍起點。</figcaption></figure><p>上列先發一個一拍聲，第二拍平均發兩聲，第三拍休止；算式1＋0.5＋0.5＋1＝3。下列第一個聲音持續到第二拍末，只起音一次，第三拍再起一次聲，第四拍休止；2＋1＋1＝4。長音不是每拍都重新喊一次。</p>"
+    },
+    {
+      "id": "g4s1-arts-05-s03",
+      "title": "一起讀出三拍短句",
+      "childText": "一起讀出三拍短句",
+      "html": "<p>先數準備「1、2、3」，不算入正式曲。正式做兩小節：第一小節「拍1拍、拍拍各半拍、休1拍」；第二小節「拍1拍、拍1拍、拍1拍」。共6拍，有六次起聲。成人先慢速完整示範，孩子用手指跟著每一基本拍，不先追兩個半拍。</p><p>再讀「1、2和、3」，在2與和各發一個短聲，3保持安靜但心中走拍。下一小節1要準時接上，不把休止刪掉。若聲音不方便，可成人讀，孩子在圖上指出八分音符落在哪一拍。</p>"
+    },
+    {
+      "id": "g4s1-arts-05-s04",
+      "title": "兩人分工：拍點與節奏分開",
+      "childText": "兩人分工：拍點與節奏分開",
+      "html": "<p>甲用輕拍維持每小節三個等長拍點，乙做上面的兩小節節奏；一起休息後交換。甲第三拍仍有基本拍提示，乙第三拍休止，這不矛盾，因為兩人角色不同。表演版若要全組安靜，可改由甲無聲點拍。</p><p>若乙在半拍處加快，先不提高速度，只在第二拍練「2和」均分，再接回完整句。觀察者記具體位置，如「第一小節第二拍後半提早」，不要只寫某人節奏感不好。</p>"
+    },
+    {
+      "id": "g4s1-arts-05-s05",
+      "title": "錯例修理：聲音數不等於拍數",
+      "childText": "錯例修理：聲音數不等於拍數",
+      "html": "<p>錯例卡寫3/4：「四分1拍、二分2拍、四分休止1拍」，合計4拍，超過一小節。可把二分改為四分，使1＋1＋1＝3；也可保留前兩個音而把休止移到下一個重新設計的小節，不能悄悄讓多出的拍消失。</p><p>本課不把3/4和6/8視為同樣規則，也不由拍號單獨判定快慢。3/4既可慢也可快，今天速度由成人選舒適、能平均分拍的範圍。清楚穩定優先於快。</p>"
+    },
+    {
+      "id": "g4s1-arts-05-s06",
+      "title": "自己轉用：補足而非塞滿",
+      "childText": "自己轉用：補足而非塞滿",
+      "html": "<p>新卡甲是4/4：八分、八分、四分、空格；新卡乙是2/4：四分休止、空格。每個空格只補一個音符，使小節完整。先寫時值算式，再為甲乙各創一小節不同節奏，含一個休止即可。</p><details><summary>做完再展開參考與理由</summary><p>甲前半拍＋半拍＋1拍＝2拍，空格補二分音符2拍。乙已有1拍休止，空格補四分音符1拍。自創卡需總和分別4與2，不能只數音符個數；可口述由成人代記。</p></details>"
+    },
+    {
+      "id": "g4s1-arts-05-s07",
+      "title": "排練紀錄分清三件事",
+      "childText": "排練紀錄分清三件事",
+      "html": "<p>第一欄記時值總和，第二欄記是否實際維持基本拍，第三欄記和同伴進出是否一致。能算對不代表已拍穩；能跟成人指拍也與獨立完成不同，這些都是有用的進度，無須混在一個分數。</p><p>結束時每人選一個最需要再練的交接點，用兩小節重試一次。避免連續大力拍擊或喊叫，不舒服便停止。沒有聲音模型時先完成算式與指拍規劃，聆聽和節奏實作留待合適成人觀察。</p>"
+    }
+  ],
+  "teachingHtml": "<p>本課接續三年級的辨認與模仿，四年級重點是先提出目的、控制一項變化、比較證據，再說明修訂。第二學習階段包含三、四年級，本頁的學期排列是參考整理。先讓孩子讀或聽本頁完整模型，再一起試做，最後保留獨立轉用的時間。不要以課外才藝、材料價格、外貌像不像或表演膽量作能力標準。</p><p>先用可見分拍格分清拍與起聲，再讓孩子算完整兩小節。原創示範第一小節三起聲、第二小節三起聲，共六次起聲；請和孩子逐一指譜數出發聲次數，並把休止的拍數另外保留。若做拍點聲部，成人說明它不等同作品休止聲部。起步者先用四分與休止，進階者加入成對八分，但不靠速度競賽。</p><p>支持策略：把模型放大，一次遮住未處理的段落，成人代讀但不代選；允許指認、口述、寫字或既有輔助溝通。操作有困難時由孩子決定位置、順序或修法，成人代操作，記為共同完成。進階者比較兩個合理方案，說明代價與保留理由，不靠增加危險工具、極端音量或速度提升難度。</p><p>評量分成理解、創作決定、實作與回顧四欄。圖文題可支持理解；實作須看見孩子實際安排或演出才記錄，不能用選擇題分數代替。每欄記一項具體證據，區分獨立、提示後、共同完成與尚未觀察，並給一個可做到的下一步。開放作品沒有唯一外觀，但必須能指出與題目條件相符的證據。</p><p>先確認同意與安全：不強迫上臺、眼神接觸、觸碰、個人故事或真實人物肖像。可改想像角色、坐姿、桌上紙卡或觀察者；隨時可以暫停。不收集、拍攝或上傳真實兒童照片及私人資料。桌面或地面保持清楚平坦，材料由成人檢查且適齡完整；不用刀、尖銳固定物、熱源與溶劑。回饋說明實際線索與可能效果，尊重作者保留原案的選擇。</p><p>真實聲音條件：本頁只供文字與圖形樂譜，沒有音檔，也沒有驗聽紀錄。具讀譜能力的成人先用已校準樂器核對所有指定音高、時值、起拍與結尾，完整示範後才做聆聽、歌唱或器樂評量；缺此條件仍可學讀譜、排練規劃與無聲指認，聲音實作列為待觀察。以舒適自然呼吸與音量為原則，不強吸、不憋氣、不比長音，感到不適立即停止；直笛每人專用，不共用吹口。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-arts-05-q01",
+      "question": "3/4下面的4表示什麼？",
+      "options": [
+        "四分音符作一拍",
+        "一小節四拍",
+        "每次只能四個人"
+      ],
+      "answer": 0,
+      "hint": "上下數字分開讀。",
+      "explanation": "下面的4指基本時值單位，上面的3才規定每小節三拍。"
+    },
+    {
+      "id": "g4s1-arts-05-q02",
+      "question": "上圖3/4一小節共有幾次起聲？",
+      "options": [
+        "四次",
+        "三次",
+        "兩次"
+      ],
+      "answer": 1,
+      "hint": "休止不算聲，半拍各起聲。",
+      "explanation": "一個一拍聲加兩個半拍聲共三次起聲，最後休止無聲。"
+    },
+    {
+      "id": "g4s1-arts-05-q03",
+      "question": "上圖3/4第二拍怎麼分？",
+      "options": [
+        "兩個各一拍",
+        "整拍完全休止",
+        "兩個等長半拍"
+      ],
+      "answer": 2,
+      "hint": "看兩個同寬小格。",
+      "explanation": "第二拍被平均分為兩個半拍，兩聲合起來仍只佔一拍。"
+    },
+    {
+      "id": "g4s1-arts-05-q04",
+      "question": "下圖兩拍長音應怎樣做？",
+      "options": [
+        "起聲一次，持續兩拍",
+        "每拍重起一次",
+        "只持續半拍"
+      ],
+      "answer": 0,
+      "hint": "長度與起音次數分清。",
+      "explanation": "二拍長音是單一起音延續兩拍，不等於兩個一拍獨立音。"
+    },
+    {
+      "id": "g4s1-arts-05-q05",
+      "question": "錯例1＋2＋1放3/4，問題是？",
+      "options": [
+        "合計兩拍，太少",
+        "有休止就一定錯",
+        "合計四拍，超過三拍"
+      ],
+      "answer": 2,
+      "hint": "先算時值總和。",
+      "explanation": "三個符號不必然是三拍，該組時值合計四拍而超出規定。"
+    },
+    {
+      "id": "g4s1-arts-05-q06",
+      "question": "4/4新卡半拍＋半拍＋一拍後，一音補幾拍？",
+      "options": [
+        "半拍",
+        "兩拍",
+        "四拍"
+      ],
+      "answer": 1,
+      "hint": "全小節應有四拍。",
+      "explanation": "現有兩拍，還差兩拍，補一個二分音符可完成四拍。"
+    },
+    {
+      "id": "g4s1-arts-05-q07",
+      "question": "乙休止時甲仍輕點基本拍，一定錯嗎？",
+      "options": [
+        "不一定，兩者角色不同",
+        "一定，誰都不能指拍",
+        "一定要改拍號"
+      ],
+      "answer": 0,
+      "hint": "區分提示和節奏聲部。",
+      "explanation": "甲維持基本拍提示，乙按譜休止；角色約定清楚即可共存。"
+    },
+    {
+      "id": "g4s1-arts-05-q08",
+      "question": "只做時值算式能證明哪一項？",
+      "options": [
+        "已穩定拍出節奏",
+        "理解小節時值總和",
+        "已聽出所有快慢"
+      ],
+      "answer": 1,
+      "hint": "選已實際呈現的能力。",
+      "explanation": "算式顯示讀譜與計算理解，節奏表現仍需現場觀察才可確認。"
+    }
+  ],
+  "selfCheck": [
+    "我能讀懂2/4、3/4、4/4的上下數字。",
+    "我能把四分、八分、二分時值與休止組成完整小節。",
+    "我能保持基本拍，合作驗算與修正節奏。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "第二學習階段為三、四年級；PDF第9–11頁與第27頁（印頁24）提供音樂、視覺與表演範圍。本課學期次序、圖畫、短曲、角色與活動均由編者原創，並非指定教材。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Simple Meters",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/simple-meters/",
+      "note": "核對單拍子中拍號、基本拍及分拍關係；本課所有節奏與曲調為原創。本頁沒有音檔，文字讀譜不代表已聽辨或能演奏。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符與休止的相對時值；字母節奏譜為完整原創模型，沒有引用完整既有歌曲或宣稱播放音樂。"
+    }
+  ]
+}

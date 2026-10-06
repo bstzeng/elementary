@@ -1,0 +1,177 @@
+{
+  "id": "g4s1-mathematics-04",
+  "course": "數學",
+  "title": "兩步驟問題與併式",
+  "subtitle": "讓兩步故事變成一個意思清楚、順序正確的算式。",
+  "duration": "建議2–3節，每節35–40分鐘；操作與討論可分段。",
+  "goals": [
+    "以中間量把兩步驟併成一式",
+    "使用括號及四則計算約定",
+    "以逐次減項和單位核對答案"
+  ],
+  "materials": [
+    "大張故事卡、粗筆",
+    "完整紙面的盒袋框圖"
+  ],
+  "intro": "讓兩步故事變成一個意思清楚、順序正確的算式。",
+  "sections": [
+    {
+      "title": "併式是把中間那一步放回去",
+      "childText": "先知道每個數代表什麼，再縮成一式。",
+      "html": "<p>展板原有18張圖，添上6包，每包4張。先算4×6＝24張，再18＋24＝42張。把24換回它的來源，寫18＋4×6＝42。</p><p>算式中的4×6要先算，因為它是新添的總張數。「先乘除後加減」讓讀者不必另寫一句話，也知道要先求哪個量；不是看見數字就從最左一路算。</p><table><caption>保留中間量的名稱</caption><thead><tr><th scope=\"col\">順序</th><th scope=\"col\">分開算</th><th scope=\"col\">量的意思</th></tr></thead><tbody><tr><th scope=\"row\">第一步</th><td>4×6＝24</td><td>新添24張</td></tr><tr><th scope=\"row\">第二步</th><td>18＋24＝42</td><td>共42張</td></tr><tr><th scope=\"row\">併式</th><td>18＋4×6＝42</td><td>先得到新添量再合計</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-04-s01"
+    },
+    {
+      "title": "括號把需要先完成的量包起來",
+      "childText": "括號內是還沒算好的完整一包意思。",
+      "html": "<p>有18張舊圖和14張新圖，全部平均放4頁。先18＋14＝32，再32÷4＝8，因此併式是（18＋14）÷4＝8。括號表示兩批合起來的總量。</p><p>若寫18＋14÷4，就變成先把14除4再加18，不是原來「全部平均分」的故事。併式不能只把題目數字照順序接起來；先圈出要先求的量，必要時加括號。</p>",
+      "id": "g4s1-mathematics-04-s02"
+    },
+    {
+      "title": "逐次減項，把沒有算的部分留下",
+      "childText": "一行只換掉已完成的那一部分。",
+      "html": "<p>18＋4×6＝18＋24＝42；（18＋14）÷4＝32÷4＝8。每個等號兩邊必須是同一個數量，整行才成立。</p><p>18＋4×6＝24＋18＝42也相等；若這樣寫，要說明先算4×6再交換相加的次序。本課先練保留原來未算的18，以便追蹤步驟。不能寫18＋4×6＝24＝42，因原式是42，不等於24。把未算的18留下，能追蹤自己正在做哪一步。</p><table><caption>可追蹤的併式記錄</caption><thead><tr><th scope=\"col\">原式</th><th scope=\"col\">先完成一部分</th><th scope=\"col\">結果</th></tr></thead><tbody><tr><th scope=\"row\">50－6×7</th><td>50－42</td><td>8</td></tr><tr><th scope=\"row\">（45－9）÷6</th><td>36÷6</td><td>6</td></tr><tr><th scope=\"row\">72÷8＋5</th><td>9＋5</td><td>14</td></tr></tbody></table>",
+      "id": "g4s1-mathematics-04-s03"
+    },
+    {
+      "title": "乘除同一層，從左到右",
+      "childText": "並不是看到乘號就一定比除號先算。",
+      "html": "<p>每大包24張，買3大包，平均放6袋。先24×3＝72，再72÷6＝12；併式24×3÷6＝72÷6＝12，答每袋12張。</p><p>另有48張平均放6包，每包的張數再做2倍模型，算48÷6×2＝8×2＝16。乘和除同層，從左到右；若先算6×2會得4，改變了指定算式的意思。</p>",
+      "id": "g4s1-mathematics-04-s04"
+    },
+    {
+      "title": "連除也能併式，但兩個除數別相減",
+      "childText": "先分外層，再分內層。",
+      "html": "<p>96張平均放4盒，每盒再平均放3袋。先96÷4＝24張一盒，再24÷3＝8張一袋，併式96÷4÷3＝24÷3＝8。</p><p>請在紙上畫4個大框，每框再畫3個袋框，說出每次除法分的是什麼。兩層共12袋，96÷12＝8可作核對；不必在本課把連除改寫成新公式，也不能算96÷（4－3）。</p><table><caption>連除時中間數不是最後答案</caption><thead><tr><th scope=\"col\">題目層次</th><th scope=\"col\">計算</th><th scope=\"col\">結果單位</th></tr></thead><tbody><tr><th scope=\"row\">先分4盒</th><td>96÷4</td><td>每盒24張</td></tr><tr><th scope=\"row\">每盒再分3袋</th><td>24÷3</td><td>每袋8張</td></tr><tr><th scope=\"row\">完成併式</th><td>96÷4÷3</td><td>每袋8張</td></tr></tbody></table><figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 245\" role=\"img\" aria-labelledby=\"g4s1-mathematics-04-nested\"><title id=\"g4s1-mathematics-04-nested\">96張圖平均分4盒，每盒再分3袋；圖中4盒各3袋，每袋8張，共12袋。</title><rect x=\"15\" y=\"30\" width=\"155\" height=\"82\" fill=\"#e1f0e9\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"92\" y=\"51\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">第1盒</text><rect x=\"23\" y=\"64\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"45\" y=\"88\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"71\" y=\"64\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"93\" y=\"88\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"119\" y=\"64\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"141\" y=\"88\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"190\" y=\"30\" width=\"155\" height=\"82\" fill=\"#e1f0e9\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"267\" y=\"51\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">第2盒</text><rect x=\"198\" y=\"64\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"220\" y=\"88\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"246\" y=\"64\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"268\" y=\"88\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"294\" y=\"64\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"316\" y=\"88\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"15\" y=\"130\" width=\"155\" height=\"82\" fill=\"#e1f0e9\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"92\" y=\"151\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">第3盒</text><rect x=\"23\" y=\"164\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"45\" y=\"188\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"71\" y=\"164\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"93\" y=\"188\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"119\" y=\"164\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"141\" y=\"188\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"190\" y=\"130\" width=\"155\" height=\"82\" fill=\"#e1f0e9\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"267\" y=\"151\" text-anchor=\"middle\" font-size=\"16\" fill=\"#183f38\" font-family=\"sans-serif\">第4盒</text><rect x=\"198\" y=\"164\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"220\" y=\"188\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"246\" y=\"164\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"268\" y=\"188\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text><rect x=\"294\" y=\"164\" width=\"43\" height=\"35\" fill=\"#fff\" stroke=\"#465e6c\" stroke-width=\"2\"/><text x=\"316\" y=\"188\" text-anchor=\"middle\" font-size=\"14\" fill=\"#183f38\" font-family=\"sans-serif\">8張</text></svg><figcaption>96張圖平均分4盒，每盒再分3袋；圖中4盒各3袋，每袋8張，共12袋。</figcaption></figure>",
+      "id": "g4s1-mathematics-04-s05"
+    },
+    {
+      "title": "一起修理：同一故事配不同算式",
+      "childText": "請先說哪一部分必須先得到。",
+      "html": "<p>故事甲：60張圖用掉12張，剩下平均分6頁。成人給60－12÷6與（60－12）÷6，孩子選後者，因為先剩48張再分，每頁8張。</p><p>故事乙：60張中取出6包，每包8張。應算60－8×6＝12。兩題同有減法與除乘，卻沒有通用「見剩下就先減」的口訣；要辨認各個量的關係。</p>",
+      "id": "g4s1-mathematics-04-s06"
+    },
+    {
+      "title": "獨立轉用：寫式、算式、講故事",
+      "childText": "三種表示要彼此相合。",
+      "html": "<p>獨立解兩題：每盒15張，4盒平均放10袋，每袋幾張？54張平均放6袋，每袋再添3張，最後每袋幾張？各寫分開算式和併式，圈出先算部分，用完整單位回答。</p><p>先保留自己的算式、圖或口述理由，完成後再展開核對；答案不同時指出哪一步需要修理。</p><details><summary>完成後核對</summary><p>解「每盒15張，4盒平均放10袋」：15×4÷10＝60÷10＝6張一袋。再解「54張平均放6袋，每袋添3張」：54÷6＋3＝9＋3＝12張一袋。</p><p>出口自選一題寫分開算式與併式，圈出第一步，說明每行等號兩邊為何一樣多。成人把單位寫在式子旁，不把「張」「袋」混進純數字運算；最終答案補上合題意的單位。</p></details>",
+      "id": "g4s1-mathematics-04-s07"
+    }
+  ],
+  "teachingHtml": "<p>依N-4-3與R-4-1，本課首次將先前兩步驟問題連成整數併式，包含乘除與連除。成人先允許孩子分開算，再以中間量替換回原式，而不從背優先順序開始。18張加6包圖的情境要特別釐清4是每包張數、6是包數、24才是可與18相加的張數。</p><p>括號課例用全部平均分，讓孩子比較有括號和沒有括號的實際問題。逐次減項維持每個等號連接等量，若孩子省略尚未算的18，先讀成「42等於24嗎」再修理。乘除同層與加減同層的左至右原則同時口述；本課只需兩步計算，不安排多層括號或負數。</p><p>96張分4盒再每盒分3袋時要畫出內外兩層，檢查每盒3袋而非總共3袋。支持組提供中間量標籤與空白算式，能先說明再書寫；熟練組可為同一組數編兩種不同括號的故事，不要求超出兩步的形式推導。成人記錄是否能辨認第一步、使用括號、保留未算部分、處理同層乘除及回報單位，這些比算對一次更能顯示理解。</p><p>成人可讓孩子指圖、口說、畫記或由成人代筆，先保留孩子的原想法，再要求用本課的量、單位或模型解釋。不要以字跡、讀題速度或操作精細度代替數學評量。材料採完整大張圖卡；不使用小顆物品，不收集真實姓名、家庭資料或其他個人紀錄。</p><p>評量分開記錄「理解題意、選用表徵、完成推算、核對並說明」四項。若答案碰巧正確而理由不合，換一組數量或換一個方向重新觀察；若只有書寫卡住，提供格式而保留思考任務。課末請孩子選一題說明哪裡最需要檢查，成人據此安排下次短練習，不以大量重複題取代錯因修補。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-mathematics-04-q01",
+      "question": "18張加6包、每包4張，併式是？",
+      "options": [
+        "（18＋4）×6",
+        "18×4＋6",
+        "18＋4×6"
+      ],
+      "answer": 2,
+      "hint": "先求新添的張數。",
+      "explanation": "4乘6得到新添24張，再和原有18張相加，符合故事。"
+    },
+    {
+      "id": "g4s1-mathematics-04-q02",
+      "question": "（18＋14）÷4先算哪一部分？",
+      "options": [
+        "14÷4",
+        "18＋14",
+        "18÷4"
+      ],
+      "answer": 1,
+      "hint": "括號表示先合起來的總量。",
+      "explanation": "必須先求18與14合計32，才把全部32平均分成4份。"
+    },
+    {
+      "id": "g4s1-mathematics-04-q03",
+      "question": "18＋4×6的正確逐次記錄是？",
+      "options": [
+        "24＝42",
+        "18＋24＝42",
+        "22×6＝132"
+      ],
+      "answer": 1,
+      "hint": "未算的18不能消失。",
+      "explanation": "先算乘法24，再保留18相加，等號每一段都代表42。"
+    },
+    {
+      "id": "g4s1-mathematics-04-q04",
+      "question": "48÷6×2應得到？",
+      "options": [
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 2,
+      "hint": "乘和除同一層，從左到右。",
+      "explanation": "48先除6得8，再乘2為16；先算6乘2會改變指定次序。"
+    },
+    {
+      "id": "g4s1-mathematics-04-q05",
+      "question": "96張分4盒，每盒再分3袋，每袋？",
+      "options": [
+        "8張",
+        "24張",
+        "72張"
+      ],
+      "answer": 0,
+      "hint": "先找每盒24張，再分3袋。",
+      "explanation": "96除4得每盒24張，24再除3得每袋8張。"
+    },
+    {
+      "id": "g4s1-mathematics-04-q06",
+      "question": "60張用掉12張，其餘分6頁，併式？",
+      "options": [
+        "60－12÷6",
+        "（60－12）÷6",
+        "60÷6－12"
+      ],
+      "answer": 1,
+      "hint": "先求剩下的總張數。",
+      "explanation": "先減得48張，再平均分6頁，每頁8張，所以減法放括號。"
+    },
+    {
+      "id": "g4s1-mathematics-04-q07",
+      "question": "15×4÷10在盒袋題中的中間量60是？",
+      "options": [
+        "4盒共有60張",
+        "每袋60張",
+        "共有60袋"
+      ],
+      "answer": 0,
+      "hint": "第一步算每盒張數乘盒數。",
+      "explanation": "15張取4盒得到總張數60，第二步才求每袋的張數。"
+    },
+    {
+      "id": "g4s1-mathematics-04-q08",
+      "question": "54張分6袋，每袋再添3張，最後每袋？",
+      "options": [
+        "12張",
+        "9張",
+        "57張"
+      ],
+      "answer": 0,
+      "hint": "先求原本每袋幾張。",
+      "explanation": "54除6是每袋9張，再加3張成每袋12張，單位保持張。"
+    }
+  ],
+  "selfCheck": [
+    "我先找中間量，再併式。",
+    "我會用括號保護先算的量。",
+    "我讓每個等號兩邊保持相等。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜數學領域課程綱要正式發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "學習內容依官方年級條目；本課學期順序、原創情境和練習為編輯安排，不是全國統一學期進度。"
+    },
+    {
+      "title": "教育部｜數學領域課綱附件：四年級學習內容",
+      "url": "https://edu.law.moe.gov.tw/Download.ashx?FileID=31051&id=GL001788&type=LAW",
+      "note": "核對印刷頁26–29。N-4-3、R-4-1：整數兩步乘除、連除與既學題型的併式；按括號、先乘除及同層左至右逐次減項。"
+    }
+  ]
+}

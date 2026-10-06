@@ -1,0 +1,187 @@
+{
+  "id": "g4s1-arts-08",
+  "course": "藝術",
+  "title": "歌曲情感與力度",
+  "subtitle": "先理解歌曲情境，再選擇力度，保持音高和拍子清楚",
+  "duration": "2–3次，每次約25–35分鐘；操作與排練分短段，可隨時休息",
+  "intro": "先理解歌曲情境，再選擇力度，保持音高和拍子清楚。從完整原創模型出發，試一個有理由的改變，再把方法用到新情境。",
+  "goals": [
+    "我能區分力度、速度與音高。",
+    "我能依原創歌詞提出兩種有理由的力度方案。",
+    "我能用具體聆聽證據比較演唱並安全調整。"
+  ],
+  "materials": [
+    "完整原創字母譜與歌詞；具讀譜能力的成人或已校準鍵盤",
+    "紙筆標力度，舒適音量；可選指譜或朗讀，不強制獨唱"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-arts-08-s01",
+      "title": "力度是相對強弱，不是用力喊",
+      "childText": "力度是相對強弱，不是用力喊",
+      "html": "<p>力度描述聲音強弱。p表示弱，mf表示中強，是同一段音樂情境中的相對比較，不是規定幾分貝。速度是拍子進行快慢，音高是音在高低位置；唱強一些不等於加快，也不表示換成更高音。</p><p>歌曲情感可以由歌詞、曲線、力度等共同形成。同一首可唱得像悄悄陪伴，也可像清楚邀請，沒有「弱一定悲傷、強一定快樂」的對照表。選擇必須在舒適音量內，保持音色與字清楚。</p>"
+    },
+    {
+      "id": "g4s1-arts-08-s02",
+      "title": "完整原創歌曲與情境",
+      "childText": "完整原創歌曲與情境",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 398\" role=\"img\" aria-labelledby=\"g4s1-arts-08-fig-a-t g4s1-arts-08-fig-a-d\"><title id=\"g4s1-arts-08-fig-a-t\">原創教學圖</title><desc id=\"g4s1-arts-08-fig-a-d\">第1小節：C4(1拍)唱「小」、E4(1拍)唱「小」、G4(2拍)唱「燈」；第2小節：G4(1拍)唱「輕」、F4(1拍)唱「輕」、E4(2拍)唱「亮」；第3小節：D4(1拍)唱「陪」、E4(1拍)唱「我」、F4(1拍)唱「慢」、D4(1拍)唱「慢」；第4小節：C4(3拍)唱「走」、休(1拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</desc><rect width=\"360\" height=\"398\" fill=\"#fffdf6\"/><text x=\"12\" y=\"23\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">《路旁小燈》4/4；p → mf的選擇</text><text x=\"12\" y=\"64\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1</text><rect x=\"36\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">C4</text><text x=\"74.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"74.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">小</text><rect x=\"112\" y=\"44\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"150.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"150.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">小</text><rect x=\"188\" y=\"44\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"264.0\" y=\"63\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G4</text><text x=\"264.0\" y=\"82\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><text x=\"264.0\" y=\"110\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">燈</text><text x=\"12\" y=\"151\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2</text><rect x=\"36\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">G4</text><text x=\"74.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"74.0\" y=\"197\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">輕</text><rect x=\"112\" y=\"131\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">F4</text><text x=\"150.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"150.0\" y=\"197\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">輕</text><rect x=\"188\" y=\"131\" width=\"152\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"264.0\" y=\"150\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"264.0\" y=\"169\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">2拍</text><text x=\"264.0\" y=\"197\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">亮</text><text x=\"12\" y=\"238\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3</text><rect x=\"36\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"74.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">D4</text><text x=\"74.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"74.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">陪</text><rect x=\"112\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">E4</text><text x=\"150.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"150.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">我</text><rect x=\"188\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"226.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">F4</text><text x=\"226.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"226.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">慢</text><rect x=\"264\" y=\"218\" width=\"76\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"302.0\" y=\"237\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">D4</text><text x=\"302.0\" y=\"256\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text><text x=\"302.0\" y=\"284\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">慢</text><text x=\"12\" y=\"325\" font-size=\"15\" text-anchor=\"start\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">4</text><rect x=\"36\" y=\"305\" width=\"228\" height=\"46\" fill=\"#dcebef\" stroke=\"#477384\"/><text x=\"150.0\" y=\"324\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">C4</text><text x=\"150.0\" y=\"343\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">3拍</text><text x=\"150.0\" y=\"371\" font-size=\"15\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">走</text><rect x=\"264\" y=\"305\" width=\"76\" height=\"46\" fill=\"#edf0e6\" stroke=\"#477384\"/><text x=\"302.0\" y=\"324\" font-size=\"14\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">休</text><text x=\"302.0\" y=\"343\" font-size=\"12\" text-anchor=\"middle\" fill=\"#173947\" font-family=\"Noto Sans CJK TC,sans-serif\">1拍</text></svg><figcaption>第1小節：C4(1拍)唱「小」、E4(1拍)唱「小」、G4(2拍)唱「燈」；第2小節：G4(1拍)唱「輕」、F4(1拍)唱「輕」、E4(2拍)唱「亮」；第3小節：D4(1拍)唱「陪」、E4(1拍)唱「我」、F4(1拍)唱「慢」、D4(1拍)唱「慢」；第4小節：C4(3拍)唱「走」、休(1拍)。方格寬度按時值表示，並非五線譜；實際聲音需成人核實示範。</figcaption></figure><p>情境是一盞想像中的路燈邀請旅人慢走，沒有真實兒童故事。準備4拍後開始，全曲4個4拍小節共16拍。11個發聲音對11字；燈、亮各2拍，走3拍，末拍休止。成人先核C4到G4音域並完整示範，未聽模型時可先分析譜。</p>"
+    },
+    {
+      "id": "g4s1-arts-08-s03",
+      "title": "示範兩個都合理的力度方案",
+      "childText": "示範兩個都合理的力度方案",
+      "html": "<p>方案甲：第1、2小節p，第3、4小節mf，讓前半像輕聲注意小燈，後半像清楚邀請。方案乙：第1、2小節mf，第3、4小節p，像先招呼再放輕陪伴。兩案音高、時值、速度和歌詞全相同，只改力度段落。</p><p>教師先演甲再演乙，中間停止說明，不把兩次黏成一首。若C4起音不合孩子舒適範圍，先改指譜或由教師列出完整移調版，不能只要求孩子硬唱。兩次都保持自然聲量，不以極端強弱才算有差異。</p>"
+    },
+    {
+      "id": "g4s1-arts-08-s04",
+      "title": "一起聆聽時只追一個問題",
+      "childText": "一起聆聽時只追一個問題",
+      "html": "<p>第一次只聽第3小節「陪」字進入時是否比前半強；第二次看它是否比前半弱。觀察卡寫「版本＿＿，轉換在第＿＿小節；我聽到＿＿」。能重聽時再檢查拍子有沒有加快，不一次要求判斷所有細節。</p><p>若兩案差別聽不出，可先請成人再示範短短的第2、3小節，用清楚但舒適的對比，不叫孩子放大嗓門。沒有實際聲音條件，就把卡標為預期方案，不填成聽到的結果。</p>"
+    },
+    {
+      "id": "g4s1-arts-08-s05",
+      "title": "漸強要有範圍，句末要有收法",
+      "childText": "漸強要有範圍，句末要有收法",
+      "html": "<p>漸強是逐漸增加力度，與在某一拍直接換成較強不同。若想把甲的第3小節由p逐步走到mf，必須標明起點「陪」與終點最後一個「慢」，第4小節維持mf，不能只寫整首越來越大而失去控制。</p><p>原曲沒有安排前兩句間休止；練習時可先分兩小節停下休息。完整演唱需教師依孩子能力安排，必要時加一個明示的分段停頓並註記為練習版，不以憋氣追求原譜連續。任何不舒服都可停，不強迫唱完。</p>"
+    },
+    {
+      "id": "g4s1-arts-08-s06",
+      "title": "自己轉用：為新意圖選擇",
+      "childText": "自己轉用：為新意圖選擇",
+      "html": "<p>新意圖是「開始像清楚招呼，最後像輕聲道別」。不改音高、速度與歌詞，選一個較合這個意圖的兩段力度方案，說出理由；也可另設第3小節由mf漸弱到p的方案，明列範圍。先寫計畫，再由成人核對示範。</p><details><summary>做完再展開參考與理由</summary><p>方案乙前半mf、後半p較直接符合先清楚後放輕的意圖；也可第1、2小節mf，第3小節從mf漸弱到p，第4小節p。這是依指定目的的合理選擇，不宣稱p本來就等於道別。真正效果須實際聆聽比較。</p></details>"
+    },
+    {
+      "id": "g4s1-arts-08-s07",
+      "title": "回饋不只說有感情",
+      "childText": "回饋不只說有感情",
+      "html": "<p>可說「我聽到第3小節比較輕，像你寫的陪伴意圖；但最後走字縮短了，試保留3拍再收」。這同時辨認成功處與可修處，比說唱得沒感情具體。作者也能解釋自己保留哪一方案。</p><p>把計畫、實唱證據與下次修訂分開寫。指譜者可精確指出力度改變位置，不必因此被迫發聲；演唱者也不必向全班披露自己的情緒。作品情境與人的真實心情可以不同。</p>"
+    }
+  ],
+  "teachingHtml": "<p>本課接續三年級的辨認與模仿，四年級重點是先提出目的、控制一項變化、比較證據，再說明修訂。第二學習階段包含三、四年級，本頁的學期排列是參考整理。先讓孩子讀或聽本頁完整模型，再一起試做，最後保留獨立轉用的時間。不要以課外才藝、材料價格、外貌像不像或表演膽量作能力標準。</p><p>先列兩種力度方案作有控制比較，兒童不能僅猜歌詞情緒就算聆聽。全曲16拍、11字與11音，首兩小節各1+1+2，第三四個一拍，第四3+1。成人須核起音、歌詞延長及舒適音域。分句休息可加在練習版，但明示停頓不冒充原譜。起步者先選兩段強弱，進階者規劃明確漸變範圍。</p><p>支持策略：把模型放大，一次遮住未處理的段落，成人代讀但不代選；允許指認、口述、寫字或既有輔助溝通。操作有困難時由孩子決定位置、順序或修法，成人代操作，記為共同完成。進階者比較兩個合理方案，說明代價與保留理由，不靠增加危險工具、極端音量或速度提升難度。</p><p>評量分成理解、創作決定、實作與回顧四欄。圖文題可支持理解；實作須看見孩子實際安排或演出才記錄，不能用選擇題分數代替。每欄記一項具體證據，區分獨立、提示後、共同完成與尚未觀察，並給一個可做到的下一步。開放作品沒有唯一外觀，但必須能指出與題目條件相符的證據。</p><p>先確認同意與安全：不強迫上臺、眼神接觸、觸碰、個人故事或真實人物肖像。可改想像角色、坐姿、桌上紙卡或觀察者；隨時可以暫停。不收集、拍攝或上傳真實兒童照片及私人資料。桌面或地面保持清楚平坦，材料由成人檢查且適齡完整；不用刀、尖銳固定物、熱源與溶劑。回饋說明實際線索與可能效果，尊重作者保留原案的選擇。</p><p>真實聲音條件：本頁只供文字與圖形樂譜，沒有音檔，也沒有驗聽紀錄。具讀譜能力的成人先用已校準樂器核對所有指定音高、時值、起拍與結尾，完整示範後才做聆聽、歌唱或器樂評量；缺此條件仍可學讀譜、排練規劃與無聲指認，聲音實作列為待觀察。以舒適自然呼吸與音量為原則，不強吸、不憋氣、不比長音，感到不適立即停止；直笛每人專用，不共用吹口。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-arts-08-q01",
+      "question": "p與mf主要標示什麼？",
+      "options": [
+        "固定音高",
+        "每分鐘拍數",
+        "相對力度"
+      ],
+      "answer": 2,
+      "hint": "區分強弱與快慢。",
+      "explanation": "p與mf是相對強弱指示，不是音名，也不直接規定演唱速度。"
+    },
+    {
+      "id": "g4s1-arts-08-q02",
+      "question": "原曲最後的走字持續多久？",
+      "options": [
+        "一拍",
+        "三拍",
+        "四拍且無休止"
+      ],
+      "answer": 1,
+      "hint": "看第四小節。",
+      "explanation": "第四小節C4的走字佔三拍，最後一拍休止，共四拍。"
+    },
+    {
+      "id": "g4s1-arts-08-q03",
+      "question": "方案甲在哪一小節起改為mf？",
+      "options": [
+        "第3小節",
+        "第2小節",
+        "準備拍"
+      ],
+      "answer": 0,
+      "hint": "前兩小節是p。",
+      "explanation": "甲前半兩小節p，第三小節開始的陪字進入mf段落。"
+    },
+    {
+      "id": "g4s1-arts-08-q04",
+      "question": "比較兩方案時，哪項應保持？",
+      "options": [
+        "讓甲更快而乙更慢",
+        "音高、時值與速度",
+        "兩案換成不同歌詞"
+      ],
+      "answer": 1,
+      "hint": "先只比較力度。",
+      "explanation": "保持其他主要條件，才能較清楚討論兩段力度安排帶來的差異。"
+    },
+    {
+      "id": "g4s1-arts-08-q05",
+      "question": "漸強最需要加寫什麼？",
+      "options": [
+        "越大聲越好",
+        "開始與結束位置",
+        "聽者個性"
+      ],
+      "answer": 1,
+      "hint": "要知道從哪裡變到哪裡。",
+      "explanation": "明列漸強範圍和目標力度，演唱者才可有控制地逐步改變。"
+    },
+    {
+      "id": "g4s1-arts-08-q06",
+      "question": "新意圖先招呼後輕聲道別，哪案最直接？",
+      "options": [
+        "全程最大聲",
+        "前p後mf且不給理由",
+        "前mf後p"
+      ],
+      "answer": 2,
+      "hint": "依題目的前後安排。",
+      "explanation": "前半較清楚、後半較輕的方案貼合指定意圖，但仍需實聽效果。"
+    },
+    {
+      "id": "g4s1-arts-08-q07",
+      "question": "唱到不舒服應怎麼做？",
+      "options": [
+        "停止休息或改指譜",
+        "憋氣撐完",
+        "提高音量掩蓋"
+      ],
+      "answer": 0,
+      "hint": "安全比不停唱更重要。",
+      "explanation": "不舒服就停止與調整參與方式，不以憋氣或加大聲量維持演出。"
+    },
+    {
+      "id": "g4s1-arts-08-q08",
+      "question": "哪句回饋可指向可改的具體處？",
+      "options": [
+        "走字少於三拍，可練完整再收",
+        "你這人沒有感情",
+        "弱聲一定代表傷心"
+      ],
+      "answer": 0,
+      "hint": "談可觀察的演唱。",
+      "explanation": "時值不足是可核對的表現，能引出具體修正而不評斷個人情緒。"
+    }
+  ],
+  "selfCheck": [
+    "我能區分力度、速度與音高。",
+    "我能依原創歌詞提出兩種有理由的力度方案。",
+    "我能用具體聆聽證據比較演唱並安全調整。"
+  ],
+  "sources": [
+    {
+      "title": "國家教育研究院｜藝術領域課程綱要",
+      "url": "https://stv.naer.edu.tw/data/course_outline/pta_18533_2143291_60289.pdf",
+      "note": "第二學習階段為三、四年級；PDF第9–11頁與第27頁（印頁24）提供音樂、視覺與表演範圍。本課學期次序、圖畫、短曲、角色與活動均由編者原創，並非指定教材。"
+    },
+    {
+      "title": "Open University｜Performance directions",
+      "url": "https://www.open.edu/openlearn/history-the-arts/music/an-introduction-music-theory/content-section-8.1",
+      "note": "核對p、mf、漸強漸弱與速度、連貫標示的差別；相對力度不是分貝目標。本頁曲譜原創，未播放來源音訊。"
+    },
+    {
+      "title": "Texas A&M University Libraries｜Notes and Rests",
+      "url": "https://odp.library.tamu.edu/stepstomusictheory/chapter/the-basics/",
+      "note": "核對音符與休止的相對時值；字母節奏譜為完整原創模型，沒有引用完整既有歌曲或宣稱播放音樂。"
+    },
+    {
+      "title": "NIDCD｜Taking Care of Your Voice",
+      "url": "https://www.nidcd.nih.gov/health/taking-care-your-voice",
+      "note": "只採避免喊叫、聲音疲累時休息及舒適用聲的安全原則；不提供診斷、療程或強制呼吸練習。"
+    }
+  ]
+}

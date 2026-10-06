@@ -1,0 +1,190 @@
+{
+  "id": "g4s1-english-03",
+  "course": "英語文",
+  "title": "水果名稱與複數",
+  "subtitle": "把水果種類、數量和單複數一起說清楚，核對一張完整訂單",
+  "duration": "2–3次，每次20–30分鐘；口語可拆成短段",
+  "intro": "把水果種類、數量和單複數一起說清楚，核對一張完整訂單。先理解完整情境，再一起練習，最後換資料自己試。",
+  "goals": [
+    "我能辨認apple、banana、orange、pear並配對本課數量。",
+    "我會在本課一般可數水果用法中區分one apple與three apples。",
+    "我能把數量更新到詞尾和完整句，不把所有名詞都套用加s。"
+  ],
+  "materials": [
+    "本頁完整原創情境、字句卡與鉛筆；無需另購教材",
+    "可用指認、繪圖、AAC或成人代寫；不用真實個資或食物",
+    "教師課前核對完整口語模型；本頁無音檔且未驗聽播放",
+    "成人課前在兩張大紙上各畫一個盤：A盤畫三個分開蘋果，B盤畫一根香蕉；也可寫「A：three apples／三個蘋果」「B：one banana／一根香蕉」作同等文字卡。只需大紙與鉛筆，不用剪裁、真盤或食物。"
+  ],
+  "sections": [
+    {
+      "id": "g4s1-english-03-s01",
+      "title": "名稱和數量各有工作",
+      "childText": "知道是蘋果，還要知道幾個。",
+      "html": "<p>本課把完整可數水果作物品：<span lang=\"en\">apple</span>蘋果、<span lang=\"en\">banana</span>香蕉、<span lang=\"en\">orange</span>柳橙、<span lang=\"en\">pear</span>梨。這裡one apple一個蘋果，two apples兩個蘋果；詞尾s也幫讀者看出不只一個。</p><p>先看one、two、three、four的數量，再看名詞的單複數，兩處要互相配合。apple和orange前面用<span lang=\"en\">an</span>：<span lang=\"en\">an apple / an orange</span>；banana和pear用<span lang=\"en\">a banana / a pear</span>。a/an跟讀音有關，本課先學這四個完整組合，不用「只看第一個字母」當所有詞的規則。</p>"
+    },
+    {
+      "id": "g4s1-english-03-s02",
+      "title": "原創水果盤與詞形庫",
+      "childText": "同種水果，也可能有不同數量。",
+      "html": "<figure><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 225\" role=\"img\" aria-labelledby=\"g4s1-english-03-fig\"><title id=\"g4s1-english-03-fig\">原創水果盤：A盤三個蘋果；B盤一根香蕉。數量由三個分開的蘋果圖與一根香蕉圖呈現，下方也有文字。</title><ellipse cx=\"125\" cy=\"133\" rx=\"111\" ry=\"40\" fill=\"#e6edf5\" stroke=\"#345\"/><ellipse cx=\"297\" cy=\"133\" rx=\"51\" ry=\"40\" fill=\"#e6edf5\" stroke=\"#345\"/><g fill=\"#cb5654\" stroke=\"#632b2c\" stroke-width=\"2\"><path d=\"M41 106C25 73 55 60 64 74C80 60 99 78 86 108C73 127 52 127 41 106Z\"/><path d=\"M105 106C89 73 119 60 128 74C144 60 163 78 150 108C137 127 116 127 105 106Z\"/><path d=\"M169 106C153 73 183 60 192 74C208 60 227 78 214 108C201 127 180 127 169 106Z\"/></g><path d=\"M64 75L67 57M128 75L131 57M192 75L195 57\" stroke=\"#426032\" stroke-width=\"4\"/><path d=\"M268 74Q298 111 331 76Q325 134 291 122Q270 112 268 74Z\" fill=\"#edc747\" stroke=\"#715917\" stroke-width=\"2\"/><text x=\"96\" y=\"32\" font-size=\"20\">A</text><text x=\"271\" y=\"32\" font-size=\"20\">B</text><g lang=\"en\" font-size=\"22\"><text x=\"65\" y=\"199\">three apples</text><text x=\"250\" y=\"199\" font-size=\"16\">one banana</text></g></svg><figcaption>A盤三個蘋果，B盤一根香蕉；圖形只代表本次卡片，不用顏色判定所有水果。</figcaption></figure><p>完整詞形庫：<span lang=\"en\">one apple → two apples; one banana → two bananas; one orange → two oranges; one pear → two pears.</span> 這四種本課複數都加s。箭頭表示更換數量情境，不是把單字唸成字母串。</p><p>只看A盤一個蘋果的大小，不能把其餘兩個忽略；B盤畫彎彎的一整根香蕉，也不因形狀分成兩根。所有練習可用紙卡，不需要真實食物、品嘗或處理刀具。</p><p>成人課前在兩張大紙上各畫一個盤：A盤畫三個分開蘋果，B盤畫一根香蕉；也可寫「A：three apples／三個蘋果」「B：one banana／一根香蕉」作同等文字卡。只需大紙與鉛筆，不用剪裁、真盤或食物。活動時可移動整張A或B卡；不方便移卡就直接指本頁同一盤。要練新清單，另寫兩根香蕉、四個柳橙、一個梨的文字卡即可。</p>"
+    },
+    {
+      "id": "g4s1-english-03-s03",
+      "title": "完整示範：訂單要聽兩件事",
+      "childText": "水果對了，數量也要對。",
+      "html": "<div class=\"story\"><p>紙上攤位的Kai：<span lang=\"en\">Can I have three apples, please?</span>請給我三個蘋果好嗎？店員角色Jo：<span lang=\"en\">Three apples?</span>三個蘋果？Kai：<span lang=\"en\">Yes, please.</span>好，謝謝。Jo：<span lang=\"en\">Here you are.</span>給你。Kai：<span lang=\"en\">Thank you.</span>謝謝。</p></div><p>成人照五個回合示範，只移動標A的紙盤。孩子指出three和apples怎麼配合，再找B盤為什麼不符合：不是蘋果，而且只有一根。問答用角色姓名，不蒐集真實飲食偏好。</p>"
+    },
+    {
+      "id": "g4s1-english-03-s04",
+      "title": "一起練：從一個改成三個",
+      "childText": "改數字，也檢查詞尾。",
+      "html": "<p>成人供<span lang=\"en\">one pear</span>卡，接著給數量three。先保留水果pear，再換數字，最後檢查結果是<span lang=\"en\">three pears</span>。完整描述用<span lang=\"en\">These are three pears.</span>；一個則用<span lang=\"en\">This is a pear.</span>。先整句配對意思，不必一次背所有文法術語。</p><p>第二組把<span lang=\"en\">two oranges</span>改成一個，得到<span lang=\"en\">one orange</span>或<span lang=\"en\">an orange</span>。在描述「一個柳橙」時兩個都可用，不能把合理變體列成錯誤。教師可用詞卡分步組合，最後合回自然句，不把每詞都停成機器讀法。</p>"
+    },
+    {
+      "id": "g4s1-english-03-s05",
+      "title": "修復：加s不是放到每個詞後面",
+      "childText": "詞尾改變，指涉仍是那種水果。",
+      "html": "<p>錯例<span lang=\"en\">three apple</span>缺了本課所需複數s；修成<span lang=\"en\">three apples</span>。錯例<span lang=\"en\">an apples</span>把單數an與複數混在一起；要一個可改an apple，要幾個則另給數量，如three apples。</p><p>本課四詞的規律不代表所有英文名詞都只加s。例外會另外學；也不要以為看見末尾s就是任何時候都複數。現在只對照給定完整水果與數量，不討論果汁、果肉等不同用法，更不把fruit一律改寫成fruits。</p>"
+    },
+    {
+      "id": "g4s1-english-03-s06",
+      "title": "自己試：更新紙上清單",
+      "childText": "新訂單的種類和數量各自核對。",
+      "html": "<p>新清單：兩根香蕉、四個柳橙、一個梨。先寫或排出英文短語，再選一項用<span lang=\"en\">Can I have …, please?</span>提出紙上請求。成人提供的錯卡是<span lang=\"en\">four orange</span>，請圈出需要修的地方。</p><details><summary>核對短語與請求</summary><p><span lang=\"en\">two bananas; four oranges; one pear</span>。請求例<span lang=\"en\">Can I have two bananas, please?</span>。four orange應改four oranges；一個梨也可寫a pear。若請求用詞卡完成，記看卡表達，不算未提示拼寫。</p></details><p>最後把兩根香蕉改成一根。孩子應只更動那一項為one banana或a banana，其他清單資訊不動。</p>"
+    },
+    {
+      "id": "g4s1-english-03-s07",
+      "title": "用兩次查核完成水果單",
+      "childText": "先查種類，再查數量與詞形。",
+      "html": "<p>成品例：「訂three apples；A盤符合；理由：三個、都是蘋果。」另一例：「B盤one banana；不是three apples。」讓孩子用自己的方式說出兩條依據，不只報選項號。</p><p>成人分欄記錄：四詞認讀、數量對應、單複數、句型及新單修復。口語另由教師檢查可理解性；s的書寫存在不能證明複數尾音已正確發出，本課不以同一個未驗聽尾音模型涵蓋所有詞。</p>"
+    }
+  ],
+  "teachingHtml": "<h3>範圍與課前準備</h3><p>本課是四年級英語文參考主題，三、四年級同屬第二學習階段，分學期順序為編輯安排。先確認孩子能理解所用詞義，再增加資訊比較與改述，不以四年級標籤推定人人相同起點。Ac-Ⅲ-4的300個聽讀說字詞及其中180個拼寫字詞是國小階段整體目標，不是四年級或單學期配額。角色、資料、全文對話及題目均為原創，來源只支持註明的詞義、語法或教學框架。</p><h3>口語模型與證據</h3><p>本頁供應完整成人朗讀文本，但沒有音檔，編寫時也未驗聽任何播放。合格英語教師須課前核對詞句並能自然示範，才做聽辨與發音觀察；語音活動以美式模型為本課參考，其他可理解的正常變體不列錯誤。不用中文諧音、字母名稱串讀或合成聲音代替字音。沒有適合示範者，先完成圖文理解，保留聽說待教，不將紙面選擇題算成聽力或發音通過。</p><h3>差異化與紀錄</h3><p>先做一回有中文與句卡支持的示範，再做換資料的獨立轉用，分別記下認讀、意思判斷、看卡說、跟讀及自主表達。可指認、繪圖、使用AAC或請成人代寫；記錄所用支持，不把代寫列為獨立拼寫。給重聽、短段和休息，不以音量、對視、反應速度或公開表演評分。所有人名與情境均虛構，不蒐集孩子的真實健康、家庭、地址、照片或錄音。遇到實際需求，任何有效語言與表達都可求助，不以英文正確為獲得協助的條件。</p><h3>本課專項觀察</h3><p>重點是數字和名詞詞形的雙重核對、a/an成組理解及訂單更新。支持者只比較one apple/two apples；進階者加入四種水果與一次資料改變。檢查an apple/an orange與a banana/a pear自然，This is a pear與These are three pears主謂一致。未另教複數尾音細分，不把全部s唸法說成一樣；書面詞形與口語分評。紙盤不需食物，避免過敏資料蒐集與品嘗要求。</p>",
+  "exercises": [
+    {
+      "id": "g4s1-english-03-q01",
+      "question": "A盤最準確的英文短語是？",
+      "options": [
+        "one apple",
+        "three apples",
+        "three bananas"
+      ],
+      "answer": 1,
+      "hint": "把種類與數量都數清楚。",
+      "explanation": "A盤有三個分開的蘋果，數量three配複數apples才符合整盤資料。"
+    },
+    {
+      "id": "g4s1-english-03-q02",
+      "question": "一個柳橙可用哪個組合？",
+      "options": [
+        "an orange",
+        "an oranges",
+        "a bananas"
+      ],
+      "answer": 0,
+      "hint": "單數a/an要配單數詞形。",
+      "explanation": "本課一個柳橙用an orange，不能把an與複數oranges相接。"
+    },
+    {
+      "id": "g4s1-english-03-q03",
+      "question": "把one pear改成three，結果是？",
+      "options": [
+        "three pear",
+        "three pears",
+        "one pears"
+      ],
+      "answer": 1,
+      "hint": "數字和名詞詞尾一起查。",
+      "explanation": "three表示三個，本課pear的規則複數是pears，因此兩處資訊要配合。"
+    },
+    {
+      "id": "g4s1-english-03-q04",
+      "question": "Kai提出的完整需求是哪項？",
+      "options": [
+        "三個梨",
+        "三個蘋果",
+        "一根香蕉"
+      ],
+      "answer": 1,
+      "hint": "找three後面接的水果。",
+      "explanation": "原創對話明說three apples，所以數量和種類都要照該請求處理。"
+    },
+    {
+      "id": "g4s1-english-03-q05",
+      "question": "four orange要怎麼修？",
+      "options": [
+        "four oranges",
+        "one oranges",
+        "four banana"
+      ],
+      "answer": 0,
+      "hint": "保留要求的四個柳橙。",
+      "explanation": "只需把orange改複數oranges，不能為了文法更改原訂單的種類或數量。"
+    },
+    {
+      "id": "g4s1-english-03-q06",
+      "question": "一個梨的完整描述可用？",
+      "options": [
+        "These is a pears.",
+        "This are pears.",
+        "This is a pear."
+      ],
+      "answer": 2,
+      "hint": "單數物品配This is。",
+      "explanation": "本課一個梨使用This is a pear.，其他句子混用了單複數與be形式。"
+    },
+    {
+      "id": "g4s1-english-03-q07",
+      "question": "是否所有英文名詞複數都只加s？",
+      "options": [
+        "不是，本課只教這四種的規律",
+        "是，沒有其他詞形",
+        "是，所有詞末尾s都必為複數"
+      ],
+      "answer": 0,
+      "hint": "注意本課規則的適用範圍。",
+      "explanation": "四個水果例子支持這組規則，不足以推出所有名詞都只有加s的變化。"
+    },
+    {
+      "id": "g4s1-english-03-q08",
+      "question": "新單two bananas改成一根，應寫？",
+      "options": [
+        "two banana",
+        "one bananas",
+        "one banana"
+      ],
+      "answer": 2,
+      "hint": "保留種類，只更新數量。",
+      "explanation": "改成一根需要one和單數banana，不能只改一邊而留下數量不一致。"
+    }
+  ],
+  "selfCheck": [
+    "我能辨認apple、banana、orange、pear並配對本課數量。",
+    "我會在本課一般可數水果用法中區分one apple與three apples。",
+    "我能把數量更新到詞尾和完整句，不把所有名詞都套用加s。",
+    "我能說明這次用了哪些提示，哪些部分還需要成人示範。"
+  ],
+  "sources": [
+    {
+      "title": "教育部｜英語文課程綱要（教育雲正式版）",
+      "url": "https://cloud.edu.tw/fileman/users/guest/英語文學習/108課綱-國民中小學暨普通型高中英語文課綱.pdf",
+      "note": "2026-10-05直接核對PDF第6、19、30頁（零起算索引5、18、29；印刷頁4、17、28）：三四年級第二階段、Ab-II語音與重音、Ac-II生活詞語；Ac-III-4之300聽讀說及180拼寫屬整個國小階段。本課學期排序、故事和圖像為原創編輯安排。"
+    },
+    {
+      "title": "British Council｜Fruit flashcards",
+      "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-fruit.pdf",
+      "note": "2026-10-05 直接讀PDF apple、banana、orange、pear詞項，僅核對名稱；水果盤與訂單均原創。"
+    },
+    {
+      "title": "British Council｜Nouns: countable and uncountable",
+      "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2/nouns-countable-uncountable",
+      "note": "2026-10-05 直接核對可數單複數、rice/water/bread等物質用法，以及請求或提供時問句可用some；本課只教指定語境，不宣稱所有用法永遠相同。"
+    },
+    {
+      "title": "British Council｜How to start teaching kids English at home",
+      "url": "https://learnenglishkids.britishcouncil.org/parents/helping-your-child/how-start-teaching-kids-english-home",
+      "note": "2026-10-05 直接核對短段情境活動與Can I have…?、please、thank you等生活框架；不採任何要求孩子只用英語才能求助的限制。"
+    }
+  ]
+}
