@@ -13,7 +13,7 @@ const index=await readFile(path.join(root,'exams/index.html'),'utf8');assert.ok(
 if(!out.browserPrintVerified){assert.ok(index.includes('瀏覽器網頁列印尚未驗證'));assert.deepEqual(m.qaAcceptedFormIds,[]);}
 const tmp=await mkdtemp(path.join(os.tmpdir(),'exam-verification-'));
 try{
- await cp(path.join(root,'data'),path.join(tmp,'data'),{recursive:true});await mkdir(path.join(tmp,'scripts'));await cp(path.join(root,'scripts/build-exams.mjs'),path.join(tmp,'scripts/build-exams.mjs'));await cp(path.join(root,'exams'),path.join(tmp,'exams'),{recursive:true});
+ await cp(path.join(root,'data'),path.join(tmp,'data'),{recursive:true});await mkdir(path.join(tmp,'scripts'));await cp(path.join(root,'scripts/build-exams.mjs'),path.join(tmp,'scripts/build-exams.mjs'));await cp(path.join(root,'scripts/exam-text.mjs'),path.join(tmp,'scripts/exam-text.mjs'));await cp(path.join(root,'exams'),path.join(tmp,'exams'),{recursive:true});
  const id=m.formIds[0],htmlId=Object.keys(v.htmlVerified)[0];
  assert.ok(htmlId,'This release fixture requires an actually HTML-verified source');
  const paper=path.join(tmp,'exams',id+'.html'),before=await readFile(paper);
