@@ -6,6 +6,7 @@ import os from 'node:os';
 import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {createHash} from 'node:crypto';
+import {inflateSync} from 'node:zlib';
 import {examText} from '../scripts/exam-text.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=async p=>JSON.parse(await readFile(path.join(root,p),'utf8'));
@@ -86,3 +87,33 @@ assert.equal(examText('English / 數學 12+3=15 / ˋ'), 'English / 數學 12+3=1
 const css=await readFile(path.join(root,'exams/exam.css'),'utf8');
 assert.match(css,/\.zhuyin-syllable\{[^}]*display:inline-block;white-space:nowrap;word-break:normal;overflow-wrap:normal/);
 console.log('PASS Zhuyin atomic syllables: all tones, neutral prefix/suffix, extended symbols, exact Unicode and safe HTML escaping.');
+
+// Keep the exact circled characters while giving them a bounded, licensed font.
+for(let cp=0x2460;cp<=0x2473;cp++){
+ const c=String.fromCodePoint(cp);
+ assert.equal(examText(c),`<span class="exam-enumeration">${c}</span>`);
+}
+assert.equal(examText('①「把早晨的門推開」②找詞。'), '<span class="exam-enumeration">①</span>「把早晨的門推開」<span class="exam-enumeration">②</span>找詞。');
+assert.equal(examText('①ㄑㄧㄥ\n②晴'), '<span class="exam-enumeration">①</span><span class="zhuyin-syllable">ㄑㄧㄥ</span>\n<span class="exam-enumeration">②</span>晴');
+assert.equal(examText('<img>①&"'), '&lt;img&gt;<span class="exam-enumeration">①</span>&amp;&quot;');
+assert.match(css,/\.exam-enumeration\{display:inline-block;font-family:"Elementary Exam Markers"/);
+assert.match(css,/unicode-range:U\+2460-2473/);
+assert.match(css,/font-synthesis:none;white-space:nowrap/);
+const markerFont=await readFile(path.join(root,'exams/fonts/elementary-exam-markers-v1.woff'));
+assert.equal(markerFont.subarray(0,4).toString(),'wOFF');
+assert.ok(markerFont.length<16384,'Marker-only font must remain small');
+let markerOS2;
+for(let i=0;i<markerFont.readUInt16BE(12);i++){
+ const p=44+i*20;
+ if(markerFont.subarray(p,p+4).toString()!=='OS/2')continue;
+ const offset=markerFont.readUInt32BE(p+4), compressed=markerFont.readUInt32BE(p+8), original=markerFont.readUInt32BE(p+12);
+ const table=markerFont.subarray(offset,offset+compressed);
+ markerOS2=compressed<original?inflateSync(table):table;
+ assert.equal(markerOS2.length,original);
+}
+assert.ok(markerOS2,'Marker font must retain OS/2 embedding metadata');
+assert.equal(markerOS2.readUInt16BE(8),0,'Retain the source font’s unrestricted embedding flag');
+assert.equal(markerOS2.readUInt16BE(62),64,'Retain source Regular style selection');
+const markerLicense=await readFile(path.join(root,'exams/fonts/OFL-Elementary-Exam-Markers.txt'),'utf8');
+assert.ok(markerLicense.includes('Elementary Exam Markers')&&markerLicense.includes('SIL OPEN FONT LICENSE')&&markerLicense.includes('Adobe'));
+console.log('PASS circled-marker isolation: Unicode, escaping, bounded font CSS, same-origin small WOFF and retained license. Actual browser pixels remain a separate gate.');
