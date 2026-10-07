@@ -1,13 +1,13 @@
 {
   "draft": false,
   "qaAccepted": 0,
-  "htmlVerified": 18,
-  "pdfVerified": 42,
+  "htmlVerified": 42,
+  "pdfVerified": 54,
   "browserPrintVerified": 0,
-  "forms": 42,
-  "questions": 393,
+  "forms": 54,
+  "questions": 495,
   "inventory": 624,
-  "documents": 84,
+  "documents": 108,
   "ids": [
     "g1s1-health-pe-final-a",
     "g1s1-health-pe-final-b",
@@ -50,6 +50,18 @@
     "g1s2-mathematics-midterm-c",
     "g1s2-mathematics-final-a",
     "g1s2-mathematics-final-b",
-    "g1s2-mathematics-final-c"
+    "g1s2-mathematics-final-c",
+    "g1s2-mandarin-midterm-a",
+    "g1s2-mandarin-midterm-b",
+    "g1s2-mandarin-midterm-c",
+    "g1s2-mandarin-final-a",
+    "g1s2-mandarin-final-b",
+    "g1s2-mandarin-final-c",
+    "g1s2-life-midterm-a",
+    "g1s2-life-midterm-b",
+    "g1s2-life-midterm-c",
+    "g1s2-life-final-a",
+    "g1s2-life-final-b",
+    "g1s2-life-final-c"
   ]
 }
