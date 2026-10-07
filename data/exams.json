@@ -113,7 +113,13 @@
     "g2s1-school-flexible-midterm-c",
     "g2s1-school-flexible-final-a",
     "g2s1-school-flexible-final-b",
-    "g2s1-school-flexible-final-c"
+    "g2s1-school-flexible-final-c",
+    "g2s2-mathematics-midterm-a",
+    "g2s2-mathematics-midterm-b",
+    "g2s2-mathematics-midterm-c",
+    "g2s2-mathematics-final-a",
+    "g2s2-mathematics-final-b",
+    "g2s2-mathematics-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -223,7 +229,13 @@
     "g2s1-school-flexible-midterm-c": "61d807f9dfb5072a35f0ef82883df69c045ce27248c60c04478310da0252be45",
     "g2s1-school-flexible-final-a": "068a23f5de2aefe616bf53425ebff53dcd37e6bb94c47e637b2c157547358f0b",
     "g2s1-school-flexible-final-b": "175e54adaa33d80bc1e3cb183200a01f77093fabe7e3746e4fcae608572a007c",
-    "g2s1-school-flexible-final-c": "3b4f4065b60663745ce3bba45fad7f663dc201ce5463cbfe75d805ccb9fc69b5"
+    "g2s1-school-flexible-final-c": "3b4f4065b60663745ce3bba45fad7f663dc201ce5463cbfe75d805ccb9fc69b5",
+    "g2s2-mathematics-midterm-a": "f4286a4df020f1bfabee1b8513988d957ad92e745a7a5beba69c37091c1f5ace",
+    "g2s2-mathematics-midterm-b": "5dc24bcc0c34bbec9439a124c2d8cfaf1d7ebb78fef4d42dc88e1094b9dbf6ac",
+    "g2s2-mathematics-midterm-c": "e02ece8fda872c5a2378aa023b66ea63fae67972566b80939d3a319d81e5426f",
+    "g2s2-mathematics-final-a": "b6d39f8fc12095f3ec3db77e656f3367cee0204e8cf5b353f828e151938a5f40",
+    "g2s2-mathematics-final-b": "41f020655c09983a99e1341f457debc5448ef5a8f33bf8d460b4cbe89fcd1c6c",
+    "g2s2-mathematics-final-c": "eb796becddaf9e070d2bb631f4d380ef332ede96b773ebd34b8f47de9bc2de4a"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -334,7 +346,13 @@
       "g2s1-school-flexible-midterm-c",
       "g2s1-school-flexible-final-a",
       "g2s1-school-flexible-final-b",
-      "g2s1-school-flexible-final-c"
+      "g2s1-school-flexible-final-c",
+      "g2s2-mathematics-midterm-a",
+      "g2s2-mathematics-midterm-b",
+      "g2s2-mathematics-midterm-c",
+      "g2s2-mathematics-final-a",
+      "g2s2-mathematics-final-b",
+      "g2s2-mathematics-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -846,6 +864,36 @@
         "sourceSha256": "f717358127f806ab8534c792aebb64305f74c92536446d340b82fe72ebd17830",
         "observedCommit": "dbcfe64f7fd27ab4950c4486441ec48305fc7f51",
         "receiptSha256": "dca496a91389f0e50a93538b13505c996987884998bae033775785392d96b950"
+      },
+      "g2s1-school-flexible-midterm-a": {
+        "sourceSha256": "7423211ddf77aa88077b381c7d6e4f1855e9761eb6e20d3d93257c5cfe531175",
+        "observedCommit": "e645805239ed912b1299556e1da8d682144c8f34",
+        "receiptSha256": "5c558f220209c61487e22cec01c0c4b066e1caeb3d3688869ba5a52e66b42a68"
+      },
+      "g2s1-school-flexible-midterm-b": {
+        "sourceSha256": "9af428ca972ac4c7607ddc9097c507c48583f6be37f3662ea68f3bb6f1728ee9",
+        "observedCommit": "e645805239ed912b1299556e1da8d682144c8f34",
+        "receiptSha256": "5c558f220209c61487e22cec01c0c4b066e1caeb3d3688869ba5a52e66b42a68"
+      },
+      "g2s1-school-flexible-midterm-c": {
+        "sourceSha256": "61d807f9dfb5072a35f0ef82883df69c045ce27248c60c04478310da0252be45",
+        "observedCommit": "e645805239ed912b1299556e1da8d682144c8f34",
+        "receiptSha256": "5c558f220209c61487e22cec01c0c4b066e1caeb3d3688869ba5a52e66b42a68"
+      },
+      "g2s1-school-flexible-final-a": {
+        "sourceSha256": "068a23f5de2aefe616bf53425ebff53dcd37e6bb94c47e637b2c157547358f0b",
+        "observedCommit": "e645805239ed912b1299556e1da8d682144c8f34",
+        "receiptSha256": "5c558f220209c61487e22cec01c0c4b066e1caeb3d3688869ba5a52e66b42a68"
+      },
+      "g2s1-school-flexible-final-b": {
+        "sourceSha256": "175e54adaa33d80bc1e3cb183200a01f77093fabe7e3746e4fcae608572a007c",
+        "observedCommit": "e645805239ed912b1299556e1da8d682144c8f34",
+        "receiptSha256": "5c558f220209c61487e22cec01c0c4b066e1caeb3d3688869ba5a52e66b42a68"
+      },
+      "g2s1-school-flexible-final-c": {
+        "sourceSha256": "3b4f4065b60663745ce3bba45fad7f663dc201ce5463cbfe75d805ccb9fc69b5",
+        "observedCommit": "e645805239ed912b1299556e1da8d682144c8f34",
+        "receiptSha256": "5c558f220209c61487e22cec01c0c4b066e1caeb3d3688869ba5a52e66b42a68"
       }
     },
     "pdfVerified": {
@@ -2467,6 +2515,96 @@
           "path": "pdf/g2s1-school-flexible-final-c-teacher.pdf",
           "sha256": "1a6fa862d9ae34fdb5ed7c38440beaf71575047ee05092ec48c379f0d8b6292c",
           "pages": 11
+        }
+      },
+      "g2s2-mathematics-midterm-a": {
+        "sourceSha256": "f4286a4df020f1bfabee1b8513988d957ad92e745a7a5beba69c37091c1f5ace",
+        "pageReview": "passed",
+        "receiptSha256": "cb83ba8c1d8c4db95924428313a16b135adfe5f926e3c7e5c7115f4f54d172f1",
+        "student": {
+          "path": "pdf/g2s2-mathematics-midterm-a-student.pdf",
+          "sha256": "9d643e56017c51000d9b43e6f30a0421f9d79bba439b16416b5c3a15b0b43566",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mathematics-midterm-a-teacher.pdf",
+          "sha256": "2bc0adfcd6ecdfe5ed5f50b1c2aa724c7ad8064ff9a4c4455ab34ca2618412d5",
+          "pages": 10
+        }
+      },
+      "g2s2-mathematics-midterm-b": {
+        "sourceSha256": "5dc24bcc0c34bbec9439a124c2d8cfaf1d7ebb78fef4d42dc88e1094b9dbf6ac",
+        "pageReview": "passed",
+        "receiptSha256": "cb83ba8c1d8c4db95924428313a16b135adfe5f926e3c7e5c7115f4f54d172f1",
+        "student": {
+          "path": "pdf/g2s2-mathematics-midterm-b-student.pdf",
+          "sha256": "d584f1418c14aca40607f5e35c44e8117afa5442d5fcc87c7dd814fd06a5f2e2",
+          "pages": 5
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mathematics-midterm-b-teacher.pdf",
+          "sha256": "2d77bd577664c60efe2f12f10bc7c7df5c7b15526b9a7b4b62035914f3332083",
+          "pages": 9
+        }
+      },
+      "g2s2-mathematics-midterm-c": {
+        "sourceSha256": "e02ece8fda872c5a2378aa023b66ea63fae67972566b80939d3a319d81e5426f",
+        "pageReview": "passed",
+        "receiptSha256": "cb83ba8c1d8c4db95924428313a16b135adfe5f926e3c7e5c7115f4f54d172f1",
+        "student": {
+          "path": "pdf/g2s2-mathematics-midterm-c-student.pdf",
+          "sha256": "c3c43d9adb829000fc04602c636067a56a4e8f695e85b9d8b7c9b9e60d9f5385",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mathematics-midterm-c-teacher.pdf",
+          "sha256": "d029a180ace0fc5a88dff03efff14da3874145c3b27a9bc190269d68b17fb837",
+          "pages": 10
+        }
+      },
+      "g2s2-mathematics-final-a": {
+        "sourceSha256": "b6d39f8fc12095f3ec3db77e656f3367cee0204e8cf5b353f828e151938a5f40",
+        "pageReview": "passed",
+        "receiptSha256": "45387255973e2e3c1d84ae2a71f7895b2bdc6cfa615235fb53b02f79db38f851",
+        "student": {
+          "path": "pdf/g2s2-mathematics-final-a-student.pdf",
+          "sha256": "df5dfa544dd2f3e0a40820d9bab351dcc1d46d86f53ed85ecd217b42d4747908",
+          "pages": 7
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mathematics-final-a-teacher.pdf",
+          "sha256": "fbb833c733e23bd9bbb8bbc089059b334476e729371edab2dca94beab6ab6252",
+          "pages": 9
+        }
+      },
+      "g2s2-mathematics-final-b": {
+        "sourceSha256": "41f020655c09983a99e1341f457debc5448ef5a8f33bf8d460b4cbe89fcd1c6c",
+        "pageReview": "passed",
+        "receiptSha256": "45387255973e2e3c1d84ae2a71f7895b2bdc6cfa615235fb53b02f79db38f851",
+        "student": {
+          "path": "pdf/g2s2-mathematics-final-b-student.pdf",
+          "sha256": "e840246b09cde718a82a403e0a3664ba132880b00c366c79bc616f97e00952b7",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mathematics-final-b-teacher.pdf",
+          "sha256": "1b060708118b9e5bdb349dd2240019ad14b7f220a1ae0f436c5f01f419b28b9c",
+          "pages": 9
+        }
+      },
+      "g2s2-mathematics-final-c": {
+        "sourceSha256": "eb796becddaf9e070d2bb631f4d380ef332ede96b773ebd34b8f47de9bc2de4a",
+        "pageReview": "passed",
+        "receiptSha256": "45387255973e2e3c1d84ae2a71f7895b2bdc6cfa615235fb53b02f79db38f851",
+        "student": {
+          "path": "pdf/g2s2-mathematics-final-c-student.pdf",
+          "sha256": "a03517b3166560bc5605980747c588dc690b70d968325e1c1cceb3b259af7fc2",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mathematics-final-c-teacher.pdf",
+          "sha256": "d1a00fc2919d4290a521aff848cd7eed6a3a7f6ab49c3e4509350bbdd53dabc2",
+          "pages": 9
         }
       }
     },
