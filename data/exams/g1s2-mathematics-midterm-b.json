@@ -1,0 +1,405 @@
+{
+  "schemaVersion": 1,
+  "id": "g1s2-mathematics-midterm-b",
+  "grade": 1,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "B",
+  "mode": "written",
+  "title": "小一下學期數學・期中B卷",
+  "duration": "建議35–40分鐘；此為設計估計，可依閱讀與動作支持需求分兩次完成。",
+  "instructions": [
+    "看清楚本題的資料再回答；不必比速度。",
+    "可以寫、畫或口說。需要說明時，讓別人看懂你的想法。",
+    "每題各自開始，不把上一題的物品或金額加進來。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本參考主題編排，不是全國統一段考進度或官方考卷。施測前確認已教內容；A／B／C未經試測或統計等值檢驗。",
+    "可逐題中性讀題、放大材料、提供空白紙，或逐字代記口答。不可替學生計數、挑選算式或提示答案；不以識字、國字筆順、書寫速度或字體美觀計分。",
+    "每條規準分開計分，除規準明列外不自行加設扣分。題目要求說明時，正確畫圖、操作指示、口述、接數、分合或其他等值方法均可；不強制湊十、直式或指定唯一算法。數量與對象清楚時，不因省略量詞或把數字改用中文而扣分。",
+    "圖形、百數表、長度及月曆若改成文字直接揭示所測的空間或格位關係，須另記調整後測到的能力，不能宣稱原視覺辨讀能力已測得。等比例放大或同配置觸讀材料可保留關係；成人不能代判位置。",
+    "本卷為紙筆與口述記錄的概念評量。判斷拼排圖不等於已觀察到獨立描繪或動手鋪設；未另外觀察的操作能力不得據此認定通過。",
+    "只用虛構資料與教學圖。無須姓名、家庭財務、照片、錄音或帳號；可用匿名代號。本次檢查不包含瀏覽器原生列印或實體印表機驗證。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙",
+    "本卷所附完整圖表；可等比例放大",
+    "如需操作支持，提供無答案的大紙片；不得要求兒童剪小片或接觸真錢"
+  ],
+  "blueprint": [
+    {
+      "id": "numbers",
+      "title": "數序與位值",
+      "points": 30,
+      "purpose": "以跳數、十與個、等量表示檢查數量。"
+    },
+    {
+      "id": "compare",
+      "title": "百數表與比較",
+      "points": 20,
+      "purpose": "讀取格位資訊並以數量比較。"
+    },
+    {
+      "id": "operations",
+      "title": "基本加減",
+      "points": 30,
+      "purpose": "以20以內基本加減求結果及檢查。"
+    },
+    {
+      "id": "stories",
+      "title": "情境記錄",
+      "points": 20,
+      "purpose": "依已知資料選運算、記錄結果並解釋所求。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "numbers",
+      "title": "數序與位值",
+      "instructions": "各題可以寫數字、畫記錄或口述。圖中的代號只是名稱，不需要會讀英語。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-01"
+          ],
+          "prompt": "兩位記錄員都從20開始跳數。誰用較少的跳數次數到40？寫代號，並在他的路徑寫出每次停到的數。",
+          "responseLines": 2,
+          "answer": {
+            "value": "乙；30、40。",
+            "explanation": "乙每次多10，兩次到40；甲每次多5，要四次。這是比跳數次數，不是比人的速度。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "判斷乙得4分。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙第1個停點30得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙第2個停點40得3分。"
+              }
+            ]
+          },
+          "stimulus": "甲每次往後數5；乙每次往後數10。\n從20出發，起點20不算一次。",
+          "id": "g1s2-mathematics-midterm-b-q01"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-02"
+          ],
+          "prompt": "三張名牌要貼到對的盒子。請寫「盒子代號：數字」，每張名牌用一次。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲80；乙8；丙88。",
+            "explanation": "8包每包10張是80；8散張是8；8包加8散張是88。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "甲80得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙8得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "丙88得4分。"
+              }
+            ]
+          },
+          "stimulus": "名牌：8、80、88\n甲：8包，每包10張，沒有散張。\n乙：只有8張散張。\n丙：8包，每包10張，另有8張散張。",
+          "id": "g1s2-mathematics-midterm-b-q02"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-02"
+          ],
+          "prompt": "原有7包卡，每包10張，另有2張散張。打開其中1包，把裡面的卡改放散張區。現在有幾包、幾張散張？全部張數有沒有改變？",
+          "responseLines": 3,
+          "answer": {
+            "value": "6包、12張散張；全部仍72張，沒有改變。",
+            "explanation": "只把一包10張拆成10張散張，包數少1，散張成12，並未加入或取走卡。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "6包得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "12張散張得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "指出沒有改變且仍72張得4分；只說沒有改變得2分。"
+              }
+            ]
+          },
+          "id": "g1s2-mathematics-midterm-b-q03"
+        }
+      ]
+    },
+    {
+      "id": "compare",
+      "title": "百數表與比較",
+      "instructions": "各題可以寫數字、畫記錄或口述。圖中的代號只是名稱，不需要會讀英語。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-03"
+          ],
+          "prompt": "兩張行走卡會到同一格嗎？先分別寫出終點，再說明。每張都只移動一次。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲到86；乙也到86；同一格。",
+            "explanation": "87向左一格是86；76正下方一格也是86，兩條不同的行走卡到相同終點。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "甲終點86得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙終點86得3分。"
+              },
+              {
+                "points": 1,
+                "criterion": "判斷同一格得1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "以口述、指圖或箭頭正確指出兩條路都到86得3分；只正確說明一條路得1分。"
+              }
+            ]
+          },
+          "stimulus": "甲卡：從87向左移一格。\n乙卡：從76往正下方移一格。",
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 246 134\" role=\"img\" aria-label=\"百數表的一小塊。每一格的數或代號如圖；空格待填。可放大或提供同配置的觸讀格，不直接報出空格答案。\"><rect width=\"246\" height=\"134\" fill=\"white\"/><rect x=\"15\" y=\"15\" width=\"72\" height=\"52\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"51\" y=\"49\" font-size=\"22\" text-anchor=\"middle\" fill=\"#111\">76</text><rect x=\"87\" y=\"15\" width=\"72\" height=\"52\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"123\" y=\"49\" font-size=\"22\" text-anchor=\"middle\" fill=\"#111\">77</text><rect x=\"159\" y=\"15\" width=\"72\" height=\"52\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"195\" y=\"49\" font-size=\"22\" text-anchor=\"middle\" fill=\"#111\">78</text><rect x=\"15\" y=\"67\" width=\"72\" height=\"52\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"51\" y=\"101\" font-size=\"22\" text-anchor=\"middle\" fill=\"#111\">86</text><rect x=\"87\" y=\"67\" width=\"72\" height=\"52\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"123\" y=\"101\" font-size=\"22\" text-anchor=\"middle\" fill=\"#111\">87</text><rect x=\"159\" y=\"67\" width=\"72\" height=\"52\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"195\" y=\"101\" font-size=\"22\" text-anchor=\"middle\" fill=\"#111\">88</text></svg>",
+          "id": "g1s2-mathematics-midterm-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-03"
+          ],
+          "prompt": "兩張卡十位相同。有人只看第一個數字就說一樣大。請寫哪張較大，並說明還要看什麼。",
+          "responseLines": 3,
+          "answer": {
+            "value": "95較大；十位都是9，要比較個位，5比2多。",
+            "explanation": "相同的9個十可先對齊；95另外有5個一，92只有2個一。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "95較大得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "說明十位相同後比較個位5與2，或等值數量圖得5分；只說95的數字比較大得0分。"
+              }
+            ]
+          },
+          "stimulus": "兩張卡：92、95",
+          "id": "g1s2-mathematics-midterm-b-q05"
+        }
+      ]
+    },
+    {
+      "id": "operations",
+      "title": "基本加減",
+      "instructions": "各題可以寫數字、畫記錄或口述。圖中的代號只是名稱，不需要會讀英語。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-04"
+          ],
+          "prompt": "只有兩張算式卡可以共用同一張答案卡。找出它們，寫出共用的答案，並算出剩下一張的答案。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲與丙共用11；乙12。",
+            "explanation": "5＋6與10＋1都得到11；6＋6得到12。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "選甲、丙且不選乙得4分；只選對其中一張得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "共用答案11得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙答案12得3分。"
+              }
+            ]
+          },
+          "stimulus": "甲：5＋6　乙：6＋6　丙：10＋1",
+          "id": "g1s2-mathematics-midterm-b-q06"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-05"
+          ],
+          "prompt": "同樣從19個開始，兩張記錄的拿走量不同。請各填剩量，再指出哪張表示「全部留下」。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲9；乙19；乙表示全部留下。",
+            "explanation": "甲拿走10剩9；乙拿走0，原來19個都留下。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "甲9得4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "乙19得4分。"
+              },
+              {
+                "points": 2,
+                "criterion": "全部留下選乙得2分。"
+              }
+            ]
+          },
+          "stimulus": "甲：19－10＝＿＿\n乙：19－0＝＿＿",
+          "id": "g1s2-mathematics-midterm-b-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-05"
+          ],
+          "prompt": "計算16－7。檢查員想把「拿走的」和「留下的」合回。請寫結果，再寫這兩群合回的檢查記錄。",
+          "responseLines": 3,
+          "answer": {
+            "value": "16－7＝9；7＋9＝16（或9＋7＝16）。",
+            "explanation": "把拿走的7與留下的9合回16，能檢查是否對回原量。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "結果9得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "用7、9兩群合回16的算式、圖或說明得5分；只重寫16－7＝9不得此分。"
+              }
+            ]
+          },
+          "id": "g1s2-mathematics-midterm-b-q08"
+        }
+      ]
+    },
+    {
+      "id": "stories",
+      "title": "情境記錄",
+      "instructions": "各題可以寫數字、畫記錄或口述。圖中的代號只是名稱，不需要會讀英語。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-06"
+          ],
+          "prompt": "班牌把「多出的張數」寫錯了。請改正，用你喜歡的算式或圖支持；再說班牌上的9其實是哪一群的全部。",
+          "responseLines": 3,
+          "answer": {
+            "value": "展板比作品盒多6張；例如15－9＝6，或9＋6＝15，或一一配對。9是作品盒的全部。",
+            "explanation": "展板15張中，9張可與盒內9張一一配對，多出6張；9不是多出的部分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "改為多6張得4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "有效的減法、補數加法、配對圖或等值方法得4分；只正確表示兩群15與9但未求差得2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出9是作品盒全部得2分。"
+              }
+            ]
+          },
+          "stimulus": "展板有15張作品；作品盒有9張。\n班牌寫：「展板比作品盒多9張。」",
+          "id": "g1s2-mathematics-midterm-b-q09"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g1s2-mathematics-06"
+          ],
+          "prompt": "這張收件單的答案選錯了。請改正，並用算式或圖支持；再說明3、9、12中哪一個數表示「新收到的」。",
+          "responseLines": 3,
+          "answer": {
+            "value": "現在12張；新收到的是9。",
+            "explanation": "原有3張，加上收到9張，一共12張；9只是新加入的部分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "答現在12張得4分。"
+              },
+              {
+                "points": 3,
+                "criterion": "用3＋9、9＋3或兩群合併圖支持答案得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "新收到的數選9得3分。"
+              }
+            ]
+          },
+          "stimulus": "原有照片圖卡3張，新收到9張。沒有移走。\n收件單寫：「現在共有9張。」",
+          "id": "g1s2-mathematics-midterm-b-q10"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館小一下數學參考主題與原創教材",
+      "url": "https://bstzeng.github.io/elementary/#g1s2",
+      "note": "核對本課程六個期中、六個期末主題與已復原的逐課內容；本卷題目及SVG另行原創，不將教材練習改名換數充作新卷。"
+    },
+    {
+      "title": "教育部數學領域課程綱要發布頁（沿用教材來源）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "本次只依已復原教材的課綱範圍註記，未重新擷取官方文件；官方學年內容不等於固定學期或段考順序。"
+    }
+  ],
+  "parallelDesign": "三卷同為數序與位值30分、百數表與比較20分、基本加減30分、情境記錄20分；所有主題限本課程期中六題材。A以篩選跳數路徑、三份等量記錄、修正對照及資料選用為主；B以比較兩條跳數路徑、打開十包的量守恆、格位推查與問句配式為主；C以辨認跳數單位、保留零的記錄、局部表格校錯與故事補問句為主。計算限已知兩量求和、剩量或差，不用正式未知加數、直式或多步驟應用題。共通配分與範圍是設計對照，未經統計等值檢驗。"
+}
