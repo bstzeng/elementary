@@ -1,0 +1,416 @@
+{
+  "schemaVersion": 1,
+  "id": "g2s2-mathematics-final-b",
+  "grade": 2,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "B",
+  "mode": "written",
+  "title": "小二下學期數學・期末B卷",
+  "duration": "建議35–40分鐘；為設計估計，未經試測。可依閱讀、視覺、動作或書寫支持需要分段、延長或休息。",
+  "instructions": [
+    "每題各自開始，先看完整資料。全部故事、數量和練習活動都是虛構。",
+    "可以寫、畫、指圖或口說；題目要說明時，讓別人看懂你的想法。圖旁文字和圖是同一份資料。",
+    "圖是示意，依題目給的數字作答，不拿尺量印出的圖。需要時可請成人中性念題或逐字記錄。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本編輯主題編排，不是全國統一學期或段考範圍；先確認各項已教，再施測。A／B／C僅為原創平行設計，沒有試測、常模化或統計等值聲稱。",
+    "可中性朗讀、放大材料、提供空白紙或安全大位值教具，讓學生口述、指圖，成人依原話代記。不得代算、代選資料、暗示答案或把速度、字體和識字列為數學分數。",
+    "各條規準分別計分。允許分合、接數、畫圖、連加、乘法、直式或其他正確的年級內策略；不強迫單一算法或因子順序。原情境每組數、組數和答案的對象須可辨識，不因中文數字、可辨簡寫或省略重複單位扣分。",
+    "多步題的前步計算失誤不重複扣後步方法分；規準標示依自己的結果判斷時，保留一致推理分，正確數值分依實際作答給。若學生以另一有效方法達成同一數量關係，按相同數學證據給分。",
+    "三位數減法至多一次退位；加法可兩次進位。兩步題不用連乘或併式規則；乘法在十十表內。期末分裝可用圖、連減或已知乘法，不要求除式；1000元找錢可用等值換券或補足，不要求四位數連續退位直式。",
+    "日曆均明示假設練習年；月長遵守公曆，星期由題目給定，不作真實行程使用。日數題逐題寫明包含起訖與活動條件，不改成一般經過時間題。",
+    "全部圖按題設資訊判讀，不考列印後實際尺寸；分數圖只用連續紙面。這是紙筆、指圖與口述概念評量，不能據此認定實物測量、摺紙或完整立體操作能力。",
+    "只用虛構資料與原創圖，不蒐集兒童姓名、家庭財務、照片或帳號，不使用真錢、真食品、小零件或刀剪。教學代幣無支付效力。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白計算紙",
+    "本卷全部文字資料與原創圖；可放大或由成人逐字讀出",
+    "必要時使用安全大紙卡及位值表；不需實物公分測量、真鈔或上網"
+  ],
+  "sources": [
+    {
+      "title": "本館小二下數學原創教材與參考主題",
+      "url": "https://bstzeng.github.io/elementary/#g2s2",
+      "note": "依本次讀取的13課完整JSON、已保存HTML、教學說明及練習核對範圍；採另設資料、證據關係及判斷任務。"
+    },
+    {
+      "title": "教育部數學領域課程綱要發布頁（沿用教材出處）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "本次未重新存取官方文件；僅沿用已保存教材的年級範圍註記。年級內容不等於全國固定學期次序。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "dates",
+      "title": "活動有幾日",
+      "points": 12,
+      "purpose": "包含起訖、月長與活動條件。"
+    },
+    {
+      "id": "plane",
+      "title": "邊、角和外框",
+      "points": 14,
+      "purpose": "按給定長度沿外框一圈。"
+    },
+    {
+      "id": "solid",
+      "title": "立體與分類",
+      "points": 12,
+      "purpose": "依固定對象和條件再分類。"
+    },
+    {
+      "id": "share",
+      "title": "平分和分裝",
+      "points": 14,
+      "purpose": "檢查等量、全用完與答案角色。"
+    },
+    {
+      "id": "fraction",
+      "title": "整張紙的一份",
+      "points": 14,
+      "purpose": "連續紙面等分與單位分數。"
+    },
+    {
+      "id": "currency",
+      "title": "教學商店",
+      "points": 14,
+      "purpose": "等值券、總價、付款與找回。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "只評量已教前半主題。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "dates",
+      "title": "活動有幾日",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-08"
+          ],
+          "prompt": "列出真正有活動的日期，算共幾日。小鹿列了「9月27、28、29、30日，10月1、2日」，要刪哪日？說原因。",
+          "stimulus": "假設練習年9月有30日。活動從9月27日至10月2日，兩端都包含；但9月29日休息，其他每天都有活動。\n日期依次星期一、二、三、四、五、六。",
+          "responseLines": 4,
+          "answer": {
+            "value": "有活動：9月27、28、30日，10月1、2日，共5日。刪9月29日，因那天明定休息。",
+            "explanation": "日期範圍本有6個日期，活動條件排除休息日；9月沒有31日。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "列對五個活動日期各1分；每多列範圍外、不存在或休息日期扣1分，此條最低0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "5個活動日得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "刪9月29日2分，說那天休息沒有活動2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 190\" role=\"img\" aria-label=\"假設練習年的日期資料：9月27日星期一；9月28日星期二；9月29日星期三；9月30日星期四；10月1日星期五；10月2日星期六。依序接續，不是實際年度行程。\"><title>假設練習年的日期資料：9月27日星期一；9月28日星期二；9月29日星期三；9月30日星期四；10月1日星期五；10月2日星期六。依序接續，不是實際年度行程。</title><text x=\"320\" y=\"28\" font-size=\"22\" text-anchor=\"middle\" fill=\"#142f2b\">假設練習年的日期資料</text><rect x=\"10\" y=\"45\" width=\"150\" height=\"65\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"85\" y=\"70\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">9月27日</text><text x=\"85\" y=\"96\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期一</text><rect x=\"168\" y=\"45\" width=\"150\" height=\"65\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"243\" y=\"70\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">9月28日</text><text x=\"243\" y=\"96\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期二</text><rect x=\"326\" y=\"45\" width=\"150\" height=\"65\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"401\" y=\"70\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">9月29日</text><text x=\"401\" y=\"96\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期三</text><rect x=\"484\" y=\"45\" width=\"150\" height=\"65\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"559\" y=\"70\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">9月30日</text><text x=\"559\" y=\"96\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期四</text><rect x=\"10\" y=\"115\" width=\"150\" height=\"65\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"85\" y=\"140\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">10月1日</text><text x=\"85\" y=\"166\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期五</text><rect x=\"168\" y=\"115\" width=\"150\" height=\"65\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"243\" y=\"140\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">10月2日</text><text x=\"243\" y=\"166\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期六</text></svg>",
+          "id": "g2s2-mathematics-final-b-q01"
+        }
+      ]
+    },
+    {
+      "id": "plane",
+      "title": "邊、角和外框",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-09"
+          ],
+          "prompt": "有幾條直邊、幾個角？算外框一整圈多長，留下算法。小兔從頂角出發，繞回頂角又數了一次，說有4個角，錯在哪裡？",
+          "stimulus": "三角形圖卡：兩斜邊各5公分，底邊6公分。依標值算，不用尺量圖。",
+          "responseLines": 4,
+          "answer": {
+            "value": "3條直邊、3個角；5＋5＋6＝16公分；頂角在開始已數過，不能回來再重數。",
+            "explanation": "三個角是三個不同接合位置，起點不會因走一圈就多出一個。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "3條直邊、3個角各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "包括三邊的有效連加或同值算法得4分；只列兩邊得1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "周長16公分得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "指出起點頂角被重算得3分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 220\" role=\"img\" aria-label=\"三角形，兩條斜邊各5公分，底邊6公分。標值為題設，圖不供實測。\"><title>三角形，兩條斜邊各5公分，底邊6公分。標值為題設，圖不供實測。</title><polygon points=\"260,35 170,155 350,155\" fill=\"#eff6f1\" stroke=\"#243f39\" stroke-width=\"3\"/><text x=\"183\" y=\"84\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">5公分</text><text x=\"337\" y=\"84\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">5公分</text><text x=\"260\" y=\"188\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">6公分</text></svg>",
+          "id": "g2s2-mathematics-final-b-q02"
+        }
+      ]
+    },
+    {
+      "id": "solid",
+      "title": "立體與分類",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-10"
+          ],
+          "prompt": "「全部表面都是平面」群抄多了一張卡，刪掉它並說明理由。把剩下的群再分成「六個面全是正方形」及「有不是正方形的長方形面」，各列卡號。",
+          "stimulus": "固定五卡：甲正方體、乙圓柱、丙長方體（有不是正方形的長方形面）、丁正方體、戊球體。\n待改的全平面群：甲、乙、丙、丁。正方體也有長方體的特徵；這裡按面形再分。",
+          "responseLines": 4,
+          "answer": {
+            "value": "刪乙。六面全是正方形：甲、丁。含非正方形長方形面：丙。",
+            "explanation": "乙圓柱雖有平面，也有曲面，不符合全部是平面；再分類只對甲丙丁。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "刪乙得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "說圓柱還有彎曲側面、不能算全平面得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "全正方形面群列甲、丁完全正確3分；漏一張得1分，有多列卡則本條0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "非正方形長方形面群只列丙得3分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-final-b-q03"
+        }
+      ]
+    },
+    {
+      "id": "share",
+      "title": "平分和分裝",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-11"
+          ],
+          "prompt": "從記錄看，已裝好幾盤？剩下還能裝幾盤？全部裝完共幾盤？用乘法、連加或圖檢查總盤數。",
+          "stimulus": "35張卡，每盤固定5張。前三次取卡記錄：35－5＝30；30－5＝25；25－5＝20。之後繼續每盤5張，直到全部用完。",
+          "responseLines": 4,
+          "answer": {
+            "value": "已3盤；剩20張還可4盤；總共7盤。5×7＝35。",
+            "explanation": "每次減5完成1盤；剩餘20不是已完成盤數，也不能把後續4盤當全部。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "已裝3盤得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "還能裝4盤得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "合計7盤得4分；若前項算錯但明確把已完成與後續盤數相加，給方法2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "七盤各5合回35的乘法、連加或完整圖得4分；角色正確但一次合計錯得2分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-final-b-q04"
+        }
+      ]
+    },
+    {
+      "id": "fraction",
+      "title": "整張紙的一份",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-12"
+          ],
+          "prompt": "哪張圖能表示「整張紙的四分之一」？寫甲或乙和分數記號。另一張為什麼不能只因有4塊就叫四分之一？再說分數中的4和1各表示什麼。",
+          "stimulus": "兩張整紙同樣大小。甲分成4條，前兩條一樣窄、後兩條一樣寬，寬條是窄條的2倍，只塗1窄條。乙平均分成4條同樣大的直條，只塗其中1條。",
+          "responseLines": 4,
+          "answer": {
+            "value": "乙，1/4；甲四條不等大。4表示整張平均分4份，1表示只取其中1份。",
+            "explanation": "數出四塊還不夠，必須等大；這裡只討論連續一整張紙。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "選乙得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "寫1/4或四分之一得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "指出甲各條不等大所以不能據4塊命名得4分；只說甲錯沒有理由得1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "4表示整張等分4份、1表示取其中1份，各2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 290\" role=\"img\" aria-label=\"兩張整紙同樣大小，均寬240高96圖像單位。甲分四條，寬依次40、40、80、80，不等大，只塗第一條。乙分四條，寬都60，等大，只塗第三條。圖像單位不是公分。\"><title>兩張整紙同樣大小，均寬240高96圖像單位。甲分四條，寬依次40、40、80、80，不等大，只塗第一條。乙分四條，寬都60，等大，只塗第三條。圖像單位不是公分。</title><text x=\"20\" y=\"75\" font-size=\"20\" text-anchor=\"start\" fill=\"#142f2b\">甲紙</text><text x=\"20\" y=\"215\" font-size=\"20\" text-anchor=\"start\" fill=\"#142f2b\">乙紙</text><rect x=\"205\" y=\"25\" width=\"40\" height=\"96\" fill=\"#52786d\" stroke=\"#243f39\" stroke-width=\"2\"/><rect x=\"245\" y=\"25\" width=\"40\" height=\"96\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><rect x=\"285\" y=\"25\" width=\"80\" height=\"96\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><rect x=\"365\" y=\"25\" width=\"80\" height=\"96\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><rect x=\"205\" y=\"165\" width=\"60\" height=\"96\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><rect x=\"265\" y=\"165\" width=\"60\" height=\"96\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><rect x=\"325\" y=\"165\" width=\"60\" height=\"96\" fill=\"#52786d\" stroke=\"#243f39\" stroke-width=\"2\"/><rect x=\"385\" y=\"165\" width=\"60\" height=\"96\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/></svg>",
+          "id": "g2s2-mathematics-final-b-q05"
+        }
+      ]
+    },
+    {
+      "id": "currency",
+      "title": "教學商店",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-currency"
+          ],
+          "prompt": "應找回幾元？留下補足、換券或其他算法。店員已拿出的找錢少了多少，要補哪張券？最後用加法檢查。",
+          "stimulus": "虛構教學商店：材料盒870元，付1000元無效教學券。店員先拿出100元、10元、10元三張找錢券。可再用10元券補足。",
+          "responseLines": 4,
+          "answer": {
+            "value": "應找130元；現有120元，少10元，補1張10元；870＋130＝1000。可從870補30到900，再補100到1000。",
+            "explanation": "找回總量與已拿出找錢是不同的量，先算應找再核對目前的券。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "正確補足或等值換券關係得3分，不要求四位數直式。"
+              },
+              {
+                "points": 4,
+                "criterion": "應找130元得4分。"
+              },
+              {
+                "points": 3,
+                "criterion": "指出少10元並補1張10元得3分；只給正確補券也足以顯示差額。"
+              },
+              {
+                "points": 4,
+                "criterion": "870＋130＝1000加法檢查得4分；角色正確但一次算錯得2分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-final-b-q06"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g2s2-mathematics-02"
+          ],
+          "prompt": "剩量卡寫得對嗎？算正確剩量，留下算法，再用加法合回原量。",
+          "stimulus": "原有804片，取走350片。剩量卡寫「504片」。",
+          "responseLines": 4,
+          "answer": {
+            "value": "不對，804－350＝454片；454＋350＝804。",
+            "explanation": "十位0不夠減5個十，從百換十一次；百位要減少1。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "判504不對得2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "正確相減或補足關係得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "正確剩454得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "454＋350＝804得3分；角色對但一次加算錯得1分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-final-b-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g2s2-mathematics-06"
+          ],
+          "prompt": "哪條較長？先把兩條都表示為公分，再用數字說明。",
+          "stimulus": "甲紙帶3公尺8公分；乙紙帶290公分。這些是給定量測記錄，不需量圖。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲308公分、乙290公分；甲較長，308大於290。",
+            "explanation": "3公尺是300公分，還有8公分；不能寫38或380。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "甲308公分得4分。"
+              },
+              {
+                "points": 2,
+                "criterion": "乙保持290公分得2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "選甲並以308>290或同值量圖說明得4分；依自己換算數正確比較保留推理2分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-final-b-q08"
+        }
+      ]
+    }
+  ],
+  "parallelDesign": "三卷後半主題共80分：活動日數12、平面圖形14、立體與分類12、平分分裝14、單位分數14、教學貨幣14；另有前半回顧20分。A用日數與指定星期篩選、旋轉長方形、曲面群再分類、修復未完成平分及500元付款；B用排除休息日、三角形周長、全平面群再分類、分裝中途記錄及1000元找錢核對；C用兩種活動條件、旋轉正方形、先按標籤再看形體、移動修復不平均分配及選足額券。數值和證據關係另設；基本算術、等分與月曆技能有必要的重現。相同配分不是統計等值，35–40分鐘為未試測估計。"
+}
