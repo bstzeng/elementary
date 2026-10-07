@@ -89,7 +89,19 @@
     "g2s1-mandarin-midterm-c",
     "g2s1-mandarin-final-a",
     "g2s1-mandarin-final-b",
-    "g2s1-mandarin-final-c"
+    "g2s1-mandarin-final-c",
+    "g2s1-life-midterm-a",
+    "g2s1-life-midterm-b",
+    "g2s1-life-midterm-c",
+    "g2s1-life-final-a",
+    "g2s1-life-final-b",
+    "g2s1-life-final-c",
+    "g2s1-health-pe-midterm-a",
+    "g2s1-health-pe-midterm-b",
+    "g2s1-health-pe-midterm-c",
+    "g2s1-health-pe-final-a",
+    "g2s1-health-pe-final-b",
+    "g2s1-health-pe-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -175,7 +187,19 @@
     "g2s1-mandarin-midterm-c": "c6b698dae9dd98aa40e96319c11eceeac9a5fc3335db8926c49729d4ee6ada9e",
     "g2s1-mandarin-final-a": "77a4e9b58e3f617c8e3ece798a094a405952083addfb5a067eb742c5bbe2b264",
     "g2s1-mandarin-final-b": "663e3940717c65136b5ab9b9577dc6ba7aefdc7a6fe7ff58622635b2fbcdd9e2",
-    "g2s1-mandarin-final-c": "4a2b25d59fca1f0fb7ab8d53fd2eb3fef24706102ddffaf1ea4304feda9b32d8"
+    "g2s1-mandarin-final-c": "4a2b25d59fca1f0fb7ab8d53fd2eb3fef24706102ddffaf1ea4304feda9b32d8",
+    "g2s1-life-midterm-a": "a7b82a48810a22ff0fa37210f6e0578406eeda8cf5b1e36957cb3ee3008d11fd",
+    "g2s1-life-midterm-b": "a30d3cbc937342fb1071e059e35bd87daa4ef6c74734cfe74b76f561a257a93c",
+    "g2s1-life-midterm-c": "68315482e80374cfafb80788b9f481a47d696434ba874421682a4cdb3b95a90c",
+    "g2s1-life-final-a": "238b8349af7383ac4c9869bf72611d5d46c99f9bf3b83e820c6c7fee9ce11052",
+    "g2s1-life-final-b": "b1b166209fbf2a366eef84adf13aa67c308e4c3c0d79d7a3556c2c7712319285",
+    "g2s1-life-final-c": "4934b7c06d769d6047fa513e810cdf1d2f3cca9403cb6638faceaccdfd2eb5a7",
+    "g2s1-health-pe-midterm-a": "aaabf674fc0c1fd4d87e46b9c5c749c333e45c814a6a2a0a6d461709e86240fe",
+    "g2s1-health-pe-midterm-b": "b794d919a148e88450324c47cba1ee2dd6d53825cacdbd1c06d23098e9f24658",
+    "g2s1-health-pe-midterm-c": "a935b122696e21c2e4754f17970e1be77616e8cd9d9eecd1bef7175d7314cb90",
+    "g2s1-health-pe-final-a": "0b801d4c6705a8d17a481fcd9bde7380faafc3c9085f81c5af7a207feeb63408",
+    "g2s1-health-pe-final-b": "11680f44fa5fa6a3fcd47ae7359908f97a13326f4c0fe31f2e9595b245630676",
+    "g2s1-health-pe-final-c": "aa4afc09e3ffa6e417d5ddcf6edc17bfb5561a897f022b083fbd650f8a7b6185"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -262,7 +286,19 @@
       "g2s1-mandarin-midterm-c",
       "g2s1-mandarin-final-a",
       "g2s1-mandarin-final-b",
-      "g2s1-mandarin-final-c"
+      "g2s1-mandarin-final-c",
+      "g2s1-life-midterm-a",
+      "g2s1-life-midterm-b",
+      "g2s1-life-midterm-c",
+      "g2s1-life-final-a",
+      "g2s1-life-final-b",
+      "g2s1-life-final-c",
+      "g2s1-health-pe-midterm-a",
+      "g2s1-health-pe-midterm-b",
+      "g2s1-health-pe-midterm-c",
+      "g2s1-health-pe-final-a",
+      "g2s1-health-pe-final-b",
+      "g2s1-health-pe-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -654,6 +690,36 @@
         "sourceSha256": "41f52774970cbb2f925171c36d23cf2c95f2d45deb594fc8161947cb0fdd1527",
         "observedCommit": "988b3281bb06ba5d72f92a8a9dffefa86e4c0149",
         "receiptSha256": "d9e3abf705c8cc0cace785c56906b76e5e2b8b3ab6b46e41466249292a6158c1"
+      },
+      "g2s1-mandarin-final-a": {
+        "sourceSha256": "77a4e9b58e3f617c8e3ece798a094a405952083addfb5a067eb742c5bbe2b264",
+        "observedCommit": "bedbc25ad8f7c4cfdd3f9bdf7ad40185b3767933",
+        "receiptSha256": "e4eedfe2d2424b342892cd44c4b082fde7fe066411c6fa7197bdbac946e2e906"
+      },
+      "g2s1-mandarin-final-b": {
+        "sourceSha256": "663e3940717c65136b5ab9b9577dc6ba7aefdc7a6fe7ff58622635b2fbcdd9e2",
+        "observedCommit": "bedbc25ad8f7c4cfdd3f9bdf7ad40185b3767933",
+        "receiptSha256": "e4eedfe2d2424b342892cd44c4b082fde7fe066411c6fa7197bdbac946e2e906"
+      },
+      "g2s1-mandarin-final-c": {
+        "sourceSha256": "4a2b25d59fca1f0fb7ab8d53fd2eb3fef24706102ddffaf1ea4304feda9b32d8",
+        "observedCommit": "bedbc25ad8f7c4cfdd3f9bdf7ad40185b3767933",
+        "receiptSha256": "e4eedfe2d2424b342892cd44c4b082fde7fe066411c6fa7197bdbac946e2e906"
+      },
+      "g2s1-mandarin-midterm-a": {
+        "sourceSha256": "78ddc873913fd44ad7340fb666b5e723c9ba7f5755529bbf4b445385276799ec",
+        "observedCommit": "bedbc25ad8f7c4cfdd3f9bdf7ad40185b3767933",
+        "receiptSha256": "e4eedfe2d2424b342892cd44c4b082fde7fe066411c6fa7197bdbac946e2e906"
+      },
+      "g2s1-mandarin-midterm-b": {
+        "sourceSha256": "ff246785cf4fe36c9f0b3bc9cc03aba284a95697298f9123617a0f78cca22fdc",
+        "observedCommit": "bedbc25ad8f7c4cfdd3f9bdf7ad40185b3767933",
+        "receiptSha256": "e4eedfe2d2424b342892cd44c4b082fde7fe066411c6fa7197bdbac946e2e906"
+      },
+      "g2s1-mandarin-midterm-c": {
+        "sourceSha256": "c6b698dae9dd98aa40e96319c11eceeac9a5fc3335db8926c49729d4ee6ada9e",
+        "observedCommit": "bedbc25ad8f7c4cfdd3f9bdf7ad40185b3767933",
+        "receiptSha256": "e4eedfe2d2424b342892cd44c4b082fde7fe066411c6fa7197bdbac946e2e906"
       }
     },
     "pdfVerified": {
@@ -1915,6 +1981,186 @@
           "path": "pdf/g2s1-mandarin-final-c-teacher.pdf",
           "sha256": "0b4034eb2e1bba02f1c80e01f282f57f6d0c64fcf9d745f461f0ea97a93d7e9d",
           "pages": 10
+        }
+      },
+      "g2s1-life-midterm-a": {
+        "sourceSha256": "a7b82a48810a22ff0fa37210f6e0578406eeda8cf5b1e36957cb3ee3008d11fd",
+        "pageReview": "passed",
+        "receiptSha256": "64e84b05c48a876841de20f5cf5b502acb2fb4a5550efb80f3c7afcf387cdcb8",
+        "student": {
+          "path": "pdf/g2s1-life-midterm-a-student.pdf",
+          "sha256": "12293b7cba93fb1dee3f5d554fdcaa93c5eae2578594d15565de65341d4b55fc",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-life-midterm-a-teacher.pdf",
+          "sha256": "b33fbfeb321419fbbbb713ba131299480accf20e2def7e813eb97860ecdefc7b",
+          "pages": 9
+        }
+      },
+      "g2s1-life-midterm-b": {
+        "sourceSha256": "a30d3cbc937342fb1071e059e35bd87daa4ef6c74734cfe74b76f561a257a93c",
+        "pageReview": "passed",
+        "receiptSha256": "64e84b05c48a876841de20f5cf5b502acb2fb4a5550efb80f3c7afcf387cdcb8",
+        "student": {
+          "path": "pdf/g2s1-life-midterm-b-student.pdf",
+          "sha256": "b5a595b38a5b53557f07796fe692c1f6c127ba8f50c0456b8ad893a4f48abc42",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-life-midterm-b-teacher.pdf",
+          "sha256": "5b28d0c67e8dcc9980fe782bc7bc941ba80c1e5cf7d8f73c4aad5047683e4cb3",
+          "pages": 9
+        }
+      },
+      "g2s1-life-midterm-c": {
+        "sourceSha256": "68315482e80374cfafb80788b9f481a47d696434ba874421682a4cdb3b95a90c",
+        "pageReview": "passed",
+        "receiptSha256": "64e84b05c48a876841de20f5cf5b502acb2fb4a5550efb80f3c7afcf387cdcb8",
+        "student": {
+          "path": "pdf/g2s1-life-midterm-c-student.pdf",
+          "sha256": "a02ab778d47a97f1afc4d0ccd347ae9daad3f5189dbc8224fd03e2a43c30dcde",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-life-midterm-c-teacher.pdf",
+          "sha256": "08449913aa3d376c2fcaa3fe8c778401f305632d1e751d23e136407e9b036184",
+          "pages": 9
+        }
+      },
+      "g2s1-life-final-a": {
+        "sourceSha256": "238b8349af7383ac4c9869bf72611d5d46c99f9bf3b83e820c6c7fee9ce11052",
+        "pageReview": "passed",
+        "receiptSha256": "38003afbc1ada05941fbf500de7b323dc60514faaae8437f4c10cea98837ea37",
+        "student": {
+          "path": "pdf/g2s1-life-final-a-student.pdf",
+          "sha256": "dcdb4b97afdcf5df6e07ff5350f12a2112ca4af659f05c4dddf5fdb68f087254",
+          "pages": 4
+        },
+        "teacher": {
+          "path": "pdf/g2s1-life-final-a-teacher.pdf",
+          "sha256": "1532425d594e351380027bf605568efbd5dea1f21e4e2f1099bf90e088985c08",
+          "pages": 12
+        }
+      },
+      "g2s1-life-final-b": {
+        "sourceSha256": "b1b166209fbf2a366eef84adf13aa67c308e4c3c0d79d7a3556c2c7712319285",
+        "pageReview": "passed",
+        "receiptSha256": "38003afbc1ada05941fbf500de7b323dc60514faaae8437f4c10cea98837ea37",
+        "student": {
+          "path": "pdf/g2s1-life-final-b-student.pdf",
+          "sha256": "8df91bffcbcbb27112279eca9728e7fae85216e286aadbe88412290c48bb1d95",
+          "pages": 4
+        },
+        "teacher": {
+          "path": "pdf/g2s1-life-final-b-teacher.pdf",
+          "sha256": "408fe14c96ef7222fb325e9649a58a18b60ddfeb508416fb04f911d6d0ead2ce",
+          "pages": 12
+        }
+      },
+      "g2s1-life-final-c": {
+        "sourceSha256": "4934b7c06d769d6047fa513e810cdf1d2f3cca9403cb6638faceaccdfd2eb5a7",
+        "pageReview": "passed",
+        "receiptSha256": "38003afbc1ada05941fbf500de7b323dc60514faaae8437f4c10cea98837ea37",
+        "student": {
+          "path": "pdf/g2s1-life-final-c-student.pdf",
+          "sha256": "dcc12b7c8da3c4fd45e653f86fb42ac408151b1ce3c971885b1fc142f0c0751d",
+          "pages": 4
+        },
+        "teacher": {
+          "path": "pdf/g2s1-life-final-c-teacher.pdf",
+          "sha256": "098ac1d27e19146f22f92e8aaab4b7149049cbe9d7749c4d84cf211f0213666a",
+          "pages": 12
+        }
+      },
+      "g2s1-health-pe-midterm-a": {
+        "sourceSha256": "aaabf674fc0c1fd4d87e46b9c5c749c333e45c814a6a2a0a6d461709e86240fe",
+        "pageReview": "passed",
+        "receiptSha256": "ca018f43a638e5f3bef32da1e43660726f8dee4286dcbb56faff123c98fd2069",
+        "student": {
+          "path": "pdf/g2s1-health-pe-midterm-a-student.pdf",
+          "sha256": "d03dac7a0fe962e367ebf762ecae18ee75e70a9cc43324d41fb71d42093d2ecb",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-health-pe-midterm-a-teacher.pdf",
+          "sha256": "d5e7fcdd8f4e6b10782998193d7811c6089eb3aaedf6b1c442d2243d13337678",
+          "pages": 9
+        }
+      },
+      "g2s1-health-pe-midterm-b": {
+        "sourceSha256": "b794d919a148e88450324c47cba1ee2dd6d53825cacdbd1c06d23098e9f24658",
+        "pageReview": "passed",
+        "receiptSha256": "ca018f43a638e5f3bef32da1e43660726f8dee4286dcbb56faff123c98fd2069",
+        "student": {
+          "path": "pdf/g2s1-health-pe-midterm-b-student.pdf",
+          "sha256": "05f066676d27781e322d7ef9578e2f214faf43f5b70a9ce6dc8d8efdd21b0590",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-health-pe-midterm-b-teacher.pdf",
+          "sha256": "ed0a1510c32bb61754e3c2e11c37e7c7032d5c04567fe01e78ea1f9cf3744336",
+          "pages": 9
+        }
+      },
+      "g2s1-health-pe-midterm-c": {
+        "sourceSha256": "a935b122696e21c2e4754f17970e1be77616e8cd9d9eecd1bef7175d7314cb90",
+        "pageReview": "passed",
+        "receiptSha256": "ca018f43a638e5f3bef32da1e43660726f8dee4286dcbb56faff123c98fd2069",
+        "student": {
+          "path": "pdf/g2s1-health-pe-midterm-c-student.pdf",
+          "sha256": "a50ea9b3894a8967c513b699c49aad57d88160597fc48f8a6236278c31c3e1ec",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-health-pe-midterm-c-teacher.pdf",
+          "sha256": "bcb64d9a0c0e7ee4d0e9a73d0e5b99aba0a26c80ce0604af8213fa695a9d6430",
+          "pages": 9
+        }
+      },
+      "g2s1-health-pe-final-a": {
+        "sourceSha256": "0b801d4c6705a8d17a481fcd9bde7380faafc3c9085f81c5af7a207feeb63408",
+        "pageReview": "passed",
+        "receiptSha256": "b436c0f7e56df98f7b74b00b8c7464fb3bec3e468c3cfc8928434012500e8f36",
+        "student": {
+          "path": "pdf/g2s1-health-pe-final-a-student.pdf",
+          "sha256": "0f12a9f6df3accf994303bd96f5c952f0efadbaa05b5622361472c85f8391be0",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-health-pe-final-a-teacher.pdf",
+          "sha256": "a1f1fe39007d432697cc8ebc3dae26552fd33384ca566de344f34fa7918fd34c",
+          "pages": 15
+        }
+      },
+      "g2s1-health-pe-final-b": {
+        "sourceSha256": "11680f44fa5fa6a3fcd47ae7359908f97a13326f4c0fe31f2e9595b245630676",
+        "pageReview": "passed",
+        "receiptSha256": "b436c0f7e56df98f7b74b00b8c7464fb3bec3e468c3cfc8928434012500e8f36",
+        "student": {
+          "path": "pdf/g2s1-health-pe-final-b-student.pdf",
+          "sha256": "dbaca3293e69251a3f8afbf14dfb380b674296a99e87e07cb29c56ab796a7736",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-health-pe-final-b-teacher.pdf",
+          "sha256": "16e5b0f041800e19eb1edb47936df78476e0558381ac5ac44d65e17ef0c9178d",
+          "pages": 15
+        }
+      },
+      "g2s1-health-pe-final-c": {
+        "sourceSha256": "aa4afc09e3ffa6e417d5ddcf6edc17bfb5561a897f022b083fbd650f8a7b6185",
+        "pageReview": "passed",
+        "receiptSha256": "b436c0f7e56df98f7b74b00b8c7464fb3bec3e468c3cfc8928434012500e8f36",
+        "student": {
+          "path": "pdf/g2s1-health-pe-final-c-student.pdf",
+          "sha256": "e43fb6f4b38fe51044c869e56c334ba88a4848d7a827e1e8605772920c83b9d1",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g2s1-health-pe-final-c-teacher.pdf",
+          "sha256": "9693a14bbe54b28ef47375608f1ea2ca1235ffbbf9222efae3c6a96422075d59",
+          "pages": 15
         }
       }
     },
