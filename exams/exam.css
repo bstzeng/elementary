@@ -5,3 +5,6 @@
 .observation-parts{font-size:12px;border-top:1px dotted #738c78;margin-top:14px;padding-top:6px;break-inside:avoid}.observation-parts p{margin:8px 0}@media print{.observation-parts{font-size:9pt}}
 
 .qa-status{padding:12px 16px;border:1px solid #b3c7a9;background:#f0f5ea;border-radius:9px;color:#294a33;font-size:13px;margin:0 0 20px}.paper .qa-status{font-size:12px}
+
+/* A phonetic syllable and its tone stay together; surrounding prose still wraps. */
+.zhuyin-syllable{display:inline-block;white-space:nowrap;word-break:normal;overflow-wrap:normal}
