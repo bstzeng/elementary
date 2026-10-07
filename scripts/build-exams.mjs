@@ -3,6 +3,7 @@ import {readFile,writeFile,mkdir,readdir,unlink} from 'node:fs/promises';
 import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
+import {examText} from './exam-text.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=async p=>JSON.parse(await readFile(path.join(root,p),'utf8'));
 const manifest=await read('data/exams.json');
@@ -41,8 +42,8 @@ if(verification){
 }
 const out=path.join(root,'exams');await mkdir(out,{recursive:true});
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const paras=x=>`<p>${esc(x).replaceAll('\n','<br>')}</p>`;
-const list=xs=>`<ul>${xs.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`;
+const paras=x=>`<p>${examText(x).replaceAll('\n','<br>')}</p>`;
+const list=xs=>`<ul>${xs.map(x=>`<li>${examText(x)}</li>`).join('')}</ul>`;
 const gradeNames=['','一','二','三','四','五','六'];
 const names=new Map(courses.flatMap(c=>c.topics.map(t=>[t.id,t.title])));
 const topicLinks=ids=>ids.map(id=>`<a href="../lessons/${esc(id)}.html">${esc(names.get(id))}</a>`).join('、');
@@ -90,15 +91,15 @@ function paper(d,key){
   body+=`<section class="exam-section"><h2>${esc(section.title)} <span>（${section.items.reduce((a,q)=>a+q.points,0)}分）</span></h2>${paras(section.instructions)}`;
   for(const q of section.items){
    n++;
-   body+=`<article class="question" id="${esc(q.id)}"><h3><span class="number">${String(n).padStart(2,'0')}</span> ${esc(q.prompt)} <span class="points">（${q.points}分）</span></h3>`;
+   body+=`<article class="question" id="${esc(q.id)}"><h3><span class="number">${String(n).padStart(2,'0')}</span> ${examText(q.prompt)} <span class="points">（${q.points}分）</span></h3>`;
    if(q.stimulus)body+=`<div class="stimulus">${paras(q.stimulus)}</div>`;
    if(q.diagram)body+=`<figure class="exam-figure">${q.diagram}</figure>`;
-   if(q.writingBoxes&&!key)body+=`<div class="writing-boxes" aria-label="大方格作答區">${q.writingBoxes.map(label=>`<div class="writing-field"><span>${esc(label)}</span><div class="writing-square" aria-label="${esc(label)}的書寫空格"></div></div>`).join('')}</div>`;
-   if(q.options)body+=`<ol class="options" type="A">${q.options.map(x=>`<li>${esc(x)}</li>`).join('')}</ol>`;
+   if(q.writingBoxes&&!key)body+=`<div class="writing-boxes" aria-label="大方格作答區">${q.writingBoxes.map(label=>`<div class="writing-field"><span>${examText(label)}</span><div class="writing-square" aria-label="${esc(label)}的書寫空格"></div></div>`).join('')}</div>`;
+   if(q.options)body+=`<ol class="options" type="A">${q.options.map(x=>`<li>${examText(x)}</li>`).join('')}</ol>`;
    if(key){
     if(q.teacher)body+=`<div class="teacher-protocol"><h4>教師施測</h4>${paras(q.teacher)}</div>`;
-    body+=`<div class="answer-key"><h4>參考答案</h4>${paras(q.answer.value)}<h4>解答理由</h4>${paras(q.answer.explanation)}<h4>給分方式</h4><ul>${q.answer.scoring.map(s=>`<li><strong>${s.points}分：</strong>${esc(s.criterion)}</li>`).join('')}</ul></div><p class="coverage">${q.scope==='review'?'前半核心回顧':'本階段主題'}：${scopeLinks(q)}</p>`;
-   if(q.observationParts)body+=`<div class="observation-parts"><h4>分項施測紀錄</h4>${q.observationParts.map(part=>`<p>${esc(part.label)}：□ 已施測 □ 未觀察　得分＿＿／${part.points}　支持方式＿＿＿＿</p>`).join('')}</div>`;
+    body+=`<div class="answer-key"><h4>參考答案</h4>${paras(q.answer.value)}<h4>解答理由</h4>${paras(q.answer.explanation)}<h4>給分方式</h4><ul>${q.answer.scoring.map(s=>`<li><strong>${s.points}分：</strong>${examText(s.criterion)}</li>`).join('')}</ul></div><p class="coverage">${q.scope==='review'?'前半核心回顧':'本階段主題'}：${scopeLinks(q)}</p>`;
+   if(q.observationParts)body+=`<div class="observation-parts"><h4>分項施測紀錄</h4>${q.observationParts.map(part=>`<p>${examText(part.label)}：□ 已施測 □ 未觀察　得分＿＿／${part.points}　支持方式＿＿＿＿</p>`).join('')}</div>`;
     if(['oral','listening','performance'].includes(q.kind))body+='<p class="teacher-record">施測紀錄：□ 已施測　□ 未觀察　得分：＿＿／'+q.points+'　支持方式：＿＿＿＿＿＿</p>';
    } else {
     if(['oral','listening','performance'].includes(q.kind)) {
