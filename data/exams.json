@@ -119,7 +119,13 @@
     "g2s2-mathematics-midterm-c",
     "g2s2-mathematics-final-a",
     "g2s2-mathematics-final-b",
-    "g2s2-mathematics-final-c"
+    "g2s2-mathematics-final-c",
+    "g2s2-mandarin-midterm-a",
+    "g2s2-mandarin-midterm-b",
+    "g2s2-mandarin-midterm-c",
+    "g2s2-mandarin-final-a",
+    "g2s2-mandarin-final-b",
+    "g2s2-mandarin-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -235,7 +241,13 @@
     "g2s2-mathematics-midterm-c": "e02ece8fda872c5a2378aa023b66ea63fae67972566b80939d3a319d81e5426f",
     "g2s2-mathematics-final-a": "b6d39f8fc12095f3ec3db77e656f3367cee0204e8cf5b353f828e151938a5f40",
     "g2s2-mathematics-final-b": "41f020655c09983a99e1341f457debc5448ef5a8f33bf8d460b4cbe89fcd1c6c",
-    "g2s2-mathematics-final-c": "eb796becddaf9e070d2bb631f4d380ef332ede96b773ebd34b8f47de9bc2de4a"
+    "g2s2-mathematics-final-c": "eb796becddaf9e070d2bb631f4d380ef332ede96b773ebd34b8f47de9bc2de4a",
+    "g2s2-mandarin-midterm-a": "849483fad7343a01fe1eead33e22e500db29da5caf554bd2663ff387d38f7058",
+    "g2s2-mandarin-midterm-b": "2c7b0a80d897436c660730aee8303ac5614e2dea7dcc2f6b22b39c63c319382e",
+    "g2s2-mandarin-midterm-c": "0e89855bb2b2fc9a629bacee2c890e25ff02146db762cd487a0036d70389f984",
+    "g2s2-mandarin-final-a": "d517ffb0473b500b8975bc5bd5fad68e98dfca75b2ec78f6a32131427ca00ec4",
+    "g2s2-mandarin-final-b": "0f87d73e02d81d16a77e38d9f03b71903f36265b0423b966d4bc9d4622dddcf3",
+    "g2s2-mandarin-final-c": "3fb52a141f7bd8539451022a894dae01d14691b26bc420f17f3d785921af12a2"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -352,7 +364,13 @@
       "g2s2-mathematics-midterm-c",
       "g2s2-mathematics-final-a",
       "g2s2-mathematics-final-b",
-      "g2s2-mathematics-final-c"
+      "g2s2-mathematics-final-c",
+      "g2s2-mandarin-midterm-a",
+      "g2s2-mandarin-midterm-b",
+      "g2s2-mandarin-midterm-c",
+      "g2s2-mandarin-final-a",
+      "g2s2-mandarin-final-b",
+      "g2s2-mandarin-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -894,6 +912,36 @@
         "sourceSha256": "3b4f4065b60663745ce3bba45fad7f663dc201ce5463cbfe75d805ccb9fc69b5",
         "observedCommit": "e645805239ed912b1299556e1da8d682144c8f34",
         "receiptSha256": "5c558f220209c61487e22cec01c0c4b066e1caeb3d3688869ba5a52e66b42a68"
+      },
+      "g2s2-mathematics-midterm-a": {
+        "sourceSha256": "f4286a4df020f1bfabee1b8513988d957ad92e745a7a5beba69c37091c1f5ace",
+        "observedCommit": "75688dbdd645350a8db40d69d017954c720b947b",
+        "receiptSha256": "d879bac4381d4bb76249da650bcfd6ac9ece230368facd28519065ea27d467a6"
+      },
+      "g2s2-mathematics-midterm-b": {
+        "sourceSha256": "5dc24bcc0c34bbec9439a124c2d8cfaf1d7ebb78fef4d42dc88e1094b9dbf6ac",
+        "observedCommit": "75688dbdd645350a8db40d69d017954c720b947b",
+        "receiptSha256": "d879bac4381d4bb76249da650bcfd6ac9ece230368facd28519065ea27d467a6"
+      },
+      "g2s2-mathematics-midterm-c": {
+        "sourceSha256": "e02ece8fda872c5a2378aa023b66ea63fae67972566b80939d3a319d81e5426f",
+        "observedCommit": "75688dbdd645350a8db40d69d017954c720b947b",
+        "receiptSha256": "d879bac4381d4bb76249da650bcfd6ac9ece230368facd28519065ea27d467a6"
+      },
+      "g2s2-mathematics-final-a": {
+        "sourceSha256": "b6d39f8fc12095f3ec3db77e656f3367cee0204e8cf5b353f828e151938a5f40",
+        "observedCommit": "75688dbdd645350a8db40d69d017954c720b947b",
+        "receiptSha256": "d879bac4381d4bb76249da650bcfd6ac9ece230368facd28519065ea27d467a6"
+      },
+      "g2s2-mathematics-final-b": {
+        "sourceSha256": "41f020655c09983a99e1341f457debc5448ef5a8f33bf8d460b4cbe89fcd1c6c",
+        "observedCommit": "75688dbdd645350a8db40d69d017954c720b947b",
+        "receiptSha256": "d879bac4381d4bb76249da650bcfd6ac9ece230368facd28519065ea27d467a6"
+      },
+      "g2s2-mathematics-final-c": {
+        "sourceSha256": "eb796becddaf9e070d2bb631f4d380ef332ede96b773ebd34b8f47de9bc2de4a",
+        "observedCommit": "75688dbdd645350a8db40d69d017954c720b947b",
+        "receiptSha256": "d879bac4381d4bb76249da650bcfd6ac9ece230368facd28519065ea27d467a6"
       }
     },
     "pdfVerified": {
@@ -2605,6 +2653,96 @@
           "path": "pdf/g2s2-mathematics-final-c-teacher.pdf",
           "sha256": "d1a00fc2919d4290a521aff848cd7eed6a3a7f6ab49c3e4509350bbdd53dabc2",
           "pages": 9
+        }
+      },
+      "g2s2-mandarin-midterm-a": {
+        "sourceSha256": "849483fad7343a01fe1eead33e22e500db29da5caf554bd2663ff387d38f7058",
+        "pageReview": "passed",
+        "receiptSha256": "790f49212c6a1eae0d12dedaecee3f4004d506416d3b425f6d095e5d7a5ba910",
+        "student": {
+          "path": "pdf/g2s2-mandarin-midterm-a-student.pdf",
+          "sha256": "184cf559e848e2d0ba9abe245cc7e93fc64317153988fbdb4cf7a4f402c36185",
+          "pages": 7
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mandarin-midterm-a-teacher.pdf",
+          "sha256": "108a9ac1c3248b881f718f949ace58de0a3e218bda4629d24e97b9f9255dc3c2",
+          "pages": 10
+        }
+      },
+      "g2s2-mandarin-midterm-b": {
+        "sourceSha256": "2c7b0a80d897436c660730aee8303ac5614e2dea7dcc2f6b22b39c63c319382e",
+        "pageReview": "passed",
+        "receiptSha256": "790f49212c6a1eae0d12dedaecee3f4004d506416d3b425f6d095e5d7a5ba910",
+        "student": {
+          "path": "pdf/g2s2-mandarin-midterm-b-student.pdf",
+          "sha256": "421eccb9accae35b7a87c1e87ddc27c653e74372eae61e40da55361858791f2c",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mandarin-midterm-b-teacher.pdf",
+          "sha256": "5e9146db9c10a4e4c27dbeaded96a6567e059542b74b8d63d6b025dbc26b5e59",
+          "pages": 9
+        }
+      },
+      "g2s2-mandarin-midterm-c": {
+        "sourceSha256": "0e89855bb2b2fc9a629bacee2c890e25ff02146db762cd487a0036d70389f984",
+        "pageReview": "passed",
+        "receiptSha256": "790f49212c6a1eae0d12dedaecee3f4004d506416d3b425f6d095e5d7a5ba910",
+        "student": {
+          "path": "pdf/g2s2-mandarin-midterm-c-student.pdf",
+          "sha256": "63174cf1094ddc01aa06886df262247fd7ec98e7e47cd8cbd0762c15d60d4300",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mandarin-midterm-c-teacher.pdf",
+          "sha256": "4131403db1cfd637d026ed067293011007094e378729efda1b9265ad6262b79b",
+          "pages": 10
+        }
+      },
+      "g2s2-mandarin-final-a": {
+        "sourceSha256": "d517ffb0473b500b8975bc5bd5fad68e98dfca75b2ec78f6a32131427ca00ec4",
+        "pageReview": "passed",
+        "receiptSha256": "be6ee7d239c3032b8697a18cdf5a7584b139d16681eedfdc8e8999d85b12f9ec",
+        "student": {
+          "path": "pdf/g2s2-mandarin-final-a-student.pdf",
+          "sha256": "0e3830454b2c1872cae4f109d677f5a4615eee16acd2322576ec54fcd9a10d17",
+          "pages": 7
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mandarin-final-a-teacher.pdf",
+          "sha256": "8eb19f368ff52d3b78feca443cae9ffec742ef30d5464196ec7a1e181e980fe5",
+          "pages": 11
+        }
+      },
+      "g2s2-mandarin-final-b": {
+        "sourceSha256": "0f87d73e02d81d16a77e38d9f03b71903f36265b0423b966d4bc9d4622dddcf3",
+        "pageReview": "passed",
+        "receiptSha256": "be6ee7d239c3032b8697a18cdf5a7584b139d16681eedfdc8e8999d85b12f9ec",
+        "student": {
+          "path": "pdf/g2s2-mandarin-final-b-student.pdf",
+          "sha256": "55dffa0aafccbbac08bc2e4db945ba79dcf3af4dbbd92425a778458d61d9ac20",
+          "pages": 7
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mandarin-final-b-teacher.pdf",
+          "sha256": "7fa35c0df96028a00f78f9c185da4d758c8b70d2787c634bbce1928c9230367e",
+          "pages": 11
+        }
+      },
+      "g2s2-mandarin-final-c": {
+        "sourceSha256": "3fb52a141f7bd8539451022a894dae01d14691b26bc420f17f3d785921af12a2",
+        "pageReview": "passed",
+        "receiptSha256": "be6ee7d239c3032b8697a18cdf5a7584b139d16681eedfdc8e8999d85b12f9ec",
+        "student": {
+          "path": "pdf/g2s2-mandarin-final-c-student.pdf",
+          "sha256": "f128f1bdb568965c78e9e735f766f7fdeba6b174d1022ef7603e59aff586d73f",
+          "pages": 7
+        },
+        "teacher": {
+          "path": "pdf/g2s2-mandarin-final-c-teacher.pdf",
+          "sha256": "806c94ecd65d79334cb5ceabffb07a5a8fc8f96c832df928407a96c0ac16b975",
+          "pages": 11
         }
       }
     },
