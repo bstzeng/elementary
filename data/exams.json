@@ -47,7 +47,19 @@
     "g1s2-mathematics-midterm-c",
     "g1s2-mathematics-final-a",
     "g1s2-mathematics-final-b",
-    "g1s2-mathematics-final-c"
+    "g1s2-mathematics-final-c",
+    "g1s2-mandarin-midterm-a",
+    "g1s2-mandarin-midterm-b",
+    "g1s2-mandarin-midterm-c",
+    "g1s2-mandarin-final-a",
+    "g1s2-mandarin-final-b",
+    "g1s2-mandarin-final-c",
+    "g1s2-life-midterm-a",
+    "g1s2-life-midterm-b",
+    "g1s2-life-midterm-c",
+    "g1s2-life-final-a",
+    "g1s2-life-final-b",
+    "g1s2-life-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -91,7 +103,19 @@
     "g1s2-mathematics-midterm-c": "dec2d0dfeadc9da15baf89f19130c3a745f12b79c004bbdc6076e7482045a984",
     "g1s2-mathematics-final-a": "5a662c5698d8bc6054f249a965e2626621e242574365ee2fff9677652b584f5b",
     "g1s2-mathematics-final-b": "953af61a526d5c1f38bd13911f4e226802733f72f6ab672495a9d2e0f3ec5fb0",
-    "g1s2-mathematics-final-c": "1df136b62a6e641e03668968b6d50dab5e002d080b09c9e92b508f39275fcb0f"
+    "g1s2-mathematics-final-c": "1df136b62a6e641e03668968b6d50dab5e002d080b09c9e92b508f39275fcb0f",
+    "g1s2-mandarin-midterm-a": "c03bf2be3b70c827ff317f499f2b4b874d5fc26aaf8ca5bf64cbbae11768f6eb",
+    "g1s2-mandarin-midterm-b": "d996d2e60b6cbb6bc5725da1de6b3072c31420d171105aa0712abd9d7129ae3d",
+    "g1s2-mandarin-midterm-c": "e1a8a2dd3a3843efe88f093d82c8b25e70d553d5ba0da7e8c5b6ba1d30183287",
+    "g1s2-mandarin-final-a": "38a2de171cd676c9a8858c9663ffb95af6fa140362afeb1c524881cd87a49fda",
+    "g1s2-mandarin-final-b": "6f5f12f8e91c7fcfc9dd7140a221b19dd60cd3d6d1293c5bb0abd8eada7e46a9",
+    "g1s2-mandarin-final-c": "656df8c437b0b6d7d87bedefbc7c52693ef29fb3488a04ffc169c55e2b1eef8c",
+    "g1s2-life-midterm-a": "1eb5f3b4ba10b002655bb44904eb009b4d7da44da7db4984b5b6b9737fdee5da",
+    "g1s2-life-midterm-b": "f7756db293d3790b5b94204126d2536906db3d04ec942bc4cbc85daf909ce85c",
+    "g1s2-life-midterm-c": "6112ad0efbdae22785da61a0a31209063ff8568a1741bf843ee24c1fcb84a2f2",
+    "g1s2-life-final-a": "0665b2596441059ac95cfca4a692e24f779b72f69f7dcf7fe364c990078be4b1",
+    "g1s2-life-final-b": "5ad5e8ef9e78fe484f50e3c54cc058caade12fd2867eea2d845cb6392049fe00",
+    "g1s2-life-final-c": "1906ae65aa68f7058bd40795cf14fd7ca0b691696306aa2cc84d127f57a3636b"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -136,7 +160,19 @@
       "g1s2-mathematics-midterm-c",
       "g1s2-mathematics-final-a",
       "g1s2-mathematics-final-b",
-      "g1s2-mathematics-final-c"
+      "g1s2-mathematics-final-c",
+      "g1s2-mandarin-midterm-a",
+      "g1s2-mandarin-midterm-b",
+      "g1s2-mandarin-midterm-c",
+      "g1s2-mandarin-final-a",
+      "g1s2-mandarin-final-b",
+      "g1s2-mandarin-final-c",
+      "g1s2-life-midterm-a",
+      "g1s2-life-midterm-b",
+      "g1s2-life-midterm-c",
+      "g1s2-life-final-a",
+      "g1s2-life-final-b",
+      "g1s2-life-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -228,6 +264,126 @@
         "sourceSha256": "0924e76fc24b89a4b948bf11866f16b010c41f2b243d04e526f8c1ef1ea0a619",
         "observedCommit": "90b02eea9edca9fcb226294c97f9aff3bff908d5",
         "receiptSha256": "50d5618c5aeca8bb1c0cbd4a4e904505cda7fb69c9c21bc162d6e2bba6015220"
+      },
+      "g1s1-health-pe-final-a": {
+        "sourceSha256": "2601267f67c1dd6d81af89d279b528b323b2d6a7e1ec06e59310f2a90df881d9",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-health-pe-final-b": {
+        "sourceSha256": "af7a00946371c0294be3b465178112ac3629c8d961832b71c51afc3f658a19a3",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-health-pe-final-c": {
+        "sourceSha256": "b81ec224087a3f2383c41685b560e287ae1dfee231d08601b35800725a1b8164",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-health-pe-midterm-a": {
+        "sourceSha256": "772f21e8e52d4cbac6bb698b4f441f750c9d7c77f9e0963324dc15a0a2c70748",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-health-pe-midterm-b": {
+        "sourceSha256": "02ab645deaf81b15d91110f2b6a9b81b32d17f1f98e0e5e2cbacb84c8e819f91",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-health-pe-midterm-c": {
+        "sourceSha256": "7224fa6fb3db1bea6aba071632237ef3f4416edc256373572ef5b57488f5ae92",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-language-choice-final-a": {
+        "sourceSha256": "335c62d60262c35e7b2c5b1a3e882f9567fa1548776e664ece9a1f197ac57878",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-language-choice-final-b": {
+        "sourceSha256": "cdb1cd94aeb8e808aff2c526e07125007e508f48a716cc99c6c7833506faff5e",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-language-choice-final-c": {
+        "sourceSha256": "6391da5a0efae0a072453f883aaff3226ff2799a39cca45c8de36b39bec6baf5",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-language-choice-midterm-a": {
+        "sourceSha256": "e887517fabbc258912fa440d11ad674a82f607539ee96890ea382ca896db2f02",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-language-choice-midterm-b": {
+        "sourceSha256": "ae57b1ce4c3287f1619f6f5768afd82f61eb7aa68796ee7530b95fd68f1e61a4",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-language-choice-midterm-c": {
+        "sourceSha256": "b859d4914a8d3036c250a894e617bb3e18f91293802e59575a4c0a0795e86333",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-school-flexible-final-a": {
+        "sourceSha256": "4db5a8bedce5f348fed0b9b7deeae60074a732ade889dd47c2e6c54ac9f6460f",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-school-flexible-final-b": {
+        "sourceSha256": "a393ce8efdd4c970c435c5f37603bc579fd314b1c062b3bebef0ad1723e9c97c",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-school-flexible-final-c": {
+        "sourceSha256": "769c6b4ad53b39c14c6452a9c63517a59f4214b3fd281c52b453c5c07228ed9a",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-school-flexible-midterm-a": {
+        "sourceSha256": "cf99eb61e3ebf34436345b78ccfb41da092ab05226ed2d830117d2f96b248d97",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-school-flexible-midterm-b": {
+        "sourceSha256": "8080b36433d11e107fd2a669e5d7a5b148e163d93f4aeaeba2515e31851658b0",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s1-school-flexible-midterm-c": {
+        "sourceSha256": "b59c431e594dd4fb0271bd0feda81dfbf29da4cf9cb2cb61d9cf9305a9e0335b",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s2-mathematics-midterm-a": {
+        "sourceSha256": "de6fd4c866a62ed344dd9fe40a85aca7789d6356082ae43ac7a96058ae5edfee",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s2-mathematics-midterm-b": {
+        "sourceSha256": "b8ae233340e69be066204cd21d5ec44152ef77c2584fc5a4bd30446fe837e221",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s2-mathematics-midterm-c": {
+        "sourceSha256": "dec2d0dfeadc9da15baf89f19130c3a745f12b79c004bbdc6076e7482045a984",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s2-mathematics-final-a": {
+        "sourceSha256": "5a662c5698d8bc6054f249a965e2626621e242574365ee2fff9677652b584f5b",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s2-mathematics-final-b": {
+        "sourceSha256": "953af61a526d5c1f38bd13911f4e226802733f72f6ab672495a9d2e0f3ec5fb0",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
+      },
+      "g1s2-mathematics-final-c": {
+        "sourceSha256": "1df136b62a6e641e03668968b6d50dab5e002d080b09c9e92b508f39275fcb0f",
+        "observedCommit": "4d7100295c6b23ce16ce3c222e5c51fa2aa91f4a",
+        "receiptSha256": "81503ca4e4b2aec52967589fa34b5a66edf8991b20f3653e3a32881d14abdeb5"
       }
     },
     "pdfVerified": {
@@ -858,6 +1014,186 @@
         "teacher": {
           "path": "pdf/g1s2-mathematics-final-c-teacher.pdf",
           "sha256": "e8d9815a48a4050436712d88cb54667e730ba6cd7dc1d4b2c9979ed8833a676b",
+          "pages": 12
+        }
+      },
+      "g1s2-mandarin-midterm-a": {
+        "sourceSha256": "c03bf2be3b70c827ff317f499f2b4b874d5fc26aaf8ca5bf64cbbae11768f6eb",
+        "pageReview": "passed",
+        "receiptSha256": "62600f8d1c114e9043fa55ac5dd6b875ad52ecda289828d8637c66a3bfcf09d5",
+        "student": {
+          "path": "pdf/g1s2-mandarin-midterm-a-student.pdf",
+          "sha256": "c02cd6e1d6c21691b7ebf93f1c5516279936f7a7053451233948f0494765b960",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-mandarin-midterm-a-teacher.pdf",
+          "sha256": "38af3342895b37622a611ff125c847920a6ba8dfacac2c61cec0c60ba5f4a651",
+          "pages": 9
+        }
+      },
+      "g1s2-mandarin-midterm-b": {
+        "sourceSha256": "d996d2e60b6cbb6bc5725da1de6b3072c31420d171105aa0712abd9d7129ae3d",
+        "pageReview": "passed",
+        "receiptSha256": "62600f8d1c114e9043fa55ac5dd6b875ad52ecda289828d8637c66a3bfcf09d5",
+        "student": {
+          "path": "pdf/g1s2-mandarin-midterm-b-student.pdf",
+          "sha256": "4d97e437279a1ffde10270f5d0922db7f7013a774befcedcc7defcb604740275",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-mandarin-midterm-b-teacher.pdf",
+          "sha256": "dce18842f82a8cdbfa9c62f04cc9a1fc4592cf69f8b42c7d6ce379f38dfdc642",
+          "pages": 9
+        }
+      },
+      "g1s2-mandarin-midterm-c": {
+        "sourceSha256": "e1a8a2dd3a3843efe88f093d82c8b25e70d553d5ba0da7e8c5b6ba1d30183287",
+        "pageReview": "passed",
+        "receiptSha256": "62600f8d1c114e9043fa55ac5dd6b875ad52ecda289828d8637c66a3bfcf09d5",
+        "student": {
+          "path": "pdf/g1s2-mandarin-midterm-c-student.pdf",
+          "sha256": "4af65875f00da7f2fa572abd1710ecc919fc80ecc31a7e8be8b5fe2d8fbec9e6",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-mandarin-midterm-c-teacher.pdf",
+          "sha256": "00aa82dfa5e146debf7954f45faffbd0c14a466b13a066c43d160a9691602a33",
+          "pages": 9
+        }
+      },
+      "g1s2-mandarin-final-a": {
+        "sourceSha256": "38a2de171cd676c9a8858c9663ffb95af6fa140362afeb1c524881cd87a49fda",
+        "pageReview": "passed",
+        "receiptSha256": "62600f8d1c114e9043fa55ac5dd6b875ad52ecda289828d8637c66a3bfcf09d5",
+        "student": {
+          "path": "pdf/g1s2-mandarin-final-a-student.pdf",
+          "sha256": "8619c17167ae50fb3795dbef11755d4fbb11a8082f9cae426ad5bd985f6f0220",
+          "pages": 4
+        },
+        "teacher": {
+          "path": "pdf/g1s2-mandarin-final-a-teacher.pdf",
+          "sha256": "c9a588f6574d04a85d78f19a00ab229bd87d53e7df0c2151af3180f7befe36eb",
+          "pages": 10
+        }
+      },
+      "g1s2-mandarin-final-b": {
+        "sourceSha256": "6f5f12f8e91c7fcfc9dd7140a221b19dd60cd3d6d1293c5bb0abd8eada7e46a9",
+        "pageReview": "passed",
+        "receiptSha256": "62600f8d1c114e9043fa55ac5dd6b875ad52ecda289828d8637c66a3bfcf09d5",
+        "student": {
+          "path": "pdf/g1s2-mandarin-final-b-student.pdf",
+          "sha256": "330b3d3927b593232da4255472beb91cae647b1d788a57dd2265f3e15aaebf36",
+          "pages": 4
+        },
+        "teacher": {
+          "path": "pdf/g1s2-mandarin-final-b-teacher.pdf",
+          "sha256": "f8028a338946d5bb57afa13621d8a2f5cbb8042e31fec4c67c1a80fa7ca1c393",
+          "pages": 11
+        }
+      },
+      "g1s2-mandarin-final-c": {
+        "sourceSha256": "656df8c437b0b6d7d87bedefbc7c52693ef29fb3488a04ffc169c55e2b1eef8c",
+        "pageReview": "passed",
+        "receiptSha256": "62600f8d1c114e9043fa55ac5dd6b875ad52ecda289828d8637c66a3bfcf09d5",
+        "student": {
+          "path": "pdf/g1s2-mandarin-final-c-student.pdf",
+          "sha256": "c9f5b138e7fac9f7b8754e45348a1e4989e831a53055bb3fdb11298c0098354e",
+          "pages": 4
+        },
+        "teacher": {
+          "path": "pdf/g1s2-mandarin-final-c-teacher.pdf",
+          "sha256": "8ea6949e6c484f182fe33fa8c2ccb19ac03431771ea52aef162b6de52ff4d349",
+          "pages": 9
+        }
+      },
+      "g1s2-life-midterm-a": {
+        "sourceSha256": "1eb5f3b4ba10b002655bb44904eb009b4d7da44da7db4984b5b6b9737fdee5da",
+        "pageReview": "passed",
+        "receiptSha256": "7d528820cd73605cf8260cc0f6b02d56baa04739f41f6990fc8f19cfdb097fd7",
+        "student": {
+          "path": "pdf/g1s2-life-midterm-a-student.pdf",
+          "sha256": "d8d0d7405a49aec60f952a157064ec77996f8fa18b7b85107cf3869e625d873e",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-life-midterm-a-teacher.pdf",
+          "sha256": "c84ed0810e96f320de50ecbbbe68c761835dbfe40def5930ea29049702f63216",
+          "pages": 10
+        }
+      },
+      "g1s2-life-midterm-b": {
+        "sourceSha256": "f7756db293d3790b5b94204126d2536906db3d04ec942bc4cbc85daf909ce85c",
+        "pageReview": "passed",
+        "receiptSha256": "7d528820cd73605cf8260cc0f6b02d56baa04739f41f6990fc8f19cfdb097fd7",
+        "student": {
+          "path": "pdf/g1s2-life-midterm-b-student.pdf",
+          "sha256": "9ad179ec42b4f64308ca95339e5ddea6c8e45c8d597d1c8683e979b82aad40fc",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-life-midterm-b-teacher.pdf",
+          "sha256": "4a6abe331e2dafeff9ce81f4812d28ef98b531f94dd47374a77871b5f182d9bc",
+          "pages": 10
+        }
+      },
+      "g1s2-life-midterm-c": {
+        "sourceSha256": "6112ad0efbdae22785da61a0a31209063ff8568a1741bf843ee24c1fcb84a2f2",
+        "pageReview": "passed",
+        "receiptSha256": "7d528820cd73605cf8260cc0f6b02d56baa04739f41f6990fc8f19cfdb097fd7",
+        "student": {
+          "path": "pdf/g1s2-life-midterm-c-student.pdf",
+          "sha256": "71b531ceaaf0e2fb3d72a12170429cab850511b13869084832d986f855b35605",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-life-midterm-c-teacher.pdf",
+          "sha256": "1a8dc96747e831a8bc89f9b181833aa46a9ce293407f2ccc863ddfba2722f629",
+          "pages": 10
+        }
+      },
+      "g1s2-life-final-a": {
+        "sourceSha256": "0665b2596441059ac95cfca4a692e24f779b72f69f7dcf7fe364c990078be4b1",
+        "pageReview": "passed",
+        "receiptSha256": "e8839ac8e9554fae5b25138778fcce0f6054e7e703d03a6201ebfb0b7d6f30f2",
+        "student": {
+          "path": "pdf/g1s2-life-final-a-student.pdf",
+          "sha256": "dbd9e4381064efdd6afeb93951235ca0d95b716a92583d7acdb850f911254005",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-life-final-a-teacher.pdf",
+          "sha256": "59d1b8d2c09dcae648da946deb7a472d8ed3a04c05a9e3f9703c20a42f3d35b3",
+          "pages": 11
+        }
+      },
+      "g1s2-life-final-b": {
+        "sourceSha256": "5ad5e8ef9e78fe484f50e3c54cc058caade12fd2867eea2d845cb6392049fe00",
+        "pageReview": "passed",
+        "receiptSha256": "e8839ac8e9554fae5b25138778fcce0f6054e7e703d03a6201ebfb0b7d6f30f2",
+        "student": {
+          "path": "pdf/g1s2-life-final-b-student.pdf",
+          "sha256": "f9d2c1e7b69a09e1984becbdf6400152398615ecfd9f81cb577e05ff28593154",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-life-final-b-teacher.pdf",
+          "sha256": "84c6d626c4332fe309dbc71fc23b77fc5c2f8b0e0f680aad2ca1839c46e80916",
+          "pages": 12
+        }
+      },
+      "g1s2-life-final-c": {
+        "sourceSha256": "1906ae65aa68f7058bd40795cf14fd7ca0b691696306aa2cc84d127f57a3636b",
+        "pageReview": "passed",
+        "receiptSha256": "e8839ac8e9554fae5b25138778fcce0f6054e7e703d03a6201ebfb0b7d6f30f2",
+        "student": {
+          "path": "pdf/g1s2-life-final-c-student.pdf",
+          "sha256": "282bdc2126f8f51c43a44b7ce37cf56f87ee5a14c3280a4f0c3b7a3f5fba0c9d",
+          "pages": 3
+        },
+        "teacher": {
+          "path": "pdf/g1s2-life-final-c-teacher.pdf",
+          "sha256": "03ae0f5dfddf04969db49576b099a0bf7fcef84866f56b963f1af5838f881919",
           "pages": 12
         }
       }
