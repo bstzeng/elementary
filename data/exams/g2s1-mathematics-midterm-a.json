@@ -1,0 +1,480 @@
+{
+  "schemaVersion": 1,
+  "id": "g2s1-mathematics-midterm-a",
+  "grade": 2,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "A",
+  "mode": "written",
+  "title": "小二上學期數學・期中A卷",
+  "duration": "建議35–40分鐘；這是設計估計，未經試測，可依閱讀與書寫支持需要分段完成。",
+  "instructions": [
+    "每題各自開始。先看本題的完整資料，再回答。",
+    "可以寫、畫、指圖或口說；題目要說明時，讓別人看懂你的想法。",
+    "直式題請保留位值對齊的記錄；其他題可用自己理解的方法。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本參考主題編排，並非官方考卷或全國統一進度；施測前確認已教內容。A／B／C未經試測、常模化或統計等值檢驗。",
+    "可逐題中性朗讀、放大材料、提供空白紙、逐字代記口答或依學生指示落筆。不得代算、替學生指出關鍵數字或提示答案；不以識字、字體、國字筆順或速度計分。",
+    "各條規準獨立計分；允許有效的畫圖、分合、接數、直式、口述或其他等值方法。明確要求直式的題目須有位值對齊證據，可由學生指示成人記錄。數量與對象清楚時，不因省略量詞、使用中文數字或合理的記號格式扣分。",
+    "兩步題若第一步只是計算失誤，第二步正確沿用其結果，依分項規準保留第二步的關係或方法分，不再重複扣方法分；正確最終數值的分數仍按實際答案計。",
+    "期中不要求乘法符號；連加與倍須能對回每組數、組數及總量。期末的乘法可採不同因子順序；只要明白交代原情境每組數與組數，不因一致且正確的記錄慣例扣分。",
+    "這是紙筆、指圖與口述的概念評量，不能據此認定實物測量、操作天平、倒水或動手疊合能力。所有資料均為虛構，無須姓名、家庭資料、照片、錄音或帳號；可用匿名代號。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白計算紙",
+    "本卷完整題目與圖表；需要時可等比例放大",
+    "不需真錢、食品、剪刀、小零件或實際搬動物品"
+  ],
+  "sources": [
+    {
+      "title": "本館小二上數學參考主題與原創教材",
+      "url": "https://bstzeng.github.io/elementary/#g2s1",
+      "note": "依已保存的12課完整正文、教學說明與練習核對範圍；本卷另設資料、作答任務與決策，不將教材例題改名換數當成整份新卷。"
+    },
+    {
+      "title": "教育部數學領域課程綱要發布頁（沿用教材來源）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "本次只依館內既有教材的範圍註記，未重新擷取官方文件。課綱年級內容不等於固定學期或段考順序。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "place",
+      "title": "200以內的數與位值",
+      "points": 20,
+      "purpose": "讀寫、數序及位值比較。"
+    },
+    {
+      "id": "add",
+      "title": "二位數加法",
+      "points": 15,
+      "purpose": "直式對齊與一次進位。"
+    },
+    {
+      "id": "subtract",
+      "title": "二位數減法",
+      "points": 15,
+      "purpose": "直式對齊與一次退位。"
+    },
+    {
+      "id": "inverse",
+      "title": "數量關係與檢查",
+      "points": 15,
+      "purpose": "辨認未知量，以加法核對減法。"
+    },
+    {
+      "id": "stories",
+      "title": "兩步驟問題",
+      "points": 20,
+      "purpose": "追蹤兩個事件或先變化再比較。"
+    },
+    {
+      "id": "groups",
+      "title": "等量群組與倍",
+      "points": 15,
+      "purpose": "依原分組連加並說明倍的基準。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "place",
+      "title": "200以內的數與位值",
+      "instructions": "看本題資料作答；需要說明時，可用簡短文字、圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-01"
+          ],
+          "prompt": "把寄件單上的數寫成數字，再寫出這個數中「1」和「9」各表示幾張。",
+          "responseLines": 3,
+          "answer": {
+            "value": "109；1表示100張，9表示9張。",
+            "explanation": "一百零九有1個百、0個十、9個一；中間的0保留十位。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "寫109得4分。"
+              },
+              {
+                "points": 3,
+                "criterion": "1表示100張或1個百得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "9表示9張或9個一得3分。"
+              }
+            ]
+          },
+          "stimulus": "寄件單：一百零九張邀請卡。",
+          "id": "g2s1-mathematics-midterm-a-q01"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-01"
+          ],
+          "prompt": "編號每次多1。填好空格，再圈出或寫出160與106中較大的數，並說明怎麼比較。",
+          "responseLines": 3,
+          "answer": {
+            "value": "空格160；160較大；都有1個百，160有6個十，106沒有額外的十。",
+            "explanation": "159之後是160；同百位時比較十位，6個十多於0個十。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "填160得4分。"
+              },
+              {
+                "points": 2,
+                "criterion": "選160較大得2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "說出百位相同後比十位，或其他正確位值比較得4分；只說160較大未提供比較依據不得此項分。"
+              }
+            ]
+          },
+          "stimulus": "書櫃標籤：158、159、＿＿、161。",
+          "id": "g2s1-mathematics-midterm-a-q02"
+        }
+      ]
+    },
+    {
+      "id": "add",
+      "title": "二位數加法",
+      "instructions": "看本題資料作答；需要說明時，可用簡短文字、圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-02"
+          ],
+          "prompt": "用直式算36＋28，保留對齊的數字和計算記錄；再說個位滿十後換出了什麼。",
+          "responseLines": 5,
+          "answer": {
+            "value": "36＋28＝64；14個一換出1個十，留下4個一。",
+            "explanation": "6＋8＝14，14個一換成1個十和4個一；3＋2＋1＝6，答案64。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "36與28的十位、個位分別對齊，並表明相加得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "答案64得4分。"
+              },
+              {
+                "points": 3,
+                "criterion": "說或畫出個位14個一換出1個十（留下4個一）得3分；若口答與圖正確而進位記號形式不同不扣分。"
+              }
+            ]
+          },
+          "id": "g2s1-mathematics-midterm-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-02"
+          ],
+          "prompt": "哪張需要把個位的10個一換成1個十？寫代號，並算出那張的個位先合成幾個一。",
+          "responseLines": 2,
+          "answer": {
+            "value": "乙；2＋9＝11，先有11個一。",
+            "explanation": "甲的2＋6＝8不滿十，乙的2＋9＝11要換十。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "選乙得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "寫出乙個位11個一或2＋9＝11得3分。"
+              }
+            ]
+          },
+          "stimulus": "甲：52＋16　乙：52＋19",
+          "id": "g2s1-mathematics-midterm-a-q04"
+        }
+      ]
+    },
+    {
+      "id": "subtract",
+      "title": "二位數減法",
+      "instructions": "看本題資料作答；需要說明時，可用簡短文字、圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-03"
+          ],
+          "prompt": "用直式算81－46，保留位值對齊和換十的記錄；再寫出換十後、還沒拿走46時有幾個十和幾個一。",
+          "responseLines": 5,
+          "answer": {
+            "value": "81－46＝35；先改成7個十和11個一。",
+            "explanation": "8個十1個一換成7個十11個一；11－6＝5，7－4＝3，得35。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "原式81與46按位值對齊，並表明相減得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "交換後7個十和11個一各正確得1.5分，共3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "結果35得4分。"
+              }
+            ]
+          },
+          "id": "g2s1-mathematics-midterm-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-03"
+          ],
+          "prompt": "要算70－38，先把70的一個十換成單個。哪張記錄仍是70？寫代號，再寫另一張其實表示多少。",
+          "responseLines": 2,
+          "answer": {
+            "value": "甲；乙其實是80。",
+            "explanation": "70改成6個十和10個一仍是70；7個十再加10個一會多成80。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "選甲得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "指出乙80得3分。"
+              }
+            ]
+          },
+          "stimulus": "甲：6個十、10個一。\n乙：7個十、10個一。",
+          "id": "g2s1-mathematics-midterm-a-q06"
+        }
+      ]
+    },
+    {
+      "id": "inverse",
+      "title": "數量關係與檢查",
+      "instructions": "看本題資料作答；需要說明時，可用簡短文字、圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-04"
+          ],
+          "prompt": "還有幾格沒放作品？列式或畫圖求出，再用加法把已放和沒放的格數合回來檢查。",
+          "responseLines": 4,
+          "answer": {
+            "value": "67－29＝38，沒放38格；29＋38＝67。",
+            "explanation": "全部67格由已放29格與沒放38格組成；加回已放的部分應回到67。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "用67－29、29＋□＝67、接數或相同分合關係求未知部分得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "沒放38格得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "加法檢查29＋38＝67或38＋29＝67得4分；角色正確但一次加法算錯得2分。"
+              }
+            ]
+          },
+          "stimulus": "作品架共67格，每格最多放1件。已有29格各放1件，其餘都空著。",
+          "id": "g2s1-mathematics-midterm-a-q07"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-04"
+          ],
+          "prompt": "寄出28張後剩47張。檢查卡抄錯了哪一個數？改寫正確的加法檢查。",
+          "responseLines": 2,
+          "answer": {
+            "value": "27抄錯，應是28；47＋28＝75。",
+            "explanation": "留下47與寄出28合回原有75，檢查卡不能把寄出量改成27。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "指出27應改28得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "完整記47＋28＝75或28＋47＝75得3分；兩個加數正確但合計錯得1分。"
+              }
+            ]
+          },
+          "stimulus": "原有75張邀請卡。\n計算：75－28＝47。\n待改的檢查卡：47＋27＝74。",
+          "id": "g2s1-mathematics-midterm-a-q08"
+        }
+      ]
+    },
+    {
+      "id": "stories",
+      "title": "兩步驟問題",
+      "instructions": "看本題資料作答；需要說明時，可用簡短文字、圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-05"
+          ],
+          "prompt": "先求收到後有幾片，再求用掉後剩幾片；各留下計算或圖。最後判斷剩下的是否至少有35片。",
+          "responseLines": 4,
+          "answer": {
+            "value": "45＋17＝62；62－26＝36；36片至少有35片，足夠。",
+            "explanation": "收到後62是中間量，用掉26後才是36；36比35多1。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第一步表示45＋17且得62：關係1分、結果2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第二步從第一步量拿走26：關係2分、正確最後36得2分；沿用自己第一步結果且方法正確保留關係2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "按自己所求的剩量正確判斷是否至少35得3分；只答足夠且沒有任何可辨剩量不給此項分。"
+              }
+            ]
+          },
+          "stimulus": "有45片拼片，收到17片後，用掉26片。下一次活動至少需要35片。",
+          "id": "g2s1-mathematics-midterm-a-q09"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-05"
+          ],
+          "prompt": "剩下的徽章卡夠不夠發給下一組24人，每人1張？留下兩步計算或圖，寫剩量及夠不夠。",
+          "responseLines": 4,
+          "answer": {
+            "value": "58－19＝39，39－16＝23；剩23張，不夠24人。也可19＋16＝35，再58－35＝23。",
+            "explanation": "早、午兩批都從58張中發出，不能只處理其中一次。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "正確表示第一步並計算：關係1分、結果2分；可先合計已發。"
+              },
+              {
+                "points": 4,
+                "criterion": "第二步完整扣掉兩批：關係2分、正確剩量23得2分；前步計算錯仍保留沿用的方法分。"
+              },
+              {
+                "points": 3,
+                "criterion": "依自己所得剩量與24比較，判斷夠或不夠得3分；未求剩量而只猜不夠不得此項分。"
+              }
+            ]
+          },
+          "stimulus": "共有58張徽章卡，早上發出19張，中午又發出16張；沒有補進。",
+          "id": "g2s1-mathematics-midterm-a-q10"
+        }
+      ]
+    },
+    {
+      "id": "groups",
+      "title": "等量群組與倍",
+      "instructions": "看本題資料作答；需要說明時，可用簡短文字、圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-06"
+          ],
+          "prompt": "只取走1張，就讓四盤都一樣多。要從哪一盤取？取好後，按四盤寫連加和總張數。",
+          "responseLines": 3,
+          "answer": {
+            "value": "從丙盤取1張；2＋2＋2＋2＝8，共8張。",
+            "explanation": "丙原有3張，比其他每盤多1；取走後四盤各2張。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "選丙取1張得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "連加記四個2得4分；若只列出三個2但明示四盤各2得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "總數8張得3分。"
+              }
+            ]
+          },
+          "stimulus": "甲盤2張、乙盤2張、丙盤3張、丁盤2張。只能取走1張，不移到別盤。",
+          "id": "g2s1-mathematics-midterm-a-q11"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-06"
+          ],
+          "prompt": "這兩份合起來是基準一份的幾倍？寫倍數和總面數。",
+          "responseLines": 2,
+          "answer": {
+            "value": "2倍；12面。",
+            "explanation": "每份都是6面，共2份，所以是6面的2倍；6＋6＝12。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "寫2倍得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "總數12面得3分。"
+              }
+            ]
+          },
+          "stimulus": "基準一份：6面紙旗。\n展示區：第一份6面，第二份也6面。",
+          "id": "g2s1-mathematics-midterm-a-q12"
+        }
+      ]
+    }
+  ],
+  "parallelDesign": "三卷配分相同：位值20、加法15、減法15、互逆與加法檢查15、兩步驟20、等組與倍15。A用接續編號、選擇退位記錄、檢查抄錯量與供應是否足夠；B用同字不同位值、原量未知、補充後比較與包裝規格；C用條件組數、等量改記、兩種有效解法與相同總數的不同分组。各卷有一題加法直式及一題減法直式；數與位值不超過200，運算以兩位數、一次進退位為限。兩步題不用運算優先規則；期中只要求連加及倍，不要求乘法式。相同範圍和配分僅為設計對照，並非統計等值。"
+}

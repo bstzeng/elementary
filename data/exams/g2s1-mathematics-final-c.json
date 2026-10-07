@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "g2s1-mathematics-final-c",
+  "grade": 2,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "C",
+  "mode": "written",
+  "title": "小二上學期數學・期末C卷",
+  "duration": "建議35–40分鐘；這是設計估計，未經試測，可依閱讀與書寫支持需要分段完成。",
+  "instructions": [
+    "每題各自開始。先看本題的完整資料，再回答。",
+    "可以寫、畫、指圖或口說；題目要說明時，讓別人看懂你的想法。",
+    "圖中的長度是刻度或已標參考量的示意，不用真尺量圖；乘法式可以配合你能說清楚的因子順序。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本參考主題編排，並非官方考卷或全國統一進度；施測前確認已教內容。A／B／C未經試測、常模化或統計等值檢驗。",
+    "可逐題中性朗讀、放大材料、提供空白紙、逐字代記口答或依學生指示落筆。不得代算、替學生指出關鍵數字或提示答案；不以識字、字體、國字筆順或速度計分。",
+    "各條規準獨立計分；允許有效的畫圖、分合、接數、直式、口述或其他等值方法。明確要求直式的題目須有位值對齊證據，可由學生指示成人記錄。數量與對象清楚時，不因省略量詞、使用中文數字或合理的記號格式扣分。",
+    "兩步題若第一步只是計算失誤，第二步正確沿用其結果，依分項規準保留第二步的關係或方法分，不再重複扣方法分；正確最終數值的分數仍按實際答案計。",
+    "期中不要求乘法符號；連加與倍須能對回每組數、組數及總量。期末的乘法可採不同因子順序；只要明白交代原情境每組數與組數，不因一致且正確的記錄慣例扣分。",
+    "這是紙筆、指圖與口述的概念評量，不能據此認定實物測量、操作天平、倒水或動手疊合能力。所有資料均為虛構，無須姓名、家庭資料、照片、錄音或帳號；可用匿名代號。",
+    "公分題只評圖上刻度間隔與已標參考量的推理，不評真尺對0、放直、估測實物或畫指定公分線段。不得拿未校正螢幕或PDF長度當實際公分。",
+    "鐘面以60個小刻度、長細分針與短粗時針區別；時針已按分鐘連續轉動。若把圖直接讀成答案，應另記能力調整，不能宣稱已測得視覺鐘面辨讀。",
+    "面積限完整紙片的直接包含、重合或判斷這次疊放證據不足，不計標準面積、不用長乘寬；容量重量只讀完整虛構記錄，不需學生倒水、搬物或操作器具。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白計算紙",
+    "本卷完整題目與圖表；需要時可等比例放大",
+    "不需真錢、食品、剪刀、小零件或實際搬動物品"
+  ],
+  "sources": [
+    {
+      "title": "本館小二上數學參考主題與原創教材",
+      "url": "https://bstzeng.github.io/elementary/#g2s1",
+      "note": "依已保存的12課完整正文、教學說明與練習核對範圍；本卷另設資料、作答任務與決策，不將教材例題改名換數當成整份新卷。"
+    },
+    {
+      "title": "教育部數學領域課程綱要發布頁（沿用教材來源）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "本次只依館內既有教材的範圍註記，未重新擷取官方文件。課綱年級內容不等於固定學期或段考順序。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "200以內位值與二位數加減關係。"
+    },
+    {
+      "id": "multiply",
+      "title": "乘法意義與表",
+      "points": 20,
+      "purpose": "等組記錄、因子角色及重建乘法結果。"
+    },
+    {
+      "id": "length",
+      "title": "公分刻度與參考量",
+      "points": 15,
+      "purpose": "讀示意刻度間隔，不宣稱實物量測能力。"
+    },
+    {
+      "id": "time",
+      "title": "鐘面時與分",
+      "points": 15,
+      "purpose": "雙針報讀、分鐘及時段或整時關係。"
+    },
+    {
+      "id": "area",
+      "title": "面積直接比較",
+      "points": 15,
+      "purpose": "完整包含、重合及直接比較的限制。"
+    },
+    {
+      "id": "capacity-weight",
+      "title": "容量與重量",
+      "points": 15,
+      "purpose": "按公平比較記錄分別判斷兩種量。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "各題資料獨立。可用寫、畫、指圖或口說作答。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g2s1-mathematics-01",
+            "g2s1-mathematics-02"
+          ],
+          "prompt": "找出1個百、9個十、0個一表示的數，再計算45＋38。",
+          "responseLines": 3,
+          "answer": {
+            "value": "190；45＋38＝83。",
+            "explanation": "1百9十0一是190，末位0不可省略；加法個位13換十，總數83。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "寫190得5分。"
+              },
+              {
+                "points": 5,
+                "criterion": "合計83得5分；結果錯但可見正確合併45與38的做法得2分。"
+              }
+            ]
+          },
+          "id": "g2s1-mathematics-final-c-q01"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g2s1-mathematics-03",
+            "g2s1-mathematics-04"
+          ],
+          "prompt": "兩個候選剩量哪個正確？先算或畫圖判斷，再寫正確的加法檢查。",
+          "responseLines": 4,
+          "answer": {
+            "value": "剩47張；82－35＝47；47＋35＝82。",
+            "explanation": "拿走35後留下47，兩部分合回82；57加35會成92，不能合回原量。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "用82－35、35＋□＝82或同樣關係得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "選47張得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "47＋35＝82或35＋47＝82得4分；加數角色正確但計算失誤得2分。"
+              }
+            ]
+          },
+          "stimulus": "82張色紙拿走35張。\n候選剩量：47張、57張。",
+          "id": "g2s1-mathematics-final-c-q02"
+        }
+      ]
+    },
+    {
+      "id": "multiply",
+      "title": "乘法意義與表",
+      "instructions": "各題資料獨立。可用寫、畫、指圖或口說作答。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-07"
+          ],
+          "prompt": "全部共有多少張？寫乘法式。記錄員算出28，卻寫「28排」；請改正答案的單位，再寫原來有幾排。",
+          "responseLines": 3,
+          "answer": {
+            "value": "4×7＝28張；也接受7×4＝28；原來7排，28的單位應是張。",
+            "explanation": "每排4張，7排的總量是卡片張數，不是把排數乘成28排。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "用4、7相乘得3分，不因因子順序不同扣分。"
+              },
+              {
+                "points": 3,
+                "criterion": "總量28得3分。"
+              },
+              {
+                "points": 2,
+                "criterion": "把答案單位改為張得2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "原來7排得2分。"
+              }
+            ]
+          },
+          "stimulus": "作品卡排7排，每排4張。\n待改記錄：「4×7＝28，共28排。」",
+          "id": "g2s1-mathematics-final-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-08"
+          ],
+          "prompt": "5組被完整分成左邊2組、右邊3組。依已知卡求5組的總數，留下計算；再說明為什麼能把14和21加起來。",
+          "responseLines": 3,
+          "answer": {
+            "value": "14＋21＝35；5組共35個。左右兩區都是每組7，而且完整分成2組和3組，沒有漏組或重複。",
+            "explanation": "把5組分成不重疊的兩區，已知總數可合回全部；不需要正式分配律記號。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "得35個或7×5＝35得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "14＋21＝35，合併關係2分、計算2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "說兩區合起來就是全部5組，且無漏算重複得3分；以圖指明2組加3組也可。"
+              }
+            ]
+          },
+          "stimulus": "每組都是7個。\n已知卡：2組共14個；3組共21個。\n5組已分成：左區2組｜右區3組，不重疊也不漏組。",
+          "id": "g2s1-mathematics-final-c-q04"
+        }
+      ]
+    },
+    {
+      "id": "length",
+      "title": "公分刻度與參考量",
+      "instructions": "各題資料獨立。可用寫、畫、指圖或口說作答。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-09"
+          ],
+          "prompt": "甲、乙各代表幾公分？雖然右端刻度不同，兩條有沒有一樣長？請用刻度間隔說明。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲4公分、乙4公分，一樣長；4－0＝4，6－2＝4。",
+            "explanation": "比較兩端之間的間隔，不是只看右端4和6；兩條均含四段1公分。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "甲4公分得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙4公分得3分。"
+              },
+              {
+                "points": 2,
+                "criterion": "判斷一樣長得2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "以兩條各四段或各自端點相減說明得2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 216\" role=\"img\" aria-label=\"有標公分數的等距示意尺；紙帶端點各有輔助線對應刻度，依圖中刻度關係作答，圖不代表實際公分大小。\"><rect width=\"500\" height=\"216\" fill=\"white\"/><text x=\"250\" y=\"23\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">公分刻度示意；不能拿圖當真尺</text><text x=\"25\" y=\"64\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">甲</text><rect x=\"55\" y=\"48\" width=\"160\" height=\"16\" fill=\"#ddd\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"55\" y1=\"65\" x2=\"55\" y2=\"166\" stroke=\"#555\" stroke-dasharray=\"4 4\"/><line x1=\"215\" y1=\"65\" x2=\"215\" y2=\"166\" stroke=\"#555\" stroke-dasharray=\"4 4\"/><text x=\"25\" y=\"112\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">乙</text><rect x=\"135\" y=\"96\" width=\"160\" height=\"16\" fill=\"#ddd\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"135\" y1=\"113\" x2=\"135\" y2=\"166\" stroke=\"#555\" stroke-dasharray=\"4 4\"/><line x1=\"295\" y1=\"113\" x2=\"295\" y2=\"166\" stroke=\"#555\" stroke-dasharray=\"4 4\"/><line x1=\"55\" y1=\"166\" x2=\"375\" y2=\"166\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"55\" y1=\"155\" x2=\"55\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"55\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">0</text><line x1=\"95\" y1=\"155\" x2=\"95\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"95\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">1</text><line x1=\"135\" y1=\"155\" x2=\"135\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"135\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">2</text><line x1=\"175\" y1=\"155\" x2=\"175\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"175\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">3</text><line x1=\"215\" y1=\"155\" x2=\"215\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"215\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">4</text><line x1=\"255\" y1=\"155\" x2=\"255\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"255\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">5</text><line x1=\"295\" y1=\"155\" x2=\"295\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"295\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">6</text><line x1=\"335\" y1=\"155\" x2=\"335\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"335\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">7</text><line x1=\"375\" y1=\"155\" x2=\"375\" y2=\"174\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"375\" y=\"198\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">8</text></svg>",
+          "id": "g2s1-mathematics-final-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-09"
+          ],
+          "prompt": "真正用公分尺量紙條時，哪個計畫能直接讀終點作長度？選代號，說明原因。",
+          "responseLines": 2,
+          "answer": {
+            "value": "乙；從0刻度開始，靠直後終點數字才直接表示經過幾個公分。",
+            "explanation": "尺身邊緣不一定是0，先找0刻度並沿紙條方向放直才是可靠起點。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "選乙得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "指出要從0刻度起量、尺身外邊不一定是0，或同樣的間隔理由得3分。"
+              }
+            ]
+          },
+          "stimulus": "甲：紙條左端對尺身最外邊，不找0刻度；尺沿紙條放直。\n乙：紙條左端對0刻度，尺沿紙條放直。\n本題只選計畫，不需實際量測。",
+          "id": "g2s1-mathematics-final-c-q06"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "title": "鐘面時與分",
+      "instructions": "各題資料獨立。可用寫、畫、指圖或口說作答。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-10"
+          ],
+          "prompt": "讀出鐘面是幾時幾分，並說你用哪個整5分位置，再數幾小格找到分鐘。",
+          "responseLines": 3,
+          "answer": {
+            "value": "10時17分；從數字3的15分位置，再數2小格。",
+            "explanation": "短針已過10、未到11；分針越過15分位置兩個1分刻度，為17分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "時數10得4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "分鐘17得4分。"
+              },
+              {
+                "points": 2,
+                "criterion": "以15＋2或其他正確整5分位置配小格說明得2分，例如由20倒回3小格亦可。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 288\" role=\"img\" aria-label=\"完整鐘面含1至12和60個分鐘刻度；長細針為分針，短粗針為時針。需依兩針位置讀時刻，未標上午或下午。\"><rect width=\"340\" height=\"288\" fill=\"white\"/><text x=\"170\" y=\"22\" text-anchor=\"middle\" font-size=\"19\" fill=\"#111\">鐘面</text><circle cx=\"170\" cy=\"135\" r=\"108\" fill=\"white\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"170.00000\" y1=\"29.00000\" x2=\"170.00000\" y2=\"38.00000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"181.08002\" y1=\"29.58068\" x2=\"180.66190\" y2=\"33.55877\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"192.03864\" y1=\"31.31635\" x2=\"191.20699\" y2=\"35.22894\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"202.75580\" y1=\"34.18801\" x2=\"201.51973\" y2=\"37.99224\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"213.11408\" y1=\"38.16418\" x2=\"211.48714\" y2=\"41.81836\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"223.00000\" y1=\"43.20131\" x2=\"218.50000\" y2=\"50.99554\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"232.30524\" y1=\"49.24420\" x2=\"229.95410\" y2=\"52.48027\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"240.92784\" y1=\"56.22665\" x2=\"238.25132\" y2=\"59.19923\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"248.77335\" y1=\"64.07216\" x2=\"245.80077\" y2=\"66.74868\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"255.75580\" y1=\"72.69476\" x2=\"252.51973\" y2=\"75.04590\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"261.79869\" y1=\"82.00000\" x2=\"254.00446\" y2=\"86.50000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"266.83582\" y1=\"91.88592\" x2=\"263.18164\" y2=\"93.51286\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"270.81199\" y1=\"102.24420\" x2=\"267.00776\" y2=\"103.48027\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"273.68365\" y1=\"112.96136\" x2=\"269.77106\" y2=\"113.79301\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"275.41932\" y1=\"123.91998\" x2=\"271.44123\" y2=\"124.33810\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"276.00000\" y1=\"135.00000\" x2=\"267.00000\" y2=\"135.00000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"275.41932\" y1=\"146.08002\" x2=\"271.44123\" y2=\"145.66190\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"273.68365\" y1=\"157.03864\" x2=\"269.77106\" y2=\"156.20699\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"270.81199\" y1=\"167.75580\" x2=\"267.00776\" y2=\"166.51973\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"266.83582\" y1=\"178.11408\" x2=\"263.18164\" y2=\"176.48714\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"261.79869\" y1=\"188.00000\" x2=\"254.00446\" y2=\"183.50000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"255.75580\" y1=\"197.30524\" x2=\"252.51973\" y2=\"194.95410\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"248.77335\" y1=\"205.92784\" x2=\"245.80077\" y2=\"203.25132\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"240.92784\" y1=\"213.77335\" x2=\"238.25132\" y2=\"210.80077\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"232.30524\" y1=\"220.75580\" x2=\"229.95410\" y2=\"217.51973\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"223.00000\" y1=\"226.79869\" x2=\"218.50000\" y2=\"219.00446\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"213.11408\" y1=\"231.83582\" x2=\"211.48714\" y2=\"228.18164\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"202.75580\" y1=\"235.81199\" x2=\"201.51973\" y2=\"232.00776\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"192.03864\" y1=\"238.68365\" x2=\"191.20699\" y2=\"234.77106\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"181.08002\" y1=\"240.41932\" x2=\"180.66190\" y2=\"236.44123\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"170.00000\" y1=\"241.00000\" x2=\"170.00000\" y2=\"232.00000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"158.91998\" y1=\"240.41932\" x2=\"159.33810\" y2=\"236.44123\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"147.96136\" y1=\"238.68365\" x2=\"148.79301\" y2=\"234.77106\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"137.24420\" y1=\"235.81199\" x2=\"138.48027\" y2=\"232.00776\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"126.88592\" y1=\"231.83582\" x2=\"128.51286\" y2=\"228.18164\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"117.00000\" y1=\"226.79869\" x2=\"121.50000\" y2=\"219.00446\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"107.69476\" y1=\"220.75580\" x2=\"110.04590\" y2=\"217.51973\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"99.07216\" y1=\"213.77335\" x2=\"101.74868\" y2=\"210.80077\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"91.22665\" y1=\"205.92784\" x2=\"94.19923\" y2=\"203.25132\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"84.24420\" y1=\"197.30524\" x2=\"87.48027\" y2=\"194.95410\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"78.20131\" y1=\"188.00000\" x2=\"85.99554\" y2=\"183.50000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"73.16418\" y1=\"178.11408\" x2=\"76.81836\" y2=\"176.48714\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"69.18801\" y1=\"167.75580\" x2=\"72.99224\" y2=\"166.51973\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"66.31635\" y1=\"157.03864\" x2=\"70.22894\" y2=\"156.20699\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"64.58068\" y1=\"146.08002\" x2=\"68.55877\" y2=\"145.66190\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"64.00000\" y1=\"135.00000\" x2=\"73.00000\" y2=\"135.00000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"64.58068\" y1=\"123.91998\" x2=\"68.55877\" y2=\"124.33810\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"66.31635\" y1=\"112.96136\" x2=\"70.22894\" y2=\"113.79301\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"69.18801\" y1=\"102.24420\" x2=\"72.99224\" y2=\"103.48027\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"73.16418\" y1=\"91.88592\" x2=\"76.81836\" y2=\"93.51286\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"78.20131\" y1=\"82.00000\" x2=\"85.99554\" y2=\"86.50000\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"84.24420\" y1=\"72.69476\" x2=\"87.48027\" y2=\"75.04590\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"91.22665\" y1=\"64.07216\" x2=\"94.19923\" y2=\"66.74868\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"99.07216\" y1=\"56.22665\" x2=\"101.74868\" y2=\"59.19923\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"107.69476\" y1=\"49.24420\" x2=\"110.04590\" y2=\"52.48027\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"117.00000\" y1=\"43.20131\" x2=\"121.50000\" y2=\"50.99554\" stroke=\"#111\" stroke-width=\"2\"/><line x1=\"126.88592\" y1=\"38.16418\" x2=\"128.51286\" y2=\"41.81836\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"137.24420\" y1=\"34.18801\" x2=\"138.48027\" y2=\"37.99224\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"147.96136\" y1=\"31.31635\" x2=\"148.79301\" y2=\"35.22894\" stroke=\"#111\" stroke-width=\"1\"/><line x1=\"158.91998\" y1=\"29.58068\" x2=\"159.33810\" y2=\"33.55877\" stroke=\"#111\" stroke-width=\"1\"/><text x=\"212.50000\" y=\"68.38784\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">1</text><text x=\"243.61216\" y=\"99.50000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">2</text><text x=\"255.00000\" y=\"142.00000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">3</text><text x=\"243.61216\" y=\"184.50000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">4</text><text x=\"212.50000\" y=\"215.61216\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">5</text><text x=\"170.00000\" y=\"227.00000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">6</text><text x=\"127.50000\" y=\"215.61216\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">7</text><text x=\"96.38784\" y=\"184.50000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">8</text><text x=\"85.00000\" y=\"142.00000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">9</text><text x=\"96.38784\" y=\"99.50000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">10</text><text x=\"127.50000\" y=\"68.38784\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">11</text><text x=\"170.00000\" y=\"57.00000\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">12</text><line x1=\"170\" y1=\"135\" x2=\"243.36107\" y2=\"150.59338\" stroke=\"#111\" stroke-width=\"2.5\" stroke-linecap=\"round\"/><line x1=\"170\" y1=\"135\" x2=\"130.08698\" y2=\"103.25175\" stroke=\"#111\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"170\" cy=\"135\" r=\"4\" fill=\"#111\"/><text x=\"170\" y=\"268\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">長細針是分針；短粗針是時針</text></svg>",
+          "id": "g2s1-mathematics-final-c-q07"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-10"
+          ],
+          "prompt": "同一天從上午8時整到上午11時整，一共幾小時？列出經過的整時小段或用話說明，不把起點當成一小時。",
+          "responseLines": 2,
+          "answer": {
+            "value": "3小時；8到9、9到10、10到11各1小時。",
+            "explanation": "共走過3段整時，8是開始時刻而不是已經走了一小時。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "3小時得3分。"
+              },
+              {
+                "points": 2,
+                "criterion": "列出三個相鄰整時段、正確圖或11－8＝3得2分。"
+              }
+            ]
+          },
+          "id": "g2s1-mathematics-final-c-q08"
+        }
+      ]
+    },
+    {
+      "id": "area",
+      "title": "面積直接比較",
+      "instructions": "各題資料獨立。可用寫、畫、指圖或口說作答。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-11"
+          ],
+          "prompt": "只依這次疊放，已經能證明哪張完整面積較大嗎？請判斷，指出兩處露出的位置，再說「證據不足」是否等於兩張面積一定相同。",
+          "responseLines": 3,
+          "answer": {
+            "value": "尚不能由這次直接疊放證明；甲右側露出、乙下方露出；證據不足不等於面積一定相同。",
+            "explanation": "兩張互有露出，沒有完整包含的直接比較證據；不能由一邊伸得遠或目前無法判定便推出等大。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "判斷此直接疊放證據不足得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "指出甲右側及乙下方各2分，共4分。"
+              },
+              {
+                "points": 3,
+                "criterion": "說證據不足不代表面積相同得3分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 215\" role=\"img\" aria-label=\"完整甲紙卡為較粗的橫長框、乙紙卡為較細的直長框，左上角對齊；兩張形狀不同，均按同一比例呈現。\"><rect width=\"440\" height=\"215\" fill=\"white\"/><text x=\"220\" y=\"23\" text-anchor=\"middle\" font-size=\"18\" fill=\"#111\">同一比例；只看這次疊放的證據</text><rect x=\"60\" y=\"60\" width=\"290\" height=\"65\" fill=\"none\" stroke=\"#111\" stroke-width=\"5\"/><rect x=\"60\" y=\"60\" width=\"155\" height=\"135\" fill=\"none\" stroke=\"#111\" stroke-width=\"2\"/><text x=\"310\" y=\"100\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">甲</text><text x=\"140\" y=\"170\" text-anchor=\"middle\" font-size=\"20\" fill=\"#111\">乙</text></svg>",
+          "id": "g2s1-mathematics-final-c-q09"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-11"
+          ],
+          "prompt": "哪張記錄能直接證明丙的面積較大？選代號，說明為什麼。",
+          "responseLines": 2,
+          "answer": {
+            "value": "乙；丙包含丁的完整表面，且丙另有多餘部分。",
+            "explanation": "只長一邊不足以比較整片；完整包含且有餘才提供面積較大的證據。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "選乙得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "說丁全在丙內且丙還有額外表面得3分；只說丙較長不得此項分。"
+              }
+            ]
+          },
+          "stimulus": "甲記錄：丙的一條邊比丁的一條邊長。\n乙記錄：丁完整放在丙裡，丙還有一片表面露出。",
+          "id": "g2s1-mathematics-final-c-q10"
+        }
+      ]
+    },
+    {
+      "id": "capacity-weight",
+      "title": "容量與重量",
+      "instructions": "各題資料獨立。可用寫、畫、指圖或口說作答。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-12"
+          ],
+          "prompt": "可以只比4與6，就判乙容量較大嗎？請判斷並指出問題；再說重測時應改哪一個條件。",
+          "responseLines": 3,
+          "answer": {
+            "value": "不可以；甲用大杯、乙用小杯，單位不同。重測兩者要用同一杯、每次同滿線，並保留無灑漏和都量到滿位的條件。",
+            "explanation": "不同杯子的4杯、6杯不是相同單位，不能只比杯數。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "不可以直接判乙大得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "指出量杯大小不同得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "提出兩者用同一杯且每次同滿線得3分；只說用同一杯得2分。"
+              }
+            ]
+          },
+          "stimulus": "兩容器起初皆空，最後都量到事先約定的滿位，全程無灑漏。\n甲：用大杯，每杯到同滿線，4杯剛好滿。\n乙：用小杯，每杯到同滿線，6杯剛好滿。",
+          "id": "g2s1-mathematics-final-c-q11"
+        },
+        {
+          "kind": "short",
+          "points": 7,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s1-mathematics-12"
+          ],
+          "prompt": "要先移動較輕的一盒，應選哪盒？請用同單位的重量記錄說明，不用盒子大小決定。",
+          "responseLines": 3,
+          "answer": {
+            "value": "選乙盒；乙相當於4個共同等重單位，甲相當於7個，所以乙較輕。",
+            "explanation": "同一批等重單位下，4個的重量小於7個；盒子形狀不是證據。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "選乙盒得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "用共同等重單位4比7少說明得4分；只說4比7小未交代共同單位得2分。"
+              }
+            ]
+          },
+          "stimulus": "只讀虛構記錄，不必搬物。兩次均用同一架先調平的等臂天平，盤中只放指定物，不碰扶或碰桌面；單位是一批事先確認等重的大積木。\n甲盒相當於7個單位重；乙盒相當於4個同樣單位重。",
+          "id": "g2s1-mathematics-final-c-q12"
+        }
+      ]
+    }
+  ],
+  "parallelDesign": "各卷前半回顧20分；後半80分為乘法20、公分15、鐘面15、直接面積15、容量重量15。A以分盤圖、表格向後增加一組、兩條偏移起點的紙帶、時段不足及容量轉倒判讀為主；B以算式辨別、表格退回一組、刻度校正與參考估計、完全重合及兩種量不一致為主；C以總量單位修正、兩群重建乘法、等長的不同端點、非整5分鐘及互有露出的比較限制為主。題目不要求一般跨時分運算、面積公式、標準容量重量單位、兩位數乘法直式或正式除法。兩位數加減至多一次進退位。三卷不同任務是範圍與負荷的設計對照，未經試測或統計等值檢驗。"
+}
