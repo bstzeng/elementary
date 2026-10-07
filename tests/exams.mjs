@@ -6,6 +6,7 @@ import os from 'node:os';
 import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {createHash} from 'node:crypto';
+import {examText} from '../scripts/exam-text.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const read=async p=>JSON.parse(await readFile(path.join(root,p),'utf8'));
 const manifest=await read('data/exams.json'),output=await read('exams/manifest.json'),courses=await read('data/exam-courses.json');
@@ -26,8 +27,8 @@ for(const id of manifest.formIds){
  assert.ok(!/class="(?:response-space|observation-note|writing-boxes)"/.test(key));
  assert.ok(!/correctIndex|"answer":|teacherNotes/.test(student));
  for(const q of questions){
-  assert.ok(key.includes(esc(q.answer.value).replaceAll('\n','<br>')),`${q.id} key missing`);
-  if(q.teacher)assert.ok(!student.includes(esc(q.teacher)),`${q.id} script leaked`);
+  assert.ok(key.includes(examText(q.answer.value).replaceAll('\n','<br>')),`${q.id} key missing`);
+  if(q.teacher)assert.ok(!student.includes(examText(q.teacher).replaceAll('\n','<br>')),`${q.id} script leaked`);
   if(q.routeTopicIds){
    assert.ok(key.includes('兩條路徑擇一；只評已選語別。'));
    assert.ok(!student.includes('route-coverage'));
@@ -58,7 +59,7 @@ if(manifest.formIds.length){
  try{
   await cp(path.join(root,'data'),path.join(tmp,'data'),{recursive:true});
   await mkdir(path.join(tmp,'scripts'),{recursive:true});await mkdir(path.join(tmp,'exams'),{recursive:true});
-  await cp(path.join(root,'scripts/build-exams.mjs'),path.join(tmp,'scripts/build-exams.mjs'));
+  await cp(path.join(root,'scripts/build-exams.mjs'),path.join(tmp,'scripts/build-exams.mjs'));await cp(path.join(root,'scripts/exam-text.mjs'),path.join(tmp,'scripts/exam-text.mjs'));
   if(Object.keys(manifest.verification?.pdfVerified||{}).length)await cp(path.join(root,'exams/pdf'),path.join(tmp,'exams/pdf'),{recursive:true});
   let r=spawnSync(process.execPath,[path.join(tmp,'scripts/build-exams.mjs')],{encoding:'utf8'});assert.equal(r.status,0,r.stderr);
   const id=manifest.formIds[0],file=path.join(tmp,'data/exams',`${id}.json`),paper=path.join(tmp,'exams',`${id}.html`);
@@ -74,3 +75,14 @@ if(manifest.formIds.length){
  }finally{await rm(tmp,{recursive:true,force:true});}
 }
 console.log(`PASS exams: ${output.forms} forms/${qcount} questions, student/key separation, ${boxes} writing boxes, ${observed} observed tasks, explicit source hashes, catalogue links and fail-safe mutation gates. Actual browser/A4 pagination not covered.`);
+
+// Zhuyin wrappers preserve all visible characters and cannot inject markup.
+for(const syllable of ['ㄅ','ㄓ','ㄇㄚˊ','ㄏㄡˋ','ㄒㄩㄝˇ','˙ㄉㄜ','ㄉㄜ˙','ㄇㄚˉ','ㆠㄚˊ']){
+ assert.equal(examText(syllable),`<span class="zhuyin-syllable">${syllable}</span>`);
+}
+assert.equal(examText('前ㄏㄡˋ 後\nㄌㄧㄣˊ。'), '前<span class="zhuyin-syllable">ㄏㄡˋ</span> 後\n<span class="zhuyin-syllable">ㄌㄧㄣˊ</span>。');
+assert.equal(examText('<script>\"&\'ㄏㄡˋ</script>'), '&lt;script&gt;&quot;&amp;&#39;<span class="zhuyin-syllable">ㄏㄡˋ</span>&lt;/script&gt;');
+assert.equal(examText('English / 數學 12+3=15 / ˋ'), 'English / 數學 12+3=15 / ˋ');
+const css=await readFile(path.join(root,'exams/exam.css'),'utf8');
+assert.match(css,/\.zhuyin-syllable\{[^}]*display:inline-block;white-space:nowrap;word-break:normal;overflow-wrap:normal/);
+console.log('PASS Zhuyin atomic syllables: all tones, neutral prefix/suffix, extended symbols, exact Unicode and safe HTML escaping.');
