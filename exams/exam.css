@@ -12,3 +12,6 @@
 /* Isolate only circled enumeration glyphs from neighboring CJK text runs. */
 @font-face{font-family:"Elementary Exam Markers";src:url("./fonts/elementary-exam-markers-v1.woff") format("woff");font-style:normal;font-weight:400;font-display:swap;unicode-range:U+2460-2473}
 .exam-enumeration{display:inline-block;font-family:"Elementary Exam Markers","Noto Sans CJK TC","PingFang TC","Microsoft JhengHei",sans-serif;font-style:normal;font-weight:400;font-synthesis:none;white-space:nowrap}
+
+/* Keep fullwidth CJK punctuation glyphs at stimulus line boundaries. */
+@supports(text-spacing-trim:space-all){.stimulus{text-spacing-trim:space-all}}

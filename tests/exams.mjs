@@ -117,3 +117,11 @@ assert.equal(markerOS2.readUInt16BE(62),64,'Retain source Regular style selectio
 const markerLicense=await readFile(path.join(root,'exams/fonts/OFL-Elementary-Exam-Markers.txt'),'utf8');
 assert.ok(markerLicense.includes('Elementary Exam Markers')&&markerLicense.includes('SIL OPEN FONT LICENSE')&&markerLicense.includes('Adobe'));
 console.log('PASS circled-marker isolation: Unicode, escaping, bounded font CSS, same-origin small WOFF and retained license. Actual browser pixels remain a separate gate.');
+
+// Progressive CJK punctuation fix: scoped to stimulus text, no nowrap or font change.
+const stimulusPunctuationRule='@supports(text-spacing-trim:space-all){.stimulus{text-spacing-trim:space-all}}';
+assert.equal(css.split(stimulusPunctuationRule).length-1,1,'Exactly one feature-gated stimulus punctuation rule');
+assert.ok(!/white-space|word-break|line-break|font-family|font-size|display|overflow/.test(stimulusPunctuationRule),'The fix must not change wrapping, font selection or block geometry');
+assert.equal(stimulusPunctuationRule.split('.stimulus').length-1,1);
+assert.ok(!stimulusPunctuationRule.includes('.paper')&&!stimulusPunctuationRule.includes('body'),'Do not broaden beyond stimuli');
+console.log('PASS stimulus punctuation rule: feature-gated space-all, unchanged wrapping/fonts and stimulus-only scope. Actual boundary/zoom pixels remain a separate gate.');
