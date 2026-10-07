@@ -15,3 +15,9 @@
 
 /* Keep fullwidth CJK punctuation glyphs at stimulus line boundaries. */
 @supports(text-spacing-trim:space-all){.stimulus{text-spacing-trim:space-all}}
+
+/* These reviewed calendar grids have 2-unit strokes centered on the viewport edge.
+   Reveal that one-unit stroke fringe only; keep other exam diagrams clipped normally. */
+#g2s2-mathematics-midterm-a-q09 .exam-figure > svg,
+#g2s2-mathematics-midterm-b-q09 .exam-figure > svg,
+#g2s2-mathematics-midterm-c-q09 .exam-figure > svg{overflow:visible}

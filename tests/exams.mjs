@@ -125,3 +125,42 @@ assert.ok(!/white-space|word-break|line-break|font-family|font-size|display|over
 assert.equal(stimulusPunctuationRule.split('.stimulus').length-1,1);
 assert.ok(!stimulusPunctuationRule.includes('.paper')&&!stimulusPunctuationRule.includes('body'),'Do not broaden beyond stimuli');
 console.log('PASS stimulus punctuation rule: feature-gated space-all, unchanged wrapping/fonts and stimulus-only scope. Actual boundary/zoom pixels remain a separate gate.');
+
+// The three calendar grids paint one stroke unit beyond their source viewport.
+// Keep this exception scoped to those exact question figures, in either role.
+const calendarQuestionIds=['g2s2-mathematics-midterm-a-q09','g2s2-mathematics-midterm-b-q09','g2s2-mathematics-midterm-c-q09'];
+const calendarSelectors=calendarQuestionIds.map(id=>`#${id} .exam-figure > svg`);
+const visibleSvgRules=[...css.replace(/\/\*[\s\S]*?\*\//g,'').matchAll(/([^{}]+)\{([^{}]*)\}/g)]
+ .filter(m=>m[1].includes('svg')&&/(?:^|;)\s*overflow\s*:\s*visible\s*(?:;|$)/.test(m[2]));
+assert.equal(visibleSvgRules.length,1,'One bounded SVG overflow exception');
+assert.deepEqual(visibleSvgRules[0][1].trim().split(/\s*,\s*/).sort(),[...calendarSelectors].sort());
+assert.equal(visibleSvgRules[0][2].trim(),'overflow:visible','No dimensions, fonts, labels or other paint changes');
+function checkCalendarStrokeFringe(svg){
+ const box=svg.match(/viewBox="([^"]+)"/);assert.ok(box);
+ const [left,top,width,height]=box[1].trim().split(/\s+/).map(Number);
+ assert.ok([left,top,width,height].every(Number.isFinite)&&width>0&&height>0);
+ assert.ok(!/\btransform\s*=|<(?:path|g|use|image|clipPath|mask)\b/.test(svg),'Calendar fringe audit must not silently ignore transformed or complex geometry');
+ let fringe=0,rectangles=0;
+ for(const match of svg.matchAll(/<rect\b([^>]*)\/?>/g)){
+  const attrs=Object.fromEntries([...match[1].matchAll(/([\w-]+)="([^"]*)"/g)].map(m=>[m[1],m[2]]));
+  const [x,y,w,h,stroke]=['x','y','width','height','stroke-width'].map(k=>Number(attrs[k]));
+  assert.ok([x,y,w,h,stroke].every(Number.isFinite)&&w>0&&h>0&&stroke===2);
+  assert.ok(x>=left&&y>=top&&x+w<=left+width&&y+h<=top+height,'All calendar geometry remains inside the unchanged viewBox');
+  fringe=Math.max(fringe,left-(x-stroke/2),top-(y-stroke/2),x+w+stroke/2-left-width,y+h+stroke/2-top-height);rectangles++;
+ }
+ assert.ok(rectangles>0);assert.equal(fringe,1,'Only the known one-unit border fringe may escape');
+ return rectangles;
+}
+for(const id of calendarQuestionIds){
+ const formId=id.replace(/-q\d+$/,'');
+ const form=JSON.parse(await readFile(path.join(root,'data/exams',formId+'.json'),'utf8'));
+ const item=form.sections.flatMap(s=>s.items).find(q=>q.id===id);assert.ok(item?.diagram);
+ assert.ok(checkCalendarStrokeFringe(item.diagram)>=35);
+ for(const suffix of ['', '-key']){
+  const html=await readFile(path.join(root,'exams',formId+suffix+'.html'),'utf8');
+  assert.ok(html.includes(`id="${id}"`));assert.ok(html.includes(`<figure class="exam-figure">${item.diagram}</figure>`),'Original diagram markup, labels and viewport stay exact');
+ }
+ assert.throws(()=>checkCalendarStrokeFringe(item.diagram.replace('stroke-width="2"','stroke-width="4"')));
+ assert.throws(()=>checkCalendarStrokeFringe(item.diagram.replace('<rect x="0"','<rect x="-1"')));
+}
+console.log('PASS bounded calendar stroke fringe: three question IDs, both roles, original SVG bytes and one-unit paint bounds; live pixels remain a separate gate.');
