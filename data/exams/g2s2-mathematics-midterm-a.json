@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "id": "g2s2-mathematics-midterm-a",
+  "grade": 2,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "A",
+  "mode": "written",
+  "title": "小二下學期數學・期中A卷",
+  "duration": "建議35–40分鐘；為設計估計，未經試測。可依閱讀、視覺、動作或書寫支持需要分段、延長或休息。",
+  "instructions": [
+    "每題各自開始，先看完整資料。全部故事、數量和練習活動都是虛構。",
+    "可以寫、畫、指圖或口說；題目要說明時，讓別人看懂你的想法。圖旁文字和圖是同一份資料。",
+    "圖是示意，依題目給的數字作答，不拿尺量印出的圖。需要時可請成人中性念題或逐字記錄。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本編輯主題編排，不是全國統一學期或段考範圍；先確認各項已教，再施測。A／B／C僅為原創平行設計，沒有試測、常模化或統計等值聲稱。",
+    "可中性朗讀、放大材料、提供空白紙或安全大位值教具，讓學生口述、指圖，成人依原話代記。不得代算、代選資料、暗示答案或把速度、字體和識字列為數學分數。",
+    "各條規準分別計分。允許分合、接數、畫圖、連加、乘法、直式或其他正確的年級內策略；不強迫單一算法或因子順序。原情境每組數、組數和答案的對象須可辨識，不因中文數字、可辨簡寫或省略重複單位扣分。",
+    "多步題的前步計算失誤不重複扣後步方法分；規準標示依自己的結果判斷時，保留一致推理分，正確數值分依實際作答給。若學生以另一有效方法達成同一數量關係，按相同數學證據給分。",
+    "三位數減法至多一次退位；加法可兩次進位。兩步題不用連乘或併式規則；乘法在十十表內。期末分裝可用圖、連減或已知乘法，不要求除式；1000元找錢可用等值換券或補足，不要求四位數連續退位直式。",
+    "日曆均明示假設練習年；月長遵守公曆，星期由題目給定，不作真實行程使用。日數題逐題寫明包含起訖與活動條件，不改成一般經過時間題。",
+    "全部圖按題設資訊判讀，不考列印後實際尺寸；分數圖只用連續紙面。這是紙筆、指圖與口述概念評量，不能據此認定實物測量、摺紙或完整立體操作能力。",
+    "只用虛構資料與原創圖，不蒐集兒童姓名、家庭財務、照片或帳號，不使用真錢、真食品、小零件或刀剪。教學代幣無支付效力。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白計算紙",
+    "本卷全部文字資料與原創圖；可放大或由成人逐字讀出",
+    "必要時使用安全大紙卡及位值表；不需實物公分測量、真鈔或上網"
+  ],
+  "sources": [
+    {
+      "title": "本館小二下數學原創教材與參考主題",
+      "url": "https://bstzeng.github.io/elementary/#g2s2",
+      "note": "依本次讀取的13課完整JSON、已保存HTML、教學說明及練習核對範圍；採另設資料、證據關係及判斷任務。"
+    },
+    {
+      "title": "教育部數學領域課程綱要發布頁（沿用教材出處）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "本次未重新存取官方文件；僅沿用已保存教材的年級範圍註記。年級內容不等於全國固定學期次序。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "place",
+      "title": "數與位值",
+      "points": 15,
+      "purpose": "讀寫與等量表示。"
+    },
+    {
+      "id": "calc",
+      "title": "加減與估算",
+      "points": 20,
+      "purpose": "精算、估算及加法核對。"
+    },
+    {
+      "id": "exchange",
+      "title": "乘法的兩種看法",
+      "points": 15,
+      "purpose": "完整群組、角色與總量。"
+    },
+    {
+      "id": "special",
+      "title": "0、1與10的乘法",
+      "points": 10,
+      "purpose": "把算式對回每份與份數。"
+    },
+    {
+      "id": "story",
+      "title": "兩步驟問題",
+      "points": 15,
+      "purpose": "連接中途量與所求量。"
+    },
+    {
+      "id": "length",
+      "title": "公尺與公分",
+      "points": 15,
+      "purpose": "依給定資料換算並比較。"
+    },
+    {
+      "id": "calendar",
+      "title": "查月曆",
+      "points": 10,
+      "purpose": "依表頭查日期與月末接續。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "place",
+      "title": "數與位值",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-01"
+          ],
+          "prompt": "寫出這張卡的三位數，再說其中的6和8各表示多少。",
+          "stimulus": "數量卡：6個百、0個十、8個一。",
+          "responseLines": 3,
+          "answer": {
+            "value": "608；6表示600，8表示8。",
+            "explanation": "百位的6是600，十位0須保留，個位8是8。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "寫608得4分。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出6表示600或6個百得2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出8表示8或8個一得2分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-midterm-a-q01"
+        },
+        {
+          "kind": "short",
+          "points": 7,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-01"
+          ],
+          "prompt": "哪張數字標籤可貼在盒上？寫甲或乙，再用百和十的交換說明。",
+          "stimulus": "盒內記錄：5個百、14個十、2個一。\n甲標籤642；乙標籤542。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲642；14個十換成1個百和4個十，合為6百4十2一。",
+            "explanation": "記錄中的14個十有140；不是只取個位4。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "選甲642得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "說明14十含1百4十，與原5百合為6百4十2一得4分；只算500＋140＋2＝642而未說交換，也屬完整等量說明得4分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-midterm-a-q02"
+        }
+      ]
+    },
+    {
+      "id": "calc",
+      "title": "加減與估算",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-02"
+          ],
+          "prompt": "先依估法寫大約共有幾張；再精算。盒子能裝下全部卡片嗎？用精算結果說明。",
+          "stimulus": "卡片有297張和108張。估算時把它們看成約300張和約100張。盒子最多裝402張。",
+          "responseLines": 4,
+          "answer": {
+            "value": "大約400張；297＋108＝405張；裝不下，405比402多。",
+            "explanation": "估值接近容量時不能用估值代替實際張數。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "估約400張得2分，不寫約但明確在估算作答欄可給分。"
+              },
+              {
+                "points": 2,
+                "criterion": "以297＋108或同量圖、分合計算得2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "精確總數405得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "依自己精算所得總數與402比較，判斷裝得下或裝不下並提供比較依據得3分；沒有可辨數值而只猜不給此項分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-midterm-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-02"
+          ],
+          "prompt": "求剩下幾張，留下算法；再用加法把「剩下」和「借出」合回來檢查。",
+          "stimulus": "原有705張圖卡，借出260張。",
+          "responseLines": 4,
+          "answer": {
+            "value": "705－260＝445張；445＋260＝705。",
+            "explanation": "705可換成6百10十5一，減2百6十後剩4百4十5一；只需百換十一次。補足到705也有效。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "表示705－260、260補到705或等值分合得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "得445張得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "加法核對445＋260＝705（加數可交換）得4分；兩個部分角色正確但一次加算錯得2分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-midterm-a-q04"
+        }
+      ]
+    },
+    {
+      "id": "exchange",
+      "title": "乘法的兩種看法",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 15,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-03"
+          ],
+          "prompt": "分別寫出橫排和直排的乘法記錄與總數。兩個算式為什麼算到同樣多？",
+          "stimulus": "圖中文字等值資料：5個橫排，每排6點；6個直排，每排5點。請在記錄旁標「橫看」或「直看」。",
+          "responseLines": 4,
+          "answer": {
+            "value": "橫看6×5＝30；直看5×6＝30。都是原來同一批點，各點各數一次，沒有增減。",
+            "explanation": "方向改變每組和組數，沒有改變總點數。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "橫看記每排6、有5排的關係得4分；因子順序不同但角色明確同樣給分。"
+              },
+              {
+                "points": 4,
+                "criterion": "直看記每排5、有6排的關係得4分；同樣容許一致的記錄慣例。"
+              },
+              {
+                "points": 3,
+                "criterion": "兩種記錄都得30（或明說同一總數30）得3分；只一個正確得1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "指出同一批點沒有增加或拿走、各點恰數一次得4分；只背乘法可交換未連到此圖得2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 238\" role=\"img\" aria-label=\"五個橫排，每橫排6點；每點只畫一次，共有6個直排，每直排5點。\"><title>五個橫排，每橫排6點；每點只畫一次，共有6個直排，每直排5點。</title><text x=\"16\" y=\"54\" font-size=\"19\" text-anchor=\"start\" fill=\"#142f2b\">第1排</text><circle cx=\"112\" cy=\"47\" r=\"9\" fill=\"#315e53\"/><circle cx=\"155\" cy=\"47\" r=\"9\" fill=\"#315e53\"/><circle cx=\"198\" cy=\"47\" r=\"9\" fill=\"#315e53\"/><circle cx=\"241\" cy=\"47\" r=\"9\" fill=\"#315e53\"/><circle cx=\"284\" cy=\"47\" r=\"9\" fill=\"#315e53\"/><circle cx=\"327\" cy=\"47\" r=\"9\" fill=\"#315e53\"/><text x=\"16\" y=\"96\" font-size=\"19\" text-anchor=\"start\" fill=\"#142f2b\">第2排</text><circle cx=\"112\" cy=\"89\" r=\"9\" fill=\"#315e53\"/><circle cx=\"155\" cy=\"89\" r=\"9\" fill=\"#315e53\"/><circle cx=\"198\" cy=\"89\" r=\"9\" fill=\"#315e53\"/><circle cx=\"241\" cy=\"89\" r=\"9\" fill=\"#315e53\"/><circle cx=\"284\" cy=\"89\" r=\"9\" fill=\"#315e53\"/><circle cx=\"327\" cy=\"89\" r=\"9\" fill=\"#315e53\"/><text x=\"16\" y=\"138\" font-size=\"19\" text-anchor=\"start\" fill=\"#142f2b\">第3排</text><circle cx=\"112\" cy=\"131\" r=\"9\" fill=\"#315e53\"/><circle cx=\"155\" cy=\"131\" r=\"9\" fill=\"#315e53\"/><circle cx=\"198\" cy=\"131\" r=\"9\" fill=\"#315e53\"/><circle cx=\"241\" cy=\"131\" r=\"9\" fill=\"#315e53\"/><circle cx=\"284\" cy=\"131\" r=\"9\" fill=\"#315e53\"/><circle cx=\"327\" cy=\"131\" r=\"9\" fill=\"#315e53\"/><text x=\"16\" y=\"180\" font-size=\"19\" text-anchor=\"start\" fill=\"#142f2b\">第4排</text><circle cx=\"112\" cy=\"173\" r=\"9\" fill=\"#315e53\"/><circle cx=\"155\" cy=\"173\" r=\"9\" fill=\"#315e53\"/><circle cx=\"198\" cy=\"173\" r=\"9\" fill=\"#315e53\"/><circle cx=\"241\" cy=\"173\" r=\"9\" fill=\"#315e53\"/><circle cx=\"284\" cy=\"173\" r=\"9\" fill=\"#315e53\"/><circle cx=\"327\" cy=\"173\" r=\"9\" fill=\"#315e53\"/><text x=\"16\" y=\"222\" font-size=\"19\" text-anchor=\"start\" fill=\"#142f2b\">第5排</text><circle cx=\"112\" cy=\"215\" r=\"9\" fill=\"#315e53\"/><circle cx=\"155\" cy=\"215\" r=\"9\" fill=\"#315e53\"/><circle cx=\"198\" cy=\"215\" r=\"9\" fill=\"#315e53\"/><circle cx=\"241\" cy=\"215\" r=\"9\" fill=\"#315e53\"/><circle cx=\"284\" cy=\"215\" r=\"9\" fill=\"#315e53\"/><circle cx=\"327\" cy=\"215\" r=\"9\" fill=\"#315e53\"/></svg>",
+          "id": "g2s2-mathematics-midterm-a-q05"
+        }
+      ]
+    },
+    {
+      "id": "special",
+      "title": "0、1與10的乘法",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-04"
+          ],
+          "prompt": "分別算甲、乙、丙有幾張。小熊用3＋10算丙，對嗎？說明丙的10代表什麼。",
+          "stimulus": "每套都裝3張。甲要1套，乙要0套，丙要10套。",
+          "responseLines": 3,
+          "answer": {
+            "value": "甲3張、乙0張、丙30張；3＋10不對，10是10套，每套3張。",
+            "explanation": "1套是原來一份，0套沒有卡，10套要數十份3。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "甲3張得2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "乙0張得2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "丙30張得2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "判3＋10不合題意且說10是套數而非散卡張數，需取10份3得4分；只判不對得1分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-midterm-a-q06"
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "title": "兩步驟問題",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 15,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-05"
+          ],
+          "prompt": "共有幾張？留下兩步或同等清楚的算法，說明中途數的單位。夠不夠放滿32個格子，每格1張？",
+          "stimulus": "左車2盒、右車4盒，每盒都5張卡，沒有散卡。",
+          "responseLines": 4,
+          "answer": {
+            "value": "2＋4＝6盒；5×6＝30張。不夠放滿32格。",
+            "explanation": "可先合盒數，也可各算10張與20張再相加；兩車都須計入。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "方法完整涵蓋兩車同樣每盒5張得4分，可先合盒或分車計算。"
+              },
+              {
+                "points": 3,
+                "criterion": "寫出正確中途量及角色（6盒，或10張與20張）得3分；數正確但單位角色不明得1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "全部30張得4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "依自己得到的總張數與32比較、說夠或不夠並留比較證據得4分；無可辨總量只猜不得此項分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-midterm-a-q07"
+        }
+      ]
+    },
+    {
+      "id": "length",
+      "title": "公尺與公分",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 15,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-06"
+          ],
+          "prompt": "兩段接起來、不重疊，總長幾公分？再換成幾公尺幾公分。能蓋滿4公尺長的線嗎？留下換算與計算。",
+          "stimulus": "第一段1公尺65公分；第二段2公尺40公分。",
+          "responseLines": 4,
+          "answer": {
+            "value": "165＋240＝405公分＝4公尺5公分；能，405公分大於400公分。",
+            "explanation": "先把兩段都表示為公分，合長後每100公分換1公尺。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第一段165公分得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第二段240公分得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "合長關係2分、正確總長405公分2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "把自己的合長正確換為公尺和公分得3分；標準答案4公尺5公分。"
+              },
+              {
+                "points": 2,
+                "criterion": "把4公尺視為400公分，依自己的合長作正確夠長判斷得2分。"
+              }
+            ]
+          },
+          "id": "g2s2-mathematics-midterm-a-q08"
+        }
+      ]
+    },
+    {
+      "id": "calendar",
+      "title": "查月曆",
+      "instructions": "依本題資料回答；需要說明時可寫、畫、指圖或口述。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g2s2-mathematics-07"
+          ],
+          "prompt": "查18日星期幾，再找緊接著的下一個相同星期是幾日。6月30日的明天是幾月幾日、星期幾？",
+          "stimulus": "假設練習年6月，共30日；1日星期二。星期排列僅為本題設定，不是任何真實年度行事曆。\n文字月曆：各列依星期一、二、三、四、五、六、日排列；「—」不是本月日期。\n—　1　2　3　4　5　6\n7　8　9　10　11　12　13\n14　15　16　17　18　19　20\n21　22　23　24　25　26　27\n28　29　30　—　—　—　—",
+          "responseLines": 3,
+          "answer": {
+            "value": "18日星期五；下一個星期五25日；7月1日星期四。",
+            "explanation": "18與25同在星期五欄；6月只有30日，30日星期三的明天是7月1日星期四。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "18日星期五得3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "下一個同星期25日得3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "明天7月1日得2分，星期四得2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 630 290\" role=\"img\" aria-label=\"假設練習年6月月曆，共30日，1日星期二。每列從星期一至星期日，空格不是本月日期。\"><title>假設練習年6月月曆，共30日，1日星期二。每列從星期一至星期日，空格不是本月日期。</title><text x=\"315\" y=\"28\" font-size=\"23\" text-anchor=\"middle\" fill=\"#142f2b\">假設練習年6月（共30日）</text><text x=\"45\" y=\"65\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期一</text><text x=\"135\" y=\"65\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期二</text><text x=\"225\" y=\"65\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期三</text><text x=\"315\" y=\"65\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期四</text><text x=\"405\" y=\"65\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期五</text><text x=\"495\" y=\"65\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期六</text><text x=\"585\" y=\"65\" font-size=\"19\" text-anchor=\"middle\" fill=\"#142f2b\">星期日</text><rect x=\"0\" y=\"80\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"45\" y=\"109\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">—</text><rect x=\"90\" y=\"80\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"135\" y=\"109\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">1</text><rect x=\"180\" y=\"80\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"225\" y=\"109\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">2</text><rect x=\"270\" y=\"80\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"315\" y=\"109\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">3</text><rect x=\"360\" y=\"80\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"405\" y=\"109\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">4</text><rect x=\"450\" y=\"80\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"495\" y=\"109\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">5</text><rect x=\"540\" y=\"80\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"585\" y=\"109\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">6</text><rect x=\"0\" y=\"122\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"45\" y=\"151\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">7</text><rect x=\"90\" y=\"122\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"135\" y=\"151\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">8</text><rect x=\"180\" y=\"122\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"225\" y=\"151\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">9</text><rect x=\"270\" y=\"122\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"315\" y=\"151\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">10</text><rect x=\"360\" y=\"122\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"405\" y=\"151\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">11</text><rect x=\"450\" y=\"122\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"495\" y=\"151\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">12</text><rect x=\"540\" y=\"122\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"585\" y=\"151\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">13</text><rect x=\"0\" y=\"164\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"45\" y=\"193\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">14</text><rect x=\"90\" y=\"164\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"135\" y=\"193\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">15</text><rect x=\"180\" y=\"164\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"225\" y=\"193\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">16</text><rect x=\"270\" y=\"164\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"315\" y=\"193\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">17</text><rect x=\"360\" y=\"164\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"405\" y=\"193\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">18</text><rect x=\"450\" y=\"164\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"495\" y=\"193\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">19</text><rect x=\"540\" y=\"164\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"585\" y=\"193\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">20</text><rect x=\"0\" y=\"206\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"45\" y=\"235\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">21</text><rect x=\"90\" y=\"206\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"135\" y=\"235\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">22</text><rect x=\"180\" y=\"206\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"225\" y=\"235\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">23</text><rect x=\"270\" y=\"206\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"315\" y=\"235\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">24</text><rect x=\"360\" y=\"206\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"405\" y=\"235\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">25</text><rect x=\"450\" y=\"206\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"495\" y=\"235\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">26</text><rect x=\"540\" y=\"206\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"585\" y=\"235\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">27</text><rect x=\"0\" y=\"248\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"45\" y=\"277\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">28</text><rect x=\"90\" y=\"248\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"135\" y=\"277\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">29</text><rect x=\"180\" y=\"248\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"225\" y=\"277\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">30</text><rect x=\"270\" y=\"248\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"315\" y=\"277\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">—</text><rect x=\"360\" y=\"248\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"405\" y=\"277\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">—</text><rect x=\"450\" y=\"248\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"495\" y=\"277\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">—</text><rect x=\"540\" y=\"248\" width=\"90\" height=\"42\" fill=\"#ffffff\" stroke=\"#243f39\" stroke-width=\"2\"/><text x=\"585\" y=\"277\" font-size=\"20\" text-anchor=\"middle\" fill=\"#142f2b\">—</text></svg>",
+          "id": "g2s2-mathematics-midterm-a-q09"
+        }
+      ]
+    }
+  ],
+  "parallelDesign": "三卷皆為位值15分、加減與估算20分、乘法交換15分、0／1／10乘法10分、兩步應用15分、長度15分、月曆10分。A側重改記與容量、同圖雙向分組；B側重位值條件、兩種裝法的角色和整盒移出；C側重等量核對、移動修復陣列及方案比較。數值、資料關係與所需判斷分開設計，不只替換角色名稱；共有的基本算術技能可以重現。皆無超過1000的數或多次退位減法，時間是待試測的設計估計。"
+}
