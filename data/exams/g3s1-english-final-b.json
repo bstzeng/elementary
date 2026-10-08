@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "id": "g3s1-english-final-b",
+  "grade": 3,
+  "semester": 1,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "final",
+  "variant": "B",
+  "mode": "mixed-language",
+  "title": "小三上學期英語文・期末B卷",
+  "duration": "紙面建議30–40分鐘；真人口語與聽辨另以兩個5–10分鐘短回合個別進行，可分日、延長或休息。此為設計估計，未經試測。",
+  "instructions": [
+    "先和老師做第1、2題，老師說可以後才看後面的英文。可以休息或告訴老師還沒學過。",
+    "只使用紙上角色，不需要說真實姓名、年齡、感覺或家庭的事。",
+    "依題目選代號、指卡、說明或寫下答案。聽說可選擇不做；老師會分開記錄。"
+  ],
+  "teacherNotes": [
+    "依本館12個實際跨版本參考主題，期中01–06，期末07–12占80分，前半回顧20分。不是全國固定學期範圍；先確認每項已教。A/B/C取樣不同的應用，未經試測或統計等值檢驗，不作排名或升級門檻。",
+    "完整施測滿分100；只報已觀察得分／已觀察滿分及未觀察分項，不把缺項補0，不按比例換算100，不拿紙面分數代替聽說或動作。未教、無可靠完整模型、無合適機會、未回應、拒絕、受提示或改用不同能力，一律分項記未觀察，不給0。已有合適機會並實際嘗試作答，才依本條評分。",
+    "單選若保留互相矛盾的多答，只將該選擇子分記0；明確刪改按最後答案。同義多答不扣。多選按本題明列扣分，最低0，不牽連理由。理由可中文、指卡、AAC或口述；正確同義證據同分。未明列的中間分不自行加減。",
+    "紙上題先讀中文指示，英文刺激由學生自己認讀；中文指示可中性重讀、放大、分段，回答可選代號、指詞、AAC或忠實代筆。若成人代讀英文，另記成人英語朗讀支持的理解，不記獨立閱讀。文化／中文概念題可全程中文。沒有未供詞庫的默寫，不評速度、字跡、音量、眼神、服從或是否參與公開表演。",
+    "聽說前由具英語教學能力者私下核對本卷全部口語稿與完整詞句模型：已教□；核對來源與頁次＿＿；核對日期＿＿；施測者＿＿；能自然、清楚示範□。本卷沒有音檔，本次沒有驗聽音訊；文字不是聲音證據。沿用教材已核對的書面範圍。無合適模型則延期相應觀察，不用中文諧音、不用字母名拼讀冒充詞音。",
+    "曝光順序固定：先收起所有後題、英語完整句卡、教師卷與答案。先第1題口語，逐子項記錄；再第2題聽辨，逐試記錄。第1題與第2題全部分項完成記錄前，不論答對、答錯、部分答對、沒有回應或請求提示，都不給任何英語正答、重述學生英文、詞音示範、跟讀模型或透露聽辨答案的翻譯／手勢。回應只用中性中文「已記錄」，也可休息或停止。不因答錯先教book／pencil或Can I have…?等下一題會用到的詞句。只有依第2題逐試稿播放當前英語刺激及容許的原句重讀才可；不得加教學回饋。第1、2題全數記錄後才可教學回饋，再發紙面題。若任一分項尚待補測，則繼續保留相關模型，不先教後再冒稱獨立補測。教師私下備稿不向學生預教本次答案。若本次已曝光相關答句、詞讀音、翻譯或答案手勢，事後遮住不能還原獨立證據；受影響分項標受提示／未觀察，另排沒有即時模型的觀察，不給0或比例換算。先前正常教學仍為必要。",
+    "聽辨只出示各題明列的中文／數字選卡；只有該題教師稿明列需要時，才可出示單獨名字或字母卡，不得自行增加其他英語卡。不得出示英文逐字稿、完整答句或答案圖；教師面部自然可見，不蒙眼、不遮臉，不稱完全無視覺線索。按稿自然讀，每試可原句重讀一次並記次數，不翻譯、不指答案、不加重目標詞、不交換固定選卡。每試先記錄，全部相關試次完才回饋。需更多語音／翻譯／字卡支持者另記支持理解，原獨立觀察未觀察。",
+    "獨立口語只依實際聽見的可理解語句評；指完整句、跟讀、成人代說、AAC語音可呈現溝通理解，不能冒稱自己的語音產出。可理解的正常英語變體、I am/I’m、It is/It’s及已教等義框架同分，不要求特定口音。",
+    "全部角色與情境虛構，不使用兒童真名、生日、年齡、健康、家庭節慶或照片；不錄音錄影、不上傳、不建立帳號。只用大紙卡和輕薄紙書，不遞真筆尖、不搬動家具、不實際飲食或節慶活動。休息或真實求助優先，用任何熟悉方式即可，無英語門檻。",
+    "字形位置／模型文字題只評概念，不由靜止成品推論筆順。x、g只測位置，不補寫來源未核對的筆順。字母l的完整模型沿用已核對Cambridge頂端往下、底部短右彎；接納已核對的其他合法模型。數字與用品整詞不硬套mat/sat的短母音規則。",
+    "本卷教師私下核對的完整口語模型清單（不是先給學生的提示）：I’m hungry.／Can I have a pencil, please?／A pencil, please.；第2題完整英文故事逐字稿及Mia/Jo名字，需全部私下核對。"
+  ],
+  "materials": [
+    "本卷學生文字與教師逐試稿；遮紙、無個資大紙卡、鉛筆與空白紙。",
+    "第1、2題規定的中文／數字或單獨字母／單詞材料，由成人按原文製作；不用外找音檔或圖片。",
+    "所有後題及教師卷分開保存。"
+  ],
+  "parallelDesign": "B卷以收到錯物修復、第一次即成功的新故事、同齡角色資訊不足、翻譯摘要稽核、沒有結局的故事與文化標題為主；80＋20。",
+  "blueprint": [
+    {
+      "id": "oral",
+      "title": "一、先做口語觀察",
+      "points": 12,
+      "purpose": "分開記錄真實口語、聽辨、閱讀及概念證據；前後階段範圍不得互換。"
+    },
+    {
+      "id": "listening",
+      "title": "二、再做真人聽辨",
+      "points": 12,
+      "purpose": "分開記錄真實口語、聽辨、閱讀及概念證據；前後階段範圍不得互換。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與概念轉用",
+      "points": 56,
+      "purpose": "分開記錄真實口語、聽辨、閱讀及概念證據；前後階段範圍不得互換。"
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "points": 20,
+      "purpose": "分開記錄真實口語、聽辨、閱讀及概念證據；前後階段範圍不得互換。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "oral",
+      "title": "一、先做口語觀察",
+      "instructions": "依題序只開放當前材料；先完成並記錄聽說才看紙面英文。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-english-08",
+            "g3s1-english-09"
+          ],
+          "prompt": "請幫虛構紙偶完成三項訊息：①說出卡上明寫的感覺。②向紙上文具站請求指定物品。③文具站給了另一種東西，請用已學英文簡短重說真正要的物品。",
+          "stimulus": "每回合由老師只給中文卡；不需要說你的感覺，也不遞真實文具。第③回合是紙上收到錯卡的練習。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①I’m hungry. ②Can I have a pencil, please? ③A pencil, please.／Can I have a pencil, please?",
+            "explanation": "先提供角色自述，再提出用品需求；第三回合重申原要求，不因拿到pen就把pencil需求改掉。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①hungry正確詞2分，完整I’m／I am hungry.再2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②pencil正確物品2分，可理解完整已教Can I have a pencil, please?框架再2分；只說pencil得資訊2。"
+              },
+              {
+                "points": 4,
+                "criterion": "③重申pencil 2分，完整A pencil, please.或完整原請求再2分；只說pen 0，其他錯物品但框架完整可得框架2。"
+              }
+            ]
+          },
+          "teacher": "先於本次任何英語朗讀。①只出示「虛構紙偶自述：我餓了」中文卡，說「請用已學英文說這份自述」，記錄後收卡。②只出示「這一輪想拿鉛筆」中文卡，說「請向紙上文具站用完整英文提出請求」，記錄。③保留原中文需求，另出示「文具站給你筆，沒有給鉛筆」，只中文說「請用已學英文重說真正要的物品」，記錄。不得先念pen/pencil、句框或修復答案；第③可重述學生已作的中文需求，但不替其說英文。本題完成後只中性中文說「已記錄」；答對、答錯、部分回答或無回應都不提供英語正答、不重述學生英文、不跟讀修正。直到第2題所有聽辨分項也完成記錄後才可教學回饋；若有待補測分項，相關模型繼續保留。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受提示或改用不同能力，一律分項記未觀察，不給0。已有合適機會並實際嘗試作答，才依本條評分。",
+          "observationParts": [
+            {
+              "label": "感覺自述口語",
+              "points": 4
+            },
+            {
+              "label": "提出物品請求",
+              "points": 4
+            },
+            {
+              "label": "維持原需求的修復",
+              "points": 4
+            }
+          ],
+          "id": "g3s1-english-final-b-q01"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "二、再做真人聽辨",
+      "instructions": "依題序只開放當前材料；先完成並記錄聽說才看紙面英文。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-english-11"
+          ],
+          "prompt": "聽一個新的紙卡故事。聽完後回答四件事：①誰提出請求？②想要哪張書卡？③第一次實際遞的是哪張？④這次是否已符合請求？先不要把課堂故事中「一定先遞錯」的記憶搬來。",
+          "stimulus": "角色選卡：甲Mia、乙Jo。\n物品選卡：丙紅書、丁藍書。\n結果選卡：戊已符合、己還沒符合。名字與物品卡只作選項，故事稿不給學生看。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲Mia；②丙紅書；③丙紅書；④戊已符合。",
+            "explanation": "新故事由Mia提出請求，Jo第一次就遞對；是否需要修正須依當次證據，不能把教材原故事的錯卡情節當固定答案。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "①單選甲Mia。"
+              },
+              {
+                "points": 3,
+                "criterion": "②單選丙紅書。"
+              },
+              {
+                "points": 3,
+                "criterion": "③單選丙紅書。"
+              },
+              {
+                "points": 3,
+                "criterion": "④單選戊已符合。"
+              }
+            ]
+          },
+          "teacher": "進入本題前確認：第1題未提供英語正答、重述、詞音或句型回饋。若已提供，將受影響的本題分項列受提示／未觀察，不作獨立聽辨計分；不因遮住或再讀一遍恢復獨立性。先完成第1題；不給書面故事或中文翻譯。先中文說明四個問題及選卡代號，不先念目標名字。完整自然讀稿：「Jo has a red book and a blue book. Mia says, “Can I have a red book, please?” Jo gives Mia the red book. “Here you are,” says Jo. “Thank you,” says Mia.」按句停頓，不做遞紅書動作。讀完等學生回答四項，逐項記錄；可依學生請求完整重讀一次，不能只加重紅書。兩遍最多。若姓名讀法未在先前教學確認，相應項未觀察。所有項目記完才給中文核對，無關孩子是否公開表演。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受提示或改用不同能力，一律分項記未觀察，不給0。已有合適機會並實際嘗試作答，才依本條評分。",
+          "observationParts": [
+            {
+              "label": "聽故事辨請求人",
+              "points": 3
+            },
+            {
+              "label": "聽故事辨需求",
+              "points": 3
+            },
+            {
+              "label": "聽故事辨實際結果",
+              "points": 3
+            },
+            {
+              "label": "聽故事比較是否符合",
+              "points": 3
+            }
+          ],
+          "id": "g3s1-english-final-b-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與概念轉用",
+      "instructions": "每題獨立，先讀中文任務，再看題內英文及完整資料。可指代號，不需默寫陌生單字。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-english-07"
+          ],
+          "prompt": "①這句年齡回答能唯一找出哪一位角色嗎？列出所有符合的角色。②若一定要知道是哪一位，選哪個問題再問？說要得到什麼資料。再說明為什麼這項新資料能區分兩張同為九歲的候選卡。",
+          "stimulus": "三張虛構角色卡：甲Ben，9歲；乙Jo，9歲；丙Mia，10歲。\n只收到一句I’m nine.。\n再問候選：A What’s your name?／B How old are you?。",
+          "responseLines": 4,
+          "answer": {
+            "value": "不能唯一確定；甲Ben和乙Jo都可能，丙不符合。再問A取名字，才有不同資料可區分。",
+            "explanation": "同一個年齡可以屬不同人；再次詢問同樣年齡未必減少候選，名字才對應這組卡的缺口。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "明說不能唯一確定。"
+              },
+              {
+                "points": 4,
+                "criterion": "列甲、乙各2分；多列丙扣2分，本條最低0。"
+              },
+              {
+                "points": 2,
+                "criterion": "選A。"
+              },
+              {
+                "points": 2,
+                "criterion": "說取名字才能區分同為9歲兩卡；有名字資訊1分、連到區分兩卡1分。"
+              }
+            ]
+          },
+          "id": "g3s1-english-final-b-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-english-08"
+          ],
+          "prompt": "一張英文自述同時被兩位記錄員摘要。①選符合原話的摘要。②修正不符合的摘要，只改錯的那個意思。③摘要另加「所以一定要吃藥」，能由原話支持嗎？說原因。",
+          "stimulus": "虛構角色原話I’m tired.。\n甲摘要：角色說自己累了。乙摘要：角色說自己渴了。\n已學詞庫：tired累了；thirsty渴了；hungry餓了。",
+          "responseLines": 4,
+          "answer": {
+            "value": "甲符合；乙把渴改成累。不能推出一定要吃藥，原話只是自述累，沒有診斷或用藥資料。",
+            "explanation": "相近或同屬身體感覺的詞仍有不同意思；語言理解不等於醫療判斷。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "選甲。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙渴改累；只要修改資訊正確3分，不評抄寫。"
+              },
+              {
+                "points": 2,
+                "criterion": "否定能推出一定要吃藥。"
+              },
+              {
+                "points": 2,
+                "criterion": "以原話僅累／無診斷或用藥資料支持。"
+              }
+            ]
+          },
+          "id": "g3s1-english-final-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-english-09",
+            "g3s1-english-10"
+          ],
+          "prompt": "兩份請求要分別配卡，不能只看共同顏色。①各選正確卡。②記錄員說「反正都藍色，兩次給同一卡」，哪個詞讓你知道不能這樣？③改寫錯誤回句，只改錯的物品詞。第②也請解釋：為什麼只看兩次共同的blue，還不足以決定該給哪張卡？",
+          "stimulus": "卡甲：藍色筆；卡乙：藍色鉛筆；卡丙：綠色尺。\n請求一Can I have a blue pencil, please?\n請求二Can I have a blue pen, please?\n請求一的錯誤回句It’s a blue pen.。可用詞庫pen／pencil／ruler。",
+          "responseLines": 4,
+          "answer": {
+            "value": "請求一乙、請求二甲；pencil與pen不同。錯誤回句改It’s a blue pencil.。",
+            "explanation": "共享blue不表示同一物品，修復時保留正確顏色和句框，只換名稱。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "請求一選乙。"
+              },
+              {
+                "points": 3,
+                "criterion": "請求二選甲。"
+              },
+              {
+                "points": 3,
+                "criterion": "指出pencil與pen為不同種類；兩詞各1分、說不能只按blue 1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "回句pen換pencil 2分，保留blue與原完整句框1分；指明只換物品詞即可。"
+              }
+            ]
+          },
+          "id": "g3s1-english-final-b-q05"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-english-11"
+          ],
+          "prompt": "故事在中途停下，還沒有結尾。①說現在想要什麼、手上已收到什麼。②判斷是否已符合。③從卡庫選所有能讓下一次遞卡符合請求的卡。④有人說「最後一定已收到正確卡」，資料足夠嗎？說原因。",
+          "stimulus": "虛構故事：Mia說Can I have a blue book, please?；Jo先遞一張紅書卡。Mia說A blue book, please.，故事就停在這裡。\n下一次可用卡庫：甲藍書、乙藍鉛筆、丙紅書。尚未記錄下一次遞了什麼。",
+          "responseLines": 4,
+          "answer": {
+            "value": "要藍書，已收紅書，還沒符合；下一次可選甲。不能說已經收到，只有修復請求與可行計畫，沒有實際結尾。",
+            "explanation": "需要分清現況、下一步可行方案與已發生結果，不把想得到的結局當證據。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "想要藍書2分，已收紅書2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "判還沒符合。"
+              },
+              {
+                "points": 3,
+                "criterion": "只選甲；多選乙丙則本條0，理由子分不連扣。"
+              },
+              {
+                "points": 3,
+                "criterion": "說不足以知已收到1分，因故事未記錄後續遞物2分。"
+              }
+            ]
+          },
+          "id": "g3s1-english-final-b-q06"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-english-12"
+          ],
+          "prompt": "編輯要替兩張文化資料卡選一個共同標題。①哪個標題有資料支持？②兩張卡各涉及誰、什麼食物？③如果展示區改成「全班都要吃同一種食物才可加入」，請改成保留學習目的又不要求真實飲食的安排。",
+          "stimulus": "資料甲（Smithsonian文章）：作者自己的臺灣家庭過年吃蘿蔔糕。資料乙（同文比較）：部分家庭，尤其中國北方家庭，常吃餃子。文章說各地及家庭做法有差異。\n標題A每一個家庭都相同；B兩個有範圍的過年食物例子；C全世界都過同一節日。\n展示目的是讀懂資料並比較，不是實際參加飲食活動。",
+          "responseLines": 4,
+          "answer": {
+            "value": "選B；甲作者自己的臺灣家庭／蘿蔔糕，乙部分尤其中國北方家庭／餃子。可讓全班自願看資料、畫兩張食物符號或指資料比較，不需吃或分享自家習俗。",
+            "explanation": "標題要保留來源範圍；比較文化資料不需要將例子轉成所有人的行為規定。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "選B；多選A/C本條0。"
+              },
+              {
+                "points": 4,
+                "criterion": "甲誰、食物各1分；乙部分家庭範圍、食物各1分。"
+              },
+              {
+                "points": 5,
+                "criterion": "新安排保留讀資料／比較2分，不要求實際飲食2分，可安靜指卡、畫圖或其他可近用方式1分。"
+              }
+            ]
+          },
+          "id": "g3s1-english-final-b-q07"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "instructions": "每題獨立，先讀中文任務，再看題內英文及完整資料。可指代號，不需默寫陌生單字。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s1-english-03",
+            "g3s1-english-04"
+          ],
+          "prompt": "紙上兩條轉換路徑都聲稱只換最前一張。①哪條符合？②另一條除了第一格還動了哪格？③說符合路徑開始、結束的詞義。④若學生只按字母名拼完，能直接記自然讀整詞嗎？說還需什麼證據。",
+          "stimulus": "甲mat → sat；乙mat → tap。\n意思庫：地墊、坐下了、輕敲。\n本題只看字形與紀錄，不播放聲音。",
+          "responseLines": 4,
+          "answer": {
+            "value": "甲符合。乙最後t也變p。甲由mat地墊到sat坐下了。字母名拼字不能直接當整詞，需聽見自然讀詞的實際表現。",
+            "explanation": "逐格對照是書面可得證據，自然語音仍要另觀察。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "選甲。"
+              },
+              {
+                "points": 2,
+                "criterion": "乙末格t變p；位置1分、內容1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "mat地墊2分，sat坐下了2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "不能直接記1分，需要真實自然讀詞觀察1分。"
+              }
+            ]
+          },
+          "id": "g3s1-english-final-b-q08"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s1-english-05",
+            "g3s1-english-06"
+          ],
+          "prompt": "三張訊息被貼錯用途。①把每張放到正確用途欄。②收到的名字沒聽清，應選哪張修復？③有人說只因句中有please就必須照任何要求做，請用本課安全原則改正。",
+          "stimulus": "甲What’s your name?；乙Please say that again.；丙Help, please.。\n用途欄：問名字／請重說／請幫忙。本題只分類，不扮演危險情況。",
+          "responseLines": 4,
+          "answer": {
+            "value": "甲問名字，乙請重說，丙請幫忙；沒聽清用乙。please表示禮貌請求，不代表要求一定安全或必須做；不懂或不安全可用熟悉方式請可信任成人幫忙。",
+            "explanation": "先按整句功能找適合的修復，禮貌形式不能代替安全判斷。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "甲問名字、乙重說、丙幫忙，每項2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "沒聽清選乙。"
+              },
+              {
+                "points": 2,
+                "criterion": "否定please等於必須服從1分，提出確認安全或立即求助的修正1分。"
+              }
+            ]
+          },
+          "id": "g3s1-english-final-b-q09"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存課文｜字母名、字母音與代表字",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-03.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第03課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜簡單字母拼讀與語音辨別",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-04.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第04課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜招呼、自我介紹與名字",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-05.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第05課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜教室指令與禮貌用語",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-06.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第06課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜數字與詢問年齡",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-07.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第07課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜表達情緒與身體感覺",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-08.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第08課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜常見玩具或學用品",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-09.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第09課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜顏色與簡單物品描述",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-10.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第10課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜看圖聽故事與回應",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-11.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第11課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    },
+    {
+      "title": "本館封存課文｜歌謠、節奏與節慶認識",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s1-english-12.html",
+      "note": "本次逐段核對recovery-18封存JSON與HTML及全部練習；題面原創。第12課書面範圍及來源註記沿用；未新驗聽音訊，真實口語須教師另核對。"
+    }
+  ]
+}
