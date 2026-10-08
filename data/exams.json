@@ -137,7 +137,13 @@
     "g2s2-health-pe-midterm-c",
     "g2s2-health-pe-final-a",
     "g2s2-health-pe-final-b",
-    "g2s2-health-pe-final-c"
+    "g2s2-health-pe-final-c",
+    "g2s2-language-choice-midterm-a",
+    "g2s2-language-choice-midterm-b",
+    "g2s2-language-choice-midterm-c",
+    "g2s2-language-choice-final-a",
+    "g2s2-language-choice-final-b",
+    "g2s2-language-choice-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -271,7 +277,13 @@
     "g2s2-health-pe-midterm-c": "051bb1d7c453fec9c742b443e123a78f80aa9bf6f5774eda747c7e972f76546c",
     "g2s2-health-pe-final-a": "eb728dcdcf8c419d4602e9a1aa1f59f9b361b9d6bcca57a2a3bf2078f814d5b0",
     "g2s2-health-pe-final-b": "bd865004c62ff3e87f637f2a78f3cae85d326257cef56e91dd448d8ffad78111",
-    "g2s2-health-pe-final-c": "ccd9bf124b5c77d228da2abc29860cc00046a1227bcc506fb67a13a0100cb75c"
+    "g2s2-health-pe-final-c": "ccd9bf124b5c77d228da2abc29860cc00046a1227bcc506fb67a13a0100cb75c",
+    "g2s2-language-choice-midterm-a": "e466aa78da6b717802cd93b61ff3a3cef77dbc26cf8435667876445a8ebf6664",
+    "g2s2-language-choice-midterm-b": "946f1230e776ec4ca93149e43dc372002e827871cafb376cec2339a3bf943e12",
+    "g2s2-language-choice-midterm-c": "f60e12d787b2adef60b6bb342e30d6db1e62110065013e51a9ba0efbc97e3833",
+    "g2s2-language-choice-final-a": "c3b6bef345d57da628d8213e9a7b012417f3b5f70880dfa31fe941ffbd3ab7d5",
+    "g2s2-language-choice-final-b": "1b55e8f52bb956d065a2fb0c176059889a525849ca624e95625158829be255aa",
+    "g2s2-language-choice-final-c": "be36cf00015ec1ca9b62859107a66a69e8657622c89134e63d35ecf7d2d29e11"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -406,7 +418,13 @@
       "g2s2-health-pe-midterm-c",
       "g2s2-health-pe-final-a",
       "g2s2-health-pe-final-b",
-      "g2s2-health-pe-final-c"
+      "g2s2-health-pe-final-c",
+      "g2s2-language-choice-midterm-a",
+      "g2s2-language-choice-midterm-b",
+      "g2s2-language-choice-midterm-c",
+      "g2s2-language-choice-final-a",
+      "g2s2-language-choice-final-b",
+      "g2s2-language-choice-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -1038,6 +1056,36 @@
         "sourceSha256": "cc8ca2afc7df7e38d378a86c94bb7a3f6381285e5f0b847b4a1c4d1c37c915c0",
         "observedCommit": "347a81c3b177401fa28b3512a889f9cf4e5655e6",
         "receiptSha256": "09866483e8da3a1e3f09438095a347ba0e2efd3f147f3e65b78ff1e3ad5a015c"
+      },
+      "g2s2-health-pe-midterm-a": {
+        "sourceSha256": "553528bff3e138f794248a56d2c21cdf3078c43c698ae13f5a796f3a5bd3be80",
+        "observedCommit": "6db67e1f0d2e091cc2261dc086cf7b66e4d9706f",
+        "receiptSha256": "c00fee573ee71798b38e73feb766e6431659212b900f047660104479edc94843"
+      },
+      "g2s2-health-pe-midterm-b": {
+        "sourceSha256": "ed19621b342fa4c666b86853b7056dbe976285e1cb8b3f28af58b2c297771c15",
+        "observedCommit": "6db67e1f0d2e091cc2261dc086cf7b66e4d9706f",
+        "receiptSha256": "c00fee573ee71798b38e73feb766e6431659212b900f047660104479edc94843"
+      },
+      "g2s2-health-pe-midterm-c": {
+        "sourceSha256": "051bb1d7c453fec9c742b443e123a78f80aa9bf6f5774eda747c7e972f76546c",
+        "observedCommit": "6db67e1f0d2e091cc2261dc086cf7b66e4d9706f",
+        "receiptSha256": "c00fee573ee71798b38e73feb766e6431659212b900f047660104479edc94843"
+      },
+      "g2s2-health-pe-final-a": {
+        "sourceSha256": "eb728dcdcf8c419d4602e9a1aa1f59f9b361b9d6bcca57a2a3bf2078f814d5b0",
+        "observedCommit": "6db67e1f0d2e091cc2261dc086cf7b66e4d9706f",
+        "receiptSha256": "c00fee573ee71798b38e73feb766e6431659212b900f047660104479edc94843"
+      },
+      "g2s2-health-pe-final-b": {
+        "sourceSha256": "bd865004c62ff3e87f637f2a78f3cae85d326257cef56e91dd448d8ffad78111",
+        "observedCommit": "6db67e1f0d2e091cc2261dc086cf7b66e4d9706f",
+        "receiptSha256": "c00fee573ee71798b38e73feb766e6431659212b900f047660104479edc94843"
+      },
+      "g2s2-health-pe-final-c": {
+        "sourceSha256": "ccd9bf124b5c77d228da2abc29860cc00046a1227bcc506fb67a13a0100cb75c",
+        "observedCommit": "6db67e1f0d2e091cc2261dc086cf7b66e4d9706f",
+        "receiptSha256": "c00fee573ee71798b38e73feb766e6431659212b900f047660104479edc94843"
       }
     },
     "pdfVerified": {
@@ -3019,6 +3067,96 @@
           "path": "pdf/g2s2-health-pe-final-c-teacher.pdf",
           "sha256": "f301f3ab2364e9791ec693d8b7b2249e56f36d236e521c4bbd5926969bd18feb",
           "pages": 14
+        }
+      },
+      "g2s2-language-choice-midterm-a": {
+        "sourceSha256": "e466aa78da6b717802cd93b61ff3a3cef77dbc26cf8435667876445a8ebf6664",
+        "pageReview": "passed",
+        "receiptSha256": "cf194765b9e1d564dd83774fe20b5860a6ec619561f4e8ae6e8ead17e9183a28",
+        "student": {
+          "path": "pdf/g2s2-language-choice-midterm-a-student.pdf",
+          "sha256": "af92d86838b8dac5774f23898cbe642770dd69fd0786000ec8c00292a49818fb",
+          "pages": 11
+        },
+        "teacher": {
+          "path": "pdf/g2s2-language-choice-midterm-a-teacher.pdf",
+          "sha256": "51f5347be63c0a78e639cb585cb1390ca06f094ad79004fdaf8c825793a46506",
+          "pages": 15
+        }
+      },
+      "g2s2-language-choice-midterm-b": {
+        "sourceSha256": "946f1230e776ec4ca93149e43dc372002e827871cafb376cec2339a3bf943e12",
+        "pageReview": "passed",
+        "receiptSha256": "cf194765b9e1d564dd83774fe20b5860a6ec619561f4e8ae6e8ead17e9183a28",
+        "student": {
+          "path": "pdf/g2s2-language-choice-midterm-b-student.pdf",
+          "sha256": "13cbda4b78708a1cf8d10ab9262bfc6b0dc919d7c57d2609690290e263415df6",
+          "pages": 11
+        },
+        "teacher": {
+          "path": "pdf/g2s2-language-choice-midterm-b-teacher.pdf",
+          "sha256": "683db39a6daa2e5cfdcfee350dfe9832769fd32dd5dac899b0b8c5e9c2621268",
+          "pages": 15
+        }
+      },
+      "g2s2-language-choice-midterm-c": {
+        "sourceSha256": "f60e12d787b2adef60b6bb342e30d6db1e62110065013e51a9ba0efbc97e3833",
+        "pageReview": "passed",
+        "receiptSha256": "cf194765b9e1d564dd83774fe20b5860a6ec619561f4e8ae6e8ead17e9183a28",
+        "student": {
+          "path": "pdf/g2s2-language-choice-midterm-c-student.pdf",
+          "sha256": "e81b3b7c2d7ae65ee4e9f95ac3d06b519ac4789da849c153ec7f11007ef56b47",
+          "pages": 11
+        },
+        "teacher": {
+          "path": "pdf/g2s2-language-choice-midterm-c-teacher.pdf",
+          "sha256": "cdf0b8ccda0dd04382f5938e8ef1e497182796c7b447e22d70c0b25ec88e9f30",
+          "pages": 15
+        }
+      },
+      "g2s2-language-choice-final-a": {
+        "sourceSha256": "c3b6bef345d57da628d8213e9a7b012417f3b5f70880dfa31fe941ffbd3ab7d5",
+        "pageReview": "passed",
+        "receiptSha256": "cf194765b9e1d564dd83774fe20b5860a6ec619561f4e8ae6e8ead17e9183a28",
+        "student": {
+          "path": "pdf/g2s2-language-choice-final-a-student.pdf",
+          "sha256": "2d85302602b13ed3b75a8dfc2a54e78989fce28353dcc7077ff56c61a5072b71",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g2s2-language-choice-final-a-teacher.pdf",
+          "sha256": "a82e36d09a35b1e459fc9cf436d678e988b05506585f8fbcba73eabe67abc3b6",
+          "pages": 15
+        }
+      },
+      "g2s2-language-choice-final-b": {
+        "sourceSha256": "1b55e8f52bb956d065a2fb0c176059889a525849ca624e95625158829be255aa",
+        "pageReview": "passed",
+        "receiptSha256": "cf194765b9e1d564dd83774fe20b5860a6ec619561f4e8ae6e8ead17e9183a28",
+        "student": {
+          "path": "pdf/g2s2-language-choice-final-b-student.pdf",
+          "sha256": "49931a439e1e8ead47ff90c8b7f68b8b0b8419810ff14e35d2841f02ccaf4e40",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g2s2-language-choice-final-b-teacher.pdf",
+          "sha256": "1d1be4e2cc5f2573b76568378cfc6335ae93bb5aba35ecce5c5a1ac14ea9f680",
+          "pages": 15
+        }
+      },
+      "g2s2-language-choice-final-c": {
+        "sourceSha256": "be36cf00015ec1ca9b62859107a66a69e8657622c89134e63d35ecf7d2d29e11",
+        "pageReview": "passed",
+        "receiptSha256": "cf194765b9e1d564dd83774fe20b5860a6ec619561f4e8ae6e8ead17e9183a28",
+        "student": {
+          "path": "pdf/g2s2-language-choice-final-c-student.pdf",
+          "sha256": "5a6b2f62870a0f233de34825af85654a40d0e0dfa496c62b2092edd0055129e6",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g2s2-language-choice-final-c-teacher.pdf",
+          "sha256": "7b9646e7844bfd3474456fdb89e7bfcbf6ba509b284cde013150e93ea4e2411d",
+          "pages": 15
         }
       }
     },
