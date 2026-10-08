@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "id": "g3s1-mathematics-final-c",
+  "grade": 3,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "C",
+  "mode": "written",
+  "title": "小三上學期數學・期末C卷",
+  "duration": "建議40–50分鐘；屬設計估計，未經試測。可依閱讀、書寫、視覺或操作支持需要分段、延長或休息。",
+  "instructions": [
+    "先讀每題的完整資料；各題獨立，故事和數據都是虛構。",
+    "依題目寫出計算、判斷或理由。可用算式、畫圖、指圖或口述說明，請成人依原話記錄。",
+    "圖旁文字和圖是同一份資料；圖可縮放，不拿尺量印出的圖。答案記清楚所求的量與單位。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本編輯主題，不是全國統一段考範圍。先核對已教進度；A／B／C為原創平行設計，未經試測、常模化或統計等值檢驗。",
+    "可中性朗讀、放大圖文、提供空白紙、位值表及安全大紙卡，或依學生口述代寫代畫。不得替學生決定算式、選答案、修正推理；不把速度、字體、畫圖美觀或識字能力算入數學分數。",
+    "每條規準獨立給分；有明列分項者逐項計，未另分項的單一數學證據符合得該條分數，否則0分。空白、只抄題目及無相關證據均0分。正確結果不自動取得題目另要求的方法或理由分；理由可用文字、算式、圖或口述呈現。",
+    "接受正確的拆量、位值、補足、連加、乘法、圖解、直式及其他年級內方法；不強迫乘法因子順序或特定措辭。只有明問除法直式的欄位證據須在直式、指位值表或等效口述中出現。可辨中文數字、口語讀法、分數斜線記法與省略重複單位均可。",
+    "前步失算不重複扣後步的方法分；題目後步的關係或判斷若依自己的前步一致推理，給相應方法或判斷分；正確數值分仍按各條指定結果計。判斷與數值分在規準內分開。必要單位若可由標示或完整句子判明，不重複扣分。",
+    "整數及結果不超過10000；乘法限二、三位數乘一位數；除法直式限二位數除一位數且商一位數。沒有小數商、負數、兩位數乘數或代數公式。估算可用合理易算數，須標示大約，不考機械四捨五入。",
+    "長度公尺換算只用一位數公尺；複名數只做加減。圖為縮放示意，按刻度數值作答，不拿尺量列印圖。紙筆推理不能認證真尺實測能力。",
+    "期末角只比較張開程度及直角，不用度數、量角器；長方形採包含正方形的定義。圓不考圓周長或面積；口述畫圓計畫不能認證實際圓規操作。若另作實操，只用成人確認無外露尖針、固定圓心座的安全圓規，缺工具則延期操作。",
+    "分數使用連續等分模型、0到1內的量；不要求約分、通分或分數乘除。離散六卡題附連續六等份一一對應，保持原盒六張作整體，不以卡片面積計分。規律只推近幾步，封閉題規則明示。",
+    "故事與數據全為虛構，圖為原創。只用完整大紙，不用真交易、食物、散落小物或刀剪；不蒐集兒童姓名、身體尺寸、家庭資料或帳號。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白計算紙",
+    "本卷全部文字與原創圖；需要時放大、逐字朗讀或提供位值表",
+    "只做本卷紙筆／指圖／口述題，不需上網、真尺實測或尖針圓規"
+  ],
+  "sources": [
+    {
+      "title": "本館小三上數學原創教材與13課主題",
+      "url": "https://bstzeng.github.io/elementary/#g3s1",
+      "note": "逐課核對完整JSON、已保存HTML、教學說明與全部練習。期中01–07；期末08–13占80分，前半回顧20分。"
+    },
+    {
+      "title": "教育部數學領域課程綱要發布頁（沿用教材出處）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "本次未重新存取官方文件；年級界線沿用已保存教材及其來源註記，不宣稱全國固定學期次序。"
+    }
+  ],
+  "parallelDesign": "C期末以比較基準、旋轉圖端點、候選圓周點、粗細分割、借還份數及兩列相遇後的規律為主；前半回顧20分。",
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "理解、計算與轉用",
+      "points": 80,
+      "purpose": "以本階段已教數量關係和證據解決新問題。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "用前半核心概念處理新的資料條件。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "理解、計算與轉用",
+      "instructions": "每題各自開始；題目要求的算式、理由與標示都要留下證據。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-mathematics-08"
+          ],
+          "prompt": "第一步後的角和原角相比如何，為什麼？第二步後有沒有比第一步小？能不能只憑「收小」就說它已比直角小？說明還缺什麼，並寫出用直角樣板確認的方法。請說另一邊在樣板內、與樣板重合、在樣板外時，各怎樣判斷。",
+          "stimulus": "原角已確認比直角大。第一步只把兩邊沿原方向縮短。第二步固定其中一邊，把另一邊往固定邊靠近一點，開口收小，但沒有說收小多少；仍是未閉合的角。",
+          "responseLines": 5,
+          "answer": {
+            "value": "第一步不改角大小，因兩邊方向沒變。第二步確實變小，但未必小於直角；也可能仍比直角大或剛好直角。須用直角樣板對齊頂點及同方向一邊，再比另一邊的張開。",
+            "explanation": "變小是相對前一狀態，不能自動改成和直角比較的結論。需要新的樣板比較證據。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "第一步大小不變。"
+              },
+              {
+                "points": 2,
+                "criterion": "以沿原方向縮短不改開口作理由。"
+              },
+              {
+                "points": 2,
+                "criterion": "第二步比第一步小。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出無法確定是否比直角小，因未給與直角的比較或收小程度。"
+              },
+              {
+                "points": 4,
+                "criterion": "樣板頂點對齊1分、同方向一邊對齊1分、看另一邊在樣板內／重合／外來判小／等／大2分。"
+              }
+            ]
+          },
+          "id": "g3s1-mathematics-final-c-q01"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-mathematics-09"
+          ],
+          "prompt": "寫出AB的對邊與BC的對邊，再補出CD、DA的長。分別判斷這張斜卡是不是長方形、是不是正方形，各說理由。只把卡旋轉成正放，能改成正方形嗎，為什麼？",
+          "stimulus": "圖卡按A、B、C、D繞一圈；四角已用樣板確認為直角。AB＝7公分，BC＝4公分。CD、DA尚未標尺寸。依已提供的數字作答，不量圖。",
+          "responseLines": 5,
+          "answer": {
+            "value": "AB的對邊CD，BC的對邊DA。CD＝7公分，DA＝4公分。是長方形；不是正方形。旋轉不改邊長7與4，仍不是正方形。",
+            "explanation": "對邊沒有共用頂點，斜擺不改此關係。四個直角與對邊等長滿足長方形，但四邊並不等長。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "AB對CD、BC對DA，各2分，端點反向DC／AD也可。"
+              },
+              {
+                "points": 2,
+                "criterion": "CD7公分、DA4公分，各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "長方形判是1分，理由四直角且對邊等長1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "正方形判否1分，理由7不等於4、四邊不全等1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "旋轉仍非正方形1分、邊長和角未改的理由1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 280\" role=\"img\" aria-label=\"斜放四邊形依序A、B、C、D；四角均已確認為直角。AB長7公分，BC長4公分；CD、DA未標長。圖不供實測。\"><title>斜放四邊形依序A、B、C、D；四角均已確認為直角。AB長7公分，BC長4公分；CD、DA未標長。圖不供實測。</title><polygon points=\"120,50 260,155 200,235 60,130\" fill=\"#e5efe9\" stroke=\"#234c40\" stroke-width=\"3\"/><text x=\"115\" y=\"36\" font-size=\"22\" text-anchor=\"start\" fill=\"#14382e\">A</text><text x=\"272\" y=\"157\" font-size=\"22\" text-anchor=\"start\" fill=\"#14382e\">B</text><text x=\"205\" y=\"260\" font-size=\"22\" text-anchor=\"start\" fill=\"#14382e\">C</text><text x=\"35\" y=\"134\" font-size=\"22\" text-anchor=\"start\" fill=\"#14382e\">D</text><text x=\"204\" y=\"87\" font-size=\"19\" text-anchor=\"middle\" fill=\"#14382e\">7公分</text><text x=\"264\" y=\"212\" font-size=\"19\" text-anchor=\"middle\" fill=\"#14382e\">4公分</text><text x=\"340\" y=\"98\" font-size=\"19\" text-anchor=\"start\" fill=\"#14382e\">四角皆已用</text><text x=\"340\" y=\"130\" font-size=\"19\" text-anchor=\"start\" fill=\"#14382e\">直角樣板確認</text><text x=\"340\" y=\"184\" font-size=\"19\" text-anchor=\"start\" fill=\"#14382e\">CD、DA待填</text></svg>",
+          "id": "g3s1-mathematics-final-c-q02"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-mathematics-10"
+          ],
+          "prompt": "哪個候選點不能放在目標圓的圓周上，為什麼？目標直徑多長？O自己在圓周上嗎？它在圓周包圍的哪裡？只查三個點都距O4公分，能保證整圈都畫對嗎？為什麼？說明畫整圈時須一直保持的兩項條件。",
+          "stimulus": "想畫半徑4公分、圓心O的圓。畫前查四個候選點：M、N、P都離O4公分；Q離O3公分。只做紙筆規畫，不需操作工具。",
+          "responseLines": 5,
+          "answer": {
+            "value": "Q不在目標圓周，因只離O3公分而非4。直徑8公分。O在內部，不在圓周。只查三點不能保證其餘點；畫時須保持圓心O位置及中心到筆端4公分的距離。",
+            "explanation": "固定中心和固定半徑是整圈的要求，不只是少數點；圓心不是距自身4公分的邊界點。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "選Q。"
+              },
+              {
+                "points": 2,
+                "criterion": "以Q離O3而非4公分作理由。"
+              },
+              {
+                "points": 2,
+                "criterion": "直徑8公分，4＋4或兩半徑說明同樣可。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出O不在圓周、位於內部；兩點各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "說三點符合仍不能保證其餘整圈，需檢查／保持所有圓周點的距離。"
+              },
+              {
+                "points": 4,
+                "criterion": "保持圓心位置2分、保持中心到筆端距離4公分2分。"
+              }
+            ]
+          },
+          "id": "g3s1-mathematics-final-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-mathematics-11"
+          ],
+          "prompt": "有人按四個粗框說「只標了一塊，所以是1/4」，這樣對嗎，為什麼？改用相同細格說標記是幾個單位分數、共幾分之幾，並說分母的根據。未標部分是幾分之幾？",
+          "stimulus": "原整條有8個等大的細格。粗框卻依序圈2格、1格、3格、2格，分成四個不等大的區塊。標記的是第4、5、6格，也就是第三個粗框。每個細格都是同一整條的一份。",
+          "responseLines": 5,
+          "answer": {
+            "value": "不能稱1/4，因四個粗框不等大。標了3個1/8，共3/8；分母8依據整條8個相同細格。未標5/8。",
+            "explanation": "等分條件要看真正相同的單位；粗框數四個不能取代細格的等大證據。本題不用量長或算面積。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "否定粗框1/4判法。"
+              },
+              {
+                "points": 2,
+                "criterion": "理由四粗框大小不同，沒有四等分。"
+              },
+              {
+                "points": 2,
+                "criterion": "正確說標3個1/8。"
+              },
+              {
+                "points": 2,
+                "criterion": "標記分數3/8。"
+              },
+              {
+                "points": 2,
+                "criterion": "說分母8來自原整條8個等大細格。"
+              },
+              {
+                "points": 2,
+                "criterion": "未標5/8。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 590 160\" role=\"img\" aria-label=\"一整條有8個相等細格；粗框依序圈第1至2格、第3格、第4至6格、第7至8格，共四塊，大小依序2、1、3、2格。標記第4、5、6格。\"><title>一整條有8個相等細格；粗框依序圈第1至2格、第3格、第4至6格、第7至8格，共四塊，大小依序2、1、3、2格。標記第4、5、6格。</title><text x=\"24\" y=\"26\" font-size=\"19\" text-anchor=\"start\" fill=\"#14382e\">細格：8格等大；粗框：4塊不等大</text><rect x=\"70\" y=\"55\" width=\"55\" height=\"40\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"97.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">1</text><rect x=\"125\" y=\"55\" width=\"55\" height=\"40\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"152.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">2</text><rect x=\"180\" y=\"55\" width=\"55\" height=\"40\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"207.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">3</text><rect x=\"235\" y=\"55\" width=\"55\" height=\"40\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"262.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">4</text><rect x=\"290\" y=\"55\" width=\"55\" height=\"40\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"317.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">5</text><rect x=\"345\" y=\"55\" width=\"55\" height=\"40\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"372.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">6</text><rect x=\"400\" y=\"55\" width=\"55\" height=\"40\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"427.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">7</text><rect x=\"455\" y=\"55\" width=\"55\" height=\"40\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"482.5\" y=\"127\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">8</text><line x1=\"70\" y1=\"51\" x2=\"70\" y2=\"99\" stroke=\"#234c40\" stroke-width=\"5\"/><line x1=\"180\" y1=\"51\" x2=\"180\" y2=\"99\" stroke=\"#234c40\" stroke-width=\"5\"/><line x1=\"235\" y1=\"51\" x2=\"235\" y2=\"99\" stroke=\"#234c40\" stroke-width=\"5\"/><line x1=\"400\" y1=\"51\" x2=\"400\" y2=\"99\" stroke=\"#234c40\" stroke-width=\"5\"/><line x1=\"510\" y1=\"51\" x2=\"510\" y2=\"99\" stroke=\"#234c40\" stroke-width=\"5\"/></svg>",
+          "id": "g3s1-mathematics-final-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-mathematics-12"
+          ],
+          "prompt": "依順序記錄：第一次借出占原盒幾分之幾？退回後，仍借在外面和盒內各占幾分之幾？再借出2張後，外面和盒內各占幾分之幾？最後說明退回1張是原盒多少，以及為何分母不改。本題每個分數請按原盒6個等份、以分母6記錄，不必約分。",
+          "stimulus": "原盒6張卡，一張對應上排連續紙條一個等份。第一次借出4張；其中1張退回盒內；接著從盒內另借出2張。沒有遺失，所有分數都以原來6張一盒作1。圖中先標第一次借出的4張。",
+          "responseLines": 6,
+          "answer": {
+            "value": "第一次借4/6盒。退1張後外3/6、內3/6。再借2張後外5/6、內1/6。退1張是原盒1/6；分母仍是原盒6張的等分數。",
+            "explanation": "每次只是同一原整體的份在盒內與盒外移動，外加內仍等於6/6；退一張不是退一整盒。若學生另寫正確等值分數，只要同時用圖、口述或文字呈現原盒六份中有幾份的證據，即按相同規準給分；不要求或另教約分方法。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "第一次4/6盒。"
+              },
+              {
+                "points": 4,
+                "criterion": "退回後外3/6、內3/6，各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "再借後外5/6、內1/6，各2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "退1張是原盒1/6，不是1整盒。"
+              },
+              {
+                "points": 2,
+                "criterion": "說整體始終是原盒6張，只移動份數而不改分母。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 580 260\" role=\"img\" aria-label=\"第一次借出原盒6張中的4張。上排完整紙條6等份，下排6張一盒，每張對應一格；標記第1、2、3、4格／張。圖畫在完整紙面。\"><title>第一次借出原盒6張中的4張。上排完整紙條6等份，下排6張一盒，每張對應一格；標記第1、2、3、4格／張。圖畫在完整紙面。</title><text x=\"30\" y=\"27\" font-size=\"19\" text-anchor=\"start\" fill=\"#14382e\">上排：一整條分6等份</text><text x=\"30\" y=\"230\" font-size=\"19\" text-anchor=\"start\" fill=\"#14382e\">下排：原來一盒6張，逐格對應</text><rect x=\"50\" y=\"48\" width=\"80\" height=\"32\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><line x1=\"90\" y1=\"84\" x2=\"90\" y2=\"142\" stroke=\"#234c40\" stroke-width=\"2\"/><rect x=\"66\" y=\"152\" width=\"48\" height=\"42\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"90\" y=\"181\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">1</text><rect x=\"130\" y=\"48\" width=\"80\" height=\"32\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><line x1=\"170\" y1=\"84\" x2=\"170\" y2=\"142\" stroke=\"#234c40\" stroke-width=\"2\"/><rect x=\"146\" y=\"152\" width=\"48\" height=\"42\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"170\" y=\"181\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">2</text><rect x=\"210\" y=\"48\" width=\"80\" height=\"32\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><line x1=\"250\" y1=\"84\" x2=\"250\" y2=\"142\" stroke=\"#234c40\" stroke-width=\"2\"/><rect x=\"226\" y=\"152\" width=\"48\" height=\"42\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"250\" y=\"181\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">3</text><rect x=\"290\" y=\"48\" width=\"80\" height=\"32\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><line x1=\"330\" y1=\"84\" x2=\"330\" y2=\"142\" stroke=\"#234c40\" stroke-width=\"2\"/><rect x=\"306\" y=\"152\" width=\"48\" height=\"42\" fill=\"#b4d2c5\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"330\" y=\"181\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">4</text><rect x=\"370\" y=\"48\" width=\"80\" height=\"32\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><line x1=\"410\" y1=\"84\" x2=\"410\" y2=\"142\" stroke=\"#234c40\" stroke-width=\"2\"/><rect x=\"386\" y=\"152\" width=\"48\" height=\"42\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"410\" y=\"181\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">5</text><rect x=\"450\" y=\"48\" width=\"80\" height=\"32\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><line x1=\"490\" y1=\"84\" x2=\"490\" y2=\"142\" stroke=\"#234c40\" stroke-width=\"2\"/><rect x=\"466\" y=\"152\" width=\"48\" height=\"42\" fill=\"#ffffff\" stroke=\"#234c40\" stroke-width=\"2\"/><text x=\"490\" y=\"181\" font-size=\"18\" text-anchor=\"middle\" fill=\"#14382e\">6</text></svg>",
+          "id": "g3s1-mathematics-final-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s1-mathematics-13"
+          ],
+          "prompt": "補出甲乙第2、3次各有幾格。哪一次兩圖格數相同，各幾格？第4次乙比甲多幾格？有人說第三次相同，第四次就可交換兩個答案；這會符合原規則嗎？用兩個變化量說明。",
+          "stimulus": "兩條規則都只記「本次圖有幾格」，不累計各次：\n甲從18格開始，每次少3格；第1次18，第2次□，第3次□，第4次9。\n乙從6格開始，每次多3格；第1次6，第2次□，第3次□，第4次15。",
+          "responseLines": 6,
+          "answer": {
+            "value": "甲第2次15、第3次12；乙第2次9、第3次12。第3次都12格。第4次乙多15－9＝6格。不能交換：甲從12到15變多3而非少3，乙從12到9變少3而非多3。",
+            "explanation": "兩條規則偶然在同一格數相遇，不表示往後可以互換方向。每步須對照各自的增減規則。",
+            "scoring": [
+              {
+                "points": 8,
+                "criterion": "四個空格15、12、9、12各2分，對應正確圖及次數。"
+              },
+              {
+                "points": 2,
+                "criterion": "相同在第3次1分、共同12格1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "第4次乙多6格；差額1分、乙較多1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "判斷交換不符合規則。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出甲會錯成加3、乙會錯成減3，各1分。"
+              }
+            ]
+          },
+          "id": "g3s1-mathematics-final-c-q06"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "每題各自開始；題目要求的算式、理由與標示都要留下證據。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s1-mathematics-02",
+            "g3s1-mathematics-03"
+          ],
+          "prompt": "原方案和改方案各有多少張，哪個多、多幾張？寫計算。再不用重算全部，用「少了一批，另加30張」的想法核對差額。",
+          "stimulus": "原方案：每批208張，共4批。\n改方案：同樣每批208張，只做3批，另外再加30張。",
+          "responseLines": 5,
+          "answer": {
+            "value": "原208×4＝832張；改208×3＋30＝654張。原多178張。改方案少一批208而只補30，所以少208－30＝178。",
+            "explanation": "不同部分的總量不能直接用238乘3；最後30只加一次。全量差與局部變化差應一致。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "原方案關係208×4一分，數值832一分。"
+              },
+              {
+                "points": 3,
+                "criterion": "改方案關係208×3再加30兩分，數值654一分。"
+              },
+              {
+                "points": 2,
+                "criterion": "原較多1分、差178一分。"
+              },
+              {
+                "points": 3,
+                "criterion": "局部核對208－30兩分、結果178一分。"
+              }
+            ]
+          },
+          "id": "g3s1-mathematics-final-c-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s1-mathematics-06",
+            "g3s1-mathematics-07"
+          ],
+          "prompt": "這條紙帶夠不夠2公尺，差多少毫米？先換同單位再算。又有人說「1998各位數字相加是27，所以1998是奇數」，對嗎？用個位及整十配對理由說明。",
+          "stimulus": "紙帶標示1公尺99公分8毫米；需要2公尺。此標示是本題設定，不作實物測量。\n用毫米記，這條紙帶是1998毫米。奇偶題是在問整數1998這個數。",
+          "responseLines": 5,
+          "answer": {
+            "value": "2公尺＝2000毫米；紙帶1998毫米，不夠，差2毫米。1998是偶數，整十都可成對，個位8也能配完；各位數字和不是奇偶判準。",
+            "explanation": "先把長度換同單位比較；再只對整數的是否可兩兩配對分類，不把單位長度的性質誤當物件分類。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "需要長換2000毫米。"
+              },
+              {
+                "points": 2,
+                "criterion": "2000－1998＝2毫米；關係1分、差額1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "依自己數量一致判斷不夠，並說紙帶短於要求；兩者各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "否定錯誤判法且說1998是偶數；各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "整十可配完1分、個位8亦可配完1分。"
+              }
+            ]
+          },
+          "id": "g3s1-mathematics-final-c-q08"
+        }
+      ]
+    }
+  ]
+}
