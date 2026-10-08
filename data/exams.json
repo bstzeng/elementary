@@ -167,7 +167,13 @@
     "g3s1-english-midterm-c",
     "g3s1-english-final-a",
     "g3s1-english-final-b",
-    "g3s1-english-final-c"
+    "g3s1-english-final-c",
+    "g3s1-social-midterm-a",
+    "g3s1-social-midterm-b",
+    "g3s1-social-midterm-c",
+    "g3s1-social-final-a",
+    "g3s1-social-final-b",
+    "g3s1-social-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -331,7 +337,13 @@
     "g3s1-english-midterm-c": "e371b74a5c2ef42394459cea2918b89b37008f28090878cb341e7ee445afc4ca",
     "g3s1-english-final-a": "f1c3c3e49dc4c2e9eecd6e4bc366e23b8b234cdd6ed981d79de822ed408279eb",
     "g3s1-english-final-b": "0b11f48f61b5ded18a5ddd13d2a53986c9ceb10f410985e0f6787ffb75b85cb2",
-    "g3s1-english-final-c": "bdce26f5c501d6a11f4aceb0c6180b443cf7cdfce4a6d085932acc440d1e481e"
+    "g3s1-english-final-c": "bdce26f5c501d6a11f4aceb0c6180b443cf7cdfce4a6d085932acc440d1e481e",
+    "g3s1-social-midterm-a": "e090ad32d86474b4dcf928d5b07079ca39db3e5c4c1283d9a717ecb15444419e",
+    "g3s1-social-midterm-b": "93fe4e3c52ca1b6c2ada6da4044277e0f1f10189a9cc939fc83760900496e701",
+    "g3s1-social-midterm-c": "593aab0495e74488e88baf1444fbb153fa916dab7e9922b0325c74162416debb",
+    "g3s1-social-final-a": "414294f2871db0858a755510d62fbff2dfb87784169c18009ed82f920f13fb4e",
+    "g3s1-social-final-b": "c1fa56b7315e093878e054821f89b2004390ae6bd0909a99da2801a91e6f5ffc",
+    "g3s1-social-final-c": "a3046961cc94a2d1c09085d74530c833615d7e64221551b31265567a76b614aa"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -496,7 +508,13 @@
       "g3s1-english-midterm-c",
       "g3s1-english-final-a",
       "g3s1-english-final-b",
-      "g3s1-english-final-c"
+      "g3s1-english-final-c",
+      "g3s1-social-midterm-a",
+      "g3s1-social-midterm-b",
+      "g3s1-social-midterm-c",
+      "g3s1-social-final-a",
+      "g3s1-social-final-b",
+      "g3s1-social-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -1278,6 +1296,36 @@
         "sourceSha256": "8c20cf32704f87cf7d3df040dbde83f73656fc5855826cb4a4d75e32e98a846c",
         "observedCommit": "dea2d65d5522820b1ac9c5eee9bd6920c418e28c",
         "receiptSha256": "667855dc02492ebcad8060f14a3fa6389eda48acc4d23630ba1cce9eb989bc73"
+      },
+      "g3s1-english-midterm-a": {
+        "sourceSha256": "4e0eaea3c967df6edc0df8c9146be67e53aa1852931a804e5c1e94c034db1e8a",
+        "observedCommit": "00a2d27dc464262d101f3080c334b9d41cf21eca",
+        "receiptSha256": "6aba3b51b72ed75c492368a4702e239b3ba2222e7e2cf2b33f8314167a6a1df7"
+      },
+      "g3s1-english-midterm-b": {
+        "sourceSha256": "42f8035d672958301e9944e9278052ff634c2932d1e05cc5c02e8f7162268cd5",
+        "observedCommit": "00a2d27dc464262d101f3080c334b9d41cf21eca",
+        "receiptSha256": "6aba3b51b72ed75c492368a4702e239b3ba2222e7e2cf2b33f8314167a6a1df7"
+      },
+      "g3s1-english-midterm-c": {
+        "sourceSha256": "e371b74a5c2ef42394459cea2918b89b37008f28090878cb341e7ee445afc4ca",
+        "observedCommit": "00a2d27dc464262d101f3080c334b9d41cf21eca",
+        "receiptSha256": "6aba3b51b72ed75c492368a4702e239b3ba2222e7e2cf2b33f8314167a6a1df7"
+      },
+      "g3s1-english-final-a": {
+        "sourceSha256": "f1c3c3e49dc4c2e9eecd6e4bc366e23b8b234cdd6ed981d79de822ed408279eb",
+        "observedCommit": "00a2d27dc464262d101f3080c334b9d41cf21eca",
+        "receiptSha256": "6aba3b51b72ed75c492368a4702e239b3ba2222e7e2cf2b33f8314167a6a1df7"
+      },
+      "g3s1-english-final-b": {
+        "sourceSha256": "0b11f48f61b5ded18a5ddd13d2a53986c9ceb10f410985e0f6787ffb75b85cb2",
+        "observedCommit": "00a2d27dc464262d101f3080c334b9d41cf21eca",
+        "receiptSha256": "6aba3b51b72ed75c492368a4702e239b3ba2222e7e2cf2b33f8314167a6a1df7"
+      },
+      "g3s1-english-final-c": {
+        "sourceSha256": "bdce26f5c501d6a11f4aceb0c6180b443cf7cdfce4a6d085932acc440d1e481e",
+        "observedCommit": "00a2d27dc464262d101f3080c334b9d41cf21eca",
+        "receiptSha256": "6aba3b51b72ed75c492368a4702e239b3ba2222e7e2cf2b33f8314167a6a1df7"
       }
     },
     "pdfVerified": {
@@ -3709,6 +3757,96 @@
           "path": "pdf/g3s1-english-final-c-teacher.pdf",
           "sha256": "823777021dd794cee6436c947598a1ea75ba70e000c874b6d944010c7bb90082",
           "pages": 12
+        }
+      },
+      "g3s1-social-midterm-a": {
+        "sourceSha256": "e090ad32d86474b4dcf928d5b07079ca39db3e5c4c1283d9a717ecb15444419e",
+        "pageReview": "passed",
+        "receiptSha256": "511b24608c0c292e3a5ede236d797ad9e110e54d1c618b1f1d2e20a40e51e920",
+        "student": {
+          "path": "pdf/g3s1-social-midterm-a-student.pdf",
+          "sha256": "221c520aa2e51c883b478b046aa2e1ad77c38db98d2c53b90f7fc07c5f54b77e",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-social-midterm-a-teacher.pdf",
+          "sha256": "d496f9e28088736e29f30b41b9feedf558592bb911f4e0f2bddc58e1ae472580",
+          "pages": 9
+        }
+      },
+      "g3s1-social-midterm-b": {
+        "sourceSha256": "93fe4e3c52ca1b6c2ada6da4044277e0f1f10189a9cc939fc83760900496e701",
+        "pageReview": "passed",
+        "receiptSha256": "511b24608c0c292e3a5ede236d797ad9e110e54d1c618b1f1d2e20a40e51e920",
+        "student": {
+          "path": "pdf/g3s1-social-midterm-b-student.pdf",
+          "sha256": "f32e0e0111b62b4b52cc804364786ebae3e2abb6d3983a7b5add511becd263bb",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-social-midterm-b-teacher.pdf",
+          "sha256": "d589aa1b000fb4177be57210180c5006ba3db27b33d87bd063ec3ab2574bc067",
+          "pages": 8
+        }
+      },
+      "g3s1-social-midterm-c": {
+        "sourceSha256": "593aab0495e74488e88baf1444fbb153fa916dab7e9922b0325c74162416debb",
+        "pageReview": "passed",
+        "receiptSha256": "511b24608c0c292e3a5ede236d797ad9e110e54d1c618b1f1d2e20a40e51e920",
+        "student": {
+          "path": "pdf/g3s1-social-midterm-c-student.pdf",
+          "sha256": "cb04a0cbdf0df09de3753efa726811afe55ae28ead5252420f7a8d6ea9bf60f3",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-social-midterm-c-teacher.pdf",
+          "sha256": "fb86837e8549c2d4441b3eb413269d6d89819be860d52aaaa8c5dcdadc204b47",
+          "pages": 9
+        }
+      },
+      "g3s1-social-final-a": {
+        "sourceSha256": "414294f2871db0858a755510d62fbff2dfb87784169c18009ed82f920f13fb4e",
+        "pageReview": "passed",
+        "receiptSha256": "cabe9f88b9458ec43d2b17515ae5c5800168e6fbd78e7bcc1a9fb99287923c18",
+        "student": {
+          "path": "pdf/g3s1-social-final-a-student.pdf",
+          "sha256": "f816d1949492d998da413cd521abf1fc055098715a4423a6522568f20c205d60",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-social-final-a-teacher.pdf",
+          "sha256": "bcc23a99bbf00ffdf224ed2036e88f47961cef4e21bb0065517b47bc80d32220",
+          "pages": 11
+        }
+      },
+      "g3s1-social-final-b": {
+        "sourceSha256": "c1fa56b7315e093878e054821f89b2004390ae6bd0909a99da2801a91e6f5ffc",
+        "pageReview": "passed",
+        "receiptSha256": "cabe9f88b9458ec43d2b17515ae5c5800168e6fbd78e7bcc1a9fb99287923c18",
+        "student": {
+          "path": "pdf/g3s1-social-final-b-student.pdf",
+          "sha256": "530a27dc866a617151b05a4bac72902b31aaceb42da495c7ae3872a5521c632e",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-social-final-b-teacher.pdf",
+          "sha256": "c26c0865260d7dfcde8a89dc4ed440644b99f898ea712d2ce999ddffe64292da",
+          "pages": 10
+        }
+      },
+      "g3s1-social-final-c": {
+        "sourceSha256": "a3046961cc94a2d1c09085d74530c833615d7e64221551b31265567a76b614aa",
+        "pageReview": "passed",
+        "receiptSha256": "cabe9f88b9458ec43d2b17515ae5c5800168e6fbd78e7bcc1a9fb99287923c18",
+        "student": {
+          "path": "pdf/g3s1-social-final-c-student.pdf",
+          "sha256": "3f92dd5bf5b15f7efed312a780737649f23f5911df6fdb24e90d757cc7a277d2",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-social-final-c-teacher.pdf",
+          "sha256": "a962fa22869c37b775610b62c11ba6483c985cbb8cbb8d5f06f1b67f614ea007",
+          "pages": 11
         }
       }
     },
