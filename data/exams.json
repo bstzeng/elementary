@@ -155,7 +155,13 @@
     "g3s1-mathematics-midterm-c",
     "g3s1-mathematics-final-a",
     "g3s1-mathematics-final-b",
-    "g3s1-mathematics-final-c"
+    "g3s1-mathematics-final-c",
+    "g3s1-mandarin-midterm-a",
+    "g3s1-mandarin-midterm-b",
+    "g3s1-mandarin-midterm-c",
+    "g3s1-mandarin-final-a",
+    "g3s1-mandarin-final-b",
+    "g3s1-mandarin-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -307,7 +313,13 @@
     "g3s1-mathematics-midterm-c": "36e442e3333ede5f597c0cfd72ff8dc94e3fb6bf2082a1864149b0d2686c5600",
     "g3s1-mathematics-final-a": "a2bcc174bcafb7fb82295d4c398df33ed820af8e31292b970e1081d1e243a8fd",
     "g3s1-mathematics-final-b": "d80cb8e6c6d38b4d26eb06e334604cc1353ed34704def9437caedac9f65d6c19",
-    "g3s1-mathematics-final-c": "fa7289125f651a1d8f4ed2a27325dd48688a20e31e44fd203b42690675613a39"
+    "g3s1-mathematics-final-c": "fa7289125f651a1d8f4ed2a27325dd48688a20e31e44fd203b42690675613a39",
+    "g3s1-mandarin-midterm-a": "cd46ea3d42ab046f338eee779a55fdfd39e825ca8f709658c1935be38bad8f2a",
+    "g3s1-mandarin-midterm-b": "2d2e70333c653788ec4ea5f85032952149301e1c659186322da9239a685918ea",
+    "g3s1-mandarin-midterm-c": "315b9a93521cbc0cc5935af44df07a210cf652d70e18e5d9449cb4e30a11f677",
+    "g3s1-mandarin-final-a": "d9f5f90f98bad49c77138dbfa46b47742a4b340f663913f0119c1332df7a8675",
+    "g3s1-mandarin-final-b": "a9d53ad4c805243e8465ff220d791d4385106cddb925ddab71018271c763ea56",
+    "g3s1-mandarin-final-c": "8c20cf32704f87cf7d3df040dbde83f73656fc5855826cb4a4d75e32e98a846c"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -460,7 +472,13 @@
       "g3s1-mathematics-midterm-c",
       "g3s1-mathematics-final-a",
       "g3s1-mathematics-final-b",
-      "g3s1-mathematics-final-c"
+      "g3s1-mathematics-final-c",
+      "g3s1-mandarin-midterm-a",
+      "g3s1-mandarin-midterm-b",
+      "g3s1-mandarin-midterm-c",
+      "g3s1-mandarin-final-a",
+      "g3s1-mandarin-final-b",
+      "g3s1-mandarin-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -1182,6 +1200,36 @@
         "sourceSha256": "0a1f58f7e439576b18b5be5efeb1295bbc9b77111288185c228214e2e4add59e",
         "observedCommit": "88e18aa1dbb0d86301a468490d85f6fcf7fa90ac",
         "receiptSha256": "befc4d376f9a1fd200b9d0dc883b239278ee1c079a5b8d69f13982fda759ddaf"
+      },
+      "g3s1-mathematics-midterm-a": {
+        "sourceSha256": "a022ded9beb629f6a76a1e775cf12e44b331cb4fa71fb428971e552246922fc7",
+        "observedCommit": "e6bc4e379c7b67debfca44ade135a092d4fcb7b2",
+        "receiptSha256": "afb79cbe78872e099f3997d0612ba3d93f1aefb0d9e5ea9ff61ebf714fdd5ea2"
+      },
+      "g3s1-mathematics-midterm-b": {
+        "sourceSha256": "4715adb456c2e887ee5c9695199a3a91b420be25e7bba6054af4649d851e9121",
+        "observedCommit": "e6bc4e379c7b67debfca44ade135a092d4fcb7b2",
+        "receiptSha256": "afb79cbe78872e099f3997d0612ba3d93f1aefb0d9e5ea9ff61ebf714fdd5ea2"
+      },
+      "g3s1-mathematics-midterm-c": {
+        "sourceSha256": "36e442e3333ede5f597c0cfd72ff8dc94e3fb6bf2082a1864149b0d2686c5600",
+        "observedCommit": "e6bc4e379c7b67debfca44ade135a092d4fcb7b2",
+        "receiptSha256": "afb79cbe78872e099f3997d0612ba3d93f1aefb0d9e5ea9ff61ebf714fdd5ea2"
+      },
+      "g3s1-mathematics-final-a": {
+        "sourceSha256": "a2bcc174bcafb7fb82295d4c398df33ed820af8e31292b970e1081d1e243a8fd",
+        "observedCommit": "e6bc4e379c7b67debfca44ade135a092d4fcb7b2",
+        "receiptSha256": "afb79cbe78872e099f3997d0612ba3d93f1aefb0d9e5ea9ff61ebf714fdd5ea2"
+      },
+      "g3s1-mathematics-final-b": {
+        "sourceSha256": "d80cb8e6c6d38b4d26eb06e334604cc1353ed34704def9437caedac9f65d6c19",
+        "observedCommit": "e6bc4e379c7b67debfca44ade135a092d4fcb7b2",
+        "receiptSha256": "afb79cbe78872e099f3997d0612ba3d93f1aefb0d9e5ea9ff61ebf714fdd5ea2"
+      },
+      "g3s1-mathematics-final-c": {
+        "sourceSha256": "fa7289125f651a1d8f4ed2a27325dd48688a20e31e44fd203b42690675613a39",
+        "observedCommit": "e6bc4e379c7b67debfca44ade135a092d4fcb7b2",
+        "receiptSha256": "afb79cbe78872e099f3997d0612ba3d93f1aefb0d9e5ea9ff61ebf714fdd5ea2"
       }
     },
     "pdfVerified": {
@@ -3433,6 +3481,96 @@
           "path": "pdf/g3s1-mathematics-final-c-teacher.pdf",
           "sha256": "5bf3ea16a193a0bd62073742554a3f45ae489e2cee8d20b0e48470f32421e3aa",
           "pages": 10
+        }
+      },
+      "g3s1-mandarin-midterm-a": {
+        "sourceSha256": "cd46ea3d42ab046f338eee779a55fdfd39e825ca8f709658c1935be38bad8f2a",
+        "pageReview": "passed",
+        "receiptSha256": "5b069ecab1060c115f4a7d23540f8cd628f43a75bfad7c9d107cb1b301e63d18",
+        "student": {
+          "path": "pdf/g3s1-mandarin-midterm-a-student.pdf",
+          "sha256": "caf61a97d9c54794313f63c97f33b1f2d81e6dc2063c5c8a0a0a85c32e1ad8ea",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-mandarin-midterm-a-teacher.pdf",
+          "sha256": "2dfe731594cd29a5572fca13bc4dd9cb52429f26c71064177808a848431632a5",
+          "pages": 11
+        }
+      },
+      "g3s1-mandarin-midterm-b": {
+        "sourceSha256": "2d2e70333c653788ec4ea5f85032952149301e1c659186322da9239a685918ea",
+        "pageReview": "passed",
+        "receiptSha256": "5b069ecab1060c115f4a7d23540f8cd628f43a75bfad7c9d107cb1b301e63d18",
+        "student": {
+          "path": "pdf/g3s1-mandarin-midterm-b-student.pdf",
+          "sha256": "8cebf0ffcb9e02f7b778baae4f1908c1bc7aff5e4e6c1162d18b2cf59ef6b726",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-mandarin-midterm-b-teacher.pdf",
+          "sha256": "a719ac3be14d6754e4c73370e7f0cbbe6e4d8c5ada173a5b2eedac3c286599f3",
+          "pages": 11
+        }
+      },
+      "g3s1-mandarin-midterm-c": {
+        "sourceSha256": "315b9a93521cbc0cc5935af44df07a210cf652d70e18e5d9449cb4e30a11f677",
+        "pageReview": "passed",
+        "receiptSha256": "5b069ecab1060c115f4a7d23540f8cd628f43a75bfad7c9d107cb1b301e63d18",
+        "student": {
+          "path": "pdf/g3s1-mandarin-midterm-c-student.pdf",
+          "sha256": "a0e0d46c4b041834c529d60d50637afc5c9eb3d49ef95821692bb11e3cae36ce",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-mandarin-midterm-c-teacher.pdf",
+          "sha256": "cc118959bf0eafe6474f1535db2515c94098947fec5882314c3f70ae6d70ff76",
+          "pages": 12
+        }
+      },
+      "g3s1-mandarin-final-a": {
+        "sourceSha256": "d9f5f90f98bad49c77138dbfa46b47742a4b340f663913f0119c1332df7a8675",
+        "pageReview": "passed",
+        "receiptSha256": "c7d4d931d4b596917e020c9e244d269d59782c1301fbada384a98190fe7de193",
+        "student": {
+          "path": "pdf/g3s1-mandarin-final-a-student.pdf",
+          "sha256": "08f7c0241491b6475d459906f36e89e4174a6793c0deec16e8079cb3449a4f32",
+          "pages": 10
+        },
+        "teacher": {
+          "path": "pdf/g3s1-mandarin-final-a-teacher.pdf",
+          "sha256": "0e42ffacc12329073603b189d91362fe29e25c25dc27f8a522eb791665b5cb10",
+          "pages": 12
+        }
+      },
+      "g3s1-mandarin-final-b": {
+        "sourceSha256": "a9d53ad4c805243e8465ff220d791d4385106cddb925ddab71018271c763ea56",
+        "pageReview": "passed",
+        "receiptSha256": "c7d4d931d4b596917e020c9e244d269d59782c1301fbada384a98190fe7de193",
+        "student": {
+          "path": "pdf/g3s1-mandarin-final-b-student.pdf",
+          "sha256": "528ff26e7bba737ba7b6998f5971056da8790344d6afbdf3db9cac6538f487e3",
+          "pages": 10
+        },
+        "teacher": {
+          "path": "pdf/g3s1-mandarin-final-b-teacher.pdf",
+          "sha256": "d6041600efa851f6d32c18b33ea9a66d012ace1fe7ef62079fde05281796efc5",
+          "pages": 12
+        }
+      },
+      "g3s1-mandarin-final-c": {
+        "sourceSha256": "8c20cf32704f87cf7d3df040dbde83f73656fc5855826cb4a4d75e32e98a846c",
+        "pageReview": "passed",
+        "receiptSha256": "c7d4d931d4b596917e020c9e244d269d59782c1301fbada384a98190fe7de193",
+        "student": {
+          "path": "pdf/g3s1-mandarin-final-c-student.pdf",
+          "sha256": "787a2bdd20821ebacfa8c1b8f0429e87b9ddf499d8ab8fae2613eea11c18beae",
+          "pages": 10
+        },
+        "teacher": {
+          "path": "pdf/g3s1-mandarin-final-c-teacher.pdf",
+          "sha256": "ab76ebdfe984f7e2912948bade5972e948ea86f5b2d146284e5c0ed3de9a7dec",
+          "pages": 11
         }
       }
     },
