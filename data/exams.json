@@ -179,7 +179,13 @@
     "g3s1-science-midterm-c",
     "g3s1-science-final-a",
     "g3s1-science-final-b",
-    "g3s1-science-final-c"
+    "g3s1-science-final-c",
+    "g3s1-arts-midterm-a",
+    "g3s1-arts-midterm-b",
+    "g3s1-arts-midterm-c",
+    "g3s1-arts-final-a",
+    "g3s1-arts-final-b",
+    "g3s1-arts-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -355,7 +361,13 @@
     "g3s1-science-midterm-c": "04ad6ee037d3b9614887541925a8f56fe7065bd6a425dcd6eba3171c0e24d8e8",
     "g3s1-science-final-a": "38c4cc19c6920d3ee2a42917ead787aad7eab83a0b0e9dbd67837d85812bf923",
     "g3s1-science-final-b": "ccef46920cf0efa805bdca1b669b83f6dd47b8e32163d1ebd498746ec9f3b198",
-    "g3s1-science-final-c": "24281e098f2ee56bdb2427e540646590c33c98b9097194443d7651479faa8119"
+    "g3s1-science-final-c": "24281e098f2ee56bdb2427e540646590c33c98b9097194443d7651479faa8119",
+    "g3s1-arts-midterm-a": "7984b524719c2d05a5e5c47c47d2e1226cf3ed4f9dacb27a701c73e5e68132c5",
+    "g3s1-arts-midterm-b": "b44c3b4383b7985c74368863bc032c534b7d7e22edde454718c6febbd0a55d78",
+    "g3s1-arts-midterm-c": "08440431d1953eca2219d7a5f94efbb425d091d40e3d12e4f9096a740a2cc260",
+    "g3s1-arts-final-a": "68e1058931bb66a3ddf28da8cf75a7c387761be73c0a216288fcc586534238f3",
+    "g3s1-arts-final-b": "c1814cc8cf07ed33bb31aba324e9ae5f73897592847a76717c487a8988080b87",
+    "g3s1-arts-final-c": "e2b5af697401d08f0539be8925a9de9991cfedf8980fde832cd2fa625c99e500"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -532,7 +544,13 @@
       "g3s1-science-midterm-c",
       "g3s1-science-final-a",
       "g3s1-science-final-b",
-      "g3s1-science-final-c"
+      "g3s1-science-final-c",
+      "g3s1-arts-midterm-a",
+      "g3s1-arts-midterm-b",
+      "g3s1-arts-midterm-c",
+      "g3s1-arts-final-a",
+      "g3s1-arts-final-b",
+      "g3s1-arts-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -1374,6 +1392,36 @@
         "sourceSha256": "a3046961cc94a2d1c09085d74530c833615d7e64221551b31265567a76b614aa",
         "observedCommit": "64092c8e4730bb48d4cff83cdc772d86cce69372",
         "receiptSha256": "0c04e746a7d02fc704af793703b600ef64a6b9b6097da0b138b2adbea08825ed"
+      },
+      "g3s1-science-midterm-a": {
+        "sourceSha256": "57c740b256accc3885dc0bca5eadd5d7c437ece8284efb6461321af4b43ffc1c",
+        "observedCommit": "a7af5e78bc8cd1a63410e48056711c5c640a26e6",
+        "receiptSha256": "9eec29fd9acaabe3c7adf1adbd7a853715400b9c6521b80f060fd64aa56072de"
+      },
+      "g3s1-science-midterm-b": {
+        "sourceSha256": "1a1456b0dffc49bdaab52fe1fdf0576be8061aa0c6118ac3ef31653da9d7e410",
+        "observedCommit": "a7af5e78bc8cd1a63410e48056711c5c640a26e6",
+        "receiptSha256": "9eec29fd9acaabe3c7adf1adbd7a853715400b9c6521b80f060fd64aa56072de"
+      },
+      "g3s1-science-midterm-c": {
+        "sourceSha256": "04ad6ee037d3b9614887541925a8f56fe7065bd6a425dcd6eba3171c0e24d8e8",
+        "observedCommit": "a7af5e78bc8cd1a63410e48056711c5c640a26e6",
+        "receiptSha256": "9eec29fd9acaabe3c7adf1adbd7a853715400b9c6521b80f060fd64aa56072de"
+      },
+      "g3s1-science-final-a": {
+        "sourceSha256": "38c4cc19c6920d3ee2a42917ead787aad7eab83a0b0e9dbd67837d85812bf923",
+        "observedCommit": "a7af5e78bc8cd1a63410e48056711c5c640a26e6",
+        "receiptSha256": "9eec29fd9acaabe3c7adf1adbd7a853715400b9c6521b80f060fd64aa56072de"
+      },
+      "g3s1-science-final-b": {
+        "sourceSha256": "ccef46920cf0efa805bdca1b669b83f6dd47b8e32163d1ebd498746ec9f3b198",
+        "observedCommit": "a7af5e78bc8cd1a63410e48056711c5c640a26e6",
+        "receiptSha256": "9eec29fd9acaabe3c7adf1adbd7a853715400b9c6521b80f060fd64aa56072de"
+      },
+      "g3s1-science-final-c": {
+        "sourceSha256": "24281e098f2ee56bdb2427e540646590c33c98b9097194443d7651479faa8119",
+        "observedCommit": "a7af5e78bc8cd1a63410e48056711c5c640a26e6",
+        "receiptSha256": "9eec29fd9acaabe3c7adf1adbd7a853715400b9c6521b80f060fd64aa56072de"
       }
     },
     "pdfVerified": {
@@ -3985,6 +4033,96 @@
           "path": "pdf/g3s1-science-final-c-teacher.pdf",
           "sha256": "632e0848c9308f4961d09a4c4f4ee78a61cd4a71e10f973639562be2e9fdefaf",
           "pages": 9
+        }
+      },
+      "g3s1-arts-midterm-a": {
+        "sourceSha256": "7984b524719c2d05a5e5c47c47d2e1226cf3ed4f9dacb27a701c73e5e68132c5",
+        "pageReview": "passed",
+        "receiptSha256": "9fc7c6b487406645513f8abb9c9d3fd1809526ba9fe362f9895aa3e3ee71044b",
+        "student": {
+          "path": "pdf/g3s1-arts-midterm-a-student.pdf",
+          "sha256": "7c56744bbc967d263415b0e1ba13261966ffc531938344b78ef808c6eb8a2f23",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-arts-midterm-a-teacher.pdf",
+          "sha256": "c2ec49e5034b3e353763584166fce1b73f30fd49838a2178667a8a6ab72c82c0",
+          "pages": 13
+        }
+      },
+      "g3s1-arts-midterm-b": {
+        "sourceSha256": "b44c3b4383b7985c74368863bc032c534b7d7e22edde454718c6febbd0a55d78",
+        "pageReview": "passed",
+        "receiptSha256": "9fc7c6b487406645513f8abb9c9d3fd1809526ba9fe362f9895aa3e3ee71044b",
+        "student": {
+          "path": "pdf/g3s1-arts-midterm-b-student.pdf",
+          "sha256": "291384a0eaf2860a49af82061421eafa1e8a715716249634b5a56e76dc242861",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-arts-midterm-b-teacher.pdf",
+          "sha256": "156052e2359b49335967146e129c6688c5db26483be670f19ecaf04d9b4ad731",
+          "pages": 13
+        }
+      },
+      "g3s1-arts-midterm-c": {
+        "sourceSha256": "08440431d1953eca2219d7a5f94efbb425d091d40e3d12e4f9096a740a2cc260",
+        "pageReview": "passed",
+        "receiptSha256": "9fc7c6b487406645513f8abb9c9d3fd1809526ba9fe362f9895aa3e3ee71044b",
+        "student": {
+          "path": "pdf/g3s1-arts-midterm-c-student.pdf",
+          "sha256": "2e2b58e1358dbc649496bc7a8459e4a7f52559d5df896856d1b023d5c8b18389",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-arts-midterm-c-teacher.pdf",
+          "sha256": "1d177710de61c6413308a2103ee67a296aad84ff8cd93c588c606205c8b5a44f",
+          "pages": 13
+        }
+      },
+      "g3s1-arts-final-a": {
+        "sourceSha256": "68e1058931bb66a3ddf28da8cf75a7c387761be73c0a216288fcc586534238f3",
+        "pageReview": "passed",
+        "receiptSha256": "9fc7c6b487406645513f8abb9c9d3fd1809526ba9fe362f9895aa3e3ee71044b",
+        "student": {
+          "path": "pdf/g3s1-arts-final-a-student.pdf",
+          "sha256": "4ddab0060ed3ab2cfe799310013249958fc81e6e08b74b771f88e67724c0ba6a",
+          "pages": 7
+        },
+        "teacher": {
+          "path": "pdf/g3s1-arts-final-a-teacher.pdf",
+          "sha256": "c82fc0e6cd35cde57c1b5c52af2572a93aae903916f3329b524470c837d79ede",
+          "pages": 16
+        }
+      },
+      "g3s1-arts-final-b": {
+        "sourceSha256": "c1814cc8cf07ed33bb31aba324e9ae5f73897592847a76717c487a8988080b87",
+        "pageReview": "passed",
+        "receiptSha256": "9fc7c6b487406645513f8abb9c9d3fd1809526ba9fe362f9895aa3e3ee71044b",
+        "student": {
+          "path": "pdf/g3s1-arts-final-b-student.pdf",
+          "sha256": "e308f60ebe5948eefcab3f89e4eae2d6218be2f9a3e6bd9565c246cf6529679f",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-arts-final-b-teacher.pdf",
+          "sha256": "9bc027be5e05ef8b678f091e5eca9687c54db3c57c5516b3b669659e239f8b7f",
+          "pages": 16
+        }
+      },
+      "g3s1-arts-final-c": {
+        "sourceSha256": "e2b5af697401d08f0539be8925a9de9991cfedf8980fde832cd2fa625c99e500",
+        "pageReview": "passed",
+        "receiptSha256": "9fc7c6b487406645513f8abb9c9d3fd1809526ba9fe362f9895aa3e3ee71044b",
+        "student": {
+          "path": "pdf/g3s1-arts-final-c-student.pdf",
+          "sha256": "c14ff1aa361e0d3fc4688c44bd0f77da639a53cd2ba30ff4e9081dad9d670ca9",
+          "pages": 7
+        },
+        "teacher": {
+          "path": "pdf/g3s1-arts-final-c-teacher.pdf",
+          "sha256": "bae71ae9c103b98cecc2a4d5a5f93a59b02a7762fbbe1c6fdf821f4d93deedb6",
+          "pages": 16
         }
       }
     },
