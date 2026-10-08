@@ -185,7 +185,13 @@
     "g3s1-arts-midterm-c",
     "g3s1-arts-final-a",
     "g3s1-arts-final-b",
-    "g3s1-arts-final-c"
+    "g3s1-arts-final-c",
+    "g3s1-integrated-midterm-a",
+    "g3s1-integrated-midterm-b",
+    "g3s1-integrated-midterm-c",
+    "g3s1-integrated-final-a",
+    "g3s1-integrated-final-b",
+    "g3s1-integrated-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -367,7 +373,13 @@
     "g3s1-arts-midterm-c": "08440431d1953eca2219d7a5f94efbb425d091d40e3d12e4f9096a740a2cc260",
     "g3s1-arts-final-a": "68e1058931bb66a3ddf28da8cf75a7c387761be73c0a216288fcc586534238f3",
     "g3s1-arts-final-b": "c1814cc8cf07ed33bb31aba324e9ae5f73897592847a76717c487a8988080b87",
-    "g3s1-arts-final-c": "e2b5af697401d08f0539be8925a9de9991cfedf8980fde832cd2fa625c99e500"
+    "g3s1-arts-final-c": "e2b5af697401d08f0539be8925a9de9991cfedf8980fde832cd2fa625c99e500",
+    "g3s1-integrated-midterm-a": "4829496aae5fcc95d970b9a90b6e2cbabe5cd826614c3ebe911fa7e8f93e680f",
+    "g3s1-integrated-midterm-b": "550bdf6fb4f44163c60d94a52112df9600908c25788bd33f10d296f80293045e",
+    "g3s1-integrated-midterm-c": "7722527de088280b5373e95a4b7de7c4985058d67ea78a1d76281a9f2fa874f2",
+    "g3s1-integrated-final-a": "6a48a3b90211a545124be71e3e9f8ea524dccde7bd9a6c16191bf1510b63d452",
+    "g3s1-integrated-final-b": "1d2ec5d387590b50a7ea2ed7670662f9713ed96d00f619a9e858516c91cb551c",
+    "g3s1-integrated-final-c": "ba425fb62d6302e145b27f581dbe06a4e8c5904d43a4c9361b66600b135a8f48"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -550,7 +562,13 @@
       "g3s1-arts-midterm-c",
       "g3s1-arts-final-a",
       "g3s1-arts-final-b",
-      "g3s1-arts-final-c"
+      "g3s1-arts-final-c",
+      "g3s1-integrated-midterm-a",
+      "g3s1-integrated-midterm-b",
+      "g3s1-integrated-midterm-c",
+      "g3s1-integrated-final-a",
+      "g3s1-integrated-final-b",
+      "g3s1-integrated-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -1422,6 +1440,36 @@
         "sourceSha256": "24281e098f2ee56bdb2427e540646590c33c98b9097194443d7651479faa8119",
         "observedCommit": "a7af5e78bc8cd1a63410e48056711c5c640a26e6",
         "receiptSha256": "9eec29fd9acaabe3c7adf1adbd7a853715400b9c6521b80f060fd64aa56072de"
+      },
+      "g3s1-arts-midterm-a": {
+        "sourceSha256": "7984b524719c2d05a5e5c47c47d2e1226cf3ed4f9dacb27a701c73e5e68132c5",
+        "observedCommit": "d912df1a25f6e6414c631d640af696a2309f2d1e",
+        "receiptSha256": "a6ab8651a6386a43c8592213bc8f3a8dadb6335a64bfd44e3e0796e7bfe5a9f6"
+      },
+      "g3s1-arts-midterm-b": {
+        "sourceSha256": "b44c3b4383b7985c74368863bc032c534b7d7e22edde454718c6febbd0a55d78",
+        "observedCommit": "d912df1a25f6e6414c631d640af696a2309f2d1e",
+        "receiptSha256": "a6ab8651a6386a43c8592213bc8f3a8dadb6335a64bfd44e3e0796e7bfe5a9f6"
+      },
+      "g3s1-arts-midterm-c": {
+        "sourceSha256": "08440431d1953eca2219d7a5f94efbb425d091d40e3d12e4f9096a740a2cc260",
+        "observedCommit": "d912df1a25f6e6414c631d640af696a2309f2d1e",
+        "receiptSha256": "a6ab8651a6386a43c8592213bc8f3a8dadb6335a64bfd44e3e0796e7bfe5a9f6"
+      },
+      "g3s1-arts-final-a": {
+        "sourceSha256": "68e1058931bb66a3ddf28da8cf75a7c387761be73c0a216288fcc586534238f3",
+        "observedCommit": "d912df1a25f6e6414c631d640af696a2309f2d1e",
+        "receiptSha256": "a6ab8651a6386a43c8592213bc8f3a8dadb6335a64bfd44e3e0796e7bfe5a9f6"
+      },
+      "g3s1-arts-final-b": {
+        "sourceSha256": "c1814cc8cf07ed33bb31aba324e9ae5f73897592847a76717c487a8988080b87",
+        "observedCommit": "d912df1a25f6e6414c631d640af696a2309f2d1e",
+        "receiptSha256": "a6ab8651a6386a43c8592213bc8f3a8dadb6335a64bfd44e3e0796e7bfe5a9f6"
+      },
+      "g3s1-arts-final-c": {
+        "sourceSha256": "e2b5af697401d08f0539be8925a9de9991cfedf8980fde832cd2fa625c99e500",
+        "observedCommit": "d912df1a25f6e6414c631d640af696a2309f2d1e",
+        "receiptSha256": "a6ab8651a6386a43c8592213bc8f3a8dadb6335a64bfd44e3e0796e7bfe5a9f6"
       }
     },
     "pdfVerified": {
@@ -4123,6 +4171,96 @@
           "path": "pdf/g3s1-arts-final-c-teacher.pdf",
           "sha256": "bae71ae9c103b98cecc2a4d5a5f93a59b02a7762fbbe1c6fdf821f4d93deedb6",
           "pages": 16
+        }
+      },
+      "g3s1-integrated-midterm-a": {
+        "sourceSha256": "4829496aae5fcc95d970b9a90b6e2cbabe5cd826614c3ebe911fa7e8f93e680f",
+        "pageReview": "passed",
+        "receiptSha256": "b2b58d40ab1f3aed9b9c4d4a695052c44bfa9f705994dfb6fcd0e05a905f6770",
+        "student": {
+          "path": "pdf/g3s1-integrated-midterm-a-student.pdf",
+          "sha256": "9ea016d3b1075c07ac930db3cb7c064c7cbdea50abea27318753b7f5ace14f62",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-integrated-midterm-a-teacher.pdf",
+          "sha256": "20dc75fe3ada4212e41f4e7957e6a0043a969da19fe9a8e67216dc27f8065bf7",
+          "pages": 17
+        }
+      },
+      "g3s1-integrated-midterm-b": {
+        "sourceSha256": "550bdf6fb4f44163c60d94a52112df9600908c25788bd33f10d296f80293045e",
+        "pageReview": "passed",
+        "receiptSha256": "b2b58d40ab1f3aed9b9c4d4a695052c44bfa9f705994dfb6fcd0e05a905f6770",
+        "student": {
+          "path": "pdf/g3s1-integrated-midterm-b-student.pdf",
+          "sha256": "184bf141050ff3f2eb10813db2d99fa5255d26b9db99d16d2eca0456682ef96a",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-integrated-midterm-b-teacher.pdf",
+          "sha256": "e74180d87a22dc61852558c4b7276f235e395cd3abb4f9e383ee5dbe8a2a9b99",
+          "pages": 17
+        }
+      },
+      "g3s1-integrated-midterm-c": {
+        "sourceSha256": "7722527de088280b5373e95a4b7de7c4985058d67ea78a1d76281a9f2fa874f2",
+        "pageReview": "passed",
+        "receiptSha256": "b2b58d40ab1f3aed9b9c4d4a695052c44bfa9f705994dfb6fcd0e05a905f6770",
+        "student": {
+          "path": "pdf/g3s1-integrated-midterm-c-student.pdf",
+          "sha256": "76ea065dfa06fc69a7025fca6401d5463990223111116921d741ca2e3e986edf",
+          "pages": 6
+        },
+        "teacher": {
+          "path": "pdf/g3s1-integrated-midterm-c-teacher.pdf",
+          "sha256": "90005a18dad09ab46de2c1ab69d069513f4d5c1f87fbd15c9bc69a6beeae6460",
+          "pages": 17
+        }
+      },
+      "g3s1-integrated-final-a": {
+        "sourceSha256": "6a48a3b90211a545124be71e3e9f8ea524dccde7bd9a6c16191bf1510b63d452",
+        "pageReview": "passed",
+        "receiptSha256": "4d9c875f3919a8cf6b06a8986eaedd0cb53106c50a06517e4300d30b47bb87c3",
+        "student": {
+          "path": "pdf/g3s1-integrated-final-a-student.pdf",
+          "sha256": "b72afe686265cd602ee32f26480671fecc60e196990e66e899537e152ea3cef3",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-integrated-final-a-teacher.pdf",
+          "sha256": "e1c4e2fe9f272fd5ffee935caf309acf428c676a15395e26219eddb2d56739ab",
+          "pages": 27
+        }
+      },
+      "g3s1-integrated-final-b": {
+        "sourceSha256": "1d2ec5d387590b50a7ea2ed7670662f9713ed96d00f619a9e858516c91cb551c",
+        "pageReview": "passed",
+        "receiptSha256": "4d9c875f3919a8cf6b06a8986eaedd0cb53106c50a06517e4300d30b47bb87c3",
+        "student": {
+          "path": "pdf/g3s1-integrated-final-b-student.pdf",
+          "sha256": "15c8f23bf071af692cfb5a004bb16150fcc0273308c42d26dbfe60e69505d0ef",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-integrated-final-b-teacher.pdf",
+          "sha256": "ca16f87f6219f1df03e73e08897ead733187366c226583e61e24d81cc1ca417a",
+          "pages": 25
+        }
+      },
+      "g3s1-integrated-final-c": {
+        "sourceSha256": "ba425fb62d6302e145b27f581dbe06a4e8c5904d43a4c9361b66600b135a8f48",
+        "pageReview": "passed",
+        "receiptSha256": "4d9c875f3919a8cf6b06a8986eaedd0cb53106c50a06517e4300d30b47bb87c3",
+        "student": {
+          "path": "pdf/g3s1-integrated-final-c-student.pdf",
+          "sha256": "c7ab0d2c8964f6f99929e99915ab6dafe89b7f9111b17308db51bd561cfe5c23",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-integrated-final-c-teacher.pdf",
+          "sha256": "a9cdcd2cbc074f1363638e59eb891cfa027aa9b0e689d627b492ad77d65c5a6c",
+          "pages": 23
         }
       }
     },
