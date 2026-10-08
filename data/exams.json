@@ -161,7 +161,13 @@
     "g3s1-mandarin-midterm-c",
     "g3s1-mandarin-final-a",
     "g3s1-mandarin-final-b",
-    "g3s1-mandarin-final-c"
+    "g3s1-mandarin-final-c",
+    "g3s1-english-midterm-a",
+    "g3s1-english-midterm-b",
+    "g3s1-english-midterm-c",
+    "g3s1-english-final-a",
+    "g3s1-english-final-b",
+    "g3s1-english-final-c"
   ],
   "sourceHashes": {
     "g1s1-life-final-a": "8706bd9e9ae4cf249cbfdc0871f7406661a5d3de81c4c167a2bd2a886befb2b2",
@@ -319,7 +325,13 @@
     "g3s1-mandarin-midterm-c": "315b9a93521cbc0cc5935af44df07a210cf652d70e18e5d9449cb4e30a11f677",
     "g3s1-mandarin-final-a": "d9f5f90f98bad49c77138dbfa46b47742a4b340f663913f0119c1332df7a8675",
     "g3s1-mandarin-final-b": "a9d53ad4c805243e8465ff220d791d4385106cddb925ddab71018271c763ea56",
-    "g3s1-mandarin-final-c": "8c20cf32704f87cf7d3df040dbde83f73656fc5855826cb4a4d75e32e98a846c"
+    "g3s1-mandarin-final-c": "8c20cf32704f87cf7d3df040dbde83f73656fc5855826cb4a4d75e32e98a846c",
+    "g3s1-english-midterm-a": "4e0eaea3c967df6edc0df8c9146be67e53aa1852931a804e5c1e94c034db1e8a",
+    "g3s1-english-midterm-b": "42f8035d672958301e9944e9278052ff634c2932d1e05cc5c02e8f7162268cd5",
+    "g3s1-english-midterm-c": "e371b74a5c2ef42394459cea2918b89b37008f28090878cb341e7ee445afc4ca",
+    "g3s1-english-final-a": "f1c3c3e49dc4c2e9eecd6e4bc366e23b8b234cdd6ed981d79de822ed408279eb",
+    "g3s1-english-final-b": "0b11f48f61b5ded18a5ddd13d2a53986c9ceb10f410985e0f6787ffb75b85cb2",
+    "g3s1-english-final-c": "bdce26f5c501d6a11f4aceb0c6180b443cf7cdfce4a6d085932acc440d1e481e"
   },
   "verification": {
     "contentReviewedFormIds": [
@@ -478,7 +490,13 @@
       "g3s1-mandarin-midterm-c",
       "g3s1-mandarin-final-a",
       "g3s1-mandarin-final-b",
-      "g3s1-mandarin-final-c"
+      "g3s1-mandarin-final-c",
+      "g3s1-english-midterm-a",
+      "g3s1-english-midterm-b",
+      "g3s1-english-midterm-c",
+      "g3s1-english-final-a",
+      "g3s1-english-final-b",
+      "g3s1-english-final-c"
     ],
     "htmlVerified": {
       "g1s1-life-final-a": {
@@ -1230,6 +1248,36 @@
         "sourceSha256": "fa7289125f651a1d8f4ed2a27325dd48688a20e31e44fd203b42690675613a39",
         "observedCommit": "e6bc4e379c7b67debfca44ade135a092d4fcb7b2",
         "receiptSha256": "afb79cbe78872e099f3997d0612ba3d93f1aefb0d9e5ea9ff61ebf714fdd5ea2"
+      },
+      "g3s1-mandarin-midterm-a": {
+        "sourceSha256": "cd46ea3d42ab046f338eee779a55fdfd39e825ca8f709658c1935be38bad8f2a",
+        "observedCommit": "dea2d65d5522820b1ac9c5eee9bd6920c418e28c",
+        "receiptSha256": "667855dc02492ebcad8060f14a3fa6389eda48acc4d23630ba1cce9eb989bc73"
+      },
+      "g3s1-mandarin-midterm-b": {
+        "sourceSha256": "2d2e70333c653788ec4ea5f85032952149301e1c659186322da9239a685918ea",
+        "observedCommit": "dea2d65d5522820b1ac9c5eee9bd6920c418e28c",
+        "receiptSha256": "667855dc02492ebcad8060f14a3fa6389eda48acc4d23630ba1cce9eb989bc73"
+      },
+      "g3s1-mandarin-midterm-c": {
+        "sourceSha256": "315b9a93521cbc0cc5935af44df07a210cf652d70e18e5d9449cb4e30a11f677",
+        "observedCommit": "dea2d65d5522820b1ac9c5eee9bd6920c418e28c",
+        "receiptSha256": "667855dc02492ebcad8060f14a3fa6389eda48acc4d23630ba1cce9eb989bc73"
+      },
+      "g3s1-mandarin-final-a": {
+        "sourceSha256": "d9f5f90f98bad49c77138dbfa46b47742a4b340f663913f0119c1332df7a8675",
+        "observedCommit": "dea2d65d5522820b1ac9c5eee9bd6920c418e28c",
+        "receiptSha256": "667855dc02492ebcad8060f14a3fa6389eda48acc4d23630ba1cce9eb989bc73"
+      },
+      "g3s1-mandarin-final-b": {
+        "sourceSha256": "a9d53ad4c805243e8465ff220d791d4385106cddb925ddab71018271c763ea56",
+        "observedCommit": "dea2d65d5522820b1ac9c5eee9bd6920c418e28c",
+        "receiptSha256": "667855dc02492ebcad8060f14a3fa6389eda48acc4d23630ba1cce9eb989bc73"
+      },
+      "g3s1-mandarin-final-c": {
+        "sourceSha256": "8c20cf32704f87cf7d3df040dbde83f73656fc5855826cb4a4d75e32e98a846c",
+        "observedCommit": "dea2d65d5522820b1ac9c5eee9bd6920c418e28c",
+        "receiptSha256": "667855dc02492ebcad8060f14a3fa6389eda48acc4d23630ba1cce9eb989bc73"
       }
     },
     "pdfVerified": {
@@ -3571,6 +3619,96 @@
           "path": "pdf/g3s1-mandarin-final-c-teacher.pdf",
           "sha256": "ab76ebdfe984f7e2912948bade5972e948ea86f5b2d146284e5c0ed3de9a7dec",
           "pages": 11
+        }
+      },
+      "g3s1-english-midterm-a": {
+        "sourceSha256": "4e0eaea3c967df6edc0df8c9146be67e53aa1852931a804e5c1e94c034db1e8a",
+        "pageReview": "passed",
+        "receiptSha256": "bed3893564aeba08908721cb95c94381b8d7d41270ce497fbff1cad03a5981dd",
+        "student": {
+          "path": "pdf/g3s1-english-midterm-a-student.pdf",
+          "sha256": "1849feca6fccb5de9eddce2fb48d6d3ed60c307e6cb2865167ff3c3b0ff335cc",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-english-midterm-a-teacher.pdf",
+          "sha256": "f85f5029c3b35d437aeb522fee6395b6ead96f65e1a4eae3fde5eefe1a1919bf",
+          "pages": 10
+        }
+      },
+      "g3s1-english-midterm-b": {
+        "sourceSha256": "42f8035d672958301e9944e9278052ff634c2932d1e05cc5c02e8f7162268cd5",
+        "pageReview": "passed",
+        "receiptSha256": "bed3893564aeba08908721cb95c94381b8d7d41270ce497fbff1cad03a5981dd",
+        "student": {
+          "path": "pdf/g3s1-english-midterm-b-student.pdf",
+          "sha256": "c419b5523facb21b49e2cfd6ed1a6cf7db7c6b2e28c3d0e70b7e00a3e895b460",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-english-midterm-b-teacher.pdf",
+          "sha256": "b122ef7326bb61c55dfa79defe96e0a1cf2aa97dfcac28e2d0c232dba6003b40",
+          "pages": 10
+        }
+      },
+      "g3s1-english-midterm-c": {
+        "sourceSha256": "e371b74a5c2ef42394459cea2918b89b37008f28090878cb341e7ee445afc4ca",
+        "pageReview": "passed",
+        "receiptSha256": "bed3893564aeba08908721cb95c94381b8d7d41270ce497fbff1cad03a5981dd",
+        "student": {
+          "path": "pdf/g3s1-english-midterm-c-student.pdf",
+          "sha256": "d9943f50f0f75d3bdc73d6dddd149e090d504f43b47a2d992c7937792a453c3b",
+          "pages": 8
+        },
+        "teacher": {
+          "path": "pdf/g3s1-english-midterm-c-teacher.pdf",
+          "sha256": "1eb13aadd6dcfe6c6fa3f45dae2a81cbb9254b6982eadcccab19cd7eab093fb3",
+          "pages": 10
+        }
+      },
+      "g3s1-english-final-a": {
+        "sourceSha256": "f1c3c3e49dc4c2e9eecd6e4bc366e23b8b234cdd6ed981d79de822ed408279eb",
+        "pageReview": "passed",
+        "receiptSha256": "bed3893564aeba08908721cb95c94381b8d7d41270ce497fbff1cad03a5981dd",
+        "student": {
+          "path": "pdf/g3s1-english-final-a-student.pdf",
+          "sha256": "36f32d5784bcf8a8e2d230ce8e45c81601f5ff43d9ce320e0db59464a3ac775e",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-english-final-a-teacher.pdf",
+          "sha256": "d0167795115edff4f18038b732daa9195dc45995690daa75e56fe075d7238199",
+          "pages": 12
+        }
+      },
+      "g3s1-english-final-b": {
+        "sourceSha256": "0b11f48f61b5ded18a5ddd13d2a53986c9ceb10f410985e0f6787ffb75b85cb2",
+        "pageReview": "passed",
+        "receiptSha256": "bed3893564aeba08908721cb95c94381b8d7d41270ce497fbff1cad03a5981dd",
+        "student": {
+          "path": "pdf/g3s1-english-final-b-student.pdf",
+          "sha256": "8785c1c835904256cf3b962c8cd398cb48812ffe96686c1142f3b20a61e1f909",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-english-final-b-teacher.pdf",
+          "sha256": "872055b7632b124653b88894c2505b4c33f4dde876e54af646ffebcb507ef06a",
+          "pages": 12
+        }
+      },
+      "g3s1-english-final-c": {
+        "sourceSha256": "bdce26f5c501d6a11f4aceb0c6180b443cf7cdfce4a6d085932acc440d1e481e",
+        "pageReview": "passed",
+        "receiptSha256": "bed3893564aeba08908721cb95c94381b8d7d41270ce497fbff1cad03a5981dd",
+        "student": {
+          "path": "pdf/g3s1-english-final-c-student.pdf",
+          "sha256": "0478d397dff46e5ae0357b4065bd34e020515ea2d2059053773a963c666d2ae3",
+          "pages": 9
+        },
+        "teacher": {
+          "path": "pdf/g3s1-english-final-c-teacher.pdf",
+          "sha256": "823777021dd794cee6436c947598a1ea75ba70e000c874b6d944010c7bb90082",
+          "pages": 12
         }
       }
     },
