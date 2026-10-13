@@ -1,0 +1,563 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s1-english-final-c",
+  "grade": 6,
+  "semester": 1,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "final",
+  "variant": "C",
+  "mode": "mixed-language",
+  "title": "小六上學期英語文・期末C卷",
+  "duration": "紙面建議35–45分鐘，真人聽說各5–10分鐘；可分日、休息及延長。設計估計，未經試測。",
+  "instructions": [
+    "先完成第1、2題，老師說可以才看紙面題。",
+    "一般角色是虛構，不用提供自己的作息、住址或飲食資料。",
+    "可休息或說尚未學過；未施測聽說會分開記錄。"
+  ],
+  "materials": [
+    "當前題指定的大紙卡、遮紙、鉛筆及空白紙；無需外找圖片或聲音。",
+    "完整教師讀稿及答案由教師分開保管。"
+  ],
+  "teacherNotes": [
+    "範圍依本館12課實際教材，不是全國統一進度。期中01–06；期末07–12恰80分、01–06回顧恰20分。A/B/C任務資料與判斷不同，未經試測或統計等值，不能當排名依據。",
+    "完整施測100分；僅報已觀察得分／已觀察滿分及未觀察分項，不補0、不比例換算。未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+    "聽說前須由合格英語教師私下逐字核對本卷所有完整讀稿、目標句與可接受變體，確認學生已學；填寫完整模型核對來源與頁次＿＿、核對日期＿＿、教師＿＿、已教□、能自然示範全部模型□。本卷沒有音檔，作者沒有驗聽；書面核對不能認證語音。第06、07課聽辨採合格教師核對的通用美式完整詞模型，其他口語接受可理解的標準變體。模型須在先前教學完成；本次先私下核對，不能在測驗前剛示範目標再稱獨立。無可靠模型或合格施測者則延期聽說，只做紙面題。不用中文諧音、未驗聽合成聲音或拼讀字母名稱替代詞音。",
+    "固定順序：第1題聽辨→第2題口語→其餘紙面。先收起所有後題、教師卷、答案與英語句卡；聽辨只出示當回合指定中文選卡，口語只出示當回合中文情境。兩個真人區塊全做完才給任何正誤回饋或英文模型。不得將本次完整目標、翻譯、示範發音或答案位置當暖身。已曝光後再遮住不能恢復獨立性，受影響分項記受提示／未觀察；平常已學則是先備條件。",
+    "每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。",
+    "聽辨每次收走上一回合選卡；不准先讀中文正解，不准特別暗示字音。選卡位置照逐試稿；同一代號可重複選，沒有排除或每項只能一次的規則。教師面部自然可見，不遮臉或蒙眼，不能稱完全沒有視覺線索。指卡或AAC可證明當次聽懂；成人念出英文選項或逐詞翻譯則另記有支持理解。",
+    "口語先中性讀中文任務，不先示範英文問答。評當次意思、可理解的完整句和題目明列的功能，不評音量、眼神、速度、膽量或單一口音。正常標準變體、縮寫或完整形式、正確自然句序等同給分。跟讀、成人代說或AAC發聲只記支持溝通，不認證學生本人的獨立語音。",
+    "紙面英文由學生認讀；成人可讀中文指示。代讀英文另記支持閱讀，不稱獨立閱讀。可指代號、AAC、打字、口述或忠實代筆；紙面字卡可輔助，須記錄；獨立聽說則不得出示英文句卡。代筆不等於獨立手寫。只有題面明列的拼字、大寫、空格或標點才計格式分；其他題不因字跡或偶發拼寫錯誤抹去可辨的意思。",
+    "評分只用題面明問資訊。中文或等義簡短理由、指向明確證據均可；未要求完整句的答案可用詞組、數字或清單得全分。要求完整句時，事實與句法分開，正確短語仍得事實分。單選矛盾多答僅該選擇子分0，清楚刪改依最後答；同義多答不扣。不要索取未問的理由。",
+    "本卷人物、活動、數量與紙卡皆為新編虛構資料；第11課文化事實只沿用已封存教材的有限官方介紹，不代表所有家庭。不要問真實住址、家庭、健康、宗教或飲食原因，不錄音錄影、不上傳。只用大紙卡、鉛筆、遮紙，不使用活體、食物、刀剪或外出。可休息、拒絕、求助。",
+    "本卷r控制母音、雙母音與語調紙題只是文字概念證據；不能代替真人聽辨、發音、聽寫或手寫筆順觀察。交通、作息和金額全為紙上模型，不實際出行或買賣，也不推論健康、國籍或法律身分。"
+  ],
+  "parallelDesign": "三卷均後半07–12共80分，前半01–06共20分。A重點為當週地點更新與先讀再選的條件；B比較跨週公告及多解流程新增條件；C排除下週公告干擾、修正終步並轉第三人稱。聽辨詞與口語情境不同，不主張統計等值。",
+  "blueprint": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 56,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "points": 20,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-07"
+          ],
+          "prompt": "聽老師逐回合念一個已學英文詞，在當次兩張中文意思卡中選出詞義。共三回合，每回合4分；可重聽同一詞一次，代號可以重複。",
+          "stimulus": "只看當回合的中文選卡，不看英文詞卡或拼寫分類表。",
+          "responseLines": 4,
+          "answer": {
+            "value": "第1回合乙；第2回合甲；第3回合乙",
+            "explanation": "每回合兩張中文卡都可能對應已教詞，必須聽當次整詞。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合選乙得4分；其餘已嘗試反應0分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合選甲得4分；其餘已嘗試反應0分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合選乙得4分；其餘已嘗試反應0分。"
+              }
+            ]
+          },
+          "teacher": "教師先私下確認所有整詞與詞義已教且完整通用美式模型可靠。只念英文，不念中文或代號：第1回合出示【甲 聲音；乙 城鎮】，自然念：town。 第2回合出示【甲 硬幣；乙 現在】，自然念：coin。 第3回合出示【甲 乳牛；乙 玩具】，自然念：toy。 每回合收前卡；聽辨全完成才做口語，兩區塊結束前不給回饋。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "詞義聽辨1",
+              "points": 4
+            },
+            {
+              "label": "詞義聽辨2",
+              "points": 4
+            },
+            {
+              "label": "詞義聽辨3",
+              "points": 4
+            }
+          ],
+          "id": "g6s1-english-final-c-q01"
+        }
+      ]
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-08",
+            "g6s1-english-11"
+          ],
+          "prompt": "每回合依老師的獨立中文角色任務，用完整英文句回答。第1回合更正自己物品的顏色，須保留物件、唯一物主是自己、正確顏色；第2回合說明指定物件與完整位置；第3回合依角色表達隱私界線或尊重界線並轉回閱讀卡。每回合4分。",
+          "stimulus": "只給中文情境，不給英文模型；每回合人物與物件各自獨立。",
+          "responseLines": 4,
+          "answer": {
+            "value": "My notebook is blue.；The pencil case is on the chair beside the door.；I would rather not say.",
+            "explanation": "看中文新情境選擇恰當英語，更正焦點在可理解的事實；不以音高曲線或腔調排名。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合：指定物件1分；唯一物主為說話者1分；正確更正顏色1分；自然完整英文句1分。My notebook is…／My pencil case is…或This green notebook is mine.等同義句都可，但物件、顏色須依當回合。our／ours／their／theirs不符合唯一物主，不得所有者分；其他正確子分保留。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合：物件1分；桌／架／椅位置1分；窗邊／門旁位置1分；自然完整英文句1分。by／beside／next to等同義位置表達可；物主未知，不要求或獎勵猜所有者。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合：表示保留隱私／不願回答的功能3分；自然完整英文句1分。I would rather keep that private.／I’d rather not say.／I do not want to share that.等都可；不要求說明私人原因。"
+              }
+            ]
+          },
+          "teacher": "收回聽辨卡，不回饋答案。每次只讀指定中文任務：第1回合：你扮演唯一物主，對方以為你的筆記本是黃色。用完整英文句更正：我的筆記本是藍色。要說明是自己的筆記本及正確顏色。 第2回合：獨立新情境：鉛筆盒物主未知。用完整英文句說鉛筆盒在門旁椅子上。只說物件與位置，不必猜物主。 第3回合：你扮演不願透露家庭習俗的虛構角色。用完整英文句表示不想說，不必提供原因。 教師私用模型（不可先念給學生）：My notebook is blue.；The pencil case is on the chair beside the door.；I would rather not say.。同義完整表達都可。只評可理解的物件、關係和完整句，不要求特定重音或音高。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "物主與顏色更正",
+              "points": 4
+            },
+            {
+              "label": "物件與完整位置",
+              "points": 4
+            },
+            {
+              "label": "隱私界線回應",
+              "points": 4
+            }
+          ],
+          "id": "g6s1-english-final-c-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "各題資料彼此獨立；按題目選、指、寫或說明。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-07"
+          ],
+          "prompt": "（1）依三則中文需求選詞並標目標字母組：紙卡上要寫「聲音」、「硬幣」、「玩具」。（2）如果有人把coin寫成coyn，理由是oi和oy屬本課同類，先答可／不可，再說明原因。（3）圈對字母組是否能證明已發出自然雙母音？",
+          "stimulus": "可選詞：coin、cow、toy、sound。只用大紙卡，不拿真硬幣或食物。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）sound—ou；coin—oi；toy—oy。（2）不可；模型同類不允許改單字慣用拼寫。（3）不能。",
+            "explanation": "詞義及字形各有根據，聲音同類不能任意改拼法。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "（1）三詞各1分、字母組各1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）不可1分；同類不等於拼法可換2分。"
+              },
+              {
+                "points": 1,
+                "criterion": "（3）不能1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-08"
+          ],
+          "prompt": "（1）這次更正重點是顏色還是物主？寫出正確的英文所有者詞。（2）將My pencil case is by the window.分成可理解語意組，可保持全句不切；保留my pencil case與the window完整。（3）說話較慢就一定傳達不清嗎？寫一項真正要觀察的表現。（4）本題未施測朗讀，聲音欄應寫已會還是未觀察？",
+          "stimulus": "虛構對話：\nTess: The green pencil case is mine.\nAli: No. It is mine. Your case is blue.\n本回合Ali才是綠盒物主。下題另給準備句My pencil case is by the window.，不把它當真實位置紀錄。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）物主；mine（由Ali說）。（2）My pencil case / is by the window.或My pencil case is / by the window.；全句不切亦可。（3）不一定；看意思是否可理解、詞句是否清楚或語意組連貫等。（4）未觀察。",
+            "explanation": "相同mine隨說話者指不同人；慢速不等於不清楚，文字不能冒充聲音。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "（1）物主1分；mine由Ali說1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）my pencil case不拆1分、the window不拆1分、整句或分組連貫且by接其位置1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）不一定1分；可理解度／清楚／語意組連貫任一1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "（4）未觀察1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-09"
+          ],
+          "prompt": "（1）用完整英文句寫本週六的活動地點及完整時段，保留下午。（2）用中文或英文概括活動主要目的。（3）A中的They指誰？（4）能否從6張卡推成6位參加者？指出6數的是什麼。（5）列出本週與平常相同的一項資料；任何有依據答案都可。",
+          "stimulus": "材料A：Our fictional class has a Comic Corner on Saturdays. Students read reviews and share ideas about comics. They can talk with a partner. The corner is usually in Room M from four to four thirty p.m. There are six review cards. Students do not have to bring comics from home.\n公告B：THIS SATURDAY: Use Room N from 4:00 to 4:30 p.m. Read reviews and share ideas as usual. Leave the six cards in Room N.\n公告C：NEXT SATURDAY: Use Room M from 4:15 to 4:45 p.m.\n詞庫：this本週；next下週；as usual照常。",
+          "responseLines": 5,
+          "answer": {
+            "value": "（1）This Saturday, the Comic Corner is in Room N from four to four thirty p.m.（2）閱讀書評並分享漫畫想法。（3）學生。（4）不能；6張書評卡。（5）星期六、4:00–4:30、30分鐘、6卡、讀書評、分享漫畫想法、不必自帶漫畫任一。",
+            "explanation": "本週不能挪用下週變更；地點更新，仍保留A與B適用事實。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "（1）Room N2分、4:00–4:30 p.m.2分、自然完整英文句1分；合理分句可。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）讀書評並分享漫畫想法／交流漫畫閱讀等主旨2分；只說閱讀而無交流意思1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）學生2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（4）不能1分；6張review cards2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（5）任一不變事實2分，完整接受模型所列全部及其他資料支持的等義答案。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-10"
+          ],
+          "prompt": "（1）依條件修復錯誤順序，寫正確字母排列，每張恰用一次、不漏卡。（2）Before you share, check the words.先check還是share？（3）用兩個完整英文句介紹女性角色Fia的第一步與最後一步，分別用First和Finally，注意第三人稱動詞。（4）只見這個流程，能否確認Fia已完成所有步驟？",
+          "stimulus": "紙卡寫作：L Choose a word card.；M Read the word.；N Write one sentence.；O Check the words.；P Share the sentence.\n完整條件：Choose before you read. Read before you write. Before you share, check the words. Check after you write.\n錯誤順序L→M→N→P→O。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）L→M→N→O→P。（2）先check。（3）First, Fia chooses a word card. Finally, she shares the sentence.（4）不能。",
+            "explanation": "檢查須在分享前；流程轉成角色敘述時改動詞形式，但不冒稱已做完。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "（1）完整L→M→N→O→P得3分；其他答案依L→M→N三步關係1分、N在O前1分、O在P前1分。每項涉及的卡須各只出現一次；重複、額外卡或漏卡使整段無效時，排列子題最多2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）check2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（3）第一步選字卡1分、First加Fia/she chooses完整句1分；最後分享句子1分、Finally加she/Fia shares完整句1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "（4）不能1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q06"
+        },
+        {
+          "kind": "short",
+          "points": 6,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-11"
+          ],
+          "prompt": "閱讀摘要後：（1）找出兩卡共同的一項目的，用一個完整英文句表達。（2）角色說I don’t celebrate either holiday.，能否把他判為不尊重文化？先答能／不能，再用中文說明一項尊重做法。",
+          "stimulus": "封存教材有限資料摘要：Japan賀卡可表達新年問候；Scotland的Hogmanay午夜後拜訪可帶象徵祝願的禮物。兩卡都在介紹部分迎接新年的方式，沒有說人人必須參與。\n角色與回覆為虛構，無須談你的家庭。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）Both cards describe ways to welcome a new year.／Both cards describe New Year wishes.（2）不能；尊重不參與或不分享，可改談閱讀資料，不追問私人原因。",
+            "explanation": "共同目的可有不同恰當說法；認識文化不強迫參與。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "（1）兩卡共同目的為新年祝願／迎接新年2分、自然完整英文句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）不能1分；尊重選擇、接受不分享、改談課內資料、不追問原因任一做法2分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q07"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-12"
+          ],
+          "prompt": "代虛構角色Emi用完整英文句寫一小段簡介，包含四項資料並維持第一人稱。至少一次用and，至少一次用it或them，指代對象要清楚。不要把下一步寫成已完成結果。",
+          "stimulus": "Emi卡：likes drawing pictures；usually draws pictures on weekends；can write one English sentence about a picture；next step: check that sentence。\n沒有說能寫長書或已經檢查完。",
+          "responseLines": 5,
+          "answer": {
+            "value": "I like drawing pictures, and I usually draw them on weekends. I can write one English sentence about a picture. My next step is to check it.",
+            "explanation": "them可接pictures、it可接sentence；next step仍是計畫。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "四事實各1分：喜歡畫圖、通常週末畫圖、能寫一句關於圖的英文、下一步檢查句子。"
+              },
+              {
+                "points": 1,
+                "criterion": "維持第一人稱I／my1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "完整自然句；like／draw、can write、next step is等結構適切1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "至少一處and連接相關內容1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "it或them至少一處指代清楚且數相合1分；不要求兩者皆有。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q08"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "instructions": "各題資料彼此獨立；按題目選、指、寫或說明。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s1-english-01",
+            "g6s1-english-02"
+          ],
+          "prompt": "前半回顧：（1）用英文地名詞組回答Where is Neri from?（2）用一個完整英文句寫他的上學方式。",
+          "stimulus": "虛構Neri：he；from the United States；lives now Japan；通常by bus上學。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）the United States。（2）He goes to school by bus.",
+            "explanation": "the保留在地名；交通資料不由現居地猜。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "（1）the United States或United States地名皆2分；本題只問地名，不另要求句型冠詞或完整句。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）上學1分、by bus1分、人稱相合且完整句goes1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q09"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s1-english-03"
+          ],
+          "prompt": "前半回顧：（1）用一個完整英文問句詢問Ari是否有時聽音樂。（2）若Ari說本週很忙，能否認定他不喜歡音樂？",
+          "stimulus": "要問的資料：Ari／sometimes／listen to music。未給喜好答案。",
+          "responseLines": 4,
+          "answer": {
+            "value": "Does Ari sometimes listen to music?；不能。",
+            "explanation": "listen to完整片語，忙碌時段不等於喜好否定。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）Ari1分、sometimes1分、listen to music1分、完整does問句且listen原形1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "（2）不能1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q10"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s1-english-04"
+          ],
+          "prompt": "前半回顧：用一個完整英文句寫Leni何時起床，保留早上；再判定是否能從起床時刻知道她睡了多久。",
+          "stimulus": "虛構Leni：get up 06:45，24小時制；無入睡資料。",
+          "responseLines": 4,
+          "answer": {
+            "value": "Leni gets up at six forty-five a.m.／a quarter to seven in the morning.；不能。",
+            "explanation": "數字與quarter形式同義；起床不能單獨給睡眠時長。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "起床活動1分、6:45時刻1分、早上1分、完整句且gets1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "不能知道睡多久1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q11"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s1-english-05",
+            "g6s1-english-06"
+          ],
+          "prompt": "前半回顧：（1）活動單Activity 1: read. Activity 2: share. Activity 3: choose. 用一個完整英文句說第二項活動。（2）詞curl的母音加r字母組為何？這題是否實際測發音？",
+          "stimulus": "全部印在紙上，沒有聲音。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）The second activity is sharing.／The second activity is to share.（2）ur；不是。",
+            "explanation": "序數指出位置；字形不能冒作實際發音。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "（1）分享活動1分、second1分、自然完整句1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）ur1分；不是發音施測1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-final-c-q12"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜國家名稱與來自哪裡",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-01.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜交通方式與上學路線",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-02.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜週末休閒活動",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-03.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜日常作息與時間",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-04.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜生活數字的不同用途",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-05.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜r控制母音的拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-06.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜雙母音音組辨識",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-07.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜句子語調與流暢朗讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-08.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜短文重點與資訊整合",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-09.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜活動順序的連貫表達",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-10.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜各地新年習俗與尊重差異",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-11.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜自己的生活簡介",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-12.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    }
+  ]
+}

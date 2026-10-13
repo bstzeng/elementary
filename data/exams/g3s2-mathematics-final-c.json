@@ -1,0 +1,465 @@
+{
+  "schemaVersion": 1,
+  "id": "g3s2-mathematics-final-c",
+  "grade": 3,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "C",
+  "mode": "written",
+  "title": "小三下學期數學・期末C卷",
+  "duration": "紙筆建議40–50分鐘；另安排約8–12分鐘個別操作。為設計估計，未經試測；可分段、延長或休息。",
+  "instructions": [
+    "每題資料獨立，請留下題目要求的算式、理由或圖示。",
+    "可以口述、指圖，請成人照你的意思記錄。圖是示意，按標示的數量作答。",
+    "紙筆90分，另10分要與老師實際操作；還沒操作就保留待觀察。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本參考主題，不是全國統一學期進度；先核對已教範圍。三卷原創平行設計，未經試測、常模化或統計等值檢驗。",
+    "可中性逐字朗讀、放大、給空白紙或位值表、依學生原話代寫；算式、位置和判斷由學生決定。不按速度、字體、美觀給分。",
+    "每條規準獨立給分；明列子分逐項計，未另分拆者符合得全條，否則0。空白、抄題及無相關證據0分。正確結果不自動獲得另問的方法或理由分。",
+    "前步算錯不重複扣後步關係或方法分；依自己前步一致推理可得相應方法分，指定數值分按標準結果。接受合理等效算式、圖解、口述及省略已明示重複單位，不限定因子順序。",
+    "二、三位數除以一位正整數；兩步題用分開算式，不考併式、連除、乘除混合。分數與結果不超過2，不要求約分或帶分數。小數限一位且不乘除。",
+    "所有圖為縮放模型；不拿尺量圖的印出尺寸。公升與公斤數均一位數；複名數只加減。時分加減無進退位，不做分秒複名數加減、跨日或日曆累計。",
+    "所有情境和數據虛構，不蒐集兒童姓名、身體量或個資。不需真交易、真水、提重物、刀剪或地面跳躍。",
+    "本卷90分紙筆、10分獨立操作。材料未備、拒做、未施測或無可靠觀察時，操作受影響子分記未觀察，不記0；不得把90分放大為100分，不補給操作分。完整嘗試而未達規準才得相應0分。記已觀察得分／已觀察上限及待觀察分，所有項目完成才記總分／100。",
+    "操作由成人預裁完整大卡，學生可決定並指示成人代移，記支援方式；只認證已觀察的決策與檢查，不聲稱獨立手技。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙、放大圖文或位值表",
+    "成人預裁的兩片全等大直角三角形與同尺度外框卡；尺寸及準備方法見操作題教師說明。"
+  ],
+  "parallelDesign": "三卷同配分：容量10、重量10、時間10、面積15、實際拼圖10、表格15、數線10及前半回顧20。A求容量缺口、經過時間與由起點加量；B追蹤出入水、結束時刻與端點差；C反求轉水量、起始時刻並修正格數。實作各含原框及新框、實際接邊與保量觀察；不能以紙筆答案等同操作。",
+  "sources": [
+    {
+      "title": "本館小三下數學15課原創教材",
+      "url": "https://bstzeng.github.io/elementary/#g3s2",
+      "note": "逐課核對release25保存JSON與HTML。前半01–08；後半09–14及number-line。期末80後半＋20回顧，13只作實際操作。"
+    },
+    {
+      "title": "教育部數學課綱正式發布頁及教材保存引註",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用教材已保存之官方附件31051印刷頁23–26引註；本次未重新擷取官方文件，不宣稱官方規定學期順序。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段理解與解題",
+      "points": 70,
+      "purpose": "依完整資料作答並留下數學證據。"
+    },
+    {
+      "id": "operation",
+      "title": "實際拼圖與觀察",
+      "points": 10,
+      "purpose": "依完整資料作答並留下數學證據。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "依完整資料作答並留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段理解與解題",
+      "instructions": "請按題目要求完成。",
+      "items": [
+        {
+          "id": "g3s2-mathematics-final-c-q01",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-09"
+          ],
+          "stimulus": "1公升容量的量杯，0到1000毫升分10等間隔；水面位於第5小間隔。另壺有1公升350毫升水。只作紙上計算。",
+          "prompt": "讀量杯水量。若要把量杯添滿，須從壺倒多少毫升？倒後壺內剩多少？",
+          "responseLines": 5,
+          "answer": {
+            "value": "杯內500毫升；須添500毫升；壺原1350毫升，剩850毫升。",
+            "explanation": "容量1000減現量500，是可添加量；壺量先統一1350再減500。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "杯內500毫升。"
+              },
+              {
+                "points": 2,
+                "criterion": "1000－500＝500，需添500。"
+              },
+              {
+                "points": 2,
+                "criterion": "壺量1350毫升。"
+              },
+              {
+                "points": 2,
+                "criterion": "1350－500的關係。"
+              },
+              {
+                "points": 2,
+                "criterion": "壺剩850毫升。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 320\" role=\"img\" aria-label=\"量杯容量1公升。0到1000毫升有10等間隔，每200毫升標數；水面位於5個小間隔高。\"><title>量杯容量1公升。0到1000毫升有10等間隔，每200毫升標數；水面位於5個小間隔高。</title><rect x=\"70\" y=\"40\" width=\"190\" height=\"220\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"72\" y=\"158.0\" width=\"186\" height=\"100.0\" fill=\"#bedbd3\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"245\" y1=\"258.0\" x2=\"280\" y2=\"258.0\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"290\" y=\"264.0\" font-size=\"17\" fill=\"#173d34\">0 mL</text><line x1=\"245\" y1=\"238.0\" x2=\"280\" y2=\"238.0\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"245\" y1=\"218.0\" x2=\"280\" y2=\"218.0\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"290\" y=\"224.0\" font-size=\"17\" fill=\"#173d34\">200 mL</text><line x1=\"245\" y1=\"198.0\" x2=\"280\" y2=\"198.0\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"245\" y1=\"178.0\" x2=\"280\" y2=\"178.0\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"290\" y=\"184.0\" font-size=\"17\" fill=\"#173d34\">400 mL</text><line x1=\"245\" y1=\"158.0\" x2=\"280\" y2=\"158.0\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"245\" y1=\"138.0\" x2=\"280\" y2=\"138.0\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"290\" y=\"144.0\" font-size=\"17\" fill=\"#173d34\">600 mL</text><line x1=\"245\" y1=\"118.0\" x2=\"280\" y2=\"118.0\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"245\" y1=\"98.0\" x2=\"280\" y2=\"98.0\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"290\" y=\"104.0\" font-size=\"17\" fill=\"#173d34\">800 mL</text><line x1=\"245\" y1=\"78.0\" x2=\"280\" y2=\"78.0\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"245\" y1=\"58.0\" x2=\"280\" y2=\"58.0\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"290\" y=\"64.0\" font-size=\"17\" fill=\"#173d34\">1000 mL</text><text x=\"55\" y=\"25\" font-size=\"20\" fill=\"#173d34\">容量1公升的教學量杯模型</text><text x=\"70\" y=\"293\" font-size=\"18\" fill=\"#173d34\">每小間隔100毫升；橫線為水面。</text></svg>"
+        },
+        {
+          "id": "g3s2-mathematics-final-c-q02",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-10"
+          ],
+          "stimulus": "空盒重240g，紙卡本身重1公斤70公克。若把它們一起放在已歸零的秤上，讀值穩定。",
+          "prompt": "換出紙卡公克數，求連盒的讀值，以公斤、公克再記一次。指出為何這次要加而非減。",
+          "responseLines": 5,
+          "answer": {
+            "value": "紙卡1070公克；1070＋240＝1310公克＝1公斤310公克；求包含盒與卡的合重須加。",
+            "explanation": "已知兩部分求全量，與已知連盒再扣盒的問題方向相反。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "1070公克。"
+              },
+              {
+                "points": 2,
+                "criterion": "用加240求連盒關係。"
+              },
+              {
+                "points": 2,
+                "criterion": "1310公克。"
+              },
+              {
+                "points": 2,
+                "criterion": "1公斤310公克。"
+              },
+              {
+                "points": 2,
+                "criterion": "因連盒包含紙卡及盒子，需合併兩部分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-final-c-q03",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-11"
+          ],
+          "stimulus": "同日上午，工作在10時48分結束，共經過1時25分。另一次觀察持續4分鐘，與工作無關。",
+          "prompt": "工作何時開始？寫計算。4分鐘等於幾秒？「1時25分」在這裡是時刻或時間量？",
+          "responseLines": 5,
+          "answer": {
+            "value": "上午9時23分；10－1＝9時，48－25＝23分。4分＝240秒；1時25分為時間量。",
+            "explanation": "由結束往回找開始，時分直接相減無退位；換秒用4份60。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "時差9。"
+              },
+              {
+                "points": 2,
+                "criterion": "分鐘23。"
+              },
+              {
+                "points": 2,
+                "criterion": "上午9時23分。"
+              },
+              {
+                "points": 3,
+                "criterion": "240秒。"
+              },
+              {
+                "points": 1,
+                "criterion": "時間量。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-final-c-q04",
+          "kind": "short",
+          "points": 15,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-12"
+          ],
+          "stimulus": "圖中每格代表1平方公分，灰卡三排依次覆蓋4、2、4格。另一張卡確定覆蓋7整格，並部分覆蓋另外2格；兩部分都大於0且小於一整格，沒有更多資料。",
+          "prompt": "求灰卡面積並說點數方法。另一卡能確定正好8平方公分嗎？寫必定成立的面積範圍與理由。 請以已知整格數作下界、整格與部分格全部算滿的格數作上界。",
+          "responseLines": 5,
+          "answer": {
+            "value": "灰卡10平方公分。另一卡大於7且小於9平方公分，可能8但不能確定正好8。 可接受教材式保守範圍：大於7且不超過9；這不是說面積正好等於上界。 同樣接受7≤面積≤9的保守閉範圍，無須另加端點不能取到的說明。",
+            "explanation": "4＋2＋4＝10；未知部分合量介於0和2，不能假設兩塊必為兩半格。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "10平方公分，數值3分單位1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "逐排4＋2＋4，排除白格、無重算。"
+              },
+              {
+                "points": 2,
+                "criterion": "不能確定剛好8；不把兩部分自動當兩半格。"
+              },
+              {
+                "points": 4,
+                "criterion": "以題目指定的自然格數界限給分：下界7得2分，上界9得2分。接受閉範圍「7≤面積≤9」或「至少7、至多9平方公分」；也接受更精確的開範圍或一端開、一端閉，只要涵蓋題設所有可能值且界限仍為7與9。不要求額外說明端點能否取到，不因使用閉範圍而扣分。可用中文、圖示或口述，不必使用不等號。"
+              },
+              {
+                "points": 2,
+                "criterion": "界限理由各1分：已有7整格支持下界；另外2個部分格即使全部算滿也至多2格，支持上界9。接受「合起來不超過2格」等保守而正確的說法，無須另說端點排除；若以每部分大於0且未滿1推得嚴格界限，同樣得分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 185\" role=\"img\" aria-label=\"面積模型：由上而下每排卡片覆蓋4、2、4整格；每格代表1平方公分。\"><title>面積模型：由上而下每排卡片覆蓋4、2、4整格；每格代表1平方公分。</title><text x=\"12\" y=\"26\" font-size=\"18\" fill=\"#173d34\">每格代表1平方公分；灰色為卡片，白色不屬於卡片。</text><rect x=\"85\" y=\"45\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"125\" y=\"45\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"165\" y=\"45\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"205\" y=\"45\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"85\" y=\"85\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"125\" y=\"85\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"165\" y=\"85\" width=\"40\" height=\"40\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"205\" y=\"85\" width=\"40\" height=\"40\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"85\" y=\"125\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"125\" y=\"125\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"165\" y=\"125\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/><rect x=\"205\" y=\"125\" width=\"40\" height=\"40\" fill=\"#bfd6ce\" stroke=\"#234d43\" stroke-width=\"2\"/></svg>"
+        },
+        {
+          "id": "g3s2-mathematics-final-c-q06",
+          "kind": "short",
+          "points": 15,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-14"
+          ],
+          "stimulus": "虛構卡片表，每卡只屬一類與一層。表全文：上層紅卡8、藍卡0；下層紅卡4、藍卡7。表旁有人把總量寫成20張。\n另一活動記錄：早段0次，中段未記錄，晚段5次。",
+          "prompt": "下層藍卡多少？下層合計多少？紅卡合計多少？核對20張是否正確，寫正確總量與算式。活動全天是否確定5次？說明。",
+          "responseLines": 5,
+          "answer": {
+            "value": "下藍7，下層11，紅卡12；總量應19，8＋0＋4＋7＝19，20錯。活動全天不能確定5次；中段未知，早段確定0。",
+            "explanation": "表內合計需從分項核對，不改分項去湊20；未知與0不同。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "下藍7。"
+              },
+              {
+                "points": 2,
+                "criterion": "下層11。"
+              },
+              {
+                "points": 2,
+                "criterion": "紅卡12。"
+              },
+              {
+                "points": 3,
+                "criterion": "指出20錯並給19；判斷1分，正確數值2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "正確不重數的合計式。"
+              },
+              {
+                "points": 2,
+                "criterion": "全天不能確定5次。"
+              },
+              {
+                "points": 2,
+                "criterion": "中段未知、早段確認無，各1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 174\" role=\"img\" aria-label=\"虛構卡片分層表（張）。位置：上層、紅卡：8、藍卡：0；位置：下層、紅卡：4、藍卡：7。\"><title>虛構卡片分層表（張）。位置：上層、紅卡：8、藍卡：0；位置：下層、紅卡：4、藍卡：7。</title><text x=\"15\" y=\"25\" font-size=\"19\" fill=\"#173d34\">虛構卡片分層表（張）</text><rect x=\"15\" y=\"42\" width=\"150\" height=\"39\" fill=\"#e0ece7\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"24\" y=\"68\" font-size=\"18\" fill=\"#173d34\">位置</text><rect x=\"165\" y=\"42\" width=\"105\" height=\"39\" fill=\"#e0ece7\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"174\" y=\"68\" font-size=\"18\" fill=\"#173d34\">紅卡</text><rect x=\"270\" y=\"42\" width=\"105\" height=\"39\" fill=\"#e0ece7\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"279\" y=\"68\" font-size=\"18\" fill=\"#173d34\">藍卡</text><rect x=\"15\" y=\"81\" width=\"150\" height=\"39\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"24\" y=\"107\" font-size=\"18\" fill=\"#173d34\">上層</text><rect x=\"165\" y=\"81\" width=\"105\" height=\"39\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"174\" y=\"107\" font-size=\"18\" fill=\"#173d34\">8</text><rect x=\"270\" y=\"81\" width=\"105\" height=\"39\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"279\" y=\"107\" font-size=\"18\" fill=\"#173d34\">0</text><rect x=\"15\" y=\"120\" width=\"150\" height=\"39\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"24\" y=\"146\" font-size=\"18\" fill=\"#173d34\">下層</text><rect x=\"165\" y=\"120\" width=\"105\" height=\"39\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"174\" y=\"146\" font-size=\"18\" fill=\"#173d34\">4</text><rect x=\"270\" y=\"120\" width=\"105\" height=\"39\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"279\" y=\"146\" font-size=\"18\" fill=\"#173d34\">7</text></svg>"
+        },
+        {
+          "id": "g3s2-mathematics-final-c-q07",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-number-line"
+          ],
+          "stimulus": "數線從0到500分10等間隔；P在第2個間隔刻度，Q在第7個。有人說P到Q向右走250格。",
+          "prompt": "求每格、P、Q的數值。P到Q增加多少？改正格數，說明250與格數的差別。",
+          "responseLines": 5,
+          "answer": {
+            "value": "每格50，P100、Q350；增加250，向右5格。250是數值增加量，每格50所以是5格。",
+            "explanation": "100＋250＝350，7－2＝5個間隔；不能把增加的數值當間隔數。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "每格50。"
+              },
+              {
+                "points": 2,
+                "criterion": "P100、Q350各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "增加250。"
+              },
+              {
+                "points": 2,
+                "criterion": "向右5格；方向1分，格數1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "每格50，因此250是5份50而非250格。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 155\" role=\"img\" aria-label=\"從0到500分10等間隔的數線；P在0右方第2個間隔的刻度；Q在0右方第7個間隔的刻度。\"><title>從0到500分10等間隔的數線；P在0右方第2個間隔的刻度；Q在0右方第7個間隔的刻度。</title><line x1=\"50\" y1=\"90\" x2=\"550\" y2=\"90\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"50\" y1=\"82\" x2=\"50\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"38\" y=\"126\" font-size=\"16\" fill=\"#173d34\">0</text><line x1=\"100\" y1=\"82\" x2=\"100\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"150\" y1=\"82\" x2=\"150\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"138\" y=\"126\" font-size=\"16\" fill=\"#173d34\">100</text><line x1=\"200\" y1=\"82\" x2=\"200\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"250\" y1=\"82\" x2=\"250\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"238\" y=\"126\" font-size=\"16\" fill=\"#173d34\">200</text><line x1=\"300\" y1=\"82\" x2=\"300\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"350\" y1=\"82\" x2=\"350\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"338\" y=\"126\" font-size=\"16\" fill=\"#173d34\">300</text><line x1=\"400\" y1=\"82\" x2=\"400\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"450\" y1=\"82\" x2=\"450\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"438\" y=\"126\" font-size=\"16\" fill=\"#173d34\">400</text><line x1=\"500\" y1=\"82\" x2=\"500\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><line x1=\"550\" y1=\"82\" x2=\"550\" y2=\"98\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"538\" y=\"126\" font-size=\"16\" fill=\"#173d34\">500</text><circle cx=\"150\" cy=\"90\" r=\"5\" fill=\"#173d34\"/><text x=\"140\" y=\"65\" font-size=\"18\" fill=\"#173d34\">P</text><circle cx=\"400\" cy=\"90\" r=\"5\" fill=\"#173d34\"/><text x=\"390\" y=\"65\" font-size=\"18\" fill=\"#173d34\">Q</text></svg>"
+        }
+      ]
+    },
+    {
+      "id": "operation",
+      "title": "實際拼圖與觀察",
+      "instructions": "請按題目要求完成。本節須有材料並實際操作；紙筆答案不能代替。",
+      "items": [
+        {
+          "id": "g3s2-mathematics-final-c-q05",
+          "kind": "performance",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-13"
+          ],
+          "stimulus": "甲的正方形外框中，教師將兩片分開，讓接縫有明顯空隙，至少一片超出外框。另備朝右尖的三角形乙框。\n請操作老師準備的實物，圖只幫辨認外框，不拿圖來量公分。",
+          "prompt": "實際修好甲，指出為何原來沒有填滿。再只用原兩片拼滿乙，指一條對準的接邊，檢查是否缺片、重疊或留縫。說明甲乙表面總量與理由。",
+          "responseLines": 5,
+          "answer": {
+            "value": "先移片對準，填滿甲且不超出；乙可讓短邊相接拼成朝右尖的三角形。外形改變但同兩片完整且不重疊，表面總量相同。",
+            "explanation": "實際用同兩片填滿兩個外框，才有重組與接縫檢查證據；較長或較尖的外形不能單獨證明面積較大。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "實際用原兩片完整填滿甲，無明顯重疊或缺口；使用兩片1分、填滿與對準1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "實際將原兩片拼滿乙：兩片保留1分、外邊吻合框1分、接邊無重疊及明顯空隙1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "在自己的實作中逐項檢查：片數未變1分、指出一條實際對準的接邊1分、檢查無重疊或縫隙1分；可指示成人依學生決定代移再自行檢查。"
+              },
+              {
+                "points": 2,
+                "criterion": "完成兩次實作後說兩者表面總量相同1分，以同兩片不增減且不重疊為理由1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 280\" role=\"img\" aria-label=\"甲為原12公分正方形外框；乙為成人提供的同尺度外框。兩片都是原正方形沿對角線所得的全等直角三角形，實物操作時保留完整外框供觸摸或指認；圖不供直接量尺寸。\"><title>甲為原12公分正方形外框；乙為成人提供的同尺度外框。兩片都是原正方形沿對角線所得的全等直角三角形，實物操作時保留完整外框供觸摸或指認；圖不供直接量尺寸。</title><text x=\"25\" y=\"27\" font-size=\"20\" fill=\"#173d34\">先拼回甲，再用同兩片填滿乙；可實際試。</text><rect x=\"65\" y=\"65\" width=\"84\" height=\"84\" fill=\"white\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"86\" y=\"183\" font-size=\"20\" fill=\"#173d34\">甲</text><polygon points=\"370,55 370,223 454,139\" fill=\"none\" stroke=\"#234d43\" stroke-width=\"2\"/><text x=\"428\" y=\"250\" font-size=\"20\" fill=\"#173d34\">乙</text></svg>",
+          "teacher": "事前用真尺畫12公分正方形，成人沿一條對角線預裁成兩片全等大直角三角形，處理紙邊，標甲片／乙片而不靠顏色辨認。另做12公分正方形完整外框及下述乙框，均用同一尺度；成人先實拼驗證能完全填滿，錯材、變形、缺片先更換。學生不用刀剪、膠或訂書針，可坐姿反覆平移、旋轉、翻面；也可指示成人逐步代移，選擇與檢查須由學生作，記操作者和支持。不得示範本題完整拼法後讓學生照抄；可中性重讀條件，不代選接邊。依觀察逐項給分，不以快慢、手穩、美醜評分。未備正確材料、未施測、拒做或缺可靠觀察，受影響子分記未觀察而非0；完整嘗試未符合才記0；不可由紙筆描述補算操作分。允許後補施測，未觀察前不報滿分100的總成績。乙框：依序連(0,0)、(0,24)、(12,12)回起點；兩片可為(0,0),(0,12),(12,12)及(0,12),(0,24),(12,12)，共用12公分短邊。預置空隙只為起始狀況，不示範修法。座標只供成人製材。",
+          "observationParts": [
+            {
+              "label": "證據1",
+              "points": 2
+            },
+            {
+              "label": "證據2",
+              "points": 3
+            },
+            {
+              "label": "證據3",
+              "points": 3
+            },
+            {
+              "label": "證據4",
+              "points": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "請按題目要求完成。",
+      "items": [
+        {
+          "id": "g3s2-mathematics-final-c-q08",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s2-mathematics-01",
+            "g3s2-mathematics-02",
+            "g3s2-mathematics-03"
+          ],
+          "stimulus": "625張完整卡平均放入6夾，各夾同樣多，餘卡留在桌上。",
+          "prompt": "最多每夾多少、餘多少？乘回加餘數驗算。有人說每夾104.1張，指出錯誤並說餘卡處理。",
+          "responseLines": 5,
+          "answer": {
+            "value": "625÷6＝104餘1；104×6＝624，624＋1＝625。每夾104張，桌上留1張，不能寫104.1張。",
+            "explanation": "餘1表示整批剩1，不是每夾多十分之一；本題卡不裁開且不作小數商。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "商104、餘1，商2分餘1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "乘回624加1回625。"
+              },
+              {
+                "points": 2,
+                "criterion": "否定104.1，維持每夾104張。"
+              },
+              {
+                "points": 3,
+                "criterion": "餘1是全批剩在桌上，不是每夾的小數部分；單位意思2分，留桌處理1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-final-c-q09",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s2-mathematics-05",
+            "g3s2-mathematics-06",
+            "g3s2-mathematics-07",
+            "g3s2-mathematics-08"
+          ],
+          "stimulus": "同長標準帶為1，各分7等份。甲10/7條、乙6/7條。另一條3公尺帶接上0.8公尺。",
+          "prompt": "比較甲乙並求差，用同樣小份說理由。另算接後長度，把3用一位小數表示，說明3的位值及總共幾個0.1公尺。",
+          "responseLines": 5,
+          "answer": {
+            "value": "10/7＞6/7，差4/7條，每份1/7。3.0＋0.8＝3.8公尺；3在個位代表3個一，共38個0.1公尺。",
+            "explanation": "小數點對齊讓3保持3公尺，不變成0.3；3個一換30小份，加8為38。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "比較＞且以同大1/7說明。"
+              },
+              {
+                "points": 2,
+                "criterion": "差4/7。"
+              },
+              {
+                "points": 3,
+                "criterion": "3.8公尺。"
+              },
+              {
+                "points": 3,
+                "criterion": "3.0及3在個位1分，38個0.1公尺2分。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

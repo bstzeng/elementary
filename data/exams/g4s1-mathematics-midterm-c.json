@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "g4s1-mathematics-midterm-c",
+  "grade": 4,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "C",
+  "mode": "written",
+  "title": "小四上學期數學・期中C卷",
+  "duration": "紙筆建議40–50分鐘，未經試測，可分段或延長。",
+  "instructions": [
+    "每題資料獨立。請留下題目指定的算式、理由及單位。",
+    "可口述、指圖或指示成人代筆，數學決定由你作。"
+  ],
+  "teacherNotes": [
+    "主題及上下學期分配為本館跨版本編輯參考，非全國統一進度。先核對已教內容。原創平行卷未經試測或統計等值檢驗。",
+    "可中性逐字朗讀、放大、給空白位值表或依學生原話代寫；學生決定算式、位置與理由。不以速度、字體或手部精細度評分。",
+    "各規準獨立計分，明列子分逐項給；未分拆的一條符合得全條，否則0。空白、抄題或無關作答0分。前步算錯不重複扣依該步一致推理的方法分，指定結果分按標準值。",
+    "接受等效算式、口述、圖解及合理方法；要求直式時須留下逐位計算證據。題幹已清楚標示的重複單位可省略；結論須能辨別所求量。開放答案所列只是例，不限唯一措辭。",
+    "數不超過一億；乘數至多三位，除數二位；併式限整數兩步，不用多層括號。分數保持小數字且不強制約分。小數限二位加減，不考小數乘除。",
+    "全部資料虛構，不蒐集兒童、家庭或位置資料。圖面單位不等於實物公分，不測量螢幕或印出圖的尺寸。幾何不要求內角和、勾股定理或全等判定。等腰採至少兩邊相等。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙或位值表"
+  ],
+  "parallelDesign": "C：搬位差量、尾零反例、商中零、連除交叉核查與雙向分數表示。",
+  "sources": [
+    {
+      "title": "本館小四上數學12課原創教材",
+      "url": "https://bstzeng.github.io/elementary/#g4s1",
+      "note": "核對release26保存JSON、HTML；01–06期中，07–12期末主題。"
+    },
+    {
+      "title": "教育部數學課綱正式發布頁及教材保存引註",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用各課保存附件31051印刷頁26–29引註，本次未重新擷取官方文件；不宣稱官方指定學期順序。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段解題",
+      "points": 100,
+      "purpose": "留下可核查的數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段解題",
+      "instructions": "按各題要求完成。",
+      "items": [
+        {
+          "id": "g4s1-mathematics-midterm-c-q01",
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-mathematics-01"
+          ],
+          "stimulus": "原數70802040中的8在十萬位。把8移到空的萬位，原十萬位補0，其餘數字不動。",
+          "prompt": "寫出移動後的數；寫出8原來與後來各代表的量；列式求整個數減少多少。再比較新數與7080040，說明哪個較大及位數理由。",
+          "responseLines": 7,
+          "answer": {
+            "value": "70082040；800000與80000；800000－80000＝720000；70082040＞7080040。",
+            "explanation": "新數八位，比較的另一數七位，最高非零位不同。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "70082040。"
+              },
+              {
+                "points": 4,
+                "criterion": "800000、80000各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "減法式及720000各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "新數較大2分、八位與七位的理由2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s1-mathematics-midterm-c-q02",
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-mathematics-02"
+          ],
+          "stimulus": "每大包160張圖卡，共250包。有人說兩數共三個末尾0，所以乘積恰好三個末尾0。",
+          "prompt": "先算160×25，再求160×250並寫單位；列式說明乘250如何用乘25的結果得到；判斷此人的說法，用你的結果解釋。",
+          "responseLines": 7,
+          "answer": {
+            "value": "160×25＝4000；4000×10＝40000張；說法錯，40000有四個末尾0。",
+            "explanation": "基本乘積還可產生零，不能只數因數尾零。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "4000。"
+              },
+              {
+                "points": 4,
+                "criterion": "40000張。"
+              },
+              {
+                "points": 4,
+                "criterion": "250＝25×10或等效理由與4000×10。"
+              },
+              {
+                "points": 4,
+                "criterion": "判錯2分、結果有四個末尾0證據2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s1-mathematics-midterm-c-q03",
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-mathematics-03"
+          ],
+          "stimulus": "用直式計算3216÷16。",
+          "prompt": "保留商中間的0與逐步相減；說明為什麼商十位要寫0；最後用乘法驗算。",
+          "responseLines": 7,
+          "answer": {
+            "value": "201；32－32＝0個百，帶下1成1個十，不足16個十，十位商0；帶下6成16，個位商1；16×201＝3216。",
+            "explanation": "省掉0成21會改變位值。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "商201。"
+              },
+              {
+                "points": 4,
+                "criterion": "先32減32、再處理1個十、最後16減16的直式步驟。"
+              },
+              {
+                "points": 4,
+                "criterion": "十位1個十不足16個十故商0，保留位置。"
+              },
+              {
+                "points": 4,
+                "criterion": "16×201＝3216。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s1-mathematics-midterm-c-q04",
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-mathematics-04"
+          ],
+          "stimulus": "144張卡平均分6盒，每盒再平均分4袋。",
+          "prompt": "列兩個分開算式，說明各步答案的單位；寫連除併式，保留逐次計算；另算總共幾袋，用總袋數檢查每袋張數。",
+          "responseLines": 7,
+          "answer": {
+            "value": "144÷6＝24（每盒24張）；24÷4＝6（每袋6張）；144÷6÷4＝24÷4＝6；6×4＝24袋，144÷24＝6張。",
+            "explanation": "每盒4袋不是總共4袋。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第一步及每盒24張。"
+              },
+              {
+                "points": 4,
+                "criterion": "第二步及每袋6張。"
+              },
+              {
+                "points": 4,
+                "criterion": "正確連除併式及等量記錄。"
+              },
+              {
+                "points": 4,
+                "criterion": "24袋2分、144÷24＝6檢查2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s1-mathematics-midterm-c-q05",
+          "kind": "short",
+          "points": 18,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-mathematics-05"
+          ],
+          "stimulus": "每條紙帶代表1且同長，平均分7份。甲取3又2/7條，乙取23/7條。",
+          "prompt": "把甲化成假分數，再比較甲乙並說明；將7/7及6/7分別命名為真分數或假分數，說出各自與1的關係；把23/7改回帶分數。",
+          "responseLines": 7,
+          "answer": {
+            "value": "甲23/7，甲＝乙；7/7是假分數且等於1；6/7是真分數且小於1；23/7＝3又2/7。",
+            "explanation": "3條先換21份，加2份得23份。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "23/7。"
+              },
+              {
+                "points": 4,
+                "criterion": "相等2分、3×7＋2＝23份的理由2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "7/7名稱與關係各1.5分；6/7名稱與關係各1.5分。"
+              },
+              {
+                "points": 4,
+                "criterion": "3又2/7。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s1-mathematics-midterm-c-q06",
+          "kind": "short",
+          "points": 18,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-mathematics-06"
+          ],
+          "stimulus": "小青寫：0.8＝0.08，所以4.25＋0.8＝4.33。另有一條長6公尺的紙帶，剪去2.58公尺。",
+          "prompt": "說明0.8與0.08的位值差別，修正加法並列式；再用直式求剩下紙帶長度，用加法驗算。",
+          "responseLines": 7,
+          "answer": {
+            "value": "0.8是8個十分之一，0.08是8個百分之一；4.25＋0.80＝5.05；6.00－2.58＝3.42公尺；3.42＋2.58＝6.00。",
+            "explanation": "末尾補零不改值，中間加零會改位值。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "兩個位值描述各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "4.25＋0.80＝5.05。"
+              },
+              {
+                "points": 6,
+                "criterion": "直式小數點對齊2分、跨零換位2分、3.42公尺2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "3.42＋2.58＝6.00。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

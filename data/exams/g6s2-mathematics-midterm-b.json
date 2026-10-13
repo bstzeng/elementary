@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s2-mathematics-midterm-b",
+  "grade": 6,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "B",
+  "mode": "written",
+  "title": "小六下學期數學・期中B卷",
+  "duration": "建議60–75分鐘，可分兩節完成或依需要延長；時間為設計估計，尚未試測。",
+  "instructions": [
+    "滿分100分。各題資料獨立；小題旁已列配分。請依明問要求寫算式、答案、圖示或理由。",
+    "分數、小數保留精確值，接受等值分數和不同正確方法；沒有要求四捨五入的題目不要自行取近似。",
+    "凡涉及圓的長度、面積或體積，統一用π≈3.14，算到所得小數，不另四捨五入；答案以約或≈表示。",
+    "依圖上標記和方格代表的單位作答，不量印出或螢幕的公分。圖未依比例時，以標記為準。",
+    "可在所附空間或另紙畫圖；可中性讀題、放大或按你的指示代筆，數學判斷由你完成。"
+  ],
+  "teacherNotes": [
+    "本卷以保存的六下14課及學期編排為範圍，並非全國統一進度。期中01–07；期末08–14占80分，01–07回顧占20分。先核對實際已教內容。三卷未經試測或統計等值檢驗。",
+    "每個規準已拆成可核對子分；單一未再細分的條件達成全給，未達0分。不把參考解說的額外步驟當隱藏要求；接受最短完整答案與不同正確方法。",
+    "方法與結果分別評。前步數值誤算，後步依自己數值使用正確關係仍給後步方法分；標準數值分依正確答案。題幹單位明確可省重複單位，明寫錯誤維度則不給該答案數值分。",
+    "畫圖按題目指定的格數、對應、標記和比例關係評分，不評字跡、色彩或線條精細度。可用大張格紙、口述指定位置或依學生指示代筆；不能直接告知答案。",
+    "圓以π≈3.14計算的量須有一次清楚涵蓋該列的約值標記即可；不對同一近似標示重複扣分。若規準未設標記分，只中性提醒。",
+    "只用直三角柱、四角柱或圓柱；兩形體組合只算體積，不算複合表面積。不用平方根、三角函數、排列組合公式或古典機率公式。",
+    "所有模型與資料均虛構。不要求實際購買、切割、灌水、外出、抽卡或蒐集學生私人資訊。紙筆證據不代表實際操作能力已驗證。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺、另附空白或方格紙；圓形圖題使用本卷提供的百等分模板，不需量角器。"
+  ],
+  "parallelDesign": "B卷以逆求因數和分配合併、改換模型種類、由總量建構等份圖、固定速率可推範圍、兩柱體貼合體積、完整三角柱展開圖與旋轉後的頂點對應構成。",
+  "sources": [
+    {
+      "title": "本館小六下數學14課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g6s2",
+      "note": "依已保存commit d912df1a25f6e6414c631d640af696a2309f2d1e之14課逐課核對；本次未重新擷取外部課綱。題目、情境與圖形為新編。"
+    },
+    {
+      "title": "教育部數學課綱發布頁（保存教材引註）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材來源。N-6-5/6/8/9、R-6-1/2/3/4、S-6-1/2/4、D-6-1/2；學期與題目編排屬本館參考安排。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "points": 100,
+      "purpose": "以明示的計算、圖形、比較與解釋留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "instructions": "按各小題要求作答；只需提供明問的證據。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-01"
+          ],
+          "stimulus": "任務一：（1.25＋3/4）×□＝3。任務二：0.6×7/9＋0.6×2/9。",
+          "prompt": "①先求括號值，再找出□內的精確數值。（6分）\n②把任務二改成只做一次乘法的等值算式，再求精確結果。（6分）",
+          "responseLines": 8,
+          "answer": {
+            "value": "括號為2，□＝3÷2＝1.5。0.6×（7/9＋2/9）＝0.6×1＝0.6。",
+            "explanation": "任務一從乘積回求未知因數；任務二用分配律合併共同因數，不把九分數先近似。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①括號2給2分；3÷2或等效逆算2分；□1.5給2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②改寫成0.6×（7/9＋2/9）或0.6×1給4分；結果0.6給2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-b-q01"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-02"
+          ],
+          "stimulus": "有3.5公斤可自由分割的黏土，無損耗。原計畫做3個大模型，每個用1/2公斤；6個小模型，每個用1/4公斤。新計畫保持模型總數不變，把其中2個小模型改成大模型。",
+          "prompt": "①列式求原計畫總用量和剩餘量。（6分）\n②求新計畫的大、小模型個數。（2分）\n③列式求新計畫用量，判斷材料是否足夠，並算剩餘或不足量。（6分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "原用量3×1/2＋6×1/4＝3公斤，剩0.5公斤。新計畫5大、4小；5×1/2＋4×1/4＝3.5公斤，剛好足夠，剩0公斤。",
+            "explanation": "改成大模型代表原小模型也要減少，不能把2個大模型當額外增加而保留6個小模型。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①同時計兩種模型的式2分；用量3公斤2分；剩0.5公斤2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "②5大、4小各1分。"
+              },
+              {
+                "points": 6,
+                "criterion": "③新用量合理式2分；3.5公斤2分；足夠1分、剩0公斤1分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-b-q02"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-03"
+          ],
+          "stimulus": "紅卡和藍卡共96張，沒有其他顏色；藍卡張數是紅卡的3/5。",
+          "prompt": "①畫一組等份線段圖表示紅、藍的關係，標出顏色及合計96張。（4分）\n②依圖或列式求紅、藍各幾張。（6分）\n③以藍卡張數為基準，紅卡是藍卡的幾倍？再寫出紅卡比藍卡多幾張。（4分）",
+          "responseLines": 12,
+          "answer": {
+            "value": "圖可畫紅5格、藍3格，每格同量，註共96張。96÷8＝12，紅60張、藍36張。紅是藍的60÷36＝5/3倍，多24張。",
+            "explanation": "3/5的分母5份對紅卡；合計96張對8份。換基準後要改比較方向。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①紅5等份、藍3個同樣等份關係2分；顏色標記1分；合計96張標記1分。等效比例圖同給。"
+              },
+              {
+                "points": 6,
+                "criterion": "②總量÷8再分配的合理式2分；紅60、藍36各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③5/3倍2分；多24張2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-b-q03"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-04"
+          ],
+          "stimulus": "模型印卡機P以固定速率運轉，全程無停頓，3分鐘印54張。機器Q只有「3分鐘共印54張」的紀錄，沒有逐分鐘資料，也未說固定速率。",
+          "prompt": "①依P的資料，求每分鐘張數及1.5分鐘張數，均寫算式。（6分）\n②P保持相同速率，印90張要多久？寫算式。（4分）\n③能否保證Q在下一個1.5分鐘也印出和P一樣多的張數？說明缺少哪個條件。（4分）",
+          "responseLines": 8,
+          "answer": {
+            "value": "P每分鐘54÷3＝18張；1.5分鐘18×1.5＝27張；90÷18＝5分鐘。不能保證Q下一段也印27張，未知其是否保持相同固定速率且無停頓。",
+            "explanation": "相同一段時間的總量只能支持相同平均，不能保證未來每段表現相同。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①每分鐘合理式1分、18張2分；1.5分鐘合理式1分、27張2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②90÷18為2分；5分鐘2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③不能保證2分；指出未給未來固定速率或無停頓條件2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-05"
+          ],
+          "stimulus": "模型由兩個實心直柱體貼合：底座長方體長12、寬8、高2公分；上方直角三角柱底面兩直角邊6和8公分，斜邊10公分，柱高5公分。三角柱的一個底面完整貼在底座上，兩形體只有接觸面，沒有體積重疊或空洞。",
+          "prompt": "①列式求底座體積。（4分）\n②列式求上方三角柱的底面積及體積。（6分）\n③求整個模型的體積。（2分）\n④有人從合計體積再減去接觸面積。這樣合理嗎？用「面」與「空間」的差別說明。（4分）",
+          "responseLines": 10,
+          "answer": {
+            "value": "底座12×8×2＝192立方公分；三角柱底面6×8÷2＝24平方公分，體積24×5＝120立方公分；合計312立方公分。不合理，接觸面只有面積，不是重複占有的立方空間。",
+            "explanation": "已明示無體積重疊，直接相加兩體積；不能從立方量扣平方量。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①合理乘式2分；192立方公分2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②底面式1分、24平方公分2分；體積式1分、120立方公分2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "③312立方公分2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "④不合理1分；指出接觸面不占立方空間且本題無體積重疊3分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-b-q05"
+        },
+        {
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-06"
+          ],
+          "stimulus": "下圖為封閉直角三角柱的完整五面展開圖。兩個三角形全等，直角邊5和12公分，斜邊13公分；柱高3公分。忽略厚度和黏貼耳片。",
+          "prompt": "①求P、Q、R三個側面各自面積。（6分）\n②列式求兩個三角形底面的合計面積。（4分）\n③求全部表面積。（2分）\n④若把側面R漏掉，會少算哪一條底邊對應的面？少算多少面積？（4分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "P15、Q36、R39平方公分；兩底2×5×12÷2＝60平方公分；總150平方公分。漏掉斜邊13公分對應的側面，少39平方公分。",
+            "explanation": "斜邊不用作三角形面積的垂直高，但它仍對應一個必須計入的長方形側面。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①P15、Q36、R39各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②兩個三角形面積的合理式2分；60平方公分2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "③150平方公分2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "④底邊13公分或斜邊2分；少39平方公分2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 265\" width=\"500\" height=\"265\" role=\"img\"><desc>完整三角柱展開圖，三長方形P、Q、R的尺寸依次5×3、12×3、13×3公分。兩個直角三角底面連在Q的相對12公分邊上；底面邊5、12、13公分。未依比例。</desc><rect x=\"55\" y=\"100\" width=\"50\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"105\" y=\"100\" width=\"120\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"225\" y=\"100\" width=\"130\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><polygon points=\"105,100 225,100 105,50\" fill=\"none\" stroke=\"black\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"105,130 225,130 105,180\" fill=\"none\" stroke=\"black\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"74\" y=\"122\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">P</text><text x=\"157\" y=\"122\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">Q</text><text x=\"280\" y=\"122\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">R</text><text x=\"18\" y=\"215\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">側面P：5×3；Q：12×3；R：13×3</text><text x=\"270\" y=\"48\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">底面直角邊5、12</text><text x=\"270\" y=\"73\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">斜邊13；柱高3</text><text x=\"18\" y=\"245\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">長度皆公分；完整五面展開圖，未依比例</text></svg>",
+          "id": "g6s2-mathematics-midterm-b-q06"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-07"
+          ],
+          "stimulus": "原長方形ABCD的AB＝9公分、AD＝6公分；新圖RSTU是原圖的2/3倍縮圖，並已轉向。指定A對R、B對S、C對T、D對U。",
+          "prompt": "①寫出AB、AD各對應新圖的哪條邊。（4分）\n②求RS、RU的長度。（4分）\n③角R多少度？轉向是否使縮放倍數改變？說明理由。（6分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "AB對RS，AD對RU；RS＝9×2/3＝6公分，RU＝6×2/3＝4公分；角R90度。轉向不改倍數，對應邊仍各為原來2/3，對應角不變。",
+            "explanation": "對應要由端點找，不能僅因看起來水平或垂直而配錯邊。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①AB對RS、AD對RU各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②RS6、RU4各2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "③角R90度2分；不改倍數2分；以對應邊仍2/3或轉向不改邊長說明2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 240\" width=\"500\" height=\"240\" role=\"img\"><desc>原圖ABCD是長方形，A左下、B右下、C右上、D左上；新圖R左上、S左下、T右下、U右上。A對R、B對S、C對T、D對U；新圖為2/3倍縮圖並轉向。</desc><rect x=\"65\" y=\"70\" width=\"135\" height=\"90\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"330\" y=\"65\" width=\"60\" height=\"90\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"44\" y=\"182\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">A</text><text x=\"203\" y=\"182\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">B</text><text x=\"203\" y=\"64\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">C</text><text x=\"44\" y=\"64\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">D</text><text x=\"312\" y=\"59\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">R</text><text x=\"312\" y=\"177\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">S</text><text x=\"394\" y=\"177\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">T</text><text x=\"394\" y=\"59\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">U</text><text x=\"55\" y=\"215\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">原圖AB＝9，AD＝6</text><text x=\"290\" y=\"215\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">新圖相對原圖為2/3倍</text></svg>",
+          "id": "g6s2-mathematics-midterm-b-q07"
+        }
+      ]
+    }
+  ]
+}

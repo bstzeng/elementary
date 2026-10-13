@@ -1,0 +1,536 @@
+{
+  "schemaVersion": 1,
+  "id": "g5s2-english-final-b",
+  "grade": 5,
+  "semester": 2,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "final",
+  "variant": "B",
+  "mode": "mixed-language",
+  "title": "小五下學期英語文・期末B卷",
+  "duration": "紙面建議35–45分鐘，真人聽說各5–10分鐘；可分日、休息及延長。設計估計，未經試測。",
+  "instructions": [
+    "先完成第1、2題，老師說可以才看紙面題。",
+    "一般角色是虛構，不用提供自己的作息、住址或飲食資料。",
+    "可休息或說尚未學過；未施測聽說會分開記錄。"
+  ],
+  "materials": [
+    "當前題指定的大紙卡、遮紙、鉛筆及空白紙；無需外找圖片或聲音。",
+    "完整教師讀稿及答案由教師分開保管。"
+  ],
+  "teacherNotes": [
+    "範圍依本館12課實際教材，不是全國統一進度。期中01–06；期末07–12恰80分、01–06回顧恰20分。A/B/C任務資料與判斷不同，未經試測或統計等值，不能當排名依據。",
+    "完整施測100分；僅報已觀察得分／已觀察滿分及未觀察分項，不補0、不比例換算。未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+    "聽說前須由合格英語教師私下逐字核對本卷所有完整讀稿、目標句與可接受變體，確認學生已學；填寫完整模型核對來源與頁次＿＿、核對日期＿＿、教師＿＿、已教□、能自然示範全部模型□。本卷沒有音檔，作者沒有驗聽；書面核對不能認證語音。無可靠模型或合格施測者則延期聽說，只做紙面題。不用中文諧音、未驗聽合成聲音或拼讀字母名稱替代詞音。",
+    "固定順序：第1題聽辨→第2題口語→其餘紙面。先收起所有後題、教師卷、答案與英語句卡；聽辨只出示當回合指定中文選卡，口語只出示當回合中文情境。兩個真人區塊全做完才給任何正誤回饋或英文模型。不得將本次完整目標、翻譯、示範發音或答案位置當暖身。已曝光後再遮住不能恢復獨立性，受影響分項記受提示／未觀察；平常已學則是先備條件。",
+    "每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。",
+    "聽辨每次收走上一回合選卡；不准先讀中文正解，不准特別暗示字音。選卡位置照逐試稿；同一代號可重複選，沒有排除或每項只能一次的規則。教師面部自然可見，不遮臉或蒙眼，不能稱完全沒有視覺線索。指卡或AAC可證明當次聽懂；成人念出英文選項或逐詞翻譯則另記有支持理解。",
+    "口語先中性讀中文任務，不先示範英文問答。評當次意思、可理解的完整句和題目明列的功能，不評音量、眼神、速度、膽量或單一口音。正常標準變體、縮寫或完整形式、正確自然句序等同給分。跟讀、成人代說或AAC發聲只記支持溝通，不認證學生本人的獨立語音。",
+    "紙面英文由學生認讀；成人可讀中文指示。代讀英文另記支持閱讀，不稱獨立閱讀。可指代號、AAC、打字、口述或忠實代筆；字卡可輔助，須記錄。代筆不等於獨立手寫。只有題面明列的拼字、大寫、空格或標點才計格式分；其他題不因字跡或偶發拼寫錯誤抹去可辨的意思。",
+    "評分只用題面明問資訊。中文或等義簡短理由、指向明確證據均可；未要求完整句的答案可用詞組、數字或清單得全分。要求完整句時，事實與句法分開，正確短語仍得事實分。單選矛盾多答僅該選擇子分0，清楚刪改依最後答；同義多答不扣。不要索取未問的理由。",
+    "本卷人物、菜單、活動、數量與紙卡皆為新編虛構資料；第11課的真實文化案例只作教學背景，不把虛構題卡套給真實人物。不要問真實住址、家庭、健康、宗教或飲食原因，不錄音錄影、不上傳。只用大紙卡、鉛筆、遮紙，不使用活體、食物、刀剪或外出。可休息、拒絕、求助。",
+    "本卷子音組合與字形分組紙題只是文字概念證據；不能代替真人聽辨、發音、聽寫或手寫筆順觀察。健康角色只作語言理解，不診斷、不互摸、不模仿疼痛；真實不適立即停止並求助，不以英文正確作取得協助的條件。"
+  ],
+  "parallelDesign": "每卷後半主題80分：真人聽辨12、口語12、校稿12、問答10、短文10、讀圖8、生活文化8、合作8。前半01–06共20分另列。三卷採不同事件順序、是否完成的證據、圖數與合作條件；未經試測或統計等值。",
+  "blueprint": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 56,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "points": 20,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-08",
+            "g5s2-english-09",
+            "g5s2-english-10"
+          ],
+          "prompt": "老師每回合讀一段短英文。依每回合的中文選卡，選最後位置、活動資訊或人數比較的正確答案；三回合各4分。可重聽同一完整讀稿一次，代號可以重複選。",
+          "stimulus": "只出示當回合中文選卡；英文讀稿由教師保管。",
+          "responseLines": 4,
+          "answer": {
+            "value": "第1回合甲；第2回合甲；第3回合乙",
+            "explanation": "每次須由完整聲音接收新訊息；最後位置需處理順序，比較需兼聽兩個數量。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合選甲4分，其他已嘗試反應0分；採同一次完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合選甲4分，其他已嘗試反應0分；採同一次完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合選乙4分，其他已嘗試反應0分；採同一次完整反應。"
+              }
+            ]
+          },
+          "teacher": "每回合只讀完整英文，不念答案或中文：第1回合出示【甲 最後在資料夾；乙 最後在桌上】，讀：First, I put the picture on the table. Then I put it in the folder. 第2回合出示【甲 二號教室三點；乙 二號教室四點】，讀：The activity is in Room 2 at three. 第3回合出示【甲 遊戲的人較多；乙 閱讀的人較多】，讀：Three students choose games. Seven students choose reading. 所有動作都是口述虛構文字，不移物或指位置作提示；先私下確認全部語句模型及詞義已教。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "順序後的位置",
+              "points": 4
+            },
+            {
+              "label": "活動資訊",
+              "points": 4
+            },
+            {
+              "label": "兩項人數比較",
+              "points": 4
+            }
+          ],
+          "id": "g5s2-english-final-b-q01"
+        }
+      ]
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-08",
+            "g5s2-english-12"
+          ],
+          "prompt": "老師給三個獨立中文情境。每回合依指定目的，用完整英文問句或完整英文句表達。每回合4分：溝通功能2分、所問或回應的對象及資料1分、完整可理解句子1分。",
+          "stimulus": "只有當回合中文情境；不先看英文示範。",
+          "responseLines": 4,
+          "answer": {
+            "value": "Whose red book is this?；Do you have two pencils?；Let’s read.",
+            "explanation": "選問句或合作回應須看本次缺少的資訊及目的；不能把所有語句都換成同一種問句。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合：Whose red book is this?或自然等義完整句。中文任務指定的溝通功能2分；所指的人／物／數量／地點或「剛才那段話」對應明確1分；可理解且自然的完整英文問句或祈使／陳述句1分。功能、對象和句子分開給分；不限定模型用詞。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合：Do you have two pencils?或自然等義完整句。中文任務指定的溝通功能2分；所指的人／物／數量／地點或「剛才那段話」對應明確1分；可理解且自然的完整英文問句或祈使／陳述句1分。功能、對象和句子分開給分；不限定模型用詞。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合：Let’s read.或自然等義完整句。中文任務指定的溝通功能2分；所指的人／物／數量／地點或「剛才那段話」對應明確1分；可理解且自然的完整英文問句或祈使／陳述句1分。功能、對象和句子分開給分；不限定模型用詞。"
+              }
+            ]
+          },
+          "teacher": "只讀當回合中文指令；教師私用英文模型不得先讀：第1回合中文：你想知道眼前這本紅書的所有者，用完整英文問句詢問。 教師私用模型：Whose red book is this? 第2回合中文：你想確認對方是否有兩支鉛筆，用完整英文問句詢問。 教師私用模型：Do you have two pencils? 第3回合中文：你想提出一起閱讀的建議，用完整英文句向同伴提出。 教師私用模型：Let’s read. 同義自然完整問句、祈使句與縮寫／完整形式皆可；英文詞或片語可保留功能與對象的分，不取得完整句分。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "溝通行為1",
+              "points": 4
+            },
+            {
+              "label": "溝通行為2",
+              "points": 4
+            },
+            {
+              "label": "溝通行為3",
+              "points": 4
+            }
+          ],
+          "id": "g5s2-english-final-b-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "各題資料彼此獨立；按題目選、指、寫或說明。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-07"
+          ],
+          "prompt": "依資料修正錯稿。保留原來三句的意思及詞語順序，修句首與姓名大小寫、問句／陳述句末標點、兩個省字符號及複數。可寫三句改稿，也可逐一列出「原字→改字」，不用解釋理由。",
+          "stimulus": "新虛構資料：Leo擁有這個pencil case，裡面有two pens。\n錯稿：whose pencil case is this. Its leos pencil case. There are two pen in it?",
+          "responseLines": 6,
+          "answer": {
+            "value": "Whose pencil case is this? It’s Leo’s pencil case. There are two pens in it.",
+            "explanation": "問句末問號；It’s縮自It is，姓名後是所有格；指定多件物品用規則複數。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "whose句首改Whose，2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "第一句句尾改問號，2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "Its改It’s／It's，2分；本題保留詞語順序下的完整It is也同分。"
+              },
+              {
+                "points": 2,
+                "criterion": "leos改Leo’s／Leo's，姓名大寫1分、所有格符號1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "pen改pens，2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "第三句句尾改句點，2分。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-08"
+          ],
+          "prompt": "問句須是完整英文句。（1）用英文問句詢問主持人，並寫正確短答。（2）用完整英文問句詢問活動開始時刻，並寫正確短答。（3）正文明寫借筆後，Zoe手中有幾支鉛筆？",
+          "stimulus": "新虛構卡：Drawing time，Friday，3:30 p.m.，Room 1；host Yan。Zoe起始有two pencils，Yan有one pencil。Zoe說I can lend one pencil to Yan.，接著明寫把一張pencil卡交給Yan；所有權未變。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）Who is the host? Yan.。（2）What time is the activity? At three thirty in the afternoon.。（3）one／1。",
+            "explanation": "問人與問時刻需要不同問句；本題有實際交付，持有數必須更新。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）完整主持人問句2分；Yan2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）完整詢問活動開始時刻2分；3:30 p.m.或three thirty2分，明確本活動語境省略下午亦可。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）1／one2分。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-09"
+          ],
+          "prompt": "（1）將四張事件卡按故事先後排序。（2）句子It is wet.中的it是什麼？（3）結尾最後有證據的picture位置在哪裡？（4）Ray是否已答應把圖片移到桌上？",
+          "stimulus": "新虛構短文：First, Ben puts a picture in a box. Then he checks the table. It is wet. After the teacher says, “The table is dry now,” Ben asks Ray, “Shall we put the picture on the table?” The story stops here.\n卡A asks Ray；卡B checks the table；卡C puts the picture in a box；卡D the teacher says the table is dry。\nstops here＝故事到此結束。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）C→B→D→A。（2）table。（3）box。（4）沒有Ray答覆，不能確定已同意。",
+            "explanation": "桌子狀態更新不會自動移動圖片，也不替Ray答應；故事沒有後續動作。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）C、B、D、A每個正確位置1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）table／桌子2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）box／箱子2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（4）未有同意證據／不能確定2分；不要求額外解釋。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q05"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-10"
+          ],
+          "prompt": "（1）列出所有並列最多的活動。（2）有沒有任何一項超過全班一半？（3）用一句完整英文句報告games的人數。",
+          "stimulus": "新虛構14人班，每人一次只選一項，無缺席或漏答。完整圖文資料：Reading 6人、Drawing 6人、Games 2人；每格1人。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）Reading和Drawing。（2）沒有。（3）Two students choose games.等。",
+            "explanation": "同數並列不能只保留一項；14的一半是7，6未過半。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "（1）reading1分、drawing1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）沒有2分，未要求理由不另扣。"
+              },
+              {
+                "points": 4,
+                "criterion": "（3）two／2意思1分、games1分、完整自然英文句2分；等義可用There are two students who choose games.。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 250\" role=\"img\"><title>New class: 14 students：Reading 6、Drawing 6、Games 2；每格一人。</title><text x=\"20\" y=\"28\" font-size=\"18\">New class: 14 students</text><line x1=\"145\" y1=\"48\" x2=\"145\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"141\" y=\"228\" font-size=\"14\">0</text><line x1=\"175\" y1=\"48\" x2=\"175\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"171\" y=\"228\" font-size=\"14\">1</text><line x1=\"205\" y1=\"48\" x2=\"205\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"201\" y=\"228\" font-size=\"14\">2</text><line x1=\"235\" y1=\"48\" x2=\"235\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"231\" y=\"228\" font-size=\"14\">3</text><line x1=\"265\" y1=\"48\" x2=\"265\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"261\" y=\"228\" font-size=\"14\">4</text><line x1=\"295\" y1=\"48\" x2=\"295\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"291\" y=\"228\" font-size=\"14\">5</text><line x1=\"325\" y1=\"48\" x2=\"325\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"321\" y=\"228\" font-size=\"14\">6</text><line x1=\"355\" y1=\"48\" x2=\"355\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"351\" y=\"228\" font-size=\"14\">7</text><line x1=\"385\" y1=\"48\" x2=\"385\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"381\" y=\"228\" font-size=\"14\">8</text><line x1=\"415\" y1=\"48\" x2=\"415\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"411\" y=\"228\" font-size=\"14\">9</text><line x1=\"445\" y1=\"48\" x2=\"445\" y2=\"204\" stroke=\"#cccccc\"/><text x=\"441\" y=\"228\" font-size=\"14\">10</text><text x=\"20\" y=\"86\" font-size=\"17\">Reading</text><rect x=\"145\" y=\"65\" width=\"180\" height=\"29\" fill=\"#3f7388\"/><text x=\"333\" y=\"86\" font-size=\"17\">6</text><text x=\"20\" y=\"134\" font-size=\"17\">Drawing</text><rect x=\"145\" y=\"113\" width=\"180\" height=\"29\" fill=\"#3f7388\"/><text x=\"333\" y=\"134\" font-size=\"17\">6</text><text x=\"20\" y=\"182\" font-size=\"17\">Games</text><rect x=\"145\" y=\"161\" width=\"60\" height=\"29\" fill=\"#3f7388\"/><text x=\"213\" y=\"182\" font-size=\"17\">2</text></svg>",
+          "id": "g5s2-english-final-b-q06"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-11"
+          ],
+          "prompt": "（1）兩張卡都出現哪個食物？用英文詞回答。（2）用一句完整英文句比較Thursday兩張卡中搭配soup的食物。（3）這些資料能否證明兩人以後每餐只吃卡上的食物？",
+          "stimulus": "新虛構P卡：On Thursday, I have bread with soup. On Friday, I have rice with dinner.\n新虛構Q卡：On Thursday, I have corn tortillas with soup. On Friday, I have bread with lunch.\ncorn tortillas＝玉米餅。這些卡不是任何國家的全體飲食紀錄。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）bread、soup或兩者皆可（均得2分）。（2）On Thursday, P has bread with soup and Q has corn tortillas with soup.等。（3）不能。",
+            "explanation": "兩卡都出現bread和soup；第（1）題答bread、soup或兩者均得2分。Thursday的搭配不同；兩日記錄不足以推出永久唯一飲食。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "（1）答bread、soup或bread and soup均得2分；任一共同食物已足，不要求同時列出兩者。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）P配bread1分、Q配corn tortillas1分、保留Thursday與soup情境1分、完整自然英文比較句1分。可分成兩句，各資料正確亦得同分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）不能2分，無隱藏理由。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q07"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-english-12"
+          ],
+          "prompt": "（1）三人的材料只夠哪項活動？（2）用完整英文句向同伴提出該活動，包含開放地點。（3）目前能否說三人都已接受？指出還缺誰的回覆。",
+          "stimulus": "新虛構三人：Ira、Jo、Kim。可用時段Tuesday 15:30–16:00；Room 2開放，reading corner關閉。Reading每人一本；Drawing每人一紙一筆。供應：paper 3 sheets、pencils 3、books 2；無其他供應。Ira與Jo各明說同意drawing；Kim還未回覆。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）drawing。（2）Let’s draw in Room 2.等。（3）不能；缺Kim回覆。",
+            "explanation": "材料可行性與全員同意分開；不把未回覆默認接受。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "（1）drawing／畫圖2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）畫圖1分、Room 2地點1分、完整自然建議句2分；同義句同分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）未能證明全同意1分；Kim1分。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q08"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "instructions": "各題資料彼此獨立；按題目選、指、寫或說明。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 6,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g5s2-english-01",
+            "g5s2-english-02"
+          ],
+          "prompt": "（1）代虛構角色以完整英文句說「我的雙腳現在痛」。（2）讀留言，寫出感覺與需求兩項意思，可用中文。",
+          "stimulus": "虛構留言：I don’t feel well. I want to stop.",
+          "responseLines": 4,
+          "answer": {
+            "value": "My feet hurt.；（2）不舒服；想停止",
+            "explanation": "身體單複數決定句形；感覺與需求都按明文。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）feet部位1分、單複數動詞相合1分、完整自然英文句2分；等義自然句同分，短語仍有部位分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）不舒服1分；想停止1分。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q09"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g5s2-english-03",
+            "g5s2-english-04"
+          ],
+          "prompt": "（1）用英文詞組表達本次要求的「三碗湯」，需有數量和單位。（2）你代Uma說話，用完整英文句說這本筆記本屬於自己。",
+          "stimulus": "虛構登記：這本notebook的owner是Uma，holder是另一角色；沒有所有權變更。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）three bowls of soup。（2）The notebook is mine.／This is my notebook.等。",
+            "explanation": "容器單位與所有權句法是不同能力；目前借放不改自己的所有權。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）正確品項1分、數量1分、正確容器單位與單複數2分；one可用a，詞組即可。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）notebook對象1分、自己所有意思1分、完整自然英文句2分。my notebook／mine／belongs to me等句型均可。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q10"
+        },
+        {
+          "kind": "short",
+          "points": 6,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g5s2-english-05",
+            "g5s2-english-06"
+          ],
+          "prompt": "（1）將精確卡片數430寫成完整英文數詞。（2）依已教模型將shop以／分開聲音組合。這是文字概念題，不是聽力或發音測驗。",
+          "stimulus": "數字表示卡片數量；印刷詞是shop，沒有聲音播放。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）four hundred and thirty；and可省略。（2）sh／o／p。",
+            "explanation": "數詞按位值；本詞的兩字母子音組合放同一格。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）four hundred百位2分；thirty十位1分；完整數詞及詞序1分，and有無均可。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）sh／o／p2分；只給格數而不分組不符合本問，0分。"
+              }
+            ]
+          },
+          "id": "g5s2-english-final-b-q11"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜身體部位與不適描述",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-01.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜詢問健康狀況",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-02.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜三餐食物與點餐需求",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-03.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜物品名稱與所有權",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-04.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜生活中的百位數",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-05.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜常見子音組合的拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-06.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜字詞拼寫與標點",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-07.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜問答句型的整理運用",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-08.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜短文的順序和細節",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-09.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜圖表線索與訊息推測",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-10.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜主食文化與生活差異",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-11.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜角色對話與合作表達",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s2-english-12.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    }
+  ]
+}

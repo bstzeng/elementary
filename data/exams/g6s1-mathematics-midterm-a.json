@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s1-mathematics-midterm-a",
+  "grade": 6,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "A",
+  "mode": "written",
+  "title": "小六上學期數學・期中A卷",
+  "duration": "建議55–70分鐘；可分段或延長。此為設計估計，尚未試測。",
+  "instructions": [
+    "滿分100分，各題資料獨立。只需提供各小題明問的算式、理由或圖示。",
+    "接受等值分數與不同正確方法；明問最簡分數或最簡整數比時才需化到最簡。",
+    "圓的計算用π≈3.14，相關答案請用約字或≈表示；同一列可註明皆為近似值。",
+    "圖只供辨識關係，不量圖推算未給的尺寸。",
+    "可請成人中性讀題或依你的指示代筆；數學決定由你作。"
+  ],
+  "teacherNotes": [
+    "本卷依本館保存的14課教材編排，非全國統一進度。期中01–07；期末08–14占80分、前半核心回顧20分。教師先確認已教範圍。A／B／C未經試測、常模化或統計等值檢驗。",
+    "各規準依所列子分逐項給分；未拆子分的單一條件符合全給、不符0分。接受最精簡完整答案、等值分數及不同正確方法；只有明問最簡分數或最簡整數比才要求化到最簡。",
+    "只評題幹明問的算式、圖示或說明；參考解答中的額外中間值和解釋不是隱藏得分條件。不要求固定順序、指定算法或重複已呈現的證據。同一份有效證據可以支援不同明問判斷。",
+    "方法分與數值分分開。前步算錯不再扣後步一致方法分，標準數值分仍依正確值。題幹已給單位且所求量清楚時可省重複單位；明寫錯誤維度的量不給該量答案分，方法分另評。",
+    "圓的計算統一用π≈3.14，圓周、弧長、面積及含這些量的結果均為近似值。每個需要近似的答案可由約字、≈或涵蓋該列的「以下皆為近似值」表示；不逐式重複扣標示分。",
+    "分數除法允許非整數份，沒有完整成品或餘數問題。小數除法使用可除盡的精確值。只求兩數最大公因數、最小公倍數；質數分類限小於20，分解選用可檢查的小數值。",
+    "速率題明示等速、行程方向、是否納入停留。速率單位換算只從較大距離與時間單位改為較小單位；回乘只作同一時段路程核對。",
+    "扇形只由已給半徑與角度或分率直接求弧長、面積；不逆推平方根或未知角度。複合圖限兩部分平面模型，明示共邊、重疊或洞的條件；不自行量圖猜資料。",
+    "可中性讀題、放大、口述或依學生指示代筆；數學決定由學生作，不以速度、字跡、美觀或精細動作代替理解。所有卡片、模型行程與設計資料均為虛構紙面情境，不要求兒童私人資料或真實操作。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺；可另提供大張方格紙。"
+  ],
+  "parallelDesign": "A：包數與時窗篩選、分數份量門檻、精確小數登錄、三類圖案全體與受庫存限制的比例分配。",
+  "sources": [
+    {
+      "title": "本館小六上數學14課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g6s1",
+      "note": "逐課核對release26保存的課程與原始JSON；01–07期中、08–14期末主體，期末另有20分前半回顧。"
+    },
+    {
+      "title": "教育部數學課綱發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材正式引註，本次未重新擷取官方頁；學期安排屬本館編輯設計。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "points": 100,
+      "purpose": "以明示的計算、圖示、判斷與理由留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "instructions": "依各小題要求作答；可用不同的正確方法。",
+      "items": [
+        {
+          "id": "g6s1-mathematics-midterm-a-q01",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-01"
+          ],
+          "stimulus": "四張數字卡為1、2、9、17。另有分解任務84，以及整除檢查210。",
+          "prompt": "①把四張卡分成質數、合數或兩者都不是。\n②寫出84的完整質因數分解。\n③從2、3、5找出210的所有因數，逐一用個位或數字和說明。",
+          "responseLines": 8,
+          "answer": {
+            "value": "質數2、17；合數9；1兩者都不是。84＝2×2×3×7。2、3、5都是210的因數：個位0可被2、5整除；數字和3可被3整除。",
+            "explanation": "質數恰有兩個正因數；分解每項都是質數且乘回84。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①四張分類各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②乘積為84給2分；全部乘數為質數且構成84的完整分解另2分，順序不拘。"
+              },
+              {
+                "points": 4,
+                "criterion": "③完整選出2、3、5為1分；對2、3、5的合理判別各1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-midterm-a-q02",
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-02"
+          ],
+          "stimulus": "有28張甲卡、42張乙卡，全部分成內容相同的包，不剩卡。每包兩種張數各自相同，包數須至少5包、至多10包。另有兩盞模型燈，甲每12分鐘、乙每18分鐘亮一次，在0分鐘同時亮。",
+          "prompt": "①列出28與42的所有正公因數。\n②列出符合包數限制的所有方案，寫每包甲、乙各幾張。\n③列出從第30分鐘至第80分鐘之間兩燈同時亮的所有時刻，包含兩端。",
+          "responseLines": 8,
+          "answer": {
+            "value": "公因數1、2、7、14。只有7包，每包甲4張、乙6張。同亮時刻為第36、72分鐘。",
+            "explanation": "包數同時整除兩總數，再篩選範圍；同亮時刻為12與18公倍數，在限定時段內取36、72。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①1、2、7、14各1分；多列每個扣1分，本項最低0分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②只有7包2分；每包甲4、乙6各1分。"
+              },
+              {
+                "points": 6,
+                "criterion": "③36、72各2分；沒有多列其他時刻2分。不另要求先寫最小公倍數算式。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-midterm-a-q03",
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-03"
+          ],
+          "stimulus": "模型材料共有7/10平方公尺，標準一份是2/5平方公尺。可分割成非整數份，無損耗。某任務至少需要1又1/2個標準份。",
+          "prompt": "①列式求現有材料相當於幾個標準份，答案化為最簡分數或帶分數。\n②判斷是否足夠任務，算多或少幾個標準份。\n③寫出把份數乘回原面積的驗算式。",
+          "responseLines": 8,
+          "answer": {
+            "value": "7/10÷2/5＝7/4＝1又3/4份。足夠，多1/4份。7/4×2/5＝7/10平方公尺。",
+            "explanation": "商是標準份數，可為非整數；門檻也以份為單位比較。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①合理除法或等效式2分；最簡7/4或1又3/4為4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②足夠2分，多1/4份2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③用所得份數乘2/5的驗算關係2分；正確還原7/10為2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-midterm-a-q04",
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-04"
+          ],
+          "stimulus": "精確計算0.945÷0.45。甲稿商為2.1，乙稿為2.01；登錄條件是商至少2.05。",
+          "prompt": "①把原式改寫成除數為整數而商不變的式子，並求精確商。\n②判斷哪份稿正確，用乘法驗算支援判斷。\n③判斷正確商可否登錄，算它比2.05多或少多少。",
+          "responseLines": 8,
+          "answer": {
+            "value": "94.5÷45＝2.1。甲正確，2.1×0.45＝0.945。可登錄，多0.05。",
+            "explanation": "兩數同比放大保留商；2.01乘回不能還原0.945。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①兩數同乘使除數整數的式子3分；2.1為3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②只選甲1分；有效乘回原被除數的檢查3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③可登錄2分，多0.05為2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-midterm-a-q05",
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-05"
+          ],
+          "stimulus": "下圖是完整圖案卡。登錄規格要求圓形數至少占全部圖案的3/5；每個圖案只算一次。",
+          "prompt": "①寫圓形數：三角形數的比與比值。\n②寫圓形數：全部圖案數的比與比值。\n③判斷此卡是否符合登錄規格，以數值比較說明。",
+          "responseLines": 8,
+          "answer": {
+            "value": "圓：三角＝8：5，比值8/5。圓：全部＝8：16，比值1/2。不符合，1/2＜3/5。",
+            "explanation": "全部包括8圓、5三角和3方形，共16個；比值分母依所比較的量改變。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①8：5或相等比2分，8/5等值比值2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②8：16或相等比3分，1/2等值比值3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③不符合2分，1/2＜3/5或等效比較2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 580 241\" role=\"img\" aria-label=\"完整圖案卡；圓形8個、三角形5個、方形3個；每個圖案計一次，沒有其他圖案。\"><title>完整圖案卡；圓形8個、三角形5個、方形3個；每個圖案計一次，沒有其他圖案。</title><g stroke=\"#294554\" stroke-width=\"1.5\" fill=\"none\"><text x=\"20\" y=\"36\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">圓形</text><circle cx=\"115\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><circle cx=\"152\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><circle cx=\"189\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><circle cx=\"226\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><circle cx=\"263\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><circle cx=\"300\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><circle cx=\"337\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><circle cx=\"374\" cy=\"30\" r=\"11\" fill=\"#edf5f7\"/><text x=\"20\" y=\"98\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">三角形</text><path d=\"M115 80 L127 102 L103 102 Z\" fill=\"#edf5f7\"/><path d=\"M152 80 L164 102 L140 102 Z\" fill=\"#edf5f7\"/><path d=\"M189 80 L201 102 L177 102 Z\" fill=\"#edf5f7\"/><path d=\"M226 80 L238 102 L214 102 Z\" fill=\"#edf5f7\"/><path d=\"M263 80 L275 102 L251 102 Z\" fill=\"#edf5f7\"/><text x=\"20\" y=\"160\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">方形</text><rect x=\"104\" y=\"143\" width=\"22\" height=\"22\" fill=\"#edf5f7\"/><rect x=\"141\" y=\"143\" width=\"22\" height=\"22\" fill=\"#edf5f7\"/><rect x=\"178\" y=\"143\" width=\"22\" height=\"22\" fill=\"#edf5f7\"/><text x=\"20\" y=\"214\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">每個圖案計一次；沒有其他圖案。</text></g></svg>"
+        },
+        {
+          "id": "g6s1-mathematics-midterm-a-q06",
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-06"
+          ],
+          "stimulus": "兩種卡的甲：乙須與0.9：1.5相等，共要64張。庫存甲20張、乙40張，不能改動64張或指定的比。",
+          "prompt": "①把0.9：1.5化成最簡整數比，並寫比值。\n②列式求需要的甲、乙張數。\n③判斷庫存是否足夠；指出每種卡還差多少或可剩多少。",
+          "responseLines": 8,
+          "answer": {
+            "value": "3：5，比值3/5。64÷8×3＝24張甲，64÷8×5＝40張乙。庫存不足；甲少4張，乙剛好，剩0張。",
+            "explanation": "總份數3＋5＝8，不能把全部64當甲的3份；兩類庫存分別核對。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①最簡3：5為2分，比值3/5為2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②正確按總份數分配的式子2分；甲24、乙40各2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "③不足2分，甲差4為2分，乙剛好或剩0為2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-midterm-a-q07",
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-07"
+          ],
+          "stimulus": "兩模型沿同一條直線路線同方向等速前進，無停頓。甲6分鐘走420公尺；乙4.5分鐘走360公尺。新路線長560公尺，限時至多7.5分鐘，包含7.5分鐘。",
+          "prompt": "①分別列式求甲、乙速率，並比較誰較快。\n②分別列式求兩者走完新路線所需時間。\n③列出所有能在限時內完成的模型，算合格者可剩多少分鐘。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲420÷6＝70公尺/分；乙360÷4.5＝80公尺/分，乙快。甲560÷70＝8分鐘，乙560÷80＝7分鐘。只有乙合格，剩0.5分鐘。",
+            "explanation": "先統一成每分鐘距離，再用相同路線求時間並檢查限制。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①兩速率式各1分、值各1分；乙較快2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②兩模型各3分：合理式1分、正確時間2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③只有乙2分；剩0.5分鐘2分。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

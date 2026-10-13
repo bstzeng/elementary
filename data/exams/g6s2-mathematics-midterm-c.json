@@ -1,0 +1,290 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s2-mathematics-midterm-c",
+  "grade": 6,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "C",
+  "mode": "written",
+  "title": "小六下學期數學・期中C卷",
+  "duration": "建議60–75分鐘，可分兩節完成或依需要延長；時間為設計估計，尚未試測。",
+  "instructions": [
+    "滿分100分。各題資料獨立；小題旁已列配分。請依明問要求寫算式、答案、圖示或理由。",
+    "分數、小數保留精確值，接受等值分數和不同正確方法；沒有要求四捨五入的題目不要自行取近似。",
+    "凡涉及圓的長度、面積或體積，統一用π≈3.14，算到所得小數，不另四捨五入；答案以約或≈表示。",
+    "依圖上標記和方格代表的單位作答，不量印出或螢幕的公分。圖未依比例時，以標記為準。",
+    "可在所附空間或另紙畫圖；可中性讀題、放大或按你的指示代筆，數學判斷由你完成。"
+  ],
+  "teacherNotes": [
+    "本卷以保存的六下14課及學期編排為範圍，並非全國統一進度。期中01–07；期末08–14占80分，01–07回顧占20分。先核對實際已教內容。三卷未經試測或統計等值檢驗。",
+    "每個規準已拆成可核對子分；單一未再細分的條件達成全給，未達0分。不把參考解說的額外步驟當隱藏要求；接受最短完整答案與不同正確方法。",
+    "方法與結果分別評。前步數值誤算，後步依自己數值使用正確關係仍給後步方法分；標準數值分依正確答案。題幹單位明確可省重複單位，明寫錯誤維度則不給該答案數值分。",
+    "畫圖按題目指定的格數、對應、標記和比例關係評分，不評字跡、色彩或線條精細度。可用大張格紙、口述指定位置或依學生指示代筆；不能直接告知答案。",
+    "圓以π≈3.14計算的量須有一次清楚涵蓋該列的約值標記即可；不對同一近似標示重複扣分。若規準未設標記分，只中性提醒。",
+    "只用直三角柱、四角柱或圓柱；兩形體組合只算體積，不算複合表面積。不用平方根、三角函數、排列組合公式或古典機率公式。",
+    "所有模型與資料均虛構。不要求實際購買、切割、灌水、外出、抽卡或蒐集學生私人資訊。紙筆證據不代表實際操作能力已驗證。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺、另附空白或方格紙；圓形圖題使用本卷提供的百等分模板，不需量角器。"
+  ],
+  "parallelDesign": "C卷以補括號達目標、倒推原量、移卡改變比較基準、定向補卡保持比例、逆求柱高與增量、長方體分組覆蓋及方格建構放大圖構成。",
+  "sources": [
+    {
+      "title": "本館小六下數學14課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g6s2",
+      "note": "依已保存commit d912df1a25f6e6414c631d640af696a2309f2d1e之14課逐課核對；本次未重新擷取外部課綱。題目、情境與圖形為新編。"
+    },
+    {
+      "title": "教育部數學課綱發布頁（保存教材引註）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材來源。N-6-5/6/8/9、R-6-1/2/3/4、S-6-1/2/4、D-6-1/2；學期與題目編排屬本館參考安排。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "points": 100,
+      "purpose": "以明示的計算、圖形、比較與解釋留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "instructions": "按各小題要求作答；只需提供明問的證據。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-01"
+          ],
+          "stimulus": "原式：1.2＋3/5÷0.3。保留數字、運算符號和先後順序，只能補上一對括號。",
+          "prompt": "①計算沒有補括號的原式，寫一個正確中間算式。（4分）\n②補上括號，使新式的結果為6，並計算驗證。（6分）\n③用一句話說明加括號後，哪一步改成先算。（2分）",
+          "responseLines": 8,
+          "answer": {
+            "value": "原式1.2＋2＝3.2；（1.2＋3/5）÷0.3＝1.8÷0.3＝6。加括號後先算1.2＋3/5。",
+            "explanation": "不能更動數值或把除號移位；括號改變加法與除法的先後。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①先算3/5÷0.3＝2為2分；3.2為2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②正確括號位置2分；括號值1.8為2分；驗證商6為2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "③先算1.2與3/5的和2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-c-q01"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-02"
+          ],
+          "stimulus": "一份可自由分割的模型材料，先用掉原量的2/5，再加入0.9公斤，最後共有3.3公斤。沒有其他取用或損耗。",
+          "prompt": "①求加入0.9公斤以前剩幾公斤，並說它是原量的幾分之幾。（4分）\n②列式求最初材料幾公斤。（6分）\n③用「先用掉，再加入」的原順序列式驗證最後確為3.3公斤。（4分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "3.3－0.9＝2.4公斤，是原量3/5；原量2.4÷3/5＝4公斤；4×（1－2/5）＋0.9＝3.3公斤。",
+            "explanation": "倒推先移除最後加入的量，再把剩餘3份還原成原5份。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①2.4公斤2分；原量3/5為2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②剩餘量÷3/5或2.4÷3×5合理式3分；原量4公斤3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③按原順序先保留3/5再加0.9的式2分；正確得到3.3為2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-c-q02"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-03"
+          ],
+          "stimulus": "原來紅、藍兩盒共有70張卡。下圖表示原來的關係，各小格同量。接著從紅盒移5張到藍盒，沒有增減總張數。",
+          "prompt": "①求原來每格張數及紅、藍各張數。（6分）\n②求移動後紅、藍各張數。（4分）\n③移動後，以藍盒為基準，紅盒是藍盒的幾倍？原來的3/4倍關係還成立嗎？（4分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "每格70÷7＝10張；原紅30張、藍40張。移後紅25張、藍45張；紅是藍的25/45＝5/9倍，3/4倍關係不成立。",
+            "explanation": "移動同時使紅少5、藍多5；總量不變不表示兩盒比例不變。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①每格10張2分；原紅30、藍40各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②紅25、藍45各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③5/9倍2分；3/4倍不成立2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 220\" width=\"500\" height=\"220\" role=\"img\"><desc>紅有3個等份格，藍有4個同樣的等份格。原來共70張；此圖只表示移動前</desc><text x=\"20\" y=\"28\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">每小格表示相同的量</text><text x=\"20\" y=\"92\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">紅</text><rect x=\"85\" y=\"70\" width=\"45\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"130\" y=\"70\" width=\"45\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"175\" y=\"70\" width=\"45\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"20\" y=\"152\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">藍</text><rect x=\"85\" y=\"130\" width=\"45\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"130\" y=\"130\" width=\"45\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"175\" y=\"130\" width=\"45\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><rect x=\"220\" y=\"130\" width=\"45\" height=\"30\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"20\" y=\"205\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">原來共70張；此圖只表示移動前</text></svg>",
+          "id": "g6s2-mathematics-midterm-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-04"
+          ],
+          "stimulus": "圖卡設計要求白：黑＝2：3，原有45張且沒有其他顏色。新設計要保持同一比例，白卡增加6張，黑卡可以另外增加。",
+          "prompt": "①列式求原來白、黑各幾張。（6分）\n②新設計白卡有幾張？列式求保持2：3時黑卡總共應有幾張。（4分）\n③黑卡須增加幾張？若白黑各加6張，還符合指定比嗎？以新張數說明。（4分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "原每份45÷5＝9，白18、黑27。新白24，黑24÷2×3＝36。黑須增加9張；若各加6則24：33，不等於2：3。",
+            "explanation": "保持比例要從新白的2份推黑3份，不是兩種都加同樣張數。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①總量÷5後按2、3分配的式2分；白18、黑27各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②白24張1分；黑的比例式1分；黑36張2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③須加9張2分；各加6不符合1分；指出24：33不同於2：3或等效檢查1分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-05"
+          ],
+          "stimulus": "實心直四角柱的底面為圖中的平行四邊形，底6公分、對應垂直高4公分、斜邊5公分；柱體體積180立方公分，柱高未知。",
+          "prompt": "①列式求底面積。（4分）\n②列式求柱高。（6分）\n③若柱高再增加2公分，底面不變，體積增加多少？寫算式。（4分）\n④求底面積時能把斜邊5代替垂直高4嗎？指出理由。（2分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "底面6×4＝24平方公分；柱高180÷24＝7.5公分；體積增加24×2＝48立方公分。不能用5代4，斜邊不與所選底邊垂直。",
+            "explanation": "底面積乘柱高還原體積；增加的2公分是相同底面的額外層厚。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①6×4為2分；24平方公分2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②180÷24合理式3分；7.5公分3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③底面積×2的式2分；增加48立方公分2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "④不能1分；5是斜邊、不是底的垂直高1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 220\" width=\"500\" height=\"220\" role=\"img\"><desc>只畫平行四邊形底面；底6公分，對應垂直高4公分，斜邊5公分。實心直四角柱體積180立方公分，柱高未知。示意圖未依比例。</desc><polygon points=\"70,165 190,165 250,85 130,85\" fill=\"none\" stroke=\"black\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"190\" y1=\"85\" x2=\"190\" y2=\"165\" fill=\"none\" stroke=\"black\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><polyline points=\"190,153 178,153 178,165\" fill=\"none\" stroke=\"black\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"105\" y=\"195\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">底6公分</text><text x=\"180\" y=\"135\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"end\">垂直高4</text><text x=\"58\" y=\"113\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">斜邊5</text><text x=\"285\" y=\"65\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">底面為平行四邊形</text><text x=\"285\" y=\"98\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">柱體體積180立方公分</text><text x=\"285\" y=\"131\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">柱高未知</text><text x=\"285\" y=\"180\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">只畫底面，未依比例</text></svg>",
+          "id": "g6s2-mathematics-midterm-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-06"
+          ],
+          "stimulus": "封閉長方體長8、寬3、高2公分。紀錄員把兩個8×3面編為甲組、兩個8×2面編為乙組、兩個3×2面編為丙組。三組已包含全部六面且沒有重複。",
+          "prompt": "①求甲、乙、丙每組兩面的合計面積。（6分）\n②求全部表面積。（2分）\n③若只貼四個側面，即乙、丙兩組，需多少面積？和全部表面相比少了哪些面、多少面積？（6分）\n④把長方體轉方向，全部表面積會改變嗎？說明理由。（2分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "甲48、乙32、丙12平方公分；全表面92平方公分。只貼側面需44平方公分，少兩個8×3面，共48平方公分。轉方向不改變六面的面積，總表面積不變。",
+            "explanation": "面組名稱可隨方向改變，但同一形體所有面的面積總和不變。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①甲48、乙32、丙12各2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "②92平方公分2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "③側面44平方公分2分；少甲組兩個8×3面2分；少48平方公分2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "④不變1分；六個面的面積未變1分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-midterm-c-q06"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-07"
+          ],
+          "stimulus": "原長方形水平長4公分、垂直寬2公分。請在所附方格畫原圖的1.5倍放大圖。每格邊長代表1公分，P作新圖左下頂點，邊要沿格線往右、往上畫。",
+          "prompt": "①求新圖水平、垂直邊長，並各寫算式。（4分）\n②在方格上完成新長方形，依序把左下、右下、右上、左上標成P、Q、R、S。（6分）\n③PQ對應原來哪個尺寸？角S是多少度？（4分）",
+          "responseLines": 5,
+          "answer": {
+            "value": "水平4×1.5＝6公分；垂直2×1.5＝3公分。從P向右6格、向上3格畫長方形，Q右下、R右上、S左上。PQ對應原長4公分；角S90度。",
+            "explanation": "方格提供的是數學單位，不依印刷物理尺寸量測。兩方向都乘1.5，對應角維持不變。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①兩個正確乘式各1分；6公分、3公分各1分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②從P向右6格2分；向上3格2分；四邊閉合且Q/R/S依指定位置標出2分，不評筆畫精細度。"
+              },
+              {
+                "points": 4,
+                "criterion": "③原水平長4公分2分；角S90度2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 295\" width=\"500\" height=\"295\" role=\"img\"><desc>空白方格為12欄8列，每格邊長代表1公分。P在左下角，是新長方形的左下頂點。</desc><text x=\"20\" y=\"24\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">每格邊長代表1公分；從P往右、往上畫</text><line x1=\"65\" y1=\"50\" x2=\"65\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"91\" y1=\"50\" x2=\"91\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"117\" y1=\"50\" x2=\"117\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"143\" y1=\"50\" x2=\"143\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"169\" y1=\"50\" x2=\"169\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"195\" y1=\"50\" x2=\"195\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"221\" y1=\"50\" x2=\"221\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"247\" y1=\"50\" x2=\"247\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"273\" y1=\"50\" x2=\"273\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"299\" y1=\"50\" x2=\"299\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"325\" y1=\"50\" x2=\"325\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"351\" y1=\"50\" x2=\"351\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"377\" y1=\"50\" x2=\"377\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"50\" x2=\"377\" y2=\"50\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"76\" x2=\"377\" y2=\"76\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"102\" x2=\"377\" y2=\"102\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"128\" x2=\"377\" y2=\"128\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"154\" x2=\"377\" y2=\"154\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"180\" x2=\"377\" y2=\"180\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"206\" x2=\"377\" y2=\"206\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"232\" x2=\"377\" y2=\"232\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"65\" y1=\"258\" x2=\"377\" y2=\"258\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"42\" y=\"278\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">P</text><circle cx=\"65\" cy=\"258\" r=\"2\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/></svg>",
+          "id": "g6s2-mathematics-midterm-c-q07"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s2-english-midterm-b",
+  "grade": 6,
+  "semester": 2,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "midterm",
+  "variant": "B",
+  "mode": "mixed-language",
+  "title": "小六下學期英語文・期中B卷",
+  "duration": "紙筆建議45–55分鐘；聽辨約5–8分鐘，個別口語約5–8分鐘，分開安排。可分次及延長；尚未經試測。",
+  "instructions": [
+    "先完成聽辨與口語；老師通知後才翻看紙筆題。",
+    "全用虛構角色，不必提供自己的私人生活或學習紀錄。",
+    "可休息、求助或說尚未學過；未觀察項會另外記錄。",
+    "文字題空間不夠可加空白紙，標明題號；未要求完整句時可用詞組回答。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、遮紙、普通大紙及額外空白紙；不用實物道具。",
+    "本卷教師專用完整讀稿、中文選卡與角色卡；由教師保管並逐回合提供。"
+  ],
+  "teacherNotes": [
+    "本卷依已恢復的六下12課編製。五、六年級屬同一學習階段，主題與學期配置以實際已教課程為準。期中01–06為100分；期末07–12為80分，01–06回顧20分。三卷是不同任務，未經學生試測或統計等值。",
+    "全卷完整施測為100分。分項已教且具備核對過的完整自然模型、學生確實作答，才計分。未教、未施測、拒絕、無回應、無適當機會或答案已被示範／翻譯者，記「未觀察」及原因，不記0，不按比例補成100。給內容提示後的表現另記支持表現。報告列已觀察得分／已觀察滿分，以及各未觀察項及滿分；不得以紙筆代替聽說分數。",
+    "合格英語教師須先私下核對每一回合的完整詞、句、語境及合理變體，並確認已在先前課程教過。核對依據與頁次＿＿；日期＿＿；教師＿＿；已教□；可自然提供全部模型□。本卷提供文字讀稿，沒有音檔，也沒有作者驗聽或學生表現驗證。第05課混合子音依課內通用美式完整詞模型；其餘任務接受可理解的標準英語變體。不得用字母名稱、中文諧音或未核對的合成語音代替。條件未備齊時保留聽說待施測。",
+    "施測順序固定為聽辨、口語、紙筆。前兩區塊結束前，收起教師卷、答案及後面紙筆；只展示本回合指定的中文情境／中文選卡。不能先朗讀英文答案暖身，不能由後題或英文句卡提示。已看過本次完整目標、答案翻譯或示範答案，事後遮住仍算曝光；相關獨立分項記未觀察。正常先前學習是先備條件，與本次答案曝光分開。兩區塊完成後才給正誤回饋。",
+    "聽辨只由教師自然讀英文讀稿，面容可正常看見，故不宣稱零視覺線索。每回合先給5秒看中文選卡，讀稿後留10秒作答，可申請一次原稿重讀，再留10秒。需要更長作答時間或休息可提供並記錄，不評速度。各回合選項重新使用，代號可重複，沒有每個只能選一次的規則。每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。",
+    "口語每回合先讀指定中文任務、給15秒準備，再說指定英文開場（若該回合有）。可延長時間、私下坐著作答，無需看人、演技、音量或特定口音。評題面明列的資訊、完整且可理解的英文及溝通功能。每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。",
+    "可打字、指選、大字、AAC、分段休息、忠實代筆或用中文說明推理；分別註記讀寫、支持溝通與獨立口語。成人可讀中文指示；代讀紙筆英文另記支持閱讀。AAC發聲、成人代說、跟讀或看完整句作答，不能認證本人的獨立英語語音。拒絕口說可完成相同中文情境的文字／AAC替代任務，另記理解，不把其分數搬進未觀察的口語欄。",
+    "題面未要求完整英文句時，接受中英文等義詞組、清楚指選、數字或圖示。要求完整句時，內容與句式分開給分。只按題面公開要求評分；不另扣未列出的字跡、口音、速度或次序。常見縮寫、正確同義句、合乎已給條件的不同排列同等給分。錯別字若仍能辨認意思，保留意思分；指定拼字題才要求該詞形正確。",
+    "全卷使用虛構人物及紙上活動；文化故事的有限核心情節來自已封存課內資料，其他試題文句均重新編寫。無需兒童真實姓名、行程、家庭、診斷或成績；不錄音錄影、不上傳、不操作網繩、箱子或實物。紙上音組與詞形題只能證明文字理解。"
+  ],
+  "parallelDesign": "A卷用雙人時點表、食物訪問、倒敘便條活動及第一人稱日記；B卷用單一紀錄的時間界線、提問修復、無時刻先後關係及第三人稱紀錄；C卷用地點與參觀的不同範圍、未知問答、可互換的中間步驟及雙人回顧。聽辨與口語的意思也各自不同。三卷同為12分聽辨、12分口語、76分紙筆，未經統計等值。",
+  "blueprint": [
+    {
+      "id": "listening",
+      "title": "一、聽辨",
+      "points": 12,
+      "purpose": "辨認自然英語訊息；保留真正聽辨證據。"
+    },
+    {
+      "id": "oral",
+      "title": "二、口語",
+      "points": 12,
+      "purpose": "由情境組句及接話；獨立口語與支持溝通分記。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與書寫",
+      "points": 76,
+      "purpose": "依完整原創資料閱讀、書寫與查核。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "一、聽辨",
+      "instructions": "逐題看清楚所問範圍；各題資料獨立。聽說只看老師當回合提供的中文材料。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-02",
+            "g6s2-english-04",
+            "g6s2-english-05"
+          ],
+          "prompt": "共三回合。每次聽一段英文，只用當回合的中文選卡回答老師明說的問題；每回合4分。可指選或說代號，可重聽同一完整讀稿一次，選過的代號可再選。",
+          "stimulus": "老師依回合提供中文問題與選卡；先不看後面的題目。",
+          "responseLines": 4,
+          "answer": {
+            "value": "1：乙；2：丙；3：甲",
+            "explanation": "各答案必須依當次完整讀稿及指定問題判斷；未聽讀稿時，中文選卡本身不指明正解。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合選乙得4分；其餘已嘗試且可評的反應0分。只採本回合一個完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合選丙得4分；其餘已嘗試且可評的反應0分。只採本回合一個完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合選甲得4分；其餘已嘗試且可評的反應0分。只採本回合一個完整反應。"
+              }
+            ]
+          },
+          "teacher": "依卷首完整模型先備與曝光規則。每回合看卡5秒；讀一遍後等10秒；可原樣重讀一次後再等10秒；需要延長或休息可記錄提供。\n第1回合：出示中文任務「哪件事先發生？」及選卡【甲 寫便條；乙 畫圖；丙 分享便條】。不得念出代號或中文正解；只自然讀以下英文：I drew a picture before I wrote the note. After that, I shared the note.\n第2回合：出示中文任務「他們昨晚做了哪件事？」及選卡【甲 去公園；乙 看短片；丙 在家吃晚餐】。不得念出代號或中文正解；只自然讀以下英文：We had dinner at home last night. We did not go to the park.\n第3回合：出示中文任務「聽到的完整單字是什麼意思？」及選卡【甲 停止；乙 木筏；丙 翻轉】。不得念出代號或中文正解；只自然讀以下英文：stop\n每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。 分項已教且具備核對過的完整自然模型、學生確實作答，才計分。未教、未施測、拒絕、無回應、無適當機會或答案已被示範／翻譯者，記「未觀察」及原因，不記0，不按比例補成100。給內容提示後的表現另記支持表現。",
+          "observationParts": [
+            {
+              "label": "聽辨回合1",
+              "points": 4
+            },
+            {
+              "label": "聽辨回合2",
+              "points": 4
+            },
+            {
+              "label": "聽辨回合3",
+              "points": 4
+            }
+          ],
+          "id": "g6s2-english-midterm-b-q01"
+        }
+      ]
+    },
+    {
+      "id": "oral",
+      "title": "二、口語",
+      "instructions": "逐題看清楚所問範圍；各題資料獨立。聽說只看老師當回合提供的中文材料。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-02",
+            "g6s2-english-03"
+          ],
+          "prompt": "共兩回合，每回合6分。第1回合依中文角色卡回答老師：先用完整英文短答表示肯定或否定，再用一句英文補指定事實。第2回合依中文任務，自己提出一個完整英文問句，包含指定人物、事情與時間。每回合：指定意思3分、完整且語法自然的英文2分、聽者能理解關鍵意思1分；不評速度、膽量、眼神或口音。",
+          "stimulus": "中文角色與中文任務由老師當回合提供；不使用自己的真實經驗。",
+          "responseLines": 5,
+          "answer": {
+            "value": "No, I didn’t. I wrote three words. ／ Were Rae and Milo at the park at ten last Sunday?",
+            "explanation": "模型只是可接受例子。主語、人稱、時間及事實相符的其他自然英文同等給分；完整形式與縮寫皆可。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "回合1指定意思：沒有寫故事1分；寫了三個字2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "回合1：完整肯否定短答1分；補充事實以完整、相合的英文句表達1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "回合1：關鍵意思可被理解1分，不要求特定口音。"
+              },
+              {
+                "points": 3,
+                "criterion": "回合2指定意思：Rae和Milo／they1分；在公園1分；last Sunday at ten1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "回合2：問句結構完整1分；主語與be相合或did後原形相合1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "回合2：關鍵意思可被理解1分，不要求特定口音。"
+              }
+            ]
+          },
+          "teacher": "第1回合只出示並讀中文：你代虛構角色回答：昨晚沒有寫故事，寫了三個字。先答是否寫故事，再補寫了什麼。。等15秒後自然問：Did you write a story last night?。教師私下核對完整可接受模型：No, I didn’t. I wrote three words.\n第2回合只出示並讀中文：請問老師：虛構角色Rae和Milo上星期日十點是否在公園？保留兩個人及星期日十點。。等15秒讓學生自行問；不示範英文問句。教師接話：Yes, they were.。教師私下完整模型：Were Rae and Milo at the park at ten last Sunday?\n兩回合結束前不提供英文更正或示範。每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。 分項已教且具備核對過的完整自然模型、學生確實作答，才計分。未教、未施測、拒絕、無回應、無適當機會或答案已被示範／翻譯者，記「未觀察」及原因，不記0，不按比例補成100。給內容提示後的表現另記支持表現。",
+          "observationParts": [
+            {
+              "label": "回合1指定意思",
+              "points": 3
+            },
+            {
+              "label": "回合1句子",
+              "points": 2
+            },
+            {
+              "label": "回合1可理解度",
+              "points": 1
+            },
+            {
+              "label": "回合2指定意思",
+              "points": 3
+            },
+            {
+              "label": "回合2句子",
+              "points": 2
+            },
+            {
+              "label": "回合2可理解度",
+              "points": 1
+            }
+          ],
+          "id": "g6s2-english-midterm-b-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與書寫",
+      "instructions": "依題目給定材料作答，別把未提及當成沒有；答案可在空白紙續寫並標題號。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-01",
+            "g6s2-english-02"
+          ],
+          "prompt": "（1）把紀錄中昨天下午一點的所在地寫成完整英文句，保留兩人、地點、昨天和下午一點。（4分）（2）把昨晚活動寫成完整英文句，保留兩人、做的事情和昨晚。（4分）（3）能否因此說兩人昨天整天都在公園？答能／不能並說一項理由。（3分）（4）「昨晚沒看影片」是否能當作已知事實？回答並說資料理由。（3分）",
+          "stimulus": "Yesterday at one p.m., Juno and Kit were at the park. At five p.m., they were at the museum. Last night, they played chess. The record does not list all their activities.\nlist列出；all全部。",
+          "responseLines": 9,
+          "answer": {
+            "value": "（1）Juno and Kit were at the park at one p.m. yesterday.（2）They played chess last night.（3）不能；五點在博物館，或一點記錄不是整天記錄。（4）不能；沒記錄看影片，也沒明說沒看。",
+            "explanation": "地點句用were；活動句用played。未列全活動就不能補出否定。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）兩人1分、公園1分、yesterday at one p.m.1分、完整句且were1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）兩人／they1分、play chess意思1分、last night1分、完整句且played1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）不能1分；五點在博物館或單一時點非整天任一2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（4）不能1分；未列全活動或沒有影片肯否定資料任一2分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-midterm-b-q03"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-03"
+          ],
+          "prompt": "（1）用本課一般過去式（Did加動詞原形），修好問句Was Noel draw a picture yesterday?，仍然問同一活動。（3分）（2）依紀錄，用完整英文肯否定短答回答修好的問句。（3分）（3）幫訪問者寫完整英文問句，問Noel昨天下午四點是否在圖書館；保留時間。（3分）（4）若問Noel昨晚有沒有分享圖片，能確定嗎？寫答案和資料理由。（3分）",
+          "stimulus": "Noel drew a picture yesterday. Noel was at home at four p.m. yesterday, not at the library. The record gives no information about last night.\nNoel以he代稱；drew是draw的過去式；information資訊。",
+          "responseLines": 9,
+          "answer": {
+            "value": "（1）Did Noel draw a picture yesterday?（2）Yes, he did.（3）Was Noel at the library at four p.m. yesterday?（4）不能確定；昨晚未記錄。 （3）也接受直接問Noel：Were you at the library at four p.m. yesterday?",
+            "explanation": "動作用did，地點用was。肯定畫圖不會證明稍後分享。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "（1）Did與主語順序1分、draw原形1分、完整問句且保留picture／yesterday1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）肯定2分；he did等相合完整短答1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）Was與Noel／he相合，或直接對Noel問Were you，完整問句1分；at the library1分；four p.m.及yesterday1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（4）未知1分；昨晚無資料或畫圖不等於分享任一2分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-midterm-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-04"
+          ],
+          "prompt": "（1）按事件發生順序列A–D四代號。（4分）（2）用兩個完整英文句寫最早及最後事件，分別以First、Finally開頭。（6分）（3）短文it指什麼？（3分）（4）能否知道整個活動用了幾分鐘？答能／不能，並說缺少什麼資料。（3分）",
+          "stimulus": "After Bea checked a question, Bea shared it with a partner. Earlier, Bea wrote the question after reading a story. Bea wrote the question before checking it. All four actions happened yesterday. No clock times are given.\nA shared the question；B read a story；C checked the question；D wrote the question。\npartner同伴；earlier較早；clock times時刻。",
+          "responseLines": 10,
+          "answer": {
+            "value": "（1）B→D→C→A。（2）First, Bea read a story. Finally, Bea shared the question.（3）question／問題。（4）不能；沒有開始與結束時刻。",
+            "explanation": "after指出先讀再寫；新增明示寫在檢查前，檢查後分享，四步因此唯一為B→D→C→A。本文有順序，卻沒有分鐘數資料。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）BDCA各位置1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）First最早讀故事意思1分；過去式read1分；含First完整句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）Finally最後分享問題意思1分；shared1分；含Finally完整句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）question／問題3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（4）不能1分；沒有起訖時刻／分鐘資料2分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-midterm-b-q05"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-05"
+          ],
+          "prompt": "（1）把sleep、flip、raft各自的目標混合子音字母組寫出，並註明字首或字尾。（每詞2分，共6分）（2）有人說「block裡的ck和bl都是兩字母，所以都是本課說的兩音混合」。這個說法正確嗎？指出哪一組不是本課的混合子音，並說不能只靠什麼判斷。（3分）（3）單靠本題文字答案，能否知道學生實際有沒有在子音之間多加一個母音？（1分）",
+          "stimulus": "sleep睡覺；flip翻轉；raft木筏；block積木塊。沒有錄音或朗讀觀察。",
+          "responseLines": 7,
+          "answer": {
+            "value": "（1）sleep：sl、字首；flip：fl、字首；raft：ft、字尾。（2）不正確；ck不是本課的兩音混合，不能只數字母。（3）不能。",
+            "explanation": "bl是本課混合例；ck不因有兩字母就變混合。紙上分類不能辨認學生實際添音。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "（1）每詞正確組合1分、位置1分，共6分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）不正確1分；指出ck1分；不能只靠字母數1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "（3）不能1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-midterm-b-q06"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-06"
+          ],
+          "prompt": "（1）修正四個括號內動詞的拼字，每題只寫正確詞，每詞2分。（8分）（2）Did Iris read a note yesterday?中的read應是原形還是過去式？指出句中哪個詞決定主要動詞用原形。（2分）（3）study變studied時，y前的d有被刪掉嗎？寫有／沒有，再寫正確過去式。（2分）",
+          "stimulus": "① Iris (likeed) the story yesterday.\n② Iris (stoped) writing at five yesterday.\n③ Iris did not (ate) rice last night.\n④ Did Iris (went) to the library yesterday?\n詞庫：writing寫作。",
+          "responseLines": 7,
+          "answer": {
+            "value": "（1）liked；stopped；eat；go。（2）原形；Did。（3）沒有；studied。",
+            "explanation": "liked只加d；stopped雙寫p；did後eat／go。read雖拼法相同，在did後的句法位置仍是原形。",
+            "scoring": [
+              {
+                "points": 8,
+                "criterion": "（1）四詞各正確拼字2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（2）原形1分；Did／did1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）沒有1分；studied1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-midterm-b-q07"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-02",
+            "g6s2-english-04",
+            "g6s2-english-06"
+          ],
+          "prompt": "為虛構角色Faye寫3–4個完整英文句，依早上、下午、晚上的順序保留四項事實。用第三人稱Faye或she，寫成昨天的活動紀錄。內容每項2分（8分）；第三人稱一致1分；完整句且過去式相合2分；三時段依序且清楚1分。",
+          "stimulus": "Yesterday morning: go to the park.\nYesterday afternoon: visit a book display.\nLast night: eat noodles; do not play chess.\ndisplay展示；noodles麵。Faye以she代稱。",
+          "responseLines": 12,
+          "answer": {
+            "value": "Yesterday morning, Faye went to the park. Yesterday afternoon, she visited a book display. Last night, she ate noodles and did not play chess.",
+            "explanation": "過去一般動詞不再加第三人稱s；否定用did not play。",
+            "scoring": [
+              {
+                "points": 8,
+                "criterion": "四項事實各2分：去公園、參觀書展、吃麵、沒有下棋；可辨詞組保留內容分。"
+              },
+              {
+                "points": 1,
+                "criterion": "Faye／she第三人稱一致1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "3–4個完整句1分；已寫句的動詞與過去肯定／否定結構相合1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "早上→下午→昨晚且三時段清楚1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-midterm-b-q08"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館已封存課文｜過去所在的地點",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-01.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜昨天及昨晚的活動",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-02.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜過去問答與肯否定回應",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-03.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜活動經驗的前後順序",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-04.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜混合子音的辨識拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-05.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜常見過去式詞形辨認",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-06.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s1-english-midterm-b",
+  "grade": 6,
+  "semester": 1,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "midterm",
+  "variant": "B",
+  "mode": "mixed-language",
+  "title": "小六上學期英語文・期中B卷",
+  "duration": "紙面建議35–45分鐘，真人聽說各5–10分鐘；可分日、休息及延長。設計估計，未經試測。",
+  "instructions": [
+    "先完成第1、2題，老師說可以才看紙面題。",
+    "一般角色是虛構，不用提供自己的作息、住址或飲食資料。",
+    "可休息或說尚未學過；未施測聽說會分開記錄。"
+  ],
+  "materials": [
+    "當前題指定的大紙卡、遮紙、鉛筆及空白紙；無需外找圖片或聲音。",
+    "完整教師讀稿及答案由教師分開保管。"
+  ],
+  "teacherNotes": [
+    "範圍依本館12課實際教材，不是全國統一進度。期中01–06；期末07–12恰80分、01–06回顧恰20分。A/B/C任務資料與判斷不同，未經試測或統計等值，不能當排名依據。",
+    "完整施測100分；僅報已觀察得分／已觀察滿分及未觀察分項，不補0、不比例換算。未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+    "聽說前須由合格英語教師私下逐字核對本卷所有完整讀稿、目標句與可接受變體，確認學生已學；填寫完整模型核對來源與頁次＿＿、核對日期＿＿、教師＿＿、已教□、能自然示範全部模型□。本卷沒有音檔，作者沒有驗聽；書面核對不能認證語音。第06、07課聽辨採合格教師核對的通用美式完整詞模型，其他口語接受可理解的標準變體。模型須在先前教學完成；本次先私下核對，不能在測驗前剛示範目標再稱獨立。無可靠模型或合格施測者則延期聽說，只做紙面題。不用中文諧音、未驗聽合成聲音或拼讀字母名稱替代詞音。",
+    "固定順序：第1題聽辨→第2題口語→其餘紙面。先收起所有後題、教師卷、答案與英語句卡；聽辨只出示當回合指定中文選卡，口語只出示當回合中文情境。兩個真人區塊全做完才給任何正誤回饋或英文模型。不得將本次完整目標、翻譯、示範發音或答案位置當暖身。已曝光後再遮住不能恢復獨立性，受影響分項記受提示／未觀察；平常已學則是先備條件。",
+    "每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。",
+    "聽辨每次收走上一回合選卡；不准先讀中文正解，不准特別暗示字音。選卡位置照逐試稿；同一代號可重複選，沒有排除或每項只能一次的規則。教師面部自然可見，不遮臉或蒙眼，不能稱完全沒有視覺線索。指卡或AAC可證明當次聽懂；成人念出英文選項或逐詞翻譯則另記有支持理解。",
+    "口語先中性讀中文任務，不先示範英文問答。評當次意思、可理解的完整句和題目明列的功能，不評音量、眼神、速度、膽量或單一口音。正常標準變體、縮寫或完整形式、正確自然句序等同給分。跟讀、成人代說或AAC發聲只記支持溝通，不認證學生本人的獨立語音。",
+    "紙面英文由學生認讀；成人可讀中文指示。代讀英文另記支持閱讀，不稱獨立閱讀。可指代號、AAC、打字、口述或忠實代筆；紙面字卡可輔助，須記錄；獨立聽說則不得出示英文句卡。代筆不等於獨立手寫。只有題面明列的拼字、大寫、空格或標點才計格式分；其他題不因字跡或偶發拼寫錯誤抹去可辨的意思。",
+    "評分只用題面明問資訊。中文或等義簡短理由、指向明確證據均可；未要求完整句的答案可用詞組、數字或清單得全分。要求完整句時，事實與句法分開，正確短語仍得事實分。單選矛盾多答僅該選擇子分0，清楚刪改依最後答；同義多答不扣。不要索取未問的理由。",
+    "本卷人物、活動、數量與紙卡皆為新編虛構資料；第11課文化事實只沿用已封存教材的有限官方介紹，不代表所有家庭。不要問真實住址、家庭、健康、宗教或飲食原因，不錄音錄影、不上傳。只用大紙卡、鉛筆、遮紙，不使用活體、食物、刀剪或外出。可休息、拒絕、求助。",
+    "本卷r控制母音、雙母音與語調紙題只是文字概念證據；不能代替真人聽辨、發音、聽寫或手寫筆順觀察。交通、作息和金額全為紙上模型，不實際出行或買賣，也不推論健康、國籍或法律身分。"
+  ],
+  "parallelDesign": "A以雙欄錯植、面南右轉、未回覆邀請及閱讀重疊為核心；B以雙人否定、面西左轉、已確認改約及重疊消失為核心；C以未知喜好、方式與路線區分、雙重共同興趣和雙解預算為核心。皆100分，範圍01–06；未經統計等值。",
+  "blueprint": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 76,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-06"
+          ],
+          "prompt": "聽老師逐回合念一個已學英文詞，只看當次兩張中文意思卡，選出聽到的意思。共三回合，每回合4分；可重聽同一詞一次，代號可重複。",
+          "stimulus": "只有老師當回合提供的中文選卡；不展示英文單字。",
+          "responseLines": 4,
+          "answer": {
+            "value": "第1回合甲；第2回合乙；第3回合乙",
+            "explanation": "答案依當次整詞語音而改變；中文選卡不提供唯一答案。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合選甲得4分；其餘已嘗試反應0分。只採一個完整反應，不跨次拼接。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合選乙得4分；其餘已嘗試反應0分。只採一個完整反應，不跨次拼接。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合選乙得4分；其餘已嘗試反應0分。只採一個完整反應，不跨次拼接。"
+              }
+            ]
+          },
+          "teacher": "先私下確認所有整詞與中文意思已教，採核對過的通用美式rhotic模型。只念冒號後英文，不念中文答案或代號：第1回合出示【甲 襯衫；乙 星星】，自然念：shirt。 第2回合出示【甲 蕨類植物；乙 叉子】，自然念：fork。 第3回合出示【甲 部分；乙 泥土】，自然念：dirt。 每回合收回前卡；全聽辨完成後才做口語，兩區塊結束前不給答案。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "詞義聽辨1",
+              "points": 4
+            },
+            {
+              "label": "詞義聽辨2",
+              "points": 4
+            },
+            {
+              "label": "詞義聽辨3",
+              "points": 4
+            }
+          ],
+          "id": "g6s1-english-midterm-b-q01"
+        }
+      ]
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-01",
+            "g6s1-english-02",
+            "g6s1-english-04"
+          ],
+          "prompt": "老師給三個獨立中文角色任務，各用完整英文句回答。第1回合表達人物及來處；第2回合表達人物、上學及交通方式；第3回合表達人物、指定作息及含早／下午的時刻。每回合4分。",
+          "stimulus": "只看／聽當回合的中文資料；不先看英文模型。",
+          "responseLines": 4,
+          "answer": {
+            "value": "He is from Japan.；I go to school by bike.；She has breakfast at seven a.m.",
+            "explanation": "人稱、事實與句法分開給分；正確完整同義結構同分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合：指定來處2分；指定人稱與單複數1分；自然完整be from句1分。縮寫及完整形式同分；地點片語可得來處分，不必逐字同模型。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合：上學意思1分；方式1分；指定人物1分；正確完整句1分。步行可用walk(s) to school或go(es) to school on foot，其他自然同義句也可。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合：指定活動1分；鐘點連同早／下午1分；指定人物1分；人稱動詞相合且完整英文句1分。數字讀法、half past、a quarter past/to及in the morning/afternoon等同義形式皆可。"
+              }
+            ]
+          },
+          "teacher": "收回聽辨卡，不回饋。逐回合只讀中文任務：第1回合：你代一位男性虛構角色介紹：他來自日本。用完整英文句，不談現在住哪裡。 第2回合：你代虛構角色自己介紹：我通常騎自行車上學。用完整英文句說明人物、上學及方式。 第3回合：你代一位女性角色介紹：她早上七點吃早餐。用完整英文句，保留早上。 教師私用完整模型（不可事前念給學生）：He is from Japan.；I go to school by bike.；She has breakfast at seven a.m.。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "來處與人稱",
+              "points": 4
+            },
+            {
+              "label": "人物與交通",
+              "points": 4
+            },
+            {
+              "label": "人物與作息時刻",
+              "points": 4
+            }
+          ],
+          "id": "g6s1-english-midterm-b-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "各題資料彼此獨立；按題目選、指、寫或說明。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-01"
+          ],
+          "prompt": "（1）主持人問Are Ben and Liv from Canada?，請用完整英文否定短答，再補一個完整句說正確來處。（2）用一個完整英文句說兩人現在住哪裡。（3）Tia的from未填，是否能用她的現居地補成來處？說明理由。",
+          "stimulus": "虛構訪談卡：Ben and Liv：from the United States；live now Canada。\nTia：from 未填；lives now Taiwan；likes drawing。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）No, they aren’t. They are from the United States.（2）They live in Canada now.（3）不能；住在Taiwan不等於自述來自Taiwan，from資料未知。",
+            "explanation": "兩人使用they are/live，未填資料不得替角色推測。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "（1）否定意思1分、they are not／aren’t完整短答1分；the United States正確來處2分；完整be from且are相合1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）Canada現居2分、兩人主語1分、完整句且live正確1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）不能1分；來處未知或現居不等於來處任一理由2分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-midterm-b-q03"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-02"
+          ],
+          "prompt": "（1）按任務寫O到P的節點順序，並選英文turn left或turn right說在M如何轉。（2）草稿把轉向寫成turn right，它會到哪個節點？（3）用一個完整英文句修正交通草句，保留角色卡的意思。",
+          "stimulus": "紙上模型，北在上。O在M東邊、P在M南邊、N在M北邊，只有O—M、M—P、M—N三線。從O出發面向西，任務到P。\n虛構角色Jo：通常on foot上學。\n草句：Jo go to school by foot.",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）O→M→P；turn left。（2）N。（3）Jo walks to school.／Jo goes to school on foot.",
+            "explanation": "面向西時左轉朝南，右轉朝北；交通更正可採兩種完整自然句。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "（1）O→M→P3分；turn left2分。只寫left也得轉向分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）N3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（3）Jo人物1分、上學1分、步行意思1分、自然完整句且walks或goes相合1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-midterm-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-03"
+          ],
+          "prompt": "（1）依卡用完整英文句寫Wes通常的週末活動。（2）用完整英文問句詢問Iris是否喜歡桌遊。（3）最後約好的活動、星期與時間是什麼？可用詞組。（4）早先的No是否表示Iris不喜歡畫圖？用一句中文說明。",
+          "stimulus": "Wes: I usually read comics on weekends.\nIris: I like drawing and board games.\nWes: Are you free on Saturday at two?\nIris: No. I’m busy then.\nWes: How about Sunday at two? Let’s draw pictures.\nIris: Yes. Sunday at two. Let’s draw.\n兩人以這段回覆確認紙上安排。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）Wes usually reads comics on weekends.（2）Does Iris like board games?（3）draw pictures；Sunday；two／2:00。（4）不是；No回答星期六兩點是否有空，她另明說喜歡畫圖。",
+            "explanation": "否定短答只能對應原問題；後續完整確認建立新安排。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）read comics2分、usually及週末1分、完整句且reads1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）Iris1分、喜歡桌遊意思2分、完整does問句且like原形1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）畫圖、星期日、兩點各1分。未要求下午，不加隱藏條件。"
+              },
+              {
+                "points": 3,
+                "criterion": "（4）不是1分；否定有空或明說喜歡畫圖任一正確依據2分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-midterm-b-q05"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-04"
+          ],
+          "prompt": "（1）用一個完整英文句寫Amy今天讀書起訖時間，保留下午。（2）Amy今天讀幾分鐘？（3）更新後兩人的閱讀是否重疊？寫兩段相鄰的結束／開始時刻作依據。（4）Lee在21:00上床，能否據此認定他21:00已睡著？說明。",
+          "stimulus": "原卡24小時制：Amy read 16:00–16:40；Lee read 16:30–17:00；Lee go to bed 21:00。\n今天更新：Amy read 16:00–16:20；Lee不變。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）Today, Amy reads from four to four twenty p.m.（2）20分鐘。（3）沒有；Amy16:20結束、Lee16:30開始。（4）不能；上床不等於已睡著。",
+            "explanation": "更新只影響Amy，原本的交集消失；上床資料不是入睡紀錄。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）16:00起2分、16:20迄1分、下午明確且完整英文句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）20分鐘3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（3）無重疊2分；16:20結束、16:30開始各1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（4）不能1分；上床與入睡不同2分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-midterm-b-q06"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-05"
+          ],
+          "prompt": "（1）用英文詞組回答How many books are there?（2）活動單的third activity是什麼？用一個完整英文句回答。（3）選2支鉛筆及1本筆記本，總價多少新臺幣？列算式。（4）若有人把Start 3:15 p.m.看成15分鐘長，這個結論對不對？指出仍缺哪項資料。",
+          "stimulus": "虛構活動：Room 415；Books 12；Read page 35；Start 3:15 p.m.。\nActivity 1: read a short story. Activity 2: share one idea. Activity 3: choose a book.\n紙上單價：pencil NT$12；notebook NT$35；bookmark NT$15。無其他費用。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）twelve books。（2）The third activity is choosing a book.／The third activity is to choose a book.（3）2×12＋35＝NT$59。（4）不對；只有開始，缺結束時刻或活動時長。",
+            "explanation": "third對應位置，價錢按實選物品，開始鐘點不等於時長。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "（1）twelve／12為書數2分、books1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（2）選一本書2分、third1分、自然完整句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）NT$59或59新臺幣2分；2×12＋35算式1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "（4）不對2分；缺結束時刻或時長任一2分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-midterm-b-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-english-06"
+          ],
+          "prompt": "（1）依中文標籤寫正確整詞與母音加r字母組：襯衫、暴風雨、蕨類。（2）在本課已核對美式模型中，fern和shirt的目標母音可同類，是否表示兩詞意思相同？各寫出它們的中文意思。（3）本題分類記錄應放文字欄還是實際發音欄？",
+          "stimulus": "可選詞：shirt、star、storm、fern。這是紙面分類，沒有聽說施測。",
+          "responseLines": 4,
+          "answer": {
+            "value": "（1）shirt—ir；storm—or；fern—er。（2）不是；fern蕨類、shirt襯衫。（3）文字欄。",
+            "explanation": "同類目標母音不等於整詞相同或同義。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "（1）每組整詞1分、字母組1分，共6分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）不是1分；fern蕨類1分、shirt襯衫1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "（3）文字欄1分。"
+              }
+            ]
+          },
+          "id": "g6s1-english-midterm-b-q08"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜國家名稱與來自哪裡",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-01.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜交通方式與上學路線",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-02.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜週末休閒活動",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-03.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜日常作息與時間",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-04.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜生活數字的不同用途",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-05.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜r控制母音的拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s1-english-06.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s2-mathematics-final-a",
+  "grade": 6,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "A",
+  "mode": "written",
+  "title": "小六下學期數學・期末A卷",
+  "duration": "建議60–75分鐘，可分兩節完成或依需要延長；時間為設計估計，尚未試測。",
+  "instructions": [
+    "滿分100分。各題資料獨立；小題旁已列配分。請依明問要求寫算式、答案、圖示或理由。",
+    "分數、小數保留精確值，接受等值分數和不同正確方法；沒有要求四捨五入的題目不要自行取近似。",
+    "凡涉及圓的長度、面積或體積，統一用π≈3.14，算到所得小數，不另四捨五入；答案以約或≈表示。",
+    "依圖上標記和方格代表的單位作答，不量印出或螢幕的公分。圖未依比例時，以標記為準。",
+    "可在所附空間或另紙畫圖；可中性讀題、放大或按你的指示代筆，數學判斷由你完成。"
+  ],
+  "teacherNotes": [
+    "本卷以保存的六下14課及學期編排為範圍，並非全國統一進度。期中01–07；期末08–14占80分，01–07回顧占20分。先核對實際已教內容。三卷未經試測或統計等值檢驗。",
+    "每個規準已拆成可核對子分；單一未再細分的條件達成全給，未達0分。不把參考解說的額外步驟當隱藏要求；接受最短完整答案與不同正確方法。",
+    "方法與結果分別評。前步數值誤算，後步依自己數值使用正確關係仍給後步方法分；標準數值分依正確答案。題幹單位明確可省重複單位，明寫錯誤維度則不給該答案數值分。",
+    "畫圖按題目指定的格數、對應、標記和比例關係評分，不評字跡、色彩或線條精細度。可用大張格紙、口述指定位置或依學生指示代筆；不能直接告知答案。",
+    "圓以π≈3.14計算的量須有一次清楚涵蓋該列的約值標記即可；不對同一近似標示重複扣分。若規準未設標記分，只中性提醒。",
+    "只用直三角柱、四角柱或圓柱；兩形體組合只算體積，不算複合表面積。不用平方根、三角函數、排列組合公式或古典機率公式。",
+    "所有模型與資料均虛構。不要求實際購買、切割、灌水、外出、抽卡或蒐集學生私人資訊。紙筆證據不代表實際操作能力已驗證。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺、另附空白或方格紙；圓形圖題使用本卷提供的百等分模板，不需量角器。"
+  ],
+  "parallelDesign": "A期末以往返路徑和地圖放大、面積限制、分類錯置修正後製圖、折線並列增量、零次紀錄限制、受限顏色圖案計數和單位逆查構成。回顧以多步驟分數小數及長方體雙量共20分。",
+  "sources": [
+    {
+      "title": "本館小六下數學14課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g6s2",
+      "note": "依已保存commit d912df1a25f6e6414c631d640af696a2309f2d1e之14課逐課核對；本次未重新擷取外部課綱。題目、情境與圖形為新編。"
+    },
+    {
+      "title": "教育部數學課綱發布頁（保存教材引註）",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材來源。N-6-5/6/8/9、R-6-1/2/3/4、S-6-1/2/4、D-6-1/2；學期與題目編排屬本館參考安排。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "points": 80,
+      "purpose": "以明示的計算、圖形、比較與解釋留下數學證據。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "以明示的計算、圖形、比較與解釋留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "instructions": "按各小題要求作答；只需提供明問的證據。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-08"
+          ],
+          "stimulus": "虛構路網的比例尺為1：2500。圖上AB＝1.2公分、BC＝2.4公分、CD＝0.8公分。任務從A沿A→B→C到終點，再原路C→B→A返回；全程不走CD或其他路。",
+          "prompt": "①列式求A→B→C單程的實際路程，以公尺作答。（4分）\n②列式求本次往返的實際總路程。（4分）\n③若把整張地圖的長度放大2倍，實際道路不變，新圖比例尺是多少？說明後項怎麼調整。（4分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "1公分代表25公尺；單程（1.2＋2.4）×25＝90公尺；往返90×2＝180公尺；新比例尺1：1250，後項2500÷2。",
+            "explanation": "指定路徑需重計回程經過的線段，但未經過的CD不列入。圖面放大使每一圖上公分代表的實際距離減半。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①兩段相加再按25公尺/公分換算的式2分；90公尺2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②原路往返乘2或逐段相加的式2分；180公尺2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③1：1250為2分；後項2500÷2或每圖上單位代表距離減半的理由2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 265\" width=\"500\" height=\"265\" role=\"img\"><desc>折線路網，AB長1.2公分，BC長2.4公分，CD長0.8公分。標記均為圖上長度，實際行進順序由題目指定；未依比例。</desc><line x1=\"60\" y1=\"155\" x2=\"190\" y2=\"155\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"190\" y1=\"155\" x2=\"190\" y2=\"70\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"190\" y1=\"70\" x2=\"370\" y2=\"70\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><circle cx=\"60\" cy=\"155\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"53\" y=\"143\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">A</text><circle cx=\"190\" cy=\"155\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"170\" y=\"143\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"end\">B</text><circle cx=\"190\" cy=\"70\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"183\" y=\"58\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">C</text><circle cx=\"370\" cy=\"70\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"363\" y=\"58\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">D</text><text x=\"97\" y=\"184\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">1.2公分</text><text x=\"208\" y=\"123\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">2.4公分</text><text x=\"260\" y=\"48\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">0.8公分</text><text x=\"20\" y=\"219\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">原圖比例尺1：2500</text><text x=\"20\" y=\"245\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">標記為圖上長度；路線示意未依比例</text></svg>",
+          "id": "g6s2-mathematics-final-a-q01"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-09"
+          ],
+          "stimulus": "原設計是長8、寬5公分的長方形。整個圖案按長度1.5倍等比例放大，不增加邊框或挖洞。展示規格只限制圖案面積至多85平方公分，包含85。",
+          "prompt": "①求新圖長和寬，各寫算式。（4分）\n②求原圖、新圖面積，以及新圖面積是原圖的幾倍。（4分）\n③判斷新圖是否符合面積限制，算比上限多或少多少。（4分）",
+          "responseLines": 8,
+          "answer": {
+            "value": "新長12公分、寬7.5公分；原面積40、新面積90平方公分；面積9/4＝2.25倍。不符合，超過5平方公分。",
+            "explanation": "兩個方向各1.5倍，面積乘1.5×1.5，不是只乘1.5。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①兩乘式各1分；12、7.5公分各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②原40、新90各1分；面積倍率9/4或2.25為2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③不符合2分；超過5平方公分2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-final-a-q02"
+        },
+        {
+          "kind": "short",
+          "points": 16,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-10"
+          ],
+          "stimulus": "共有80張明信片，每張只歸一類。初稿登記：山景32張、海景16張、天空24張、其他8張。核對發現山景中有4張應歸海景；只需移正這4張，其他紀錄都正確。完整圓為100%，360度；每1%對應3.6度。",
+          "prompt": "①修正山景、海景張數。（2分）\n②算四類占80張的百分率，不用四捨五入。（4分）\n③用百等分模板，從頂端0順時針依「山景、海景、天空、其他」順序製圖。畫各類分界，標類別和百分率，加題名與全體張數。可只標分界和文字，不必塗滿。（7分）\n④求山景扇形的圓心角。（3分）",
+          "responseLines": 10,
+          "answer": {
+            "value": "修正山景28、海景20張。山景35%、海景25%、天空30%、其他10%。累計界線35、60、90、100；依序標四類及百分率。題名如「80張明信片的景物分類」。山景圓心角35×3.6＝126度。",
+            "explanation": "分類修正不改總數80；先把誤分類改正再計百分率，不能把原32張直接拿來畫山景。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "①山景28、海景20各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②35%、25%、30%、10%各1分。"
+              },
+              {
+                "points": 7,
+                "criterion": "③界線35、60、90各1分；四類各與正確百分率對應並標於對應區或圖例，各0.5分；恰當題名1分、全體80張1分。可用起止界線標記替代塗色，但仍須對應模板分界。"
+              },
+              {
+                "points": 3,
+                "criterion": "④35×3.6或360×35%的式1分；126度2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 295\" width=\"500\" height=\"295\" role=\"img\"><desc>供作答的完整百等分圓形圖模板。頂端為0，順時針每10格標10至90，回頂端為100。每格是相同的1%扇區；尚未填入任何分類答案。</desc><line x1=\"140\" y1=\"150\" x2=\"140.0\" y2=\"50.0\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"146.27905\" y2=\"50.19733\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"152.53332\" y2=\"50.78853\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"158.73813\" y2=\"51.77127\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"164.86899\" y2=\"53.14168\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"170.9017\" y2=\"54.89435\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"176.81246\" y2=\"57.02235\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"182.57793\" y2=\"59.51729\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"188.17537\" y2=\"62.36933\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"193.58268\" y2=\"65.56721\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"198.77853\" y2=\"69.0983\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"203.7424\" y2=\"72.94868\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"208.45471\" y2=\"77.10314\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"212.89686\" y2=\"81.54529\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"217.05132\" y2=\"86.2576\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"220.9017\" y2=\"91.22147\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"224.43279\" y2=\"96.41732\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"227.63067\" y2=\"101.82463\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"230.48271\" y2=\"107.42207\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"232.97765\" y2=\"113.18754\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"235.10565\" y2=\"119.0983\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"236.85832\" y2=\"125.13101\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"238.22873\" y2=\"131.26187\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"239.21147\" y2=\"137.46668\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"239.80267\" y2=\"143.72095\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"240.0\" y2=\"150.0\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"239.80267\" y2=\"156.27905\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"239.21147\" y2=\"162.53332\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"238.22873\" y2=\"168.73813\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"236.85832\" y2=\"174.86899\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"235.10565\" y2=\"180.9017\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"232.97765\" y2=\"186.81246\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"230.48271\" y2=\"192.57793\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"227.63067\" y2=\"198.17537\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"224.43279\" y2=\"203.58268\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"220.9017\" y2=\"208.77853\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"217.05132\" y2=\"213.7424\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"212.89686\" y2=\"218.45471\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"208.45471\" y2=\"222.89686\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"203.7424\" y2=\"227.05132\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"198.77853\" y2=\"230.9017\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"193.58268\" y2=\"234.43279\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"188.17537\" y2=\"237.63067\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"182.57793\" y2=\"240.48271\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"176.81246\" y2=\"242.97765\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"170.9017\" y2=\"245.10565\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"164.86899\" y2=\"246.85832\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"158.73813\" y2=\"248.22873\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"152.53332\" y2=\"249.21147\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"146.27905\" y2=\"249.80267\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"140.0\" y2=\"250.0\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"133.72095\" y2=\"249.80267\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"127.46668\" y2=\"249.21147\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"121.26187\" y2=\"248.22873\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"115.13101\" y2=\"246.85832\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"109.0983\" y2=\"245.10565\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"103.18754\" y2=\"242.97765\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"97.42207\" y2=\"240.48271\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"91.82463\" y2=\"237.63067\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"86.41732\" y2=\"234.43279\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"81.22147\" y2=\"230.9017\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"76.2576\" y2=\"227.05132\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"71.54529\" y2=\"222.89686\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"67.10314\" y2=\"218.45471\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"62.94868\" y2=\"213.7424\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"59.0983\" y2=\"208.77853\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"55.56721\" y2=\"203.58268\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"52.36933\" y2=\"198.17537\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"49.51729\" y2=\"192.57793\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"47.02235\" y2=\"186.81246\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"44.89435\" y2=\"180.9017\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"43.14168\" y2=\"174.86899\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"41.77127\" y2=\"168.73813\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"40.78853\" y2=\"162.53332\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"40.19733\" y2=\"156.27905\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"40.0\" y2=\"150.0\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"40.19733\" y2=\"143.72095\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"40.78853\" y2=\"137.46668\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"41.77127\" y2=\"131.26187\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"43.14168\" y2=\"125.13101\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"44.89435\" y2=\"119.0983\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"47.02235\" y2=\"113.18754\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"49.51729\" y2=\"107.42207\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"52.36933\" y2=\"101.82463\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"55.56721\" y2=\"96.41732\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"59.0983\" y2=\"91.22147\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"62.94868\" y2=\"86.2576\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"67.10314\" y2=\"81.54529\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"71.54529\" y2=\"77.10314\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"76.2576\" y2=\"72.94868\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"81.22147\" y2=\"69.0983\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><line x1=\"140\" y1=\"150\" x2=\"86.41732\" y2=\"65.56721\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"91.82463\" y2=\"62.36933\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"97.42207\" y2=\"59.51729\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"103.18754\" y2=\"57.02235\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"109.0983\" y2=\"54.89435\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"115.13101\" y2=\"53.14168\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"121.26187\" y2=\"51.77127\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"127.46668\" y2=\"50.78853\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><line x1=\"140\" y1=\"150\" x2=\"133.72095\" y2=\"50.19733\" fill=\"none\" stroke=\"black\" stroke-width=\"0.45\"/><circle cx=\"140\" cy=\"150\" r=\"100\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"140.0\" y=\"32.0\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">0</text><text x=\"212.2976\" y=\"55.4909\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">10</text><text x=\"256.98\" y=\"116.9909\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">20</text><text x=\"256.98\" y=\"193.0091\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">30</text><text x=\"212.2976\" y=\"254.5091\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">40</text><text x=\"140.0\" y=\"278.0\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">50</text><text x=\"67.7024\" y=\"254.5091\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">60</text><text x=\"23.02\" y=\"193.0091\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">70</text><text x=\"23.02\" y=\"116.9909\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">80</text><text x=\"67.7024\" y=\"55.4909\" fill=\"black\" stroke=\"none\" font-size=\"14\" text-anchor=\"middle\">90</text><text x=\"287\" y=\"60\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">100個等大扇區</text><text x=\"287\" y=\"92\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">每格1%，全圓100%</text><text x=\"287\" y=\"124\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">頂端0起，順時針</text><text x=\"287\" y=\"156\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">每10格有數字標記</text><text x=\"287\" y=\"205\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">可畫界線並標類別</text><text x=\"287\" y=\"237\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">不必逐格塗滿</text></svg>",
+          "id": "g6s2-mathematics-final-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-11"
+          ],
+          "stimulus": "圖示虛構場館連續四日的使用次數，每日記錄時段相同。同一人可使用多次，每用一次計1次，沒有記錄不同使用者人數。",
+          "prompt": "①依圖寫出四日各有幾次使用。（4分）\n②列出所有「比前一天增加最多」的相鄰日組，並寫增加幾次。（4分）\n③能把四日使用次數合計直接稱為「不同使用者人數」嗎？說明理由。（2分）",
+          "responseLines": 8,
+          "answer": {
+            "value": "四日依序12、18、15、21次。第一日至第二日、第三日至第四日都增加6次，並列最多。不能把合計66次稱66名不同使用者，同一人可能使用多次。",
+            "explanation": "依各相鄰變化6、－3、6比較；次數不能當人數。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①12、18、15、21各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②兩個正確日組各1分；增加6次1分；完整列出且不多列1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "③不能1分；同一人可能多次使用1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 275\" width=\"500\" height=\"275\" role=\"img\"><desc>折線圖的橫軸依次為第一日至第四日、間距相同；縱軸使用次數由0至24，每格6次。四個記錄點依序為12、18、15、21次，線只連接記錄點。</desc><text x=\"20\" y=\"22\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"start\">模型場館每日使用紀錄（次）</text><line x1=\"60\" y1=\"225\" x2=\"450\" y2=\"225\" fill=\"none\" stroke=\"black\" stroke-width=\"0.5\"/><text x=\"38\" y=\"230\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"end\">0</text><line x1=\"60\" y1=\"183\" x2=\"450\" y2=\"183\" fill=\"none\" stroke=\"black\" stroke-width=\"0.5\"/><text x=\"38\" y=\"188\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"end\">6</text><line x1=\"60\" y1=\"141\" x2=\"450\" y2=\"141\" fill=\"none\" stroke=\"black\" stroke-width=\"0.5\"/><text x=\"38\" y=\"146\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"end\">12</text><line x1=\"60\" y1=\"99\" x2=\"450\" y2=\"99\" fill=\"none\" stroke=\"black\" stroke-width=\"0.5\"/><text x=\"38\" y=\"104\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"end\">18</text><line x1=\"60\" y1=\"57\" x2=\"450\" y2=\"57\" fill=\"none\" stroke=\"black\" stroke-width=\"0.5\"/><text x=\"38\" y=\"62\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"end\">24</text><line x1=\"60\" y1=\"225\" x2=\"60\" y2=\"52\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><polyline points=\"95,141 195,99 295,120 395,78\" fill=\"none\" stroke=\"black\" stroke-width=\"1\" stroke-linejoin=\"round\"/><circle cx=\"95\" cy=\"141\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"95\" y=\"251\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"middle\">第一日</text><circle cx=\"195\" cy=\"99\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"195\" y=\"251\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"middle\">第二日</text><circle cx=\"295\" cy=\"120\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"295\" y=\"251\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"middle\">第三日</text><circle cx=\"395\" cy=\"78\" r=\"3\" fill=\"none\" stroke=\"black\" stroke-width=\"1\"/><text x=\"395\" y=\"251\" fill=\"black\" stroke=\"none\" font-size=\"16\" text-anchor=\"middle\">第四日</text></svg>",
+          "id": "g6s2-mathematics-final-a-q04"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-12"
+          ],
+          "stimulus": "紙面模型盒每次取卡後放回並重新混合，內容與程序保持不變。60次紀錄：星形51次、圓形9次、三角形0次。盒內各圖案實際張數未公布。設計員提議：「下次只保留星形的處理方式，刪掉圓形的備用方式，因為下次保證星形。」這只是紙面提案，不要求實際操作。",
+          "prompt": "①依紀錄寫一句謹慎的星形、圓形比較預測，包含數據依據。（4分）\n②能否用這份紀錄支持「下次保證星形，所以圓形備用方式可以刪掉」？指出理由。（3分）\n③若要確定盒內有沒有三角形卡，這份零次紀錄足夠嗎？提出還需要的具體資料。（3分）",
+          "responseLines": 10,
+          "answer": {
+            "value": "同樣條件下，星形比圓形較有可能，因51次明顯多於9次，但不保證。不能以此支持刪除圓形備用方式：較可能不代表一定，圓形已有出現紀錄。三角形0次不足以確定不存在；需要盒內全部卡片經完整清點的圖案及張數資料。",
+            "explanation": "資料可以支持質性預測，卻不足以把其他結果當成不會出現。觀察次數與完整庫存清單回答不同問題。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①星形較圓形可能1分；依51對9的明顯差距2分；保留不保證或可能出現其他結果1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "②不能支持該保證與刪除推論1分；明說較可能不等於一定，圓形仍可能出現2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "③不足以確定1分；要求完整清點盒內圖案與各類張數或等效完整清單2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-final-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-13"
+          ],
+          "stimulus": "每款標籤選1種底色（紅、藍、綠）和1種圖案（方形、星形、圓形）。限制：紅色不可配星形；綠色只可配圓形；藍色三種圖案都可。除此以外沒有別的限制。一款由最後的顏色、圖案決定，選擇先後不算新款。",
+          "prompt": "①按底色分組，完整列出所有合法款式，不重複。（6分）\n②共有幾款？寫出按三種底色分組相加的算式。（2分）\n③先選圓形再選紅色，和先選紅色再選圓形，算一款還是兩款？說明。（2分）",
+          "responseLines": 10,
+          "answer": {
+            "value": "紅方、紅圓；藍方、藍星、藍圓；綠圓，共2＋3＋1＝6款。紅圓只算一款，最後特徵相同。",
+            "explanation": "分組時每種底色允許的圖案數不同，不能不看限制就3×3。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①六個合法款各1分；多列非法或重複款每個扣1分，本項最低0。須以底色分組，可用列表或表格。"
+              },
+              {
+                "points": 2,
+                "criterion": "②2＋3＋1或等效分組式1分；6款1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "③一款1分；最後顏色和圖案相同1分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-final-a-q06"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "reason",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-mathematics-14"
+          ],
+          "stimulus": "原題：比例尺1：2000的圖上，指定路徑兩段長3.5公分與2公分，全部走完無其他路段，實際路程幾公尺？待檢稿：「（3.5＋2）×2000＝11000，所以實際路程11000公尺。」",
+          "prompt": "①指出待檢稿中可以保留的算式部分，並說11000應配什麼單位。（3分）\n②求正確公尺數。（3分）\n③從你的實際公尺答案換回圖上公分，列式檢查是否還原原路徑總長。（4分）",
+          "responseLines": 9,
+          "answer": {
+            "value": "可保留兩段相加後乘2000得到11000；該數單位為公分。11000÷100＝110公尺。110×100÷2000＝5.5公分，等於3.5＋2。",
+            "explanation": "問題在未換單位，並非3.5＋2或乘2000的數值計算錯。逆查要回到圖上的5.5公分。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "①保留加總再乘2000的算式1分；11000公分2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "②換成公尺的式1分；110公尺2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③先公尺轉公分再除2000的逆算式2分；回到5.5公分且指出等於兩段和2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-final-a-q07"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "按各小題要求作答；只需提供明問的證據。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s2-mathematics-01",
+            "g6s2-mathematics-02"
+          ],
+          "stimulus": "回顧題：一份3.6公尺的可分割繩線，先取出全長的1/4，再取0.45公尺；其餘平均分成3份。可分割且無損耗。",
+          "prompt": "①列式求最後每份長度。（6分）\n②用每份長度乘回份數，再加回兩次取出量，驗證原來3.6公尺。（4分）",
+          "responseLines": 8,
+          "answer": {
+            "value": "（3.6×3/4－0.45）÷3＝0.75公尺；0.75×3＋3.6×1/4＋0.45＝3.6公尺。",
+            "explanation": "第一次分率以原全長為基準，第二次是固定長度，逆查兩者都要加回。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①先保留原量3/4再扣0.45並除3的正確關係3分；0.75公尺3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②每份乘3並加回兩次取出量的關係2分；正確還原3.6公尺2分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-final-a-q08"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s2-mathematics-05",
+            "g6s2-mathematics-06"
+          ],
+          "stimulus": "回顧題：封閉實心長方體長7、寬4、高3公分，沒有空洞。",
+          "prompt": "①列式求體積。（4分）\n②列式求全部表面積。（4分）\n③兩個答案的單位分別是什麼？寫出體積和表面積各測量哪一種量。（2分）",
+          "responseLines": 8,
+          "answer": {
+            "value": "體積7×4×3＝84立方公分；表面積2×（7×4＋7×3＋4×3）＝122平方公分。體積測所占空間；表面積測六個外表面的面積合計。",
+            "explanation": "體積相乘三個方向；表面積將三組相對面的平方量相加。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①正確三方向乘式2分；84立方公分2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②全部六面各算一次的式2分；122平方公分2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "③體積是立方公分且測空間1分；表面積是平方公分且測外表面面積1分。"
+              }
+            ]
+          },
+          "id": "g6s2-mathematics-final-a-q09"
+        }
+      ]
+    }
+  ]
+}
