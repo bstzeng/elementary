@@ -40,10 +40,30 @@ if(verification){
  }
  if([...qaAccepted].some(id=>!htmlVerified.has(id)||!browserPrintVerified.has(id)))throw Error('Legacy combined acceptance requires original HTML and browser-print gates');
 }
+// Validate the optional design field before creating or changing output files.
+forms.forEach(validateParallelDesign);
 const out=path.join(root,'exams');await mkdir(out,{recursive:true});
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const paras=x=>`<p>${examText(x).replaceAll('\n','<br>')}</p>`;
 const list=xs=>`<ul>${xs.map(x=>`<li>${examText(x)}</li>`).join('')}</ul>`;
+function validateParallelDesign(d){
+ if(!Object.hasOwn(d,'parallelDesign'))return 'absent';
+ const v=d.parallelDesign;
+ if(typeof v==='string')return 'text';
+ if(!v||typeof v!=='object'||Array.isArray(v))throw Error(`${d.id}: invalid parallelDesign type`);
+ const keys=Object.keys(v).sort().join(',');
+ if(keys==='equivalenceClaim,variantPurpose'&&typeof v.variantPurpose==='string'&&typeof v.equivalenceClaim==='string')return 'variant';
+ if(keys==='noEnglishAssumption,sharedConstructs,variantDependencies'&&typeof v.sharedConstructs==='string'&&typeof v.variantDependencies==='string'&&typeof v.noEnglishAssumption==='boolean')return 'shared';
+ throw Error(`${d.id}: invalid parallelDesign schema or leaf type`);
+}
+function parallelDesign(d){
+ const kind=validateParallelDesign(d),v=d.parallelDesign;
+ if(kind==='absent')return '';
+ const heading='<h3>三份卷的設計</h3>';
+ if(kind==='text')return heading+paras(v);
+ const fields=kind==='variant'?[['本卷設計目的',v.variantPurpose],['等值聲明',v.equivalenceClaim]]:[['共同評量架構',v.sharedConstructs],['本卷任務差異',v.variantDependencies],['不預設英語',v.noEnglishAssumption?'是':'否']];
+ return heading+'<dl>'+fields.map(([label,value])=>`<dt>${esc(label)}</dt><dd>${paras(value)}</dd>`).join('')+'</dl>';
+}
 const gradeNames=['','一','二','三','四','五','六'];
 const names=new Map(courses.flatMap(c=>c.topics.map(t=>[t.id,t.title])));
 const topicLinks=ids=>ids.map(id=>`<a href="../lessons/${esc(id)}.html">${esc(names.get(id))}</a>`).join('、');
@@ -84,7 +104,7 @@ function paper(d,key){
  const nav=`<header class="sitebar no-print"><a class="brand" href="../">elementary</a><nav aria-label="考卷導覽"><a href="./">返回考卷區</a><a href="${d.id}${key?'':'-key'}.html">${key?'學生題目卷':'教師答案卷（含答案）'}</a>${pdfLink}<button type="button" data-print>列印${key?'答案卷':'題目卷'}</button></nav></header>`;
  const draft=manifest.draft?'<div class="draft-banner">內部編寫預覽・尚未通過獨立審查</div>':`<div class="qa-status no-print">${paperStatus(d.id)}</div>`;
  let body=`<main id="main" class="paper"><div class="paper-heading">${draft}<p class="eyebrow">${key?'TEACHER KEY · 教師用':'STUDENT PAPER · 學生用'}</p><h1>${esc(d.title)}</h1><p class="paper-type">${key?'教師答案與施測說明':'學生題目卷'}</p><p>${esc(d.duration)}</p><p class="score-meta">滿分 100 分 · ${key?'未觀察的口語／實作項目請分開記錄。':'匿名代號（可留空）：＿＿＿＿　日期：＿＿＿＿'}</p></div>`;
- body+=key?`<section class="teacher-intro"><h2>施測前請先讀</h2>${list(d.teacherNotes)}<h3>準備材料</h3>${list(d.materials)}<h3>三份卷的設計</h3>${paras(d.parallelDesign)}</section>`:`<section class="student-intro"><h2>作答提醒</h2>${list(d.instructions)}<p class="scope-notice">本卷依本館跨版本主題編排，教師須依已教內容與學習需要調整。</p></section>`;
+ body+=key?`<section class="teacher-intro"><h2>施測前請先讀</h2>${list(d.teacherNotes)}<h3>準備材料</h3>${list(d.materials)}${parallelDesign(d)}</section>`:`<section class="student-intro"><h2>作答提醒</h2>${list(d.instructions)}<p class="scope-notice">本卷依本館跨版本主題編排，教師須依已教內容與學習需要調整。</p></section>`;
  body+=`<div class="blueprint">${d.blueprint.map(b=>`<span>${esc(b.title)} <strong>${b.points}分</strong></span>`).join('')}</div>`;
  let n=0;
  for(const section of d.sections){
