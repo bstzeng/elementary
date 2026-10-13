@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "id": "g4s1-english-midterm-c",
+  "grade": 4,
+  "semester": 1,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "midterm",
+  "variant": "C",
+  "mode": "mixed-language",
+  "title": "小四上學期英語文・期中C卷",
+  "duration": "紙面建議30–40分鐘；口語與聽辨各5–10分鐘，可分日、休息及延長。時間為設計估計，未經試測。",
+  "instructions": [
+    "先和老師完成第1、2題，老師說可以才看紙面英文。",
+    "角色全是虛構，不用說自己的家庭或能力。",
+    "可休息或告訴老師尚未學過；聽說未做會分開記錄。"
+  ],
+  "materials": [
+    "當前題的指定大紙卡、遮紙、鉛筆、空白紙。",
+    "教師逐試稿與答案分開保管；無需外找圖片或音檔。"
+  ],
+  "teacherNotes": [
+    "本卷依本館11課實際教材：期中01–06；期末07–11恰80分，01–06回顧恰20分。不是全國統一學期範圍。A/B/C是不同資訊任務，未經試測或統計等值，不宜據此排名。",
+    "完整施測100分；只報已觀察得分／已觀察滿分及未觀察項目，不補0、不比例換算100。未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+    "聽說前由具英語教學能力的施測者私下核對本卷完整詞句及讀稿，記：已教□、可靠模型來源與頁次＿＿、核對日期＿＿、施測者＿＿、能自然清楚示範□。本卷未提供音檔，作者未驗聽；文字核對不能認證發音。無適合示範者則延期聽說，只報紙面結果。不用中文諧音、合成聲音或字母名稱拼念冒充詞音。",
+    "先收起全部後題、教師卷、答案及完整英語句卡。固定先第1題口語，逐回合記錄；再第2題聽辨，逐試記錄；兩題全部完成才給回饋並發紙面題。教師私下備稿不等於向學生預教本次答案。若本次先曝光目標讀音、完整答句、翻譯或答案手勢，事後遮住不恢復獨立性，受影響分項記受提示／未觀察。既有正常教學是先備條件。",
+    "第1題只出示教師稿指定的中文情境或單獨名字；不先念任何英語問答。中文任務可原句中性重讀一次並記次數。第2題只給指定中文選卡及稿中明列的單獨名字卡，不給逐字稿、英語選項或答案圖。教師面部自然可見，不遮臉或蒙眼，不能稱完全無視覺線索。每試原句可自然重讀一次並記次數；不逐詞翻譯、不特別加重正答線索、不換選卡位置。更多支持另記支持理解，不能冒稱原獨立證據。",
+    "記錄每個觀察分項：實際反應＿＿；原句重複0／1次＿＿；支持方式＿＿；已觀察／未觀察＿＿；得分及滿分＿＿。重複一次是中性支持狀態，不自動扣分。指卡或AAC可作聽懂選擇；口語若跟讀、成人代說、AAC發聲，另記溝通理解，不認證學生自己的獨立語音。",
+    "接受可理解的正常英語變體與正確等義框架：It is／It’s、I am／I’m、do not／don’t等。口語評當次可理解的意思及完整句，不評固定口音、音高曲線、速度、音量、眼神或公開演出膽量。單憑文字不能判聽辨、語調、發音或筆順。",
+    "紙面中文指示可讀，英文刺激原則上由學生認讀；成人代讀英文須另記支持閱讀理解。紙面可指代號、AAC、口述或忠實代筆，字詞排列可用大字卡；支援方式不隱藏。抄寫可保留模型；代筆或排字不是獨立手寫。除題目明列字母、空格、大小寫及句號外，不評字跡與手寫筆順。",
+    "單選矛盾多答只將該選擇子分記0；清楚刪改按最後答案，同義多答不扣。多選各題明列配分及多選扣分，最低0，不牽連其他子題。中文理由、指證據或等義表達同分。未要求的理由、額外事實及指定答案措辭不得當得分條件。",
+    "所有角色與關係都是虛構；不問真實家人、健康、能力、節慶參與或宗教，不錄音錄影、不上傳。只用大紙卡、鉛筆和遮紙，不使用活體、刀剪、飲食、駕駛或水上活動。可以休息、拒絕或用熟悉方式求助。",
+    "教師私下核對完整模型清單，不先給學生：It’s cloudy.／Is it rainy?／I’m not thirsty.／ten／pen／map／cat"
+  ],
+  "parallelDesign": "A集合縮小／單欄更新；B需求轉換／多位置比較；C逆向修錯／跨時狀態更新。100分＝口語12＋聽辨12＋紙面76；不宣稱統計等值。",
+  "blueprint": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 76,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-01",
+            "g4s1-english-02"
+          ],
+          "prompt": "完成三個英文口語小回合；一次只看老師給的當前中文情境。",
+          "stimulus": "不看完整英文句、後題或答案。",
+          "responseLines": 4,
+          "answer": {
+            "value": "It’s cloudy.／Is it rainy?／I’m not thirsty.",
+            "explanation": "不同卡片分別報告、詢問及表達感受；不要求真實個人感受。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "回合1：cloudy且不捏造冷暖2分；可理解完整句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "回合2：確認rainy意思2分；可理解完整問句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "回合3：not thirsty完整意思2分；可理解完整句2分。"
+              }
+            ]
+          },
+          "teacher": "只讀當前中文任務，不先說英語，不回答孩子的問句。回合1：天氣卡只寫多雲，沒有冷暖。用一句英文說確定的天空狀況，不補冷暖。 記錄後收起。回合2：新的情境：想確認是否下雨。用英文問，不用回答。 記錄後收起。回合3：虛構角色不口渴。扮演角色，用一句英文保留這個否定訊息。 記錄後收起。第2題也完成後才回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "情境一",
+              "points": 4
+            },
+            {
+              "label": "情境二",
+              "points": 4
+            },
+            {
+              "label": "情境三",
+              "points": 4
+            }
+          ],
+          "id": "g4s1-english-midterm-c-q01"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-06"
+          ],
+          "prompt": "每試聽老師自然讀一個詞，從當前中文詞義卡只選一張，可指卡。",
+          "stimulus": "選卡到當試才出示，不印英文。",
+          "responseLines": 4,
+          "answer": {
+            "value": "1：乙；2：甲；3：乙；4：甲",
+            "explanation": "依當次完整詞義分辨，不能只看中間字母；本題沒有提供英文拼字。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第1試選乙3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第2試選甲3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第3試選乙3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第4試選甲3分；其他或矛盾多選0分。"
+              }
+            ]
+          },
+          "teacher": "口語全記完才開始；一次只出示該組中文選卡，先中文讀卡，不能翻成英語。第1試選卡：甲筆、乙十、丙寵物。自然讀「ten」，等反應記錄後再換試。第2試選卡：甲筆、乙十、丙寵物。自然讀「pen」，等反應記錄後再換試。第3試選卡：甲貓、乙地圖、丙帽子。自然讀「map」，等反應記錄後再換試。第4試選卡：甲貓、乙地圖、丙帽子。自然讀「cat」，等反應記錄後再換試。各試原詞最多中性重讀一次，次數照記，不加詞義或答案手勢；全部結束才回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "詞義聽辨一",
+              "points": 3
+            },
+            {
+              "label": "詞義聽辨二",
+              "points": 3
+            },
+            {
+              "label": "詞義聽辨三",
+              "points": 3
+            },
+            {
+              "label": "詞義聽辨四",
+              "points": 3
+            }
+          ],
+          "id": "g4s1-english-midterm-c-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-01"
+          ],
+          "prompt": "①依文字把錯句修成符合甲卡的完整英文句。②乙只說自己的感受，可否推定外面下雨？說理由。③丙沒有冷暖，選可確定的英文句。",
+          "stimulus": "甲：cloudy / cold。錯句It’s sunny and warm. 乙：I’m cold. 丙：windy；冷暖未記。選句1 It’s windy.；2 It’s windy and cold.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①It’s cloudy and cold.；②不能，乙只說個人感受；③1。",
+            "explanation": "只依本題資料，未提供的資訊不補猜；同義、正確等義表達同分。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "cloudy2分、cold2分、完整句1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能2分、個人感受不是外面天氣2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "選1得3分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-midterm-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-02"
+          ],
+          "prompt": "①開始和稍後各寫一項明確情緒。②原稿「角色永遠難過」哪裡不符合？依時間改寫中文。③看到I’m not hungry.，在「餓／不餓／口渴」選一項，再說能否推定口渴。",
+          "stimulus": "開始：I’m sad. 稍後：I feel happy now. 另張卡：I’m not hungry.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①開始難過、稍後開心；②不能說永遠，後來開心；③不餓，不能推口渴。",
+            "explanation": "只依本題資料，未提供的資訊不補猜；同義、正確等義表達同分。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "兩時刻各3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "刪永遠2分、依稍後資料改開心2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不餓2分、不能推口渴2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-midterm-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-03"
+          ],
+          "prompt": "①選符合「三個柳橙」的訂單並抄完整短語。②兩個梨改一個，寫英文新短語。③four banana哪裡需修？寫正確短語和原因。④a/an各填一個：__ apple；__ banana。",
+          "stimulus": "訂單甲three oranges；乙three apples；丙one orange。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲three oranges；②one pear／a pear；③four bananas，數量四用複數；④an、a。",
+            "explanation": "只依本題資料，未提供的資訊不補猜；同義、正確等義表達同分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "甲1分，three oranges拼寫數量及複數3分（three1、oranges2）。"
+              },
+              {
+                "points": 4,
+                "criterion": "one pear／a pear4分；僅pear2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "four bananas2分；複數理由2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "an、a各1分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-midterm-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-04"
+          ],
+          "prompt": "①在A提出麵包請求，用英文寫。②A沒有牛奶的完整英文說法選哪句？③B沒寫水，能否說B一定沒有水？用中文說理由。",
+          "stimulus": "A：Bread: available. Milk: not available. B：Juice: available. 句庫甲We don’t have any milk.；乙We have milk.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①Can I have some bread, please?／Some bread, please.；②甲；③不能，B未提供水資料。",
+            "explanation": "只依本題資料，未提供的資訊不補猜；同義、正確等義表達同分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "some bread2分、自然禮貌請求2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "甲4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能2分、沒寫不等於沒有2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-midterm-c-q06"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-05"
+          ],
+          "prompt": "①兩輪提供的回覆各選一句。②角色不拿梨是否等於不喜歡梨？用卡片說明。③Paz只說I like apples.，是否知道他現在要不要蘋果？說缺哪類資料。",
+          "stimulus": "同一角色：I like pears. 第一輪現在不拿梨；第二輪現在願意拿一個梨。兩輪都問Would you like a pear? 答句甲Yes, please.；乙No, thank you.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①乙、甲；②不等於，卡明說喜歡梨；③不知道，缺本次接受資料。",
+            "explanation": "只依本題資料，未提供的資訊不補猜；同義、正確等義表達同分。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "兩輪各3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不等於2分、指出喜歡梨原句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不知道2分、缺本次接受資料2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-midterm-c-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-06"
+          ],
+          "prompt": "①sip改sit，哪個位置變？寫兩字母方向及保留的兩字母。②hop與top中間字母相同嗎？整個末段相同嗎？寫末段。",
+          "stimulus": "只比較文字。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①末尾p→t，si保留；②中間o相同，末段op相同。",
+            "explanation": "只依本題資料，未提供的資訊不補猜；同義、正確等義表達同分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "末尾1分、p→t1分、保留s/i各1分。"
+              },
+              {
+                "points": 6,
+                "criterion": "o相同2分、末段相同2分、op2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-midterm-c-q08"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜天氣與冷暖描述",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-01.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜情緒與身體感受",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-02.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜水果名稱與複數",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-03.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜食物飲料的需求",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-04.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜喜好與禮貌回應",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-05.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜短母音音組辨識",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-06.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "schemaVersion": 1,
+  "id": "g3s2-english-midterm-c",
+  "grade": 3,
+  "semester": 2,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "midterm",
+  "variant": "C",
+  "mode": "mixed-language",
+  "title": "小三下學期英語文・期中C卷",
+  "duration": "紙面建議30–40分鐘；口語與聽辨各5–10分鐘，可分日、休息及延長。時間為設計估計，未經試測。",
+  "instructions": [
+    "先和老師完成第1、2題，老師說可以才看紙面英文。",
+    "角色全是虛構，不用說自己的家庭或能力。",
+    "可休息或告訴老師尚未學過；聽說未做會分開記錄。"
+  ],
+  "materials": [
+    "當前題的指定大紙卡、遮紙、鉛筆、空白紙。",
+    "教師逐試稿與答案分開保管；無需外找圖片或音檔。"
+  ],
+  "teacherNotes": [
+    "本卷依本館12課實際教材：期中01–06；期末07–12恰80分，01–06回顧恰20分。不是全國統一學期範圍。A/B/C是不同資訊任務，未經試測或統計等值，不宜據此排名。",
+    "完整施測100分；只報已觀察得分／已觀察滿分及未觀察項目，不補0、不比例換算100。未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+    "聽說前由具英語教學能力的施測者私下核對本卷完整詞句及讀稿，記：已教□、可靠模型來源與頁次＿＿、核對日期＿＿、施測者＿＿、能自然清楚示範□。本卷未提供音檔，作者未驗聽；文字核對不能認證發音。無適合示範者則延期聽說，只報紙面結果。不用中文諧音、合成聲音或字母名稱拼念冒充詞音。",
+    "先收起全部後題、教師卷、答案及完整英語句卡。固定先第1題口語，逐回合記錄；再第2題聽辨，逐試記錄；兩題全部完成才給回饋並發紙面題。教師私下備稿不等於向學生預教本次答案。若本次先曝光目標讀音、完整答句、翻譯或答案手勢，事後遮住不恢復獨立性，受影響分項記受提示／未觀察。既有正常教學是先備條件。",
+    "第1題只出示教師稿指定的中文情境或單獨名字；不先念任何英語問答。中文任務可原句中性重讀一次並記次數。第2題只給指定中文選卡及稿中明列的單獨名字卡，不給逐字稿、英語選項或答案圖。教師面部自然可見，不遮臉或蒙眼，不能稱完全無視覺線索。每試原句可自然重讀一次並記次數；不逐詞翻譯、不特別加重正答線索、不換選卡位置。更多支持另記支持理解，不能冒稱原獨立證據。",
+    "記錄每個觀察分項：實際反應＿＿；原句重複0／1次＿＿；支持方式＿＿；已觀察／未觀察＿＿；得分及滿分＿＿。重複一次是中性支持狀態，不自動扣分。指卡或AAC可作聽懂選擇；口語若跟讀、成人代說、AAC發聲，另記溝通理解，不認證學生自己的獨立語音。",
+    "接受可理解的正常英語變體與正確等義框架：It is／It’s、has／has got、cannot／can’t等。口語評當次可理解的意思及完整句，不評固定口音、音高曲線、速度、音量、眼神或公開演出膽量。單憑文字不能判聽辨、語調、發音或筆順。",
+    "紙面中文指示可讀，英文刺激原則上由學生認讀；成人代讀英文須另記支持閱讀理解。紙面可指代號、AAC、口述或忠實代筆，字詞排列可用大字卡；支援方式不隱藏。抄寫可保留模型；代筆或排字不是獨立手寫。除題目明列字母、空格、大小寫及句號外，不評字跡與手寫筆順。",
+    "單選矛盾多答只將該選擇子分記0；清楚刪改按最後答案，同義多答不扣。多選各題明列配分及多選扣分，最低0，不牽連其他子題。中文理由、指證據或等義表達同分。未要求的理由、額外事實及指定答案措辭不得當得分條件。",
+    "所有角色與關係都是虛構；不問真實家人、健康、能力、節慶參與或宗教，不錄音錄影、不上傳。只用大紙卡、鉛筆和遮紙，不使用活體、刀剪、飲食、駕駛或水上活動。可以休息、拒絕或用熟悉方式求助。",
+    "教師私下核對完整模型清單，不先給學生：Is it red?／It’s a blue book.／I can’t draw.／cup／pot／It’s a red pen.／What’s this?"
+  ],
+  "parallelDesign": "A：集合縮小與單欄更新；B：雙條件仍不唯一及雙欄反轉；C：資訊缺口、修錯保留及自述轉問答。每卷100分，口語12、聽辨12、文字76；三卷不宣稱統計等值。",
+  "blueprint": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 76,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-04",
+            "g3s2-english-06"
+          ],
+          "prompt": "用已學英文完成三個小回合，每回合說一句。老師一次只告訴你一個任務。",
+          "stimulus": "第1題不看任何英文模型或後題。當前中文情境由老師提供。",
+          "responseLines": 4,
+          "answer": {
+            "value": "Is it red?／It’s a blue book.／I can’t draw.",
+            "explanation": "每回合依當前中文資料傳達不同訊息，不以背出上一回合代替。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合：口語表達「確認紅色」意思2分；以可理解完整句表達再2分。正確等義句同分；只有關鍵詞可得意思分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合：口語表達「blue book兩項」意思2分；以可理解完整句表達再2分。正確等義句同分；只有關鍵詞可得意思分。顏色blue與物品book各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合：口語表達「不會畫draw」意思2分；以可理解完整句表達再2分。正確等義句同分；只有關鍵詞可得意思分。"
+              }
+            ]
+          },
+          "teacher": "逐回合只用中文說以下任務，未到的回合不出示。①你想確認紙卡是否紅色，請用一句英文問它是不是紅色。②換一張藍書卡，請用一句英文說明它是一本藍書，要含顏色和物品。③紙偶卡寫「不會畫畫」，扮演它，用一句英文說自己不會畫畫。每回合等反應並記錄才換卡；不示範英文、不回答第一個問句；完成兩道觀察題以前不回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "第一回合口語",
+              "points": 4
+            },
+            {
+              "label": "第二回合口語",
+              "points": 4
+            },
+            {
+              "label": "第三回合口語",
+              "points": 4
+            }
+          ],
+          "id": "g3s2-english-midterm-c-q01"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-02",
+            "g3s2-english-04"
+          ],
+          "prompt": "聽四次訊息。每次只選該組的一張中文卡，可以指代號。",
+          "stimulus": "老師到當次才出示該組卡：①②共用甲鍋、乙杯、丙豬；③④共用甲詢問物品種類、乙確認顏色是否紅色、丙說明物品及顏色。",
+          "responseLines": 4,
+          "answer": {
+            "value": "第1試乙；第2試甲；第3試丙；第4試甲",
+            "explanation": "不同首尾音的完整詞義聽辨，再依完整句理解說明與詢問功能。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第1試選乙3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第2試選甲3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第3試選丙3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第4試選甲3分；其他或矛盾多選0分。"
+              }
+            ]
+          },
+          "teacher": "口語三回合全部記完才開始。中文讀當前組選卡，不說英語對應。第1試自然讀「cup」，等並記錄。第2試自然讀「pot」，等並記錄。第3試自然讀「It’s a red pen.」，等並記錄。第4試自然讀「What’s this?」，等並記錄。每試可按原句重讀一次；不加重否定詞或目標詞、不示意正答；四試全部記完才回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "聽辨一",
+              "points": 3
+            },
+            {
+              "label": "聽辨二",
+              "points": 3
+            },
+            {
+              "label": "聽辨三",
+              "points": 3
+            },
+            {
+              "label": "聽辨四",
+              "points": 3
+            }
+          ],
+          "id": "g3s2-english-midterm-c-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-01"
+          ],
+          "prompt": "①檢查三組配對，寫出每個大寫真正的小寫。②pin中哪個字母在中間？比較sit的中間字母，兩者一樣嗎？",
+          "stimulus": "待檢查：N-p、B-b、P-n。詞卡pin、sit。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①N-n、B-b、P-p；②i；一樣。",
+            "explanation": "需保留正確配對並修錯，再跨不同詞找共同位置。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "三組各2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "pin中間i3分；與sit一樣3分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-03"
+          ],
+          "prompt": "①選出符合「藍色書」的句子，抄在空白處；檢查詞序拼寫、空格、句首大寫及句號。②說出你抄的句子指哪個顏色和物品。",
+          "stimulus": "甲 It is a blue book. 乙 It is a blue pen. 丙 It is a red book.",
+          "responseLines": 4,
+          "answer": {
+            "value": "It is a blue book.；藍色、書。",
+            "explanation": "先用雙條件選模型再抄，不能只看到blue便選乙。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "選甲並抄It/is/a/blue/book詞序拼寫全對6分；錯漏1詞4分、2詞2分、3詞以上0分。選錯模型按實際正確詞數同規則計。"
+              },
+              {
+                "points": 2,
+                "criterion": "四個詞間空格完整2分；缺1處1分，缺2處以上0分。"
+              },
+              {
+                "points": 2,
+                "criterion": "句首I大寫1分、末句號1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "藍色2分、書2分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-04"
+          ],
+          "prompt": "①兩個需求各選一句。需求一：確認是否紅色。需求二：直接說明是紅筆。②同一句乙要修正兩種誤會：把紅筆看成藍筆，要圈哪詞？把紅筆看成紅書，又圈哪詞？",
+          "stimulus": "甲 Is it red?；乙 It’s a red pen.；丙 What’s this?",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲、乙；②先red，後pen。",
+            "explanation": "相同句子可針對不同資訊，書面只判語意重點。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "兩需求各3分。"
+              },
+              {
+                "points": 6,
+                "criterion": "顏色誤會圈red3分、種類誤會圈pen3分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-05"
+          ],
+          "prompt": "①只知道「有尾巴」，能在甲乙間唯一選一張嗎？把所有符合的卡列出。②要讓答案唯一是乙，選一條可加的英文線索。③同伴說「甲未寫腳，所以甲沒有腳」，請用中文改正。",
+          "stimulus": "甲：cat，有尾巴；未提供腳的資料。乙：fish，有尾巴。可加線索：1 It’s a fish.；2 It has got a tail.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①不能，甲乙都符合。②1。③沒有提供腳的資料不能推論沒有腳。",
+            "explanation": "區分共同特徵、唯一識別與缺資料的限制。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "指出不能唯一2分；甲乙各2分，多加其他卡每個扣2分，最低0。"
+              },
+              {
+                "points": 4,
+                "criterion": "②1得4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③指出未提供不代表沒有4分；只說原句錯而未改正0分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-c-q06"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-06"
+          ],
+          "prompt": "①依木偶甲選兩個完整能力自述，分別說畫畫和唱歌。②甲回答Can you sing?時要選哪個完整答句？③甲現在換成乙，Can you sing?的答案仍相同嗎？選完整新答句。",
+          "stimulus": "甲：會畫、會唱。乙：會畫、不會唱。自述庫：1 I can draw.；2 I can’t draw.；3 I can sing.；4 I can’t sing. 答句庫：5 Yes, I can.；6 No, I can’t.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①1、3；②5；③不相同，6。",
+            "explanation": "由兩項肯定自述轉問答，再只更新唱歌一欄。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "自述1與3各3分；畫／唱各只選一項，矛盾多答該欄0。"
+              },
+              {
+                "points": 4,
+                "criterion": "②5得4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "指出不同2分，完整新答句6得2分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-c-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-02"
+          ],
+          "prompt": "①將bed、pig、cat按中間e、i、a配對。②cup和cut哪個位置不同？寫出該位置的兩個字母。",
+          "stimulus": "只比較文字，不實際切割或拿杯子。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①bed-e、pig-i、cat-a；②最後p與t。",
+            "explanation": "用已教詞的新配對看出相同母音仍可能不同整詞。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "三詞各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "最後位置2分；p與t兩字母2分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-c-q08"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜大小寫字母與字音複習",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-01.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜短母音與簡單拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-02.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜熟悉字詞的認讀與抄寫",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-03.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜簡短句子的語調與朗讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-04.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜常見動物與特徵",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-05.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜詢問與表達能做的事",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-06.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    }
+  ]
+}

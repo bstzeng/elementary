@@ -1,0 +1,455 @@
+{
+  "schemaVersion": 1,
+  "id": "g4s1-english-final-a",
+  "grade": 4,
+  "semester": 1,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "final",
+  "variant": "A",
+  "mode": "mixed-language",
+  "title": "小四上學期英語文・期末A卷",
+  "duration": "紙面建議30–40分鐘；口語與聽辨各5–10分鐘，可分日、休息及延長。時間為設計估計，未經試測。",
+  "instructions": [
+    "先和老師完成第1、2題，老師說可以才看紙面英文。",
+    "角色全是虛構，不用說自己的家庭或能力。",
+    "可休息或告訴老師尚未學過；聽說未做會分開記錄。"
+  ],
+  "materials": [
+    "當前題的指定大紙卡、遮紙、鉛筆、空白紙。",
+    "教師逐試稿與答案分開保管；無需外找圖片或音檔。"
+  ],
+  "teacherNotes": [
+    "本卷依本館11課實際教材：期中01–06；期末07–11恰80分，01–06回顧恰20分。不是全國統一學期範圍。A/B/C是不同資訊任務，未經試測或統計等值，不宜據此排名。",
+    "完整施測100分；只報已觀察得分／已觀察滿分及未觀察項目，不補0、不比例換算100。未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+    "聽說前由具英語教學能力的施測者私下核對本卷完整詞句及讀稿，記：已教□、可靠模型來源與頁次＿＿、核對日期＿＿、施測者＿＿、能自然清楚示範□。本卷未提供音檔，作者未驗聽；文字核對不能認證發音。無適合示範者則延期聽說，只報紙面結果。不用中文諧音、合成聲音或字母名稱拼念冒充詞音。",
+    "先收起全部後題、教師卷、答案及完整英語句卡。固定先第1題口語，逐回合記錄；再第2題聽辨，逐試記錄；兩題全部完成才給回饋並發紙面題。教師私下備稿不等於向學生預教本次答案。若本次先曝光目標讀音、完整答句、翻譯或答案手勢，事後遮住不恢復獨立性，受影響分項記受提示／未觀察。既有正常教學是先備條件。",
+    "第1題只出示教師稿指定的中文情境或單獨名字；不先念任何英語問答。中文任務可原句中性重讀一次並記次數。第2題只給指定中文選卡及稿中明列的單獨名字卡，不給逐字稿、英語選項或答案圖。教師面部自然可見，不遮臉或蒙眼，不能稱完全無視覺線索。每試原句可自然重讀一次並記次數；不逐詞翻譯、不特別加重正答線索、不換選卡位置。更多支持另記支持理解，不能冒稱原獨立證據。",
+    "記錄每個觀察分項：實際反應＿＿；原句重複0／1次＿＿；支持方式＿＿；已觀察／未觀察＿＿；得分及滿分＿＿。重複一次是中性支持狀態，不自動扣分。指卡或AAC可作聽懂選擇；口語若跟讀、成人代說、AAC發聲，另記溝通理解，不認證學生自己的獨立語音。",
+    "接受可理解的正常英語變體與正確等義框架：It is／It’s、I am／I’m、do not／don’t等。口語評當次可理解的意思及完整句，不評固定口音、音高曲線、速度、音量、眼神或公開演出膽量。單憑文字不能判聽辨、語調、發音或筆順。",
+    "紙面中文指示可讀，英文刺激原則上由學生認讀；成人代讀英文須另記支持閱讀理解。紙面可指代號、AAC、口述或忠實代筆，字詞排列可用大字卡；支援方式不隱藏。抄寫可保留模型；代筆或排字不是獨立手寫。除題目明列字母、空格、大小寫及句號外，不評字跡與手寫筆順。",
+    "單選矛盾多答只將該選擇子分記0；清楚刪改按最後答案，同義多答不扣。多選各題明列配分及多選扣分，最低0，不牽連其他子題。中文理由、指證據或等義表達同分。未要求的理由、額外事實及指定答案措辭不得當得分條件。",
+    "所有角色與關係都是虛構；不問真實家人、健康、能力、節慶參與或宗教，不錄音錄影、不上傳。只用大紙卡、鉛筆和遮紙，不使用活體、刀剪、飲食、駕駛或水上活動。可以休息、拒絕或用熟悉方式求助。",
+    "教師私下核對完整模型清單，不先給學生：This is a rice cake.／This is a mooncake.／Can I have one apple card, please?／cap／cup／nap／map"
+  ],
+  "parallelDesign": "A新需求加接受但未食用；B數量誤會及交換盤位；C交付證據缺口和多處修稿。100分＝口語12＋聽辨12＋後半紙面56＋前半回顧20。三卷任務資訊與推理約束不同，不宣稱統計等值。",
+  "blueprint": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 56,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "points": 20,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-10",
+            "g4s1-english-11"
+          ],
+          "prompt": "逐回合用已學英文完成當前中文任務；不看英文模型。",
+          "stimulus": "老師一次只給一張情境卡，不要求真實節慶經驗。",
+          "responseLines": 4,
+          "answer": {
+            "value": "This is a rice cake.／This is a mooncake.／Can I have one apple card, please?",
+            "explanation": "介紹、比較或請求由不同當前卡決定；不評宗教參與或食物偏好。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "回合1：rice cake意思2分、完整句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "回合2：mooncake意思2分、完整句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "回合3：one及apple card資訊各1分、自然禮貌請求框架2分；One apple card, please.同分。"
+              }
+            ]
+          },
+          "teacher": "只讀以下中文任務，不先讀英文，不回答孩子提出的問句。第1回合：紙卡註明是一種米糕。用一句英文介紹這個物品。 記錄後收起。第2回合：換一張紙卡，註明是月餅。用一句英文介紹它。 記錄後收起。第3回合：扮演劇中的客人，想要一張蘋果卡。用英文禮貌請求，說清一張、蘋果卡。 記錄後收起。兩道觀察題全結束才回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "口語一",
+              "points": 4
+            },
+            {
+              "label": "口語二",
+              "points": 4
+            },
+            {
+              "label": "口語三",
+              "points": 4
+            }
+          ],
+          "id": "g4s1-english-final-a-q01"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-07"
+          ],
+          "prompt": "每試聽一個完整詞，選當前中文詞義卡一張，可指卡。",
+          "stimulus": "只在當試看中文詞義，不看英文拼字。",
+          "responseLines": 4,
+          "answer": {
+            "value": "1：甲；2：乙；3：乙；4：甲",
+            "explanation": "目前教師讀詞是唯一指定選卡的新資訊；任何前題都未供這些詞音或音義配對。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第1試選甲3分；其他或矛盾多答0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第2試選乙3分；其他或矛盾多答0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第3試選乙3分；其他或矛盾多答0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第4試選甲3分；其他或矛盾多答0分。"
+              }
+            ]
+          },
+          "teacher": "口語完成才開始。當次只出示中文選卡並用中文讀，不先給英文名稱。第1試：甲帽子、乙杯子。自然讀「cap」，記錄反應。第2試：甲帽子、乙杯子。自然讀「cup」，記錄反應。第3試：甲地圖、乙小睡。自然讀「nap」，記錄反應。第4試：甲地圖、乙小睡。自然讀「map」，記錄反應。每試最多原詞中性重讀一次並記錄；不加翻譯、字母名稱或答案手勢；全部聽辨完成才回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "聽辨一",
+              "points": 3
+            },
+            {
+              "label": "聽辨二",
+              "points": 3
+            },
+            {
+              "label": "聽辨三",
+              "points": 3
+            },
+            {
+              "label": "聽辨四",
+              "points": 3
+            }
+          ],
+          "id": "g4s1-english-final-a-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-07"
+          ],
+          "prompt": "①依指令寫結果詞及中文意思：cap只把中間a換u。②lap改lip哪個位置變？寫保留的兩字母。③想寫map的錯稿pam，重寫正確詞並說錯在漏字還是順序。",
+          "stimulus": "完整字義庫：cap帽子、cup杯子、lap腿上位置、lip嘴唇、map地圖。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①cup杯子；②中間，l/p；③map，順序。",
+            "explanation": "依本題新資料作答；正確等義回應同分，未提供事項保留未知。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "cup2分、杯子2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "中間2分、l/p各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "map2分、順序2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-final-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-08"
+          ],
+          "prompt": "①同一句更正，情境甲要對方注意哪個英文詞？乙呢？各說原因。②根據紙面資料，banana詞重音在第幾音節？能只靠這答案認證你已讀準嗎？",
+          "stimulus": "更正句：No, two bananas, please. 甲誤拿三根香蕉；乙誤拿兩個蘋果。紙面提示：banana三音節，第二較突出。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲two，更正數量；乙bananas，更正種類；②第二，不能只靠紙面認證讀音。",
+            "explanation": "依本題新資料作答；正確等義回應同分，未提供事項保留未知。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "甲two及數量理由各1.5分；乙bananas及種類理由各1.5分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第二2分、不能只靠紙面2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-final-a-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-09"
+          ],
+          "prompt": "①寫客人最終要幾個什麼。②店員誤會的是數量還是種類？指一處對話依據。③客人接受果汁嗎？④能確定果汁已喝完嗎？說依據。",
+          "stimulus": "Kai：Can I have three bananas, please? Jo：Three apples? Kai：No, three bananas, please. Jo：Here you are.〔交三張香蕉紙卡〕Kai：Thank you. Jo：Would you like some juice? Kai：Yes, please.〔此後無動作記錄〕",
+          "responseLines": 4,
+          "answer": {
+            "value": "①三根香蕉；②種類，apples更正為bananas；③接受；④不能，僅同意接受，無喝完記錄。",
+            "explanation": "依本題新資料作答；正確等義回應同分，未提供事項保留未知。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "three／三2分、bananas／香蕉2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "種類2分、apples→bananas依據2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "接受2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能2分、只有接受而無喝完動作2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-final-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-10"
+          ],
+          "prompt": "新劇改要香蕉卡。①重寫英文請求。②指出應取哪盤。③把結尾英文改正。④說明為何不能只改請求而保留舊結尾。",
+          "stimulus": "藍盤：兩張蘋果卡；紅盤：一張香蕉卡。新旁白：Kai wants one banana card. 舊請求：Can I have one apple card, please? 舊結尾：Kai has one apple card. 已依新請求交出一張卡。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①Can I have one banana card, please?；②紅盤；③Kai has one banana card.；④結尾持有物要符合已交香蕉卡。",
+            "explanation": "依本題新資料作答；正確等義回應同分，未提供事項保留未知。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "one banana card資訊2分、完整自然請求2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "紅盤2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "Kai has框架2分、one banana card2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "持有物需跟交付一致2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-final-a-q06"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s1-english-11"
+          ],
+          "prompt": "①把兩個英文食物詞各配資料。②將「甲介紹一家店，所以全部家庭吃一樣月餅」改成有根據的一句中文。③甲未提米糕，可否說當地完全沒有米糕？說理由。",
+          "stimulus": "資料甲：新加坡國家博物館2020年介紹一家店的海南式月餅，提醒月餅有不同樣式。資料乙：史密森館方談秋夕的songpyeon米糕例子。詞卡：mooncake；rice cake。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①mooncake甲、rice cake乙；②甲只介紹一家店，且月餅有不同樣式；③不能，未提不等於沒有。",
+            "explanation": "依本題新資料作答；正確等義回應同分，未提供事項保留未知。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "兩詞各1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "限定一家店1.5分、保留樣式不同1.5分。"
+              },
+              {
+                "points": 3,
+                "criterion": "不能1分、未提不等於沒有2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-final-a-q07"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g4s1-english-01",
+            "g4s1-english-02"
+          ],
+          "prompt": "①天氣卡寫sunny / cold，寫完整英文描述。②角色自述I’m not hungry.，寫確定意思，並說能否由此判定口渴。",
+          "stimulus": "天氣與角色自述是分開的資料。",
+          "responseLines": 4,
+          "answer": {
+            "value": "It’s sunny and cold.；不餓，不能據此判定口渴。",
+            "explanation": "依本題新資料作答；正確等義回應同分，未提供事項保留未知。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "sunny2分、cold2分、完整句1分。"
+              },
+              {
+                "points": 5,
+                "criterion": "不餓3分、不能判定口渴2分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-final-a-q08"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g4s1-english-03",
+            "g4s1-english-05"
+          ],
+          "prompt": "①三個梨，用英文短語寫。②角色喜歡梨但現在不拿。分別回答Do you like pears?及Would you like a pear?，各寫自然英文答句。",
+          "stimulus": "只用虛構角色卡。",
+          "responseLines": 4,
+          "answer": {
+            "value": "three pears；Yes, I do.／Yes, I like pears.；No, thank you.",
+            "explanation": "依本題新資料作答；正確等義回應同分，未提供事項保留未知。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "three2分、pears含s2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "一般喜好肯定答句3分、本次提供婉拒3分。"
+              }
+            ]
+          },
+          "id": "g4s1-english-final-a-q09"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜天氣與冷暖描述",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-01.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜情緒與身體感受",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-02.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜水果名稱與複數",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-03.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜喜好與禮貌回應",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-05.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜字母拼讀與拼寫",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-07.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜字詞重音與句子語調",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-08.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜圖文對話的關鍵訊息",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-09.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜歌謠節奏與角色朗讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-10.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜節慶食物與文化差異",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s1-english-11.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    }
+  ]
+}

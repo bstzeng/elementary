@@ -1,0 +1,410 @@
+{
+  "schemaVersion": 1,
+  "id": "g3s2-mathematics-midterm-c",
+  "grade": 3,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "C",
+  "mode": "written",
+  "title": "小三下學期數學・期中C卷",
+  "duration": "紙筆建議40–50分鐘。為設計估計，未經試測；可分段、延長或休息。",
+  "instructions": [
+    "每題資料獨立，請留下題目要求的算式、理由或圖示。",
+    "可以口述、指圖，請成人照你的意思記錄。圖是示意，按標示的數量作答。"
+  ],
+  "teacherNotes": [
+    "本卷依本館跨版本參考主題，不是全國統一學期進度；先核對已教範圍。三卷原創平行設計，未經試測、常模化或統計等值檢驗。",
+    "可中性逐字朗讀、放大、給空白紙或位值表、依學生原話代寫；算式、位置和判斷由學生決定。不按速度、字體、美觀給分。",
+    "每條規準獨立給分；明列子分逐項計，未另分拆者符合得全條，否則0。空白、抄題及無相關證據0分。正確結果不自動獲得另問的方法或理由分。",
+    "前步算錯不重複扣後步關係或方法分；依自己前步一致推理可得相應方法分，指定數值分按標準結果。接受合理等效算式、圖解、口述及省略已明示重複單位，不限定因子順序。",
+    "二、三位數除以一位正整數；兩步題用分開算式，不考併式、連除、乘除混合。分數與結果不超過2，不要求約分或帶分數。小數限一位且不乘除。",
+    "所有圖為縮放模型；不拿尺量圖的印出尺寸。公升與公斤數均一位數；複名數只加減。時分加減無進退位，不做分秒複名數加減、跨日或日曆累計。",
+    "所有情境和數據虛構，不蒐集兒童姓名、身體量或個資。不需真交易、真水、提重物、刀剪或地面跳躍。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、空白紙、放大圖文或位值表"
+  ],
+  "parallelDesign": "同一內容配分與核心覆蓋；A以判斷中間過程、未知總量、保留後分為主；B以改餘數、缺容器、每份未知、先分後增為主；C以續分方案、補完整套、反向總量、先合後分為主。分數及小數模型也改變表示方向，非只換數字。",
+  "sources": [
+    {
+      "title": "本館小三下數學15課原創教材",
+      "url": "https://bstzeng.github.io/elementary/#g3s2",
+      "note": "逐課核對release25保存JSON與HTML。前半01–08；後半09–14及number-line。期末80後半＋20回顧，13只作實際操作。"
+    },
+    {
+      "title": "教育部數學課綱正式發布頁及教材保存引註",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用教材已保存之官方附件31051印刷頁23–26引註；本次未重新擷取官方文件，不宣稱官方規定學期順序。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段理解與解題",
+      "points": 100,
+      "purpose": "依完整資料作答並留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段理解與解題",
+      "instructions": "請按題目要求完成。",
+      "items": [
+        {
+          "id": "g3s2-mathematics-midterm-c-q01",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-01"
+          ],
+          "stimulus": "資料室有809張卡，平均分給4櫃，每櫃張數相同，卡不裁開。",
+          "prompt": "用直式計算最多每櫃張數和剩餘，說明商的十位，並驗算。",
+          "responseLines": 5,
+          "answer": {
+            "value": "每櫃202張，餘1張；202×4＝808，808＋1＝809。十位0不能省略。",
+            "explanation": "8百分4份各2百；0十分4份各0十；9個一分4份各2餘1。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "逐位商2、0、2，各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "202張。"
+              },
+              {
+                "points": 1,
+                "criterion": "餘1張。"
+              },
+              {
+                "points": 2,
+                "criterion": "0十仍需記十位0以保留百位。"
+              },
+              {
+                "points": 2,
+                "criterion": "808加1回809的乘回檢查。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q02",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-01"
+          ],
+          "stimulus": "在326÷5直式中，先把32個十分成每份6個十，剩2個十。兩個候選後續記錄：甲「接6得8個一」，乙「接6得26個一」。",
+          "prompt": "選正確後續並說原因。完成商和餘數，再用乘回加餘數核對。",
+          "responseLines": 5,
+          "answer": {
+            "value": "乙；2十是20個一，加6共26個一。326÷5＝65餘1；65×5＝325，325＋1＝326。",
+            "explanation": "26分5份，各5餘1；十位商6與個位5合成65。",
+            "scoring": [
+              {
+                "points": 1,
+                "criterion": "選乙。"
+              },
+              {
+                "points": 3,
+                "criterion": "明確2十換20個一，再加6得26。"
+              },
+              {
+                "points": 2,
+                "criterion": "商65。"
+              },
+              {
+                "points": 2,
+                "criterion": "餘1。"
+              },
+              {
+                "points": 2,
+                "criterion": "325加1回326的乘回驗算。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q03",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-02"
+          ],
+          "stimulus": "90張完整卡，每筒最多放7張；每套展示一定要7張。",
+          "prompt": "至少幾筒才能全部收好？最多幾完整套？如果再補卡剛好完成下一套，最少補幾張？用餘數解釋。",
+          "responseLines": 5,
+          "answer": {
+            "value": "至少13筒；12套；最少補1張。90÷7＝12餘6。",
+            "explanation": "12筒只放84張，餘6需另筒；下一完整套要7張，尚缺1。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "90÷7＝12餘6。"
+              },
+              {
+                "points": 2,
+                "criterion": "至少13筒。"
+              },
+              {
+                "points": 2,
+                "criterion": "最多12完整套。"
+              },
+              {
+                "points": 2,
+                "criterion": "最少補1張。"
+              },
+              {
+                "points": 2,
+                "criterion": "餘6需收筒但不足7；還差1的份量理由。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q04",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-03"
+          ],
+          "stimulus": "某批卡平均分9份，每份14張，最後餘8張。檢查員提議原量是126張。",
+          "prompt": "求真正原量，寫兩個分開算式；說明126漏了什麼。原量除9的餘8是否合規？",
+          "responseLines": 5,
+          "answer": {
+            "value": "9×14＝126；126＋8＝134張。126漏餘8張；8＜9合規。",
+            "explanation": "每份14的9份只算已分部分，還有未分的8張。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "乘法得126：關係2分、數值1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "加餘8得134：關係2分、數值1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出126漏算未分8張。"
+              },
+              {
+                "points": 2,
+                "criterion": "8小於9，合法。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q05",
+          "kind": "short",
+          "points": 15,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-04"
+          ],
+          "stimulus": "任務甲：每袋9張，每箱2袋，共4箱。\n任務乙：有47張和37張兩批卡，合起來平均分7夾。",
+          "prompt": "各用兩個分開算式求甲總張數、乙每夾張數；說明各題第一步得到的量。",
+          "responseLines": 5,
+          "answer": {
+            "value": "甲9×2＝18（每箱張數），18×4＝72張。乙47＋37＝84（合併總張數），84÷7＝12張。",
+            "explanation": "甲也可先2×4＝8袋再9×8＝72；乙必須把兩批合起來再分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "甲兩步乘法關係各2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "甲72張。"
+              },
+              {
+                "points": 2,
+                "criterion": "甲中間量說明符合採用方法。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙先相加再除7：相加關係1分、除法關係2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "乙12張。"
+              },
+              {
+                "points": 2,
+                "criterion": "乙第一步84為合併總量。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q06",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-05"
+          ],
+          "stimulus": "所有標準紙帶同長且各分7等份。甲取9份1/7，乙取6份1/7；丙也取9份，但塗在兩條紙帶的分散位置。每條仍為1。",
+          "prompt": "寫甲乙的分數及大小符號。甲與丙相等嗎？甲超過1嗎？用份量說明兩個判斷。",
+          "responseLines": 5,
+          "answer": {
+            "value": "甲9/7＞乙6/7；甲與丙相等；甲超過1。",
+            "explanation": "同大1/7只看實取份數；分散位置不改9份的量，7份已是1，9份超過1。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "甲9/7、乙6/7各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "比較＞。"
+              },
+              {
+                "points": 2,
+                "criterion": "甲丙相等且理由為同9份；判斷1分理由1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "甲大於1。"
+              },
+              {
+                "points": 2,
+                "criterion": "以7份為1、9份多2份解釋。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q07",
+          "kind": "short",
+          "points": 15,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-06"
+          ],
+          "stimulus": "同長標準帶為1，每條分8等份。甲有7/8條，再接5/8條；乙有1條，取走5/8條。",
+          "prompt": "求甲合量、乙剩量並寫算式；說明甲為何分母仍是8；用加回檢查乙。",
+          "responseLines": 5,
+          "answer": {
+            "value": "甲7/8＋5/8＝12/8；乙1－5/8＝3/8；3/8＋5/8＝8/8＝1。",
+            "explanation": "甲12份都是原來的1/8；乙一整條8份，去5份餘3份。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "甲12/8或等值結果。"
+              },
+              {
+                "points": 2,
+                "criterion": "甲加法算式保留1/8單位。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙3/8。"
+              },
+              {
+                "points": 2,
+                "criterion": "把1看成8/8再減5/8。"
+              },
+              {
+                "points": 2,
+                "criterion": "份的大小／等分方式未改。"
+              },
+              {
+                "points": 3,
+                "criterion": "3/8＋5/8＝8/8＝1檢查。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q08",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-07"
+          ],
+          "stimulus": "每條1公尺紙帶均分10等份。甲取6小格，乙取滿6整條。",
+          "prompt": "把兩長度各寫成一位小數並讀出；說明0.6與6.0中6的位值，各共有幾個0.1公尺？",
+          "responseLines": 5,
+          "answer": {
+            "value": "甲0.6公尺（零點六），乙6.0公尺（六點零）；甲的6在十分位，乙的6在個位；甲6個、乙60個0.1公尺。",
+            "explanation": "一整條含10小格，六整條含60小格；個位0表示不足一整條。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "0.6與6.0各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "兩個讀法各1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "十分位和個位正確各1分，說明其分別為小份與整條再1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "甲6個與乙60個0.1，分別1分、2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g3s2-mathematics-midterm-c-q09",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-mathematics-08"
+          ],
+          "stimulus": "甲帶長8公尺，乙帶長7.9公尺；另有5公尺帶用去2.6公尺。",
+          "prompt": "比較8與7.9並說理由；將5寫成一位小數，用直式求剩長，說明換量。",
+          "responseLines": 5,
+          "answer": {
+            "value": "8＞7.9；5.0－2.6＝2.4公尺；5.0換成4個一與10個十分之一。",
+            "explanation": "7.9尚不足8；整數5也可寫5.0，換一個一成10個十分之一再相減。",
+            "scoring": [
+              {
+                "points": 1,
+                "criterion": "比較＞。"
+              },
+              {
+                "points": 2,
+                "criterion": "說明8有8個一，7.9未到8。"
+              },
+              {
+                "points": 2,
+                "criterion": "5.0及直式小數點／位值對齊，各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "換成4個一與10個十分之一。"
+              },
+              {
+                "points": 3,
+                "criterion": "剩2.4公尺。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

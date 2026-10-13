@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "id": "g3s2-english-midterm-a",
+  "grade": 3,
+  "semester": 2,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "midterm",
+  "variant": "A",
+  "mode": "mixed-language",
+  "title": "小三下學期英語文・期中A卷",
+  "duration": "紙面建議30–40分鐘；口語與聽辨各5–10分鐘，可分日、休息及延長。時間為設計估計，未經試測。",
+  "instructions": [
+    "先和老師完成第1、2題，老師說可以才看紙面英文。",
+    "角色全是虛構，不用說自己的家庭或能力。",
+    "可休息或告訴老師尚未學過；聽說未做會分開記錄。"
+  ],
+  "materials": [
+    "當前題的指定大紙卡、遮紙、鉛筆、空白紙。",
+    "教師逐試稿與答案分開保管；無需外找圖片或音檔。"
+  ],
+  "teacherNotes": [
+    "本卷依本館12課實際教材：期中01–06；期末07–12恰80分，01–06回顧恰20分。不是全國統一學期範圍。A/B/C是不同資訊任務，未經試測或統計等值，不宜據此排名。",
+    "完整施測100分；只報已觀察得分／已觀察滿分及未觀察項目，不補0、不比例換算100。未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+    "聽說前由具英語教學能力的施測者私下核對本卷完整詞句及讀稿，記：已教□、可靠模型來源與頁次＿＿、核對日期＿＿、施測者＿＿、能自然清楚示範□。本卷未提供音檔，作者未驗聽；文字核對不能認證發音。無適合示範者則延期聽說，只報紙面結果。不用中文諧音、合成聲音或字母名稱拼念冒充詞音。",
+    "先收起全部後題、教師卷、答案及完整英語句卡。固定先第1題口語，逐回合記錄；再第2題聽辨，逐試記錄；兩題全部完成才給回饋並發紙面題。教師私下備稿不等於向學生預教本次答案。若本次先曝光目標讀音、完整答句、翻譯或答案手勢，事後遮住不恢復獨立性，受影響分項記受提示／未觀察。既有正常教學是先備條件。",
+    "第1題只出示教師稿指定的中文情境或單獨名字；不先念任何英語問答。中文任務可原句中性重讀一次並記次數。第2題只給指定中文選卡及稿中明列的單獨名字卡，不給逐字稿、英語選項或答案圖。教師面部自然可見，不遮臉或蒙眼，不能稱完全無視覺線索。每試原句可自然重讀一次並記次數；不逐詞翻譯、不特別加重正答線索、不換選卡位置。更多支持另記支持理解，不能冒稱原獨立證據。",
+    "記錄每個觀察分項：實際反應＿＿；原句重複0／1次＿＿；支持方式＿＿；已觀察／未觀察＿＿；得分及滿分＿＿。重複一次是中性支持狀態，不自動扣分。指卡或AAC可作聽懂選擇；口語若跟讀、成人代說、AAC發聲，另記溝通理解，不認證學生自己的獨立語音。",
+    "接受可理解的正常英語變體與正確等義框架：It is／It’s、has／has got、cannot／can’t等。口語評當次可理解的意思及完整句，不評固定口音、音高曲線、速度、音量、眼神或公開演出膽量。單憑文字不能判聽辨、語調、發音或筆順。",
+    "紙面中文指示可讀，英文刺激原則上由學生認讀；成人代讀英文須另記支持閱讀理解。紙面可指代號、AAC、口述或忠實代筆，字詞排列可用大字卡；支援方式不隱藏。抄寫可保留模型；代筆或排字不是獨立手寫。除題目明列字母、空格、大小寫及句號外，不評字跡與手寫筆順。",
+    "單選矛盾多答只將該選擇子分記0；清楚刪改按最後答案，同義多答不扣。多選各題明列配分及多選扣分，最低0，不牽連其他子題。中文理由、指證據或等義表達同分。未要求的理由、額外事實及指定答案措辭不得當得分條件。",
+    "所有角色與關係都是虛構；不問真實家人、健康、能力、節慶參與或宗教，不錄音錄影、不上傳。只用大紙卡、鉛筆和遮紙，不使用活體、刀剪、飲食、駕駛或水上活動。可以休息、拒絕或用熟悉方式求助。",
+    "教師私下核對完整模型清單，不先給學生：It’s a fish.／It has got a tail.／I can’t sing.／cut／cat／It’s a bird. It has got a beak.／I can sing. I can’t draw."
+  ],
+  "parallelDesign": "A：集合縮小與單欄更新；B：雙條件仍不唯一及雙欄反轉；C：資訊缺口、修錯保留及自述轉問答。每卷100分，口語12、聽辨12、文字76；三卷不宣稱統計等值。",
+  "blueprint": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 76,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-05",
+            "g3s2-english-06"
+          ],
+          "prompt": "用已學英文完成三個小回合，每回合說一句。老師一次只告訴你一個任務。",
+          "stimulus": "第1題不看任何英文模型或後題。當前中文情境由老師提供。",
+          "responseLines": 4,
+          "answer": {
+            "value": "It’s a fish.／It has got a tail.／I can’t sing.",
+            "explanation": "每回合依當前中文資料傳達不同訊息，不以背出上一回合代替。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合：口語表達「fish」意思2分；以可理解完整句表達再2分。正確等義句同分；只有關鍵詞可得意思分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合：口語表達「tail」意思2分；以可理解完整句表達再2分。正確等義句同分；只有關鍵詞可得意思分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合：口語表達「不會唱sing」意思2分；以可理解完整句表達再2分。正確等義句同分；只有關鍵詞可得意思分。"
+              }
+            ]
+          },
+          "teacher": "逐回合只用中文說以下任務，未到的回合不出示。①這張卡是一隻魚，請用一句英文說牠是什麼。②同一張魚卡寫「有尾巴」，請用一句英文說這個特徵。③換一張紙偶卡：不會唱歌。扮演它，用一句英文說自己不會唱歌。每回合等反應並記錄才換卡；不示範英文、不回答第一個問句；完成兩道觀察題以前不回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "第一回合口語",
+              "points": 4
+            },
+            {
+              "label": "第二回合口語",
+              "points": 4
+            },
+            {
+              "label": "第三回合口語",
+              "points": 4
+            }
+          ],
+          "id": "g3s2-english-midterm-a-q01"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-02",
+            "g3s2-english-05",
+            "g3s2-english-06"
+          ],
+          "prompt": "聽四次訊息。每次只選該組的一張中文卡，可以指代號。",
+          "stimulus": "老師到當次才出示該組卡：①②共用甲貓、乙切、丙杯；③甲鳥有喙、乙魚有尾巴、丙貓有尾巴；④甲會畫不會唱、乙不會畫會唱、丙兩項都會。",
+          "responseLines": 4,
+          "answer": {
+            "value": "第1試乙；第2試甲；第3試甲；第4試乙",
+            "explanation": "先辨中間母音不同的整詞，再分辨動物雙線索與肯否能力組合。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第1試選乙3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第2試選甲3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第3試選甲3分；其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第4試選乙3分；其他或矛盾多選0分。"
+              }
+            ]
+          },
+          "teacher": "口語三回合全部記完才開始。中文讀當前組選卡，不說英語對應。第1試自然讀「cut」，等並記錄。第2試自然讀「cat」，等並記錄。第3試自然讀「It’s a bird. It has got a beak.」，等並記錄。第4試自然讀「I can sing. I can’t draw.」，等並記錄。每試可按原句重讀一次；不加重否定詞或目標詞、不示意正答；四試全部記完才回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "聽辨一",
+              "points": 3
+            },
+            {
+              "label": "聽辨二",
+              "points": 3
+            },
+            {
+              "label": "聽辨三",
+              "points": 3
+            },
+            {
+              "label": "聽辨四",
+              "points": 3
+            }
+          ],
+          "id": "g3s2-english-midterm-a-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-01"
+          ],
+          "prompt": "①把B、P、N各配一個小寫代號。②比較sit與sat，寫出改變的位置，以及哪個字母換成哪個字母。",
+          "stimulus": "小寫卡：甲n；乙b；丙p。詞卡：sit → sat。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①B乙、P丙、N甲。②中間i換a。",
+            "explanation": "配對不能只看形狀相近；詞形比較另看改變位置。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "B乙、P丙、N甲各2分。每組矛盾多答該組0分。"
+              },
+              {
+                "points": 6,
+                "criterion": "指出中間2分、原字母i2分、新字母a2分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-03"
+          ],
+          "prompt": "①看模型抄完整句，保留字母順序、開頭大寫、空格及句號。②說出這句的顏色和物品。",
+          "stimulus": "模型：It is a blue pen.",
+          "responseLines": 4,
+          "answer": {
+            "value": "It is a blue pen.；藍色、筆。",
+            "explanation": "已教blue與pen重新組合，抄寫與詞義都要求。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "五詞It/is/a/blue/pen字母順序與拼寫全對6分；錯漏1詞4分，2詞2分，3詞以上0分。大小寫另計。"
+              },
+              {
+                "points": 2,
+                "criterion": "四個詞間空格完整2分；缺1處1分，缺2處以上0分。"
+              },
+              {
+                "points": 2,
+                "criterion": "句首I大寫1分，句末句號1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "藍色2分、筆2分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-a-q04"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-04"
+          ],
+          "prompt": "①甲句與乙句分別在做什麼？各選用途代號。②朋友知道是筆，卻說成藍色；你用丙句更正，圈出需要更正的英文詞，並說明更正哪項資訊。",
+          "stimulus": "甲：What’s this? 乙：Is it red? 丙：It’s a red pen. 用途：1詢問種類；2確認顏色；3說明物品。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲1、乙2。②red，更正顏色。",
+            "explanation": "功能與訊息焦點是文字可判斷事項，不由圈詞判實際語調。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "甲1、乙2各3分。"
+              },
+              {
+                "points": 6,
+                "criterion": "圈red3分，說更正顏色3分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-05"
+          ],
+          "prompt": "①讀線索一，列出所有符合的卡代號。②加上線索二後選一張。③選一句能正確描述乙卡的英文。",
+          "stimulus": "甲：fish魚，有尾巴。乙：bird鳥，有喙。丙：cat貓，有尾巴。線索一：It has got a tail. 線索二：It’s a cat. 乙卡句選項：1 It has got a beak.；2 It has got a tail.（乙未提供尾巴資料）",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲、丙；②丙；③1。",
+            "explanation": "第一條資料有兩個可能，加種類才能唯一定位。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "甲與丙各3分；多選乙扣3分，最低0。"
+              },
+              {
+                "points": 4,
+                "criterion": "②丙4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③1得4分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-a-q06"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-06"
+          ],
+          "prompt": "①依青卡，回答兩個英文問題，各選一個完整答句。②改用橙卡後，同樣兩問各選一句。③灰卡沒有能力資料，能否直接答No？說明缺少什麼資料。",
+          "stimulus": "青卡：會畫、不會唱。橙卡：會畫、會唱。灰卡：只有角色代號。兩問順序：Can you sing? / Can you draw? 句庫：甲 Yes, I can.；乙 No, I can’t.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①乙、甲；②甲、甲；③不能，未提供是否會唱／畫。",
+            "explanation": "同一問題隨資料更新，未知不等於不會。",
+            "scoring": [
+              {
+                "points": 8,
+                "criterion": "四格依序乙甲甲甲，各2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "不能直接答No3分，指出缺能力資料3分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-a-q07"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-02"
+          ],
+          "prompt": "①把bed、pig、cup按中間母音配到e、i、u。②cap改成cat，變了哪個位置？寫出原、新字母。",
+          "stimulus": "只看文字，不需要猜讀音。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①bed-e、pig-i、cup-u；②最後p換t。",
+            "explanation": "這題檢查文字結構；音質必須另聽實際聲音。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "三詞各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "最後位置2分；p換t兩字母方向正確2分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-midterm-a-q08"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜大小寫字母與字音複習",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-01.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜短母音與簡單拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-02.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜熟悉字詞的認讀與抄寫",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-03.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜簡短句子的語調與朗讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-04.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜常見動物與特徵",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-05.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜詢問與表達能做的事",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-06.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    }
+  ]
+}

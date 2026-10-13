@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "id": "g3s2-english-final-a",
+  "grade": 3,
+  "semester": 2,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "final",
+  "variant": "A",
+  "mode": "mixed-language",
+  "title": "小三下學期英語文・期末A卷",
+  "duration": "紙面建議30–40分鐘；口語與聽辨各5–10分鐘，可分日、休息及延長。時間為設計估計，未經試測。",
+  "instructions": [
+    "先和老師完成第1、2題，老師說可以才看紙面英文。",
+    "角色全是虛構，不用說自己的家庭或能力。",
+    "可休息或告訴老師尚未學過；聽說未做會分開記錄。"
+  ],
+  "materials": [
+    "當前題的指定大紙卡、遮紙、鉛筆、空白紙。",
+    "教師逐試稿與答案分開保管；無需外找圖片或音檔。"
+  ],
+  "teacherNotes": [
+    "本卷依本館12課實際教材：期中01–06；期末07–12恰80分，01–06回顧恰20分。不是全國統一學期範圍。A/B/C是不同資訊任務，未經試測或統計等值，不宜據此排名。",
+    "完整施測100分；只報已觀察得分／已觀察滿分及未觀察項目，不補0、不比例換算100。未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+    "聽說前由具英語教學能力的施測者私下核對本卷完整詞句及讀稿，記：已教□、可靠模型來源與頁次＿＿、核對日期＿＿、施測者＿＿、能自然清楚示範□。本卷未提供音檔，作者未驗聽；文字核對不能認證發音。無適合示範者則延期聽說，只報紙面結果。不用中文諧音、合成聲音或字母名稱拼念冒充詞音。",
+    "先收起全部後題、教師卷、答案及完整英語句卡。固定先第1題口語，逐回合記錄；再第2題聽辨，逐試記錄；兩題全部完成才給回饋並發紙面題。教師私下備稿不等於向學生預教本次答案。若本次先曝光目標讀音、完整答句、翻譯或答案手勢，事後遮住不恢復獨立性，受影響分項記受提示／未觀察。既有正常教學是先備條件。",
+    "第1題只出示教師稿指定的中文情境或單獨名字；不先念任何英語問答。中文任務可原句中性重讀一次並記次數。第2題只給指定中文選卡及稿中明列的單獨名字卡，不給逐字稿、英語選項或答案圖。教師面部自然可見，不遮臉或蒙眼，不能稱完全無視覺線索。每試原句可自然重讀一次並記次數；不逐詞翻譯、不特別加重正答線索、不換選卡位置。更多支持另記支持理解，不能冒稱原獨立證據。",
+    "記錄每個觀察分項：實際反應＿＿；原句重複0／1次＿＿；支持方式＿＿；已觀察／未觀察＿＿；得分及滿分＿＿。重複一次是中性支持狀態，不自動扣分。指卡或AAC可作聽懂選擇；口語若跟讀、成人代說、AAC發聲，另記溝通理解，不認證學生自己的獨立語音。",
+    "接受可理解的正常英語變體與正確等義框架：It is／It’s、has／has got、cannot／can’t等。口語評當次可理解的意思及完整句，不評固定口音、音高曲線、速度、音量、眼神或公開演出膽量。單憑文字不能判聽辨、語調、發音或筆順。",
+    "紙面中文指示可讀，英文刺激原則上由學生認讀；成人代讀英文須另記支持閱讀理解。紙面可指代號、AAC、口述或忠實代筆，字詞排列可用大字卡；支援方式不隱藏。抄寫可保留模型；代筆或排字不是獨立手寫。除題目明列字母、空格、大小寫及句號外，不評字跡與手寫筆順。",
+    "單選矛盾多答只將該選擇子分記0；清楚刪改按最後答案，同義多答不扣。多選各題明列配分及多選扣分，最低0，不牽連其他子題。中文理由、指證據或等義表達同分。未要求的理由、額外事實及指定答案措辭不得當得分條件。",
+    "所有角色與關係都是虛構；不問真實家人、健康、能力、節慶參與或宗教，不錄音錄影、不上傳。只用大紙卡、鉛筆和遮紙，不使用活體、刀剪、飲食、駕駛或水上活動。可以休息、拒絕或用熟悉方式求助。",
+    "教師私下核對完整模型清單，不先給學生：This is my friend, Sam.／Jo is a doctor.／No, it isn’t. It’s a pen.／This is my grandmother, Jo.／Sam is a driver.／Yes, I can.／This is a rice dumpling."
+  ],
+  "parallelDesign": "每卷後半07–12共80分（口語12、聽辨12、紙面56），前半回顧20分。A跟隨同一指涉後換卡；B先修補缺資料；C區分代讀角色並明確轉移指涉。資料依賴、答題操作及文化推論錯誤不同，未經統計等值。",
+  "blueprint": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 56,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "points": 20,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-07",
+            "g3s2-english-08",
+            "g3s2-english-09"
+          ],
+          "prompt": "每回合依老師中文提供的新資料用英文說。前兩回合各一句；第三回合先否定再更正。",
+          "stimulus": "只看當前回合指定中文資料和單獨名字，不看完整英語句卡或答案。",
+          "responseLines": 4,
+          "answer": {
+            "value": "This is my friend, Sam.／Jo is a doctor.／No, it isn’t. It’s a pen.",
+            "explanation": "關係依說話角色、工作依給定卡；最後以物品框架否定及更正。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①正確名字Sam1分、正確關係朋友friend1分；以可理解完整介紹句再2分。正確等義完整句同分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②正確姓名1分、正確工作詞1分；完整可理解工作描述句2分。目標為Jo及醫師doctor，正確等義句同分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③可理解完整物品否定句2分；以可理解完整句更正pen2分。每部分只有意思或關鍵詞而非完整句各1分。"
+              }
+            ]
+          },
+          "teacher": "逐回合只用中文說：①扮演故事角色：Sam是你的朋友。用一句英文介紹Sam和這個關係。只出示名字Sam。②換工作卡：Jo是醫師。用一句英文說Jo的工作，只出示名字Jo。③新物品卡是筆。別人誤認是書，請用英文先否定，再用一句話更正成筆。各回合記錄才換資料，不先念英語問句或回答；本題及聽辨題完成前不回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "角色介紹",
+              "points": 4
+            },
+            {
+              "label": "工作描述",
+              "points": 4
+            },
+            {
+              "label": "否定及更正",
+              "points": 4
+            }
+          ],
+          "id": "g3s2-english-final-a-q01"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-07",
+            "g3s2-english-08",
+            "g3s2-english-09",
+            "g3s2-english-12"
+          ],
+          "prompt": "每次聽一句，選出那句真正提供的訊息或物品意思。每次只選一項。",
+          "stimulus": "中文選卡分四組，老師到當次才給：①甲祖母、乙朋友、丙關係未說；②甲教師、乙醫師、丙駕駛；③甲肯定自己會某動作、乙肯定某物品條件、丙否定自己會某動作；④甲龍舟、乙米粽、丙鳥。",
+          "responseLines": 4,
+          "answer": {
+            "value": "1甲；2丙；3甲；4乙",
+            "explanation": "同一名字不決定關係或工作；完整句提供的功能及詞義才是本題依據。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第1試甲3分，其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第2試丙3分，其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第3試甲3分，其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第4試乙3分，其他或矛盾多選0分。"
+              }
+            ]
+          },
+          "teacher": "先完成口語，再依試次中文讀當組選卡，不翻譯英語對應。第1試自然讀「This is my grandmother, Jo.」，等待並記錄。第2試自然讀「Sam is a driver.」，等待並記錄。第3試自然讀「Yes, I can.」，等待並記錄。第4試自然讀「This is a rice dumpling.」，等待並記錄。每試可原句重讀一次；不能改成中文解答，不回饋直到四試完成。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "關係訊息聽辨",
+              "points": 3
+            },
+            {
+              "label": "工作聽辨",
+              "points": 3
+            },
+            {
+              "label": "回應功能聽辨",
+              "points": 3
+            },
+            {
+              "label": "文化詞義聽辨",
+              "points": 3
+            }
+          ],
+          "id": "g3s2-english-final-a-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-07"
+          ],
+          "prompt": "①讀兩位角色說的話，各指出my指哪位說話者。②把兩句各配到正確關係卡。③只知道名字Pat，選一句不添加未知關係的介紹。",
+          "stimulus": "Nori: This is my friend, Jo. Mia: This is my grandmother, Jo. 關係卡：甲Jo是Mia的祖母；乙Jo是Nori的朋友。介紹選項：1 This is Pat.；2 This is my father, Pat.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①Nori、Mia；②乙、甲；③1。",
+            "explanation": "同一Jo的關係依my的說話者不同，名字本身不補足關係。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "兩個my依序Nori、Mia各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "兩句配乙、甲各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③1得4分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-final-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-08"
+          ],
+          "prompt": "①只用teacher線索時，把所有符合人物選出。②加上名字Jo後選一句正確介紹。③有位人物只標名字Lee、工作未知，能因Lee拿著筆就寫Lee is a teacher.嗎？說明理由。",
+          "stimulus": "虛構名冊：Jo—teacher；Sam—driver；Pat—teacher。句庫：甲 Jo is a teacher.；乙 Pat is a teacher.；丙 Jo is a driver.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①Jo與Pat；②甲；③不能，拿筆不等於職業，未有Lee的工作資料。",
+            "explanation": "工作和名字需要一起對照，工具不能補出未知工作。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "Jo、Pat各2分；多選Sam扣2分，最低0。"
+              },
+              {
+                "points": 4,
+                "criterion": "②甲4分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能2分，指出工具不等於工作或缺工作資料2分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-final-a-q04"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-09",
+            "g3s2-english-10"
+          ],
+          "prompt": "①對話的it一直指哪張卡？②Jo第一句說明什麼種類？③最後一句更正哪個顏色？④若最後改指乙問Is it red?，從句庫選完整答句。",
+          "stimulus": "圖卡甲：blue fish藍魚；乙：red bird紅鳥。Nori指甲：What’s this? Jo: It’s a fish. Nori仍指甲：Is it red? Jo: No, it isn’t. It’s blue. 答句庫：1 Yes, it is.；2 No, I can’t.；3 No, it isn’t.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲；②魚fish；③更正為藍色blue；④1。",
+            "explanation": "前三問跟住甲；最後明確改乙才更新顏色判斷。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "①甲3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "②魚或fish3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "③藍色或blue3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "④1得3分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 150\" role=\"img\"><title>兩張原創動物圖卡，種類和顏色均附完整文字；僅供本題指認。</title><rect x=\"10\" y=\"10\" width=\"160\" height=\"130\" fill=\"#ffffff\" stroke=\"#34495e\"/><text x=\"22\" y=\"33\" font-size=\"16\">甲</text><ellipse cx=\"85\" cy=\"73\" rx=\"35\" ry=\"18\" fill=\"#225da8\"/><polygon points=\"112,73 140,54 140,92\" fill=\"#225da8\"/><circle cx=\"67\" cy=\"69\" r=\"3\" fill=\"#ffffff\"/><text x=\"22\" y=\"122\" font-size=\"16\">blue fish</text><rect x=\"190\" y=\"10\" width=\"160\" height=\"130\" fill=\"#ffffff\" stroke=\"#34495e\"/><text x=\"202\" y=\"33\" font-size=\"16\">乙</text><ellipse cx=\"265\" cy=\"79\" rx=\"29\" ry=\"20\" fill=\"#b33030\"/><circle cx=\"281\" cy=\"59\" r=\"14\" fill=\"#b33030\"/><polygon points=\"293,56 309,63 293,68\" fill=\"#8a6400\"/><circle cx=\"284\" cy=\"56\" r=\"2\" fill=\"#ffffff\"/><text x=\"202\" y=\"122\" font-size=\"16\">red bird</text></svg>",
+          "id": "g3s2-english-final-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-11"
+          ],
+          "prompt": "①角色會畫鳥、不會畫魚，第一問Can you draw a fish?選哪句？②接著改問Can you draw a bird?又選哪句？③排出三張流程卡的順序，讓顏色題有圖可查。",
+          "stimulus": "答句庫：甲 Yes, I can.；乙 No, I can’t. 流程卡：1看已出示的圖再確認顏色；2問角色能力並等回答；3出示符合能力的現成圖卡。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①乙；②甲；③2→3→1。",
+            "explanation": "能力依角色變更，顏色確認須在出圖之後。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "①乙3分。"
+              },
+              {
+                "points": 3,
+                "criterion": "②甲3分。"
+              },
+              {
+                "points": 4,
+                "criterion": "順序231全對4分；只有2在3前或3在1前其中一關係正確2分，兩關係皆錯0分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-final-a-q06"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g3s2-english-12"
+          ],
+          "prompt": "①This is a rice dumpling.指什麼？②寫一項甲乙共同提到的活動或食物，並寫甲、乙各有哪項證據。③「兩地都有粽子，所以所有餡料相同」有根據嗎？用一句話修正。",
+          "stimulus": "封存來源資料甲（臺灣交通部觀光署兒童網）：介紹划龍舟、吃粽子，也提香包。資料乙（新加坡國家文物局Roots）：介紹米粽、龍舟；提到新加坡全年也有人從事龍舟運動，端午期間尤其常見。乙的文字沿用教材官方搜尋索引核對摘要；當時直接頁只回少量內容，未看影片。兩卡都不是每位居民的參與名單，也沒有全部餡料。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①米粽；②兩份都提龍舟或兩份都提米粽；③只知道都提粽子，未提供全部餡料，不能說全部相同。",
+            "explanation": "比較相同面向，結論不超出兩張摘要。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "米粽2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "共同項2分；甲乙各指出同一項證據各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "判無根據1分；修正為資料不足以判全部餡料相同3分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-final-a-q07"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s2-english-03"
+          ],
+          "prompt": "看模型抄一遍；要保留五詞順序和拼寫、句首大寫、四處空格、句號。",
+          "stimulus": "It is a red pen.",
+          "responseLines": 4,
+          "answer": {
+            "value": "It is a red pen.",
+            "explanation": "對照抄寫，不當作默寫或筆順認證。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "五詞順序及拼寫全對6分；錯漏1詞4分、2詞2分、3詞以上0分。"
+              },
+              {
+                "points": 2,
+                "criterion": "四處詞間空格全有2分；缺1處1分、缺2處以上0分。"
+              },
+              {
+                "points": 2,
+                "criterion": "句首I大寫1分、句末句號1分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-final-a-q08"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g3s2-english-02",
+            "g3s2-english-05"
+          ],
+          "prompt": "①cup與cut哪個位置不同？寫兩個字母。②兩張卡都寫有尾巴，一張是cat，另一張是fish。只聽到／讀到It has got a tail.，應選貓、魚還是兩者都可能？若再加It’s a fish.，又選哪個？",
+          "stimulus": "只按完整資料判斷，不由尾巴猜唯一種類。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①最後p與t；②兩者都可能；加種類後魚。",
+            "explanation": "整詞末字母與動物種類都是不可省略的辨別線索。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "最後位置2分、p與t2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "兩者都可能3分、加線索後魚3分。"
+              }
+            ]
+          },
+          "id": "g3s2-english-final-a-q09"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜短母音與簡單拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-02.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜熟悉字詞的認讀與抄寫",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-03.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜常見動物與特徵",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-05.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜介紹家人與朋友",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-07.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜生活職業與人物辨識",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-08.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜提問、肯定與否定回應",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-09.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜看圖理解簡短對話",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-10.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜歌謠與小組角色演出",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-11.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜端午或其他節慶的文化比較",
+      "url": "https://bstzeng.github.io/elementary/lessons/g3s2-english-12.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    }
+  ]
+}
