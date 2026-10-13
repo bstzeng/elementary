@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "id": "g5s2-mathematics-final-b",
+  "grade": 5,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "B",
+  "mode": "written",
+  "title": "小五下學期數學・期末B卷",
+  "duration": "建議55–70分鐘；可分段與延長，為設計估計，未經試測。",
+  "instructions": [
+    "滿分100分，各題資料獨立。依各小題要求列式、說明或作圖。",
+    "接受等值分數與不同正確解法；只有明問最簡分數才需約到最簡。",
+    "可請成人中性讀題或依你的指示代筆；數學決定由你作。",
+    "圖形只按文字尺寸與明示的等分關係作答；不量示意圖推算未給資料。",
+    "題目指定近似值時，用約字或≈表示，並保留要求的小數位數。"
+  ],
+  "teacherNotes": [
+    "本卷依本館保存教材的14個主題編排，非全國統一學期進度。期中為01–07，期末08–14占80分、前半核心回顧20分；施測前確認已教範圍。A／B／C未經試測、常模化或統計等值檢驗。",
+    "每條規準有子分時逐項給分，未拆子分者符合全給、不符合0。接受最精簡但完整的答案、等值分數、帶分數或假分數及不同正確算法；僅明問最簡分數時要求約到最簡。題目未要求的中間值、重複比較式、額外理由或指定算法不得成為得分條件。",
+    "有要求列式、作圖或說明時才評該項證據。等效的算式、圖示或可核查文字方法均可；方法分與數值分分開。前步錯誤不再扣後步一致方法分，標準數值分仍按正確答案。",
+    "題幹已明示答案單位且未另要求寫清單位時，可省重複單位字樣，但所求量須清楚。若明寫錯誤維度，例如把體積寫成平方公分，該量的答案分不給，正確方法分仍可保留。近似值須有約字或≈；保留位數依題目要求。",
+    "可中性讀題、放大、口述或依學生指示代筆；數學決定由學生作，不以字跡、速度、美觀或精細動作代替數學理解。",
+    "所有資料、物品與價格均為虛構紙面模型，不要求兒童私人資料或實際購物、搬運、盛水操作。紙筆解釋與圖形作品不代表已觀察真實測量或操作能力。",
+    "分數除法只含除以正整數；小數除法除數為整數，精確商至千分位或依題意取概數。比率限0至1。不評立方公尺與立方公分互換；不把複合立體拆分體積列為五年級核心。",
+    "體積題均給完整長方體或正方體條件；排水題須檢查完全浸沒、不吸水、無水量損失及無其他物體干擾。表面積只計指定幾何面的單側面積，不含厚度、黏貼邊與耗損。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺；可另提供大張方格紙。"
+  ],
+  "parallelDesign": "B：配送費改變折扣選擇、總工時均分、概數與精確上限、可選高度、測得體積轉用容量、指定側面及整個物體個數。",
+  "sources": [
+    {
+      "title": "本館小五下數學14課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g5s2",
+      "note": "已逐課核對release26課程與原始JSON；01–07為期中，08–14為期末主題，期末另20分前半回顧。"
+    },
+    {
+      "title": "教育部數學課綱發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材的正式課綱引註，本次未重新擷取官方頁；學期分配是本館編輯安排。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "points": 80,
+      "purpose": "以明示的資料、算式、圖示和判斷留下數學證據。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "以明示的資料、算式、圖示和判斷留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "instructions": "各小題已列出需要的算式、理由或圖示；可用其他正確方法作答。",
+      "items": [
+        {
+          "id": "g5s2-mathematics-final-b-q01",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-mathematics-08"
+          ],
+          "stimulus": "虛構標價：甲原價240元，打八五折，另加一次配送費8元；乙原價260元，打八折，免配送費。沒有其他費用，總預算至多210元，不需實際購買。",
+          "prompt": "①求甲乙各自折後商品金額。\n②求兩案含配送的總額，選出所有在預算內的方案。\n③分別寫甲乙商品價格相對原價減少的百分率，不含配送費。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲204元，乙208元；含配送甲212元、乙208元，只有乙可用。商品減價率甲15%、乙20%。",
+            "explanation": "折數表示付原價的比例；固定配送費不是打折商品的一部分，減價率則只按題定商品計。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①204、208各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②212、208各1分，只選乙2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③15%、20%各2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g5s2-mathematics-final-b-q02",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-mathematics-09"
+          ],
+          "stimulus": "總共1.2小時的任務平均分3輪完成。相鄰兩輪之間各休息6分鐘，最後不再休息。13時18分開始，14時45分前或剛好14時45分結束都可。",
+          "prompt": "①每輪任務幾分鐘？列式換算。\n②求連同休息的總時間，列出任務與休息次數的算式。\n③寫結束時刻，判斷是否符合期限，算提早或超過多少分鐘。",
+          "responseLines": 8,
+          "answer": {
+            "value": "1.2×60÷3＝24分鐘。24×3＋6×2＝84分鐘。14時42分結束，符合，提早3分鐘。",
+            "explanation": "1.2小時是72分鐘；3輪之間只有2段休息。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①有效小時換分鐘與均分式2分，24分鐘2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②包含3輪、2次休息的式2分，84分鐘2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③14時42分2分，符合1分，提早3分鐘1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g5s2-mathematics-final-b-q03",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-mathematics-10"
+          ],
+          "stimulus": "模型地面積0.08平方公里，使用上限7.5公頃。另一筆材料重量3286公斤，報告要求四捨五入到公噸十分位；運送上限為精確3.28公噸。",
+          "prompt": "①把模型地換成公頃，判斷是否超上限，將差量寫成公畝。\n②把材料重量換成精確公噸，再寫指定報告值。\n③用精確重量判斷能否運送，算超過或低於上限多少公斤。",
+          "responseLines": 8,
+          "answer": {
+            "value": "0.08平方公里＝8公頃，超過50公畝。3286公斤＝3.286公噸，報告約3.3公噸。不能運送，超過6公斤。",
+            "explanation": "取概數不能代替精確上限核對；0.5公頃等於50公畝。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①8公頃2分，超過1分，50公畝1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "②3.286公噸1分，3.3且保留一位小數1分，約或≈為1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "③不能1分，超過6公斤2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g5s2-mathematics-final-b-q04",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-mathematics-11"
+          ],
+          "stimulus": "圖示完整長方體長6、寬4、高3公分，無空洞。另一正方體邊長4公分。登錄上限是體積至多64立方公分。若重做長方體，長寬固定6與4公分，高只能選2或3公分。",
+          "prompt": "①列式求原長方體與正方體體積。\n②列出原來兩形體中所有可登錄者。\n③重做長方體時選出所有合格高度，寫該方案體積並用數值說明排除另一高度。",
+          "responseLines": 8,
+          "answer": {
+            "value": "原長方體6×4×3＝72立方公分，正方體4×4×4＝64立方公分；原來只有正方體可登錄。重做只能高2公分，體積48立方公分；高3時72超過64。",
+            "explanation": "體積等於上限可用；同底面而改高度會改完整層數。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①兩形體各3分：式1分，體積2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "②只選正方體。"
+              },
+              {
+                "points": 4,
+                "criterion": "③只選高2為1分，48立方公分1分，引用高3為72超64的排除理由2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 325\" role=\"img\" aria-label=\"完整長方體斜視示意，長6公分、寬4公分、高3公分；尺寸以標示為準，圖不按比例。\"><title>完整長方體斜視示意，長6公分、寬4公分、高3公分；尺寸以標示為準，圖不按比例。</title><g stroke=\"#243c46\" stroke-width=\"1.5\" fill=\"none\"><polygon points=\"85,95 340,95 425,40 170,40\" fill=\"#f2f5f7\"/><polygon points=\"340,95 425,40 425,175 340,230\" fill=\"#e6ecef\"/><rect x=\"85\" y=\"95\" width=\"255\" height=\"135\" fill=\"#fff\"/><path d=\"M85 95 L170 40 M340 95 L425 40\"/><text x=\"155\" y=\"260\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">長 6 公分</text><text x=\"350\" y=\"27\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">寬 4 公分</text><text x=\"437\" y=\"140\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">高 3</text><text x=\"437\" y=\"165\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">公分</text><text x=\"20\" y=\"300\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">完整長方體；示意圖不按比例。</text></g></svg>"
+        },
+        {
+          "id": "g5s2-mathematics-final-b-q05",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-mathematics-12"
+          ],
+          "stimulus": "同一量杯原有154毫升水，放入不吸水的實心物體後218毫升；物體完全浸沒，無加水、灑漏或溢出，無其他物體留在水中。另有內長8、內寬5、內高6公分的容器，已有180毫升水。該物體放得進且可完全浸沒；紙上估算放入後是否會超出容器容量。",
+          "prompt": "①列式求物體體積。\n②列式求另一容器的容量，以毫升表示。\n③判斷放入後會不會超過容量，算超過或尚餘多少毫升的空間。",
+          "responseLines": 8,
+          "answer": {
+            "value": "218－154＝64立方公分；8×5×6＝240立方公分，容量240毫升。180＋64＝244，超過4毫升的空間，會溢出。",
+            "explanation": "物體體積由有效排水紀錄取得，接收容器須把已有水與物體同時計入。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①讀數差式2分，64立方公分2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②內部尺寸乘法式2分，240毫升2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③會超過或會溢出2分，超過4毫升2分；不另要求重寫244。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g5s2-mathematics-final-b-q06",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-mathematics-13"
+          ],
+          "stimulus": "圖示長6、寬3、高2公分長方體展開圖。任務只塗「前、後、左、右」四個側面，上下面都不塗。只計單側幾何面積，沒有厚度、黏貼邊或耗損；塗色面積上限40平方公分。",
+          "prompt": "①分別算上下面、前後面、左右面中，每一個面的面積。\n②求完整六面表面積，以及本次四個側面的總面積。\n③判斷本次面積是否在上限內，算相差多少平方公分。",
+          "responseLines": 8,
+          "answer": {
+            "value": "上、下各18；前、後各12；左、右各6平方公分。完整表面積72平方公分，四側面36平方公分。符合，低於上限4平方公分。",
+            "explanation": "本次範圍明確排除上和下兩面，不能只移除其中一面。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①三對每面18、12、6各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②完整72、四側面36平方公分各2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "③符合1分，低於4平方公分1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 242\" role=\"img\" aria-label=\"長6、寬3、高2公分長方體有效展開圖；前右後左四面依序相連，上下分別接在前面上下邊，六面互不重疊。\"><title>長6、寬3、高2公分長方體有效展開圖；前右後左四面依序相連，上下分別接在前面上下邊，六面互不重疊。</title><g stroke=\"#243c46\" stroke-width=\"1.5\" fill=\"none\"><rect x=\"35\" y=\"87\" width=\"114\" height=\"38\" fill=\"#f5f7f8\"/><text x=\"42\" y=\"111.0\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">前</text><rect x=\"149\" y=\"87\" width=\"57\" height=\"38\" fill=\"#f5f7f8\"/><text x=\"156\" y=\"111.0\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">右</text><rect x=\"206\" y=\"87\" width=\"114\" height=\"38\" fill=\"#f5f7f8\"/><text x=\"213\" y=\"111.0\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">後</text><rect x=\"320\" y=\"87\" width=\"57\" height=\"38\" fill=\"#f5f7f8\"/><text x=\"327\" y=\"111.0\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">左</text><rect x=\"35\" y=\"30\" width=\"114\" height=\"57\" fill=\"#fff\"/><text x=\"42\" y=\"63.5\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">上</text><rect x=\"35\" y=\"125\" width=\"114\" height=\"57\" fill=\"#fff\"/><text x=\"42\" y=\"158.5\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">下</text><text x=\"35\" y=\"214\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">長6、寬3、高2公分；六面展開圖。</text></g></svg>"
+        },
+        {
+          "id": "g5s2-mathematics-final-b-q07",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s2-mathematics-14"
+          ],
+          "stimulus": "紙面容器內長10、內寬6、內高5公分，液面上限是離底4公分。已有170毫升水與一件30立方公分的實心物體。可選再放0、1或2個邊長3公分的完整實心正方體。所有方案均已確認放得進、物體互不重疊、全部浸沒且不吸水，無加水、灑漏或溢出。",
+          "prompt": "①求每個新正方體的體積。\n②在不超過液面上限的情況下，最多可放幾個新正方體？用數值說明。\n③依第二小題的最多個數放入後，最多還可加幾毫升水？列式或說明。",
+          "responseLines": 8,
+          "answer": {
+            "value": "每個27立方公分。最多1個，界線下240立方公分，原占200，餘40；1個27可，2個54超過40。放1個後可加13毫升，240－170－30－27＝13。",
+            "explanation": "用指定界線可用空間限制完整個數，剩餘空間才可作補水量。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "①27立方公分。"
+              },
+              {
+                "points": 3,
+                "criterion": "②最多1個1分；以27≤40且54＞40或相等意義的總占量比較說明2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "③13毫升2分，包含水與兩類物體的有效式或等效說明2分，不要求重寫227。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "各小題已列出需要的算式、理由或圖示；可用其他正確方法作答。",
+      "items": [
+        {
+          "id": "g5s2-mathematics-final-b-q08",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g5s2-mathematics-01"
+          ],
+          "stimulus": "一筆虛構計數是2兆＋305億＋40萬＋7。另有位值算式0.509×10。",
+          "prompt": "①寫大數的四位分組。\n②寫大數的完整阿拉伯數字。\n③計算0.509×10，並寫出結果除以10是否回到0.509。",
+          "responseLines": 8,
+          "answer": {
+            "value": "2｜0305｜0040｜0007；2030500400007。0.509×10＝5.09；5.09÷10＝0.509，會回到原數。",
+            "explanation": "四位分組的占位0保留數量；乘10和除10互為逆運算。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①四組2、0305、0040、0007各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②完整數字2030500400007。"
+              },
+              {
+                "points": 2,
+                "criterion": "③5.09為1分，回到0.509為1分；不強制另寫除法式。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g5s2-mathematics-final-b-q09",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g5s2-mathematics-02",
+            "g5s2-mathematics-07"
+          ],
+          "stimulus": "9公升模型液體全部平均分8份，沒有損耗。每份上限是1.10公升；另需把小數0.125寫成最簡分數。",
+          "prompt": "①列式求每份量，同時寫成分數與精確小數。\n②將0.125化成最簡分數。\n③判斷每份是否在上限內，算超過或低於上限多少公升。",
+          "responseLines": 8,
+          "answer": {
+            "value": "9÷8＝9/8＝1.125公升。0.125＝1/8。每份不在上限內，超過0.025公升。",
+            "explanation": "分數商與有限小數可精確對應；上限須和1.125比較而不是只看整數部分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①正確除法或等效式1分，9/8等值分數1分，1.125精確小數2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "②最簡1/8。"
+              },
+              {
+                "points": 4,
+                "criterion": "③超過或不合格2分，多0.025或1/40公升2分。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

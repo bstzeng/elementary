@@ -1,0 +1,346 @@
+{
+  "schemaVersion": 1,
+  "id": "g5s1-mathematics-midterm-b",
+  "grade": 5,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "B",
+  "mode": "written",
+  "title": "小五上學期數學・期中B卷",
+  "duration": "建議55–70分鐘；可分段與延長，為設計估計，未經試測。",
+  "instructions": [
+    "滿分100分，各題資料獨立。依題目留下算式、判斷理由或作圖。",
+    "可用等值分數和不同正確解法；只有明問最簡分數才需約到最簡。",
+    "可請成人中性讀題或依你的指示代筆；數學決定由你作。",
+    "圖形尺寸以文字標示為準，不從示意圖量出未給的數值。"
+  ],
+  "teacherNotes": [
+    "本館跨版本參考主題，非全國統一學期順序；先核對學校已教範圍。A／B／C改變資料與決策條件，未經試測、常模化或統計等值檢验。",
+    "每條規準獨立給分；有子分者逐項給。單條未拆子分者符合全給、不符合0。接受有效最簡答、等值分數、帶分數或假分數、不同正確算法與圖解；只有題目明問最簡分數才要求約到最簡。不得增加未問的步驟或理由。",
+    "可中性朗讀、放大、口述或依學生逐步指示代筆。數學選擇由學生作，不以字跡、速度、美觀或精細動作代替數學能力。前步算錯不連扣後步一致方法分；正確數值分仍按標準值。題幹已明示單位可省重複字樣，所求量須可辨認。",
+    "本卷評紙筆答案與製圖作品，不宣稱已觀察實物摺疊、測量工具使用或動作熟練度。若調整為真實操作須另訂觀察紀錄，不以本卷得分代替。",
+    "所有情境與資料均為虛構，不要求提供真實兒童或家庭資料。圖形除明示方格相等外是示意，不從螢幕或列印尺寸推測未給數值。",
+    "小數最多至千分位，乘除只限10的位值關係；分數加減可異分母。因數倍數限正整數。幾何不考圓周長、圓面積或立體體積。接受用完整已知條件得到的等效解法。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺、大張方格紙；期末扇形題可用圓形模板及量角器。"
+  ],
+  "parallelDesign": "B：區間缺位、逆推並檢查中途、每袋下限、非最小公倍數訂單、圖示等值與容量方案比較。",
+  "sources": [
+    {
+      "title": "本館小五上數學15課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g5s1",
+      "note": "逐課核對release26原始JSON；01–08為期中，09–15為期末主題，期末另20分前半回顧。"
+    },
+    {
+      "title": "教育部數學課綱發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材正式課綱引註；本次未重新擷取官方頁，學期分配為本館編輯參考。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學與製圖",
+      "points": 100,
+      "purpose": "以算式、數據、理由或圖形留下可核查的數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學與製圖",
+      "instructions": "依各題要求完成；需要理由或算式的地方已在題目明列。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-01"
+          ],
+          "stimulus": "□是一個0至9的數字。要讓3.□58嚴格大於3.4且嚴格小於3.6。",
+          "prompt": "列出□所有可能數字，用位值說明沒有其他答案；再寫3.058是多少個千分之一，及3.058×10。",
+          "responseLines": 8,
+          "answer": {
+            "value": "□可填4、5；十分位小於4則不到3.4，大於或等於6則超過3.6。3.458和3.558均符合。3058個千分之一；30.58。",
+            "explanation": "十分位先決定範圍，數字4仍有後面的0.058，使3.458嚴格大於3.4。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "只列4、5，兩個皆有。"
+              },
+              {
+                "points": 3,
+                "criterion": "說明小於4不行、6以上不行，並確認4與5可行；各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "3058個。"
+              },
+              {
+                "points": 2,
+                "criterion": "30.58。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-midterm-b-q01"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-02"
+          ],
+          "stimulus": "模型材料櫃起初有若干公尺帶。先借出1.875公尺，後放回0.64公尺，最後有4.008公尺。規定任一時刻櫃內都不得少於3公尺。",
+          "prompt": "列式倒推起初存量；算借出後、放回前的存量；判斷整個過程是否符合規定，引用各階段存量或最少存量；再把兩個動作依原順序算一次核對最後4.008。",
+          "responseLines": 8,
+          "answer": {
+            "value": "起初4.008－0.640＋1.875＝5.243；借後3.368；符合，最少3.368≥3。核對5.243－1.875＋0.640＝4.008。",
+            "explanation": "倒推時撤銷放回、撤銷借出；規定需檢查中途而不只是最後。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "倒推式2分、5.243為2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "3.368。"
+              },
+              {
+                "points": 3,
+                "criterion": "符合1分，引用最少3.368≥3或三階段均≥3為2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "依原動作正確核對式與4.008。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-midterm-b-q02"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-03"
+          ],
+          "stimulus": "32枝模型筆和48個紙橡皮全部分成相同袋；每袋兩種物品各自同數、不可剩。候選袋數只有8或16；每袋至少3枝筆。",
+          "prompt": "求32與48最大公因數；分別算8袋、16袋時每袋的筆和橡皮數，選可用方案並用「至少3枝筆」說明排除另一案。",
+          "responseLines": 8,
+          "answer": {
+            "value": "最大公因數16。8袋：4枝筆、6個橡皮；16袋：2枝筆、3個橡皮。選8袋，4≥3；16袋每袋2枝＜3。",
+            "explanation": "最大公因數允許分完，但未必符合每袋最低內容要求。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "最大公因數16。"
+              },
+              {
+                "points": 4,
+                "criterion": "兩案四個每袋數各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "選8袋。"
+              },
+              {
+                "points": 4,
+                "criterion": "已算出8袋時每袋4枝筆且選8袋，即得2分，不另要求重寫4≥3；說明16袋每袋2枝筆未達至少3枝，得2分。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-midterm-b-q03"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-04"
+          ],
+          "stimulus": "同一批圖卡可選每包8張或每包14張，兩種包法都要剛好用完。訂單至少90張、至多130張。",
+          "prompt": "先求8和14的最小公倍數，再找符合90至130的總張數並核對它在範圍內；算兩種包法各需幾包，用乘法核對。",
+          "responseLines": 8,
+          "answer": {
+            "value": "最小公倍數56；總張數112。每包8張需14包，每包14張需8包；8×14＝112，14×8＝112。",
+            "explanation": "最小公倍數56小於訂單下限，要找下一個公倍數112；再下一個168已超上限。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "最小公倍數56。"
+              },
+              {
+                "points": 3,
+                "criterion": "112且符合區間；112為2分，範圍核對1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "14包、8包各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "兩種包法乘法核對各2分。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-midterm-b-q04"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-05"
+          ],
+          "stimulus": "下圖兩條紙帶同長，每條代表1且各有10等份。甲要表示4/5，乙要表示7/10。",
+          "prompt": "在兩條紙帶標出各自的量；寫4/5的分母為10的等值分數；比較兩量並以圖中格數說明；再把7/10擴分成分母30。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲標8格，乙標7格；4/5＝8/10＞7/10；同樣一格下8格多於7格。7/10＝21/30。",
+            "explanation": "甲每個五分之一相當於兩個十分之一；整體相同且十等份，格數才能直接比較。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "甲8格與乙7格各2分，容許不連續但清楚的標記。"
+              },
+              {
+                "points": 2,
+                "criterion": "4/5＝8/10。"
+              },
+              {
+                "points": 3,
+                "criterion": "甲較大1分、同等分格數8＞7的理由2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "21/30。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 210\" role=\"img\" aria-label=\"兩條相同長度的空白纸帶，甲乙各分10等份；未預先著色。\"><title>兩條相同長度的空白纸帶，甲乙各分10等份；未預先著色。</title><g fill=\"none\" stroke=\"#233b45\" stroke-width=\"2\"><text x=\"15\" y=\"60\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">甲</text><rect x=\"70\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"109\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"148\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"187\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"226\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"265\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"304\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"343\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"382\" y=\"35\" width=\"39\" height=\"40\"/><rect x=\"421\" y=\"35\" width=\"39\" height=\"40\"/><text x=\"15\" y=\"130\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">乙</text><rect x=\"70\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"109\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"148\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"187\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"226\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"265\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"304\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"343\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"382\" y=\"105\" width=\"39\" height=\"40\"/><rect x=\"421\" y=\"105\" width=\"39\" height=\"40\"/><text x=\"70\" y=\"185\" font-family=\"sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">每條都是相同的1；各分成10等份</text></g></svg>",
+          "id": "g5s1-mathematics-midterm-b-q05"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-06"
+          ],
+          "stimulus": "兩個模型零件分別需要5/8公尺與7/12公尺材料。供應袋內共有1又1/4公尺，不能另取材料。",
+          "prompt": "列式求兩零件合計用量；判斷材料是否夠，算剩下或不足的量；用合計用量與差量的一個算式核對供應量。",
+          "responseLines": 8,
+          "answer": {
+            "value": "合計15/24＋14/24＝29/24＝1又5/24；供應30/24，夠，剩1/24。29/24＋1/24＝30/24＝1又1/4。",
+            "explanation": "需求超過1不代表超過1又1/4；通分後須與實際供應量比較。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "正確加法式2分、29/24等值2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "材料夠。"
+              },
+              {
+                "points": 4,
+                "criterion": "剩1/24公尺或等值答案得4分；可由求差或後面的供應量核對式確認，不另要求供應減需求的減法式。若數值錯誤但有正確求差方法，可得2分方法分。"
+              },
+              {
+                "points": 4,
+                "criterion": "核對式與供應量一致。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-midterm-b-q06"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-07"
+          ],
+          "stimulus": "288張卡全部平均分裝。甲：4盒，每盒3袋；乙：6盒，每盒2袋；丙：4盒，每盒2袋。每袋最多裝30張。",
+          "prompt": "分別列連除或除以總袋數的式子，算三案每袋張數；選出所有容量合格的方案。說明甲乙為何每袋相同、丙為何不合格。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲288÷4÷3＝24；乙288÷6÷2＝24；丙288÷4÷2＝36。甲乙合格，都有12袋均分288張；丙36＞30。",
+            "explanation": "決定每袋量的是總份數，不是只看盒數或只看每盒袋數。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "三案各2分：合理算式1分、正確張數1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "只選甲乙。"
+              },
+              {
+                "points": 3,
+                "criterion": "甲乙各有12袋，均分同樣288張。"
+              },
+              {
+                "points": 3,
+                "criterion": "丙每袋36超過30。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-midterm-b-q07"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-08"
+          ],
+          "stimulus": "平行四邊形ABCD畫對角線AC，∠B＝112°，三角形ABC在A的內角∠BAC＝28°。另有三條邊2、6、9公分；只准把9公分那條改成7公分。",
+          "prompt": "求三角形ABC的∠BCA、平行四邊形整個∠C及∠D，寫出求兩個C角各用的角度關係。判斷原三邊及改後三邊能否成三角形，各用不等式說明。",
+          "responseLines": 8,
+          "answer": {
+            "value": "∠BCA＝40°；整個∠C＝68°；∠D＝112°。180－112－28＝40；四邊形角和360且對角相等，所以兩個其餘角合136、各68。原2＋6＜9不行；改後2＋6＞7可以。",
+            "explanation": "AC分開的是C的整個內角，三角形的40°不能當作平行四邊形整個C角。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "∠BCA＝40°。"
+              },
+              {
+                "points": 2,
+                "criterion": "整個∠C＝68°。"
+              },
+              {
+                "points": 2,
+                "criterion": "∠D＝112°。"
+              },
+              {
+                "points": 4,
+                "criterion": "三角形內角和推算2分、平行四邊形對角相等加四角和或鄰角互補推算2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "原不能及2＋6＜9共2分，改後可以及2＋6＞7共2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 240\" role=\"img\" aria-label=\"平行四邊形ABCD示意；A左下、B右下、C右上、D左上。數值以題設為準，不按圖量角或量長。\"><title>平行四邊形ABCD示意；A左下、B右下、C右上、D左上。數值以題設為準，不按圖量角或量長。</title><g fill=\"none\" stroke=\"#233b45\" stroke-width=\"2\"><polygon points=\"95,180 350,180 410,45 155,45\" fill=\"#f2f5f7\"/><line x1=\"95\" y1=\"180\" x2=\"410\" y2=\"45\" stroke-dasharray=\"6 4\"/><text x=\"70\" y=\"202\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">A</text><text x=\"350\" y=\"202\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">B</text><text x=\"415\" y=\"42\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">C</text><text x=\"130\" y=\"38\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">D</text><text x=\"130\" y=\"230\" font-family=\"sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">示意圖，不按比例</text></g></svg>",
+          "id": "g5s1-mathematics-midterm-b-q08"
+        }
+      ]
+    }
+  ]
+}

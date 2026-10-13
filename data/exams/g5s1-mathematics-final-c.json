@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 1,
+  "id": "g5s1-mathematics-final-c",
+  "grade": 5,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "C",
+  "mode": "written",
+  "title": "小五上學期數學・期末C卷",
+  "duration": "建議55–70分鐘；可分段與延長，為設計估計，未經試測。",
+  "instructions": [
+    "滿分100分，各題資料獨立。依題目留下算式、判斷理由或作圖。",
+    "可用等值分數和不同正確解法；只有明問最簡分數才需約到最簡。",
+    "可請成人中性讀題或依你的指示代筆；數學決定由你作。",
+    "圖形尺寸以文字標示為準，不從示意圖量出未給的數值。"
+  ],
+  "teacherNotes": [
+    "本館跨版本參考主題，非全國統一學期順序；先核對學校已教範圍。A／B／C改變資料與決策條件，未經試測、常模化或統計等值檢验。",
+    "每條規準獨立給分；有子分者逐項給。單條未拆子分者符合全給、不符合0。接受有效最簡答、等值分數、帶分數或假分數、不同正確算法與圖解；只有題目明問最簡分數才要求約到最簡。不得增加未問的步驟或理由。",
+    "可中性朗讀、放大、口述或依學生逐步指示代筆。數學選擇由學生作，不以字跡、速度、美觀或精細動作代替數學能力。前步算錯不連扣後步一致方法分；正確數值分仍按標準值。題幹已明示單位可省重複字樣，所求量須可辨認。",
+    "本卷評紙筆答案與製圖作品，不宣稱已觀察實物摺疊、測量工具使用或動作熟練度。若調整為真實操作須另訂觀察紀錄，不以本卷得分代替。",
+    "所有情境與資料均為虛構，不要求提供真實兒童或家庭資料。圖形除明示方格相等外是示意，不從螢幕或列印尺寸推測未給數值。",
+    "小數最多至千分位，乘除只限10的位值關係；分數加減可異分母。因數倍數限正整數。幾何不考圓周長、圓面積或立體體積。接受用完整已知條件得到的等效解法。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺、大張方格紙；期末扇形題可用圓形模板及量角器。"
+  ],
+  "parallelDesign": "C：分數設計轉角度、修補錯誤鏡像、內洞面積、去角後反推新高、展開圖對面、下降區間與新增零值盒。",
+  "sources": [
+    {
+      "title": "本館小五上數學15課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g5s1",
+      "note": "逐課核對release26原始JSON；01–08為期中，09–15為期末主題，期末另20分前半回顧。"
+    },
+    {
+      "title": "教育部數學課綱發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材正式課綱引註；本次未重新擷取官方頁，學期分配為本館編輯參考。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學與製圖",
+      "points": 80,
+      "purpose": "以算式、數據、理由或圖形留下可核查的數學證據。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "以算式、數據、理由或圖形留下可核查的數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學與製圖",
+      "instructions": "依各題要求完成；需要理由或算式的地方已在題目明列。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-09"
+          ],
+          "stimulus": "同一圓形圖案中，方案甲著色5/6圓，方案乙著色3/4圓。規定留下的空白角必須至少80°。著色皆從向右始邊逆時針開始。",
+          "prompt": "分別算兩方案著色角及空白角，選符合規定者；在圖上畫所選著色扇形，標圓心、兩條半徑、角度並清楚標示著色區。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲著色300°、空白60°；乙著色270°、空白90°。選乙。畫逆時針270°大扇形，留下90°空白。",
+            "explanation": "先以整圈360度轉成角度，再檢查空白；比較的是指定同一圓中的份額。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "300°、60°、270°、90°各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "只選乙。"
+              },
+              {
+                "points": 6,
+                "criterion": "O與兩條半徑2分、逆時針270°與角度標示2分、大區域清楚著色2分；角度容許±3°。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 260\" role=\"img\" aria-label=\"空白圓，圓心O已標，從O向右有一條始邊半徑。學生自行完成指定扇形。\"><title>空白圓，圓心O已標，從O向右有一條始邊半徑。學生自行完成指定扇形。</title><g fill=\"none\" stroke=\"#233b45\" stroke-width=\"2\"><circle cx=\"245\" cy=\"125\" r=\"100\"/><circle cx=\"245\" cy=\"125\" r=\"3\" fill=\"#233b45\"/><line x1=\"245\" y1=\"125\" x2=\"345\" y2=\"125\"/><text x=\"223\" y=\"149\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#172c35\" stroke=\"none\">O</text><text x=\"350\" y=\"131\" font-family=\"sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">始邊</text></g></svg>",
+          "id": "g5s1-mathematics-final-c-q01"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-10"
+          ],
+          "stimulus": "對稱軸為第5條直線。A在直5橫1、P在直2橫2、Q在直1橫5、D在直5橫7，已連A－P－Q－D。候選點X在直8橫3，有人說X就是P的對稱點。線從0編號。",
+          "prompt": "判斷X是否正確，說明需要修正哪個位置；標出正確P′、Q′，按A－P′－Q′－D連線。用P和P′說明同一橫線及離軸格數。",
+          "responseLines": 8,
+          "answer": {
+            "value": "X錯，應向上1格到直8橫2。Q′在直9橫5；按序連線。P、P′在同一橫線，各離軸3格。",
+            "explanation": "相同離軸距離不夠，點對連線還要垂直於軸；X與P高度不同。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "X錯1分，向上1格或改到橫2為1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "正確P′、Q′各2分；格點容許偏離不超過1/4格。"
+              },
+              {
+                "points": 2,
+                "criterion": "按指定順序連線。"
+              },
+              {
+                "points": 2,
+                "criterion": "同一橫線1分、各3格1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 425 336\" role=\"img\" aria-label=\"等大方格，線從0編號；A在第5條直線、第1條橫線交點；P在第2條直線、第2條橫線交點；Q在第1條直線、第5條橫線交點；D在第5條直線、第7條橫線交點；X在第8條直線、第3條橫線交點。對稱軸為第5條直線。X是待檢查的候選點，不保證正確。\"><title>等大方格，線從0編號；A在第5條直線、第1條橫線交點；P在第2條直線、第2條橫線交點；Q在第1條直線、第5條橫線交點；D在第5條直線、第7條橫線交點；X在第8條直線、第3條橫線交點。對稱軸為第5條直線。X是待檢查的候選點，不保證正確。</title><g fill=\"none\" stroke=\"#233b45\" stroke-width=\"2\"><line x1=\"55\" y1=\"45\" x2=\"55\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"50\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">0</text><line x1=\"87\" y1=\"45\" x2=\"87\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"82\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">1</text><line x1=\"119\" y1=\"45\" x2=\"119\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"114\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">2</text><line x1=\"151\" y1=\"45\" x2=\"151\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"146\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">3</text><line x1=\"183\" y1=\"45\" x2=\"183\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"178\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">4</text><line x1=\"215\" y1=\"45\" x2=\"215\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"210\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">5</text><line x1=\"247\" y1=\"45\" x2=\"247\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"242\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">6</text><line x1=\"279\" y1=\"45\" x2=\"279\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"274\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">7</text><line x1=\"311\" y1=\"45\" x2=\"311\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"306\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">8</text><line x1=\"343\" y1=\"45\" x2=\"343\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"338\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">9</text><line x1=\"375\" y1=\"45\" x2=\"375\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"370\" y=\"28\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">10</text><line x1=\"55\" y1=\"45\" x2=\"375\" y2=\"45\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"50\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">0</text><line x1=\"55\" y1=\"77\" x2=\"375\" y2=\"77\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"82\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">1</text><line x1=\"55\" y1=\"109\" x2=\"375\" y2=\"109\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"114\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">2</text><line x1=\"55\" y1=\"141\" x2=\"375\" y2=\"141\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"146\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">3</text><line x1=\"55\" y1=\"173\" x2=\"375\" y2=\"173\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"178\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">4</text><line x1=\"55\" y1=\"205\" x2=\"375\" y2=\"205\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"210\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">5</text><line x1=\"55\" y1=\"237\" x2=\"375\" y2=\"237\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"242\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">6</text><line x1=\"55\" y1=\"269\" x2=\"375\" y2=\"269\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"274\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">7</text><line x1=\"55\" y1=\"301\" x2=\"375\" y2=\"301\" stroke=\"#bbc5ca\" stroke-width=\"1\"/><text x=\"29\" y=\"306\" font-family=\"sans-serif\" font-size=\"13\" fill=\"#172c35\" stroke=\"none\">8</text><line x1=\"215\" y1=\"37\" x2=\"215\" y2=\"309\" stroke-dasharray=\"7 4\" stroke-width=\"3\"/><polyline points=\"215,77 119,109 87,205 215,269\" stroke-width=\"3\"/><circle cx=\"215\" cy=\"77\" r=\"4\" fill=\"#172c35\"/><text x=\"222\" y=\"70\" font-family=\"sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">A</text><circle cx=\"119\" cy=\"109\" r=\"4\" fill=\"#172c35\"/><text x=\"126\" y=\"102\" font-family=\"sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">P</text><circle cx=\"87\" cy=\"205\" r=\"4\" fill=\"#172c35\"/><text x=\"94\" y=\"198\" font-family=\"sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">Q</text><circle cx=\"215\" cy=\"269\" r=\"4\" fill=\"#172c35\"/><text x=\"222\" y=\"262\" font-family=\"sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">D</text><circle cx=\"311\" cy=\"141\" r=\"4\" fill=\"#172c35\"/><text x=\"318\" y=\"134\" font-family=\"sans-serif\" font-size=\"17\" fill=\"#172c35\" stroke=\"none\">X</text></g></svg>",
+          "id": "g5s1-mathematics-final-c-q02"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-11"
+          ],
+          "stimulus": "平行四邊形圖案底12公分、對應垂直高5公分。裡面有一個完全位於圖案內的白色三角形洞，底8公分、對應垂直高3公分；其餘部分塗色。材料最多能塗47平方公分。",
+          "prompt": "列式求外圖、白洞與塗色部分各自面積；判斷材料是否足夠，算剩下或不足多少。",
+          "responseLines": 8,
+          "answer": {
+            "value": "外圖12×5＝60；白洞8×3÷2＝12；塗色60－12＝48平方公分。47不足1平方公分。",
+            "explanation": "白洞已明示完全在外圖內，塗色才可用外面積減洞面積；不將三角形公式套到平行四邊形。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "外圖有效式與60。"
+              },
+              {
+                "points": 3,
+                "criterion": "白洞有效式與12。"
+              },
+              {
+                "points": 3,
+                "criterion": "塗色有效相減式與48。"
+              },
+              {
+                "points": 1,
+                "criterion": "不足。"
+              },
+              {
+                "points": 2,
+                "criterion": "差1平方公分。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-final-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-12"
+          ],
+          "stimulus": "直角梯形甲上底7公分、下底13公分、高5公分，左邊與兩底垂直。從左上角去掉一個寬2公分、高4公分且完全在甲內的長方形。另做梯形乙，上底8公分、下底13公分；乙面積要等於甲去角後的剩餘面積。",
+          "prompt": "列式算甲原面積、去掉面積與剩餘面積；求乙所需的垂直高，並代入乙的面積式核對。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲（7＋13）×5÷2＝50；去掉2×4＝8；剩42平方公分。乙高4公分，因（8＋13）×4÷2＝42。",
+            "explanation": "去角量資料完整且在圖形內；乙的兩底和21，所以可用42×2÷21反推4，也可試算找到4。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "甲有效式2分、50為2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "去掉8。"
+              },
+              {
+                "points": 2,
+                "criterion": "剩42。"
+              },
+              {
+                "points": 3,
+                "criterion": "乙高4。"
+              },
+              {
+                "points": 3,
+                "criterion": "正確代入（8＋13）×4÷2＝42核對；等效式可。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-final-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-13"
+          ],
+          "stimulus": "下圖是已確認可折成正方體的展開圖，六格等大。中排由左到右B、C、D、E；A在C上方，F在C下方。只在紙面推想，不須實際裁剪。",
+          "prompt": "写折好後A、B、C各自相對的面；若缺少E，缺口會在哪個面的對面？再寫A與C是平行或垂直關係。",
+          "responseLines": 8,
+          "answer": {
+            "value": "A對F，B對D，C對E；缺E會在C對面留缺口；A與C垂直。",
+            "explanation": "折合後四格帶圍住側面，A與F封兩端；相對面平行，相鄰面成直角。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "A對F、B對D、C對E各2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "缺口在C對面。"
+              },
+              {
+                "points": 2,
+                "criterion": "A與C垂直。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 265\" role=\"img\" aria-label=\"六個等大正方形的可折正方體展開圖。中排由左到右B、C、D、E；A接在C上方，F接在C下方。\"><title>六個等大正方形的可折正方體展開圖。中排由左到右B、C、D、E；A接在C上方，F接在C下方。</title><g fill=\"none\" stroke=\"#233b45\" stroke-width=\"2\"><rect x=\"132\" y=\"25\" width=\"72\" height=\"72\" fill=\"#f3f5f7\"/><text x=\"160\" y=\"70\" font-family=\"sans-serif\" font-size=\"23\" fill=\"#172c35\" stroke=\"none\">A</text><rect x=\"60\" y=\"97\" width=\"72\" height=\"72\" fill=\"#f3f5f7\"/><text x=\"88\" y=\"142\" font-family=\"sans-serif\" font-size=\"23\" fill=\"#172c35\" stroke=\"none\">B</text><rect x=\"132\" y=\"97\" width=\"72\" height=\"72\" fill=\"#f3f5f7\"/><text x=\"160\" y=\"142\" font-family=\"sans-serif\" font-size=\"23\" fill=\"#172c35\" stroke=\"none\">C</text><rect x=\"204\" y=\"97\" width=\"72\" height=\"72\" fill=\"#f3f5f7\"/><text x=\"232\" y=\"142\" font-family=\"sans-serif\" font-size=\"23\" fill=\"#172c35\" stroke=\"none\">D</text><rect x=\"276\" y=\"97\" width=\"72\" height=\"72\" fill=\"#f3f5f7\"/><text x=\"304\" y=\"142\" font-family=\"sans-serif\" font-size=\"23\" fill=\"#172c35\" stroke=\"none\">E</text><rect x=\"132\" y=\"169\" width=\"72\" height=\"72\" fill=\"#f3f5f7\"/><text x=\"160\" y=\"214\" font-family=\"sans-serif\" font-size=\"23\" fill=\"#172c35\" stroke=\"none\">F</text></g></svg>",
+          "id": "g5s1-mathematics-final-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-14"
+          ],
+          "stimulus": "虛構模型高度記錄：經過0、5、10、15分鐘，高度依序10、6、8、4公分。",
+          "prompt": "製作折線圖：寫標題、兩軸名稱及單位；自選完整容納資料的等距尺度並標刻度；標出全部4點，依時間順序連線。規則是「相鄰5分鐘的已記錄高度下降至少4公分」需做註記，列出所有符合的區間及各自下降量。",
+          "responseLines": 6,
+          "answer": {
+            "value": "標題清楚；橫軸為指定時間，縱軸為題設數量與單位；尺度等距；4點依資料正確落點並依次連線。0到5分鐘與10到15分鐘都符合，各下降4公分。",
+            "explanation": "尺度可不同，須一致且容納所有資料；不因美觀或線條粗細扣分。5到10分鐘由6升到8，不是下降；兩個區間符合，不能只寫最後一段。",
+            "scoring": [
+              {
+                "points": 1,
+                "criterion": "符合記錄內容的圖名。"
+              },
+              {
+                "points": 2,
+                "criterion": "橫軸名稱及時間單位1分，縱軸名稱及數量單位1分；表頭已明示的「天」等可用軸標記表示。"
+              },
+              {
+                "points": 1,
+                "criterion": "兩軸等距尺度、刻度與資料範圍一致。"
+              },
+              {
+                "points": 4,
+                "criterion": "4個資料點各1分；依所選正確尺度，位置距目標不超過半個最小方格，數值標籤不可代替落點。"
+              },
+              {
+                "points": 1,
+                "criterion": "依序連接4個資料點，不跳點、不倒序。"
+              },
+              {
+                "points": 3,
+                "criterion": "兩個符合區間各1分，兩段各下降4公分的量合1分；若多列不符合區間，區間兩分不給。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 510 335\" role=\"img\" aria-label=\"空白等距方格作圖區，沒有資料點、軸標籤或預填尺度。可另用大張方格紙。\"><title>空白等距方格作圖區，沒有資料點、軸標籤或預填尺度。可另用大張方格紙。</title><g fill=\"none\" stroke=\"#233b45\" stroke-width=\"2\"><line x1=\"50\" y1=\"35\" x2=\"50\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"90\" y1=\"35\" x2=\"90\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"130\" y1=\"35\" x2=\"130\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"170\" y1=\"35\" x2=\"170\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"210\" y1=\"35\" x2=\"210\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"250\" y1=\"35\" x2=\"250\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"290\" y1=\"35\" x2=\"290\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"330\" y1=\"35\" x2=\"330\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"370\" y1=\"35\" x2=\"370\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"410\" y1=\"35\" x2=\"410\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"450\" y1=\"35\" x2=\"450\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"35\" x2=\"450\" y2=\"35\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"59\" x2=\"450\" y2=\"59\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"83\" x2=\"450\" y2=\"83\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"107\" x2=\"450\" y2=\"107\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"131\" x2=\"450\" y2=\"131\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"155\" x2=\"450\" y2=\"155\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"179\" x2=\"450\" y2=\"179\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"203\" x2=\"450\" y2=\"203\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"227\" x2=\"450\" y2=\"227\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"251\" x2=\"450\" y2=\"251\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><line x1=\"50\" y1=\"275\" x2=\"450\" y2=\"275\" stroke=\"#bdc7cc\" stroke-width=\"1\"/><text x=\"75\" y=\"312\" font-family=\"sans-serif\" font-size=\"16\" fill=\"#172c35\" stroke=\"none\">自行標示標題、兩軸及刻度</text></g></svg>",
+          "id": "g5s1-mathematics-final-c-q06"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-mathematics-15"
+          ],
+          "stimulus": "前三盒卡數8、10、12張；第四盒待放入卡片，要讓四盒平均恰好10張。完成後又把一個確定0張的空盒加入，一起統計五盒。規定平均至少9張才可貼合格標籤。",
+          "prompt": "算第四盒要放幾張；算加入空盒後的平均。分別判斷四盒與五盒是否合格，說明空盒是否應計入份數。",
+          "responseLines": 8,
+          "answer": {
+            "value": "第四盒10張；四盒總40張，加入空盒後40÷5＝8張。四盒平均10合格，五盒平均8不合格；空盒確定0仍是一盒，需計入5份。",
+            "explanation": "加空盒未改總量，卻增加份數，平均下降；合格標籤不能直接沿用。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第四盒10。"
+              },
+              {
+                "points": 3,
+                "criterion": "五盒平均8。"
+              },
+              {
+                "points": 2,
+                "criterion": "四盒合格、五盒不合格各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "空盒確定0也是一盒，需算5份。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-final-c-q07"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "依各題要求完成；需要理由或算式的地方已在題目明列。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g5s1-mathematics-01",
+            "g5s1-mathematics-06"
+          ],
+          "stimulus": "兩題資料獨立：①比較0.708與0.78。②7/12－2/9。",
+          "prompt": "①用＞或＜比較並以位值或同單位說明；②寫計算過程並求差。",
+          "responseLines": 8,
+          "answer": {
+            "value": "0.708＜0.780；百分位0＜8，或708個千分之一＜780個。7/12－2/9＝21/36－8/36＝13/36。",
+            "explanation": "比較用相同位值；分數用相同大小的份再相減。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "0.708＜0.78。"
+              },
+              {
+                "points": 2,
+                "criterion": "有效位值或同單位理由。"
+              },
+              {
+                "points": 3,
+                "criterion": "有效通分或等效計算過程。"
+              },
+              {
+                "points": 3,
+                "criterion": "13/36或等值。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-final-c-q08"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g5s1-mathematics-03",
+            "g5s1-mathematics-04"
+          ],
+          "stimulus": "兩題資料獨立：①24與40的公因數。②6與10的正公倍數。",
+          "prompt": "列①全部正公因數並圈最大者；求②最小正公倍數，用兩個乘法式核對。",
+          "responseLines": 8,
+          "answer": {
+            "value": "①1、2、4、8，圈8；②30，6×5＝30，10×3＝30。",
+            "explanation": "公因數須同時整除兩數；公倍數須可由兩數的整數倍得到，最小正數為30。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "公因數1、2、4、8；少或多一數扣1分，最低0分。"
+              },
+              {
+                "points": 2,
+                "criterion": "最大8。"
+              },
+              {
+                "points": 2,
+                "criterion": "最小正公倍數30。"
+              },
+              {
+                "points": 2,
+                "criterion": "兩核對式各1分。"
+              }
+            ]
+          },
+          "id": "g5s1-mathematics-final-c-q09"
+        }
+      ]
+    }
+  ]
+}

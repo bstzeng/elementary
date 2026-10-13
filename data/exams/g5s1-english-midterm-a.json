@@ -1,0 +1,402 @@
+{
+  "schemaVersion": 1,
+  "id": "g5s1-english-midterm-a",
+  "grade": 5,
+  "semester": 1,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "midterm",
+  "variant": "A",
+  "mode": "mixed-language",
+  "title": "小五上學期英語文・期中A卷",
+  "duration": "紙面建議35–45分鐘，真人聽說各5–10分鐘；可分日、休息及延長。設計估計，未經試測。",
+  "instructions": [
+    "先完成第1、2題，老師說可以才看紙面題。",
+    "一般角色是虛構，不用提供自己的作息、住址或飲食資料。",
+    "可休息或說尚未學過；未施測聽說會分開記錄。"
+  ],
+  "materials": [
+    "當前題指定的大紙卡、遮紙、鉛筆及空白紙；無需外找圖片或聲音。",
+    "完整教師讀稿及答案由教師分開保管。"
+  ],
+  "teacherNotes": [
+    "範圍依本館11課實際教材，不是全國統一進度。期中01–06；期末07–11恰80分、01–06回顧恰20分。A/B/C任務資料與判斷不同，未經試測或統計等值，不能當排名依據。",
+    "完整施測100分；僅報已觀察得分／已觀察滿分及未觀察分項，不補0、不比例換算。未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+    "聽說前須由合格英語教師私下逐字核對本卷所有完整讀稿、目標句與可接受變體，確認學生已學；填寫模型來源與頁次＿＿、核對日期＿＿、教師＿＿、已教□、能自然示範全部模型□。本卷沒有音檔，作者沒有驗聽；書面核對不能認證語音。無可靠模型或合格施測者則延期聽說，只做紙面題。不用中文諧音、未驗聽合成聲音或拼讀字母名稱替代詞音。",
+    "固定順序：第1題聽辨→第2題口語→其餘紙面。先收起所有後題、教師卷、答案與英語句卡；聽辨只出示當回合指定中文選卡，口語只出示當回合中文情境。兩個真人區塊全做完才給任何正誤回饋或英文模型。不得將本次完整目標、翻譯、示範發音或答案位置當暖身。已曝光後再遮住不能恢復獨立性，受影響分項記受提示／未觀察；平常已學則是先備條件。",
+    "每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。",
+    "聽辨每次收走上一回合選卡；不准先讀中文正解，不准特別暗示字音。選卡位置照逐試稿；同一代號可重複選，沒有排除或每項只能一次的規則。教師面部自然可見，不遮臉或蒙眼，不能稱完全沒有視覺線索。指卡或AAC可證明當次聽懂；成人念出英文選項或逐詞翻譯則另記有支持理解。",
+    "口語先中性讀中文任務，不先示範英文問答。評當次意思、可理解的完整句和題目明列的功能，不評音量、眼神、速度、膽量或單一口音。正常標準變體、縮寫或完整形式、正確自然句序等同給分。跟讀、成人代說或AAC發聲只記支持溝通，不認證學生本人的獨立語音。",
+    "紙面英文由學生認讀；成人可讀中文指示。代讀英文另記支持閱讀，不稱獨立閱讀。可指代號、AAC、打字、口述或忠實代筆；字卡可輔助，須記錄。代筆不等於獨立手寫。只有題面明列的拼字、大寫、空格或標點才計格式分；其他題不因字跡或偶發拼寫錯誤抹去可辨的意思。",
+    "評分只用題面明問資訊。中文或等義簡短理由、指向明確證據均可；未要求完整句的答案可用詞組、數字或清單得全分。要求完整句時，事實與句法分開，正確短語仍得事實分。單選矛盾多答僅該選擇子分0，清楚刪改依最後答；同義多答不扣。不要索取未問的理由。",
+    "除明標真實的第11課學校來源摘要，人物、課表、菜單與紙卡皆虛構。不要問真實住址、家庭、健康、宗教或飲食原因，不錄音錄影、不上傳。只用大紙卡、鉛筆、遮紙，不使用活體、食物、刀剪或外出。可休息、拒絕、求助。",
+    "本卷的字形分組、重音重點與語調概念紙題，只是文字概念證據；不能代替真人聽辨、實際重音／語調、發音、聽寫或手寫筆順觀察。"
+  ],
+  "parallelDesign": {
+    "variantPurpose": "由本週變動找到已確認新計畫；替換一節；向內移卡；確認未交付。",
+    "equivalenceClaim": "同為100分與相同主題範圍；不宣稱心理計量等值。"
+  },
+  "blueprint": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "points": 12,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 76,
+      "purpose": "分開呈現真人聽辨、口語、紙面及回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "一、真人聽辨",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-06"
+          ],
+          "prompt": "老師每次念一個已學過的英文詞。只看當次兩張中文意思卡，選出聽到的意思；每回合各4分。可重聽完整詞一次，同一代號可以再選。",
+          "stimulus": "只由老師逐回合出示指定中文卡；不提供英文詞卡。",
+          "responseLines": 4,
+          "answer": {
+            "value": "第1回合：甲；第2回合：乙；第3回合：乙",
+            "explanation": "真人詞音→當次意思選擇；紙面代號本身不是聽辨證據。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合選甲得4分，其餘0；按該回合採計的完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合選乙得4分，其餘0；按該回合採計的完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合選乙得4分，其餘0；按該回合採計的完整反應。"
+              }
+            ]
+          },
+          "teacher": "先確認已教過所有目標及替代詞的意思與可靠完整詞音。以下讀稿只讀冒號後英文，不念代號或中文：第1回合出示【甲 雨；乙 一天】，自然讀：rain。 第2回合出示【甲 種子；乙 吃】，自然讀：eat。 第3回合出示【甲 雪；乙 外套】，自然讀：coat。 不提供正誤回饋，完成本題後收卡。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "聽辨1",
+              "points": 4
+            },
+            {
+              "label": "聽辨2",
+              "points": 4
+            },
+            {
+              "label": "聽辨3",
+              "points": 4
+            }
+          ],
+          "id": "g5s1-english-midterm-a-q01"
+        }
+      ]
+    },
+    {
+      "id": "oral",
+      "title": "二、口語應用",
+      "instructions": "只看老師指定的中文材料；不先看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-01",
+            "g5s1-english-02",
+            "g5s1-english-03"
+          ],
+          "prompt": "三個互不相連的中文角色任務，每回合各4分。聽／看老師當回合中文情境，以完整英文句傳達指定意思；不先聽英文示範。",
+          "stimulus": "只有當回合中文任務。",
+          "responseLines": 4,
+          "answer": {
+            "value": "I read books on Mondays.；We have music at nine.；I’m at the park.",
+            "explanation": "依當回合新資料獨立組句，不把角色資料當自己的真實生活。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合：I read books on Mondays.或自然等義完整句。指定活動／科目／所在或目的地意思2分、正確日期／時刻或目前與目的地區別1分、完整可理解英文句1分；分開給，單一短語不能獲完整句1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合：We have music at nine.或自然等義完整句。指定活動／科目／所在或目的地意思2分、正確日期／時刻或目前與目的地區別1分、完整可理解英文句1分；分開給，單一短語不能獲完整句1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合：I’m at the park.或自然等義完整句。指定活動／科目／所在或目的地意思2分、正確日期／時刻或目前與目的地區別1分、完整可理解英文句1分；分開給，單一短語不能獲完整句1分。"
+              }
+            ]
+          },
+          "teacher": "先收起聽辨選卡，不回饋先前正解。只讀下列中文任務，不讀教師答案：第1回合：你代一個虛構角色，用完整英文句說「我每週一讀書」。 第2回合：你代一班說話，用完整英文句說「我們的音樂課九點開始」。 第3回合：你代虛構角色，用完整英文句說「我現在在公園」。不要說目的地。 每回合先記第一答原文，再可中性重讀同一完整指令／讀稿一次，不改字、不加翻譯、表情或答案手勢；再記重試答原文。若有重試，以第二次完整反應單獨評分；沒有重試則以第一次反應評分。不得從兩次答案各取正確片段湊分，不以最好片段相加；不同回合亦不借分。中性重讀不自動扣分。第一答＿＿；重讀0／1＿＿；重試答＿＿；採計第1／2次＿＿；提示與支持＿＿；已觀察／未觀察＿＿；分數＿＿。更多支持另記支持理解，不算獨立聽說。 未教、無可靠完整模型、無合適機會、未回應、拒絕或受內容提示時，該分項記未觀察，不補0；具備條件且實際嘗試後才按規準評分。",
+          "observationParts": [
+            {
+              "label": "口語1",
+              "points": 4
+            },
+            {
+              "label": "口語2",
+              "points": 4
+            },
+            {
+              "label": "口語3",
+              "points": 4
+            }
+          ],
+          "id": "g5s1-english-midterm-a-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "各題資料彼此獨立；按題目選、指、寫或說明。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-01"
+          ],
+          "prompt": "①本週兩人仍共同有空的是哪一天？附兩人的資料證據。（6分）②最後有沒有約好？指出支持的對話回合。（4分）③free是否代表那一天整天沒事？寫出本表的時間範圍。（4分）",
+          "stimulus": "每週15:00–15:30：Monday，Ren free／Sol free；Thursday，Ren draw pictures／Sol free；Saturday，Ren free／Sol free。free只表示此半小時沒排活動。本週改動：Sol的Monday改read books，其餘不變。對話：1 Ren: How about Saturday at three? 2 Sol: Yes. Let’s play chess on Saturday at three. 3 Ren: OK. Saturday at three.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①Saturday；兩人當段都free，Monday的Sol改讀書。②有，2接受且3確認。③不是；只限15:00–15:30。",
+            "explanation": "要合併本週變動、兩人欄與明說答覆。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "Saturday 2分；指出Ren該段free 2分、Sol該段free 2分；指出Monday例外不是額外得分條件。"
+              },
+              {
+                "points": 4,
+                "criterion": "已約好2分；指第2或3回合的明確接受／確認2分，不強制兩回合都抄。"
+              },
+              {
+                "points": 4,
+                "criterion": "不是整天2分；正確半小時範圍2分。"
+              }
+            ]
+          },
+          "id": "g5s1-english-midterm-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-02"
+          ],
+          "prompt": "①依本週通知，用完整英文句寫出09:10開始的科目及開始時間。（4分）②寫該課結束時間和本週要求帶的材料。（4分）③寫10:10那節的科目與材料。（4分）④能否由課表知道現在幾點？（2分）",
+          "stimulus": "Tuesday morning：09:10–09:50 art，Bring paper and a pencil；10:10–10:50 English，Bring English book。通知：This Tuesday only: Music replaces art from 09:10 to 09:50. Bring your music book. All other lessons stay the same.",
+          "responseLines": 4,
+          "answer": {
+            "value": "①We have music at nine ten.／We have music at 09:10. ②09:50；music book。③English；English book。④不能。",
+            "explanation": "改動限一節，不能把未變的英語課或現在時刻一起改。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "music意思2分；開始09:10 1分；完整自然英文句1分（接受at、from…to…等正確自然句型，不限定at）。三項獨立給分。"
+              },
+              {
+                "points": 4,
+                "criterion": "結束09:50 2分；music book 2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "English 2分；English book 2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "不能由安排知道現在時間2分；不另索理由。"
+              }
+            ]
+          },
+          "id": "g5s1-english-midterm-a-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-03"
+          ],
+          "prompt": "①現在所在與適合的目的地各是什麼？（4分）②用兩筆資料說明這個目的地為何符合角色需求。（4分）③代角色用完整英文句寫目的地。（3分）④能否確定已抵達？說明缺少哪項記錄。（3分）",
+          "stimulus": "虛構角色Ren現在在station。現在14:30，Ren想see an art show。library：closed today；museum：open 14:00–16:00，see an art show；park：open 14:00–18:00，ball games allowed。沒有出發或抵達記錄。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①station；museum。②有art show；14:30在14:00–16:00。③I’m going to the museum. ④不能，無抵達記錄。",
+            "explanation": "同時使用目的與時段，不把目的地冒充位置更新。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "station 2分、museum 2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "art show目的符合2分；時間在開放範圍2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "目的地museum 2分；完整自然目的地句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "不能1分；未提供抵達／移動完成記錄2分。"
+              }
+            ]
+          },
+          "id": "g5s1-english-midterm-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-04"
+          ],
+          "prompt": "①移動後桌面有幾張rabbit？信封K共有幾張？整組共有幾張？（6分）②用完整英文句寫移動後桌面的rabbit數量及位置。（4分）③「因圖上沒有畫K，所以K一定沒有卡」是否正確？指出能查K的資料。（4分）",
+          "stimulus": "完整初態清單：桌面H有one rabbit、two cats；信封K有three rabbits、one duck。H與K不重疊。把K的一張rabbit卡移到桌面H，其他卡不動，沒有新增或丟棄。這是文字清單，沒有提供K的圖。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①2；3；7。②There are two rabbits on the table. ③不正確；K文字清單記3兔1鴨，移走1兔後仍有3張。",
+            "explanation": "移入桌面時要同時扣信封；清單可以提供圖外資訊。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "2張rabbit、K共3張、整組7張，各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "two rabbits 2分；on the table 1分；There are等完整自然複數句1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不正確2分；指出K文字清單2分，不強制重算或說完整初態。"
+              }
+            ]
+          },
+          "id": "g5s1-english-midterm-a-q06"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-05"
+          ],
+          "prompt": "①Kai最後確認的食物與飲品各是什麼？（4分）②只看對話，應不應扣除供應紙卡？附一項理由。（4分）③Kai今天改選能否證明他平常不喜歡rice？指出角色卡的證據。（4分）",
+          "stimulus": "虛構角色Kai：I like rice and bread. Today I’d like rice and juice. 紙上供應：rice sold out；bread available 2份；water available 2杯；juice sold out。對話：1 Server: Sorry, the rice and juice are sold out. 2 Kai: Do you have bread? 3 Server: Yes. 4 Kai: I’d like bread and water, please. 5 Server: Bread and water? 6 Kai: Yes, please. 到此沒有交付記錄。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①bread；water。②不扣，沒有交付。③不能；I like rice and bread.仍支持喜歡rice。",
+            "explanation": "今天的選擇、平常喜好與交付分開；不能代人推斷口味永久改變。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "bread、water各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不扣2分；無交付記錄2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能2分；指出角色卡仍喜歡rice 2分。"
+              }
+            ]
+          },
+          "id": "g5s1-english-midterm-a-q07"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g5s1-english-06"
+          ],
+          "prompt": "只做字形與概念判斷，不要求讀音。①從boat、feet、play各寫出本課合在一起的母音字母組合。（3分）②某人將feet拼成fet，應加回哪個字母？（1分）③「eat和bread都有ea，所以本課兩詞母音一定相同」對嗎？指出哪個詞是反例。（4分）",
+          "stimulus": "詞卡：boat 船；feet 腳（複數）；play 玩；eat 吃；bread 麵包。這些是已教詞；本題沒有聲音。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①oa；ee；ay。②e。③不對；bread的ea不是eat的本課long e。",
+            "explanation": "字母組合只是已教詞內規律，不能泛化為所有相同拼寫必同音。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "boat→oa、feet→ee、play→ay各1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "加e 1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不對2分；指出bread為反例2分，可中文說明，不需音標或真人發音。"
+              }
+            ]
+          },
+          "id": "g5s1-english-midterm-a-q08"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜星期與每週活動",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s1-english-01.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜科目與上課時間表",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s1-english-02.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜社區場所與目的地",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s1-english-03.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜動物種類與數量",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s1-english-04.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜飲食偏好與簡單選擇",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s1-english-05.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜常見長母音字母組合",
+      "url": "https://bstzeng.github.io/elementary/lessons/g5s1-english-06.html",
+      "note": "逐節依release26封存JSON和對應HTML核對；新題為原創轉用，不代表新驗聽或即時外站查核。底層來源既有取證限制保留。"
+    }
+  ]
+}
