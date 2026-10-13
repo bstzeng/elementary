@@ -1,0 +1,341 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s1-mathematics-final-c",
+  "grade": 6,
+  "semester": 1,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "C",
+  "mode": "written",
+  "title": "小六上學期數學・期末C卷",
+  "duration": "建議55–70分鐘；可分段或延長。此為設計估計，尚未試測。",
+  "instructions": [
+    "滿分100分，各題資料獨立。只需提供各小題明問的算式、理由或圖示。",
+    "接受等值分數與不同正確方法；明問最簡分數或最簡整數比時才需化到最簡。",
+    "圓的計算用π≈3.14，相關答案請用約字或≈表示；同一列可註明皆為近似值。",
+    "圖只供辨識關係，不量圖推算未給的尺寸。",
+    "可請成人中性讀題或依你的指示代筆；數學決定由你作。"
+  ],
+  "teacherNotes": [
+    "本卷依本館保存的14課教材編排，非全國統一進度。期中01–07；期末08–14占80分、前半核心回顧20分。教師先確認已教範圍。A／B／C未經試測、常模化或統計等值檢驗。",
+    "各規準依所列子分逐項給分；未拆子分的單一條件符合全給、不符0分。接受最精簡完整答案、等值分數及不同正確方法；只有明問最簡分數或最簡整數比才要求化到最簡。",
+    "只評題幹明問的算式、圖示或說明；參考解答中的額外中間值和解釋不是隱藏得分條件。不要求固定順序、指定算法或重複已呈現的證據。同一份有效證據可以支援不同明問判斷。",
+    "方法分與數值分分開。前步算錯不再扣後步一致方法分，標準數值分仍依正確值。題幹已給單位且所求量清楚時可省重複單位；明寫錯誤維度的量不給該量答案分，方法分另評。",
+    "圓的計算統一用π≈3.14，圓周、弧長、面積及含這些量的結果均為近似值。約字、≈或明確涵蓋整題的「以下皆為近似值」都可。各規準明列的標示分各評一次；同一結果在中間式與答案重複出現不重複扣分，總括標示可同時滿足其涵蓋的全部結果。",
+    "分數除法允許非整數份，沒有完整成品或餘數問題。小數除法使用可除盡的精確值。只求兩數最大公因數、最小公倍數；質數分類限小於20，分解選用可檢查的小數值。",
+    "速率題明示等速、行程方向、是否納入停留。速率單位換算只從較大距離與時間單位改為較小單位；回乘只作同一時段路程核對。",
+    "扇形只由已給半徑與角度或分率直接求弧長、面積；不逆推平方根或未知角度。複合圖限兩部分平面模型，明示共邊、重疊或洞的條件；不自行量圖猜資料。",
+    "可中性讀題、放大、口述或依學生指示代筆；數學決定由學生作，不以速度、字跡、美觀或精細動作代替理解。所有卡片、模型行程與設計資料均為虛構紙面情境，不要求兒童私人資料或真實操作。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、直尺；可另提供大張方格紙。"
+  ],
+  "parallelDesign": "C：分母時間辨讀、圓周比例、包含面積檢錯、半圓周界、共邊用料、越過相等後的差與多種合法桌形。",
+  "sources": [
+    {
+      "title": "本館小六上數學14課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g6s1",
+      "note": "逐課核對release26保存的課程與原始JSON；01–07期中、08–14期末主體，期末另有20分前半回顧。"
+    },
+    {
+      "title": "教育部數學課綱發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材正式引註，本次未重新擷取官方頁；學期安排屬本館編輯設計。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "points": 80,
+      "purpose": "以明示的計算、圖示、判斷與理由留下數學證據。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "以明示的計算、圖示、判斷與理由留下數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段數學",
+      "instructions": "依各小題要求作答；可用不同的正確方法。",
+      "items": [
+        {
+          "id": "g6s1-mathematics-final-c-q01",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-08"
+          ],
+          "stimulus": "模型甲以0.45公里/分、乙以24公里/時等速行進，沒有停頓。試算同樣30秒內的行進路程。",
+          "prompt": "①分別把甲、乙換成公尺/分及公尺/秒，列出換算式。\n②求30秒兩者各走多遠，並算相差多少公尺。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲450公尺/分、7.5公尺/秒，0.45×1000＝450，450÷60＝7.5；乙400公尺/分、20/3公尺/秒，24000÷60＝400，400÷60＝20/3。甲225、乙200公尺，相差25公尺。",
+            "explanation": "甲原來已是每分鐘，只換距離，不可又把它當每小時先除60。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①四個速率值各1分；甲乙合理換算式各1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②225、200各1分；相差25為2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-final-c-q02",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-09"
+          ],
+          "stimulus": "圓A半徑2公分，圓B直徑12公分。π≈3.14。只比較完整圓周，沒有接頭或其他用量。",
+          "prompt": "①列式求兩圓周長，以近似值表示。\n②求B圓周是A幾倍，並以直徑的關係說明；圓B的π是否因為較大而增加？",
+          "responseLines": 8,
+          "answer": {
+            "value": "A圓周≈2×2×3.14＝12.56公分；B≈12×3.14＝37.68公分。B為A的3倍，直徑12是4的3倍；π不因圓大小改變。",
+            "explanation": "圓周與直徑同比變化；圓周率是兩者固定比值。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①兩圓各3分：式1分、值1分、近似標示1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②3倍1分；以直徑12：4的關係說明2分；π不變1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-final-c-q03",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-10"
+          ],
+          "stimulus": "一張完整圓形貼紙直徑9公分，放在邊長9公分的正方形框內，圓剛好與正方形四邊相切。某稿把圓面積寫254.34平方公分。π≈3.14。",
+          "prompt": "①列式求正確圓面積，寫近似值。\n②算正方形面積，用包含關係說明254.34為何不合理。\n③正方形內、圓外的面積是多少？列式並寫近似值。",
+          "responseLines": 8,
+          "answer": {
+            "value": "圓≈3.14×4.5×4.5＝63.585平方公分。正方形9×9＝81平方公分；圓在方形內，面積不能超過81，所以254.34不合理。圓外部分≈81－63.585＝17.415平方公分。",
+            "explanation": "直徑9的半徑4.5；外接正方形可以檢查把直徑當半徑造成的過大答案。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "①合理半徑平方式2分；63.585為2分；近似標示1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②81為2分；用包含關係及254.34＞81說明2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "③有效扣除式1分；約17.415為2分，值對未標近似給1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-final-c-q04",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-11"
+          ],
+          "stimulus": "陰影為半徑4公分、圓心角180°的扇形。π≈3.14。",
+          "prompt": "①寫陰影占全圓的分率，列式求弧長與面積，寫近似值。\n②求陰影完整周界，並算完整周界與弧長相差多少公分。",
+          "responseLines": 8,
+          "answer": {
+            "value": "分率1/2；弧長≈2×3.14×4÷2＝12.56公分；面積≈3.14×4×4÷2＝25.12平方公分。周界約20.56公分；與弧長相差直徑8公分。",
+            "explanation": "半圓的兩條半徑在同一直線上合成直徑，周界比弧多這段長。",
+            "scoring": [
+              {
+                "points": 8,
+                "criterion": "①分率1/2為2分；弧長、面積各3分：式1分、值1分、近似標示1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②周界約20.56為2分，值對未標近似給1分；差8公分2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 580 340\" role=\"img\" aria-label=\"圓心O、半徑4公分，陰影扇形圓心角180度；虛線為其餘圓周，實線兩條半徑和扇形弧構成扇形。\"><title>圓心O、半徑4公分，陰影扇形圓心角180度；虛線為其餘圓周，實線兩條半徑和扇形弧構成扇形。</title><g stroke=\"#294554\" stroke-width=\"1.5\" fill=\"none\"><circle cx=\"190\" cy=\"170\" r=\"110\" stroke-dasharray=\"5 5\"/><path d=\"M190 170 L300 170 A110 110 0 0 0 80.00000 170.00000 Z\" fill=\"#ddebf1\"/><text x=\"172\" y=\"195\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">O</text><text x=\"320\" y=\"85\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">半徑 4 公分</text><text x=\"320\" y=\"118\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">圓心角 180°</text><text x=\"320\" y=\"151\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">陰影為所求扇形</text><text x=\"20\" y=\"310\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">弧是外側曲線；示意圖不按公分比例。</text></g></svg>"
+        },
+        {
+          "id": "g6s1-mathematics-final-c-q05",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-12"
+          ],
+          "stimulus": "寬8公分、高5公分長方形，上接直徑8公分半圓，只沿完整邊相接、無面積重疊。π≈3.14。只沿紙牌外框貼線，內部共邊不貼，沒有接頭或損耗；可用線長31公分。",
+          "prompt": "①列式求紙牌總面積，寫近似值。\n②列式求外周界，寫近似值。\n③判斷31公分線是否足夠，算多或少多少公分。",
+          "responseLines": 8,
+          "answer": {
+            "value": "面積≈8×5＋3.14×4×4÷2＝65.12平方公分。外周界≈8＋5＋5＋2×3.14×4÷2＝30.56公分。足夠，約剩0.44公分。",
+            "explanation": "共邊不在外框；外周界由底邊、兩直邊與半圓弧構成。",
+            "scoring": [
+              {
+                "points": 5,
+                "criterion": "①面積式2分；65.12為2分；近似標示1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②不含共邊的有效外框式2分；約30.56為2分，值對未標近似給1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "③足夠1分；約剩0.44為2分，值對未標近似給1分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 580 340.0\" role=\"img\" aria-label=\"寬8公分、高5公分長方形，上接直徑8公分半圓；完整共邊畫虛線，兩部分沒有面積重疊。\"><title>寬8公分、高5公分長方形，上接直徑8公分半圓；完整共邊畫虛線，兩部分沒有面積重疊。</title><g stroke=\"#294554\" stroke-width=\"1.5\" fill=\"none\"><path d=\"M100 150.0 A80.0 80.0 0 0 1 260 150.0 L260 250.0 L100 250.0 Z\" fill=\"#edf4f7\"/><line x1=\"100\" y1=\"150.0\" x2=\"260\" y2=\"150.0\" stroke-dasharray=\"5 5\"/><text x=\"280\" y=\"200.0\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">高 5 公分</text><text x=\"120\" y=\"280.0\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">寬 8 公分</text><text x=\"25\" y=\"30\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"18\">上方半圓直徑 8 公分</text><text x=\"25\" y=\"315.0\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"16\">虛線是完整共邊；只有共邊，沒有面積重疊。</text></g></svg>"
+        },
+        {
+          "id": "g6s1-mathematics-final-c-q06",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-13"
+          ],
+          "stimulus": "甲盒有10張、乙盒有22張卡，只由乙移整張卡給甲，每次試驗都從原狀態開始。卡不增加、不遺失。允許移動數為0至10。",
+          "prompt": "①列出移4張、6張、8張後，甲乙各有幾張及兩盒相差幾張。\n②有人說「每多移1張，相差張數永遠減2」。用第一小題兩個合適狀態反駁。\n③列出所有使甲比乙多的允許移動張數。",
+          "responseLines": 8,
+          "answer": {
+            "value": "移4：甲14、乙18，差4；移6：甲16、乙16，差0；移8：甲18、乙14，差4。從移6到移8，差由0增為4，反駁永遠減少。甲較多的移動數為7、8、9、10。",
+            "explanation": "移到相等以前差減少，跨過相等後多寡交換，絕對差又增加。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①每個狀態2分：甲乙張數各0.5分、差1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "②引用第一小題兩個可反駁的狀態1分；正確比較差距並說明不符合每次永遠減2的斷言2分。移6與8、移4與8皆可。"
+              },
+              {
+                "points": 3,
+                "criterion": "③7、8、9、10完整且無多列3分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-final-c-q07",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s1-mathematics-14"
+          ],
+          "stimulus": "用4張正方形桌子，在方格上每張占1格。桌子內部不可重疊，每張都須經由共用完整邊與其他桌子連成一片；只碰角不算相連。每條外露的單位邊設1座，共邊不設座，角上不加座。可轉向排列。",
+          "prompt": "①畫出一種恰有10座的4桌排列。可用塗格、描框或清楚座標表示。\n②用外露邊計數，或「4張共16邊，再扣共邊」的方法，說明你的排列為何有10座。\n③若改排成2×2正方形，共有幾座？比較它與你的10座排列相差幾座。",
+          "responseLines": 8,
+          "answer": {
+            "value": "例：4格一直列；可旋轉、平移，L形、T形、S形等邊相連且共3條內部共邊的排列也可。4×4－2×3＝10座。2×2排列8座，比10座少2座。",
+            "explanation": "每條共邊原被兩張各算一次，因此需扣2；有效排列不限定參考圖方向或位置。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①清楚表示恰4格、無重疊且完整邊連成一片2分；該排列外露邊恰10條2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②與學生所畫有效排列相符、可核查的10條外邊計數或3條共邊扣除說明4分；不限定直列。"
+              },
+              {
+                "points": 4,
+                "criterion": "③2×2為8座2分；少2座2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 580 280\" role=\"img\" aria-label=\"6欄4列等大空白方格，供畫4個連邊正方形；無預先給定答案。\"><title>6欄4列等大空白方格，供畫4個連邊正方形；無預先給定答案。</title><g stroke=\"#294554\" stroke-width=\"1.5\" fill=\"none\"><rect x=\"90\" y=\"25\" width=\"48\" height=\"48\"/><rect x=\"138\" y=\"25\" width=\"48\" height=\"48\"/><rect x=\"186\" y=\"25\" width=\"48\" height=\"48\"/><rect x=\"234\" y=\"25\" width=\"48\" height=\"48\"/><rect x=\"282\" y=\"25\" width=\"48\" height=\"48\"/><rect x=\"330\" y=\"25\" width=\"48\" height=\"48\"/><rect x=\"90\" y=\"73\" width=\"48\" height=\"48\"/><rect x=\"138\" y=\"73\" width=\"48\" height=\"48\"/><rect x=\"186\" y=\"73\" width=\"48\" height=\"48\"/><rect x=\"234\" y=\"73\" width=\"48\" height=\"48\"/><rect x=\"282\" y=\"73\" width=\"48\" height=\"48\"/><rect x=\"330\" y=\"73\" width=\"48\" height=\"48\"/><rect x=\"90\" y=\"121\" width=\"48\" height=\"48\"/><rect x=\"138\" y=\"121\" width=\"48\" height=\"48\"/><rect x=\"186\" y=\"121\" width=\"48\" height=\"48\"/><rect x=\"234\" y=\"121\" width=\"48\" height=\"48\"/><rect x=\"282\" y=\"121\" width=\"48\" height=\"48\"/><rect x=\"330\" y=\"121\" width=\"48\" height=\"48\"/><rect x=\"90\" y=\"169\" width=\"48\" height=\"48\"/><rect x=\"138\" y=\"169\" width=\"48\" height=\"48\"/><rect x=\"186\" y=\"169\" width=\"48\" height=\"48\"/><rect x=\"234\" y=\"169\" width=\"48\" height=\"48\"/><rect x=\"282\" y=\"169\" width=\"48\" height=\"48\"/><rect x=\"330\" y=\"169\" width=\"48\" height=\"48\"/><text x=\"90\" y=\"247\" fill=\"#152d38\" stroke=\"none\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">每小格代表一張正方形桌子。</text></g></svg>"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "依各小題要求作答；可用不同的正確方法。",
+      "items": [
+        {
+          "id": "g6s1-mathematics-final-c-q08",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s1-mathematics-03",
+            "g6s1-mathematics-04"
+          ],
+          "stimulus": "回顧：甲式1又1/8÷3/4；乙式4.62÷0.7。兩題都求精確值，不取整。",
+          "prompt": "①列式求甲商，以最簡分數或帶分數表示，並用乘法驗算。\n②把乙改成除數為整數而商不變的式子，求精確商。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲9/8÷3/4＝3/2＝1又1/2；3/2×3/4＝9/8。乙46.2÷7＝6.6。",
+            "explanation": "帶分數先理解成9/8；乘倒數與同比放大均須保留原商。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "①有效甲除法式2分；最簡3/2或1又1/2為2分；乘回原量驗算2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "②有效同比改寫2分；6.6為2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g6s1-mathematics-final-c-q09",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s1-mathematics-02",
+            "g6s1-mathematics-06"
+          ],
+          "stimulus": "回顧：一組圖案有甲42格、乙56格，沒有其他格。另以相同比例做總共35格的新圖案。",
+          "prompt": "①求42與56的最大公因數，將甲：乙化成最簡整數比。\n②列式求新圖案甲乙各幾格；寫比值並說明它以哪一種格數為比較基準。",
+          "responseLines": 8,
+          "answer": {
+            "value": "最大公因數14；甲：乙＝3：4。35÷7×3＝15格甲、35÷7×4＝20格乙。比值3/4，以乙格數為基準。",
+            "explanation": "同比分配保持兩部分關係；比值的分母是乙，不是全部。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "①14為2分；最簡3：4為2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "②有效分配式2分；15、20各1分；比值3/4為1分；乙作基準1分。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

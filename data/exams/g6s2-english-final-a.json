@@ -1,0 +1,570 @@
+{
+  "schemaVersion": 1,
+  "id": "g6s2-english-final-a",
+  "grade": 6,
+  "semester": 2,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "final",
+  "variant": "A",
+  "mode": "mixed-language",
+  "title": "小六下學期英語文・期末A卷",
+  "duration": "紙筆建議45–55分鐘；聽辨約5–8分鐘，個別口語約5–8分鐘，分開安排。可分次及延長；尚未經試測。",
+  "instructions": [
+    "先完成聽辨與口語；老師通知後才翻看紙筆題。",
+    "全用虛構角色，不必提供自己的私人生活或學習紀錄。",
+    "可休息、求助或說尚未學過；未觀察項會另外記錄。",
+    "文字題空間不夠可加空白紙，標明題號；未要求完整句時可用詞組回答。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、遮紙、普通大紙及額外空白紙；不用實物道具。",
+    "本卷教師專用完整讀稿、中文選卡與角色卡；由教師保管並逐回合提供。"
+  ],
+  "teacherNotes": [
+    "本卷依已恢復的六下12課編製。五、六年級屬同一學習階段，主題與學期配置以實際已教課程為準。期中01–06為100分；期末07–12為80分，01–06回顧20分。三卷是不同任務，未經學生試測或統計等值。",
+    "全卷完整施測為100分。分項已教且具備核對過的完整自然模型、學生確實作答，才計分。未教、未施測、拒絕、無回應、無適當機會或答案已被示範／翻譯者，記「未觀察」及原因，不記0，不按比例補成100。給內容提示後的表現另記支持表現。報告列已觀察得分／已觀察滿分，以及各未觀察項及滿分；不得以紙筆代替聽說分數。",
+    "合格英語教師須先私下核對每一回合的完整詞、句、語境及合理變體，並確認已在先前課程教過。核對依據與頁次＿＿；日期＿＿；教師＿＿；已教□；可自然提供全部模型□。本卷提供文字讀稿，沒有音檔，也沒有作者驗聽或學生表現驗證。第05課混合子音依課內通用美式完整詞模型；其餘任務接受可理解的標準英語變體。不得用字母名稱、中文諧音或未核對的合成語音代替。條件未備齊時保留聽說待施測。",
+    "施測順序固定為聽辨、口語、紙筆。前兩區塊結束前，收起教師卷、答案及後面紙筆；只展示本回合指定的中文情境／中文選卡。不能先朗讀英文答案暖身，不能由後題或英文句卡提示。已看過本次完整目標、答案翻譯或示範答案，事後遮住仍算曝光；相關獨立分項記未觀察。正常先前學習是先備條件，與本次答案曝光分開。兩區塊完成後才給正誤回饋。",
+    "聽辨只由教師自然讀英文讀稿，面容可正常看見，故不宣稱零視覺線索。每回合先給5秒看中文選卡，讀稿後留10秒作答，可申請一次原稿重讀，再留10秒。需要更長作答時間或休息可提供並記錄，不評速度。各回合選項重新使用，代號可重複，沒有每個只能選一次的規則。每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。",
+    "口語每回合先讀指定中文任務、給15秒準備，再說指定英文開場（若該回合有）。可延長時間、私下坐著作答，無需看人、演技、音量或特定口音。評題面明列的資訊、完整且可理解的英文及溝通功能。每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。",
+    "可打字、指選、大字、AAC、分段休息、忠實代筆或用中文說明推理；分別註記讀寫、支持溝通與獨立口語。成人可讀中文指示；代讀紙筆英文另記支持閱讀。AAC發聲、成人代說、跟讀或看完整句作答，不能認證本人的獨立英語語音。拒絕口說可完成相同中文情境的文字／AAC替代任務，另記理解，不把其分數搬進未觀察的口語欄。",
+    "題面未要求完整英文句時，接受中英文等義詞組、清楚指選、數字或圖示。要求完整句時，內容與句式分開給分。只按題面公開要求評分；不另扣未列出的字跡、口音、速度或次序。常見縮寫、正確同義句、合乎已給條件的不同排列同等給分。錯別字若仍能辨認意思，保留意思分；指定拼字題才要求該詞形正確。",
+    "全卷使用虛構人物及紙上活動；文化故事的有限核心情節來自已封存課內資料，其他試題文句均重新編寫。無需兒童真實姓名、行程、家庭、診斷或成績；不錄音錄影、不上傳、不操作網繩、箱子或實物。紙上音組與詞形題只能證明文字理解。"
+  ],
+  "parallelDesign": "三卷皆主題07–12共80分、01–06回顧20分。A以補上缺詞、一次閱讀結果、更新後單一合條件活動及同題修訂檔案；B以喜好與本次選擇對照、只說稍後閱讀、更新取消時間衝突及新卡支持減少；C以更換不清楚的問題、已答部分問題、更新造成零合適選項及支持增加不能推獨立成長為主要差異。三卷原創角色、數據、問法與推理不同，分配相同但未經試測或統計等值。",
+  "blueprint": [
+    {
+      "id": "listening",
+      "title": "一、聽辨",
+      "points": 12,
+      "purpose": "辨認自然英語訊息；保留真正聽辨證據。"
+    },
+    {
+      "id": "oral",
+      "title": "二、口語",
+      "points": 12,
+      "purpose": "由情境組句及接話；獨立口語與支持溝通分記。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與書寫",
+      "points": 56,
+      "purpose": "依完整原創資料閱讀、書寫與查核。"
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "points": 20,
+      "purpose": "回顧前半學期的核心語句與文字辨識。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "listening",
+      "title": "一、聽辨",
+      "instructions": "逐題看清楚所問範圍；各題資料獨立。聽說只看老師當回合提供的中文材料。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-08",
+            "g6s2-english-09",
+            "g6s2-english-11"
+          ],
+          "prompt": "共三回合。每次聽一段英文，只用當回合的中文選卡回答老師明說的問題；每回合4分。可指選或說代號，可重聽同一完整讀稿一次，選過的代號可再選。",
+          "stimulus": "老師依回合提供中文問題與選卡；先不看後面的題目。",
+          "responseLines": 4,
+          "answer": {
+            "value": "1：乙；2：丙；3：甲",
+            "explanation": "各答案必須依當次完整讀稿及指定問題判斷；未聽讀稿時，中文選卡本身不指明正解。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "第1回合選乙得4分；其餘已嘗試且可評的反應0分。只採本回合一個完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第2回合選丙得4分；其餘已嘗試且可評的反應0分。只採本回合一個完整反應。"
+              },
+              {
+                "points": 4,
+                "criterion": "第3回合選甲得4分；其餘已嘗試且可評的反應0分。只採本回合一個完整反應。"
+              }
+            ]
+          },
+          "teacher": "依卷首完整模型先備與曝光規則。每回合看卡5秒；讀一遍後等10秒；可原樣重讀一次後再等10秒；需要延長或休息可記錄提供。\n第1回合：出示中文任務「為什麼她重寫問題？」及選卡【甲 因為字太小；乙 因為問題不清楚；丙 因為沒有紙】。不得念出代號或中文正解；只自然讀以下英文：The question was unclear, so I wrote it again.\n第2回合：出示中文任務「這次活動現在在哪裡？」及選卡【甲 J教室；乙 K教室；丙 L教室】。不得念出代號或中文正解；只自然讀以下英文：The reading activity is in Room L today. It is not in Room J.\n第3回合：出示中文任務「Tia想找哪一種故事？」及選卡【甲 鳥的故事；乙 遊戲的故事；丙 兩種都想找】。不得念出代號或中文正解；只自然讀以下英文：Tia wants a story about birds. Rafi wants a story about games.\n每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。 分項已教且具備核對過的完整自然模型、學生確實作答，才計分。未教、未施測、拒絕、無回應、無適當機會或答案已被示範／翻譯者，記「未觀察」及原因，不記0，不按比例補成100。給內容提示後的表現另記支持表現。",
+          "observationParts": [
+            {
+              "label": "聽辨回合1",
+              "points": 4
+            },
+            {
+              "label": "聽辨回合2",
+              "points": 4
+            },
+            {
+              "label": "聽辨回合3",
+              "points": 4
+            }
+          ],
+          "id": "g6s2-english-final-a-q01"
+        }
+      ]
+    },
+    {
+      "id": "oral",
+      "title": "二、口語",
+      "instructions": "逐題看清楚所問範圍；各題資料獨立。聽說只看老師當回合提供的中文材料。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-11",
+            "g6s2-english-12"
+          ],
+          "prompt": "共兩回合，每回合6分。第1回合依老師的中文角色情境，用英文說清楚不能做的動作，再提出情境允許的替代方法。第2回合代虛構角色分享現在能做的事、使用的協助，以及下一步小任務。每回合指定三項意思各1分（3分）；用完整英文句且句式相合2分；關鍵意思能被聽者理解1分。可分成兩句以上，不必背固定句子。",
+          "stimulus": "兩個虛構情境由老師逐回合提供；可以坐著私下說，不用真實作品或私人學習資料。",
+          "responseLines": 6,
+          "answer": {
+            "value": "We cannot move the cards. We can write a guide on another page. ／ I can check two sentences with a word list. Next, I will try two new sentences.",
+            "explanation": "接受意思相符的其他自然英文和可理解的標準變體。下一步未發生，不能說成已完成；支持條件須保留。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "回合1三項意思各1分：不移卡、寫指引、使用另一張紙。"
+              },
+              {
+                "points": 2,
+                "criterion": "回合1：各句完整1分；否定及替代說法句式相合1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "回合1：聽者能理解關鍵意思1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "回合2三項意思各1分：核對兩句、使用詞表、下一步試兩個新句子。"
+              },
+              {
+                "points": 2,
+                "criterion": "回合2：各句完整1分；現在能力與下一步句式相合1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "回合2：聽者能理解關鍵意思1分。"
+              }
+            ]
+          },
+          "teacher": "第1回合出示並中性讀中文：你是虛構幫手。原來的卡片必須留在原位；可以在另一張紙寫指引。請回應要求：說不能移卡，並提出寫指引這個替代方法及使用另一張紙。。給15秒準備，再自然說：Please move these cards.。教師私下核對完整回應例：We cannot move the cards. We can write a guide on another page.\n第2回合出示並讀中文：角色現在能使用詞表核對兩個句子，仍有詞表支持。下一步想試兩個新句子。說明現在表現、使用的支持和下一步。。給15秒，再自然問：What can you do now, and what will you try next?。私下完整回應例：I can check two sentences with a word list. Next, I will try two new sentences.\n每回合只呈現中文情境，不展示這些英文例句。學生先前已學完整句型，但本次不可先示範答案。每回合先記第一次完整反應。學生可要求一次完全相同的中性重讀；不換詞、不暗示、不翻譯。重讀後若再答，第二次完整反應取代第一次；沒有再答則採第一次。不把兩次反應片段拼成答案，也不取最好片段相加。重聽本身不扣分。紀錄：第一答＿＿；重讀0／1＿＿；第二答＿＿；採計次序＿＿；支持內容＿＿；已觀察／未觀察＿＿；得分＿＿。 分項已教且具備核對過的完整自然模型、學生確實作答，才計分。未教、未施測、拒絕、無回應、無適當機會或答案已被示範／翻譯者，記「未觀察」及原因，不記0，不按比例補成100。給內容提示後的表現另記支持表現。",
+          "observationParts": [
+            {
+              "label": "回合1三項意思",
+              "points": 3
+            },
+            {
+              "label": "回合1句式",
+              "points": 2
+            },
+            {
+              "label": "回合1可理解度",
+              "points": 1
+            },
+            {
+              "label": "回合2三項意思",
+              "points": 3
+            },
+            {
+              "label": "回合2句式",
+              "points": 2
+            },
+            {
+              "label": "回合2可理解度",
+              "points": 1
+            }
+          ],
+          "id": "g6s2-english-final-a-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與書寫",
+      "instructions": "依題目給定材料作答，別把未提及當成沒有；答案可在空白紙續寫並標題號。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-07"
+          ],
+          "prompt": "用3–4個完整英文句介紹下面四項事實。用because或so連清楚原因與補字行動，讓代名詞指的是標題還是書籤都清楚。四項事實各2分（8分）；因果連接1分；指代清楚1分；完整句1分；昨天事件的時態一致1分。不可加入未給的結果。",
+          "stimulus": "昨天的虛構記錄：① Lark made a bookmark. ② The title on the bookmark had a missing word. ③ Lark added the missing word.（原因就是標題缺字。）④ Lark put the bookmark in a folder.\nbookmark書籤；title標題；missing缺少的；added補上了；folder資料夾；put過去式仍是put。",
+          "responseLines": 12,
+          "answer": {
+            "value": "Yesterday, Lark made a bookmark. The title had a missing word, so Lark added it. Lark put the bookmark in a folder. 也可The title was missing a word. Lark added the word because it was missing from the title.等相符改寫。",
+            "explanation": "因果是缺字所以補字；最後存入資料夾的是書籤。it若接近missing word且指向清楚即可，不一定要重複所有名詞。",
+            "scoring": [
+              {
+                "points": 8,
+                "criterion": "四項事實各2分：做書籤、標題缺字、補缺字、把書籤放資料夾。可辨意思先保留內容分。"
+              },
+              {
+                "points": 1,
+                "criterion": "because或so正確連接缺字→補字1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "代名詞有清楚對象或重複名詞避開歧義1分，不強迫一定用代名詞。"
+              },
+              {
+                "points": 1,
+                "criterion": "3–4個完整英文句1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "描述昨天事件時態相合1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q03"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-08"
+          ],
+          "prompt": "（1）用一個完整英文句說明Nico為何補上標籤的最後一個字，使用because或so。（4分：原因2、補字行動1、完整因果英文1）（2）Ola這次實際讀了什麼，讀得是否正確？用中文或英文回答，保留「這次」的範圍。（3分）（3）能否說補字讓全班每次都讀對？回答並說一項資料限制。（3分）（4）後來下課鈴響，是否代表Ola讀字造成鈴響？回答並說原因。（2分）",
+          "stimulus": "Nico wrote the label “A Quiet Reading Place”, but the last word was missing from the first copy. Nico added “Place” because it was missing. Ola then read all four words correctly this time. A bell rang after Ola finished. The record says nothing about other readers or later attempts.\nlabel標籤；copy一份；missing缺少；other readers其他讀者；later attempts之後的嘗試。",
+          "responseLines": 10,
+          "answer": {
+            "value": "（1）Nico added the last word because it was missing.（2）Ola這次讀對標籤四個字。（3）不能；未記錄其他讀者或之後表現。（4）不代表；只有先後資料，沒有讀字引起鈴響的證據。",
+            "explanation": "A／Quiet／Reading／Place共四詞。理由由because明示；結果只有Ola一次讀四詞，不擴大到所有人。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "（1）缺最後一字原因2分；補字動作1分；完整且因果方向正確英文句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）標籤四詞1分；正確讀出1分；只限這次1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）不能1分；其他人未觀察、後續未觀察、一次不足推人人每次任一2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（4）不代表1分；只有先後／缺因果證據1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-09"
+          ],
+          "prompt": "（1）先只用原卡與角色條件，哪些活動可以全程參加？只考慮時間，列所有代號。（3分）（2）加入內容、形式和材料，原卡哪些全符合？列所有符合代號。（3分）（3）再讀更新，哪些活動現在全符合？列所有符合代號；沒有就寫沒有。（3分）（4）任選一個更新後不符合的活動，寫代號及一項不符合的證據。（3分）（5）全符合是否等於已取得名額？寫是／否，並指出缺少的資訊。（2分）",
+          "stimulus": "同一虛構星期五，24小時制；必須從開始參加到結束。\nP：13:10–13:35；Room P；quiet individual reading；pencil。\nQ：13:20–13:45；Room Q；pair discussion；none。\nR：13:35–14:00；Room R；quiet individual reading；pencil。\n角色Wen：13:00–14:00有空；這次只想安靜個別閱讀；有鉛筆。\n更新：P改成13:40–14:05。其餘全部不變。\nquiet individual reading安靜個別閱讀；pair discussion雙人討論；none不用自備材料。沒有名額資訊。",
+          "responseLines": 10,
+          "answer": {
+            "value": "（1）P、Q、R。（2）P、R。（3）R。（4）例如P結束14:05超過14:00；或Q是雙人討論，不符安靜個別閱讀。（5）否；未確認名額。",
+            "explanation": "原三時段都在13:00–14:00內；加上閱讀需求排Q。新P超時，R仍全符合。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "（1）正確列P/Q/R各1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）列P1分、R1分、不加入Q1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（3）只列R3分；若列R又加其他，給正確列R的1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（4）選P或Q1分；對應任一正確限制2分。P時間或Q活動／形式都可。"
+              },
+              {
+                "points": 2,
+                "criterion": "（5）否1分；名額／接受報名未確認1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q05"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-10"
+          ],
+          "prompt": "（1）用一個完整英文句寫這個故事中，老鼠後來完成的幫助。（3分）（2）寫一項有情節支持的故事想法，再指出一件支持它的事。（3分；可中英文，不限唯一主題）（3）下面生活對話最後的幫讀是否已完成？回答，並指出對話證據。（2分）（4）故事是否保證幫過別人就能要求對方接受所有請求？寫是／否，並說一項理由。（2分）",
+          "stimulus": "版本說明：本題依第10課已封存的美國國會圖書館《The Lion & the Mouse》核心情節，另寫下列簡易英文，並非逐字引用。\nA lion let a small mouse leave. Later, the lion could not escape from a net. The mouse came back and bit through a rope. The opening freed the lion. The small mouse had really helped him.\nescape逃脫；bit through咬斷；opening開口；freed使自由。只讀文字，不模仿故事動作。\n原創生活對話：\nEli: Thank you for checking my sentence. Can you help me read this title?\nSora: I can help after the break.\n紀錄在此結束。break休息。",
+          "responseLines": 9,
+          "answer": {
+            "value": "（1）The mouse helped the lion get out of the net.／The mouse bit through a rope and freed the lion.（2）例如不能只因體型小就低估幫助能力；小老鼠幫獅子脫困。或善意與互助；獅子先放走老鼠，後來老鼠幫助。（3）未記錄完成；只答應休息後幫。（4）否；故事未保證所有回報，也不取消能力、意願或安全界線。",
+            "explanation": "後來咬繩及脫困是完成證據；生活情境只見未來承諾，不能把它當成已做。主題解讀可多種，但要有文本支持。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "（1）老鼠幫獅子脫困的意思2分；完整相合英文句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）合理主題1分；相合的具體情節證據2分。接受善意、互助、不按大小低估、前後看法改變等有據解讀。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）未記錄完成1分；休息後才幫／只有承諾1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（4）否1分；無普遍保證或應尊重能力／意願／安全任一1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q06"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g6s2-english-12"
+          ],
+          "prompt": "（1）指出作品的一項具體修正，寫出修改前及修改後的詞。（2分）（2）用一個完整英文句說明現在能做到什麼，保留「同兩句」及「用詞表」。（3分）（3）提出一個可觀察的新句練習，寫做什麼以及如何核對。（2分）（4）沒有口說紀錄，應記已通過、未通過，還是尚未觀察？（1分）",
+          "stimulus": "虛構角色Pax，兩次都能看write→wrote詞表，沒有成人代改；第二次重做同兩題。\n第一次：Pax write a note yesterday. / Did Pax wrote a note yesterday?\n第二次：Pax wrote a note yesterday. / Did Pax write a note yesterday?\n沒有新題與口說紀錄。\n詞庫：the same two sentences同兩句；word list詞表；correct修正。",
+          "responseLines": 9,
+          "answer": {
+            "value": "（1）肯定句write→wrote，或問句wrote→write。（2）I can correct the same two sentences with a word list.／Pax can...。（3）例如做兩個新write／wrote句，先圈did，再用詞表和句型核對；其他具體新句任務與可用檢查方法也可。（4）尚未觀察。",
+            "explanation": "同題修正可記成成果，但不是所有新題或口語已通過。下一步需要有可觀察行動與核對方法。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "（1）任一相合前後詞對，各詞1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "（2）同兩句改正意思1分；使用詞表1分；完整英文句1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "（3）新句任務及可觀察動作1分；可執行核對方式1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "（4）尚未觀察1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q07"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "instructions": "依題目給定材料作答，別把未提及當成沒有；答案可在空白紙續寫並標題號。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s2-english-01",
+            "g6s2-english-03"
+          ],
+          "prompt": "前半回顧：（1）代Sol用完整英文短答回答Were you at home at ten yesterday?（2分）（2）用一個完整英文句補Sol當時真正地點，保留昨天十點。（3分）",
+          "stimulus": "Sol的虛構卡：昨天十點在公園，不在家。",
+          "responseLines": 5,
+          "answer": {
+            "value": "No, I wasn’t. I was at the park at ten yesterday.",
+            "explanation": "問you時當事人用I；was對應第一人稱。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "否定意思1分；I wasn’t／I was not相合完整短答1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "公園1分；昨天十點1分；完整句且I was1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q08"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s2-english-02",
+            "g6s2-english-06"
+          ],
+          "prompt": "前半回顧：（1）依卡寫一個完整英文句，說Mara昨晚吃了什麼。（3分）（2）把她昨晚沒看影片寫成完整英文句。（2分）",
+          "stimulus": "Mara last night：ate rice；did not watch a film。Mara以she代稱。",
+          "responseLines": 5,
+          "answer": {
+            "value": "Mara ate rice last night. She did not watch a film last night.",
+            "explanation": "ate是eat過去式，否定用did not watch。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "Mara／she1分；吃米飯1分；完整句保留last night及ate1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "昨晚沒看影片意思1分；完整句且did not watch／didn’t watch1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q09"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s2-english-04"
+          ],
+          "prompt": "前半回顧：（1）按事件發生排序A–C。（3分）（2）寫一個完整英文句，使用before或after表示「寫在分享之前」。（2分）",
+          "stimulus": "Yesterday, the group read a story before writing a note. They shared the note after writing it.\nA shared the note；B read a story；C wrote the note。",
+          "responseLines": 5,
+          "answer": {
+            "value": "B→C→A。They wrote the note before they shared it.／They shared the note after they wrote it.",
+            "explanation": "讀在寫前，寫在分享前，三步順序唯一。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "排序BCA各位置1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "寫在分享前的意思1分；before／after方向正確且完整英文句1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q10"
+        },
+        {
+          "kind": "short",
+          "points": 5,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g6s2-english-05",
+            "g6s2-english-06"
+          ],
+          "prompt": "前半回顧：（1）寫出raft的混合子音字母組及在字首或字尾。（2分）（2）填正確動詞：Yesterday, Bo ___ writing. (stop)（2分）（3）這兩個紙面答案能否直接證明已正確發音？（1分）",
+          "stimulus": "raft木筏；stop停止。沒有聲音紀錄。",
+          "responseLines": 5,
+          "answer": {
+            "value": "ft、字尾；stopped；不能。",
+            "explanation": "字形與拼法可以核對，實際發音仍需真人觀察。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "ft1分；字尾1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "stopped正確拼字2分。"
+              },
+              {
+                "points": 1,
+                "criterion": "不能1分。"
+              }
+            ]
+          },
+          "id": "g6s2-english-final-a-q11"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館已封存課文｜過去所在的地點",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-01.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜昨天及昨晚的活動",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-02.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜過去問答與肯否定回應",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-03.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜活動經驗的前後順序",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-04.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜混合子音的辨識拼讀",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-05.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜常見過去式詞形辨認",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-06.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜短句書寫與語意連貫",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-07.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜短文的因果與細節",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-08.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜多項訊息的比較整合",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-09.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜文化故事與生活經驗",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-10.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜簡易故事的角色演出",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-11.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    },
+    {
+      "title": "本館已封存課文｜個人成長與學習分享",
+      "url": "https://bstzeng.github.io/elementary/lessons/g6s2-english-12.html",
+      "note": "內容核對限PR57公開提交d912df1a25f6e6414c631d640af696a2309f2d1e恢復的同號課文JSON及其既有取證註記；試題資料與文句重新編寫。未另取外站、未驗聽、未認證學生表現。"
+    }
+  ]
+}
