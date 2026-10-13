@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "id": "g4s2-mathematics-midterm-b",
+  "grade": 4,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "midterm",
+  "variant": "B",
+  "mode": "written",
+  "title": "小四下學期數學・期中B卷",
+  "duration": "紙筆建議45–55分鐘；操作另約15–25分鐘，可分段延長，未經試測。",
+  "instructions": [
+    "各題資料獨立，依題目寫算式、作圖或說明。",
+    "可口述或指示成人代筆；數學決定由你作。",
+    "紙筆70分、觀察操作30分。操作尚未完成保留待觀察。"
+  ],
+  "teacherNotes": [
+    "本館跨版本參考主題，非全國統一學期順序；先核對學校已教範圍。原創A/B/C改變推理任務，未經試測或統計等值。",
+    "每條規準獨立給分；明列子分逐项給。單條未拆子分者符合全給，不符合0。接受等值算式、任何合法順序、等量換位、圖解及口述；不要求未問的特定表示、約分或算法。答案舉例不排除其他有效解。",
+    "可中性朗讀、放大或依學生決定代筆。不以字體、速度、精細動作評數學。前步算錯不連扣後步一致方法分；指定正確數值分仍按標準值。題幹已明示單位時可省重複字樣，但所求量須可辨識。",
+    "乘數與除數最多三位；異分母限一分母為另一倍數；小數乘整數，不考小數乘小數或除法；數線分母至5、小數一位。面積不做平方單位換算；體積用完整層記錄，不考一般三邊相乘公式。",
+    "所有資料虛構。圖面尺度不是實物公分，除明定已校準實物不從螢幕量實際長度。",
+    "保留首答作品及逐項觀察：已觀察達成／已觀察未達／未觀察。中性重讀、放大或依學生逐步指示代行可用，記支持方式；不示範答案、不暗示下一步。任何教學回饋後重試另記日期、題本與結果，不覆蓋首答、不回補原分。缺工具、未施測、拒做或無可靠觀察記未觀察，不算0；可觀察但作錯才按規準扣分。每條規準分開記錄。",
+    "未觀察不得補給或當零；分開記已觀察得分／已觀察上限與待觀察分，不將紙筆分換算100；全部完成才記總分／100。操作配分30。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、大張方格紙、直尺、圓角三角板；其他安全材料依操作題說明。"
+  ],
+  "parallelDesign": "B：錯位、雙重概數、借位與括號診斷；再等分減法；斜基線與必要條件。",
+  "sources": [
+    {
+      "title": "本館小四下數學15課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g4s2",
+      "note": "精確核對release26原始JSON與HTML；01–08期中、09–15期末主題。"
+    },
+    {
+      "title": "教育部數學課綱發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材的正式課綱引註，本次未重新擷取官方頁；學期安排為本館編輯參考。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段紙筆與製圖",
+      "points": 70,
+      "purpose": "依題目留下可核查的數學證據。"
+    },
+    {
+      "id": "operation",
+      "title": "實際操作與觀察",
+      "points": 30,
+      "purpose": "依題目留下可核查的數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段紙筆與製圖",
+      "instructions": "依各題要求完成。",
+      "items": [
+        {
+          "id": "g4s2-mathematics-midterm-b-q01",
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-01"
+          ],
+          "stimulus": "有人算705×102＝1410＋705＝2115。另有人寫63000÷300＝21000。",
+          "prompt": "修正兩題，說明第一題百位部分積代表幾份，第二題將兩個量都改用100為一份時應算什麼；以乘法驗算除法。",
+          "responseLines": 8,
+          "answer": {
+            "value": "705×102＝1410＋70500＝71910；630÷3＝210；300×210＝63000。",
+            "explanation": "不能只改一個量的單位。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "百位100份2分、70500為2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "71910。"
+              },
+              {
+                "points": 4,
+                "criterion": "630÷3＝210，改用100的兩量各1分且結果2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "300×210＝63000。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-midterm-b-q02",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-02"
+          ],
+          "stimulus": "乙把28450先取到百位得28500，再取到千位得29000，說這就是原數直接取千位。",
+          "prompt": "判斷並修正，說明直接取千位看哪一位；將9995直接四捨五入到十位。另用指定估式400×50估397×49，寫約數並判斷能否作精確付款數，並說理由。",
+          "responseLines": 8,
+          "answer": {
+            "value": "直接28000，看百位4；9995≈10000；397×49≈20000，不可作精確付款數。",
+            "explanation": "連續四捨五入會跨越中點，概數失去細節。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "判錯1分、28000為2分、百位4為1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "10000。"
+              },
+              {
+                "points": 2,
+                "criterion": "≈20000。"
+              },
+              {
+                "points": 2,
+                "criterion": "不可1分、估量不是精確數的理由1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-midterm-b-q03",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-03"
+          ],
+          "stimulus": "小文說2又1/6－5/6＝2又2/6，因為先借一條成7/6再減。",
+          "prompt": "修正差並解釋整數部分錯在哪裡；再算5/8＋7/8，說為何分母仍是8。",
+          "responseLines": 8,
+          "answer": {
+            "value": "1又2/6；借出的1條不能仍留在整數2裡；12/8或1又4/8，每份仍八分之一。",
+            "explanation": "同分母是同單位計份。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "差1又2/6或等值。"
+              },
+              {
+                "points": 2,
+                "criterion": "借出一整條後整數2變1。"
+              },
+              {
+                "points": 4,
+                "criterion": "12/8或等值。"
+              },
+              {
+                "points": 2,
+                "criterion": "每份單位不變，不把分母相加。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-midterm-b-q05",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-05"
+          ],
+          "stimulus": "每段0.07公尺取8段。小成寫0.07×8＝5.6公尺。",
+          "prompt": "用百分之一說明錯處並修正；再算1.36×12，寫代表2份及10份的兩列部分積，回答合長。",
+          "responseLines": 8,
+          "answer": {
+            "value": "56個百分之一是0.56公尺，不是5.6；2.72＋13.60＝16.32公尺。",
+            "explanation": "兩列小數點按相同單位對齊。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "56個百分之一2分、0.56公尺2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "5.6誤把百分之一當十分之一。"
+              },
+              {
+                "points": 4,
+                "criterion": "2份2.72及10份13.60各2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "16.32公尺。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-midterm-b-q06",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-06"
+          ],
+          "stimulus": "一個算式為72÷9×4。小希把它改成72÷（9×4）。",
+          "prompt": "計算兩式，判斷是否等值並說改動了什麼運算角色；另算625＋88－125，寫計算過程（原順序或等值調整均可）。",
+          "responseLines": 8,
+          "answer": {
+            "value": "32與2，不等值，把乘4變成再除4；588。",
+            "explanation": "可以簡化，但每數的加減乘除角色須保持。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "32與2各2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "不等值1分、乘4變除4為2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "588為2分、合法過程1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-midterm-b-q08",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-08"
+          ],
+          "stimulus": "長方形周長42公分，長13公分。正方形邊长8公分。",
+          "prompt": "求長方形寬，列式核查一圈；算正方形周長。有人因兩圖都有8公分的邊就說周長相同，判斷並用數據說明。",
+          "responseLines": 8,
+          "answer": {
+            "value": "寬8公分；（13＋8）×2＝42；正方形32公分；不相同，差10公分。",
+            "explanation": "周長須看全部四邊。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "42÷2－13＝8或等效式與寬8。"
+              },
+              {
+                "points": 2,
+                "criterion": "核查42。"
+              },
+              {
+                "points": 3,
+                "criterion": "8×4＝32公分。"
+              },
+              {
+                "points": 3,
+                "criterion": "不同1分、42與32數據比較2分；不強制算差。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "operation",
+      "title": "實際操作與觀察",
+      "instructions": "操作需真實觀察，不能以紙筆答案代替。",
+      "items": [
+        {
+          "id": "g4s2-mathematics-midterm-b-q04",
+          "kind": "performance",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-04"
+          ],
+          "stimulus": "兩條同長大紙帶都已三等分。第一條要標2/3。",
+          "prompt": "在第二條把每個三分之一再分2等份，標出同長部分，對齊核對；寫等值分數。再於第二條取掉1/6，求剩下的量並解釋取掉幾個小份。",
+          "responseLines": 8,
+          "answer": {
+            "value": "2/3＝4/6，取掉1份六分之一剩3/6。",
+            "explanation": "四個小份代表原兩個大份。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "每原格再二等分，成六等份。"
+              },
+              {
+                "points": 3,
+                "criterion": "四小份與原兩大份實際對齊同長。"
+              },
+              {
+                "points": 2,
+                "criterion": "2/3＝4/6。"
+              },
+              {
+                "points": 2,
+                "criterion": "3/6或等值。"
+              },
+              {
+                "points": 2,
+                "criterion": "取掉1個六分之一，4份剩3份。"
+              }
+            ]
+          },
+          "teacher": "備同長至少24公分完整三等分紙帶兩張；成人先驗證格等長。不剪片；按學生指示劃記可替代手畫，實際對齊作品且記決策。保留首答作品及逐項觀察：已觀察達成／已觀察未達／未觀察。中性重讀、放大或依學生逐步指示代行可用，記支持方式；不示範答案、不暗示下一步。任何教學回饋後重試另記日期、題本與結果，不覆蓋首答、不回補原分。缺工具、未施測、拒做或無可靠觀察記未觀察，不算0；可觀察但作錯才按規準扣分。每條規準分開記錄。",
+          "observationParts": [
+            {
+              "label": "證據1",
+              "points": 3
+            },
+            {
+              "label": "證據2",
+              "points": 3
+            },
+            {
+              "label": "證據3",
+              "points": 2
+            },
+            {
+              "label": "證據4",
+              "points": 2
+            },
+            {
+              "label": "證據5",
+              "points": 2
+            }
+          ]
+        },
+        {
+          "id": "g4s2-mathematics-midterm-b-q07",
+          "kind": "performance",
+          "points": 18,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-07"
+          ],
+          "stimulus": "成人給斜直線L及線上P、Q兩點，另給方格紙。",
+          "prompt": "作過P及Q的L垂線並用工具核查兩直角、兩處垂直間距。畫長6格寬3格長方形、邊4格正方形及底5格、上邊左移1格上移2格的平行四邊形。判斷「只要四邊等長一定是正方形」，說還須檢查什麼。",
+          "responseLines": 8,
+          "answer": {
+            "value": "雙垂線平行，三圖各合指定；說法錯，還須四直角。",
+            "explanation": "斜放不改垂直關係；等邊不足以保證正方形。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "兩指定點垂線與工具對齊各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "模板核查直角2分、沿L方向兩處等間距2分。"
+              },
+              {
+                "points": 6,
+                "criterion": "三個指定閉合四邊形各2分，條件與方向正確。"
+              },
+              {
+                "points": 4,
+                "criterion": "判錯2分、缺四直角條件2分。"
+              }
+            ]
+          },
+          "teacher": "備圓角板及直尺。L與紙水平約30度，P、Q相距5公分。先核查原卡；準備每格至少1公分方格。誤差過點與格點±2毫米、直角±2度；間距沿L及平行於L的檢查線量，學生決定操作，成人可代行。保留首答作品及逐項觀察：已觀察達成／已觀察未達／未觀察。中性重讀、放大或依學生逐步指示代行可用，記支持方式；不示範答案、不暗示下一步。任何教學回饋後重試另記日期、題本與結果，不覆蓋首答、不回補原分。缺工具、未施測、拒做或無可靠觀察記未觀察，不算0；可觀察但作錯才按規準扣分。每條規準分開記錄。",
+          "observationParts": [
+            {
+              "label": "證據1",
+              "points": 4
+            },
+            {
+              "label": "證據2",
+              "points": 4
+            },
+            {
+              "label": "證據3",
+              "points": 6
+            },
+            {
+              "label": "證據4",
+              "points": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

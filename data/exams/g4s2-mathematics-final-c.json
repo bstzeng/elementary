@@ -1,0 +1,401 @@
+{
+  "schemaVersion": 1,
+  "id": "g4s2-mathematics-final-c",
+  "grade": 4,
+  "semester": 2,
+  "course": "mathematics",
+  "courseTitle": "數學",
+  "phase": "final",
+  "variant": "C",
+  "mode": "written",
+  "title": "小四下學期數學・期末C卷",
+  "duration": "紙筆建議45–55分鐘；操作另約15–25分鐘，可分段延長，未經試測。",
+  "instructions": [
+    "各題資料獨立，依題目寫算式、作圖或說明。",
+    "可口述或指示成人代筆；數學決定由你作。",
+    "紙筆86分、觀察操作14分。操作尚未完成保留待觀察。"
+  ],
+  "teacherNotes": [
+    "本館跨版本參考主題，非全國統一學期順序；先核對學校已教範圍。原創A/B/C改變推理任務，未經試測或統計等值。",
+    "每條規準獨立給分；明列子分逐项給。單條未拆子分者符合全給，不符合0。接受等值算式、任何合法順序、等量換位、圖解及口述；不要求未問的特定表示、約分或算法。答案舉例不排除其他有效解。",
+    "可中性朗讀、放大或依學生決定代筆。不以字體、速度、精細動作評數學。前步算錯不連扣後步一致方法分；指定正確數值分仍按標準值。題幹已明示單位時可省重複字樣，但所求量須可辨識。",
+    "乘數與除數最多三位；異分母限一分母為另一倍數；小數乘整數，不考小數乘小數或除法；數線分母至5、小數一位。面積不做平方單位換算；體積用完整層記錄，不考一般三邊相乘公式。",
+    "所有資料虛構。圖面尺度不是實物公分，除明定已校準實物不從螢幕量實際長度。",
+    "保留首答作品及逐項觀察：已觀察達成／已觀察未達／未觀察。中性重讀、放大或依學生逐步指示代行可用，記支持方式；不示範答案、不暗示下一步。任何教學回饋後重試另記日期、題本與結果，不覆蓋首答、不回補原分。缺工具、未施測、拒做或無可靠觀察記未觀察，不算0；可觀察但作錯才按規準扣分。每條規準分開記錄。",
+    "未觀察不得補給或當零；分開記已觀察得分／已觀察上限與待觀察分，不將紙筆分換算100；全部完成才記總分／100。操作配分14。"
+  ],
+  "materials": [
+    "鉛筆、橡皮擦、大張方格紙、直尺、圓角三角板；其他安全材料依操作題說明。"
+  ],
+  "parallelDesign": "C：逆面積、移塊改周界、跨午跨日對照、模型減量、未知規則與數量推論界限。",
+  "sources": [
+    {
+      "title": "本館小四下數學15課保存教材",
+      "url": "https://bstzeng.github.io/elementary/#g4s2",
+      "note": "精確核對release26原始JSON與HTML；01–08期中、09–15期末主題。"
+    },
+    {
+      "title": "教育部數學課綱發布頁",
+      "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=GL001788",
+      "note": "沿用保存教材的正式課綱引註，本次未重新擷取官方頁；學期安排為本館編輯參考。"
+    }
+  ],
+  "blueprint": [
+    {
+      "id": "main",
+      "title": "本階段紙筆與製圖",
+      "points": 66,
+      "purpose": "依題目留下可核查的數學證據。"
+    },
+    {
+      "id": "operation",
+      "title": "實際操作與觀察",
+      "points": 14,
+      "purpose": "依題目留下可核查的數學證據。"
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "points": 20,
+      "purpose": "依題目留下可核查的數學證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "main",
+      "title": "本階段紙筆與製圖",
+      "instructions": "依各題要求完成。",
+      "items": [
+        {
+          "id": "g4s2-mathematics-final-c-q01",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-09"
+          ],
+          "stimulus": "正方形模型面積49平方公分，邊長為正整數。另一長方形長10公分寬4公分。",
+          "prompt": "用整數試算或方格說明正方形邊長，算它周長；再算長方形面積和周長，判斷同周長能否保證同面積，引用本題數據。",
+          "responseLines": 8,
+          "answer": {
+            "value": "正方形邊7、周長28；長方形面積40、周長28；同周長不保證同面積，49≠40。",
+            "explanation": "不需平方根符號，以7×7核查。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "7公分2分、7×7＝49或方格核查2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "正方形28公分。"
+              },
+              {
+                "points": 4,
+                "criterion": "長方形40平方公分與28公分各2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "不能且引用同28不同49/40。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-final-c-q02",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-10"
+          ],
+          "stimulus": "圖C是L形：外框寬11公分、高5公分；左直條寬5公分，右下條高2公分。右上角空缺，不屬於圖形。所有角都是直角，比例每公分24圖面單位。",
+          "prompt": "把L形拆成兩個不重疊長方形，寫尺寸及總面積；沿外圈列出六段長求周長。若將右下6×2一塊完整移走，餘下左5×5圖形的面積及周長各是多少？",
+          "responseLines": 8,
+          "answer": {
+            "value": "L面積37平方公分，周長32公分；移走後25平方公分、20公分。",
+            "explanation": "移走面積12，邊界必依新圖重算。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "两有效矩形尺寸與37平方公分各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "六邊5、3、6、2、11、5各在外圈列入2分、周長32為2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "移後面積25及周長20各2分。"
+              }
+            ]
+          },
+          "diagram": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 300\" role=\"img\" aria-label=\"圖C是L形：外框寬11公分、高5公分；左直條寬5公分，右下條高2公分。右上角空缺，不屬於圖形。所有角都是直角，比例每公分24圖面單位。\"><title>圖C是L形：外框寬11公分、高5公分；左直條寬5公分，右下條高2公分。右上角空缺，不屬於圖形。所有角都是直角，比例每公分24圖面單位。</title><polygon points=\"80,55 200,55 200,127 344,127 344,175 80,175\" fill=\"#e2eee8\" stroke=\"#193e35\" stroke-width=\"2\"/><text x=\"140.0\" y=\"43\" text-anchor=\"middle\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">5公分</text><text x=\"212.0\" y=\"205\" text-anchor=\"middle\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">11公分</text><text x=\"37\" y=\"115.0\" text-anchor=\"middle\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">5公分</text><text x=\"372\" y=\"151.0\" text-anchor=\"middle\" font-family=\"Noto Sans CJK TC,sans-serif\" font-size=\"17\">2公分</text></svg>"
+        },
+        {
+          "id": "g4s2-mathematics-final-c-q03",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-11"
+          ],
+          "stimulus": "排程甲為同日11:50到14:25。排程乙從23:40起經過2小時35分鐘。",
+          "prompt": "算甲時長並保留過程；求乙結束時刻且標日期；把3小時25分鐘換成分鐘，再求比它少48分鐘的時長，用小時與分鐘回答。",
+          "responseLines": 8,
+          "answer": {
+            "value": "甲2時35分；乙次日02:15；205分，少48後157分＝2時37分。",
+            "explanation": "同長時間跨午或跨日結束不同；60進位。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "甲155分鐘或2時35分2分、過程2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "次日02:15，時分2分、次日2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "205分鐘2分、2時37分2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-final-c-q05",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-13"
+          ],
+          "stimulus": "數表向右一格加1、向下一格加10，起點63。另一圖案前3幅分別4、6、8格，但沒有說規則。",
+          "prompt": "求63左上鄰格，寫兩步路；用配對解釋11－5的奇偶。為圖案提出一個符合4、6、8的延續規則和第4項，再判斷未給規則時能否斷定第4項唯一。",
+          "responseLines": 8,
+          "answer": {
+            "value": "左上52（上到53再左52）；6偶數，取走兩對及一落單後全成對；例每次加2，第四10；不能唯一。",
+            "explanation": "有限開頭不足固定規則。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "52為1分、上減10左減1的兩步2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "6偶數1分、拿走5的配對理由2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "符合全部已給項的規則2分、依規則第4項1分、不唯一1分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-final-c-q06",
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-14"
+          ],
+          "stimulus": "虛構展示台完整記錄：紅盒15個、藍盒5個、白盒10個、綠盒0個，各盒只計一次。",
+          "prompt": "選每格5個，由0起製作長條圖，含數量標題、類別、單位、等距刻度及等寬同底線的條；可自行改類別順序。算總數、紅比藍多多少；有人說紅盒最多所以大家最愛紅色，資料是否支持？說理由。",
+          "responseLines": 8,
+          "answer": {
+            "value": "高度3、1、2、0格；共30個，差10；不支持，只有盒數沒有喜好調查。",
+            "explanation": "類別可換序但名稱與高度一起換。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "數量標題1分、四類及個單位1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "0起等距每格5為1分、等寬同底線1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "四類各高度1分，0無正高。"
+              },
+              {
+                "points": 4,
+                "criterion": "總30及差10各1分、不支持且無喜好資料2分。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-final-c-q07",
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-15"
+          ],
+          "stimulus": "分數線與小數線分別作圖。",
+          "prompt": "畫0到2每1分5等格的數線，標6/5，再向左走2格，標終點並列分數減法。另畫0到1十分位線，標0.4與0.8，比較大小並說右邊代表什麼。",
+          "responseLines": 8,
+          "answer": {
+            "value": "6/5左2格到4/5，6/5－2/5＝4/5；0.4＜0.8，右方數較大。",
+            "explanation": "一單位尺度不變，方向與運算連結。",
+            "scoring": [
+              {
+                "points": 2,
+                "criterion": "分數線等距、0/1/2及6/5位置各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "終點4/5與正確減法式各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "小數線十等分及兩點正確各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "0.4＜0.8為1分、右方較大1分。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "operation",
+      "title": "實際操作與觀察",
+      "instructions": "操作需真實觀察，不能以紙筆答案代替。",
+      "items": [
+        {
+          "id": "g4s2-mathematics-final-c-q04",
+          "kind": "performance",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-mathematics-12"
+          ],
+          "stimulus": "先觀察真實單位盒，再操作14個同大大型模型塊。",
+          "prompt": "指認真單位三向邊長及體積；把大塊排下7上7且上塊有支撐，記完整層數，再從上層拿走3塊放旁邊，記留下各層與總數。說留下體積比原來少幾個模型單位。若另一組用更大的塊，只知有10塊，能否和留下模型比較實際體積？說需要什麼。",
+          "responseLines": 8,
+          "answer": {
+            "value": "真塊三向1公分、1立方公分；7＋7＝14，留下7＋4＝11，少3單位；不能只比塊數，須塊的實際大小或換同單位。",
+            "explanation": "單位大小未定不能只比10和11。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "真實三向1公分2分、1立方公分2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "原兩層7/7完整記錄2分、實移3後7/4與總11為2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "少3模型單位，與搬走3同大塊相符。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能只比數目2分、需各塊大小或同單位度量2分。"
+              }
+            ]
+          },
+          "teacher": "只由成人展示已以實尺確認每邊1公分、固定在透明封閉盒內的正方體；不取出、不接觸小件。學生指出三個不同方向的邊並讀每邊1公分，說體積單位。若沒有真實單位展示，該4分記未觀察，可繼續大型模型任務。大型輕質完整安全方塊每塊只代表1個單位，絕非實際1立方公分；桌面最多兩層，成人監督，不站坐、投擲或堆高。學生可逐步指示成人搬移；記支持方式。每次變形保留完整層記錄，不憑外觀推測。備14大塊；最多兩層，下7上7逐一支撐，移出的3塊放桌面另一區不再算留下模型。保留首答作品及逐項觀察：已觀察達成／已觀察未達／未觀察。中性重讀、放大或依學生逐步指示代行可用，記支持方式；不示範答案、不暗示下一步。任何教學回饋後重試另記日期、題本與結果，不覆蓋首答、不回補原分。缺工具、未施測、拒做或無可靠觀察記未觀察，不算0；可觀察但作錯才按規準扣分。每條規準分開記錄。",
+          "observationParts": [
+            {
+              "label": "證據1",
+              "points": 4
+            },
+            {
+              "label": "證據2",
+              "points": 4
+            },
+            {
+              "label": "證據3",
+              "points": 2
+            },
+            {
+              "label": "證據4",
+              "points": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "前半核心回顧",
+      "instructions": "依各題要求完成。",
+      "items": [
+        {
+          "id": "g4s2-mathematics-final-c-q08",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g4s2-mathematics-02"
+          ],
+          "stimulus": "原數67451張卡。另有451張，每盒最多20張全部裝好。",
+          "prompt": "將原數分別直接四捨五入至百位與千位，寫≈；求另一批最少盒數，用少一盒容量核查。",
+          "responseLines": 8,
+          "answer": {
+            "value": "67451≈67500（百），≈67000（千）；23盒，22盒440不足451。",
+            "explanation": "概數指定位置與容量進入目的不同。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "67500、67000及約號各2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "23盒。"
+              },
+              {
+                "points": 3,
+                "criterion": "22×20＝440且不足451。"
+              }
+            ]
+          }
+        },
+        {
+          "id": "g4s2-mathematics-final-c-q09",
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g4s2-mathematics-06"
+          ],
+          "stimulus": "每盒16張卡，有9盒，平均分6組。",
+          "prompt": "寫符合故事的兩步算式並求每組張數；再寫一種等值算法（可沿原順序），說明16、9、6在你的算式中各保留什麼乘除角色。",
+          "responseLines": 8,
+          "answer": {
+            "value": "16×9＝144；144÷6＝24張；16×9÷6＝144÷6＝24，可沿原順序。",
+            "explanation": "先求總量再分組；不為簡化而強迫非整數中間步。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "16×9＝144及144÷6＝24各2分。"
+              },
+              {
+                "points": 3,
+                "criterion": "有效等值算法及24張，原順序可。"
+              },
+              {
+                "points": 3,
+                "criterion": "16乘9再除6，每數角色相同的說明。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

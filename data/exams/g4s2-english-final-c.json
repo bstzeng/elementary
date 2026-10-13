@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "id": "g4s2-english-final-c",
+  "grade": 4,
+  "semester": 2,
+  "course": "english",
+  "courseTitle": "英語文",
+  "phase": "final",
+  "variant": "C",
+  "mode": "mixed-language",
+  "title": "小四下學期英語文・期末C卷",
+  "duration": "紙面建議30–40分鐘；口語與聽辨各5–10分鐘，可分日、休息及延長。時間為設計估計，未經試測。",
+  "instructions": [
+    "先和老師完成第1、2題，老師說可以才看紙面英文。",
+    "角色全是虛構，不用說自己的住家、物品或生活習慣。",
+    "可休息或告訴老師尚未學過；聽說未做會分開記錄。"
+  ],
+  "materials": [
+    "當前題的指定大紙卡、遮紙、鉛筆、空白紙。",
+    "教師逐試稿與答案分開保管；無需外找圖片或音檔。"
+  ],
+  "teacherNotes": [
+    "本卷依本館11課實際教材：期中01–06；期末07–11恰80分，01–06回顧恰20分。不是全國統一學期範圍。A/B/C是不同資訊任務，未經試測或統計等值，不宜據此排名。",
+    "完整施測100分；只報已觀察得分／已觀察滿分及未觀察項目，不補0、不比例換算100。未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+    "聽說前由具英語教學能力的施測者私下核對本卷完整詞句及讀稿，記：已教□、可靠模型來源與頁次＿＿、核對日期＿＿、施測者＿＿、能自然清楚示範□。本卷未提供音檔，作者未驗聽；文字核對不能認證發音。無適合示範者則延期聽說，只報紙面結果。不用中文諧音、合成聲音或字母名稱拼念冒充詞音。",
+    "先收起全部後題、教師卷、答案及完整英語句卡。固定先第1題口語，逐回合記錄；再第2題聽辨，逐試記錄；兩題全部完成才給回饋並發紙面題。教師私下備稿不等於向學生預教本次答案。若本次先曝光目標讀音、完整答句、翻譯或答案手勢，事後遮住不恢復獨立性，受影響分項記受提示／未觀察。既有正常教學是先備條件。",
+    "第1題只出示教師稿指定的中文情境或單獨名字；不先念任何英語問答。中文任務可原句中性重讀一次並記次數。第2題只給指定中文選卡，不給逐字稿、英語選項或答案圖。教師面部自然可見，不遮臉或蒙眼，不能稱完全無視覺線索。每試原句可自然重讀一次並記次數；不逐詞翻譯、不特別加重正答線索、不換選卡位置。更多支持另記支持理解，不能冒稱原獨立證據。",
+    "記錄每個觀察分項：實際反應＿＿；原句重複0／1次＿＿；支持方式＿＿；已觀察／未觀察＿＿；得分及滿分＿＿。重複一次是中性支持狀態，不自動扣分。指卡或AAC可作聽懂選擇；口語若跟讀、成人代說、AAC發聲，另記溝通理解，不認證學生自己的獨立語音。",
+    "接受可理解的正常英語變體與正確等義框架：It is／It’s、I am／I’m、do not／don’t等。口語評當次可理解的意思及完整句，不評固定口音、音高曲線、速度、音量、眼神或公開演出膽量。單憑文字不能判聽辨、語調、發音或筆順。",
+    "紙面中文指示可讀，英文刺激原則上由學生認讀；成人代讀英文須另記支持閱讀理解。紙面可指代號、AAC、口述或忠實代筆，字詞排列可用大字卡；支援方式不隱藏。抄寫可保留模型；代筆或排字不是獨立手寫。除題目明列字母、空格、大小寫及句號外，不評字跡與手寫筆順。",
+    "單選矛盾多答只將該選擇子分記0；清楚刪改按最後答案，同義多答不扣。多選各題明列配分及多選扣分，最低0，不牽連其他子題。中文理由、指證據或等義表達同分。未要求的理由、額外事實及指定答案措辭不得當得分條件。",
+    "所有角色與關係都是虛構；不問真實家人、健康、能力、節慶參與或宗教，不錄音錄影、不上傳。只用大紙卡、鉛筆和遮紙，不使用活體、刀剪、飲食、駕駛或水上活動。可以休息、拒絕或用熟悉方式求助。",
+    "教師私下核對完整模型清單，不先給學生：口語目標：The blue chair is free. / This red chair is for Mia. / Can I use the blue chair?；聽辨完整短語：two books, three boxes, one toy, two children。私下核對10完整許可與保留模型，08數量及每個單複數詞的自然完整模型；不把文字當已驗聽音訊。"
+  ],
+  "parallelDesign": "三卷各100分：口語12、聽辨12、後半紙面56、前半回顧20。A完整序列＋資料分類；B修稿＋缺幕＋四格來源；C反事實位置＋規則修復＋類別更新。非統計等值。",
+  "blueprint": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "points": 12,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "points": 56,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "points": 20,
+      "purpose": "分開呈現口語、聽辨、書面與回顧證據。"
+    }
+  ],
+  "sections": [
+    {
+      "id": "oral",
+      "title": "一、口語小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "oral",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-english-10"
+          ],
+          "prompt": "每回合看一張新的中文座位卡，用英文說出該回合指定資訊。",
+          "stimulus": "各回合是互不相連的新場景。只能看當前中文卡，不看後題。",
+          "responseLines": 4,
+          "answer": {
+            "value": "The blue chair is free.；This red chair is for Mia.；Can I use the blue chair?",
+            "explanation": "必須根據當前顏色、保留人或請求更新；不搬椅子。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "回合1：blue chair2分；free完整狀態句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "回合2：red1分、Mia1分；完整保留說明句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "回合3：blue chair2分；自然完整許可問句2分。"
+              }
+            ]
+          },
+          "teacher": "先給全部中文指示的總規則但不曝光未來卡。回合1只出示並讀中文卡：新場景：紅椅為Ren保留，藍椅可用。用英文只報告可用座位的顏色及狀態。 記錄後收起。回合2只出示並讀中文卡：另張新卡：紅椅為Mia保留，藍椅可用。用英文向詢問者說哪張為誰保留，包含顏色。 記錄後收起。回合3只出示並讀中文卡：再換場景：你想使用藍椅，尚未獲准。用英文詢問能否使用，明說顏色。 記錄後收起。不作英文回答、示範、翻譯或正誤回饋，直至第2題全完成。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "當前座位一",
+              "points": 4
+            },
+            {
+              "label": "當前座位二",
+              "points": 4
+            },
+            {
+              "label": "當前座位三",
+              "points": 4
+            }
+          ],
+          "id": "g4s2-english-final-c-q01"
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "二、聽辨小回合",
+      "instructions": "只看當前材料，等老師說可以才看後題。",
+      "items": [
+        {
+          "kind": "listening",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-english-08"
+          ],
+          "prompt": "每試聽完整英文數量短語，從當前兩張中文卡選一張。",
+          "stimulus": "只出示當試中文卡；沒有英文字詞、數量圖或後試答案。",
+          "responseLines": 4,
+          "answer": {
+            "value": "1：乙；2：乙；3：甲；4：乙",
+            "explanation": "整個短語的數量與名詞要一起聽；不冒稱能由指卡證明複數發音。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "第1試選乙3分，其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第2試選乙3分，其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第3試選甲3分，其他或矛盾多選0分。"
+              },
+              {
+                "points": 3,
+                "criterion": "第4試選乙3分，其他或矛盾多選0分。"
+              }
+            ]
+          },
+          "teacher": "口語全部完成才開始；中文讀當試選卡，不能翻成英文。第1試選卡：甲一本書；乙兩本書。自然讀「two books」，記錄後收卡。第2試選卡：甲兩個盒子；乙三個盒子。自然讀「three boxes」，記錄後收卡。第3試選卡：甲一個玩具；乙兩個玩具。自然讀「one toy」，記錄後收卡。第4試選卡：甲一個孩子；乙兩個孩子。自然讀「two children」，記錄後收卡。原短語可中性重讀一次並記；不逐詞放慢成答案提示，四試都記錄後才回饋。 未教、無可靠完整模型、無合適機會、未回應、拒絕、受答案提示或改用不同能力，該分項記未觀察，不補0。具備條件且已實際嘗試才按規準評分。",
+          "observationParts": [
+            {
+              "label": "數量聽辨一",
+              "points": 3
+            },
+            {
+              "label": "數量聽辨二",
+              "points": 3
+            },
+            {
+              "label": "數量聽辨三",
+              "points": 3
+            },
+            {
+              "label": "數量聽辨四",
+              "points": 3
+            }
+          ],
+          "id": "g4s2-english-final-c-q02"
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "title": "三、閱讀與文字應用",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-english-07"
+          ],
+          "prompt": "依原稿抄兩句，不改寫。保留字詞、空格、大小寫、所有格撇號與句點／問號。",
+          "stimulus": "This is Ren’s book. Is it yours?",
+          "responseLines": 4,
+          "answer": {
+            "value": "This is Ren’s book. Is it yours?",
+            "explanation": "依本題指定卡及資料日；正確等義回應同分，抄寫題另依原稿一致性評分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "兩句字詞及次序各2分；每句漏換一詞扣1分，最低0。"
+              },
+              {
+                "points": 2,
+                "criterion": "字間空格2分；連寫或字內拆開一處扣1分，最低0。"
+              },
+              {
+                "points": 2,
+                "criterion": "This、Ren、Is大小寫全對2分；錯一處扣1分，最低0。"
+              },
+              {
+                "points": 2,
+                "criterion": "Ren撇號及句末句點／問號全對2分；撇號類與句末類少一類得1分，皆少0。直曲撇號同分。"
+              }
+            ]
+          },
+          "id": "g4s2-english-final-c-q03"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-english-08"
+          ],
+          "prompt": "①改正三個英文短語，保留數量及種類。②把This is a book.改成兩本書的完整英文句。③兩名嬰兒可以寫two babys嗎？寫正確短語。",
+          "stimulus": "錯稿：two boxs；two childrens；three toies。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①two boxes；two children；three toys；②These are two books.；③two babies。",
+            "explanation": "依本題指定卡及資料日；正確等義回應同分，抄寫題另依原稿一致性評分。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "三短語各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "These are1分、two1分、books1分、完整句1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "two babies2分；不要求額外理由。"
+              }
+            ]
+          },
+          "id": "g4s2-english-final-c-q04"
+        },
+        {
+          "kind": "short",
+          "points": 14,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-english-09"
+          ],
+          "prompt": "①依這次事件排三卡。②乙句的it指什麼？③丙若改成It’s under the chair.，哪項位置資料不合？④現在只保留甲、丙，能確定Kai已拿到書嗎？說理由。",
+          "stimulus": "甲：Kai空手首次問Where is the red book?。乙：Kai已拿到紅書說Here it is! Thank you.。丙：Jo指桌上紅書說It’s on the table.。不是回憶敘事。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①甲→丙→乙；②紅書；③應桌上，不是椅下；④不能，缺乙取得書的紀錄。",
+            "explanation": "依本題指定卡及資料日；正確等義回應同分，抄寫題另依原稿一致性評分。",
+            "scoring": [
+              {
+                "points": 6,
+                "criterion": "完整次序6分；僅前兩或僅後兩相對正確3分，兩者皆正確即6分。"
+              },
+              {
+                "points": 2,
+                "criterion": "紅書2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "指出桌上與椅下衝突2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能2分；缺取得紀錄2分。"
+              }
+            ]
+          },
+          "id": "g4s2-english-final-c-q05"
+        },
+        {
+          "kind": "short",
+          "points": 8,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-english-10"
+          ],
+          "prompt": "①here現在指哪張？②句子Sorry, this chair is for Ren.只證明什麼？③能據此說引導員討厭Kai嗎？說理由。④Kai要請對方再說一次，寫已教完整英文請求。",
+          "stimulus": "Kai指B藍椅說Can I sit here?。引導員回答Sorry, this chair is for Ren.。A紅椅free。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①B藍椅；②本場為Ren保留；③不能，沒有情緒或態度資料；④Could you say that again, please?",
+            "explanation": "依本題指定卡及資料日；正確等義回應同分，抄寫題另依原稿一致性評分。",
+            "scoring": [
+              {
+                "points": 1,
+                "criterion": "B藍椅1分。"
+              },
+              {
+                "points": 1,
+                "criterion": "本場為Ren保留1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "不能2分；沒有討厭的資料2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "自然完整重說請求2分；Can you say that again, please?同分。"
+              }
+            ]
+          },
+          "id": "g4s2-english-final-c-q06"
+        },
+        {
+          "kind": "short",
+          "points": 12,
+          "difficulty": "apply",
+          "scope": "main",
+          "topicIds": [
+            "g4s2-english-11"
+          ],
+          "prompt": "①先比較臺北一般圖書與多倫多Book類，各填日數。②若臺北換成熱門館藏，寫新英文借期，並指出比較類別改了什麼。③虛構故事Nia borrows a book. Nia returns the book.中，borrow與return各什麼意思？④這能證明所有人都有相同閱讀習慣嗎？",
+          "stimulus": "資料卡只摘錄教材2026-10-05的館方核對結果，不作現在實際借閱承諾：臺北市立圖書館一般外借圖書30日（thirty days），熱門館藏14日（fourteen days）；Toronto Public Library的Book類21日（twenty-one days）。不同類別不能混用；不代表整國或所有館藏。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①30、21；②fourteen days，一般圖書改熱門館藏；③借入、歸還；④不能。",
+            "explanation": "依本題指定卡及資料日；正確等義回應同分，抄寫題另依原稿一致性評分。",
+            "scoring": [
+              {
+                "points": 4,
+                "criterion": "兩日數各2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "fourteen days2分；指出一般改熱門2分。"
+              },
+              {
+                "points": 2,
+                "criterion": "借入、歸還各1分。"
+              },
+              {
+                "points": 2,
+                "criterion": "不能2分；不要求額外理由。"
+              }
+            ]
+          },
+          "id": "g4s2-english-final-c-q07"
+        }
+      ]
+    },
+    {
+      "id": "review",
+      "title": "四、前半核心回顧",
+      "instructions": "每題資料各自獨立。依題目選、指、說明或寫下；英文短文為本卷原創。",
+      "items": [
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g4s2-english-01",
+            "g4s2-english-02",
+            "g4s2-english-03"
+          ],
+          "prompt": "①現在7:00，遊戲7:30開始。只用完整英文說現在時間。②書在廚房桌上，用完整英文句說房間及位置，可分兩句。③Nia和Kai正在寫字，用完整英文說明。",
+          "stimulus": "只用新資料，不沿用本卷前面角色安排。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①It’s seven o’clock.；②It’s in the kitchen, on the table.；③They are writing.",
+            "explanation": "依本題指定卡及資料日；正確等義回應同分，抄寫題另依原稿一致性評分。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "seven o’clock2分、完整句1分。"
+              },
+              {
+                "points": 4,
+                "criterion": "kitchen1分、on the table2分、完整句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "writing1分；複數are完整句2分。"
+              }
+            ]
+          },
+          "id": "g4s2-english-final-c-q08"
+        },
+        {
+          "kind": "short",
+          "points": 10,
+          "difficulty": "apply",
+          "scope": "review",
+          "topicIds": [
+            "g4s2-english-04",
+            "g4s2-english-05",
+            "g4s2-english-06"
+          ],
+          "prompt": "①帽子屬Ren。Ren自述「這是我的帽子」，寫一種完整英文。②紙卡白貓有短耳朵，把It is short ears.改成「牠有短耳朵」的自然完整英文。③「便條」寫成not，修正並指出字母變動。",
+          "stimulus": "三題都是獨立虛構卡。",
+          "responseLines": 4,
+          "answer": {
+            "value": "①It’s my cap.／It’s mine.；②It has (got) short ears.；③note，字尾加e。",
+            "explanation": "依本題指定卡及資料日；正確等義回應同分，抄寫題另依原稿一致性評分。",
+            "scoring": [
+              {
+                "points": 3,
+                "criterion": "my cap／mine2分；完整句1分。"
+              },
+              {
+                "points": 3,
+                "criterion": "short ears1分；has／has got完整句2分。"
+              },
+              {
+                "points": 4,
+                "criterion": "note2分；字尾加e2分。"
+              }
+            ]
+          },
+          "id": "g4s2-english-final-c-q09"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "本館封存教材｜時間的詢問與回答",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-01.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜房間名稱與所在位置",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-02.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜正在進行的活動",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-03.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜衣物和物品的所有者",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-04.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜食物與動物的描述",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-05.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜長短母音的對照",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-06.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜簡易句子的抄寫",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-07.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜單複數詞形的辨認",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-08.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜看圖理解對話順序",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-09.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜短句朗讀與情境演出",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-10.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    },
+    {
+      "title": "本館封存教材｜生活文化的異同分享",
+      "url": "https://bstzeng.github.io/elementary/lessons/g4s2-english-11.html",
+      "note": "依release26封存完整JSON與HTML核對書面範圍；原創題目，未新驗聽。底層來源的既有取證限制保留。"
+    }
+  ]
+}
